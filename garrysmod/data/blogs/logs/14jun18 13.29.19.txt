@@ -1,0 +1,32 @@
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Thu Jun 14 13:29:19 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Thu Jun 14 13:29:21 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:29:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:29:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:29:50 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:00 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:10 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:20 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:30:39 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (049-2) % changed job from Visitor
+[Thu Jun 14 13:30:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:30:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:30:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:31:00 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:31:00 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:31:10 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:31:10 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:31:20 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:31:20 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:31:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:31:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 13:31:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 13:31:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"

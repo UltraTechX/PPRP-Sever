@@ -1,0 +1,1 @@
+[{"Data":{"Model":"models/zerochain/zmlab/zmlab_transportcrate_full.mdl","MethAmount":1026.0},"Class":"zmlab_collectcrate"}]

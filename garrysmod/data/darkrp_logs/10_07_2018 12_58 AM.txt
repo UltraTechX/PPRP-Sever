@@ -1,0 +1,279 @@
+Sun Oct  7 00:58:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 00:58:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 00:59:13 2018	Silent Ninja (STEAM_0:0:36823576) has joined the game
+Sun Oct  7 00:59:13 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 00:59:22 2018	HellBoy9000 (STEAM_0:0:200061148) has joined the game
+Sun Oct  7 00:59:22 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 00:59:46 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 00:59:46 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 00:59:50 2018	Benedict (STEAM_0:1:177305291) has joined the game
+Sun Oct  7 00:59:50 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 00:59:59 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:00:19 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:00:43 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:01:34 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:01:48 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:01:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:02:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc who wants to be a scp
+Sun Oct  7 01:02:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc for testing
+Sun Oct  7 01:02:32 2018	xxShadowdragonXX (STEAM_0:1:444450075): // ME BITCH'
+Sun Oct  7 01:02:33 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:03:09 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:03:54 2018	xxShadowdragonXX (STEAM_0:1:444450075): get juked
+Sun Oct  7 01:04:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:04:18 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:04:35 2018	Benedict (STEAM_0:1:177305291): /job Class-D Personnel
+Sun Oct  7 01:04:58 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:06:21 2018	Benedict was killed by Entity [511][entityflame] with a entityflame
+Sun Oct  7 01:06:27 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:06:29 2018	xxShadowdragonXX (STEAM_0:1:444450075): tp him
+Sun Oct  7 01:06:33 2018	xxShadowdragonXX was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:06:34 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:06:36 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:06:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring benne
+Sun Oct  7 01:06:43 2018	xxShadowdragonXX (STEAM_0:1:444450075): // fuck back in cell
+Sun Oct  7 01:06:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring ben
+Sun Oct  7 01:06:46 2018	Benedict (STEAM_0:1:177305291): /job NTF Unit
+Sun Oct  7 01:06:50 2018	Benedict (STEAM_0:1:177305291): aw
+Sun Oct  7 01:07:09 2018	xxShadowdragonXX (STEAM_0:1:444450075): // may i be tped
+Sun Oct  7 01:07:18 2018	xxShadowdragonXX (STEAM_0:1:444450075): // pls tp 
+Sun Oct  7 01:07:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring shad
+Sun Oct  7 01:07:37 2018	Silent Ninja was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:07:38 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:07:44 2018	xxShadowdragonXX was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:07:44 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:07:50 2018	xxShadowdragonXX (STEAM_0:1:444450075): // fuck again
+Sun Oct  7 01:07:52 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:07:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring shad
+Sun Oct  7 01:08:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring shad
+Sun Oct  7 01:08:04 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:08:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring hell
+Sun Oct  7 01:08:20 2018	Benedict was killed by Silent Ninja with a eoti_raven_swep
+Sun Oct  7 01:08:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring nin
+Sun Oct  7 01:08:26 2018	xxShadowdragonXX (STEAM_0:1:444450075): fell in the coolant
+Sun Oct  7 01:08:27 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:09:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:09:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:09:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:09:43 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:10:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring shad
+Sun Oct  7 01:10:18 2018	xxShadowdragonXX (STEAM_0:1:444450075): i was gonna portal it up
+Sun Oct  7 01:11:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp ^ 1000
+Sun Oct  7 01:11:43 2018	Benedict was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 01:11:46 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:11:47 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:12:02 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:12:25 2018	Benedict (STEAM_0:1:177305291): /job NTF Machinegunner
+Sun Oct  7 01:12:40 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:12:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Oct  7 01:12:52 2018	xxShadowdragonXX (STEAM_0:1:444450075): or i bum rush him
+Sun Oct  7 01:13:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc  lol
+Sun Oct  7 01:13:07 2018	xxShadowdragonXX (STEAM_0:1:444450075): we win
+Sun Oct  7 01:13:11 2018	[Opi] Fat Gay was killed by Silent Ninja with a weapon_sillyzombieclaw_v2
+Sun Oct  7 01:13:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:13:19 2018	Silent Ninja was killed by Benedict with a weapon_sillyzombieclaw_v2
+Sun Oct  7 01:13:20 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:13:27 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:13:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:13:57 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:14:00 2018	xxShadowdragonXX (STEAM_0:1:444450075): they will be one with us
+Sun Oct  7 01:14:03 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:14:13 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:14:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:26 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sun Oct  7 01:14:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Sun Oct  7 01:14:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:35 2018	xxShadowdragonXX (STEAM_0:1:444450075): nine
+Sun Oct  7 01:14:38 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sun Oct  7 01:14:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Sun Oct  7 01:14:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:45 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sun Oct  7 01:14:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Sun Oct  7 01:14:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:47 2018	xxShadowdragonXX (STEAM_0:1:444450075): no
+Sun Oct  7 01:14:51 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:14:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:14:55 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:15:02 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sun Oct  7 01:15:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Sun Oct  7 01:15:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:15:10 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:15:18 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:15:25 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:16:24 2018	xxShadowdragonXX was killed by Himself with a suicide trick
+Sun Oct  7 01:16:27 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:16:31 2018	Silent Ninja was killed by Himself with a suicide trick
+Sun Oct  7 01:16:31 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sun Oct  7 01:16:48 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:17:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto bemm
+Sun Oct  7 01:17:40 2018	xxShadowdragonXX (STEAM_0:1:444450075): // can i get tp im stuck in quiteen
+Sun Oct  7 01:17:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring shadow
+Sun Oct  7 01:18:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring shad
+Sun Oct  7 01:18:05 2018	xxShadowdragonXX was killed by Himself with a suicide trick
+Sun Oct  7 01:18:05 2018	[Opi] Fat Gay was killed by xxShadowdragonXX with a env_explosion
+Sun Oct  7 01:18:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:18:10 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:18:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto ben
+Sun Oct  7 01:18:39 2018	Silent Ninja (STEAM_0:0:36823576) disconnected
+Sun Oct  7 01:18:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !armor ben 99
+Sun Oct  7 01:19:22 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:19:48 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:20:04 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:22:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:22:28 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 01:22:28 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 01:22:40 2018	xxShadowdragonXX (STEAM_0:1:444450075): // bey bey
+Sun Oct  7 01:22:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Sun Oct  7 01:22:53 2018	xxShadowdragonXX (STEAM_0:1:444450075): // 
+Sun Oct  7 01:22:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:23:02 2018	slayer2894 (STEAM_0:1:196663351) has joined the game
+Sun Oct  7 01:23:02 2018	slayer2894 (STEAM_0:1:196663351) spawned
+Sun Oct  7 01:23:14 2018	xxShadowdragonXX (STEAM_0:1:444450075): // think i got it
+Sun Oct  7 01:23:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc were cum for ya
+Sun Oct  7 01:23:36 2018	xxShadowdragonXX (STEAM_0:1:444450075): // jesus ima trying to melt down the core
+Sun Oct  7 01:23:42 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 01:23:44 2018	xxShadowdragonXX (STEAM_0:1:444450075): // harder than it looks
+Sun Oct  7 01:23:53 2018	Mike (STEAM_0:1:41660292): !goto bene
+Sun Oct  7 01:24:03 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:24:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc especially with flamethrower-wierlding-maniacs
+Sun Oct  7 01:24:33 2018	slayer2894 (STEAM_0:1:196663351) spawned
+Sun Oct  7 01:24:50 2018	slayer2894 (STEAM_0:1:196663351) spawned
+Sun Oct  7 01:25:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc stay on the lookout for 049, sand nigerian is contained in afghan so hes fine
+Sun Oct  7 01:25:31 2018	slayer2894 was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:25:33 2018	slayer2894 (STEAM_0:1:196663351) spawned
+Sun Oct  7 01:26:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:27:24 2018	xxShadowdragonXX was killed by Himself with a suicide trick
+Sun Oct  7 01:27:24 2018	[Opi] Fat Gay was killed by xxShadowdragonXX with a env_explosion
+Sun Oct  7 01:27:33 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:27:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:29:07 2018	xxShadowdragonXX was killed by Entity [2752][func_rotating] with a func_rotating
+Sun Oct  7 01:29:08 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:29:18 2018	HellBoy9000 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:29:19 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:29:35 2018	Benedict was killed by xxShadowdragonXX with a cw_scarh
+Sun Oct  7 01:29:38 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:29:41 2018	Benedict (STEAM_0:1:177305291): man down.....
+Sun Oct  7 01:29:45 2018	Mike was killed by xxShadowdragonXX with a cw_scarh
+Sun Oct  7 01:29:52 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 01:30:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Sun Oct  7 01:30:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:32:13 2018	HellBoy9000 was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:32:15 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 01:32:43 2018	xxShadowdragonXX (STEAM_0:1:444450075): // my plan it working now to escpae
+Sun Oct  7 01:32:55 2018	slayer2894 (STEAM_0:1:196663351): /ooc ill find you
+Sun Oct  7 01:33:06 2018	slayer2894 (STEAM_0:1:196663351): /ooc where do i get out
+Sun Oct  7 01:33:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto slay
+Sun Oct  7 01:33:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:33:51 2018	Benedict was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:33:57 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:34:05 2018	Benedict (STEAM_0:1:177305291): man down.....
+Sun Oct  7 01:34:19 2018	Mike (STEAM_0:1:41660292): // understood
+Sun Oct  7 01:34:29 2018	xxShadowdragonXX (STEAM_0:1:444450075): /y hold on
+Sun Oct  7 01:34:40 2018	xxShadowdragonXX (STEAM_0:1:444450075): /y not time yet
+Sun Oct  7 01:34:53 2018	xxShadowdragonXX (STEAM_0:1:444450075): /y i help you leave mk
+Sun Oct  7 01:35:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:35:53 2018	xxShadowdragonXX (STEAM_0:1:444450075): need to wait for melt down
+Sun Oct  7 01:36:11 2018	Mike (STEAM_0:1:41660292): // fat gay is 049
+Sun Oct  7 01:36:28 2018	xxShadowdragonXX (STEAM_0:1:444450075): hurry up lockdown
+Sun Oct  7 01:36:44 2018	xxShadowdragonXX (STEAM_0:1:444450075): stop
+Sun Oct  7 01:36:46 2018	xxShadowdragonXX was killed by slayer2894 with a eoti_raven_swep
+Sun Oct  7 01:36:46 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:36:53 2018	slayer2894 (STEAM_0:1:196663351) disconnected
+Sun Oct  7 01:36:53 2018	xxShadowdragonXX (STEAM_0:1:444450075): // fuck yoooooooooooou
+Sun Oct  7 01:37:27 2018	xxShadowdragonXX was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:37:28 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:37:40 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 01:38:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk yet
+Sun Oct  7 01:38:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ppl could save it
+Sun Oct  7 01:38:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh wait
+Sun Oct  7 01:38:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc youre the last good guy alive
+Sun Oct  7 01:38:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc gg
+Sun Oct  7 01:38:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and good luck surviving
+Sun Oct  7 01:38:43 2018	Benedict (STEAM_0:1:177305291): ayyy
+Sun Oct  7 01:38:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im gonna camp the rocket
+Sun Oct  7 01:39:13 2018	xxShadowdragonXX (STEAM_0:1:444450075): // will you let me leave then?
+Sun Oct  7 01:39:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc umm
+Sun Oct  7 01:39:27 2018	Benedict (STEAM_0:1:177305291): bro hes a zombie
+Sun Oct  7 01:39:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc thats up to hellboy
+Sun Oct  7 01:40:26 2018	xxShadowdragonXX (STEAM_0:1:444450075): // ima come in with ma hands up
+Sun Oct  7 01:40:44 2018	xxShadowdragonXX (STEAM_0:1:444450075): //y let me leave
+Sun Oct  7 01:41:01 2018	Benedict was killed by Mike with a weapon_sillyzombieclaw_v2
+Sun Oct  7 01:41:08 2018	Benedict (STEAM_0:1:177305291): medic....
+Sun Oct  7 01:41:10 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:41:11 2018	xxShadowdragonXX (STEAM_0:1:444450075): /y stand back
+Sun Oct  7 01:41:14 2018	xxShadowdragonXX (STEAM_0:1:444450075): you bitch
+Sun Oct  7 01:41:21 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:41:34 2018	xxShadowdragonXX (STEAM_0:1:444450075): i eant to leave human
+Sun Oct  7 01:41:59 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:42:45 2018	Benedict (STEAM_0:1:177305291): last chance to leg it to the surface elevator
+Sun Oct  7 01:43:06 2018	[Opi] Fat Gay was killed by xxShadowdragonXX with a weapon_sillyzombieclaw_v2
+Sun Oct  7 01:43:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:43:09 2018	xxShadowdragonXX (STEAM_0:1:444450075): // you stay
+Sun Oct  7 01:43:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto shad
+Sun Oct  7 01:43:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:43:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:43:31 2018	xxShadowdragonXX (STEAM_0:1:444450075): i wanted to leave human then bombe the white house
+Sun Oct  7 01:43:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:43:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Oct  7 01:44:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Oct  7 01:44:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:17 2018	Benedict (STEAM_0:1:177305291): locking down the surface elevator
+Sun Oct  7 01:44:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_citizen
+Sun Oct  7 01:44:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:44:58 2018	xxShadowdragonXX (STEAM_0:1:444450075): i guess we can bombe the white house togtehr
+Sun Oct  7 01:45:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:08 2018	Benedict (STEAM_0:1:177305291): /job NTF KE Unit
+Sun Oct  7 01:45:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Oct  7 01:45:18 2018	xxShadowdragonXX (STEAM_0:1:444450075): togther we can bombe the whiye house
+Sun Oct  7 01:45:41 2018	xxShadowdragonXX (STEAM_0:1:444450075): // who is still in the site
+Sun Oct  7 01:45:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc just benedict
+Sun Oct  7 01:45:50 2018	Benedict (STEAM_0:1:177305291): i think nobody
+Sun Oct  7 01:46:00 2018	xxShadowdragonXX (STEAM_0:1:444450075): // then he gonna get fucked
+Sun Oct  7 01:46:00 2018	Benedict (STEAM_0:1:177305291): im at the surface
+Sun Oct  7 01:46:13 2018	Benedict (STEAM_0:1:177305291): in the blast shelter
+Sun Oct  7 01:46:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc he can get to the blast shelter
+Sun Oct  7 01:46:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:46:25 2018	xxShadowdragonXX (STEAM_0:1:444450075): fuck him nwo
+Sun Oct  7 01:46:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 01:47:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Oct  7 01:47:12 2018	xxShadowdragonXX (STEAM_0:1:444450075): // gg you let the most wanted bombe the site gg
+Sun Oct  7 01:47:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fmuscle *
+Sun Oct  7 01:47:23 2018	Benedict (STEAM_0:1:177305291): yup
+Sun Oct  7 01:47:25 2018	Benedict (STEAM_0:1:177305291): gg

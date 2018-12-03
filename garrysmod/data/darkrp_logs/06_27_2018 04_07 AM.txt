@@ -1,0 +1,87 @@
+Wed Jun 27 04:07:30 2018	Richardmark56 (STEAM_0:0:199216977) has joined the game
+Wed Jun 27 04:07:30 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:29:34 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:31:50 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:40:49 2018	Richardmark56 was killed by Entity [0][worldspawn] with a unknown
+Wed Jun 27 04:40:53 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:42:51 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:45:08 2018	Richardmark56 (STEAM_0:0:199216977): /staff
+Wed Jun 27 04:45:44 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:46:04 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:46:06 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:46:12 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:46:13 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:46:30 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:46:31 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:51:14 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:51:18 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:51:28 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:51:33 2018	Richardmark56 (STEAM_0:0:199216977): /staff
+Wed Jun 27 04:51:44 2018	Richardmark56 (STEAM_0:0:199216977): /staff
+Wed Jun 27 04:52:42 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:52:45 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:52:51 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:52:51 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:52:57 2018	Richardmark56 was killed by Himself with a suicide trick
+Wed Jun 27 04:52:59 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:53:16 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:53:35 2018	Richardmark56 (STEAM_0:0:199216977) spawned
+Wed Jun 27 04:56:09 2018	Richardmark56 (STEAM_0:0:199216977) disconnected
+Thu Jun 28 14:51:05 2018	Lastpayload244 (STEAM_0:0:48607723) has joined the game
+Thu Jun 28 14:51:05 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Thu Jun 28 14:51:38 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Thu Jun 28 14:52:03 2018	Chinese Takeout (STEAM_0:0:80677242) has joined the game
+Thu Jun 28 14:52:03 2018	Chinese Takeout (STEAM_0:0:80677242) spawned
+Thu Jun 28 14:53:59 2018	Chinese Takeout (STEAM_0:0:80677242) spawned
+Thu Jun 28 14:56:57 2018	Connor Rk800 was killed by Chinese Takeout with a cw_deagle
+Thu Jun 28 14:56:59 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Thu Jun 28 14:57:01 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Thu Jun 28 14:57:54 2018	Chinese Takeout (STEAM_0:0:80677242) disconnected
+Thu Jun 28 14:58:52 2018	Connor Rk800 (STEAM_0:0:48607723) disconnected
+Sat Jun 30 12:48:42 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 30 12:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 12:49:31 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Jun 30 12:49:31 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 12:50:16 2018	Emmett (STEAM_0:1:41660292): /act dance
+Sat Jun 30 12:51:37 2018	Emmett (STEAM_0:1:41660292): !bring fat
+Sat Jun 30 12:52:23 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 30 12:53:54 2018	Fat Gay was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sat Jun 30 12:54:19 2018	Emmett was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sat Jun 30 12:54:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 12:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 12:54:29 2018	Emmett was killed by Himself with a suicide trick
+Sat Jun 30 12:54:29 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 30 12:54:29 2018	Fat Gay (STEAM_0:1:218173703): !slay *
+Sat Jun 30 12:54:32 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 12:54:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 12:54:44 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 30 12:54:44 2018	Fat Gay (STEAM_0:1:218173703): !slay ^
+Sat Jun 30 12:54:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 12:55:13 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 30 12:55:13 2018	Fat Gay (STEAM_0:1:218173703): !slay ^
+Sat Jun 30 12:55:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 12:55:57 2018	Emmett was killed by Fat Gay with a cw_ak74
+Sat Jun 30 12:56:13 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:00:16 2018	Emmett was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Jun 30 13:00:17 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:02:18 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 30 13:05:22 2018	Fat Gay (STEAM_0:1:218173703): !tgoto emm
+Sat Jun 30 13:05:24 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sat Jun 30 13:06:10 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Jun 30 13:06:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:07:39 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Jun 30 13:07:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:08:31 2018	Fat Gay was killed by Emmett with a fas2_deagle
+Sat Jun 30 13:08:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:08:34 2018	Fat Gay (STEAM_0:1:218173703): !gotro emm
+Sat Jun 30 13:11:09 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sat Jun 30 13:11:10 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:11:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:11:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:12:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:12:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:12:34 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 30 13:13:37 2018	Fat Gay was killed by Entity [1684][trigger_hurt] with a trigger_hurt
+Sat Jun 30 13:14:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:15:09 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sat Jun 30 13:15:09 2018	Emmett (STEAM_0:1:41660292) spawned

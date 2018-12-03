@@ -1,0 +1,46 @@
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 23 12:12:46 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 23 12:12:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Surrender (surrender)
+[Sat Jun 23 12:12:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Flip (flip)
+[Sat Jun 23 12:12:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 23 12:12:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Dab (dab)
+[Sat Jun 23 12:12:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Facepunch (facepunch)
+[Sat Jun 23 12:12:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Salute (salute)
+[Sat Jun 23 12:16:48 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % changed job from Visitor
+[Sat Jun 23 12:16:48 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Terrorist Juggernaut) %: /terroristjuggernaut
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Pocket (pocket)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (prokeypadcracker)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Salute (salute)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (fas2_machete)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Surrender (surrender)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (weapon_jihadbomb)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Dab (dab)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (keys)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (cw_m3super90)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (fas2_m67)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Facepunch (facepunch)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (cw_m249_official)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (cw_smoke_grenade)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Flip (flip)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a weapon_physgun
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a weapon_physcannon
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (pro_lockpick)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (cw_deagle)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (cw_flash_grenade)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 23 12:16:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Terrorist Juggernaut) % picked up a Scripted Weapon (bn_defib)
+[Sat Jun 23 12:17:16 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % changed job from Terrorist Juggernaut
+[Sat Jun 23 12:17:16 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Plant Director) %: /votedirector

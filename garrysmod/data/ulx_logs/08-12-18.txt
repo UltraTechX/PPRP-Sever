@@ -1,0 +1,181 @@
+[00:09:49] New map: rp_powerplant_v2b2
+
+
+
+[16:52:07] New map: rp_powerplant_v2b2
+
+
+
+[17:07:28] New map: rp_powerplant_v2b2
+[17:07:41] Client "[Opi] Fat Gay" connected.
+[17:09:24] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 103 seconds).
+[17:15:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[17:15:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[17:15:54] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp682
+[17:17:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp682
+[17:18:00] Fat Gay<STEAM_0:1:218173703> spawned effect models/scp_682/scp_682.mdl
+
+
+
+[17:19:44] New map: rp_powerplant_v2b2
+[17:20:00] Client "[Opi] Fat Gay" connected.
+[17:20:50] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+[17:21:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[17:22:14] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp1048a
+[17:22:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp939
+[17:22:27] Client "Bot01" connected.
+[17:22:27] Client "Bot01" spawned in server <BOT> (took 227 seconds).
+[17:22:37] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp8602
+[17:23:03] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp457
+[17:23:07] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[17:23:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_werewolf_swep
+[17:24:14] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp173
+[17:24:24] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[17:24:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp106
+[17:24:57] Fat Gay: !explode ^
+[17:24:57] Fat Gay suicided!
+[17:24:57] Fat Gay exploded Themself
+[17:25:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp106
+[17:25:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep scp_1048
+[17:25:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp096
+[17:25:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp066
+[17:25:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep scp_049
+[17:25:53] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_zombie_swep
+[17:26:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_raven_swep
+[17:27:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[17:27:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_seagull
+[17:27:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[17:34:01] Fat Gay: !explode ^
+[17:34:01] Fat Gay suicided!
+[17:34:01] Fat Gay exploded Themself
+[17:34:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_raven_swep
+[17:36:02] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate2x2.mdl
+[17:36:14] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate2x2.mdl
+[17:36:24] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate2x2.mdl
+[17:36:40] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate2x2.mdl
+[17:37:03] Fat Gay<STEAM_0:1:218173703> used the tool light on models/hunter/plates/plate2x2.mdl
+[17:37:06] Fat Gay<STEAM_0:1:218173703> used the tool light on models/hunter/plates/plate2x2.mdl
+[17:37:07] Fat Gay<STEAM_0:1:218173703> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:37:09] Fat Gay<STEAM_0:1:218173703> used the tool light on models/hunter/plates/plate2x2.mdl
+[17:37:15] Fat Gay<STEAM_0:1:218173703> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:40:15] Fat Gay<STEAM_0:1:218173703> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:40:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_raven_swep
+[17:40:52] Fat Gay<STEAM_0:1:218173703> spawned effect models/viewmodels/ravenwarriorplayerhands.mdl
+[17:40:55] Fat Gay<STEAM_0:1:218173703> spawned effect models/viewmodels/ravenwarriorplayerhands.mdl
+[17:41:27] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_raven_stone
+[17:41:48] Fat Gay was killed by func_movelinear
+[17:42:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[17:42:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[17:42:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[17:42:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ak74
+[17:43:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_shorty
+[17:44:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_smoke_grenade
+[17:45:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp106
+[17:45:27] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate1x1.mdl
+[17:49:58] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:49:58] Dropped "Bot01" from server<BOT>
+
+
+
+[17:53:05] New map: rp_powerplant_v2b2
+[18:06:38] Client "[Opi] Fat Gay" connected.
+[18:07:44] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 66 seconds).
+[18:55:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[18:55:25] Client "Bot01" connected.
+[18:55:25] Client "Bot01" spawned in server <BOT> (took 3804 seconds).
+[18:55:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[18:57:30] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/fence01b.mdl
+[18:57:31] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/fence01b.mdl
+[18:57:32] Fat Gay was killed by trigger_hurt
+[18:57:59] Fat Gay was killed by trigger_hurt
+[19:00:46] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/oildrum001.mdl
+[19:01:06] Fat Gay: !spc
+
+
+
+[19:04:25] New map: rp_powerplant_v2b2
+[19:04:28] Client "[Opi] Fat Gay" connected.
+[19:05:16] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[19:09:06] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[19:10:06] Client "[Opi] Fat Gay" connected.
+[19:11:09] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 63 seconds).
+[19:14:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep the_cure
+[19:14:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp682
+[19:14:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp1048a
+[19:14:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp1048a
+[19:14:55] Fat Gay: !strip[ *
+[19:14:58] Fat Gay: !strip *
+[19:14:58] Fat Gay stripped weapons from Themself
+[19:14:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp1048a
+[19:15:05] Fat Gay: !strip *
+[19:15:05] Fat Gay stripped weapons from Themself
+[19:15:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp939
+[19:15:51] Fat Gay: !strip *
+[19:15:51] Fat Gay stripped weapons from Themself
+[19:15:54] Fat Gay stripped weapons from Themself
+[19:15:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp8602
+[19:16:03] Fat Gay stripped weapons from Themself
+[19:16:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp457
+[19:16:08] Fat Gay stripped weapons from Themself
+[19:16:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_werewolf_swep
+[19:16:13] Fat Gay stripped weapons from Themself
+[19:16:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp173
+[19:16:24] Fat Gay stripped weapons from Themself
+[19:16:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp106
+[19:16:58] Fat Gay stripped weapons from Themself
+[19:17:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep scp_1048
+[19:17:02] Fat Gay stripped weapons from Themself
+[19:17:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp096
+[19:17:09] Fat Gay stripped weapons from Themself
+[19:17:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp066
+[19:17:13] Fat Gay stripped weapons from Themself
+[19:17:15] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep scp_049
+[19:17:17] Fat Gay stripped weapons from Themself
+[19:17:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp106
+[19:17:41] Fat Gay stripped weapons from Themself
+[19:17:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_scp457
+[19:44:21] Client "Bot01" connected.
+[19:44:21] Client "Bot01" spawned in server <BOT> (took 2460 seconds).
+[19:45:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[19:46:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep eoti_werewolf_swep
+[19:50:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+
+
+
+[19:57:33] New map: rp_powerplant_v2b2
+[19:57:46] Client "[Opi] Fat Gay" connected.
+[19:58:54] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 68 seconds).
+[19:59:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bfv_welder
+[19:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bf2_wrench
+[19:59:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bf2_wrench
+[19:59:55] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bf2_wrench
+[20:00:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bms_torch
+[20:00:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bf2_mine_vehicle
+[20:00:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bf2_medicbag
+[20:00:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep v92_bf2_wrench
+[20:02:07] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[20:36:29] New map: rp_powerplant_v2b2
+
+
+
+[22:10:46] New map: rp_powerplant_v2b2
+[22:22:38] Client "[Opi] Fat Gay" connected.
+[22:23:43] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 65 seconds).
+[22:25:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep me_bigchoppa
+[22:25:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_wrench
+[22:25:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_wrench
+
+
+
+[22:30:52] New map: rp_powerplant_v2b2
+[22:31:13] Client "[Opi] Fat Gay" connected.
+[22:32:05] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 52 seconds).
+[22:32:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_pipewrench
+
+
+
+[22:41:23] New map: rp_powerplant_v2b2
+[22:41:45] Client "[Opi] Fat Gay" connected.

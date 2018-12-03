@@ -1,0 +1,200 @@
+Sat Sep 22 23:29:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 23:29:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:29:57 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Sep 22 23:29:57 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 23:30:20 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Sep 22 23:30:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:30:33 2018	guny Pwnd (STEAM_0:0:173118977): !dattasave
+Sat Sep 22 23:30:50 2018	LethalDumpster (STEAM_0:1:101135062) has joined the game
+Sat Sep 22 23:30:50 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 23:31:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:31:44 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sat Sep 22 23:31:49 2018	Emmett (STEAM_0:1:41660292): !goto g
+Sat Sep 22 23:31:54 2018	Emmett (STEAM_0:1:41660292): !goto F
+Sat Sep 22 23:32:16 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 23:33:13 2018	Bot03 (BOT) has joined the game
+Sat Sep 22 23:33:13 2018	Bot03 (BOT) spawned
+Sat Sep 22 23:33:13 2018	Fat Gay was killed by guny Pwnd with a cw_g3a3
+Sat Sep 22 23:33:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:36:06 2018	Emmett (STEAM_0:1:41660292): // Open toed shoes? since when did you become a whore?
+Sat Sep 22 23:36:54 2018	Emmett was killed by Himself with a suicide trick
+Sat Sep 22 23:37:05 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:37:23 2018	Emmett was killed by Himself with a suicide trick
+Sat Sep 22 23:37:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:37:32 2018	Emmett was killed by Himself with a suicide trick
+Sat Sep 22 23:37:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:37:55 2018	Fat Gay (STEAM_0:1:218173703): /ooc goddamit
+Sat Sep 22 23:38:05 2018	guny Pwnd was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sat Sep 22 23:38:20 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 23:38:32 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:38:53 2018	Emmett was killed by Entity [477][point_hurt] with a point_hurt
+Sat Sep 22 23:38:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:39:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:41:47 2018	Fat Gay was killed by Emmett with a cw_deagle
+Sat Sep 22 23:42:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:45:39 2018	LethalDumpster was killed by Emmett with a cw_ar15
+Sat Sep 22 23:46:09 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 23:46:21 2018	Emmett was killed by Entity [3383][trigger_hurt] with a trigger_hurt
+Sat Sep 22 23:46:23 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:46:27 2018	guny Pwnd was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sat Sep 22 23:46:32 2018	Emmett (STEAM_0:1:41660292): /job cbrn
+Sat Sep 22 23:46:43 2018	Emmett (STEAM_0:1:41660292): /job NNNNNNN
+Sat Sep 22 23:46:46 2018	Fat Gay (STEAM_0:1:218173703): !goto let
+Sat Sep 22 23:46:57 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 23:47:39 2018	Emmett (STEAM_0:1:41660292): !goto F
+Sat Sep 22 23:47:59 2018	LethalDumpster was killed by Entity [4955][point_hurt] with a point_hurt
+Sat Sep 22 23:48:05 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 23:48:10 2018	Emmett (STEAM_0:1:41660292): /job Admin
+Sat Sep 22 23:49:15 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:49:18 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 23:49:29 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:49:35 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 23:52:03 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT animprop_spawnacarrier
+Sat Sep 22 23:52:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT animprop_spawnacarrier
+Sat Sep 22 23:52:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT animprop_spawnentrance_blue
+Sat Sep 22 23:52:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT bm_alarm1
+Sat Sep 22 23:52:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT scp_alarm
+Sat Sep 22 23:53:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT hl1_alarm4
+Sat Sep 22 23:53:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT hl1_alarm3
+Sat Sep 22 23:53:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT bm_alarm9
+Sat Sep 22 23:53:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT bm_alarm14b
+Sat Sep 22 23:53:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT bm_alarm2
+Sat Sep 22 23:53:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_disguise_drawer
+Sat Sep 22 23:53:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_disguise_kit
+Sat Sep 22 23:54:12 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 23:54:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_elegant_printer
+Sat Sep 22 23:54:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_elegant_printer_slot
+Sat Sep 22 23:54:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_zombie_flesh
+Sat Sep 22 23:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_raven_stone
+Sat Sep 22 23:54:39 2018	Fat Gay was killed by Emmett with a weapon_l4d2_frying_pan
+Sat Sep 22 23:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:54:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_werewolf_wolfsbane
+Sat Sep 22 23:54:59 2018	Emmett was killed by LethalDumpster with a weapon_l4d2_frying_pan
+Sat Sep 22 23:55:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_zombie_flesh
+Sat Sep 22 23:55:01 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 23:55:26 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:55:45 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:55:46 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:55:51 2018	Fat Gay was killed by LethalDumpster with a weapon_l4d2_frying_pan
+Sat Sep 22 23:55:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 23:55:55 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:55:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_zombie_flesh
+Sat Sep 22 23:55:56 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:56:06 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:56:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_fastzombie
+Sat Sep 22 23:56:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT gmt_instrument_piano
+Sat Sep 22 23:57:14 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:15 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:15 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:16 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:23 2018	guny Pwnd was killed by LethalDumpster with a weapon_l4d2_frying_pan
+Sat Sep 22 23:57:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_large
+Sat Sep 22 23:57:30 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 23:57:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_draughts_board
+Sat Sep 22 23:57:48 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:49 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:49 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:50 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:50 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:50 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_zombie
+Sat Sep 22 23:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_hlof_sporelauncher_ammo
+Sat Sep 22 23:58:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT pill_dropship_strider
+Sat Sep 22 23:58:33 2018	Emmett (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_jeep
+Sun Sep 23 00:00:15 2018	LethalDumpster was killed by guny Pwnd with a weapon_l4d2_frying_pan
+Sun Sep 23 00:00:17 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:00:20 2018	Emmett was killed by guny Pwnd with a weapon_l4d2_frying_pan
+Sun Sep 23 00:00:21 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 00:00:22 2018	Fat Gay was killed by guny Pwnd with a weapon_l4d2_frying_pan
+Sun Sep 23 00:00:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:00:27 2018	guny Pwnd was killed by Emmett with a weapon_l4d2_frying_pan
+Sun Sep 23 00:00:29 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:00:38 2018	Fat Gay (STEAM_0:1:218173703): !goto let
+Sun Sep 23 00:01:21 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Sep 23 00:01:23 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:33 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:33 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:33 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:34 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:34 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:34 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:34 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:34 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:34 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:35 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:35 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:35 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:35 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:35 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:35 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:36 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:36 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:36 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:36 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:36 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:36 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:41 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:41 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:41 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:01:58 2018	Fat Gay was killed by Emmett with a prop_vehicle_jeep
+Sun Sep 23 00:02:00 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:02:02 2018	Fat Gay (STEAM_0:1:218173703): !goto let
+Sun Sep 23 00:02:08 2018	Emmett (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Sep 23 00:02:35 2018	Emmett was killed by guny Pwnd with a weapon_l4d2_frying_pan
+Sun Sep 23 00:02:37 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 00:03:03 2018	LethalDumpster was killed by Entity [4904][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:03 2018	guny Pwnd was killed by Entity [4904][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:03 2018	Fat Gay was killed by Entity [4904][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:05 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:03:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:03:10 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:03:11 2018	guny Pwnd was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:12 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:03:14 2018	Fat Gay was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:15 2018	LethalDumpster was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:16 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:03:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:03:17 2018	guny Pwnd was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:19 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:03:22 2018	Fat Gay was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:22 2018	LethalDumpster was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:23 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:03:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:03:25 2018	guny Pwnd was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:26 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:03:28 2018	LethalDumpster was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:29 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:03:29 2018	Fat Gay was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:03:31 2018	guny Pwnd was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:32 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:03:34 2018	LethalDumpster was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:35 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:03:35 2018	Fat Gay was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:03:38 2018	guny Pwnd was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:03:39 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:03:40 2018	LethalDumpster was killed by Entity [4889][trigger_hurt] with a trigger_hurt

@@ -1,0 +1,4 @@
+Mon Nov 26 02:08:14 2018	WildToastyMop [RR] (STEAM_0:0:93414166) has joined the game
+Mon Nov 26 02:08:14 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Mon Nov 26 02:16:54 2018	WildToastyMop was killed by Entity [2282][trigger_hurt] with a trigger_hurt
+Mon Nov 26 02:17:44 2018	WildToastyMop (STEAM_0:0:93414166) disconnected

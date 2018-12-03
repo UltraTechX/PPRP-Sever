@@ -1,0 +1,147 @@
+Sun Apr 29 13:49:29 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 29 13:49:29 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 13:50:02 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 13:52:02 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 13:53:44 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 13:56:31 2018	Fat Gay (STEAM_0:1:218173703): !spc
+Sun Apr 29 13:56:40 2018	Fat Gay (STEAM_0:1:218173703): !spc
+Sun Apr 29 13:56:44 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 13:57:36 2018	Fat Gay (STEAM_0:1:218173703): !spc
+Sun Apr 29 13:59:40 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 14:02:21 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Apr 29 14:02:47 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 29 14:02:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:06:37 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 14:10:44 2018	Fat Gay (STEAM_0:1:218173703): !cac
+Sun Apr 29 14:10:47 2018	Fat Gay (STEAM_0:1:218173703): !cake
+Sun Apr 29 14:10:50 2018	Fat Gay (STEAM_0:1:218173703): !cac
+Sun Apr 29 14:10:53 2018	Fat Gay (STEAM_0:1:218173703): !ca
+Sun Apr 29 14:10:57 2018	Fat Gay (STEAM_0:1:218173703): /cac
+Sun Apr 29 14:11:00 2018	Fat Gay (STEAM_0:1:218173703): !cac
+Sun Apr 29 14:11:10 2018	Fat Gay (STEAM_0:1:218173703): !spc
+Sun Apr 29 14:17:17 2018	VietnamFlashbacks (STEAM_0:0:80420240) has joined the game
+Sun Apr 29 14:17:17 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:20:05 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 14:20:11 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:20:14 2018	Fat Gay (STEAM_0:1:218173703): !cac
+Sun Apr 29 14:20:16 2018	Fat Gay (STEAM_0:1:218173703): !spc
+Sun Apr 29 14:20:17 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:20:19 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:20:29 2018	VietnamFlashbacks was killed by Fat Gay with a cw_deagle
+Sun Apr 29 14:20:32 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:22:07 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:22:09 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:22:16 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:22:17 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:22:43 2018	Fat Gay was killed by VietnamFlashbacks with a pill_wep_pro
+Sun Apr 29 14:22:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:22:51 2018	Fat Gay was killed by VietnamFlashbacks with a pill_wep_pro
+Sun Apr 29 14:22:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:23:53 2018	VietnamFlashbacks was killed by NPC [2323][npc_manhack] with a npc_manhack
+Sun Apr 29 14:23:55 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:24:27 2018	Fat Gay (STEAM_0:1:218173703): !goto vie
+Sun Apr 29 14:24:28 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:24:40 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:24:53 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:24:54 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:25:02 2018	Fat Gay was killed by NPC [2589][npc_manhack] with a npc_manhack
+Sun Apr 29 14:25:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:25:27 2018	VietnamFlashbacks (STEAM_0:0:80420240): !Hp ^ 100000
+Sun Apr 29 14:25:37 2018	Fat Gay was killed by NPC [1564][npc_manhack] with a npc_manhack
+Sun Apr 29 14:25:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:26:12 2018	Fat Gay (STEAM_0:1:218173703): !hp viet
+Sun Apr 29 14:26:15 2018	Fat Gay was killed by NPC [2401][npc_manhack] with a npc_manhack
+Sun Apr 29 14:26:15 2018	Fat Gay (STEAM_0:1:218173703): !hp vi 1
+Sun Apr 29 14:26:15 2018	VietnamFlashbacks was killed by NPC [2421][npc_manhack] with a npc_manhack
+Sun Apr 29 14:26:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:26:16 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:26:24 2018	VietnamFlashbacks was killed by NPC [1567][npc_manhack] with a npc_manhack
+Sun Apr 29 14:26:25 2018	VietnamFlashbacks (STEAM_0:0:80420240): !hp ^ 10000000
+Sun Apr 29 14:26:26 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:26:31 2018	VietnamFlashbacks (STEAM_0:0:80420240): !hp ^ 1000000
+Sun Apr 29 14:26:53 2018	Fat Gay (STEAM_0:1:218173703): !hp viet 1
+Sun Apr 29 14:27:05 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:27:06 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:27:06 2018	Fat Gay (STEAM_0:1:218173703): !ungod vi
+Sun Apr 29 14:27:23 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 14:27:25 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:27:40 2018	Fat Gay was killed by Entity [582][point_hurt] with a point_hurt
+Sun Apr 29 14:27:41 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:27:47 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 14:27:48 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:28:08 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:28:10 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:28:19 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:28:32 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:30:59 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:31:02 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:32:06 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:32:08 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:32:31 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:32:34 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:33:04 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:33:06 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:33:36 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 14:33:37 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:34:31 2018	Fat Gay was killed by VietnamFlashbacks with a fas2_ks23
+Sun Apr 29 14:34:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:35:24 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 14:35:25 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:36:01 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:36:02 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:36:07 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:36:07 2018	Fat Gay was killed by VietnamFlashbacks with a env_explosion
+Sun Apr 29 14:36:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:36:09 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:37:29 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 14:37:30 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:38:13 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 29 14:38:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:39:08 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:39:09 2018	Fat Gay was killed by VietnamFlashbacks with a npc_satchel
+Sun Apr 29 14:39:11 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:39:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:39:24 2018	VietnamFlashbacks was killed by Fat Gay with a cw_deagle
+Sun Apr 29 14:39:24 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god *
+Sun Apr 29 14:39:25 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:40:25 2018	Fat Gay was killed by VietnamFlashbacks with a npc_tripmine
+Sun Apr 29 14:40:25 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:40:26 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:40:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:41:17 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:41:18 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:41:32 2018	Fat Gay was killed by VietnamFlashbacks with a npc_tripmine
+Sun Apr 29 14:41:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:41:45 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 14:41:46 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:41:54 2018	VietnamFlashbacks was killed by Fat Gay with a prop_physics
+Sun Apr 29 14:41:55 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 14:44:06 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 29 14:44:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 14:51:13 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Sun Apr 29 14:51:20 2018	VietnamFlashbacks (STEAM_0:0:80420240): !hp ^ 100000
+Sun Apr 29 14:53:30 2018	VietnamFlashbacks (STEAM_0:0:80420240): !ungod ^
+Sun Apr 29 14:58:19 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:03:28 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 15:03:33 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:06:32 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_frying_pan
+Sun Apr 29 15:12:31 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 29 15:12:36 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:18:58 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Apr 29 15:19:42 2018	VietnamFlashbacks was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 29 15:19:43 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:20:18 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:22:25 2018	VietnamFlashbacks was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 29 15:22:26 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:23:20 2018	VietnamFlashbacks was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 29 15:23:21 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:27:21 2018	VietnamFlashbacks was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sun Apr 29 15:27:23 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:27:34 2018	VietnamFlashbacks was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sun Apr 29 15:27:35 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:27:45 2018	VietnamFlashbacks was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sun Apr 29 15:27:48 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:29:48 2018	VietnamFlashbacks was killed by Entity [1943][func_rotating] with a func_rotating
+Sun Apr 29 15:29:49 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:34:44 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 29 15:36:10 2018	VietnamFlashbacks (STEAM_0:0:80420240) disconnected

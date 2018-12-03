@@ -1,0 +1,128 @@
+<Logging continued from "data/ulx_logs/04-12-18.txt">
+[14:56:02] Client "Fat Gay" connected.
+[14:56:57] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 55 seconds).
+[15:06:36] Client "El Presidente" connected.
+[15:07:02] Client "Ａｒｋｏｎ" connected.
+[15:09:00] Client "El Presidente" spawned in server <STEAM_0:1:79834567> (took 144 seconds).
+[15:14:35] Fat Gay: !spectate
+[15:15:06] Fat Gay: !bring pre
+[15:15:06] Fat Gay brought El Presidente
+[15:15:13] Fat Gay: !spectate pre
+[15:16:08] Fat Gay: !hp fat 999999
+[15:16:08] Fat Gay set the hp for Themself to 999999
+[15:26:57] El Presidente<STEAM_0:1:79834567> spawned model models/props_c17/gravestone001a.mdl
+[15:26:59] El Presidente<STEAM_0:1:79834567> spawned model models/props_combine/breendesk.mdl
+[15:27:19] Fat Gay: /ooc yo whats yp
+[15:27:21] Fat Gay: /ooc up*
+[15:27:58] Dropped "El Presidente" from server<STEAM_0:1:79834567>
+[15:35:41] Fat Gay: !hp * 999999999
+[15:35:41] Fat Gay set the hp for Themself to 999999999
+[15:35:43] Fat Gay was killed by trigger_hurt
+[15:57:09] Fat Gay was killed by trigger_hurt
+
+
+
+[16:04:38] New map: rp_powerplant_v2b2
+
+
+
+[16:05:50] New map: rp_powerplant_v2b2
+[16:06:12] Client "Fat Gay" connected.
+[16:06:50] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 38 seconds).
+[16:28:54] Fat Gay suicided!
+
+
+
+[17:22:25] New map: rp_powerplant_v2b2
+[17:22:33] Client "BionicTwin" connected.
+
+
+
+[19:14:53] New map: rp_powerplant_v2b2
+
+
+
+[19:21:55] New map: rp_powerplant_v2b2
+
+
+
+[19:33:07] New map: rp_powerplant_v2b2
+
+
+
+[19:43:35] New map: rp_powerplant_v2b2
+
+
+
+[19:46:22] New map: rp_powerplant_v2b2
+
+
+
+[19:48:17] New map: rp_powerplant_v2b2
+
+
+
+[20:00:47] New map: rp_powerplant_v2b2
+
+
+
+[20:03:30] New map: rp_powerplant_v2b2
+
+
+
+[20:06:22] New map: rp_powerplant_v2b2
+
+
+
+[20:10:28] New map: rp_powerplant_v2b2
+
+
+
+[20:13:44] New map: rp_powerplant_v2b2
+
+
+
+[20:16:51] New map: rp_powerplant_v2b2
+
+
+
+[20:23:28] New map: rp_powerplant_v2b2
+
+
+
+[20:25:37] New map: rp_powerplant_v2b2
+
+
+
+[20:31:16] New map: rp_powerplant_v2b2
+
+
+
+[20:37:59] New map: rp_powerplant_v2b2
+
+
+
+[20:42:13] New map: rp_powerplant_v2b2
+
+
+
+[21:09:05] New map: rp_powerplant_v2b2
+[22:01:40] Client "BionicTwin" connected.
+[22:02:39] Client "BionicTwin" spawned in server <STEAM_0:0:123818240> (took 59 seconds).
+[22:02:40] Dropped "BionicTwin" from server<STEAM_0:0:123818240>
+
+
+
+[23:33:42] New map: rp_powerplant_v2b2
+
+
+
+[23:38:36] New map: rp_powerplant_v2b2
+
+
+
+[23:44:48] New map: rp_powerplant_v2b2
+
+
+
+[23:47:15] New map: rp_powerplant_v2b2

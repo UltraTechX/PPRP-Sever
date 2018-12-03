@@ -1,0 +1,20 @@
+<Logging continued from "data/ulx_logs/04-21-18.txt">
+[00:05:09] Client "Valien" connected.
+[00:06:14] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 65 seconds).
+[00:20:45] Emmett: !god
+[00:20:45] Emmett granted god mode upon Themself
+[01:25:05] Emmett was killed by trigger_hurt
+[01:25:09] Emmett: !god
+[01:25:09] Emmett granted god mode upon Themself
+[01:25:15] Emmett: !back
+[01:25:45] Emmett was killed by trigger_hurt
+[01:25:48] Emmett: !gpd
+[01:25:54] Emmett: !god
+[01:25:54] Emmett granted god mode upon Themself
+[01:26:18] Emmett warped to core
+[01:26:21] Emmett warped to core
+[01:26:23] Emmett warped to core
+[01:26:32] (SILENT) Emmett set warp position core
+[01:26:39] (SILENT) Emmett set warp position core
+[01:26:46] Emmett warped to core
+[02:30:04] Dropped "Emmett" from server<STEAM_0:1:41660292>

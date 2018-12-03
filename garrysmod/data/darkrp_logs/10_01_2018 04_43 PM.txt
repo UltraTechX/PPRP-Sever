@@ -1,0 +1,3 @@
+Mon Oct  1 16:43:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  1 16:43:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  1 16:44:48 2018	Fat Gay (STEAM_0:1:218173703) disconnected

@@ -1,0 +1,19 @@
+Sun Oct 21 01:51:57 2018 - Nick: REET W-G | IP: 172.248.28.174 | SteamID: STEAM_0:1:243765117.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+Invalid source: surface.CreateFont@mlogs/elements/ui/cl_fonts.lua;
+
+
+Sun Oct 21 01:54:46 2018 - Nick: REET W-G | IP: 172.248.28.174 | SteamID: STEAM_0:1:243765117.txt | Cheating Infraction: Invalid source: require@addons/swiftac/lua/includes/init.lua;
+

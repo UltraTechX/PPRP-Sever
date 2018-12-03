@@ -1,0 +1,168 @@
+Wed May  9 16:03:20 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed May  9 16:03:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 16:25:29 2018	Fat Gay was killed by Himself with a suicide trick
+Wed May  9 16:41:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 16:48:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:48:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Wed May  9 16:52:32 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Wed May  9 16:53:31 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed May  9 16:53:31 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 17:03:20 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed May  9 17:03:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:03:56 2018	Emmett (STEAM_0:1:41660292): niglet
+Wed May  9 17:03:58 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 17:04:02 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 17:04:08 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 17:04:11 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Wed May  9 17:04:16 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Wed May  9 17:04:28 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 17:04:29 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Wed May  9 17:04:31 2018	Fat Gay (STEAM_0:1:218173703): !goto em'
+Wed May  9 17:04:55 2018	Emmett (STEAM_0:1:41660292): // does justin know the password to this server?
+Wed May  9 17:04:59 2018	Fat Gay (STEAM_0:1:218173703): /ooc no
+Wed May  9 17:05:06 2018	Emmett (STEAM_0:1:41660292): who does?
+Wed May  9 17:05:13 2018	Fat Gay (STEAM_0:1:218173703): /ooc idc tho
+Wed May  9 17:06:02 2018	Emmett (STEAM_0:1:41660292): // Can I tell justin the pass?
+Wed May  9 17:06:07 2018	Fat Gay (STEAM_0:1:218173703): /ooc sure idc
+Wed May  9 17:06:14 2018	Emmett (STEAM_0:1:41660292): // bet brb
+Wed May  9 17:06:22 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:06:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:06:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 17:07:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_regular
+Wed May  9 17:08:52 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Wed May  9 17:08:52 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 17:09:14 2018	Emmett (STEAM_0:1:41660292): /nick Emmett
+Wed May  9 17:10:46 2018	Emmett (STEAM_0:1:41660292): !bring zer
+Wed May  9 17:12:56 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:14:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_zombie_flesh
+Wed May  9 17:14:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT eoti_raven_stone
+Wed May  9 17:14:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fas2_ammocrate
+Wed May  9 17:14:31 2018	Emmett (STEAM_0:1:41660292): // is justin an admin?
+Wed May  9 17:14:42 2018	Fat Gay (STEAM_0:1:218173703): /ooc hold on
+Wed May  9 17:14:50 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Wed May  9 17:15:03 2018	Zerrakoth (STEAM_0:1:44006700): // iM a SeNiOr sUpEr aDmIn
+Wed May  9 17:15:06 2018	Emmett (STEAM_0:1:41660292): lmao
+Wed May  9 17:15:10 2018	Emmett (STEAM_0:1:41660292): // lol
+Wed May  9 17:15:10 2018	Zerrakoth (STEAM_0:1:44006700): //may i speak to a MaNaGeR
+Wed May  9 17:15:22 2018	Zerrakoth (STEAM_0:1:44006700): // MAY I SPEAK TO A MaNaGeR
+Wed May  9 17:15:22 2018	Fat Gay (STEAM_0:1:218173703): /ooc we dont have senior/trial roles anymore
+Wed May  9 17:15:27 2018	Zerrakoth (STEAM_0:1:44006700): // rip
+Wed May  9 17:15:28 2018	Fat Gay (STEAM_0:1:218173703): /ooc its simplified
+Wed May  9 17:15:31 2018	Zerrakoth (STEAM_0:1:44006700): // true
+Wed May  9 17:15:38 2018	Fat Gay (STEAM_0:1:218173703): /ooc also the co owner and manager didnt do SHIT
+Wed May  9 17:15:42 2018	Emmett (STEAM_0:1:41660292): // Did we talk about moving my rank up?
+Wed May  9 17:15:42 2018	Zerrakoth (STEAM_0:1:44006700): // lol
+Wed May  9 17:15:44 2018	Fat Gay (STEAM_0:1:218173703): /ooc so they are gon
+Wed May  9 17:15:46 2018	Fat Gay (STEAM_0:1:218173703): /ooc no
+Wed May  9 17:16:05 2018	Fat Gay (STEAM_0:1:218173703): /ooc but i mean
+Wed May  9 17:16:16 2018	Fat Gay (STEAM_0:1:218173703): /ooc if i were to increase a role
+Wed May  9 17:16:26 2018	Zerrakoth (STEAM_0:1:44006700): /dropweapon
+Wed May  9 17:16:33 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT cw_ammo_crate_small
+Wed May  9 17:16:33 2018	Fat Gay (STEAM_0:1:218173703): /ooc you would probably be first in line, you probably did the most out of everybody here, aside from me
+Wed May  9 17:16:53 2018	Zerrakoth (STEAM_0:1:44006700): // ive been trying to get promoted
+Wed May  9 17:16:56 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Wed May  9 17:17:00 2018	Zerrakoth (STEAM_0:1:44006700): // but uh yeah this server was locked
+Wed May  9 17:17:01 2018	Fat Gay (STEAM_0:1:218173703): /ooc you cant lol
+Wed May  9 17:17:13 2018	Fat Gay (STEAM_0:1:218173703): /ooc youre already the highest
+Wed May  9 17:17:19 2018	Fat Gay (STEAM_0:1:218173703): /ooc with the new role tree
+Wed May  9 17:17:22 2018	Zerrakoth (STEAM_0:1:44006700): // oh
+Wed May  9 17:17:26 2018	Zerrakoth (STEAM_0:1:44006700): // lmao
+Wed May  9 17:17:50 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Wed May  9 17:17:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:17:59 2018	Fat Gay (STEAM_0:1:218173703): /ooc why not
+Wed May  9 17:18:02 2018	Zerrakoth (STEAM_0:1:44006700): // bet
+Wed May  9 17:18:03 2018	Emmett (STEAM_0:1:41660292): // thanks papa garrett
+Wed May  9 17:18:09 2018	Fat Gay (STEAM_0:1:218173703): /ooc no homo
+Wed May  9 17:18:12 2018	Fat Gay (STEAM_0:1:218173703): /ooc ;)
+Wed May  9 17:18:14 2018	Emmett (STEAM_0:1:41660292): // no homo 
+Wed May  9 17:18:20 2018	Zerrakoth (STEAM_0:1:44006700): // bout 2 marry u
+Wed May  9 17:18:23 2018	Zerrakoth (STEAM_0:1:44006700): // no homo tho
+Wed May  9 17:18:28 2018	Fat Gay (STEAM_0:1:218173703): /ooc oh
+Wed May  9 17:18:31 2018	Emmett (STEAM_0:1:41660292): // bout to marry the love of my love no homo
+Wed May  9 17:18:34 2018	Fat Gay (STEAM_0:1:218173703): /ooc no homo
+Wed May  9 17:18:39 2018	Zerrakoth (STEAM_0:1:44006700): // no homo tho so its chill
+Wed May  9 17:18:57 2018	Emmett (STEAM_0:1:41660292): /kill zer
+Wed May  9 17:19:00 2018	Fat Gay (STEAM_0:1:218173703): /ooc im gonna set up ammo crates
+Wed May  9 17:19:04 2018	Zerrakoth was killed by Himself with a suicide trick
+Wed May  9 17:19:08 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 17:19:28 2018	Emmett (STEAM_0:1:41660292): !bring z
+Wed May  9 17:20:05 2018	Fat Gay was killed by Himself with a suicide trick
+Wed May  9 17:20:05 2018	Fat Gay (STEAM_0:1:218173703): !slay fat
+Wed May  9 17:20:06 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 17:21:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:22:28 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Wed May  9 17:23:14 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 17:23:49 2018	Fat Gay (STEAM_0:1:218173703): /ooc also i have to finish the rules
+Wed May  9 17:23:53 2018	Fat Gay (STEAM_0:1:218173703): /ooc job specific ones
+Wed May  9 17:24:10 2018	Fat Gay (STEAM_0:1:218173703): /ooc and add handcuffs/m4a1's to jobs
+Wed May  9 17:25:00 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Wed May  9 17:25:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 17:25:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fas2_ammocrate
+Wed May  9 17:26:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fas2_ammocrate
+Wed May  9 17:26:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fas2_ammocrate
+Wed May  9 17:27:34 2018	Emmett (STEAM_0:1:41660292): /dropmoney 100
+Wed May  9 17:27:35 2018	Emmett (STEAM_0:1:41660292) has dropped $100
+Wed May  9 17:27:45 2018	Emmett (STEAM_0:1:41660292): /dropmoney 100
+Wed May  9 17:27:46 2018	Emmett (STEAM_0:1:41660292) has dropped $100
+Wed May  9 17:28:04 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fas2_ammokit
+Wed May  9 17:28:16 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Wed May  9 17:29:20 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 17:30:02 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:31:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT tierp_printer
+Wed May  9 17:33:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_kit_regular
+Wed May  9 17:33:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_regular
+Wed May  9 17:33:32 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT cw_ammo_crate_small
+Wed May  9 17:34:31 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT cw_ammo_fraggrenades
+Wed May  9 17:34:34 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT cw_ammo_crate_small
+Wed May  9 17:34:50 2018	Zerrakoth (STEAM_0:1:44006700): /warrant
+Wed May  9 17:34:51 2018	Emmett (STEAM_0:1:41660292): /warrant
+Wed May  9 17:34:57 2018	Zerrakoth (STEAM_0:1:44006700): /warrant Terrorist
+Wed May  9 17:35:06 2018	Zerrakoth (STEAM_0:1:44006700): /warrant Emmet terrorist
+Wed May  9 17:37:27 2018	Fat Gay (STEAM_0:1:218173703): /ooc ok im gonna add cuffs and m4a1s in a secv
+Wed May  9 17:37:33 2018	Fat Gay (STEAM_0:1:218173703): /ooc its gonna break the hud
+Wed May  9 17:37:53 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 17:38:05 2018	Emmett (STEAM_0:1:41660292): huh
+Wed May  9 17:38:12 2018	Emmett (STEAM_0:1:41660292): me and joos are roleplaying
+Wed May  9 17:38:37 2018	Fat Gay (STEAM_0:1:218173703): !goto jus
+Wed May  9 17:38:40 2018	Fat Gay (STEAM_0:1:218173703): !goto zer
+Wed May  9 17:38:49 2018	Emmett (STEAM_0:1:41660292): // hes afk
+Wed May  9 17:38:53 2018	Fat Gay (STEAM_0:1:218173703): /ooc oh
+Wed May  9 17:42:08 2018	Fat Gay (STEAM_0:1:218173703): /ooc RIP HUD
+Wed May  9 17:47:20 2018	Emmett was killed by Himself with a suicide trick
+Wed May  9 17:47:21 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 17:48:19 2018	Emmett (STEAM_0:1:41660292): // tf
+Wed May  9 17:48:23 2018	Emmett (STEAM_0:1:41660292): !bring z
+Wed May  9 17:48:27 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 17:48:51 2018	Emmett (STEAM_0:1:41660292): theres no hud
+Wed May  9 17:50:09 2018	Emmett (STEAM_0:1:41660292): 1.3 m
+Wed May  9 17:50:16 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1000000
+Wed May  9 17:50:17 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1,000,000
+Wed May  9 17:51:39 2018	Fat Gay was killed by Himself with a suicide trick
+Wed May  9 17:53:12 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT cw_ammo_crate_small
+Wed May  9 17:54:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 17:54:30 2018	Emmett (STEAM_0:1:41660292): /sellalldoors
+Wed May  9 17:59:41 2018	Fat Gay (STEAM_0:1:218173703): /ooc ok all done
+Wed May  9 17:59:48 2018	Fat Gay (STEAM_0:1:218173703): /ooc im gonna restart the server in a sec
+Wed May  9 18:00:38 2018	Emmett (STEAM_0:1:41660292): aight we good
+Wed May  9 18:00:50 2018	Emmett (STEAM_0:1:41660292): // aight u can restart

@@ -1,0 +1,21 @@
+Tue Jul 24 16:00:15 2018	Valien (STEAM_0:1:41660292) has joined the game
+Tue Jul 24 16:00:15 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 16:00:41 2018	Emmett (STEAM_0:1:41660292): 
+Tue Jul 24 16:01:34 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 16:11:21 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 16:39:08 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Tue Jul 24 16:39:08 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 16:39:40 2018	Emmett (STEAM_0:1:41660292) disconnected
+Tue Jul 24 20:42:58 2018	Valien (STEAM_0:1:41660292) has joined the game
+Tue Jul 24 20:42:58 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 20:43:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 20:47:53 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Tue Jul 24 20:47:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 20:50:30 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Tue Jul 24 20:50:31 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 20:52:23 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Tue Jul 24 20:52:24 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Jul 24 21:06:25 2018	Bot01 (BOT) has joined the game
+Tue Jul 24 21:06:25 2018	Bot01 (BOT) spawned
+Tue Jul 24 21:16:16 2018	Emmett (STEAM_0:1:41660292) disconnected
+Tue Jul 24 21:16:16 2018	Bot01 (BOT) disconnected

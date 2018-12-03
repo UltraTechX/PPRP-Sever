@@ -1,0 +1,25 @@
+Wed Oct 10 02:26:00 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) has joined the game
+Wed Oct 10 02:26:00 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:30:20 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:30:37 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:30:51 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:32:03 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:32:16 2018	▼GEWPInspectorBonk Garbage.TF was killed by Himself with a suicide trick
+Wed Oct 10 02:32:31 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:35:05 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /drop
+Wed Oct 10 02:35:09 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /drop
+Wed Oct 10 02:35:11 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /drop
+Wed Oct 10 02:42:11 2018	▼GEWPInspectorBonk Garbage.TF was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 10 02:42:12 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:49:03 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:49:21 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:49:49 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:49:55 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): hi
+Wed Oct 10 02:51:31 2018	▼GEWPInspectorBonk Garbage.TF was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 02:51:32 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:55:00 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 03:04:22 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) disconnected
+Wed Oct 10 03:23:51 2018	DTrainsMan123 (STEAM_0:1:95620169) has joined the game
+Wed Oct 10 03:23:51 2018	DTrainsMan123 (STEAM_0:1:95620169) spawned
+Wed Oct 10 03:27:57 2018	DTrainsMan123 (STEAM_0:1:95620169): Howdy, do, I'm new to this facility.
+Wed Oct 10 03:39:45 2018	DTrainsMan123 (STEAM_0:1:95620169): Core temperatures rising.

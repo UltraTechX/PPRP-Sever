@@ -1,0 +1,339 @@
+Sun Oct  7 18:02:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 18:02:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:03:15 2018	mr bean (STEAM_0:0:23292214) has joined the game
+Sun Oct  7 18:03:15 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 18:03:18 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 18:03:18 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 18:03:19 2018	Oatsmcgee (STEAM_0:0:139498605) has joined the game
+Sun Oct  7 18:03:19 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:04:28 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:04:58 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:05:15 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 18:05:18 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Sun Oct  7 18:05:18 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 18:05:28 2018	mr bean (STEAM_0:0:23292214) disconnected
+Sun Oct  7 18:05:55 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:07:11 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) has joined the game
+Sun Oct  7 18:07:11 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 18:07:22 2018	TempusBilBoJo (STEAM_0:0:204382926): yes
+Sun Oct  7 18:07:39 2018	TempusBilBoJo (STEAM_0:0:204382926): I gotta say
+Sun Oct  7 18:07:43 2018	TempusBilBoJo (STEAM_0:0:204382926): love your eyes
+Sun Oct  7 18:07:47 2018	TempusBilBoJo (STEAM_0:0:204382926): they are mezmorizing
+Sun Oct  7 18:08:40 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 18:09:36 2018	TempusBilBoJo (STEAM_0:0:204382926): yes
+Sun Oct  7 18:09:49 2018	TempusBilBoJo (STEAM_0:0:204382926): yes
+Sun Oct  7 18:09:52 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 18:09:52 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:10:31 2018	TempusBilBoJo (STEAM_0:0:204382926): is this a black hole generator?
+Sun Oct  7 18:10:40 2018	TempusBilBoJo (STEAM_0:0:204382926): nice
+Sun Oct  7 18:11:48 2018	TempusBilBoJo (STEAM_0:0:204382926): why is my pelvis so small
+Sun Oct  7 18:11:58 2018	TempusBilBoJo (STEAM_0:0:204382926): ah shit
+Sun Oct  7 18:12:31 2018	TempusBilBoJo (STEAM_0:0:204382926): ah shit
+Sun Oct  7 18:12:36 2018	TempusBilBoJo (STEAM_0:0:204382926): no daddy
+Sun Oct  7 18:12:50 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 18:12:50 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:12:59 2018	Nosey (STEAM_0:0:139498605): // Hell yeah
+Sun Oct  7 18:12:59 2018	TempusBilBoJo (STEAM_0:0:204382926): Yes daddy
+Sun Oct  7 18:13:05 2018	Nosey (STEAM_0:0:139498605): /name Nosey
+Sun Oct  7 18:13:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im finally home
+Sun Oct  7 18:13:07 2018	TempusBilBoJo (STEAM_0:0:204382926): but I have to go to another dimension to take a shit first
+Sun Oct  7 18:13:07 2018	Nosey (STEAM_0:0:139498605): // yeet
+Sun Oct  7 18:13:13 2018	Nosey (STEAM_0:0:139498605): /name Nosey
+Sun Oct  7 18:13:24 2018	TempusBilBoJo (STEAM_0:0:204382926): well
+Sun Oct  7 18:13:27 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): /A Sup
+Sun Oct  7 18:13:32 2018	TempusBilBoJo (STEAM_0:0:204382926): I need to die to go to the other dimension so
+Sun Oct  7 18:13:50 2018	TempusBilBoJo (STEAM_0:0:204382926): /y Its been nice knowing you
+Sun Oct  7 18:13:54 2018	TempusBilBoJo was killed by Entity [2744][func_rotating] with a func_rotating
+Sun Oct  7 18:14:12 2018	TempusBilBoJo (STEAM_0:0:204382926) disconnected
+Sun Oct  7 18:14:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:15:37 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) disconnected
+Sun Oct  7 18:16:19 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:16:21 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:17:53 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 18:17:53 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:18:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sun Oct  7 18:18:41 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sun Oct  7 18:18:49 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sun Oct  7 18:18:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sun Oct  7 18:19:09 2018	GMan (STEAM_0:1:444450075): /Job The Directotrs Conscience
+Sun Oct  7 18:19:43 2018	GMan (STEAM_0:1:444450075): i am good
+Sun Oct  7 18:19:46 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:19:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /rewards
+Sun Oct  7 18:20:00 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:20:02 2018	GMan (STEAM_0:1:444450075): i am the Conscience of the site director so only he can see me btw)
+Sun Oct  7 18:20:17 2018	GMan (STEAM_0:1:444450075): im gman i do what i want
+Sun Oct  7 18:20:35 2018	GMan (STEAM_0:1:444450075): /me looks at watch
+Sun Oct  7 18:20:48 2018	Carl Jameson (STEAM_0:0:9204571) has joined the game
+Sun Oct  7 18:20:48 2018	Carl Jameson (STEAM_0:0:9204571) spawned
+Sun Oct  7 18:20:58 2018	GMan (STEAM_0:1:444450075): escort me to the core
+Sun Oct  7 18:21:05 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:21:14 2018	GMan (STEAM_0:1:444450075): your my guard 
+Sun Oct  7 18:21:42 2018	GMan (STEAM_0:1:444450075): i have beter idea
+Sun Oct  7 18:21:48 2018	GMan (STEAM_0:1:444450075): /Job Senator
+Sun Oct  7 18:22:10 2018	GMan (STEAM_0:1:444450075): /Name Senator GMan
+Sun Oct  7 18:22:21 2018	[Opi] Fat Gay was killed by Lukyn Red with a cw_l85a2
+Sun Oct  7 18:22:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:22:34 2018	Senator GMan (STEAM_0:1:444450075): fuck the director died
+Sun Oct  7 18:22:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:22:43 2018	Senator GMan (STEAM_0:1:444450075): No
+Sun Oct  7 18:22:50 2018	Senator GMan (STEAM_0:1:444450075): it does not
+Sun Oct  7 18:23:08 2018	Senator GMan (STEAM_0:1:444450075): i can handel my self
+Sun Oct  7 18:23:22 2018	Lukyn Red (STEAM_0:0:81441026): // What are the secret undergound black markets for?
+Sun Oct  7 18:23:36 2018	The Kettle (STEAM_0:0:86812760): // black market things
+Sun Oct  7 18:23:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc mainly for dealing weapons
+Sun Oct  7 18:23:47 2018	Lukyn Red (STEAM_0:0:81441026): // how do you use them?
+Sun Oct  7 18:24:04 2018	Carl Jameson (STEAM_0:0:9204571) spawned
+Sun Oct  7 18:24:07 2018	The Kettle was killed by [Opi] Fat Gay with a weapon_l4d2_frying_pan
+Sun Oct  7 18:24:08 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:24:37 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:24:44 2018	Carl Jameson (STEAM_0:0:9204571): hi, what's this game mode?
+Sun Oct  7 18:24:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yo kettle you can be a meme with PAC but dont do anything that gives you an advantage, you hear?
+Sun Oct  7 18:24:57 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:25:03 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 18:25:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:25:13 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:25:23 2018	The Kettle (STEAM_0:0:86812760): // oh shit sorry this is from a different server and i forgot to change the loadup
+Sun Oct  7 18:25:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its fine
+Sun Oct  7 18:26:23 2018	Carl Jameson (STEAM_0:0:9204571): // so what's the goal of this game?
+Sun Oct  7 18:26:33 2018	Lukyn Red (STEAM_0:0:81441026): // don't blowup
+Sun Oct  7 18:26:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc to keep the power plant from exploding (unless you are a terrorist/anomalous creature)
+Sun Oct  7 18:27:13 2018	Senator GMan was killed by Entity [2118][entityflame] with a entityflame
+Sun Oct  7 18:27:14 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:27:29 2018	Senator GMan (STEAM_0:1:444450075): i wa sin the tram
+Sun Oct  7 18:27:42 2018	Senator GMan (STEAM_0:1:444450075): yea\
+Sun Oct  7 18:27:46 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 18:27:47 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 18:27:53 2018	Senator GMan (STEAM_0:1:444450075): i care
+Sun Oct  7 18:28:04 2018	Senator GMan (STEAM_0:1:444450075): i care very mutch
+Sun Oct  7 18:28:37 2018	Senator GMan (STEAM_0:1:444450075): gman is sad
+Sun Oct  7 18:28:53 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:29:05 2018	Senator GMan (STEAM_0:1:444450075): im doing good
+Sun Oct  7 18:29:10 2018	Senator GMan (STEAM_0:1:444450075): rember me
+Sun Oct  7 18:29:19 2018	Senator GMan (STEAM_0:1:444450075): i like it here
+Sun Oct  7 18:29:27 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:29:27 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 18:29:28 2018	Lukyn Red (STEAM_0:0:81441026): /pm fat I think some of the teeth of the airlock doors are nomaterial
+Sun Oct  7 18:29:38 2018	Senator GMan (STEAM_0:1:444450075): hail gman
+Sun Oct  7 18:29:39 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:29:49 2018	Senator GMan (STEAM_0:1:444450075): all hail gman
+Sun Oct  7 18:29:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc trust me, I tried, the one tooth just doesnt wanna show
+Sun Oct  7 18:30:16 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:30:20 2018	Lukyn Red (STEAM_0:0:81441026): // why is my ping so high?
+Sun Oct  7 18:30:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk
+Sun Oct  7 18:30:29 2018	Lukyn Red (STEAM_0:0:81441026): // is this hosted in the US?
+Sun Oct  7 18:30:44 2018	Senator GMan (STEAM_0:1:444450075): hello mr freeman
+Sun Oct  7 18:30:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc it normally is hosted from US east, but because of issues were hosting from canada rn
+Sun Oct  7 18:31:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i have a ping of 49 and im in PA so idk
+Sun Oct  7 18:31:25 2018	Lukyn Red (STEAM_0:0:81441026): // I am in Europe
+Sun Oct  7 18:31:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ah, thats probably why
+Sun Oct  7 18:31:38 2018	The Kettle (STEAM_0:0:86812760): // england is my city
+Sun Oct  7 18:31:43 2018	Virryi (STEAM_0:1:82934475) has joined the game
+Sun Oct  7 18:31:43 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Sun Oct  7 18:31:48 2018	Lukyn Red (STEAM_0:0:81441026): // fyling chefs
+Sun Oct  7 18:31:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc admin on duty without being admin on duty
+Sun Oct  7 18:32:00 2018	The Kettle (STEAM_0:0:86812760): // admin abuse
+Sun Oct  7 18:32:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Sun Oct  7 18:32:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fine
+Sun Oct  7 18:32:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:32:17 2018	Senator GMan (STEAM_0:1:444450075): gman must terminate treat
+Sun Oct  7 18:32:22 2018	The Kettle (STEAM_0:0:86812760): // fuuuuuuuuuuuuuu
+Sun Oct  7 18:32:26 2018	Lukyn Red (STEAM_0:0:81441026): // does the weapon synthesizer work?
+Sun Oct  7 18:32:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc meltdown only
+Sun Oct  7 18:32:36 2018	Senator GMan (STEAM_0:1:444450075): knife  duel
+Sun Oct  7 18:32:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc gives crossbow, rpg, and fletchette launcher
+Sun Oct  7 18:32:53 2018	Senator GMan was killed by Nosey with a cw_g3a3
+Sun Oct  7 18:32:56 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:32:56 2018	Lukyn Red (STEAM_0:0:81441026): // Do you need to be researcher to activate?
+Sun Oct  7 18:32:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc good for defenseless visitors
+Sun Oct  7 18:33:15 2018	Senator GMan (STEAM_0:1:444450075): you cant kill the gman
+Sun Oct  7 18:33:27 2018	Lukyn Red (STEAM_0:0:81441026): // It's under glass
+Sun Oct  7 18:33:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto luk
+Sun Oct  7 18:33:42 2018	The Kettle (STEAM_0:0:86812760): // if i kill the owner do i get banned?
+Sun Oct  7 18:33:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc maybe
+Sun Oct  7 18:33:58 2018	The Kettle (STEAM_0:0:86812760): // guess whos getting banned then
+Sun Oct  7 18:34:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Sun Oct  7 18:34:03 2018	Lukyn Red (STEAM_0:0:81441026): How to unlock it?
+Sun Oct  7 18:34:09 2018	Senator GMan (STEAM_0:1:444450075): gman is not happy
+Sun Oct  7 18:34:15 2018	Lukyn Red (STEAM_0:0:81441026): Oh
+Sun Oct  7 18:34:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 18:34:23 2018	The Kettle (STEAM_0:0:86812760): // does noone care about the core temp
+Sun Oct  7 18:34:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc apparently
+Sun Oct  7 18:34:29 2018	Lukyn Red (STEAM_0:0:81441026): // I do
+Sun Oct  7 18:34:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im swat
+Sun Oct  7 18:34:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im not trained to work with the core
+Sun Oct  7 18:34:48 2018	Lukyn Red (STEAM_0:0:81441026): // I want to cook some steel so I need high temp
+Sun Oct  7 18:35:04 2018	Senator GMan (STEAM_0:1:444450075): gman escapes
+Sun Oct  7 18:35:14 2018	Senator GMan (STEAM_0:1:444450075): nosey
+Sun Oct  7 18:35:25 2018	The Kettle (STEAM_0:0:86812760): welp imma bout to blow up this facility so have fun
+Sun Oct  7 18:35:26 2018	Nosey (STEAM_0:0:139498605): // um
+Sun Oct  7 18:35:28 2018	Lukyn Red (STEAM_0:0:81441026): // How do we tell the difference between OOC and Advert chat?
+Sun Oct  7 18:35:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn nosey att. RDM (CBRN att. rdm. manager)
+Sun Oct  7 18:35:38 2018	Nosey (STEAM_0:0:139498605): // What the fuck
+Sun Oct  7 18:35:42 2018	Nosey (STEAM_0:0:139498605): // He tricked me
+Sun Oct  7 18:35:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you cant kill for that
+Sun Oct  7 18:35:50 2018	The Kettle (STEAM_0:0:86812760): // dats allata REASONS
+Sun Oct  7 18:35:51 2018	Nosey (STEAM_0:0:139498605): // He was told to stay with me
+Sun Oct  7 18:35:59 2018	Nosey (STEAM_0:0:139498605): // He tried to stab me
+Sun Oct  7 18:36:03 2018	Nosey (STEAM_0:0:139498605): // And he escaped
+Sun Oct  7 18:36:08 2018	Pootis Bird (STEAM_0:0:22086175): // Welp cores fucked
+Sun Oct  7 18:36:15 2018	The Kettle (STEAM_0:0:86812760): // woop woop
+Sun Oct  7 18:36:17 2018	Senator GMan (STEAM_0:1:444450075): yea he shot we was a threat to the site
+Sun Oct  7 18:36:18 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 18:36:18 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 18:36:26 2018	Lukyn Red (STEAM_0:0:81441026): // Well you should cool it down. You are a plant worker
+Sun Oct  7 18:36:28 2018	Senator GMan (STEAM_0:1:444450075): ummm
+Sun Oct  7 18:36:34 2018	Senator GMan (STEAM_0:1:444450075): this not good
+Sun Oct  7 18:36:37 2018	Lukyn Red (STEAM_0:0:81441026): you are coming with me
+Sun Oct  7 18:36:40 2018	Pootis Bird (STEAM_0:0:22086175): // I could but that requires me to go in and I cant
+Sun Oct  7 18:36:56 2018	The Kettle (STEAM_0:0:86812760): // suck it swat
+Sun Oct  7 18:37:08 2018	Lukyn Red (STEAM_0:0:81441026): what are you doing here
+Sun Oct  7 18:37:09 2018	Senator GMan (STEAM_0:1:444450075): i did shank him but not kill him
+Sun Oct  7 18:37:12 2018	Pootis Bird (STEAM_0:0:22086175): lol
+Sun Oct  7 18:37:12 2018	Jeremy Dormotes (STEAM_0:1:82934475) disconnected
+Sun Oct  7 18:37:12 2018	Nosey (STEAM_0:0:139498605): /pm gman When I get my hands on you, that briefcase is going to be down your gut
+Sun Oct  7 18:37:14 2018	Carl Jameson (STEAM_0:0:9204571): im sabotaging stuff
+Sun Oct  7 18:37:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warns
+Sun Oct  7 18:37:19 2018	Lukyn Red (STEAM_0:0:81441026): good
+Sun Oct  7 18:37:27 2018	Senator GMan (STEAM_0:1:444450075): i will not lie
+Sun Oct  7 18:37:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc sorry oats
+Sun Oct  7 18:37:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i didnt know he actually shanked you
+Sun Oct  7 18:38:00 2018	Nosey (STEAM_0:0:139498605): // It happens, it's cool
+Sun Oct  7 18:38:08 2018	Dave Letcher (STEAM_0:1:52038966): // I joi nagain
+Sun Oct  7 18:38:11 2018	Dave Letcher (STEAM_0:1:52038966): // and we're already about to detonate
+Sun Oct  7 18:38:13 2018	Lukyn Red (STEAM_0:0:81441026): here
+Sun Oct  7 18:38:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yup lol
+Sun Oct  7 18:38:19 2018	Lukyn Red (STEAM_0:0:81441026): hostage
+Sun Oct  7 18:38:23 2018	Senator GMan (STEAM_0:1:444450075): you cnat contain gman
+Sun Oct  7 18:38:23 2018	The Kettle (STEAM_0:0:86812760): come
+Sun Oct  7 18:38:30 2018	Senator GMan (STEAM_0:1:444450075): he wraps time and space
+Sun Oct  7 18:38:37 2018	The Kettle (STEAM_0:0:86812760): IN
+Sun Oct  7 18:38:42 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 18:38:58 2018	Lukyn Red (STEAM_0:0:81441026): we need the generator
+Sun Oct  7 18:39:06 2018	The Kettle (STEAM_0:0:86812760): no we dont
+Sun Oct  7 18:39:11 2018	Lukyn Red (STEAM_0:0:81441026): for something
+Sun Oct  7 18:39:13 2018	The Kettle (STEAM_0:0:86812760): this place is gonna blow
+Sun Oct  7 18:39:14 2018	Lukyn Red was killed by Nosey with a cw_g3a3
+Sun Oct  7 18:39:20 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:39:25 2018	Senator GMan (STEAM_0:1:444450075): umm run...
+Sun Oct  7 18:39:35 2018	Nosey was killed by The Kettle with a cw_scarh
+Sun Oct  7 18:39:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert EVERYONE TO THE CORE IMMIDIATELY, WE MUST KILL OSAMA
+Sun Oct  7 18:39:51 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:39:53 2018	The Kettle (STEAM_0:0:86812760): // i aint htere fuck face
+Sun Oct  7 18:39:58 2018	Pootis Bird (STEAM_0:0:22086175): Oke
+Sun Oct  7 18:40:00 2018	Senator GMan (STEAM_0:1:444450075): i shoot him with ym suit case
+Sun Oct  7 18:40:01 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:40:07 2018	Carl Jameson (STEAM_0:0:9204571): // osama isnt your problem, im the one who sabotaged everything
+Sun Oct  7 18:40:15 2018	Nosey (STEAM_0:0:139498605): // Failrp
+Sun Oct  7 18:40:20 2018	The Kettle (STEAM_0:0:86812760): // they fuck it up
+Sun Oct  7 18:40:25 2018	The Kettle (STEAM_0:0:86812760): // i had a hostage
+Sun Oct  7 18:40:25 2018	Lukyn Red was killed by [Opi] Fat Gay with a cw_g36c
+Sun Oct  7 18:40:28 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:40:29 2018	The Kettle (STEAM_0:0:86812760): // now he dies
+Sun Oct  7 18:40:33 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:40:36 2018	Pootis Bird was killed by The Kettle with a cw_mr96
+Sun Oct  7 18:40:38 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 18:40:43 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:40:58 2018	Pootis Bird (STEAM_0:0:22086175): // 
+Sun Oct  7 18:41:04 2018	The Kettle (STEAM_0:0:86812760): // i am coming for whoever sabotarged me
+Sun Oct  7 18:41:30 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:42:00 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:42:00 2018	Lukyn Red (STEAM_0:0:81441026): // what is the e-stop for?
+Sun Oct  7 18:42:08 2018	Carl Jameson was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 18:42:12 2018	Carl Jameson (STEAM_0:0:9204571) spawned
+Sun Oct  7 18:42:17 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:42:40 2018	Pootis Bird (STEAM_0:0:22086175): Lol Osama Been Liftin
+Sun Oct  7 18:42:54 2018	Nosey (STEAM_0:0:139498605): // EVERYONE TERRORIST OR NOT GET THE FUCK TO THE ROCKET
+Sun Oct  7 18:43:29 2018	Senator GMan was killed by The Kettle with a cw_scarh
+Sun Oct  7 18:43:39 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:43:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gman
+Sun Oct  7 18:43:46 2018	Senator GMan was killed by The Kettle with a cw_scarh
+Sun Oct  7 18:43:48 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:43:48 2018	[Opi] Fat Gay was killed by The Kettle with a cw_scarh
+Sun Oct  7 18:43:48 2018	Lukyn Red (STEAM_0:0:81441026): /pm kettle where are you?
+Sun Oct  7 18:43:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:43:57 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:43:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert I FAILED! RUN!
+Sun Oct  7 18:44:01 2018	The Kettle was killed by Dave Letcher with a cw_deagle
+Sun Oct  7 18:44:02 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:44:02 2018	Senator GMan (STEAM_0:1:444450075): // again tp
+Sun Oct  7 18:44:11 2018	Dave Letcher (STEAM_0:1:52038966): // I GOT HIM
+Sun Oct  7 18:44:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gman
+Sun Oct  7 18:44:16 2018	The Kettle (STEAM_0:0:86812760): oh shit
+Sun Oct  7 18:44:34 2018	The Kettle (STEAM_0:0:86812760): // but did you
+Sun Oct  7 18:44:52 2018	Senator GMan (STEAM_0:1:444450075): after this i will warp space and time and this whould have never happend but you will not remeber eny thing
+Sun Oct  7 18:44:54 2018	Lukyn Red (STEAM_0:0:81441026): /pm kettle Should I kill everyone in the rocket?
+Sun Oct  7 18:45:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): vort
+Sun Oct  7 18:45:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cheese
+Sun Oct  7 18:45:12 2018	Senator GMan (STEAM_0:1:444450075): never
+Sun Oct  7 18:45:13 2018	Pootis Bird (STEAM_0:0:22086175): I could of stopped this if we had more security stopping Terrorists.
+Sun Oct  7 18:45:13 2018	The Kettle (STEAM_0:0:86812760): /pm luk yes
+Sun Oct  7 18:45:16 2018	Senator GMan (STEAM_0:1:444450075): combine
+Sun Oct  7 18:45:21 2018	Senator GMan (STEAM_0:1:444450075): cheese
+Sun Oct  7 18:45:32 2018	The Kettle (STEAM_0:0:86812760): follow me
+Sun Oct  7 18:45:33 2018	Carl Jameson (STEAM_0:0:9204571): // wasnt terrorist doing the sabotaging lmao, was me!!!!
+Sun Oct  7 18:45:38 2018	Pootis Bird (STEAM_0:0:22086175): Lol
+Sun Oct  7 18:45:39 2018	Senator GMan (STEAM_0:1:444450075): it to late
+Sun Oct  7 18:45:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fuck
+Sun Oct  7 18:45:48 2018	Lukyn Red (STEAM_0:0:81441026): laucnh it
+Sun Oct  7 18:45:55 2018	Senator GMan (STEAM_0:1:444450075): long live 
+Sun Oct  7 18:45:57 2018	Lukyn Red (STEAM_0:0:81441026): Idk how
+Sun Oct  7 18:46:01 2018	Pootis Bird (STEAM_0:0:22086175): I tried to stop it anyway but going into the core room was dangerous.
+Sun Oct  7 18:46:09 2018	Pootis Bird (STEAM_0:0:22086175): Almost died actually
+Sun Oct  7 18:46:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 18:46:16 2018	Lukyn Red (STEAM_0:0:81441026): launch the rocket
+Sun Oct  7 18:46:22 2018	Lukyn Red (STEAM_0:0:81441026): oh wait
+Sun Oct  7 18:46:25 2018	Lukyn Red (STEAM_0:0:81441026): nvm
+Sun Oct  7 18:46:31 2018	Pootis Bird (STEAM_0:0:22086175): HAHAHA
+Sun Oct  7 18:46:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc see everyone in space
+Sun Oct  7 18:46:33 2018	Dave Letcher (STEAM_0:1:52038966): /
+Sun Oct  7 18:46:34 2018	Pootis Bird (STEAM_0:0:22086175): Osama ded
+Sun Oct  7 18:46:35 2018	Carl Jameson (STEAM_0:0:9204571): LOOOOOOOOOOOOOOOOOOOL
+Sun Oct  7 18:46:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !donate
+Sun Oct  7 18:46:43 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:46:51 2018	The Kettle was killed by Himself with a suicide trick
+Sun Oct  7 18:46:52 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:46:53 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:47:02 2018	The Kettle (STEAM_0:0:86812760): we safe here
+Sun Oct  7 18:47:12 2018	Pootis Bird was killed by Lukyn Red with a cw_m3super90
+Sun Oct  7 18:47:15 2018	Dave Letcher was killed by Lukyn Red with a cw_m3super90
+Sun Oct  7 18:47:16 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 18:47:23 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:47:26 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:47:30 2018	Senator GMan (STEAM_0:1:444450075): e
+Sun Oct  7 18:47:36 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 18:47:39 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:47:39 2018	The Kettle was killed by Nosey with a env_explosion
+Sun Oct  7 18:47:40 2018	Mike (STEAM_0:1:41660292): sound is off
+Sun Oct  7 18:47:40 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:47:41 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:47:45 2018	Carl Jameson was killed by Lukyn Red with a cw_m3super90
+Sun Oct  7 18:47:46 2018	Mike (STEAM_0:1:41660292): ill call u in like 5
+Sun Oct  7 18:47:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): HE DIDNT MAKE IT LOL
+Sun Oct  7 18:47:48 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:47:49 2018	Dave Letcher (STEAM_0:1:52038966): /y HELP
+Sun Oct  7 18:47:49 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:47:50 2018	Carl Jameson (STEAM_0:0:9204571) spawned
+Sun Oct  7 18:47:55 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:47:55 2018	The Kettle was killed by Nosey with a env_explosion
+Sun Oct  7 18:47:56 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:47:56 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:47:57 2018	Lukyn Red was killed by Himself with a suicide trick
+Sun Oct  7 18:47:59 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:48:00 2018	Carl Jameson (STEAM_0:0:9204571): AAAAAAHAHAHAHAAHAHAHAHAHAHAH
+Sun Oct  7 18:48:02 2018	Senator GMan (STEAM_0:1:444450075): nope
+Sun Oct  7 18:48:03 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:48:05 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:48:08 2018	Carl Jameson (STEAM_0:0:9204571): // AHAHAHAAHAHAHAHAH
+Sun Oct  7 18:48:09 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:48:09 2018	Lukyn Red was killed by Himself with a suicide trick
+Sun Oct  7 18:48:09 2018	The Kettle was killed by Lukyn Red with a env_explosion
+Sun Oct  7 18:48:11 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:48:12 2018	Carl Jameson was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:48:14 2018	Pootis Bird (STEAM_0:0:22086175): Sup guys
+Sun Oct  7 18:48:18 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:48:18 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 18:48:19 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:48:23 2018	Pootis Bird (STEAM_0:0:22086175): hahaha
+Sun Oct  7 18:48:23 2018	Lukyn Red was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:48:23 2018	Nosey was killed by Himself with a suicide trick
+Sun Oct  7 18:48:25 2018	Nosey (STEAM_0:0:139498605) spawned

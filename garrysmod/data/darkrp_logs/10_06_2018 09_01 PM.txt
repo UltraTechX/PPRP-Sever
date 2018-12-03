@@ -1,0 +1,333 @@
+Sat Oct  6 21:01:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 21:01:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:01:57 2018	François Fromage Factory (STEAM_0:0:61380847) has joined the game
+Sat Oct  6 21:01:57 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:01:59 2018	TheDanster_YT [DN] (STEAM_0:1:425940591) has joined the game
+Sat Oct  6 21:01:59 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:02:23 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:02:25 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct  6 21:02:25 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 21:02:31 2018	Matthew (STEAM_0:1:127001171) has joined the game
+Sat Oct  6 21:02:31 2018	Matthew (STEAM_0:1:127001171) spawned
+Sat Oct  6 21:02:39 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct  6 21:02:39 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:02:45 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct  6 21:02:45 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:02:46 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Sat Oct  6 21:02:46 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:02:54 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sat Oct  6 21:02:54 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 21:03:31 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 21:03:39 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 21:03:41 2018	Niko (STEAM_0:0:86208722) has joined the game
+Sat Oct  6 21:03:41 2018	Dhadi (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:03:43 2018	Sammy Boom (STEAM_0:0:91181601): // "Don't forget, today is pizza day"
+Sat Oct  6 21:03:52 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:04:03 2018	Sammy Boom (STEAM_0:0:91181601): // This is my new favorite gmod server lol
+Sat Oct  6 21:04:13 2018	Mike (STEAM_0:1:41660292): // Glad you enjoy it
+Sat Oct  6 21:04:15 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:04:30 2018	Manager (STEAM_0:1:425940591): chicken butt
+Sat Oct  6 21:04:33 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:04:45 2018	Mike (STEAM_0:1:41660292): // well excuse my voice lines
+Sat Oct  6 21:05:03 2018	John Mercy (STEAM_0:0:86025114): // Against the zombies is just as fun if not more so than terrorist
+Sat Oct  6 21:05:18 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:05:45 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:05:46 2018	AllOfTheAbove72 (STEAM_0:0:108453289) has joined the game
+Sat Oct  6 21:05:46 2018	AllOfTheAbove72 (STEAM_0:0:108453289) spawned
+Sat Oct  6 21:07:05 2018	Sammy Boom (STEAM_0:0:91181601): // I wouldn't mind a status bar telling more in-depth of how the facility is running in the kind of "lobby" areas of certain p
+Sat Oct  6 21:07:07 2018	Sammy Boom (STEAM_0:0:91181601): // *place
+Sat Oct  6 21:07:09 2018	Sammy Boom (STEAM_0:0:91181601): // s*
+Sat Oct  6 21:07:09 2018	John Mercy (STEAM_0:0:86025114): // You should have guns you can buy as a guard but you need to earn money through worker to get it.
+Sat Oct  6 21:07:15 2018	Lukyn Red (STEAM_0:0:81441026): id
+Sat Oct  6 21:07:23 2018	John Mercy (STEAM_0:0:86025114) disconnected
+Sat Oct  6 21:07:38 2018	Sammy Boom (STEAM_0:0:91181601): // I want a screen in the coolant/fan rooms telling the temperature and status of the core better, in real time
+Sat Oct  6 21:07:50 2018	Lukyn Red (STEAM_0:0:81441026): Id
+Sat Oct  6 21:07:56 2018	Lukyn Red (STEAM_0:0:81441026): Your ID first
+Sat Oct  6 21:08:10 2018	Lukyn Red (STEAM_0:0:81441026): But I need your Id
+Sat Oct  6 21:08:13 2018	Lukyn Red (STEAM_0:0:81441026): instructions
+Sat Oct  6 21:08:25 2018	Lukyn Red (STEAM_0:0:81441026): then you don't need to go inside
+Sat Oct  6 21:08:31 2018	Lukyn Red (STEAM_0:0:81441026): you need a new grave
+Sat Oct  6 21:09:14 2018	Lukyn Red (STEAM_0:0:81441026): /wanted dhadi passing security
+Sat Oct  6 21:09:14 2018	Lukyn Red has made Dhadi wanted, reason: passing security
+Sat Oct  6 21:09:15 2018	Dhadi is no longer wanted by the Police. Revoked by: Lukyn Red
+Sat Oct  6 21:09:15 2018	Dhadi (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:09:15 2018	Lukyn Red (STEAM_0:0:81441026) arrested Dhadi
+Sat Oct  6 21:09:27 2018	Dhadi (STEAM_0:0:86208722): // Shucks, right as I showed my ID too. Man, I gotta sue.
+Sat Oct  6 21:09:40 2018	Mike (STEAM_0:1:41660292): // lawyers dont exist in pprp rip
+Sat Oct  6 21:09:47 2018	Lukyn Red (STEAM_0:0:81441026): // I asked you 3 times before
+Sat Oct  6 21:09:56 2018	Lukyn Red (STEAM_0:0:81441026): // and you just jumped over the fence
+Sat Oct  6 21:10:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc xd
+Sat Oct  6 21:10:05 2018	Lukyn Red (STEAM_0:0:81441026): // I don't need your Id then
+Sat Oct  6 21:10:14 2018	Dhadi (STEAM_0:0:86208722): // Nope, your mom gay.
+Sat Oct  6 21:10:35 2018	Lukyn Red (STEAM_0:0:81441026): /advert Should I go too? I man the lobby checkpoint
+Sat Oct  6 21:10:44 2018	Sammy Boom was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 21:10:45 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 21:10:48 2018	Sammy Boom (STEAM_0:0:91181601): // I fell off the tram...
+Sat Oct  6 21:10:52 2018	Lukyn Red (STEAM_0:0:81441026): /advert And what about my checkpoint?
+Sat Oct  6 21:10:52 2018	Mike (STEAM_0:1:41660292): !bring sammy
+Sat Oct  6 21:10:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:11:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc thats a thing w/ physics and lag, cant really fix that. Happens sometimes
+Sat Oct  6 21:11:16 2018	Mike (STEAM_0:1:41660292): // I'm at the core but what's next?
+Sat Oct  6 21:11:22 2018	Lukyn Red (STEAM_0:0:81441026): /pm klein Sorry but I have a checkpoint. Should I go too?
+Sat Oct  6 21:11:36 2018	Lukyn Red (STEAM_0:0:81441026): /y Hello your Id please
+Sat Oct  6 21:11:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 21:11:54 2018	Lukyn Red (STEAM_0:0:81441026): your name on a paper please
+Sat Oct  6 21:12:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !explode ^
+Sat Oct  6 21:12:04 2018	Sammy Boom (STEAM_0:0:91181601): Shouldn't we be monitoring the core temperature
+Sat Oct  6 21:12:07 2018	Lukyn Red (STEAM_0:0:81441026): give me your name
+Sat Oct  6 21:12:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:12:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !unragdoll ^
+Sat Oct  6 21:12:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !explode 0
+Sat Oct  6 21:12:21 2018	Lukyn Red (STEAM_0:0:81441026): bronabyrk
+Sat Oct  6 21:12:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !god
+Sat Oct  6 21:12:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !explode ^
+Sat Oct  6 21:12:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !ungod ^
+Sat Oct  6 21:12:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !explode ^
+Sat Oct  6 21:12:40 2018	Lukyn Red (STEAM_0:0:81441026): Sorry but I want you to write it down somewhere
+Sat Oct  6 21:12:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !ignite ^
+Sat Oct  6 21:12:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !unignite ^
+Sat Oct  6 21:13:32 2018	Lukyn Red (STEAM_0:0:81441026): /wanted dhadi passing security checkpoint
+Sat Oct  6 21:13:32 2018	Lukyn Red has made Dhadi wanted, reason: passing security checkpoint
+Sat Oct  6 21:13:36 2018	Dhadi is no longer wanted by the Police. Revoked by: Lukyn Red
+Sat Oct  6 21:13:36 2018	Dhadi (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:13:36 2018	Lukyn Red (STEAM_0:0:81441026) arrested Dhadi
+Sat Oct  6 21:13:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !actdance *
+Sat Oct  6 21:13:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Sat Oct  6 21:13:43 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct  6 21:13:54 2018	Dhadi (STEAM_0:0:86208722): // Golly, back in the slamma, even though I showed my ID, I'm upset.
+Sat Oct  6 21:13:55 2018	Manager (STEAM_0:1:425940591): !dance
+Sat Oct  6 21:14:03 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 21:14:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc see ya
+Sat Oct  6 21:14:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Sat Oct  6 21:14:13 2018	Lukyn Red (STEAM_0:0:81441026): // I need to go. See ya tommorow
+Sat Oct  6 21:14:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc see ya!
+Sat Oct  6 21:14:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Sat Oct  6 21:14:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fmuscle *
+Sat Oct  6 21:14:31 2018	Sammy Boom (STEAM_0:0:91181601): // I must also go
+Sat Oct  6 21:14:40 2018	Dhadi (STEAM_0:0:86208722): // And like that, my first plan on taking over the world is coming into play.
+Sat Oct  6 21:14:47 2018	Sammy Boom was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 21:14:50 2018	Sammy Boom (STEAM_0:0:91181601) disconnected
+Sat Oct  6 21:15:48 2018	Lukyn Red (STEAM_0:0:81441026): /pm fat suggested how to fix the shaking space station
+Sat Oct  6 21:15:50 2018	Lukyn Red (STEAM_0:0:81441026): bye
+Sat Oct  6 21:15:51 2018	Lukyn Red (STEAM_0:0:81441026) disconnected
+Sat Oct  6 21:15:55 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Sat Oct  6 21:15:55 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:16:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !ignite emm 999
+Sat Oct  6 21:16:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !ignite mike
+Sat Oct  6 21:16:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sat Oct  6 21:16:32 2018	Dhadi (STEAM_0:0:86208722): /name The Remover
+Sat Oct  6 21:16:46 2018	The Remover (STEAM_0:0:86208722): /job Villain
+Sat Oct  6 21:17:26 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:17:36 2018	Mike was killed by Himself with a suicide trick
+Sat Oct  6 21:17:54 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:18:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mercy
+Sat Oct  6 21:18:46 2018	Silent Ninja (STEAM_0:0:36823576) has joined the game
+Sat Oct  6 21:18:46 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:19:30 2018	Adam Klein was killed by John Mercy with a cw_mp5
+Sat Oct  6 21:19:34 2018	[Opi] Fat Gay was killed by Manager with a cw_deagle
+Sat Oct  6 21:19:35 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:19:36 2018	John Mercy was killed by Manager with a cw_deagle
+Sat Oct  6 21:19:37 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:19:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:19:42 2018	Matthew (STEAM_0:1:127001171) disconnected
+Sat Oct  6 21:19:53 2018	The Remover (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:19:58 2018	The Remover (STEAM_0:0:86208722): /name Jimmy T Huckleberg
+Sat Oct  6 21:20:15 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:20:37 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:21:12 2018	Manager was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:21:12 2018	Mike was killed by Himself with a suicide trick
+Sat Oct  6 21:21:12 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:21:13 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:21:14 2018	AllOfTheAbove72 (STEAM_0:0:108453289) spawned
+Sat Oct  6 21:21:20 2018	AllOfTheAbove72 (STEAM_0:0:108453289): !motd
+Sat Oct  6 21:22:02 2018	John Mercy was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 21:22:07 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:22:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !Bring mike
+Sat Oct  6 21:22:39 2018	Manager (STEAM_0:1:425940591): can an admin fix me please
+Sat Oct  6 21:22:55 2018	AllOfTheAbove72 (STEAM_0:0:108453289): /ooc how do i get all the addons to not have missing textures
+Sat Oct  6 21:23:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc one you need css
+Sat Oct  6 21:23:46 2018	Mike was killed by Himself with a suicide trick
+Sat Oct  6 21:23:46 2018	[Opi] Fat Gay was killed by Mike with a env_explosion
+Sat Oct  6 21:23:46 2018	Jimmy T Huckleberg was killed by Mike with a env_explosion
+Sat Oct  6 21:23:47 2018	Jimmy T Huckleberg (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:23:48 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:23:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:23:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto jimm
+Sat Oct  6 21:24:35 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:24:38 2018	Mike was killed by Himself with a suicide trick
+Sat Oct  6 21:24:39 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:24:58 2018	Jimmy T Huckleberg (STEAM_0:0:86208722): /name The Remover
+Sat Oct  6 21:25:00 2018	Mike was killed by Himself with a suicide trick
+Sat Oct  6 21:25:02 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:25:07 2018	The Remover (STEAM_0:0:86208722): /job The Remover
+Sat Oct  6 21:25:08 2018	AllOfTheAbove72 (STEAM_0:0:108453289) disconnected
+Sat Oct  6 21:25:32 2018	Silent Ninja was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:25:33 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:25:39 2018	The Remover (STEAM_0:0:86208722): /sleep
+Sat Oct  6 21:25:57 2018	Mike (STEAM_0:1:41660292): // Adam please hit the containment button in that office
+Sat Oct  6 21:26:00 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct  6 21:26:12 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:26:18 2018	Silent Ninja was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 21:26:21 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:26:36 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:27:05 2018	Mike was killed by Himself with a suicide trick
+Sat Oct  6 21:27:05 2018	[Opi] Fat Gay was killed by Mike with a env_explosion
+Sat Oct  6 21:27:05 2018	The Remover was killed by Mike with a env_explosion
+Sat Oct  6 21:27:06 2018	The Remover (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:27:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:27:11 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:27:22 2018	The Remover (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:27:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:27:36 2018	The Remover (STEAM_0:0:86208722): /name Prickle
+Sat Oct  6 21:28:03 2018	John Mercy (STEAM_0:0:86025114): /advert Need assistance at the pumps!
+Sat Oct  6 21:28:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring pri
+Sat Oct  6 21:29:06 2018	John Mercy was killed by Adam Klein with a cw_l115
+Sat Oct  6 21:29:07 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:29:14 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:30:12 2018	Mike was killed by Prickle with a cw_m3super90
+Sat Oct  6 21:30:17 2018	Adam Klein was killed by Prickle with a cw_m3super90
+Sat Oct  6 21:30:19 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:30:23 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:31:15 2018	Manager was killed by Prickle with a cw_m3super90
+Sat Oct  6 21:31:20 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:31:21 2018	Manager (STEAM_0:1:425940591): well
+Sat Oct  6 21:31:32 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:31:33 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:32:10 2018	Adam Klein was killed by Prickle with a cw_m3super90
+Sat Oct  6 21:32:13 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:32:22 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:32:35 2018	Mike was killed by Prickle with a cw_m3super90
+Sat Oct  6 21:32:39 2018	Osama Bin Latté was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 21:32:44 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:32:53 2018	Manager was killed by Prickle with a cw_m1911
+Sat Oct  6 21:32:57 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:33:05 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 21:33:29 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:33:51 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:34:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp silent 100
+Sat Oct  6 21:34:17 2018	Prickle was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 21:34:20 2018	Prickle (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:34:21 2018	Osama Bin Latté was killed by John Mercy with a cw_g36c
+Sat Oct  6 21:34:27 2018	Adam Klein was killed by John Mercy with a cw_g36c
+Sat Oct  6 21:34:27 2018	Prickle (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:34:29 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:34:29 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:35:10 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:35:23 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:35:34 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:35:47 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:35:52 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:36:42 2018	Adam Klein (STEAM_0:1:116765028): /job Totaly not a trator at all
+Sat Oct  6 21:36:51 2018	Prickle (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:36:54 2018	Adam Klein (STEAM_0:1:116765028): /job Totaly not a trator
+Sat Oct  6 21:37:03 2018	Silent Ninja (STEAM_0:0:36823576): /job Just A Pizzaman
+Sat Oct  6 21:37:18 2018	John Mercy (STEAM_0:0:86025114): // All my money...into a single metal detector
+Sat Oct  6 21:37:26 2018	Silent Ninja (STEAM_0:0:36823576): oof
+Sat Oct  6 21:37:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i guess the steam group thing doesnt work
+Sat Oct  6 21:37:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc rip
+Sat Oct  6 21:37:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc actuallyh
+Sat Oct  6 21:37:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !tasks
+Sat Oct  6 21:37:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 21:37:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you can do !rewards
+Sat Oct  6 21:37:58 2018	Silent Ninja (STEAM_0:0:36823576): 
+Sat Oct  6 21:38:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc get free money for having [Opi] in your name
+Sat Oct  6 21:38:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 21:38:17 2018	Manager (STEAM_0:1:425940591): yhow 
+Sat Oct  6 21:38:22 2018	John Mercy (STEAM_0:0:86025114): // Weeeelll. this IS original..
+Sat Oct  6 21:38:23 2018	Manager (STEAM_0:1:425940591): how much
+Sat Oct  6 21:38:27 2018	John Mercy (STEAM_0:0:86025114): 
+Sat Oct  6 21:38:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the amount increments the longer you keepi it
+Sat Oct  6 21:38:45 2018	Manager (STEAM_0:1:425940591): oh kewl
+Sat Oct  6 21:38:52 2018	John Mercy (STEAM_0:0:86025114): // It goes by steam names right?
+Sat Oct  6 21:38:52 2018	Adam Klein (STEAM_0:1:116765028): /pm fat test
+Sat Oct  6 21:38:58 2018	Manager (STEAM_0:1:425940591): that's why i hav [DN] in my name
+Sat Oct  6 21:39:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yup
+Sat Oct  6 21:39:03 2018	Manager (STEAM_0:1:425940591): lemme change it
+Sat Oct  6 21:39:07 2018	John Mercy (STEAM_0:0:86025114): // Ill change when I get off.
+Sat Oct  6 21:39:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc alright
+Sat Oct  6 21:39:34 2018	Manager (STEAM_0:1:425940591): there
+Sat Oct  6 21:39:39 2018	Manager (STEAM_0:1:425940591): changed it
+Sat Oct  6 21:39:45 2018	Silent Ninja (STEAM_0:0:36823576): /drop
+Sat Oct  6 21:39:52 2018	Adam Klein was killed by Manager with a cw_deagle
+Sat Oct  6 21:40:06 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:40:16 2018	John Mercy was killed by Prickle with a cw_l85a2
+Sat Oct  6 21:40:17 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:40:22 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:40:54 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:41:10 2018	Silent Ninja (STEAM_0:0:36823576): /job Pizzaperson
+Sat Oct  6 21:41:46 2018	John Mercy (STEAM_0:0:86025114): // Waiting for the trams be like *Day* *Night* *Day*
+Sat Oct  6 21:41:57 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:42:03 2018	John Mercy (STEAM_0:0:86025114): // God have mercy...
+Sat Oct  6 21:42:36 2018	Adam Klein (STEAM_0:1:116765028): Hey, I am kinda lonely in my 049 cage. Does anyone want to come free me?
+Sat Oct  6 21:42:54 2018	John Mercy (STEAM_0:0:86025114): // That WHAT?!
+Sat Oct  6 21:43:14 2018	Silent Ninja (STEAM_0:0:36823576): what is this black market? i am a pizzaperson
+Sat Oct  6 21:43:14 2018	John Mercy (STEAM_0:0:86025114): // Im trying to KEEP the core from even getting to that point!
+Sat Oct  6 21:43:29 2018	Adam Klein (STEAM_0:1:116765028): /advert Free me and I will fix your core.
+Sat Oct  6 21:43:38 2018	Prickle was killed by Manager with a cw_deagle
+Sat Oct  6 21:43:41 2018	Prickle (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:44:05 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:44:15 2018	Prickle (STEAM_0:0:86208722): /name Colt Nova
+Sat Oct  6 21:45:18 2018	Adam Klein (STEAM_0:1:116765028): // So, How do I use the Weapon Synthesizer?
+Sat Oct  6 21:46:47 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 21:47:36 2018	John Mercy was killed by Osama Bin Latté with a cw_scarh
+Sat Oct  6 21:47:37 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:48:28 2018	John Mercy (STEAM_0:0:86025114): // this tram takes it sweet ass time
+Sat Oct  6 21:48:38 2018	Manager was killed by Colt Nova with a cw_l85a2
+Sat Oct  6 21:48:43 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:48:52 2018	Osama Bin Latté (STEAM_0:0:61380847): /pm Colt Look out friend, we have to escape soon. Let the administrator die in his own facility
+Sat Oct  6 21:48:52 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:49:24 2018	[Opi] Fat Gay was killed by Colt Nova with a cw_l85a2
+Sat Oct  6 21:49:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:49:27 2018	Silent Ninja was killed by Colt Nova with a cw_l85a2
+Sat Oct  6 21:49:28 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:49:41 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:50:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im waiting in the blast shelter, run!
+Sat Oct  6 21:50:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 21:51:41 2018	Colt Nova (STEAM_0:0:86208722): // The Ultimate Revenge RP
+Sat Oct  6 21:52:08 2018	Osama Bin Latté was killed by Entity [2323][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:52:09 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:52:09 2018	John Mercy (STEAM_0:0:86025114): // Cant event type in the code.
+Sat Oct  6 21:52:15 2018	John Mercy (STEAM_0:0:86025114): // Shaking like hell
+Sat Oct  6 21:52:22 2018	Colt Nova (STEAM_0:0:86208722): // Did it legit just stop?
+Sat Oct  6 21:52:27 2018	John Mercy (STEAM_0:0:86025114): // Your welcome
+Sat Oct  6 21:52:30 2018	John Mercy (STEAM_0:0:86025114): // Bought time
+Sat Oct  6 21:52:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc thanks wolves!
+Sat Oct  6 21:53:01 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:53:07 2018	John Mercy (STEAM_0:0:86025114): /advert Take this time to get to evac areas! 
+Sat Oct  6 21:53:30 2018	John Mercy (STEAM_0:0:86025114): /advert We can't stop this, but we can get as many innocent lives out as we can.
+Sat Oct  6 21:53:35 2018	Manager was killed by Colt Nova with a cw_l85a2
+Sat Oct  6 21:53:35 2018	Colt Nova was killed by [Opi] Fat Gay with a cw_g3a3
+Sat Oct  6 21:53:36 2018	Colt Nova (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:53:36 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:53:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mana
+Sat Oct  6 21:53:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring adam
+Sat Oct  6 21:54:40 2018	John Mercy (STEAM_0:0:86025114): /advert Whats the situation in the bunker?  Checking the roster here to see who we got/
+Sat Oct  6 21:55:40 2018	Silent Ninja was killed by Entity [2330][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:55:41 2018	Silent Ninja (STEAM_0:0:36823576) spawned
+Sat Oct  6 21:55:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring silent
+Sat Oct  6 21:56:42 2018	Colt Nova (STEAM_0:0:86208722): // Now this is getting wacky
+Sat Oct  6 21:56:46 2018	Osama Bin Latté was killed by John Mercy with a cw_g36c
+Sat Oct  6 21:57:03 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:57:32 2018	Osama Bin Latté (STEAM_0:0:61380847): // I thought I made it, just at that last moment
+Sat Oct  6 21:58:19 2018	Osama Bin Latté was killed by Entity [2929][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:58:20 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 21:58:21 2018	John Mercy (STEAM_0:0:86025114): // What happened?
+Sat Oct  6 21:58:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the place exploded
+Sat Oct  6 21:58:29 2018	John Mercy (STEAM_0:0:86025114): // How didnt you make it?
+Sat Oct  6 21:58:29 2018	Silent Ninja (STEAM_0:0:36823576): we went to the moon
+Sat Oct  6 21:58:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Sat Oct  6 21:58:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i did
+Sat Oct  6 21:58:43 2018	John Mercy (STEAM_0:0:86025114): // Francois
+Sat Oct  6 21:58:46 2018	Osama Bin Latté (STEAM_0:0:61380847): // Just made it 5 meters in front of the rocket and then got shot
+Sat Oct  6 21:58:54 2018	Colt Nova (STEAM_0:0:86208722): // Well shucks
+Sat Oct  6 21:58:59 2018	John Mercy (STEAM_0:0:86025114): // Well thats what you get for blowing up the plant
+Sat Oct  6 21:59:01 2018	Colt Nova (STEAM_0:0:86208722): // Talk about a REDEMPTION ARC!
+Sat Oct  6 21:59:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh yeah LOL
+Sat Oct  6 21:59:16 2018	John Mercy (STEAM_0:0:86025114): // Have fun with your 72 virgins. They LOVE World of War Craft!
+Sat Oct  6 21:59:19 2018	Silent Ninja (STEAM_0:0:36823576): DELAMINATION IN PROGRESS. PLEASE WAIT FOR THE END OF HTE UNIVERSE
+Sat Oct  6 21:59:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hope you guys like the server!
+Sat Oct  6 21:59:33 2018	Osama Bin Latté (STEAM_0:0:61380847): // Love the server man
+Sat Oct  6 21:59:37 2018	Colt Nova was killed by Entity [5020][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:59:39 2018	Colt Nova (STEAM_0:0:86208722) spawned
+Sat Oct  6 21:59:44 2018	John Mercy (STEAM_0:0:86025114): // Its fun to see how long you will survive
+Sat Oct  6 21:59:45 2018	Silent Ninja (STEAM_0:0:36823576): its interesting. is there a reason to keep the core at high heat levels?

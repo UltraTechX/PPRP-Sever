@@ -1,0 +1,151 @@
+Sun Oct 21 00:49:58 2018	TEXMEX7307 (STEAM_0:1:85809013) has joined the game
+Sun Oct 21 00:49:58 2018	TEXMEX7307 (STEAM_0:1:85809013) spawned
+Sun Oct 21 00:49:58 2018	mllyons2002 (STEAM_0:0:446804304) has joined the game
+Sun Oct 21 00:49:58 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 00:49:59 2018	󠀡=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sun Oct 21 00:49:59 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 00:50:07 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Sun Oct 21 00:50:07 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 00:50:16 2018	Jeep™ (STEAM_0:0:77324839) has joined the game
+Sun Oct 21 00:50:16 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sun Oct 21 00:50:28 2018	mllyons2002 (STEAM_0:0:446804304) disconnected
+Sun Oct 21 00:50:29 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct 21 00:50:29 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 00:50:32 2018	Caboose (STEAM_0:1:184775407) disconnected
+Sun Oct 21 00:50:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 21 00:50:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 21 00:50:38 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Sun Oct 21 00:50:38 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct 21 00:50:40 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sun Oct 21 00:50:40 2018	Specialist Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Oct 21 00:50:40 2018	[Opi] Enviro (STEAM_0:0:80115103) has joined the game
+Sun Oct 21 00:50:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 21 00:50:40 2018	Jeep™ (STEAM_0:0:77324839) disconnected
+Sun Oct 21 00:50:40 2018	Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Sun Oct 21 00:50:40 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 00:50:45 2018	[W-G] Mano (STEAM_0:0:176020901) has joined the game
+Sun Oct 21 00:50:45 2018	[W-G] Mano (STEAM_0:0:176020901) spawned
+Sun Oct 21 00:50:51 2018	coldbolt25 (STEAM_0:0:59274331) has joined the game
+Sun Oct 21 00:50:51 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sun Oct 21 00:51:04 2018	Specialist Vix Archaser (STEAM_0:0:143859663): !warn
+Sun Oct 21 00:51:04 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 00:51:05 2018	DixBFloppin (STEAM_0:1:86800123): !goto fat
+Sun Oct 21 00:51:08 2018	Sweet Buns (STEAM_0:1:74524527) has joined the game
+Sun Oct 21 00:51:08 2018	Sweet Cheeks (STEAM_0:1:74524527) spawned
+Sun Oct 21 00:51:11 2018	TEXMEX7307 (STEAM_0:1:85809013) spawned
+Sun Oct 21 00:51:13 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sun Oct 21 00:51:13 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 00:51:17 2018	captain mactavish call of duty (STEAM_0:0:61418543) has joined the game
+Sun Oct 21 00:51:17 2018	Patrick Dodwell (STEAM_0:0:61418543) spawned
+Sun Oct 21 00:51:19 2018	DixBFloppin (STEAM_0:1:86800123): !goto tex
+Sun Oct 21 00:51:21 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct 21 00:51:21 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct 21 00:51:21 2018	Crash_Trooper (STEAM_0:1:94924909) has joined the game
+Sun Oct 21 00:51:21 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sun Oct 21 00:51:23 2018	[W-G] Mano (STEAM_0:0:176020901) spawned
+Sun Oct 21 00:51:26 2018	[Opi] owo (STEAM_0:1:35610035) has joined the game
+Sun Oct 21 00:51:26 2018	owo (STEAM_0:1:35610035) spawned
+Sun Oct 21 00:51:28 2018	Dimitri Tarkov (STEAM_0:0:78046828) has joined the game
+Sun Oct 21 00:51:28 2018	Dimitri Tarkov (STEAM_0:0:78046828) spawned
+Sun Oct 21 00:51:28 2018	Chris Brown (STEAM_0:1:79089680) has joined the game
+Sun Oct 21 00:51:28 2018	Chris Browns Abuse Allegations (STEAM_0:1:79089680) spawned
+Sun Oct 21 00:51:30 2018	mllyons2002 (STEAM_0:0:446804304) has joined the game
+Sun Oct 21 00:51:30 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 00:51:30 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 00:51:31 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sun Oct 21 00:51:38 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct 21 00:51:40 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Sun Oct 21 00:51:40 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 00:51:43 2018	Sweet Cheeks (STEAM_0:1:74524527) spawned
+Sun Oct 21 00:51:59 2018	Adam Klein (STEAM_0:1:116765028): // Oof, I just love server crashes
+Sun Oct 21 00:52:00 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 00:52:01 2018	[W-G] Mano (STEAM_0:0:176020901) spawned
+Sun Oct 21 00:52:02 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 00:52:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto andr
+Sun Oct 21 00:52:10 2018	mllyons2002 (STEAM_0:0:446804304) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 21 00:52:12 2018	shy guys dice set is broke (STEAM_0:1:156480886) has joined the game
+Sun Oct 21 00:52:12 2018	shy guys dice set is broke (STEAM_0:1:156480886) spawned
+Sun Oct 21 00:52:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dixb
+Sun Oct 21 00:52:15 2018	Specialist Vix Archaser (STEAM_0:0:143859663): it was not me
+Sun Oct 21 00:52:20 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 00:52:25 2018	owo (STEAM_0:1:35610035) spawned
+Sun Oct 21 00:52:31 2018	Jeep™ (STEAM_0:0:77324839) has joined the game
+Sun Oct 21 00:52:31 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sun Oct 21 00:52:32 2018	wolfhugger 3000 (STEAM_0:1:42591216): >view Enviro
+Sun Oct 21 00:52:41 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Sun Oct 21 00:52:41 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 21 00:52:44 2018	Dabombam (STEAM_0:1:116056055) has joined the game
+Sun Oct 21 00:52:44 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sun Oct 21 00:52:47 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sun Oct 21 00:52:54 2018	wolfhugger 3000 (STEAM_0:1:42591216): !goto tex
+Sun Oct 21 00:52:56 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 00:52:57 2018	Walt Disney (STEAM_0:0:59274331): !goto tex
+Sun Oct 21 00:52:58 2018	wolfhugger 3000 (STEAM_0:1:42591216): !goto TEXMEX7307
+Sun Oct 21 00:53:01 2018	Patrick Dodwell (STEAM_0:0:61418543) spawned
+Sun Oct 21 00:53:02 2018	owo (STEAM_0:1:35610035): // DESTROYED
+Sun Oct 21 00:53:02 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Sun Oct 21 00:53:02 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 21 00:53:03 2018	Walt Disney (STEAM_0:0:59274331): !goto tex
+Sun Oct 21 00:53:04 2018	Tier (STEAM_0:1:33589770) has joined the game
+Sun Oct 21 00:53:04 2018	Tier (STEAM_0:1:33589770) spawned
+Sun Oct 21 00:53:10 2018	Jeep™ (STEAM_0:0:77324839): // no bad words mister
+Sun Oct 21 00:53:11 2018	Walt Disney (STEAM_0:0:59274331): !gotoMex
+Sun Oct 21 00:53:12 2018	DixBFloppin (STEAM_0:1:86800123): !goto fat
+Sun Oct 21 00:53:12 2018	mllyons2002 (STEAM_0:0:446804304): oof anyone who blows up the plant
+Sun Oct 21 00:53:13 2018	Caboose (STEAM_0:1:184775407): // hey you dont talk about fat gay like that
+Sun Oct 21 00:53:14 2018	Walt Disney (STEAM_0:0:59274331): !goto mex
+Sun Oct 21 00:53:18 2018	Adam Klein (STEAM_0:1:116765028): /advert Your voice makes me want to die TexMex
+Sun Oct 21 00:53:25 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sun Oct 21 00:53:25 2018	shy guys dice set is broke (STEAM_0:1:156480886) spawned
+Sun Oct 21 00:53:25 2018	Specialist Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Oct 21 00:53:31 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 00:53:32 2018	Dimitri Tarkov (STEAM_0:0:78046828) disconnected
+Sun Oct 21 00:53:38 2018	Dr. Ternith Plague (STEAM_0:1:234721838) has joined the game
+Sun Oct 21 00:53:38 2018	Ternith Plague (STEAM_0:1:234721838) spawned
+Sun Oct 21 00:53:50 2018	Caboose (STEAM_0:1:184775407): // yes
+Sun Oct 21 00:53:53 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) has joined the game
+Sun Oct 21 00:53:53 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Sun Oct 21 00:53:53 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 00:53:57 2018	Adam Klein (STEAM_0:1:116765028): // Oi vey
+Sun Oct 21 00:54:02 2018	wolfhugger 3000 was killed by [Opi] Fat Gay with a csgo_bayonet_bluesteel
+Sun Oct 21 00:54:06 2018	Crash_Trooper (STEAM_0:1:94924909): no
+Sun Oct 21 00:54:06 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 00:54:08 2018	DixBFloppin (STEAM_0:1:86800123): // 1
+Sun Oct 21 00:54:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yes
+Sun Oct 21 00:54:11 2018	Walt Disney (STEAM_0:0:59274331): /ooc 1
+Sun Oct 21 00:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // 1
+Sun Oct 21 00:54:14 2018	Walt Disney (STEAM_0:0:59274331): /ooc yes
+Sun Oct 21 00:54:15 2018	wolfhugger 3000 (STEAM_0:1:42591216): // 1
+Sun Oct 21 00:54:17 2018	DixBFloppin (STEAM_0:1:86800123): !goto pat
+Sun Oct 21 00:54:18 2018	Caboose (STEAM_0:1:184775407): // 1
+Sun Oct 21 00:54:18 2018	Sweet Cheeks (STEAM_0:1:74524527): /ooc 1
+Sun Oct 21 00:54:19 2018	wolfhugger 3000 (STEAM_0:1:42591216): !goto TEXMEX7307
+Sun Oct 21 00:54:19 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 21 00:54:21 2018	Crash_Trooper was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 00:54:22 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sun Oct 21 00:54:22 2018	Jeep™ (STEAM_0:0:77324839): // 2
+Sun Oct 21 00:54:25 2018	Specialist Vix Archaser (STEAM_0:0:143859663): 2
+Sun Oct 21 00:54:28 2018	GrayFox (STEAM_0:0:194100685) has joined the game
+Sun Oct 21 00:54:28 2018	GrayFox (STEAM_0:0:194100685) spawned
+Sun Oct 21 00:54:31 2018	Patrick Dodwell (STEAM_0:0:61418543) disconnected
+Sun Oct 21 00:54:37 2018	DixBFloppin (STEAM_0:1:86800123): !goto jeep
+Sun Oct 21 00:54:38 2018	Adam Klein (STEAM_0:1:116765028): !bet 10
+Sun Oct 21 00:54:40 2018	Chris Browns Abuse Allegations (STEAM_0:1:79089680): // the fuck?
+Sun Oct 21 00:54:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !vote "Is texmex gay?" yes no
+Sun Oct 21 00:54:45 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sun Oct 21 00:54:47 2018	Chris Browns Abuse Allegations (STEAM_0:1:79089680) spawned
+Sun Oct 21 00:54:54 2018	Pirate Raider (STEAM_0:1:116056055): /advert vote yes
+Sun Oct 21 00:54:57 2018	Crash_Trooper was killed by [W-G] Mano with a cw_g36c
+Sun Oct 21 00:54:59 2018	Crash_Trooper (STEAM_0:1:94924909): hey i did not shoot when i respawn
+Sun Oct 21 00:55:02 2018	DixBFloppin was killed by Himself with a suicide trick
+Sun Oct 21 00:55:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay dix
+Sun Oct 21 00:55:02 2018	Crash_Trooper (STEAM_0:1:94924909): rdm
+Sun Oct 21 00:55:04 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sun Oct 21 00:55:08 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct 21 00:55:08 2018	Caboose (STEAM_0:1:184775407): // you sould have put yes no or really fucking gay
+Sun Oct 21 00:55:10 2018	DixBFloppin (STEAM_0:1:86800123): !goto fat
+Sun Oct 21 00:55:11 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 00:55:12 2018	Walt Disney was killed by Himself with a suicide trick
+Sun Oct 21 00:55:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay walt
+Sun Oct 21 00:55:13 2018	DixBFloppin (STEAM_0:1:86800123): !goto fat
+Sun Oct 21 00:55:17 2018	Jeep™ (STEAM_0:0:77324839) spawned

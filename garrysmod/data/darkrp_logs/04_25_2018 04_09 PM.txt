@@ -1,0 +1,33 @@
+Wed Apr 25 16:09:32 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Apr 25 16:09:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Apr 25 16:28:25 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Fri Apr 27 14:03:43 2018	Valien (STEAM_0:1:41660292) has joined the game
+Fri Apr 27 14:03:43 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 14:09:38 2018	Emmett was killed by Entity [1684][trigger_hurt] with a trigger_hurt
+Fri Apr 27 14:09:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 14:09:49 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 14:14:59 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 27 14:15:00 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 14:34:05 2018	Emmett was killed by Entity [1946][trigger_hurt] with a trigger_hurt
+Fri Apr 27 14:34:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 14:34:24 2018	Emmett (STEAM_0:1:41660292) disconnected
+Fri Apr 27 17:02:59 2018	Valien (STEAM_0:1:41660292) has joined the game
+Fri Apr 27 17:02:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:04:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:08:03 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:08:22 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:08:33 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:10:21 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 27 17:10:31 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:12:20 2018	Emmett was killed by Entity [1684][trigger_hurt] with a trigger_hurt
+Fri Apr 27 17:12:21 2018	Emmett (STEAM_0:1:41660292) disconnected
+Fri Apr 27 17:19:11 2018	Valien (STEAM_0:1:41660292) has joined the game
+Fri Apr 27 17:19:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:19:55 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 27 17:40:15 2018	Emmett (STEAM_0:1:41660292): !god
+Fri Apr 27 18:45:36 2018	Emmett (STEAM_0:1:41660292) disconnected
+Fri Apr 27 21:27:34 2018	[NWA] ribking (STEAM_0:0:57963564) has joined the game
+Fri Apr 27 21:27:34 2018	[NWA] ribking (STEAM_0:0:57963564) spawned
+Fri Apr 27 21:28:44 2018	[NWA] ribking (STEAM_0:0:57963564) spawned
+Fri Apr 27 21:28:54 2018	[NWA] ribking (STEAM_0:0:57963564) spawned
+Fri Apr 27 21:47:35 2018	[NWA] ribking (STEAM_0:0:57963564) disconnected

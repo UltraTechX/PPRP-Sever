@@ -1,0 +1,2600 @@
+<Logging continued from "data/ulx_logs/04-14-18.txt">
+[11:42:05] Client "Fat Gay" connected.
+[11:43:02] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 57 seconds).
+[11:50:51] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[12:12:28] Client "Fat Gay" connected.
+[12:13:03] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 35 seconds).
+[12:14:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:14:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:14:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:14:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:14:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:14:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:14:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_interiors/radiator01a.mdl
+[12:16:20] Client "Valien" connected.
+[12:17:45] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 85 seconds).
+[12:20:41] Emmett: !goto Fat
+[12:20:41] Emmett teleported to Fat Gay
+[12:21:04] Emmett: !goto fat
+[12:21:04] Emmett teleported to Fat Gay
+[12:22:24] Fat Gay: !goto em
+[12:22:24] Fat Gay teleported to Emmett
+[12:26:11] Fat Gay killed Emmett using stunstick
+[12:26:22] Emmett: !goto fat
+[12:26:22] Emmett teleported to Fat Gay
+[12:26:32] Emmett: !goto fat
+[12:26:38] Emmett: !goto fat
+[12:26:38] Emmett teleported to Fat Gay
+[12:27:33] Fat Gay: !GOTO EM
+[12:27:33] Fat Gay teleported to Emmett
+[12:28:05] Fat Gay killed Emmett using stunstick
+[12:28:30] Client "BRocha06" connected.
+[12:28:56] Fat Gay: !bring em
+[12:28:56] Fat Gay brought Emmett
+[12:29:44] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 74 seconds).
+[12:29:57] Fat Gay killed Emmett using stunstick
+[12:30:06] Gordon Ramsay: /name BRocha06
+[12:30:07] Gordon Ramsay<STEAM_0:1:100921529> changed their name to BRocha06
+[12:30:42] BRocha06 killed Fat Gay using player
+[12:31:27] Fat Gay killed BRocha06 using player
+[12:31:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:03] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:32:14] BRocha06 killed Fat Gay using player
+[12:32:41] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[12:34:22] Fat Gay: !spectate bro
+[12:34:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:34:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:34:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:34:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:34:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:34:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:34:47] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:47] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:34:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:35:21] BRocha06: /ooc my flipping mp5 won't turn into automatic
+[12:35:32] Fat Gay: /ooc e+r
+[12:35:37] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:37] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:37] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:37] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:35:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:35:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:36:30] Emmett: /sellalldoors
+[12:37:19] BRocha06: /ooc rip my hud
+[12:37:34] BRocha06 was killed by trigger_hurt
+[12:37:38] BRocha06 suicided!
+[12:37:38] Dropped "BRocha06" from server<STEAM_0:1:100921529>
+[12:37:40] Client "BRocha06" connected.
+[12:38:19] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 39 seconds).
+[12:39:05] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:17] BRocha06 suicided!
+[12:39:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:23] BRocha06 suicided!
+[12:39:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:39:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:40:47] Fat Gay: !bring em
+[12:40:47] Fat Gay brought Emmett
+[12:41:09] BRocha06 suicided!
+[12:41:09] BRocha06 killed Fat Gay using env_explosion
+[12:41:16] Fat Gay: !goto em
+[12:41:16] Fat Gay teleported to Emmett
+[12:41:18] BRocha06: /ooc xd
+[12:41:52] BRocha06 suicided!
+[12:41:52] BRocha06 killed Fat Gay using env_explosion
+[12:41:58] Fat Gay: !goto em
+[12:41:58] Fat Gay teleported to Emmett
+[12:42:45] BRocha06 suicided!
+[12:42:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:42:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:42:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:43:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:43:49] BRocha06 suicided!
+[12:44:51] BRocha06: /ooc i broke the elevator
+[12:44:53] BRocha06: /ooc xd
+[12:44:59] Fat Gay was killed by trigger_hurt
+[12:45:00] BRocha06: /ooc nvm it just took forever to come down
+[12:45:04] Fat Gay: !goto em
+[12:45:04] Fat Gay teleported to Emmett
+[12:45:07] BRocha06: /ooc also good job with that noclip ultra
+[12:45:41] Emmett: /sellalldoors
+[12:45:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:45:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:45:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:45:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:45:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:45:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:45:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:46:39] Emmett was killed by trigger_hurt
+[12:46:41] Fat Gay killed BRocha06 using player
+[12:46:45] Emmett: !goto fat
+[12:46:45] Emmett teleported to Fat Gay
+[12:47:05] Fat Gay: !spectate br
+[12:48:57] Emmett was killed by trigger_hurt
+[12:49:04] Emmett: !spectate fat
+[12:49:07] Fat Gay killed BRocha06 using player
+[12:49:32] Emmett: !spectate
+[12:49:33] Fat Gay: !bring em
+[12:49:33] Fat Gay brought Emmett
+[12:49:59] Fat Gay: !menu
+[12:50:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[12:50:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[12:50:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[12:51:08] Fat Gay killed BRocha06 using player
+[12:51:29] Fat Gay: !spectate br
+[12:51:58] Emmett: !spectate bro
+[12:52:12] Emmett: !spectate
+[12:53:17] Fat Gay killed BRocha06 using player
+[12:54:08] Fat Gay: !spectate br
+[12:54:47] Emmett: !spectate fat
+[12:55:36] Emmett: !spectate bro
+[12:55:46] BRocha06 suicided!
+[12:55:50] BRocha06: /OOC SCRUB
+[12:55:59] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:01] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:01] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:02] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:02] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:02] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:02] Fat Gay<STEAM_0:1:218173703> spawned sent eoti_zombie_flesh
+[12:56:03] BRocha06: /ooc noclip bastard ;-p;
+[12:56:08] BRocha06: /ooc xd
+[12:56:12] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:12] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:12] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:13] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:13] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:13] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:13] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:13] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[12:56:14] Fat Gay<STEAM_0:1:218173703> spawned sent gmt_instrument_piano
+[12:56:15] Fat Gay<STEAM_0:1:218173703> spawned sent gmt_instrument_piano
+[12:56:30] Fat Gay<STEAM_0:1:218173703> spawned sent ent_l4d2_ammo_stack
+[12:57:55] Fat Gay killed BRocha06 using player
+[12:58:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[12:58:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[12:58:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[12:58:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:00:25] Fat Gay killed BRocha06 using player
+[13:00:50] Fat Gay: !spectate bro
+[13:02:51] BRocha06 killed Fat Gay using player
+[13:03:32] BRocha06: d
+[13:03:56] BRocha06 was killed by fas2_thrown_ammobox
+[13:03:56] Fat Gay was killed by fas2_thrown_ammobox
+[13:04:12] Emmett<STEAM_0:1:41660292> spawned model models/props_borealis/borealis_door001a.mdl
+[13:04:22] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[13:04:32] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[13:04:34] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[13:04:53] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[13:04:56] Fat Gay<STEAM_0:1:218173703> spawned model models/props_lab/blastdoor001c.mdl
+[13:04:58] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[13:05:00] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[13:05:15] BRocha06: /ooc smoke grenades op
+[13:05:22] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate4x7.mdl
+[13:05:36] BRocha06: /OOC SCRUB
+[13:05:37] Emmett suicided!
+[13:05:52] Emmett: !goto fat
+[13:05:52] Emmett teleported to Fat Gay
+[13:05:54] BRocha06 killed Fat Gay using player
+[13:06:21] BRocha06 killed Fat Gay using player
+[13:07:07] Fat Gay killed BRocha06 using player
+[13:07:17] BRocha06: ]
+[13:07:30] Fat Gay: !spectate br
+[13:07:39] BRocha06<STEAM_0:1:100921529> spawned model models/hunter/plates/plate4x8.mdl
+[13:07:45] Fat Gay: !goto br
+[13:07:45] Fat Gay teleported to BRocha06
+[13:07:50] BRocha06 killed Fat Gay using player
+[13:07:54] Fat Gay: explode bro
+[13:08:02] Fat Gay: !goto bro
+[13:08:02] Fat Gay teleported to BRocha06
+[13:08:05] BRocha06 killed Fat Gay using player
+[13:08:09] Fat Gay: !goto bro
+[13:08:09] Fat Gay teleported to BRocha06
+[13:08:46] Fat Gay killed BRocha06 using player
+[13:09:11] BRocha06<STEAM_0:1:100921529> spawned model models/hunter/plates/plate4x8.mdl
+[13:09:19] BRocha06<STEAM_0:1:100921529> spawned model models/hunter/plates/plate4x8.mdl
+[13:09:22] Fat Gay: !spectate bro
+[13:10:10] Fat Gay killed BRocha06 using player
+[13:10:21] BRocha06: /ooc scrubs
+[13:10:53] Fat Gay killed BRocha06 using player
+[13:11:08] Fat Gay: !spectate br
+[13:11:56] Fat Gay: !goto bro
+[13:11:56] Fat Gay teleported to BRocha06
+[13:12:04] BRocha06 killed Fat Gay using player
+[13:12:07] Fat Gay: !goto bro
+[13:12:07] Fat Gay teleported to BRocha06
+[13:12:15] BRocha06 killed Fat Gay using player
+[13:12:18] Fat Gay: !goto bro
+[13:12:18] Fat Gay teleported to BRocha06
+[13:12:24] BRocha06 killed Fat Gay using player
+[13:12:29] Fat Gay: !goto bro
+[13:12:29] Fat Gay teleported to BRocha06
+[13:12:40] Fat Gay killed BRocha06 using player
+[13:13:07] Fat Gay was killed by trigger_hurt
+[13:13:11] Fat Gay: !goto bro
+[13:13:11] Fat Gay teleported to BRocha06
+[13:13:15] BRocha06 killed Fat Gay using player
+[13:13:18] Fat Gay: !goto bro
+[13:13:18] Fat Gay teleported to BRocha06
+[13:13:35] BRocha06 killed Fat Gay using player
+[13:13:40] Fat Gay: !goto bro
+[13:13:40] Fat Gay teleported to BRocha06
+[13:13:54] BRocha06 killed Fat Gay using player
+[13:13:57] Fat Gay: !goto bro
+[13:13:57] Fat Gay teleported to BRocha06
+[13:14:08] Fat Gay killed BRocha06 using player
+[13:14:22] Fat Gay: !goto bro
+[13:14:24] Fat Gay: !goto bro
+[13:14:24] Fat Gay teleported to BRocha06
+[13:14:39] BRocha06 killed Fat Gay using player
+[13:14:48] Emmett: !spectate fat
+[13:15:09] Emmett: !spectate fat
+[13:15:28] Emmett: !spectate bro
+[13:15:59] Emmett: !goto bro
+[13:15:59] Emmett teleported to BRocha06
+[13:17:15] BRocha06: /ooc admin aboose
+[13:17:19] Emmett: ur gay
+[13:17:23] Emmett: // ur gay
+[13:17:35] BRocha06: /ooc you keep flipping trying to noclip to kill me ;-;
+[13:17:42] Emmett: // dont worry i suck
+[13:17:59] BRocha06: /ooc atleast ultra doesn't do it xd
+[13:18:08] Emmett: // lamo
+[13:18:12] Emmett: // lmao
+[13:18:34] BRocha06 suicided!
+[13:20:18] BRocha06 suicided!
+[13:20:31] Emmett: !spectate bro
+[13:20:49] BRocha06 suicided!
+[13:21:13] BRocha06 suicided!
+[13:21:31] Emmett: !spectate bro
+
+
+
+[13:22:37] New map: rp_powerplant_v2b2
+[13:22:51] Client "Fat Gay" connected.
+[13:23:00] Client "Valien" connected.
+[13:23:27] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 36 seconds).
+[13:23:39] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 39 seconds).
+[13:24:24] Emmett killed Fat Gay using player
+[13:27:47] Client "KAP The Cantaloupe" connected.
+[13:28:02] Client "Uncle Louis" connected.
+[13:28:45] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[13:29:55] Client "KAP The Cantaloupe" spawned in server <STEAM_0:0:160284317> (took 128 seconds).
+[13:30:51] Client "Uncle Louis" spawned in server <STEAM_0:1:51013935> (took 169 seconds).
+[13:34:38] KAP The Cantaloupe was killed by trigger_hurt
+[13:34:41] Uncle Louis was killed by trigger_hurt
+[13:34:44] Fat Gay: !bring ka
+[13:34:44] Fat Gay brought KAP The Cantaloupe
+[13:35:08] Fat Gay: !bring lu
+[13:35:10] Fat Gay: !bring unc
+[13:35:10] Fat Gay brought Uncle Louis
+[13:36:21] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[13:36:25] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[13:39:07] Fat Gay: brb
+[13:41:19] Fat Gay: !goto unc
+[13:41:19] Fat Gay teleported to Uncle Louis
+[13:43:57] Fat Gay: !BRING *
+[13:43:57] Fat Gay brought KAP The Cantaloupe,Uncle Louis
+[13:45:18] Fat Gay: !BRING KA
+[13:45:18] Fat Gay brought KAP The Cantaloupe
+[13:45:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[13:45:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[13:45:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[13:45:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[13:45:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[13:45:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:45:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:45:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:46:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[13:47:40] Fat Gay: !bring unc
+[13:47:40] Fat Gay brought Uncle Louis
+[13:48:21] Client "ImaThief" connected.
+[13:49:15] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:49:29] Fat Gay: !bring unc
+[13:49:29] Fat Gay brought Uncle Louis
+[13:50:35] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:50:46] Fat Gay: !bring swat
+[13:50:49] Fat Gay: !bring unc
+[13:50:49] Fat Gay brought Uncle Louis
+[13:50:54] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:51:17] Fat Gay: !bring unc
+[13:51:17] Fat Gay brought Uncle Louis
+[13:51:29] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:51:31] KAP The Cantaloupe killed Fat Gay using weapon_l4d2_frying_pan
+[13:51:37] Fat Gay: !goto kap
+[13:51:37] Fat Gay teleported to KAP The Cantaloupe
+[13:51:41] Fat Gay: !bring unc
+[13:51:53] Fat Gay: 1bring unc
+[13:51:55] Fat Gay: !bring unc
+[13:51:55] Fat Gay brought Uncle Louis
+[13:52:06] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:52:13] Fat Gay: !bring unc
+[13:52:19] Fat Gay: !bring unc
+[13:52:19] Fat Gay brought Uncle Louis
+[13:52:41] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:52:47] Fat Gay: !bring unc
+[13:52:47] Fat Gay brought Uncle Louis
+[13:52:56] KAP The Cantaloupe killed Uncle Louis using weapon_l4d2_frying_pan
+[13:53:01] Fat Gay: !bring unc
+[13:53:01] Fat Gay brought Uncle Louis
+[13:53:08] Client "ImaThief" spawned in server <STEAM_0:1:127001171> (took 287 seconds).
+[13:53:26] Uncle Louis killed KAP The Cantaloupe using weapon_l4d2_frying_pan
+[13:53:34] Fat Gay: !bring kap
+[13:53:34] Fat Gay brought KAP The Cantaloupe
+[13:53:45] KAP The Cantaloupe killed Fat Gay using weapon_l4d2_frying_pan
+[13:53:49] Fat Gay: !goto kap
+[13:53:49] Fat Gay teleported to KAP The Cantaloupe
+[13:54:47] Uncle Louis killed KAP The Cantaloupe using weapon_l4d2_frying_pan
+[13:54:50] Fat Gay: !bring ka
+[13:54:50] Fat Gay brought KAP The Cantaloupe
+[13:55:13] Fat Gay: !goto ka
+[13:55:13] Fat Gay teleported to KAP The Cantaloupe
+[13:55:41] Fat Gay: !bring *
+[13:55:41] Fat Gay brought ImaThief,KAP The Cantaloupe,Uncle Louis
+[13:55:48] Uncle Louis killed ImaThief using weapon_l4d2_frying_pan
+[13:56:34] KAP The Cantaloupe killed Fat Gay using weapon_l4d2_frying_pan
+[13:56:44] Fat Gay: !bring *
+[13:56:44] Fat Gay brought KAP The Cantaloupe,Uncle Louis
+[13:56:52] Uncle Louis was killed by trigger_hurt
+[13:56:56] Fat Gay: !bring unc
+[13:56:56] Fat Gay brought Uncle Louis
+[13:56:58] Uncle Louis killed KAP The Cantaloupe using weapon_l4d2_frying_pan
+[13:57:05] Fat Gay: !bring kap
+[13:57:05] Fat Gay brought KAP The Cantaloupe
+[13:57:07] Uncle Louis killed KAP The Cantaloupe using weapon_l4d2_frying_pan
+[13:57:18] Fat Gay: !bring ka
+[13:57:18] Fat Gay brought KAP The Cantaloupe
+[13:58:38] Fat Gay: !bring *
+[13:58:38] Fat Gay brought KAP The Cantaloupe,Uncle Louis
+[13:58:40] Fat Gay: !hp * 100
+[13:58:40] Fat Gay set the hp for Everyone to 100
+[13:59:10] Fat Gay: !hp * 100
+[13:59:10] Fat Gay set the hp for Everyone to 100
+[13:59:16] KAP The Cantaloupe killed Fat Gay using weapon_l4d2_frying_pan
+[13:59:19] Fat Gay: !goto kap
+[13:59:19] Fat Gay teleported to KAP The Cantaloupe
+[13:59:29] Fat Gay: !goto kap
+[13:59:29] Fat Gay teleported to KAP The Cantaloupe
+[13:59:35] Fat Gay suicided!
+[13:59:39] Fat Gay: !goto kap
+[13:59:39] Fat Gay teleported to KAP The Cantaloupe
+[14:00:05] Fat Gay suicided!
+[14:00:05] Fat Gay killed KAP The Cantaloupe using env_explosion
+[14:00:11] Fat Gay: !goto unc
+[14:00:11] Fat Gay teleported to Uncle Louis
+[14:00:14] Fat Gay: !bring kap
+[14:00:14] Fat Gay brought KAP The Cantaloupe
+[14:00:26] Fat Gay: !bring unc
+[14:00:26] Fat Gay brought Uncle Louis
+[14:00:35] Fat Gay: !bring ka
+[14:00:35] Fat Gay brought KAP The Cantaloupe
+[14:00:54] Uncle Louis killed KAP The Cantaloupe using player
+[14:00:59] Client "BRocha06" connected.
+[14:01:09] Fat Gay: !bing *
+[14:01:12] Fat Gay: !bring *
+[14:01:12] Fat Gay brought KAP The Cantaloupe,Uncle Louis
+[14:01:16] KAP The Cantaloupe killed Uncle Louis using player
+[14:01:31] Fat Gay killed KAP The Cantaloupe using player
+[14:01:36] Fat Gay: !bring *
+[14:01:36] Fat Gay brought KAP The Cantaloupe,Uncle Louis
+[14:01:55] Fat Gay: !god &
+[14:01:57] Fat Gay: !god *
+[14:01:57] Fat Gay granted god mode upon Everyone
+[14:02:15] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 76 seconds).
+[14:03:32] Fat Gay: !ungod *
+[14:03:32] Fat Gay revoked god mode from Everyone
+[14:03:53] Fat Gay: !bring unc
+[14:03:53] Fat Gay brought Uncle Louis
+[14:04:09] Fat Gay: !bring *
+[14:04:09] Fat Gay brought BRocha06,KAP The Cantaloupe,Uncle Louis
+[14:05:05] BRocha06 suicided!
+[14:05:09] Dropped "BRocha06" from server<STEAM_0:1:100921529>
+[14:05:11] Client "BRocha06" connected.
+[14:05:13] Fat Gay: !bring *
+[14:05:13] Fat Gay brought KAP The Cantaloupe,Uncle Louis
+[14:05:45] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 34 seconds).
+[14:05:57] Fat Gay: /dropweapon
+[14:06:14] Fat Gay: !bring br
+[14:06:14] Fat Gay brought BRocha06
+[14:07:20] KAP The Cantaloupe was killed by point_hurt
+[14:07:38] Fat Gay was killed by point_hurt
+[14:07:52] Fat Gay suicided!
+[14:07:52] Fat Gay killed KAP The Cantaloupe using env_explosion
+[14:08:06] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:08:16] Fat Gay: !bring unc
+[14:08:16] Fat Gay brought Uncle Louis
+[14:08:17] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:08:17] Fat Gay was killed by trigger_hurt
+[14:08:22] Fat Gay: !goto unc
+[14:08:22] Fat Gay teleported to Uncle Louis
+[14:08:26] Client "BionicTwin" connected.
+[14:08:30] KAP The Cantaloupe was killed by point_hurt
+[14:08:31] Fat Gay: !slay unc
+[14:08:31] Uncle Louis suicided!
+[14:08:31] Fat Gay slayed Uncle Louis
+[14:08:35] Fat Gay: !bring kap[
+[14:08:37] Fat Gay: !bring kap
+[14:08:37] Fat Gay brought KAP The Cantaloupe
+[14:08:39] Fat Gay was killed by trigger_hurt
+[14:09:07] Fat Gay: !goto kap
+[14:09:07] Fat Gay teleported to KAP The Cantaloupe
+[14:10:21] BRocha06 suicided!
+[14:10:26] Client "BionicTwin" spawned in server <STEAM_0:0:123818240> (took 120 seconds).
+[14:11:08] Fat Gay: !bring br
+[14:11:10] Fat Gay: !br br
+[14:11:12] Fat Gay: !bring br
+[14:11:12] Fat Gay brought BRocha06
+[14:12:01] BRocha06 suicided!
+[14:12:32] BRocha06 suicided!
+[14:13:33] Fat Gay: /ooc uncle luis do you wanna be teleported back?
+[14:13:40] Uncle Louis: /ooc Yes
+[14:13:40] Fat Gay: /ooc from afghan
+[14:13:45] Dropped "BionicTwin" from server<STEAM_0:0:123818240>
+[14:13:49] Fat Gay: !bring unc
+[14:13:49] Fat Gay brought Uncle Louis
+[14:14:31] Uncle Louis killed KAP The Cantaloupe using rpg_missile
+[14:14:43] Client "PrinceChaCha" connected.
+[14:14:45] Uncle Louis killed Fat Gay using rpg_missile
+[14:15:53] Uncle Louis killed BRocha06 using rpg_missile
+[14:16:16] Fat Gay: !bring im
+[14:16:50] Uncle Louis killed Fat Gay using crossbow_bolt
+[14:16:53] Fat Gay: !goto ka
+[14:16:53] Fat Gay teleported to KAP The Cantaloupe
+[14:16:58] ImaThief: // I am back
+[14:17:40] Fat Gay killed KAP The Cantaloupe using fas2_thrown_m67
+[14:17:51] BRocha06 suicided!
+[14:18:06] Fat Gay: !bring ka
+[14:18:06] Fat Gay brought KAP The Cantaloupe
+[14:18:08] ImaThief: // Cool down the reactor
+[14:19:26] KAP The Cantaloupe killed ImaThief using player
+[14:19:35] Fat Gay: !bring thei
+[14:19:38] Fat Gay: !bring ima
+[14:19:38] Fat Gay brought ImaThief
+[14:19:39] KAP The Cantaloupe killed ImaThief using player
+[14:19:44] Fat Gay: !god ima
+[14:19:44] Fat Gay granted god mode upon ImaThief
+[14:19:46] Fat Gay: !bring ima
+[14:19:46] Fat Gay brought ImaThief
+[14:19:54] KAP The Cantaloupe killed ImaThief using player
+[14:20:04] Fat Gay: !ungod *
+[14:20:04] Fat Gay revoked god mode from Everyone
+[14:20:12] Fat Gay: !bring ima
+[14:20:12] Fat Gay brought ImaThief
+[14:21:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:21:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:21:47] Fat Gay killed BRocha06 using player
+[14:22:12] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:21] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:22] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:22:24] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:27] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:33] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:35] KAP The Cantaloupe killed BRocha06 using player
+[14:22:36] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:39] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:22:44] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:48] ImaThief<STEAM_0:1:127001171> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:22:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredresser001a.mdl
+[14:22:50] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:22:53] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:22:56] Fat Gay suicided!
+[14:23:04] Fat Gay: !goto ka
+[14:23:04] Fat Gay teleported to KAP The Cantaloupe
+[14:23:39] Fat Gay: !explode br
+[14:23:39] BRocha06 suicided!
+[14:23:39] Fat Gay exploded BRocha06
+[14:23:44] Uncle Louis killed ImaThief using hunter_flechette
+[14:24:22] Fat Gay suicided!
+[14:24:31] Fat Gay: !goto ima
+[14:24:31] Fat Gay teleported to ImaThief
+[14:28:59] Fat Gay: /ooc 3 cbrn! mass scp-containment power!
+[14:29:04] Uncle Louis killed KAP The Cantaloupe using hunter_flechette
+[14:29:14] Fat Gay: !bring unc
+[14:29:14] Fat Gay brought Uncle Louis
+[14:29:18] Fat Gay: !bring ka
+[14:29:24] Fat Gay: !bring kap
+[14:29:24] Fat Gay brought KAP The Cantaloupe
+[14:29:28] Fat Gay: !goto bro
+[14:29:28] Fat Gay teleported to BRocha06
+[14:29:40] Fat Gay: !slay kap
+[14:29:40] KAP The Cantaloupe suicided!
+[14:29:40] Fat Gay slayed KAP The Cantaloupe
+[14:30:10] KAP The Cantaloupe was killed by trigger_hurt
+[14:30:15] Fat Gay: !spectate unc
+[14:30:33] BRocha06 was killed by trigger_hurt
+[14:30:36] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:38] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:30:43] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:43] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:43] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:44] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:45] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:30:46] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:48] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:49] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:52] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:30:53] Fat Gay: /ooc wat
+[14:30:56] Fat Gay: !spectate kap
+[14:31:00] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:01] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:03] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:05] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:06] Fat Gay: /ooc stop spamming
+[14:31:06] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:08] KAP The Cantaloupe: u// aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:10] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:12] (TEAM) KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:14] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:16] KAP The Cantaloupe: // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+[14:31:16] Fat Gay: /ooc last warning
+[14:31:29] KAP The Cantaloupe: // ok
+[14:31:43] (TEAM) Fat Gay: /ooc done do that, its annoying and against one of the core rule
+[14:31:48] Fat Gay: /ooc rules*
+[14:31:53] KAP The Cantaloupe: // im bored
+[14:31:54] (TEAM) Fat Gay: /ooc do !motd to look
+[14:32:06] Fat Gay: /ooc kap go CBRN, were gonna fight 049
+[14:32:18] Fat Gay: /ooc thats what the job is made for
+[14:32:33] KAP The Cantaloupe: I'm not vip
+[14:32:35] Fat Gay: !bring cbr
+[14:32:36] KAP The Cantaloupe: // ok
+[14:32:37] Fat Gay: !bring kap
+[14:32:40] Fat Gay: !bring kap
+[14:32:40] Fat Gay brought KAP The Cantaloupe
+[14:33:04] Uncle Louis killed KAP The Cantaloupe using rpg_missile
+[14:33:12] ImaThief was killed by point_hurt
+[14:33:16] Uncle Louis killed Fat Gay using rpg_missile
+[14:33:41] Fat Gay: !spectate unc
+[14:34:08] KAP The Cantaloupe killed ImaThief using player
+[14:34:14] Fat Gay: !bring kap
+[14:34:14] Fat Gay brought KAP The Cantaloupe
+[14:34:16] Fat Gay: !bring ima
+[14:34:23] Fat Gay: !bring ima
+[14:34:27] Fat Gay: !bring ima
+[14:34:28] Uncle Louis killed BRocha06 using crossbow_bolt
+[14:34:32] Fat Gay: !bring bro
+[14:34:32] Fat Gay brought BRocha06
+[14:34:34] Fat Gay: !bring ima
+[14:36:32] BRocha06 killed KAP The Cantaloupe using fas2_thrown_m67
+[14:36:43] Fat Gay suicided!
+[14:37:01] Fat Gay: !bring ima
+[14:37:27] Uncle Louis killed BRocha06 using rpg_missile
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[14:37:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:37:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[14:39:12] Fat Gay: !bring kap
+[14:39:12] Fat Gay brought KAP The Cantaloupe
+[14:39:15] Fat Gay: !bring bro
+[14:39:15] Fat Gay brought BRocha06
+[14:39:56] Fat Gay: !explode br
+[14:39:56] BRocha06 suicided!
+[14:39:56] Fat Gay exploded BRocha06
+[14:40:41] KAP The Cantaloupe killed Uncle Louis using player
+[14:40:42] Uncle Louis killed KAP The Cantaloupe using hunter_flechette
+[14:40:51] Fat Gay: !bring lou
+[14:40:51] Fat Gay brought KAP The Cantaloupe
+[14:40:58] Fat Gay: !bring ima
+[14:41:01] Fat Gay: !bring bro
+[14:41:01] Fat Gay brought BRocha06
+[14:41:02] Client "Makarov" connected.
+[14:41:30] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube05x8x025.mdl
+[14:41:31] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube05x8x025.mdl
+[14:41:33] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube075x075x025.mdl
+[14:41:42] BRocha06 killed KAP The Cantaloupe using weapon_l4d2_frying_pan
+[14:42:07] Fat Gay: !bring kap
+[14:42:07] Fat Gay brought KAP The Cantaloupe
+[14:42:27] KAP The Cantaloupe killed BRocha06 using player
+[14:42:45] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate4x5.mdl
+[14:42:47] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate4x7.mdl
+[14:42:51] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate4x8.mdl
+[14:42:52] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:44:14] Fat Gay: !bring ima
+[14:44:21] Fat Gay: !repawn ima
+[14:44:24] Fat Gay: !bring ima
+[14:45:15] Fat Gay: !forcerespawn ima
+[14:45:15] Fat Gay respawned ImaThief
+[14:45:18] Fat Gay: !bring ima
+[14:45:18] Fat Gay brought ImaThief
+[14:45:55] Fat Gay suicided!
+[14:45:57] Fat Gay killed ImaThief using fas2_thrown_m67
+[14:46:28] KAP The Cantaloupe killed Fat Gay using weapon_sillyzombieclaw_v2
+[14:46:39] Fat Gay: !goto kap
+[14:46:39] Fat Gay teleported to KAP The Cantaloupe
+[14:47:40] Fat Gay suicided!
+[14:48:03] Dropped "ImaThief" from server<STEAM_0:1:127001171>
+[14:48:14] KAP The Cantaloupe killed Fat Gay using weapon_sillyzombieclaw_v2
+[14:48:18] Fat Gay: !goto kap
+[14:48:18] Fat Gay teleported to KAP The Cantaloupe
+[14:48:29] KAP The Cantaloupe killed Fat Gay using weapon_sillyzombieclaw_v2
+[14:48:33] Fat Gay: !goto kap
+[14:48:33] Fat Gay teleported to KAP The Cantaloupe
+[14:48:56] KAP The Cantaloupe killed Fat Gay using weapon_sillyzombieclaw_v2
+[14:49:27] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:27] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:27] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:27] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:28] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:28] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:28] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:28] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:28] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:29] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:29] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:29] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:29] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:29] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:29] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:29] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:30] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:30] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:30] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:30] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:30] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:30] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:30] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:31] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:31] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:31] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:31] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:31] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:31] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:31] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:31] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:32] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:32] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:32] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:32] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:32] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:32] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:32] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:33] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:33] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:33] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:33] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:33] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:33] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:33] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:34] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:34] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:34] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:34] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:34] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:34] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:34] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:35] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:35] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:35] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:35] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:35] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:35] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:35] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:36] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:36] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:36] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:36] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:36] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:36] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:37] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:37] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:37] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:37] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:37] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:37] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:37] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:38] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:38] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:38] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:38] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:38] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:38] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:38] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:39] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:39] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:39] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:39] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:39] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:39] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:39] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:39] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:40] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:40] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:40] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:40] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:40] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:40] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:40] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:40] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:41] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:41] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:41] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:41] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:41] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:41] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:41] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:42] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:42] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:42] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:42] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:42] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:42] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:42] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:43] Uncle Louis<STEAM_0:1:51013935> spawned model models/props_combine/breendesk.mdl
+[14:49:43] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:43] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:43] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:43] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:43] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:43] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:44] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:44] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:44] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:44] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:44] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:45] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:45] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:45] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:45] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:45] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:46] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:46] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:46] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:46] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:46] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:47] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:47] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:47] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:47] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:47] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:48] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:48] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:48] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:48] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:49] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:49] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:49] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:49] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:49] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:49] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:50] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:50] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:50] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:50] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:50] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:51] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:51] KAP The Cantaloupe<STEAM_0:0:160284317> spawned model models/props_combine/breendesk.mdl
+[14:49:59] KAP The Cantaloupe killed Fat Gay using weapon_sillyzombieclaw_v2
+[14:50:45] KAP The Cantaloupe killed Fat Gay using weapon_sillyzombieclaw_v2
+[14:51:24] Uncle Louis killed Fat Gay using rpg_missile
+[14:51:29] Client "Makarov" spawned in server <STEAM_0:1:71554965> (took 627 seconds).
+[14:51:43] KAP The Cantaloupe killed Fat Gay using crossbow_bolt
+[14:52:08] Fat Gay: !spectate maka
+[14:52:29] KAP The Cantaloupe killed Fat Gay using crossbow_bolt
+[14:53:17] KAP The Cantaloupe killed Fat Gay using rpg_missile
+[14:53:17] BRocha06: /name Gordon Ramsay
+[14:53:17] BRocha06<STEAM_0:1:100921529> changed their name to Gordon Ramsay
+[14:53:27] Fat Gay: !goto maka
+[14:53:27] Fat Gay teleported to Makarov
+[14:54:38] KAP The Cantaloupe killed Gordon Ramsay using crossbow_bolt
+[14:55:20] KAP The Cantaloupe killed Gordon Ramsay using rpg_missile
+[14:55:47] Uncle Louis killed Gordon Ramsay using crossbow_bolt
+[14:56:10] Uncle Louis killed Gordon Ramsay using crossbow_bolt
+[14:56:27] Gordon Ramsay was killed by trigger_hurt
+[14:57:02] Makarov<STEAM_0:1:71554965> spawned model models/props_lab/blastdoor001c.mdl
+[15:00:47] Uncle Louis: /me pulls down pants
+[15:00:53] KAP The Cantaloupe: /me gives succ
+[15:01:17] Uncle Louis: /me moans out loud for buger
+[15:01:20] Fat Gay: !bring kap
+[15:01:20] Fat Gay brought KAP The Cantaloupe
+[15:01:25] Fat Gay: !return kap
+[15:01:25] Fat Gay returned KAP The Cantaloupe to their original position
+[15:01:28] Fat Gay: !bring mar
+[15:01:32] Fat Gay: !bring mak
+[15:01:32] Fat Gay brought Makarov
+[15:01:58] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:00] Uncle Louis: /advert mug drop 5k 10 seconds, move kos
+[15:02:02] Uncle Louis: /advert raid, kos if near
+[15:02:14] KAP The Cantaloupe: /y PTS
+[15:02:16] Fat Gay: !spectate kap
+[15:02:17] KAP The Cantaloupe: /invholster
+[15:02:17] Gordon Ramsay: /advert die
+[15:02:22] KAP The Cantaloupe: /drop
+[15:02:23] KAP The Cantaloupe: /drop
+[15:02:24] KAP The Cantaloupe: /invholster
+[15:02:26] KAP The Cantaloupe: /drop
+[15:02:26] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:27] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:28] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:28] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:29] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:30] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:31] KAP The Cantaloupe: /y PTS
+[15:02:31] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:31] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:32] KAP The Cantaloupe: /y PTS
+[15:02:32] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:33] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:34] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:35] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:35] KAP The Cantaloupe: hi
+[15:02:35] Uncle Louis: /me salutes to his commanding officer with the upmost respect 
+[15:02:36] KAP The Cantaloupe: hi
+[15:02:37] KAP The Cantaloupe: hi
+[15:02:38] Gordon Ramsay: /advert drop me a piece of food or get panned
+[15:02:38] KAP The Cantaloupe: hi
+[15:02:38] Uncle Louis: hi
+[15:02:38] KAP The Cantaloupe: hi
+[15:02:39] KAP The Cantaloupe: hi
+[15:02:40] KAP The Cantaloupe: hi
+[15:02:41] KAP The Cantaloupe: hi
+[15:02:41] KAP The Cantaloupe: hi
+[15:02:42] KAP The Cantaloupe: hi
+[15:02:43] KAP The Cantaloupe: hi
+[15:02:44] KAP The Cantaloupe: hi
+[15:02:57] Gordon Ramsay killed Fat Gay using weapon_l4d2_frying_pan
+[15:03:03] Fat Gay: !goto gord
+[15:03:03] Fat Gay teleported to Gordon Ramsay
+[15:03:13] Fat Gay: !god maka
+[15:03:13] Fat Gay granted god mode upon Makarov
+[15:03:16] Fat Gay: !god fat
+[15:03:16] Fat Gay granted god mode upon Themself
+[15:03:22] Makarov<STEAM_0:1:71554965> spawned model models/props_borealis/bluebarrel001.mdl
+[15:03:22] KAP The Cantaloupe: /me succs the pucker
+[15:03:34] Uncle Louis: /me bites KAPs lips 
+[15:03:49] KAP The Cantaloupe: \
+[15:04:48] Uncle Louis was killed by trigger_hurt
+[15:04:51] KAP The Cantaloupe was killed by trigger_hurt
+[15:05:05] KAP The Cantaloupe: // see you later niggers
+[15:05:10] Fat Gay: /ooc see ya
+[15:05:13] Dropped "KAP The Cantaloupe" from server<STEAM_0:0:160284317>
+[15:05:19] Dropped "Uncle Louis" from server<STEAM_0:1:51013935>
+[15:06:08] Makarov<STEAM_0:1:71554965> spawned model models/props_lab/filecabinet02.mdl
+[15:07:24] Makarov: @ Gay
+[15:07:24] Makarov to admins: Gay
+[15:07:30] Makarov: /pm fat hello
+[15:07:50] Gordon Ramsay: k
+[15:07:57] Gordon Ramsay: kkk
+[15:08:10] Gordon Ramsay: ultra sucks at mapmaking btw
+[15:08:22] Gordon Ramsay: jk
+[15:09:01] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/plates/plate4x8.mdl
+[15:09:42] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube2x2x1.mdl
+[15:09:50] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_phx/construct/metal_tubex2.mdl
+[15:10:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x1x075.mdl
+[15:10:06] Fat Gay: !explode br
+[15:10:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:11] Fat Gay: !explode gor
+[15:10:11] Gordon Ramsay suicided!
+[15:10:11] Fat Gay exploded Gordon Ramsay
+[15:10:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube8x8x8.mdl
+[15:10:35] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_phx/construct/plastic/plastic_angle_180.mdl
+[15:10:37] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube6x6x6.mdl
+[15:10:40] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube4x4x4.mdl
+[15:11:19] Makarov: wire_expression2_model models/Gibs/HGIBS.mdl
+[15:12:07] Makarov: wire_expression2_model
+[15:12:21] Makarov: wire_expression2_model
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/props_phx/construct/metal_wire2x2x2b.mdl
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/hunter/plates/plate2x2.mdl
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/hunter/plates/plate2x2.mdl
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/hunter/plates/plate2x2.mdl
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/hunter/triangles/2x2x1.mdl
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/hunter/plates/plate2x2.mdl
+[15:12:37] Makarov<STEAM_0:1:71554965> spawned model models/hunter/plates/plate2x2.mdl
+[15:13:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube4x4x4.mdl
+[15:14:31] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube4x4x4.mdl
+[15:14:38] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x1x025.mdl
+[15:14:41] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x1x025.mdl
+[15:14:42] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x1x025.mdl
+[15:15:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x2x025.mdl
+[15:15:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x4x025.mdl
+[15:15:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x6x025.mdl
+[15:15:18] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube075x6x025.mdl
+[15:15:21] Client "ellis3246" connected.
+[15:16:01] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/hunter/blocks/cube05x5x025.mdl
+[15:16:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:16:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/oildrum001.mdl
+[15:17:24] Dropped "Gordon Ramsay" from server<STEAM_0:1:100921529>
+[15:22:46] Fat Gay: /track
+[15:22:48] Fat Gay: /track 1
+[15:22:55] Fat Gay: /track Makarov
+[15:23:02] Fat Gay: -track 1
+[15:23:25] Fat Gay: -track Makarov
+[15:25:39] Fat Gay: -track 1
+[15:27:14] Dropped "Makarov" from server<STEAM_0:1:71554965>
+[15:27:41] Client "ellis3246" spawned in server <STEAM_0:0:170430038> (took 740 seconds).
+[15:32:43] Dropped "ellis3246" from server<STEAM_0:0:170430038>
+[16:20:53] Client "Vix" connected.
+[16:21:05] Client "BRocha06" connected.
+[16:21:12] Client "MDL: Lynx ❤" connected.
+[16:21:54] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 49 seconds).
+[16:22:00] Fat Gay: !goto gord
+[16:22:00] Fat Gay teleported to Gordon Ramsay
+[16:22:09] Fat Gay killed Gordon Ramsay using fas2_thrown_m67
+[16:22:18] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:22:18] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:19] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:20] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:20] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:20] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:20] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:21] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/canister_propane01a.mdl
+[16:22:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/furnituresink001a.mdl
+[16:22:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/furnituresink001a.mdl
+[16:22:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01a.mdl
+[16:22:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:24] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:24] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:24] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:24] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:24] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:24] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/furniture_chair01a.mdl
+[16:22:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/furniture_chair01a.mdl
+[16:22:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/furniture_chair01a.mdl
+[16:22:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/furniture_chair01a.mdl
+[16:22:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/furniture_chair01a.mdl
+[16:22:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:22:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_c17/utilitypole01b.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:02] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:03] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:04] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:05] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Fat Gay suicided!
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:06] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:07] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:08] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:09] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:10] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:11] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:12] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:12] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:12] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:12] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:12] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:14] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:15] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:18] Client "Vix" spawned in server <STEAM_0:0:143859663> (took 145 seconds).
+[16:23:18] Gordon Ramsay: w
+[16:23:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:22] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:23] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:25] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:26] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:27] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:28] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:29] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:29] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:30] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:31] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:31] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:31] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:31] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:31] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:32] Gordon Ramsay<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[16:23:32] Client "MDL: Lynx ❤" spawned in server <STEAM_0:0:66048277> (took 140 seconds).
+[16:23:34] Gordon Ramsay killed Furry Trash using player
+[16:23:42] Fat Gay: !goto furry
+[16:23:45] Fat Gay: !goto ly
+[16:23:45] Fat Gay teleported to Lynx
+[16:23:48] Gordon Ramsay killed Fat Gay using player
+[16:23:55] Fat Gay: !explode br
+[16:24:04] Gordon Ramsay killed Lynx using player
+[16:24:04] Fat Gay: !goto explo gor
+[16:24:10] Fat Gay: !forcerespawn lynx
+[16:24:10] Fat Gay respawned Lynx
+[16:24:17] Fat Gay: !forcerespawn vix
+[16:24:19] Fat Gay: !goto vi
+[16:24:23] Fat Gay: !goto ly
+[16:24:23] Fat Gay teleported to Lynx
+[16:24:24] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:24] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:25] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:25] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:25] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:25] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:25] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:26] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:26] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:27] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:27] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:28] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:28] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:28] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:28] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:29] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:29] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:31] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:31] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:31] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:32] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:32] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:32] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:32] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:33] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:33] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:33] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:33] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:33] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:34] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:34] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:34] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:34] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:35] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:35] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:35] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:35] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:36] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:36] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:36] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:36] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:37] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:37] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:37] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:37] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:38] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:38] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:38] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:38] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:39] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:39] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:39] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:44] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:44] Gordon Ramsay: /name osama
+[16:24:44] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:44] Gordon Ramsay<STEAM_0:1:100921529> changed their name to osama
+[16:24:44] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:44] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:45] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:45] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:45] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:45] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:46] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:46] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:46] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:46] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:46] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:48] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:49] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:49] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:49] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:49] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:50] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:50] Furry Trash<STEAM_0:0:143859663> spawned model models/props_borealis/bluebarrel001.mdl
+[16:24:51] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:51] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:51] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:51] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:52] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:52] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:52] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:53] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:24:53] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[16:25:08] osama suicided!
+[16:25:16] Dropped "osama" from server<STEAM_0:1:100921529>
+[16:25:21] Lynx suicided!
+[16:26:09] Lynx was killed by trigger_hurt
+[16:26:11] Fat Gay killed Furry Trash using weapon_l4d2_frying_pan
+[16:26:47] Fat Gay: !goto vix
+[16:26:52] Fat Gay: !goto furr
+[16:26:52] Fat Gay teleported to Furry Trash
+[16:26:59] Fat Gay killed Furry Trash using weapon_l4d2_frying_pan
+[16:27:10] Fat Gay: !got furr
+[16:27:13] Fat Gay: !goto fur
+[16:27:13] Fat Gay teleported to Furry Trash
+[16:29:02] Furry Trash killed Fat Gay using player
+[16:29:06] Fat Gay: !goto fur
+[16:29:06] Fat Gay teleported to Furry Trash
+[16:29:10] Fat Gay killed Furry Trash using weapon_l4d2_frying_pan
+[16:29:20] Fat Gay: !goto fur
+[16:29:20] Fat Gay teleported to Furry Trash
+[16:29:23] Furry Trash was killed by fas2_thrown_ammobox
+[16:29:23] Fat Gay was killed by fas2_thrown_ammobox
+[16:29:28] Fat Gay: !goto fur
+[16:29:32] (TEAM) Fat Gay: !goto fur
+[16:29:37] Fat Gay: !goto fur
+[16:29:37] Fat Gay teleported to Furry Trash
+[16:30:08] Fat Gay killed Furry Trash using weapon_l4d2_frying_pan
+[16:30:18] Fat Gay killed Furry Trash using weapon_l4d2_frying_pan
+[16:30:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:30:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:30:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:30:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:30:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:07] Furry Trash was killed by fas2_thrown_ammobox
+[16:31:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:31] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[16:31:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:32] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:31:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[16:32:12] Fat Gay: !spectate ly
+[16:32:35] Fat Gay was killed by trigger_hurt
+[16:32:54] Fat Gay: !bring ly
+[16:32:54] Fat Gay brought Lynx
+[16:33:40] Fat Gay: !goto vix
+[16:33:43] Fat Gay: !goto fur
+[16:33:43] Fat Gay teleported to Furry Trash
+[16:33:52] Fat Gay: !bring fur
+[16:33:52] Fat Gay brought Furry Trash
+[16:34:00] Fat Gay: !bring fur
+[16:34:03] Fat Gay: !bring fur
+[16:34:22] Furry Trash: /name Hey FURFAG
+[16:34:23] Furry Trash<STEAM_0:0:143859663> changed their name to Hey FURFAG
+[16:35:13] Fat Gay killed Lynx using weapon_l4d2_frying_pan
+[16:36:45] Fat Gay: !spectate lyn
+[16:39:41] Dropped "Lynx" from server<STEAM_0:0:66048277>
+[16:41:28] Hey FURFAG: Anthrocon is the world's second largest furry convention, taking place in Pittsburgh, Pennsylvania
+[16:41:30] Fat Gay was killed by trigger_hurt
+[16:41:37] Fat Gay: !goto fur
+[16:48:36] Client "BRocha06" connected.
+[16:49:15] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 39 seconds).
+[16:49:59] osama: /name Jamie Oliver
+[16:50:00] osama<STEAM_0:1:100921529> changed their name to Jamie Oliver
+[16:53:11] Jamie Oliver: /ooc ultra aren't there logs on discord?
+[16:53:30] Jamie Oliver: /ooc like chat logs
+[16:53:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/hunter/plates/plate5x8.mdl
+[16:54:09] Jamie Oliver<STEAM_0:1:100921529> spawned model models/hunter/plates/plate5x8.mdl
+[16:54:18] Jamie Oliver<STEAM_0:1:100921529> spawned model models/hunter/plates/plate5x8.mdl
+[16:54:39] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[16:57:02] Jamie Oliver killed Fat Gay using crossbow_bolt
+[16:57:09] Jamie Oliver killed Fat Gay using crossbow_bolt
+[16:57:18] Jamie Oliver killed Fat Gay using crossbow_bolt
+[16:57:47] Jamie Oliver killed Fat Gay using crossbow_bolt
+[16:57:52] Fat Gay: !goto ol
+[16:57:52] Fat Gay teleported to Jamie Oliver
+[16:58:47] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[16:58:50] Fat Gay: !goto ja,
+[16:58:52] Fat Gay: !goto jam
+[16:58:52] Fat Gay teleported to Jamie Oliver
+[16:59:21] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[16:59:54] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:00:09] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:00:28] Hey FURFAG was killed by trigger_hurt
+[17:01:01] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:01:04] Fat Gay: !goto jam
+[17:01:04] Fat Gay teleported to Jamie Oliver
+[17:01:29] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:01:35] (TEAM) Fat Gay: !goto jam
+[17:01:35] Fat Gay teleported to Jamie Oliver
+[17:02:13] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:02:17] Fat Gay: !goto jam
+[17:02:17] Fat Gay teleported to Jamie Oliver
+[17:02:26] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:02:33] Fat Gay: !freeze jam
+[17:02:33] Fat Gay froze Jamie Oliver
+[17:02:36] Fat Gay: !goto jam
+[17:02:36] Fat Gay teleported to Jamie Oliver
+[17:02:37] Jamie Oliver: /ooc SCRUB
+[17:03:15] Jamie Oliver: /OOC I LIVED
+[17:03:18] Jamie Oliver: /OOC FML
+[17:03:20] Fat Gay: !goto jam
+[17:03:20] Fat Gay teleported to Jamie Oliver
+[17:03:21] Fat Gay was killed by trigger_hurt
+[17:03:43] Jamie Oliver: /OOC did you give me god mode or something xd
+[17:03:43] Fat Gay: !slay br
+[17:03:47] Fat Gay: 1slay jam
+[17:03:50] Fat Gay: !slay jam
+[17:03:54] Fat Gay: !unfreeze jam
+[17:03:54] Fat Gay unfroze Jamie Oliver
+[17:03:57] Jamie Oliver was killed by trigger_hurt
+[17:04:15] Jamie Oliver killed Hey FURFAG using weapon_l4d2_frying_pan
+[17:05:33] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:05:52] Fat Gay: !goto jam
+[17:05:52] Fat Gay teleported to Jamie Oliver
+[17:06:16] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:06:19] Fat Gay: !goto jam
+[17:06:19] Fat Gay teleported to Jamie Oliver
+[17:06:28] (TEAM) Fat Gay: !unfreeze jam
+[17:06:28] Fat Gay unfroze Jamie Oliver
+[17:06:48] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:06:52] Fat Gay: !goto jam
+[17:06:52] Fat Gay teleported to Jamie Oliver
+[17:07:36] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:07:39] Fat Gay: !goto jam
+[17:07:39] Fat Gay teleported to Jamie Oliver
+[17:08:01] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:08:21] Hey FURFAG was killed by trigger_hurt
+[17:08:46] Jamie Oliver killed Hey FURFAG using weapon_l4d2_frying_pan
+[17:08:49] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:09:23] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:09:39] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:09:43] Fat Gay: !goto jam
+[17:09:43] Fat Gay teleported to Jamie Oliver
+[17:09:55] Hey FURFAG was killed by fas2_thrown_ammobox
+[17:09:55] Fat Gay was killed by fas2_thrown_ammobox
+[17:09:59] Fat Gay: !goto jam
+[17:09:59] Fat Gay teleported to Jamie Oliver
+[17:10:06] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:10:38] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:10:42] Fat Gay: !goto jam
+[17:10:42] Fat Gay teleported to Jamie Oliver
+[17:10:56] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:11:06] Dropped "Hey FURFAG" from server<STEAM_0:0:143859663>
+[17:11:33] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+[17:11:36] Fat Gay: !goto jam
+[17:11:36] Fat Gay teleported to Jamie Oliver
+[17:12:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[17:12:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[17:12:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[17:12:36] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[17:13:32] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:14:03] Fat Gay killed Jamie Oliver using weapon_l4d2_frying_pan
+[17:14:18] Jamie Oliver killed Fat Gay using weapon_l4d2_frying_pan
+
+
+
+[17:16:01] New map: rp_powerplant_v2b2
+[17:16:24] Client "Fat Gay" connected.
+[17:16:24] Client "BRocha06" connected.
+[17:16:51] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 27 seconds).
+[17:17:03] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 39 seconds).
+[17:17:32] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:42] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:42] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:42] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:49] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:49] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:49] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:51] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:51] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:51] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:51] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:51] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:53] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:54] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:55] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:56] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:57] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:57] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:58] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:17:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:01] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:01] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:02] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:03] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:03] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:03] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:04] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:04] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:05] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:05] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:24] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:25] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:18:26] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+
+
+
+[17:19:17] New map: rp_powerplant_v2b2
+
+
+
+[17:20:36] New map: rp_powerplant_v2b2
+[17:20:51] Client "Fat Gay" connected.
+[17:20:54] Client "BRocha06" connected.
+[17:21:19] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[17:21:21] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 27 seconds).
+[17:21:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:40] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:43] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:45] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:46] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:47] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:48] Fat Gay: !propCount
+[17:21:48] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:52] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:53] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:53] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:54] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:54] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:54] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:55] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:55] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:55] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:56] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:57] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:57] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:57] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:58] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:58] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:58] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:58] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:21:59] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:22:00] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:22:01] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:22:01] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:22:01] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+
+
+
+[17:23:21] New map: rp_powerplant_v2b2
+[17:23:28] Client "Fat Gay" connected.
+[17:23:58] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+
+
+
+[17:26:41] New map: rp_powerplant_v2b2
+[17:27:02] Client "Fat Gay" connected.
+[17:27:24] Client "BRocha06" connected.
+[17:27:50] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[17:28:02] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 38 seconds).
+[17:28:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:28:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:28:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:28:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:28:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:28:11] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:28:11] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+
+
+
+[17:29:31] New map: rp_powerplant_v2b2
+[17:29:45] Client "Fat Gay" connected.
+[17:30:14] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+[17:30:34] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:30:34] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:30:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:30:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:30:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[17:30:41] Client "BRocha06" connected.
+[17:31:10] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 29 seconds).
+[17:31:29] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:32] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:32] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:32] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:32] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:32] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:33] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:34] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:35] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:36] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:37] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:38] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:39] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:40] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:31:41] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:32:23] Jamie Oliver<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[17:32:35] Jamie Oliver killed Fat Gay using player
+[17:32:49] Fat Gay killed Jamie Oliver using player
+[17:33:14] Fat Gay killed Jamie Oliver using player
+[17:33:18] Jamie Oliver killed Fat Gay using player
+[17:33:26] Fat Gay killed Jamie Oliver using player
+[17:43:18] Fat Gay: !menu
+[17:45:53] Fat Gay: !menu
+[17:55:27] Fat Gay suicided!
+[17:58:57] Client "VietnamFlashbacks" connected.
+[17:59:00] Client "VietnamFlashbacks" connected.
+[18:00:29] Fat Gay: !menu
+[18:07:46] Client "VietnamFlashbacks" spawned in server <STEAM_0:0:80420240> (took 526 seconds).
+[18:09:45] VietnamFlashbacks killed Fat Gay using player
+[18:09:52] Fat Gay killed VietnamFlashbacks using player
+[18:10:00] Fat Gay killed VietnamFlashbacks using player
+[18:10:13] VietnamFlashbacks: !god ^
+[18:10:13] VietnamFlashbacks granted god mode upon Themself
+[18:10:21] VietnamFlashbacks killed Fat Gay using player
+[18:10:29] Fat Gay: !ungod *
+[18:10:29] Fat Gay revoked god mode from Everyone
+[18:10:31] Fat Gay killed VietnamFlashbacks using player
+[18:10:41] Fat Gay suicided!
+[18:10:52] Fat Gay suicided!
+[18:11:00] Fat Gay suicided!
+[18:11:08] Fat Gay suicided!
+[18:11:14] Fat Gay suicided!
+[18:11:14] Fat Gay killed VietnamFlashbacks using env_explosion
+[18:11:40] Fat Gay: !goto vie
+[18:11:40] Fat Gay teleported to VietnamFlashbacks
+[18:11:56] Fat Gay killed VietnamFlashbacks using player
+[18:12:00] VietnamFlashbacks<STEAM_0:0:80420240> spawned sent cw_ammo_12gauge
+[18:12:01] VietnamFlashbacks<STEAM_0:0:80420240> spawned sent cw_ammo_12gauge
+[18:12:08] Fat Gay killed VietnamFlashbacks using player
+[18:12:21] VietnamFlashbacks<STEAM_0:0:80420240> spawned sent eoti_werewolf_wolfsbane
+[18:12:28] VietnamFlashbacks<STEAM_0:0:80420240> spawned sent gmt_instrument_piano
+[18:12:32] Fat Gay killed VietnamFlashbacks using player
+[18:13:10] VietnamFlashbacks was killed by trigger_hurt
+[18:13:23] VietnamFlashbacks<STEAM_0:0:80420240> spawned sent itemstore_bank
+[18:13:33] Fat Gay: !slay fat
+[18:13:33] Fat Gay suicided!
+[18:13:33] Fat Gay slayed Themself
+[18:14:55] VietnamFlashbacks: /hlogs
+[18:15:00] Fat Gay killed VietnamFlashbacks using weapon_sillyzombieclaw_v2
+[18:15:09] Fat Gay killed VietnamFlashbacks using weapon_sillyzombieclaw_v2
+[18:15:46] Fat Gay killed VietnamFlashbacks using player
+[18:15:55] VietnamFlashbacks killed Fat Gay using player
+[18:16:12] VietnamFlashbacks killed Fat Gay using player
+[18:16:16] Fat Gay killed VietnamFlashbacks using player
+[18:16:41] Fat Gay killed VietnamFlashbacks using player
+[18:16:48] Fat Gay killed VietnamFlashbacks using player
+[18:17:06] Fat Gay: !bring vi
+[18:17:10] Fat Gay: !forcerespawn vie
+[18:17:10] VietnamFlashbacks suicided!
+[18:17:10] Fat Gay respawned VietnamFlashbacks
+[18:17:53] Fat Gay killed VietnamFlashbacks using player
+[18:18:10] VietnamFlashbacks suicided!
+[18:18:10] VietnamFlashbacks killed Fat Gay using env_explosion
+[18:18:29] Fat Gay killed VietnamFlashbacks using player
+[18:18:42] VietnamFlashbacks killed Fat Gay using player
+[18:18:47] Fat Gay killed VietnamFlashbacks using player
+[18:18:57] Fat Gay killed VietnamFlashbacks using player
+[18:19:26] Fat Gay killed VietnamFlashbacks using player
+[18:19:50] Fat Gay killed VietnamFlashbacks using player
+[18:20:09] VietnamFlashbacks: /hlogs
+[18:20:18] Fat Gay killed VietnamFlashbacks using player
+[18:20:47] Fat Gay killed VietnamFlashbacks using player
+[18:21:15] Fat Gay killed VietnamFlashbacks using player
+[18:21:27] VietnamFlashbacks killed Fat Gay using player
+[18:21:47] Fat Gay killed VietnamFlashbacks using player
+[18:22:08] VietnamFlashbacks killed Fat Gay using player
+[18:22:45] Fat Gay: !bring vie
+[18:22:54] Fat Gay: !bring vie
+[18:22:54] Fat Gay brought VietnamFlashbacks
+[18:22:55] Fat Gay killed VietnamFlashbacks using player
+[18:23:39] Fat Gay: !unfreeze fat
+[18:23:39] Fat Gay unfroze Themself
+[18:23:53] Fat Gay: !slay vi
+[18:23:53] VietnamFlashbacks suicided!
+[18:23:53] Fat Gay slayed VietnamFlashbacks
+[18:24:42] Fat Gay: !slay fat
+[18:25:01] Fat Gay: !slay vie
+[18:25:01] VietnamFlashbacks suicided!
+[18:25:01] Fat Gay slayed VietnamFlashbacks
+[18:25:24] Fat Gay killed VietnamFlashbacks using player
+[18:25:53] Fat Gay: !goto vie
+[18:25:53] Fat Gay teleported to VietnamFlashbacks
+[18:26:04] VietnamFlashbacks<STEAM_0:0:80420240> spawned model models/props_borealis/bluebarrel001.mdl
+[18:26:08] Fat Gay killed VietnamFlashbacks using player
+[18:26:44] Fat Gay killed VietnamFlashbacks using player
+[18:27:16] VietnamFlashbacks: !god *
+[18:27:16] VietnamFlashbacks granted god mode upon Everyone
+[18:27:23] Fat Gay: !ungod *
+[18:27:23] Fat Gay revoked god mode from Everyone
+[18:28:20] Fat Gay killed VietnamFlashbacks using player
+[18:28:41] Fat Gay killed VietnamFlashbacks using player
+[18:31:36] VietnamFlashbacks killed Fat Gay using player
+[18:31:59] Fat Gay: !goto vie
+[18:31:59] Fat Gay teleported to VietnamFlashbacks
+[18:32:17] Fat Gay killed VietnamFlashbacks using player
+[18:32:26] Fat Gay: !goto vie
+[18:32:54] Fat Gay: !goto vie
+[18:32:54] Fat Gay teleported to VietnamFlashbacks
+[18:32:55] Fat Gay killed VietnamFlashbacks using player
+[18:33:04] VietnamFlashbacks killed Fat Gay using player
+[18:33:04] Fat Gay: /ooc ok let me work on pac
+[18:35:08] Fat Gay: !menu
+[18:35:39] Fat Gay killed VietnamFlashbacks using player
+[18:36:40] VietnamFlashbacks killed Fat Gay using player
+[18:38:09] Fat Gay killed VietnamFlashbacks using player
+[18:38:31] VietnamFlashbacks killed Fat Gay using player
+[18:42:12] Fat Gay: /ooc restarting server
+[18:42:19] VietnamFlashbacks: // no u
+
+
+
+[18:43:34] New map: rp_powerplant_v2b2
+[18:43:38] Client "VietnamFlashbacks" connected.
+[18:43:58] Client "Fat Gay" connected.
+[18:43:59] Client "BRocha06" connected.
+[18:44:11] Client "VietnamFlashbacks" spawned in server <STEAM_0:0:80420240> (took 33 seconds).
+[18:44:25] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 26 seconds).
+[18:44:37] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 39 seconds).
+[18:46:15] Fat Gay: !ulx pac STEAM_0:1:100921529
+[18:46:18] Fat Gay: !pac STEAM_0:1:100921529
+[18:46:32] VietnamFlashbacks: !unfreeze ^
+[18:46:32] VietnamFlashbacks unfroze Themself
+[18:46:40] Dropped "VietnamFlashbacks" from server<STEAM_0:0:80420240>
+[18:46:48] Client "VietnamFlashbacks" connected.
+[18:47:20] Client "VietnamFlashbacks" spawned in server <STEAM_0:0:80420240> (took 32 seconds).
+[18:48:50] Fat Gay: !menu
+[18:50:12] VietnamFlashbacks killed Jamie Oliver using player
+[18:50:14] VietnamFlashbacks killed Fat Gay using player
+
+
+
+[18:53:26] New map: rp_powerplant_v2b2
+[18:53:50] Client "Fat Gay" connected.
+[18:53:50] Client "BRocha06" connected.
+[18:53:50] Client "VietnamFlashbacks" connected.
+[18:54:16] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 26 seconds).
+[18:54:20] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+[18:54:22] Client "VietnamFlashbacks" spawned in server <STEAM_0:0:80420240> (took 32 seconds).
+[18:56:35] Jamie Oliver: /OOC LMAO
+[18:56:39] Jamie Oliver: /ooc i gained 100k
+[18:56:42] Jamie Oliver: /ooc from being afk
+[18:56:47] VietnamFlashbacks killed Jamie Oliver using player
+
+
+
+[18:58:05] New map: rp_powerplant_v2b2
+[18:58:12] Client "Fat Gay" connected.
+[18:58:43] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 31 seconds).
+[18:58:45] Client "VietnamFlashbacks" connected.
+[18:59:18] Client "VietnamFlashbacks" spawned in server <STEAM_0:0:80420240> (took 33 seconds).
+[18:59:36] VietnamFlashbacks: !donate
+[18:59:54] Fat Gay killed VietnamFlashbacks using player
+[19:00:30] Fat Gay killed VietnamFlashbacks using player
+[19:00:37] Fat Gay killed VietnamFlashbacks using player
+[19:00:45] VietnamFlashbacks: !ban ultra 1
+[19:00:49] Fat Gay killed VietnamFlashbacks using player
+[19:00:53] Client "BRocha06" connected.
+[19:00:56] VietnamFlashbacks: !
+[19:01:23] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 30 seconds).
+[19:01:29] Fat Gay killed VietnamFlashbacks using player
+[19:01:40] Fat Gay killed Jamie Oliver using player
+[19:01:44] Fat Gay killed VietnamFlashbacks using player
+[19:02:00] Fat Gay killed Jamie Oliver using player
+[19:02:03] Jamie Oliver: wot
+[19:02:06] Fat Gay killed VietnamFlashbacks using player
+[19:02:13] Fat Gay killed VietnamFlashbacks using player
+[19:02:23] Fat Gay killed Jamie Oliver using player
+[19:02:28] Fat Gay killed VietnamFlashbacks using player
+[19:02:57] Fat Gay killed Jamie Oliver using player
+[19:03:08] Jamie Oliver killed Fat Gay using player
+[19:03:11] Jamie Oliver killed VietnamFlashbacks using player
+[19:03:15] Fat Gay killed Jamie Oliver using player
+[19:03:34] Fat Gay: !goto oli
+[19:03:41] Fat Gay: !goto jam
+[19:04:07] Fat Gay killed VietnamFlashbacks using player
+[19:04:18] Fat Gay killed VietnamFlashbacks using player
+[19:04:32] Fat Gay killed VietnamFlashbacks using player
+[19:04:36] Jamie Oliver suicided!
+[19:05:37] VietnamFlashbacks killed Fat Gay using player
+[19:06:32] Jamie Oliver suicided!
+[19:06:45] Jamie Oliver: /name i like books i think
+[19:06:45] Jamie Oliver<STEAM_0:1:100921529> changed their name to i like books i think
+[19:06:51] i like books i think: k
+[19:07:25] i like books i think killed VietnamFlashbacks using player
+[19:07:32] VietnamFlashbacks suicided!
+[19:07:47] VietnamFlashbacks killed i like books i think using ent_l4d2_grenade_launcher_grenade
+[19:07:54] i like books i think killed VietnamFlashbacks using player
+[19:07:56] i like books i think killed Fat Gay using player
+[19:08:02] i like books i think killed VietnamFlashbacks using player
+[19:08:10] Fat Gay killed i like books i think using player
+[19:08:16] Fat Gay killed i like books i think using player
+[19:08:17] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:08:24] VietnamFlashbacks suicided!
+[19:08:29] Fat Gay killed i like books i think using player
+[19:08:36] i like books i think killed Fat Gay using player
+[19:08:38] Fat Gay killed i like books i think using player
+[19:08:42] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:08:46] Fat Gay killed i like books i think using player
+[19:08:49] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:09:05] VietnamFlashbacks killed i like books i think using ent_l4d2_grenade_launcher_grenade
+[19:09:10] VietnamFlashbacks suicided!
+[19:09:10] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:09:31] Fat Gay killed VietnamFlashbacks using player
+[19:09:34] Fat Gay was killed by fas2_thrown_ammobox
+[19:09:38] VietnamFlashbacks killed i like books i think using player
+[19:09:40] VietnamFlashbacks killed Fat Gay using player
+[19:09:47] VietnamFlashbacks killed i like books i think using player
+[19:09:54] VietnamFlashbacks killed Fat Gay using player
+[19:09:58] i like books i think killed VietnamFlashbacks using player
+[19:10:04] Fat Gay killed i like books i think using player
+[19:10:08] Fat Gay killed VietnamFlashbacks using player
+[19:10:15] Fat Gay killed VietnamFlashbacks using player
+[19:10:20] Fat Gay killed i like books i think using player
+[19:10:27] VietnamFlashbacks killed Fat Gay using player
+[19:10:35] i like books i think killed VietnamFlashbacks using player
+[19:10:38] Fat Gay killed i like books i think using player
+[19:10:43] Fat Gay killed VietnamFlashbacks using player
+[19:11:04] i like books i think: kms
+[19:11:09] Fat Gay killed VietnamFlashbacks using player
+[19:11:15] VietnamFlashbacks killed Fat Gay using player
+[19:11:16] VietnamFlashbacks killed i like books i think using player
+[19:11:22] Fat Gay killed VietnamFlashbacks using player
+[19:11:30] Fat Gay killed i like books i think using player
+[19:11:37] i like books i think killed Fat Gay using player
+[19:11:44] VietnamFlashbacks killed Fat Gay using player
+[19:11:49] Fat Gay killed VietnamFlashbacks using player
+[19:11:58] VietnamFlashbacks: !god ^
+[19:11:58] VietnamFlashbacks granted god mode upon Themself
+[19:12:04] Fat Gay: !ungod &
+[19:12:04] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:12:11] Fat Gay: !ungod vie
+[19:12:11] Fat Gay revoked god mode from VietnamFlashbacks
+[19:12:14] Fat Gay: !slay vi
+[19:12:14] VietnamFlashbacks suicided!
+[19:12:14] Fat Gay slayed VietnamFlashbacks
+[19:12:26] Fat Gay killed VietnamFlashbacks using player
+[19:12:33] Fat Gay killed VietnamFlashbacks using player
+[19:12:51] Fat Gay: /ooc ok im restarting one more time
+[19:12:51] i like books i think: /name die
+[19:12:52] i like books i think<STEAM_0:1:100921529> changed their name to die
+[19:12:55] die: /ooc y
+[19:12:56] Fat Gay killed die using player
+[19:12:58] VietnamFlashbacks: // not yet
+[19:13:03] VietnamFlashbacks: // it can wait
+[19:13:11] Fat Gay killed VietnamFlashbacks using player
+[19:13:14] Fat Gay killed die using player
+[19:13:49] Fat Gay killed VietnamFlashbacks using player
+[19:13:52] die: /name Nick Crompton
+[19:13:52] die<STEAM_0:1:100921529> changed their name to Nick Crompton
+[19:13:59] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:14:12] Nick Crompton: /sgdf
+[19:14:13] (TEAM) Nick Crompton: ydr\ftyi
+[19:14:14] (TEAM) Nick Crompton: sr/tyd
+[19:14:18] Fat Gay killed VietnamFlashbacks using player
+[19:14:26] Fat Gay killed VietnamFlashbacks using player
+[19:14:39] Fat Gay: !slay vi
+[19:14:39] VietnamFlashbacks suicided!
+[19:14:39] Fat Gay slayed VietnamFlashbacks
+[19:14:54] Fat Gay killed VietnamFlashbacks using player
+[19:15:07] Fat Gay killed VietnamFlashbacks using player
+[19:15:17] Fat Gay killed VietnamFlashbacks using player
+[19:15:20] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:15:25] Nick Crompton: /ooc i found a new way to get on the train without getting inside it xd
+[19:15:29] Fat Gay killed VietnamFlashbacks using player
+[19:15:34] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:15:41] Fat Gay killed VietnamFlashbacks using player
+[19:15:46] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:15:47] Nick Crompton: help.
+[19:15:55] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:16:03] Nick Crompton: /ooc fdsy
+[19:16:03] (TEAM) Nick Crompton: T
+[19:16:05] VietnamFlashbacks: !hp ^ 100
+[19:16:05] VietnamFlashbacks set the hp for Themself to 100
+[19:16:12] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:16:21] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:16:27] Fat Gay killed VietnamFlashbacks using weapon_l4d2_katana
+[19:16:35] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:16:48] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:16:55] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:17:00] Nick Crompton: /ooc what're you guys even doing
+[19:17:03] VietnamFlashbacks killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[19:17:03] VietnamFlashbacks suicided!
+[19:17:09] Fat Gay killed VietnamFlashbacks using ent_l4d2_grenade_launcher_grenade
+[19:17:09] Fat Gay suicided!
+[19:17:17] Fat Gay: !goto nic
+[19:17:20] Fat Gay: !goto cr
+[19:17:23] Fat Gay: !goto nic
+[19:17:23] Fat Gay teleported to Nick Crompton
+[19:17:26] Nick Crompton was killed by trigger_hurt
+[19:17:26] Nick Crompton: /OOC WHYU
+[19:17:30] Nick Crompton: /OOC YOU PUSHED ME
+[19:17:33] Fat Gay: !bring nic
+[19:17:33] Fat Gay brought Nick Crompton
+[19:17:40] Fat Gay suicided!
+[19:17:40] Fat Gay killed Nick Crompton using ent_l4d2_grenade_launcher_grenade
+[19:17:44] Fat Gay: !goto nic
+[19:17:47] Fat Gay: !goto nic
+[19:17:47] Fat Gay teleported to Nick Crompton
+[19:17:51] Nick Crompton: /name Ultra Is Gay
+[19:17:52] Fat Gay killed Ultra Is Gay using weapon_l4d2_katana
+[19:17:52] Nick Crompton<STEAM_0:1:100921529> changed their name to Ultra Is Gay
+[19:18:00] Fat Gay killed Ultra Is Gay using player
+[19:18:10] Fat Gay killed Ultra Is Gay using player
+[19:18:34] Fat Gay killed Ultra Is Gay using player
+[19:18:55] Fat Gay killed Ultra Is Gay using player
+[19:19:01] VietnamFlashbacks suicided!
+[19:19:02] VietnamFlashbacks: /hlogs
+[19:19:05] Fat Gay killed Ultra Is Gay using player
+[19:19:10] VietnamFlashbacks: !goto fat
+[19:19:10] VietnamFlashbacks teleported to Fat Gay
+[19:19:22] Fat Gay killed Ultra Is Gay using player
+[19:19:24] VietnamFlashbacks killed Fat Gay using player
+[19:19:28] (TEAM) Fat Gay: !goto vie
+[19:19:28] Fat Gay teleported to VietnamFlashbacks
+[19:19:31] Fat Gay killed Ultra Is Gay using player
+[19:19:34] Fat Gay killed VietnamFlashbacks using player
+[19:19:42] Fat Gay killed Ultra Is Gay using player
+[19:19:43] Ultra Is Gay: /name Fat Gay.
+[19:19:47] VietnamFlashbacks: !goto fat 
+[19:19:47] VietnamFlashbacks teleported to Fat Gay
+[19:19:50] VietnamFlashbacks killed Ultra Is Gay using player
+[19:19:51] VietnamFlashbacks killed Fat Gay using player
+[19:19:54] Ultra Is Gay: /name Fat_Gay
+[19:19:58] Fat Gay: !GOTO BIE
+[19:19:59] Ultra Is Gay: /name FatGay
+[19:20:00] Ultra Is Gay<STEAM_0:1:100921529> changed their name to FatGay
+[19:20:01] Fat Gay: 1goto vie
+[19:20:04] VietnamFlashbacks killed FatGay using player
+[19:20:04] (TEAM) Fat Gay: !goto vie
+[19:20:04] Fat Gay teleported to VietnamFlashbacks
+[19:20:06] VietnamFlashbacks killed Fat Gay using player
+[19:20:09] Fat Gay: !goto vie
+[19:20:09] Fat Gay teleported to VietnamFlashbacks
+[19:20:17] Fat Gay killed VietnamFlashbacks using player
+[19:20:18] Fat Gay killed FatGay using player
+[19:20:29] Fat Gay killed FatGay using player
+[19:20:29] VietnamFlashbacks: !goto fat
+[19:20:40] VietnamFlashbacks: !goto fatg
+[19:20:40] VietnamFlashbacks teleported to FatGay
+[19:20:40] Fat Gay killed VietnamFlashbacks using player
+[19:20:46] VietnamFlashbacks: !goto fatg
+[19:20:46] VietnamFlashbacks teleported to FatGay
+[19:20:49] Fat Gay killed FatGay using player
+[19:20:59] Fat Gay killed FatGay using player
+[19:21:06] FatGay killed Fat Gay using weapon_l4d2_frying_pan
+[19:21:22] Fat Gay: !goto fat
+[19:21:25] Fat Gay: !goto gay
+[19:21:28] Fat Gay: !goto fatgay
+[19:21:28] Fat Gay teleported to FatGay
+[19:21:29] Fat Gay killed FatGay using player
+[19:21:33] Fat Gay killed VietnamFlashbacks using player
+[19:21:35] FatGay: /name VietnamFIashbacks
+[19:21:35] FatGay<STEAM_0:1:100921529> changed their name to VietnamFIashbacks
+[19:21:39] VietnamFlashbacks: !hp ^ 100000000
+[19:21:39] VietnamFlashbacks set the hp for Themself to 100000000
+[19:21:43] VietnamFIashbacks: /ooc k
+[19:21:50] Fat Gay killed VietnamFIashbacks using player
+[19:21:51] VietnamFlashbacks: !goto fat
+[19:21:51] VietnamFlashbacks teleported to Fat Gay
+[19:21:56] VietnamFlashbacks killed Fat Gay using player
+[19:22:01] Fat Gay: !goto vi
+[19:22:11] Fat Gay: !goto FI
+[19:22:11] Fat Gay teleported to VietnamFIashbacks
+[19:22:14] Fat Gay killed VietnamFIashbacks using player
+[19:22:33] VietnamFIashbacks: /NAME VIET
+[19:22:33] VietnamFIashbacks<STEAM_0:1:100921529> changed their name to VIET
+[19:22:33] Fat Gay killed VIET using weapon_l4d2_electric_guitar
+[19:23:01] VIET was killed by trigger_hurt
+[19:23:11] VIET killed Fat Gay using weapon_l4d2_frying_pan
+[19:23:30] Fat Gay: !goto vie
+[19:23:34] VIET: /name RiceGum
+[19:23:34] VIET<STEAM_0:1:100921529> changed their name to RiceGum
+[19:23:35] Fat Gay: !goto VIET
+[19:23:35] Fat Gay teleported to VietnamFlashbacks
+[19:23:46] Fat Gay: explode VIET
+[19:23:49] VietnamFlashbacks killed Fat Gay using player
+[19:23:50] Fat Gay: !explode VIET
+[19:23:50] VietnamFlashbacks suicided!
+[19:23:50] Fat Gay exploded VietnamFlashbacks
+[19:23:57] VietnamFlashbacks: !slay rice
+[19:23:57] RiceGum suicided!
+[19:23:57] VietnamFlashbacks slayed RiceGum
+[19:23:57] Fat Gay: !goto vietnam
+[19:23:57] Fat Gay teleported to VietnamFlashbacks
+[19:24:04] VietnamFlashbacks killed Fat Gay using weapon_l4d2_cricket_bat
+[19:24:04] Fat Gay: !goto ric
+[19:24:10] Fat Gay: !goto rice
+[19:24:17] Fat Gay: !goto rice
+[19:24:17] Fat Gay teleported to RiceGum
+[19:24:18] RiceGum: x
+[19:24:20] RiceGum was killed by trigger_hurt
+[19:24:20] VietnamFlashbacks: !goto rice
+[19:24:24] VietnamFlashbacks: !goto fat
+[19:24:24] VietnamFlashbacks teleported to Fat Gay
+[19:24:34] VietnamFlashbacks: !slap rice
+[19:24:34] VietnamFlashbacks slapped RiceGum with 0 damage
+[19:24:43] VietnamFlashbacks: !whip rice 100
+[19:24:43] VietnamFlashbacks whipped RiceGum 100 times with 0 damage
+[19:24:43] Fat Gay killed VietnamFlashbacks using player
+[19:24:45] Fat Gay killed RiceGum using player
+[19:24:50] VietnamFlashbacks: !goto rice
+[19:24:50] VietnamFlashbacks teleported to RiceGum
+[19:24:53] Fat Gay killed VietnamFlashbacks using player
+[19:24:55] Fat Gay killed RiceGum using player
+[19:24:57] VietnamFlashbacks: !whip rice 100
+[19:24:57] VietnamFlashbacks whipped RiceGum 100 times with 0 damage
+[19:25:02] VietnamFlashbacks: !goto rice
+[19:25:02] VietnamFlashbacks teleported to RiceGum
+[19:25:13] VietnamFlashbacks<STEAM_0:0:80420240> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[19:25:19] Fat Gay: !slay vietme
+[19:25:22] Fat Gay: !explode viet
+[19:25:22] VietnamFlashbacks suicided!
+[19:25:22] Fat Gay exploded VietnamFlashbacks
+[19:25:28] Fat Gay: !viet *
+[19:25:30] VietnamFlashbacks: !goto fat
+[19:25:30] VietnamFlashbacks teleported to Fat Gay
+[19:25:33] Fat Gay: explode *
+[19:25:36] Fat Gay: !explode *
+[19:25:36] Fat Gay suicided!
+[19:25:36] VietnamFlashbacks suicided!
+[19:25:36] RiceGum suicided!
+[19:25:36] Fat Gay exploded Everyone
+[19:25:44] VietnamFlashbacks: !slay *
+[19:25:44] Fat Gay suicided!
+[19:25:44] VietnamFlashbacks suicided!
+[19:25:44] RiceGum suicided!
+[19:25:44] VietnamFlashbacks slayed Everyone
+[19:26:02] Fat Gay killed RiceGum using player
+[19:26:13] Fat Gay killed RiceGum using player
+[19:26:18] RiceGum: /name Logan Paul
+[19:26:19] RiceGum<STEAM_0:1:100921529> changed their name to Logan Paul
+[19:26:27] Fat Gay killed Logan Paul using player
+[19:26:48] Fat Gay killed Logan Paul using player
+[19:27:00] Fat Gay killed Logan Paul using player
+[19:27:09] Fat Gay killed Logan Paul using player
+[19:27:31] Fat Gay killed Logan Paul using player
+[19:27:47] Fat Gay killed Logan Paul using player
+[19:27:54] Fat Gay killed Logan Paul using player
+[19:28:03] Fat Gay killed Logan Paul using player
+[19:28:11] Fat Gay killed Logan Paul using player
+[19:28:37] Fat Gay killed Logan Paul using player
+[19:29:10] Fat Gay: !slay fat
+[19:29:10] Fat Gay suicided!
+[19:29:10] Fat Gay slayed Themself
+[19:29:19] Fat Gay: !hp * 100
+[19:29:19] Fat Gay set the hp for Everyone to 100
+[19:29:33] Fat Gay killed VietnamFlashbacks using player
+[19:30:09] Fat Gay killed VietnamFlashbacks using player
+[19:30:24] Fat Gay killed VietnamFlashbacks using player
+[19:30:28] VietnamFlashbacks: !slap fat
+[19:30:28] VietnamFlashbacks slapped Fat Gay with 0 damage
+[19:30:33] VietnamFlashbacks: !slap fat 100
+[19:30:33] Fat Gay suicided!
+[19:30:33] VietnamFlashbacks slapped Fat Gay with 100 damage
+[19:30:35] Logan Paul: /ooc slap me 9999 times
+[19:30:41] Logan Paul: /ooc xd
+[19:30:44] VietnamFlashbacks: !whip logan 100
+[19:30:44] VietnamFlashbacks whipped Logan Paul 100 times with 0 damage
+[19:30:45] Fat Gay: !whip logan 999999999 0
+[19:30:51] Fat Gay: !slap logan 99999 0
+[19:30:51] Logan Paul suicided!
+[19:30:51] Fat Gay slapped Logan Paul with 99999 damage
+[19:30:59] Logan Paul: /ooc aww
+[19:31:05] Fat Gay: !whip logan 100 0
+[19:31:05] Fat Gay whipped Logan Paul 100 times with 0 damage
+[19:31:07] (TEAM) Fat Gay: !whip logan 100 0
+[19:31:09] Fat Gay: !goto log
+[19:31:09] Fat Gay teleported to Logan Paul
+[19:31:23] VietnamFlashbacks: !goto log
+[19:31:23] VietnamFlashbacks teleported to Logan Paul
+
+
+
+[19:32:35] New map: rp_powerplant_v2b2
+[19:32:53] Client "BRocha06" connected.
+[19:32:57] Client "VietnamFlashbacks" connected.
+[19:32:58] Client "Fat Gay" connected.
+[19:33:39] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 41 seconds).
+[19:33:44] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 51 seconds).
+[19:34:23] Logan Paul: /oocsert
+[19:34:31] (Console) added Logan Paul to group VIPPACUser
+[19:34:43] Logan Paul: /ooc u wot
+[19:35:02] Fat Gay was killed by point_hurt
+[19:35:12] Logan Paul was killed by point_hurt
+[19:35:21] Logan Paul: /name flamy boi
+[19:35:21] Logan Paul<STEAM_0:1:100921529> changed their name to flamy boi
+[19:37:21] flamy boi was killed by point_hurt
+[19:37:51] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:52] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:52] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:52] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:52] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:53] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:53] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:53] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:53] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:54] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:54] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:55] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:56] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:57] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:37:57] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:38:09] flamy boi<STEAM_0:1:100921529> spawned model models/props_borealis/bluebarrel001.mdl
+[19:39:29] flamy boi was killed by trigger_hurt
+[19:39:41] flamy boi: /name power guy
+[19:39:41] flamy boi<STEAM_0:1:100921529> changed their name to power guy
+[19:57:03] power guy: /lockdown
+[19:57:45] Dropped "power guy" from server<STEAM_0:1:100921529>
+[20:10:02] Fat Gay: !menu
+[20:23:02] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:20:01] Client "{TCN} General Shark" connected.
+[21:22:38] Client "{TCN} General Shark" spawned in server <STEAM_0:0:128180822> (took 157 seconds).
+[21:24:23] {TCN} General Shark: !radio
+[21:24:37] {TCN} General Shark: !radio
+[21:27:29] {TCN} General Shark<STEAM_0:0:128180822> spawned model models/hunter/plates/plate1x3.mdl
+[21:27:35] {TCN} General Shark<STEAM_0:0:128180822> spawned model models/hunter/plates/plate1x7.mdl
+[21:34:23] Dropped "{TCN} General Shark" from server<STEAM_0:0:128180822>

@@ -1,0 +1,183 @@
+<Logging continued from "data/ulx_logs/04-20-18.txt">
+[11:14:06] Client "Valien" connected.
+[11:14:53] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 47 seconds).
+[11:27:57] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturecouch001a.mdl
+[11:36:05] Emmett was killed by trigger_hurt
+[11:36:26] Emmett suicided!
+[11:39:05] Emmett was killed by trigger_hurt
+[11:56:29] Client "wolvensheepclothing" connected.
+[11:59:54] Emmett was killed by trigger_hurt
+[12:11:40] Client "wolvensheepclothing" spawned in server <STEAM_0:0:8997490> (took 911 seconds).
+[12:12:09] Emmett: !goto wol
+[12:12:09] Emmett teleported to wolvensheepclothing
+[12:13:31] Emmett: !god
+[12:13:31] Emmett granted god mode upon Themself
+[12:21:19] Emmett: !bring wol
+[12:43:59] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[12:53:40] Dropped "wolvensheepclothing" from server<STEAM_0:0:8997490>
+[12:53:45] Emmett: !god
+[12:53:45] Emmett granted god mode upon Themself
+[12:55:08] Client "wolvensheepclothing" connected.
+[12:56:17] Client "wolvensheepclothing" spawned in server <STEAM_0:0:8997490> (took 69 seconds).
+[12:56:18] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredresser001a.mdl
+[12:56:33] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredresser001a.mdl
+[12:56:42] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturecupboard001a.mdl
+[12:56:48] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[12:56:54] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredresser001a.mdl
+[12:58:52] Emmett: !goto wol
+[12:58:52] Emmett teleported to wolvensheepclothing
+[12:59:44] Emmett killed wolvensheepclothing using player
+[13:01:56] Emmett killed wolvensheepclothing using player
+[13:03:52] Emmett: !bring wol
+[13:03:52] Emmett brought wolvensheepclothing
+[13:04:33] wolvensheepclothing was killed by trigger_hurt
+[13:05:07] Emmett: !bring wol
+[13:05:07] Emmett brought wolvensheepclothing
+[13:05:18] Emmett: !bring wol
+[13:05:18] Emmett brought wolvensheepclothing
+[13:06:34] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[13:09:09] Emmett suicided!
+[13:09:19] Emmett: !goto wol
+[13:09:30] Emmett: !goto wol
+[13:09:30] Emmett teleported to wolvensheepclothing
+[13:11:13] Emmett killed wolvensheepclothing using player
+[13:11:44] Emmett was killed by trigger_hurt
+[13:12:08] Emmett: !bring wol
+[13:12:08] Emmett brought wolvensheepclothing
+[13:13:17] Emmett was killed by trigger_hurt
+[13:13:22] Emmett: !goto wol
+[13:13:22] Emmett teleported to wolvensheepclothing
+[13:13:25] Emmett: !god
+[13:13:25] Emmett granted god mode upon Themself
+[13:13:56] Emmett killed wolvensheepclothing using player
+[13:14:30] Emmett: !bring wol
+[13:14:30] Emmett brought wolvensheepclothing
+[13:14:51] Emmett: /dropweapon
+[13:15:01] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/canister02a.mdl
+[13:15:08] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/canister02a.mdl
+[13:15:50] wolvensheepclothing was killed by fas2_thrown_ammobox
+[13:15:50] Emmett suicided!
+[13:16:04] Emmett: !god
+[13:16:04] Emmett granted god mode upon Themself
+[13:16:08] Emmett suicided!
+[13:20:27] Emmett suicided!
+[13:20:40] Emmett: !god
+[13:20:40] Emmett granted god mode upon Themself
+[13:20:48] Emmett suicided!
+[13:21:08] Emmett killed wolvensheepclothing using fas2_thrown_m67
+[13:25:07] Dropped "wolvensheepclothing" from server<STEAM_0:0:8997490>
+[13:25:47] Client "wolvensheepclothing" connected.
+[13:26:08] Emmett: !goto wo
+[13:26:19] Emmett was killed by trigger_hurt
+[13:26:39] Client "wolvensheepclothing" spawned in server <STEAM_0:0:8997490> (took 52 seconds).
+[13:29:26] Emmett: !goto wol
+[13:29:26] Emmett teleported to wolvensheepclothing
+[13:35:22] Emmett: !bring wol
+[13:35:22] Emmett brought wolvensheepclothing
+[13:36:30] wolvensheepclothing suicided!
+[13:36:36] Emmett: !bring wol
+[13:36:36] Emmett brought wolvensheepclothing
+[13:36:57] Emmett: !bring wol
+[13:36:57] Emmett brought wolvensheepclothing
+[13:37:23] Emmett: !bring wol
+[13:37:23] Emmett brought wolvensheepclothing
+[13:37:30] Emmett: !bring wol
+[13:37:30] Emmett brought wolvensheepclothing
+[13:37:43] Emmett: !bring wo
+[13:37:43] Emmett brought wolvensheepclothing
+[13:38:12] Emmett: !bring wo
+[13:38:12] Emmett brought wolvensheepclothing
+[13:38:32] Emmett: !bring wo
+[13:38:32] Emmett brought wolvensheepclothing
+[13:40:02] Emmett: !bring w
+[13:40:02] Emmett brought wolvensheepclothing
+[13:40:23] Emmett: !bring w
+[13:40:23] Emmett brought wolvensheepclothing
+[13:40:34] Emmett: !bring w
+[13:40:34] Emmett brought wolvensheepclothing
+[13:40:40] Emmett was killed by trigger_hurt
+[13:41:13] Emmett: !bring w
+[13:41:13] Emmett brought wolvensheepclothing
+[13:41:53] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturecouch001a.mdl
+[13:46:30] Emmett killed wolvensheepclothing using player
+[13:46:39] Emmett: !goto wo
+[13:46:44] Emmett: !goto wo
+[13:46:44] Emmett teleported to wolvensheepclothing
+[13:47:09] Emmett: !bring wo
+[13:47:09] Emmett brought wolvensheepclothing
+[13:47:56] Emmett: !bring w
+[13:47:56] Emmett brought wolvensheepclothing
+[13:48:09] wolvensheepclothing was killed by trigger_hurt
+[13:48:23] Emmett: !bring w
+[13:48:23] Emmett brought wolvensheepclothing
+[13:48:39] wolvensheepclothing was killed by trigger_hurt
+[13:49:03] Emmett: !bring w
+[13:49:03] Emmett brought wolvensheepclothing
+[13:50:42] Emmett: !bring w
+[13:50:46] Emmett: !bring w
+[13:50:46] Emmett brought wolvensheepclothing
+[13:53:13] Emmett: !goto w
+[13:53:13] Emmett teleported to wolvensheepclothing
+[13:53:41] Emmett killed wolvensheepclothing using player
+[13:54:47] Emmett: !goto w
+[13:54:47] Emmett teleported to wolvensheepclothing
+[13:55:03] wolvensheepclothing killed Emmett using player
+[13:55:11] Emmett: !goto w
+[13:55:11] Emmett teleported to wolvensheepclothing
+[13:56:28] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[13:56:37] Emmett: !god
+[13:56:37] Emmett granted god mode upon Themself
+[13:56:40] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[13:56:45] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituretable003a.mdl
+[13:57:00] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituretable003a.mdl
+[13:58:39] Emmett: !bring w
+[13:58:39] Emmett brought wolvensheepclothing
+[13:59:26] Emmett: !ungod
+[13:59:26] Emmett revoked god mode from Themself
+[13:59:49] wolvensheepclothing killed Emmett using player
+[13:59:53] wolvensheepclothing was killed by trigger_hurt
+[14:00:12] Emmett: !goto w
+[14:00:12] Emmett teleported to wolvensheepclothing
+[14:01:53] Emmett killed wolvensheepclothing using player
+[14:02:43] Emmett suicided!
+[14:02:53] Emmett: !goto
+[14:02:56] Emmett: !goto w
+[14:02:56] Emmett teleported to wolvensheepclothing
+[14:03:57] wolvensheepclothing killed Emmett using weapon_l4d2_frying_pan
+[14:04:18] Emmett: !goto w
+[14:04:18] Emmett teleported to wolvensheepclothing
+[14:04:37] Emmett killed wolvensheepclothing using player
+[14:05:46] wolvensheepclothing killed Emmett using weapon_l4d2_frying_pan
+[14:06:08] Emmett: !goto
+[14:06:10] Emmett: !goto w
+[14:06:10] Emmett teleported to wolvensheepclothing
+[14:06:27] Emmett killed wolvensheepclothing using player
+[14:11:37] wolvensheepclothing killed Emmett using weapon_l4d2_frying_pan
+[14:33:10] wolvensheepclothing suicided!
+[14:49:47] Emmett was killed by trigger_hurt
+[14:50:09] Emmett: !goto w
+[14:50:53] Emmett: /dropmoney 20
+[14:51:03] Emmett: /dropmoney 10
+[14:51:57] Emmett: /dropmoney 100000
+[14:52:37] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/concrete_barrier001a.mdl
+[14:54:27] Emmett killed wolvensheepclothing using weapon_l4d2_frying_pan
+[14:54:37] Emmett killed wolvensheepclothing using weapon_l4d2_frying_pan
+[14:54:45] wolvensheepclothing killed Emmett using weapon_l4d2_frying_pan
+[14:57:05] Emmett killed wolvensheepclothing using weapon_l4d2_frying_pan
+[14:57:22] Emmett killed wolvensheepclothing using weapon_l4d2_frying_pan
+[14:57:39] Dropped "wolvensheepclothing" from server<STEAM_0:0:8997490>
+[14:59:15] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[14:59:44] Emmett was killed by trigger_hurt
+[15:01:20] Client "[SCP] [C.G.I.] Bob" connected.
+[15:01:27] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturecupboard001a.mdl
+[15:01:32] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredresser001a.mdl
+[15:01:43] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredresser001a.mdl
+[15:01:50] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredrawer001a.mdl
+[15:01:56] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furnituredrawer003a.mdl
+[15:02:31] Emmett suicided!
+[15:02:31] Emmett exploded Themself
+[15:03:02] Emmett: !god
+[15:03:02] Emmett granted god mode upon Themself
+[15:03:11] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/shelfunit01a.mdl
+[15:03:38] Dropped "Emmett" from server<STEAM_0:1:41660292>
+<Logging continued in "data/ulx_logs/04-22-18.txt">

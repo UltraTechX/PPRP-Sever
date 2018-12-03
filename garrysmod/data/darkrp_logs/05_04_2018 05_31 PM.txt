@@ -1,0 +1,4 @@
+Fri May  4 17:31:29 2018	Valien (STEAM_0:1:41660292) has joined the game
+Fri May  4 17:31:29 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri May  4 17:34:55 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Fri May  4 17:35:04 2018	Emmett (STEAM_0:1:41660292) disconnected

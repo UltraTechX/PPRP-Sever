@@ -1,0 +1,1483 @@
+Mon Oct 22 21:59:40 2018	FloodTamer (STEAM_0:1:32753103) has joined the game
+Mon Oct 22 21:59:40 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 21:59:56 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) has joined the game
+Mon Oct 22 21:59:56 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 21:59:57 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct 22 21:59:57 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:00:03 2018	Joseph Joestar (STEAM_0:0:10631997) has joined the game
+Mon Oct 22 22:00:04 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:00:05 2018	FloodTamer (STEAM_0:1:32753103): // Whats CBRN do?
+Mon Oct 22 22:00:38 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Mon Oct 22 22:00:38 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:00:40 2018	locky (STEAM_0:0:176792616) has joined the game
+Mon Oct 22 22:00:40 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:00:41 2018	Douevenban (STEAM_0:0:75732529) has joined the game
+Mon Oct 22 22:00:41 2018	Douevenban (STEAM_0:0:75732529) spawned
+Mon Oct 22 22:00:47 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:00:49 2018	coldbolt25 (STEAM_0:0:59274331) has joined the game
+Mon Oct 22 22:00:49 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Mon Oct 22 22:00:54 2018	UNI aka 76561198119439177 was killed by Aaron with a cw_l115
+Mon Oct 22 22:01:01 2018	[Opi] Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct 22 22:01:01 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:01:04 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:01:12 2018	Aaron was killed by UNI aka 76561198119439177 with a cw_ump45
+Mon Oct 22 22:01:13 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:01:14 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Mon Oct 22 22:01:21 2018	Walt Disney (STEAM_0:0:59274331): !warn
+Mon Oct 22 22:01:27 2018	UNI aka 76561198119439177 was killed by Aaron with a cw_l115
+Mon Oct 22 22:01:29 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:01:33 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:01:35 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:01:38 2018	Big Bill (STEAM_0:0:45838915) has joined the game
+Mon Oct 22 22:01:38 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Mon Oct 22 22:01:41 2018	Coral but spooky (STEAM_0:0:197000190) has joined the game
+Mon Oct 22 22:01:41 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:01:42 2018	Lysander Valerius (STEAM_0:0:54486489) has joined the game
+Mon Oct 22 22:01:42 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:01:54 2018	Revolver Ocelote was killed by locky with a fas2_dv2
+Mon Oct 22 22:01:56 2018	S W ∀ R M (STEAM_0:1:61331422) has joined the game
+Mon Oct 22 22:01:56 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:01:57 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:01:57 2018	ShadowHunter13 (STEAM_0:1:155725835) has joined the game
+Mon Oct 22 22:01:57 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:02:14 2018	Aaron was killed by UNI aka 76561198119439177 with a fas2_dv2
+Mon Oct 22 22:02:16 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:02:21 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:02:23 2018	UNI aka 76561198119439177 was killed by Aaron with a cw_l115
+Mon Oct 22 22:02:25 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:02:33 2018	[Opi] Hound (STEAM_0:0:204456225) has joined the game
+Mon Oct 22 22:02:33 2018	Raul Menedez (STEAM_0:0:204456225) spawned
+Mon Oct 22 22:02:39 2018	Nice Friendly Max (STEAM_0:0:169248915) has joined the game
+Mon Oct 22 22:02:39 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:02:43 2018	Enviro (STEAM_0:0:80115103): !warn
+Mon Oct 22 22:02:47 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:02:53 2018	Walt Disney (STEAM_0:0:59274331): !warn STEAM_0:0:48152723 LTAP
+Mon Oct 22 22:02:54 2018	Bill Foreman (STEAM_0:0:45838915) disconnected
+Mon Oct 22 22:02:58 2018	Walt Disney (STEAM_0:0:59274331): !warn
+Mon Oct 22 22:03:01 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Mon Oct 22 22:03:01 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Mon Oct 22 22:03:03 2018	Douevenban (STEAM_0:0:75732529) spawned
+Mon Oct 22 22:03:10 2018	Enviro (STEAM_0:0:80115103): // Timers up btw
+Mon Oct 22 22:03:16 2018	Walt Disney (STEAM_0:0:59274331): !warn STEAM_0:0:48152723 RDM
+Mon Oct 22 22:03:23 2018	Walt Disney (STEAM_0:0:59274331): !warn STEAM_0:0:48152723 RDM
+Mon Oct 22 22:03:28 2018	Walt Disney (STEAM_0:0:59274331): !warn STEAM_0:0:48152723 RDM
+Mon Oct 22 22:03:31 2018	Aaron was killed by UNI aka 76561198119439177 with a cw_m1911
+Mon Oct 22 22:03:32 2018	Byron ☂ (STEAM_0:0:75969088) has joined the game
+Mon Oct 22 22:03:32 2018	Byron ☂ (STEAM_0:0:75969088) spawned
+Mon Oct 22 22:03:33 2018	Douevenban (STEAM_0:0:75732529): // What
+Mon Oct 22 22:03:34 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:03:35 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:03:38 2018	B̡̀͞͝ĺ͜i̷̢̨͝n̷͘͡x (STEAM_0:1:109705991) has joined the game
+Mon Oct 22 22:03:38 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:03:39 2018	Enviro (STEAM_0:0:80115103): // uh
+Mon Oct 22 22:03:54 2018	WildToastyMop (STEAM_0:0:93414166) disconnected
+Mon Oct 22 22:03:57 2018	UNI aka 76561198119439177 was killed by Aaron with a cw_l115
+Mon Oct 22 22:03:58 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:03:58 2018	Walt Disney (STEAM_0:0:59274331): !warn STEAM_0:0:48152723 Changing jobs during a sit to avoid punishment
+Mon Oct 22 22:04:03 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:04:07 2018	Aaron was killed by UNI aka 76561198119439177 with a fas2_dv2
+Mon Oct 22 22:04:08 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:04:21 2018	Enviro was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:04:22 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:04:24 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:04:28 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:04:33 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Mon Oct 22 22:04:40 2018	FloodTamer (STEAM_0:1:32753103): !steam
+Mon Oct 22 22:04:43 2018	Coral But Faggot was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:04:45 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:04:52 2018	Helium Snake (STEAM_0:1:155725835): /job Terrorist Stealf Forces
+Mon Oct 22 22:04:52 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:04:55 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:05:28 2018	Helium Snake (STEAM_0:1:155725835): /job Terrorist Stealth Forces
+Mon Oct 22 22:05:38 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Mon Oct 22 22:05:40 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:05:58 2018	Tier (STEAM_0:1:33589770) has joined the game
+Mon Oct 22 22:05:58 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:06:10 2018	Max (STEAM_0:0:169248915): !goto enviro
+Mon Oct 22 22:06:19 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:06:19 2018	Helium Snake (STEAM_0:1:155725835): // can we go out now
+Mon Oct 22 22:06:46 2018	Lysander Valerius was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:06:47 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:07:07 2018	Nicole The Bunny (STEAM_0:0:53375381) has joined the game
+Mon Oct 22 22:07:08 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 22:07:12 2018	Helium Snake was killed by Coral But Faggot with a weapon_l4d2_frying_pan
+Mon Oct 22 22:07:13 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:07:26 2018	Tier (STEAM_0:1:33589770): wait
+Mon Oct 22 22:07:28 2018	Tier (STEAM_0:1:33589770): what video
+Mon Oct 22 22:07:33 2018	Douevenban (STEAM_0:0:75732529): // ok cop shooting the guy building your a dick
+Mon Oct 22 22:07:33 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:07:43 2018	Coral But Faggot was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:07:45 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:07:47 2018	Tier (STEAM_0:1:33589770): its not zuthars
+Mon Oct 22 22:07:48 2018	[Opi] Really Really Smart Guine (STEAM_0:1:41205239) has joined the game
+Mon Oct 22 22:07:49 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:07:52 2018	Tier (STEAM_0:1:33589770): I saw that one already
+Mon Oct 22 22:08:00 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:08:12 2018	Tier (STEAM_0:1:33589770): Walt
+Mon Oct 22 22:08:16 2018	Tier (STEAM_0:1:33589770): wait
+Mon Oct 22 22:08:20 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 22:08:25 2018	Tier (STEAM_0:1:33589770): dude I Remember
+Mon Oct 22 22:08:27 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:08:29 2018	Tier (STEAM_0:1:33589770): when you first got on
+Mon Oct 22 22:08:29 2018	Coral But Faggot was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:08:30 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:08:35 2018	Tier (STEAM_0:1:33589770): and where doing disney voices on the intercom
+Mon Oct 22 22:08:48 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:08:50 2018	Enviro (STEAM_0:0:80115103): !warn
+Mon Oct 22 22:08:57 2018	I Like Futa (STEAM_0:1:109705991): // VOTE YES AND ILL GIVE U 100% Rais
+Mon Oct 22 22:09:02 2018	I Like Futa (STEAM_0:1:109705991): // Raise 
+Mon Oct 22 22:09:17 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:09:21 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): 
+Mon Oct 22 22:09:32 2018	Lysander Valerius was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:09:34 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:09:47 2018	Busta-Bug (STEAM_0:1:419563430) has joined the game
+Mon Oct 22 22:09:47 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 22:09:57 2018	Bob Saget (STEAM_0:0:53375381): /job Plant Worker
+Mon Oct 22 22:10:01 2018	FloodTamer was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:10:06 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:10:10 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /job Terrorist Sneaky Boi
+Mon Oct 22 22:10:18 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:10:21 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:10:27 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:10:30 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): @ is it the time for  ze terrorist?
+Mon Oct 22 22:10:35 2018	Walt Disney was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:10:38 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Mon Oct 22 22:10:41 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:10:51 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:10:53 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) has joined the game
+Mon Oct 22 22:10:53 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) spawned
+Mon Oct 22 22:11:01 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): /job Stupid Person
+Mon Oct 22 22:11:01 2018	I Like Futa (STEAM_0:1:109705991): /
+Mon Oct 22 22:11:03 2018	Enviro (STEAM_0:0:80115103): 
+Mon Oct 22 22:11:14 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:11:28 2018	Really Really Smart Guinea Pig was killed by Douevenban with a cw_l115
+Mon Oct 22 22:11:32 2018	Walt Disney has made Walt Disney wanted, reason: Wanted
+Mon Oct 22 22:11:35 2018	Aaron (STEAM_0:1:184775407): /warrent douvenban terrorist
+Mon Oct 22 22:11:35 2018	Aaron was killed by Douevenban with a cw_shorty
+Mon Oct 22 22:11:36 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:11:40 2018	Max (STEAM_0:0:169248915): /me Strips weapons and comms
+Mon Oct 22 22:11:43 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:11:46 2018	Walt Disney (STEAM_0:0:59274331): /advert whoops that was a test
+Mon Oct 22 22:11:48 2018	Enviro (STEAM_0:0:80115103): r_flashlight 1 in console?
+Mon Oct 22 22:11:56 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 22:12:01 2018	Max (STEAM_0:0:169248915): !goto coral
+Mon Oct 22 22:12:03 2018	Helium Snake (STEAM_0:1:155725835): // where did the scp go
+Mon Oct 22 22:12:10 2018	Aaron (STEAM_0:1:184775407): @max i have question
+Mon Oct 22 22:12:24 2018	Walt Disney (STEAM_0:0:59274331): /advert maybe have anted myself when i was testing the wanting system
+Mon Oct 22 22:12:26 2018	Max (STEAM_0:0:169248915): !goto kill
+Mon Oct 22 22:12:28 2018	Walt Disney (STEAM_0:0:59274331): !goto kilroy
+Mon Oct 22 22:12:28 2018	Raul Menedez (STEAM_0:0:204456225) spawned
+Mon Oct 22 22:12:29 2018	Max (STEAM_0:0:169248915): !goto kil
+Mon Oct 22 22:12:42 2018	Revolver Ocelote was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:12:44 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:12:44 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 22:12:44 2018	Raul Menedez (STEAM_0:0:204456225): // rape him
+Mon Oct 22 22:12:45 2018	Douevenban (STEAM_0:0:75732529): // didnt know fetus's played this game
+Mon Oct 22 22:13:03 2018	Busta-Bug (STEAM_0:1:419563430): // someone break out 457
+Mon Oct 22 22:13:08 2018	Kilroy was killed by Coral But Faggot with a weapon_l4d2_frying_pan
+Mon Oct 22 22:13:09 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:13:17 2018	Helium Snake (STEAM_0:1:155725835): ../advert already here
+Mon Oct 22 22:13:18 2018	Tier was killed by Douevenban with a cw_l115
+Mon Oct 22 22:13:21 2018	Raul Menedez (STEAM_0:0:204456225): /me Waves
+Mon Oct 22 22:13:23 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:13:27 2018	Helium Snake (STEAM_0:1:155725835): /advert already there
+Mon Oct 22 22:13:30 2018	Busta-Bug (STEAM_0:1:419563430): // please
+Mon Oct 22 22:13:32 2018	Walt Disney is no longer wanted by the Police.
+Mon Oct 22 22:13:33 2018	Walt Disney (STEAM_0:0:59274331): 
+Mon Oct 22 22:13:35 2018	Walt Disney (STEAM_0:0:59274331): 
+Mon Oct 22 22:13:37 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:13:42 2018	locky was killed by UNI aka 76561198119439177 with a cw_l85a2
+Mon Oct 22 22:13:44 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:13:45 2018	Busta-Bug (STEAM_0:1:419563430): // PLEASE
+Mon Oct 22 22:13:48 2018	Helium Snake (STEAM_0:1:155725835): /advert 1,2, or 3
+Mon Oct 22 22:13:55 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:13:59 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Mon Oct 22 22:13:59 2018	Busta-Bug (STEAM_0:1:419563430): // IDL open them all
+Mon Oct 22 22:14:04 2018	Douevenban was killed by Aaron with a cw_shorty
+Mon Oct 22 22:14:07 2018	Douevenban (STEAM_0:0:75732529) spawned
+Mon Oct 22 22:14:11 2018	Busta-Bug (STEAM_0:1:419563430): // idk*
+Mon Oct 22 22:14:14 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:14:16 2018	Aaron (STEAM_0:1:184775407): // still stuck
+Mon Oct 22 22:14:19 2018	I Like Futa was killed by FloodTamer with a cw_deagle
+Mon Oct 22 22:14:22 2018	Kilroy (STEAM_0:0:138507625): /job ???
+Mon Oct 22 22:14:25 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:14:25 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /OOC IM IN
+Mon Oct 22 22:14:37 2018	Douevenban (STEAM_0:0:75732529) spawned
+Mon Oct 22 22:14:41 2018	Aaron (STEAM_0:1:184775407): /warrant douevenban terrorist
+Mon Oct 22 22:14:51 2018	Douevenban (STEAM_0:0:75732529) disconnected
+Mon Oct 22 22:15:04 2018	Coral But Faggot was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:15:05 2018	Aaron (STEAM_0:1:184775407): // help
+Mon Oct 22 22:15:05 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:15:07 2018	I Like Futa was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:15:07 2018	Walt Disney (STEAM_0:0:59274331) disconnected
+Mon Oct 22 22:15:08 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:15:52 2018	FloodTamer (STEAM_0:1:32753103): 27500
+Mon Oct 22 22:15:57 2018	I Like Futa was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:15:59 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:16:02 2018	Max (STEAM_0:0:169248915): !goto kil
+Mon Oct 22 22:16:02 2018	Kilroy (STEAM_0:0:138507625): /dropmoney 27500
+Mon Oct 22 22:16:03 2018	Kilroy (STEAM_0:0:138507625) has dropped $27,500
+Mon Oct 22 22:16:08 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 22:16:17 2018	Busta-Bug (STEAM_0:1:419563430): // break out 3431
+Mon Oct 22 22:16:23 2018	Raul Menedez (STEAM_0:0:204456225): /job Plant Worker
+Mon Oct 22 22:16:42 2018	Revolver Ocelote was killed by I Like Futa with a weapon_l4d2_frying_pan
+Mon Oct 22 22:16:46 2018	Busta-Bug (STEAM_0:1:419563430): // please
+Mon Oct 22 22:16:46 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:16:50 2018	I Like Futa was killed by locky with a fas2_dv2
+Mon Oct 22 22:16:52 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:16:55 2018	Helium Snake (STEAM_0:1:155725835): /advert can't right ow quarintine
+Mon Oct 22 22:17:04 2018	Busta-Bug (STEAM_0:1:419563430): // oof stop it
+Mon Oct 22 22:17:13 2018	Helium Snake (STEAM_0:1:155725835): /advert now*
+Mon Oct 22 22:17:18 2018	Aaron (STEAM_0:1:184775407): @max help
+Mon Oct 22 22:17:21 2018	Busta-Bug (STEAM_0:1:419563430): // corrupt man we can truce if you let me out
+Mon Oct 22 22:17:29 2018	Max (STEAM_0:0:169248915): !bring aaron
+Mon Oct 22 22:17:32 2018	locky was killed by Raul Menedez with a cw_deagle
+Mon Oct 22 22:17:33 2018	John Leguizamo (STEAM_0:1:61331422): /advert cafeteria is now open! come on down for some pizza
+Mon Oct 22 22:17:35 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:17:38 2018	OriginalName (STEAM_0:0:78643179) has joined the game
+Mon Oct 22 22:17:38 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:18:31 2018	Busta-Bug (STEAM_0:1:419563430): // When will it be over 
+Mon Oct 22 22:18:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct 22 22:18:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 22 22:18:33 2018	Helium Snake (STEAM_0:1:155725835): /give 250
+Mon Oct 22 22:18:34 2018	Helium Snake (STEAM_0:1:155725835) has given $250 to John Leguizamo (STEAM_0:1:61331422)
+Mon Oct 22 22:18:42 2018	Busta-Bug (STEAM_0:1:419563430): // Terrorist hit the button
+Mon Oct 22 22:18:53 2018	Gamerchef (STEAM_0:1:47616133) has joined the game
+Mon Oct 22 22:18:53 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:18:57 2018	Aaron was killed by Kilroy with a cw_l115
+Mon Oct 22 22:18:58 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:18:58 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:19:08 2018	L-S-D (STEAM_0:0:23817851) has joined the game
+Mon Oct 22 22:19:08 2018	L-S-D (STEAM_0:0:23817851) spawned
+Mon Oct 22 22:19:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto kilr
+Mon Oct 22 22:19:29 2018	Busta-Bug (STEAM_0:1:419563430): // Hello?
+Mon Oct 22 22:19:33 2018	Enviro (STEAM_0:0:80115103): // Hello
+Mon Oct 22 22:19:40 2018	Busta-Bug (STEAM_0:1:419563430): // open the door
+Mon Oct 22 22:20:02 2018	Busta-Bug (STEAM_0:1:419563430): // Enviro let me out im 3431
+Mon Oct 22 22:20:11 2018	Enviro (STEAM_0:0:80115103): // Im not terrorist
+Mon Oct 22 22:20:17 2018	Helium Snake (STEAM_0:1:155725835): /advert on my way
+Mon Oct 22 22:20:23 2018	Busta-Bug (STEAM_0:1:419563430): // ok
+Mon Oct 22 22:20:34 2018	Helium Snake (STEAM_0:1:155725835): /advert had a pizza
+Mon Oct 22 22:20:35 2018	L-S-D (STEAM_0:0:23817851) spawned
+Mon Oct 22 22:20:37 2018	Busta-Bug (STEAM_0:1:419563430): // lol
+Mon Oct 22 22:20:39 2018	Enviro (STEAM_0:0:80115103) disconnected
+Mon Oct 22 22:20:41 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /pm helium KEEP THE FAN OFF
+Mon Oct 22 22:21:00 2018	Busta-Bug (STEAM_0:1:419563430): // good you?
+Mon Oct 22 22:21:03 2018	Gamerchef (STEAM_0:1:47616133): // Hi can I get uhhhhhhhhhhh oreo mcflurry?
+Mon Oct 22 22:21:03 2018	Helium Snake (STEAM_0:1:155725835): /advert shit quarintine still on
+Mon Oct 22 22:21:09 2018	Busta-Bug (STEAM_0:1:419563430): // yes please
+Mon Oct 22 22:21:20 2018	Busta-Bug (STEAM_0:1:419563430): // in my cell 
+Mon Oct 22 22:21:21 2018	Helium Snake (STEAM_0:1:155725835): /advert cell 2
+Mon Oct 22 22:21:27 2018	L-S-D was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:21:28 2018	L-S-D (STEAM_0:0:23817851) spawned
+Mon Oct 22 22:21:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto futa
+Mon Oct 22 22:21:37 2018	Busta-Bug (STEAM_0:1:419563430): // turn off quarantine with the button
+Mon Oct 22 22:21:42 2018	Busta-Bug (STEAM_0:1:419563430): // k
+Mon Oct 22 22:21:48 2018	Busta-Bug (STEAM_0:1:419563430): // brb
+Mon Oct 22 22:22:07 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:22:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 22 22:22:20 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:22:27 2018	[Opi] Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct 22 22:22:27 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:22:28 2018	Helium Snake was killed by Harold Jenkins with a cw_mac11
+Mon Oct 22 22:22:31 2018	Harold Jenkins (STEAM_0:0:78643179): /invholster
+Mon Oct 22 22:22:34 2018	Harold Jenkins (STEAM_0:0:78643179): You shot me ;c
+Mon Oct 22 22:22:36 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:22:36 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:23:11 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:23:14 2018	Revolver Ocelote was killed by locky with a fas2_dv2
+Mon Oct 22 22:23:16 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:23:17 2018	John Leguizamo was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:23:19 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:23:24 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:23:45 2018	Tier (STEAM_0:1:33589770): WHAT IS THIS
+Mon Oct 22 22:23:48 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:23:49 2018	Harold Jenkins (STEAM_0:0:78643179): No idea
+Mon Oct 22 22:23:57 2018	Harold Jenkins (STEAM_0:0:78643179): Tiewr
+Mon Oct 22 22:24:03 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:24:05 2018	Tier (STEAM_0:1:33589770): Yeeeeee
+Mon Oct 22 22:24:06 2018	Harold Jenkins (STEAM_0:0:78643179): I'm a fucking lonley boy
+Mon Oct 22 22:24:11 2018	Harold Jenkins (STEAM_0:0:78643179): I need a Co-Worker
+Mon Oct 22 22:24:15 2018	Tier (STEAM_0:1:33589770): /y NOPE
+Mon Oct 22 22:24:21 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:24:24 2018	Harold Jenkins (STEAM_0:0:78643179): HEY
+Mon Oct 22 22:24:25 2018	L-S-D was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:24:26 2018	L-S-D (STEAM_0:0:23817851) spawned
+Mon Oct 22 22:24:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct 22 22:24:30 2018	Harold Jenkins (STEAM_0:0:78643179): /y DONT GO THERE!
+Mon Oct 22 22:24:35 2018	Harold Jenkins (STEAM_0:0:78643179): /y STAY BACK
+Mon Oct 22 22:24:38 2018	Tier was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:24:41 2018	Harold Jenkins (STEAM_0:0:78643179): /y GG
+Mon Oct 22 22:24:44 2018	Tier (STEAM_0:1:33589770): /y GO INSIDE
+Mon Oct 22 22:24:45 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:24:59 2018	Lysander Valerius (STEAM_0:0:54486489): // Is there ever a time where the power plant is working as intended without terrorists running the place and it blowing up? 
+Mon Oct 22 22:25:03 2018	Lysander Valerius (STEAM_0:0:54486489): // :V
+Mon Oct 22 22:25:06 2018	Enviro (STEAM_0:0:80115103): // 100% yes
+Mon Oct 22 22:25:06 2018	Harold Jenkins (STEAM_0:0:78643179): // No
+Mon Oct 22 22:25:07 2018	locky (STEAM_0:0:176792616) has dropped $2,499
+Mon Oct 22 22:25:11 2018	Enviro (STEAM_0:0:80115103): // this weekend was areally good example
+Mon Oct 22 22:25:11 2018	Tier (STEAM_0:1:33589770): // rarley
+Mon Oct 22 22:25:14 2018	Gamerchef (STEAM_0:1:47616133): // yesh
+Mon Oct 22 22:25:17 2018	L-S-D was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:25:21 2018	L-S-D (STEAM_0:0:23817851) spawned
+Mon Oct 22 22:25:26 2018	Tier (STEAM_0:1:33589770): yes
+Mon Oct 22 22:25:31 2018	Enviro (STEAM_0:0:80115103): // had people roelplaying, building all over, was really awesome to see
+Mon Oct 22 22:25:32 2018	Raul Menedez (STEAM_0:0:204456225): // do i get anything for having opi in my name? xd
+Mon Oct 22 22:25:37 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:25:40 2018	Enviro (STEAM_0:0:80115103): // You get in game cash
+Mon Oct 22 22:25:43 2018	locky (STEAM_0:0:176792616) has dropped $2,499
+Mon Oct 22 22:25:49 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:25:49 2018	John Leguizamo (STEAM_0:1:61331422): /ooc hey enviro what is the meaning of life?
+Mon Oct 22 22:25:50 2018	I Like Futa (STEAM_0:1:109705991): /name I Like Henti
+Mon Oct 22 22:25:51 2018	Harold Jenkins (STEAM_0:0:78643179): GIVE ME THE PIZZA
+Mon Oct 22 22:25:53 2018	Lysander Valerius (STEAM_0:0:54486489): // Well ey Enviro I'd love to go through that instead of the place constantly blowing up :V)
+Mon Oct 22 22:25:54 2018	Enviro (STEAM_0:0:80115103): // idk
+Mon Oct 22 22:25:55 2018	Raul Menedez (STEAM_0:0:204456225): // cos i changed it earlier
+Mon Oct 22 22:26:02 2018	Harold Jenkins (STEAM_0:0:78643179): Mate
+Mon Oct 22 22:26:04 2018	Enviro (STEAM_0:0:80115103): // i dont have a life so idk
+Mon Oct 22 22:26:10 2018	John Leguizamo was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:26:11 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:26:13 2018	Gamerchef was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:26:15 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:26:21 2018	Harold Jenkins was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:26:21 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:26:22 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:26:25 2018	Coral But Faggot (STEAM_0:0:197000190): // shut the fuck up
+Mon Oct 22 22:26:30 2018	Raul Menedez (STEAM_0:0:204456225): /me Waves
+Mon Oct 22 22:26:35 2018	FloodTamer (STEAM_0:1:32753103): // Can the Swat please do your job? Damn son
+Mon Oct 22 22:26:37 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): 
+Mon Oct 22 22:26:47 2018	Lysander Valerius was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:27:01 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:27:15 2018	I Like Henti (STEAM_0:1:109705991): /name Nazi
+Mon Oct 22 22:27:19 2018	Harold Jenkins was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:27:21 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:27:31 2018	Dabombam (STEAM_0:1:116056055) has joined the game
+Mon Oct 22 22:27:31 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Mon Oct 22 22:27:34 2018	John Leguizamo (STEAM_0:1:61331422): /ooc i am so triggered
+Mon Oct 22 22:27:35 2018	L-S-D (STEAM_0:0:23817851): /advert make it more offensive
+Mon Oct 22 22:27:39 2018	Revolver Ocelote (STEAM_0:0:10631997): !куцфквы
+Mon Oct 22 22:27:44 2018	Tier (STEAM_0:1:33589770): off
+Mon Oct 22 22:27:45 2018	Harold Jenkins (STEAM_0:0:78643179): /advert Change it to Stalin you fuckboy
+Mon Oct 22 22:27:46 2018	Revolver Ocelote (STEAM_0:0:10631997): 
+Mon Oct 22 22:27:50 2018	UNI aka 76561198119439177 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:27:52 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:27:53 2018	Nazi (STEAM_0:1:109705991): /name Stalin
+Mon Oct 22 22:27:54 2018	Gamerchef was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:27:56 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:27:57 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): /advert soviet union best union
+Mon Oct 22 22:28:04 2018	Harold Jenkins (STEAM_0:0:78643179): /advert Yes, Comrade
+Mon Oct 22 22:28:04 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc i got  pushed off by the tram...
+Mon Oct 22 22:28:09 2018	Lysander Valerius (STEAM_0:0:54486489): // Yes
+Mon Oct 22 22:28:10 2018	Harold Jenkins (STEAM_0:0:78643179): !steam
+Mon Oct 22 22:28:18 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Mon Oct 22 22:28:18 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 22 22:28:34 2018	Lysander Valerius (STEAM_0:0:54486489): // Give leninaid or riot
+Mon Oct 22 22:28:39 2018	UNI aka 76561198119439177 was killed by John Leguizamo with a weapon_l4d2_frying_pan
+Mon Oct 22 22:28:42 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:28:58 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc MELTDOWN BOIZZZZZ
+Mon Oct 22 22:29:06 2018	Gamerchef (STEAM_0:1:47616133): /advert SOMEONE BASED IN 
+Mon Oct 22 22:29:13 2018	Tier (STEAM_0:1:33589770): /y MEltdown
+Mon Oct 22 22:29:17 2018	Tier (STEAM_0:1:33589770): /y WE BOUT TO BLOW UP
+Mon Oct 22 22:29:20 2018	Tier (STEAM_0:1:33589770): SAVE YOUR BASE
+Mon Oct 22 22:29:25 2018	Jeep™ (STEAM_0:0:77324839) has joined the game
+Mon Oct 22 22:29:25 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:29:36 2018	Tier (STEAM_0:1:33589770): Your props will be cleaned up after plant blows up
+Mon Oct 22 22:29:41 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): /advert This facility gets a 0/10
+Mon Oct 22 22:29:42 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 10000
+Mon Oct 22 22:29:43 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $10,000
+Mon Oct 22 22:29:46 2018	Stalin (STEAM_0:1:109705991): /name Fortnite
+Mon Oct 22 22:29:47 2018	Tier (STEAM_0:1:33589770): so save it man
+Mon Oct 22 22:29:47 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): /advert the pizza sucked
+Mon Oct 22 22:29:48 2018	locky was killed by Kilroy with a cw_deagle
+Mon Oct 22 22:29:50 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:29:51 2018	Tier (STEAM_0:1:33589770): ok
+Mon Oct 22 22:29:52 2018	Tier (STEAM_0:1:33589770): good luck
+Mon Oct 22 22:29:58 2018	L-S-D (STEAM_0:0:23817851) disconnected
+Mon Oct 22 22:29:58 2018	UNI aka 76561198119439177 was killed by John Leguizamo with a weapon_l4d2_frying_pan
+Mon Oct 22 22:29:59 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:30:04 2018	Tier (STEAM_0:1:33589770): // no
+Mon Oct 22 22:30:05 2018	Enviro (STEAM_0:0:80115103): // oh 
+Mon Oct 22 22:30:08 2018	locky was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:30:10 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:30:12 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): WAAT
+Mon Oct 22 22:30:16 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooC WAT
+Mon Oct 22 22:30:29 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc REACTIVATE THE MELTDOWN ASAP
+Mon Oct 22 22:30:51 2018	Raul Menedez (STEAM_0:0:204456225): /me Waves
+Mon Oct 22 22:30:52 2018	Enviro (STEAM_0:0:80115103): // its going up btw
+Mon Oct 22 22:30:54 2018	John Leguizamo (STEAM_0:1:61331422): /ooc e coolant bitch
+Mon Oct 22 22:30:56 2018	Fortnite (STEAM_0:1:109705991): /name PUBG
+Mon Oct 22 22:31:15 2018	Harold Jenkins (STEAM_0:0:78643179): /y WE DID IT BOYS!
+Mon Oct 22 22:31:19 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): ye boiiiiiiiiiiiiiiiiiiii
+Mon Oct 22 22:31:20 2018	PUBG was killed by Himself with a suicide trick
+Mon Oct 22 22:31:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay PUBG
+Mon Oct 22 22:31:21 2018	Aaron (STEAM_0:1:184775407): @make the looser shut the fuck up pubg
+Mon Oct 22 22:31:22 2018	PUBG (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:31:22 2018	John Leguizamo was killed by Bob Saget with a cw_fiveseven
+Mon Oct 22 22:31:23 2018	Harold Jenkins (STEAM_0:0:78643179): YEAH!
+Mon Oct 22 22:31:25 2018	Max (STEAM_0:0:169248915): !warn PUBG Intercom spam
+Mon Oct 22 22:31:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct 22 22:31:28 2018	PUBG (STEAM_0:1:109705991): // WHY
+Mon Oct 22 22:31:35 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:31:39 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Dick hole
+Mon Oct 22 22:31:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // because your micspamming
+Mon Oct 22 22:31:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct 22 22:31:47 2018	PUBG (STEAM_0:1:109705991): // im not
+Mon Oct 22 22:31:48 2018	Harold Jenkins (STEAM_0:0:78643179): Damn
+Mon Oct 22 22:31:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // noone likes it
+Mon Oct 22 22:31:51 2018	Max (STEAM_0:0:169248915): // PUBG UGR NOB I know your UGR
+Mon Oct 22 22:31:51 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): spooky
+Mon Oct 22 22:31:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct 22 22:32:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // btw pubg
+Mon Oct 22 22:32:03 2018	PUBG (STEAM_0:1:109705991): // what?
+Mon Oct 22 22:32:08 2018	PUBG (STEAM_0:1:109705991): // im not UGR
+Mon Oct 22 22:32:12 2018	John Leguizamo was killed by UNI aka 76561198119439177 with a cw_l85a2
+Mon Oct 22 22:32:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // its fucking says who is talking
+Mon Oct 22 22:32:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct 22 22:32:19 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:32:20 2018	Revolver Ocelote was killed by Raul Menedez with a cw_deagle
+Mon Oct 22 22:32:21 2018	FloodTamer (STEAM_0:1:32753103): // Guess it didn't blow up
+Mon Oct 22 22:32:22 2018	PUBG (STEAM_0:1:109705991): // ik that
+Mon Oct 22 22:32:22 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:32:26 2018	Harold Jenkins (STEAM_0:0:78643179): wow
+Mon Oct 22 22:32:29 2018	Harold Jenkins (STEAM_0:0:78643179): Even in space
+Mon Oct 22 22:32:31 2018	Aaron (STEAM_0:1:184775407): // fat come to the blast shelter
+Mon Oct 22 22:32:33 2018	Harold Jenkins (STEAM_0:0:78643179): Its pizza day
+Mon Oct 22 22:32:33 2018	PUBG (STEAM_0:1:109705991): /name I like Gay
+Mon Oct 22 22:32:40 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): yea, pizza is almightly
+Mon Oct 22 22:32:44 2018	Aaron (STEAM_0:1:184775407): // and see waht is in here
+Mon Oct 22 22:32:48 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): everyone knows of its goodness
+Mon Oct 22 22:32:51 2018	John Leguizamo was killed by Bob Saget with a cw_fiveseven
+Mon Oct 22 22:32:52 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:32:52 2018	Harold Jenkins (STEAM_0:0:78643179): Can't believe I finally made it up here
+Mon Oct 22 22:32:53 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): nomatter where they are
+Mon Oct 22 22:32:57 2018	Harold Jenkins (STEAM_0:0:78643179): And on pizza dayh
+Mon Oct 22 22:32:58 2018	Harold Jenkins (STEAM_0:0:78643179): day*
+Mon Oct 22 22:33:04 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): yea, me too
+Mon Oct 22 22:33:07 2018	Max (STEAM_0:0:169248915): !glt
+Mon Oct 22 22:33:11 2018	Max (STEAM_0:0:169248915): !goto gay
+Mon Oct 22 22:33:15 2018	Max (STEAM_0:0:169248915): !goto Gay
+Mon Oct 22 22:33:19 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:33:21 2018	Harold Jenkins (STEAM_0:0:78643179): Its beautiufl especially the fact that the planet looks a bit flat
+Mon Oct 22 22:33:30 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): That is odd
+Mon Oct 22 22:33:33 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 22:33:38 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Mon Oct 22 22:33:39 2018	locky was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:33:40 2018	John Leguizamo was killed by UNI aka 76561198119439177 with a cw_l85a2
+Mon Oct 22 22:33:40 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:33:41 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:33:47 2018	Aaron (STEAM_0:1:184775407): // fat
+Mon Oct 22 22:33:52 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc combat chef down
+Mon Oct 22 22:33:52 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): 
+Mon Oct 22 22:34:04 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:34:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setmoney STEAM_0:1:42591216 50000
+Mon Oct 22 22:34:13 2018	I like Gay (STEAM_0:1:109705991): Blinx
+Mon Oct 22 22:34:20 2018	Harold Jenkins (STEAM_0:0:78643179): OH SHIT
+Mon Oct 22 22:34:21 2018	FloodTamer (STEAM_0:1:32753103): // This is okay.
+Mon Oct 22 22:34:23 2018	Harold Jenkins (STEAM_0:0:78643179): Were shaking
+Mon Oct 22 22:34:32 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): wow the core is so powerful it can project vibrations across a vacuum
+Mon Oct 22 22:34:41 2018	Harold Jenkins (STEAM_0:0:78643179): Jesus christ
+Mon Oct 22 22:34:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Oct 22 22:34:46 2018	Harold Jenkins (STEAM_0:0:78643179): We should of listened.
+Mon Oct 22 22:34:49 2018	John Leguizamo was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:34:50 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:34:53 2018	Harold Jenkins (STEAM_0:0:78643179): That core needed to be cooled
+Mon Oct 22 22:34:56 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): yea
+Mon Oct 22 22:34:57 2018	Max (STEAM_0:0:169248915): !warn I like gay Intercom Spam
+Mon Oct 22 22:34:58 2018	Tier (STEAM_0:1:33589770): PIRATER
+Mon Oct 22 22:35:00 2018	Tier (STEAM_0:1:33589770): TURN OFF THAT PAC
+Mon Oct 22 22:35:02 2018	Revolver Ocelote was killed by Aaron with a cw_l115
+Mon Oct 22 22:35:03 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:35:04 2018	Tier (STEAM_0:1:33589770): ITSANNOYING
+Mon Oct 22 22:35:05 2018	Harold Jenkins (STEAM_0:0:78643179): We might die.
+Mon Oct 22 22:35:06 2018	Max (STEAM_0:0:169248915): !warn Gay Intercom Spam
+Mon Oct 22 22:35:08 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): maybe
+Mon Oct 22 22:35:25 2018	Harold Jenkins (STEAM_0:0:78643179): Wait
+Mon Oct 22 22:35:30 2018	Max was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:35:31 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:35:31 2018	Harold Jenkins (STEAM_0:0:78643179): THe planets our closer out here
+Mon Oct 22 22:35:34 2018	Harold Jenkins (STEAM_0:0:78643179): We need to get inside
+Mon Oct 22 22:35:39 2018	locky was killed by Kilroy with a cw_l115
+Mon Oct 22 22:35:41 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:35:49 2018	UNI aka 76561198119439177 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:35:50 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:36:02 2018	I like Gay (STEAM_0:1:109705991): /y FIRE
+Mon Oct 22 22:36:03 2018	I like Gay (STEAM_0:1:109705991): /y HALT
+Mon Oct 22 22:36:04 2018	John Leguizamo was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:36:05 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:36:05 2018	I like Gay (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 22:36:11 2018	I like Gay (STEAM_0:1:109705991): !donate
+Mon Oct 22 22:36:23 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:36:37 2018	Harold Jenkins (STEAM_0:0:78643179): SHIT
+Mon Oct 22 22:36:40 2018	Harold Jenkins (STEAM_0:0:78643179): ITS A FUCKING RAVE
+Mon Oct 22 22:36:41 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): spooky
+Mon Oct 22 22:36:44 2018	Max (STEAM_0:0:169248915): !warn Gay Intercom Spam
+Mon Oct 22 22:36:45 2018	I like Gay (STEAM_0:1:109705991) disconnected
+Mon Oct 22 22:36:46 2018	Tier (STEAM_0:1:33589770): /y WHY
+Mon Oct 22 22:36:48 2018	Tier (STEAM_0:1:33589770): /y WHO DID THAT
+Mon Oct 22 22:36:51 2018	Busta-Bug was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:36:51 2018	Helium Snake was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:36:51 2018	John Leguizamo was killed by Entity [4917][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:36:52 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:36:58 2018	John Leguizamo was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:36:59 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:37:04 2018	John Leguizamo was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:05 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:37:10 2018	John Leguizamo was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:12 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:37:15 2018	UNI aka 76561198119439177 was killed by Gamerchef with a weapon_hlof_pipewrench
+Mon Oct 22 22:37:16 2018	FloodTamer was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:16 2018	locky was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:16 2018	Windows 10 Civilgamers.com was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:16 2018	Byron ☂ was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:17 2018	John Leguizamo was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:17 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:37:18 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:37:18 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:37:21 2018	Coral But Faggot was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:22 2018	locky was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:23 2018	FloodTamer was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:23 2018	John Leguizamo was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:24 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:37:24 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:37:24 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:37:25 2018	Tier was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:25 2018	Raul Menedez was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:25 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:37:26 2018	Kilroy was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:26 2018	Enviro was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:27 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:37:27 2018	Johnny K Bronk was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:28 2018	Aaron was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:37:28 2018	Kilroy was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	FloodTamer was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Aaron was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	UNI aka 76561198119439177 was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Tier was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Max was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Helium Snake was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Revolver Ocelote was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Lysander Valerius was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	locky was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Really Really Smart Guinea Pig was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Gamerchef was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Coral But Faggot was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	John Leguizamo was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Windows 10 Civilgamers.com was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Raul Menedez was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Byron ☂ was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Bob Saget was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Busta-Bug was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Harold Jenkins was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Pirate Raider was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Mon Oct 22 22:37:28 2018	Jeep™ was killed by Himself with a suicide trick
+Mon Oct 22 22:37:32 2018	Harold Jenkins (STEAM_0:0:78643179): Ow
+Mon Oct 22 22:37:32 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:37:32 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:37:32 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:37:32 2018	Max (STEAM_0:0:169248915): !warn Gamer RDM
+Mon Oct 22 22:37:32 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:37:32 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:37:32 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Mon Oct 22 22:37:32 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:37:33 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:37:33 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 22 22:37:33 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:37:34 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:37:34 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:37:34 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Mon Oct 22 22:37:34 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:37:34 2018	Raul Menedez (STEAM_0:0:204456225) spawned
+Mon Oct 22 22:37:34 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 22:37:36 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:37:36 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:37:40 2018	Enviro (STEAM_0:0:80115103) disconnected
+Mon Oct 22 22:37:42 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 22 22:37:43 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:37:45 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:37:45 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:37:46 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 22:37:48 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:37:49 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:37:53 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:37:55 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 22:38:07 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:38:16 2018	Max (STEAM_0:0:169248915): iiiiiii
+Mon Oct 22 22:38:18 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:38:19 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:38:28 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Mon Oct 22 22:38:31 2018	Max (STEAM_0:0:169248915): iw
+Mon Oct 22 22:38:46 2018	Tier (STEAM_0:1:33589770): No clue
+Mon Oct 22 22:38:59 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:39:15 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:39:16 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:39:28 2018	[Opi] Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct 22 22:39:28 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:39:29 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Mon Oct 22 22:39:35 2018	Harold Jenkins (STEAM_0:0:78643179): Gopnik lol
+Mon Oct 22 22:39:38 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:39:38 2018	Harold Jenkins (STEAM_0:0:78643179): JK
+Mon Oct 22 22:39:41 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:39:47 2018	Gamerchef (STEAM_0:1:47616133): /name Ass Eater 9000
+Mon Oct 22 22:39:47 2018	Harold Jenkins (STEAM_0:0:78643179): Yes
+Mon Oct 22 22:39:53 2018	Ass Eater 9000 (STEAM_0:1:47616133): !warn
+Mon Oct 22 22:39:54 2018	locky was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:39:54 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:39:59 2018	Harold Jenkins (STEAM_0:0:78643179): Going to work too?
+Mon Oct 22 22:40:00 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:40:07 2018	Jeep™ (STEAM_0:0:77324839): im blind and deaf
+Mon Oct 22 22:40:09 2018	Jeep™ (STEAM_0:0:77324839): i cant speak
+Mon Oct 22 22:40:10 2018	Harold Jenkins (STEAM_0:0:78643179): Wow
+Mon Oct 22 22:40:13 2018	Harold Jenkins (STEAM_0:0:78643179): Makes sense
+Mon Oct 22 22:40:15 2018	B̡̀͞͝ĺ͜i̷̢̨͝n̷͘͡x (STEAM_0:1:109705991) has joined the game
+Mon Oct 22 22:40:15 2018	I like Gay (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:40:16 2018	Max (STEAM_0:0:169248915) disconnected
+Mon Oct 22 22:40:18 2018	Harold Jenkins (STEAM_0:0:78643179): BTW its pizza day
+Mon Oct 22 22:40:34 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct 22 22:40:35 2018	Raul Menedez (STEAM_0:0:204456225) disconnected
+Mon Oct 22 22:40:43 2018	locky was killed by Revolver Ocelote with a weapon_hlof_pipewrench
+Mon Oct 22 22:40:44 2018	locky (STEAM_0:0:176792616) spawned
+Mon Oct 22 22:40:45 2018	Kilroy (STEAM_0:0:138507625): @ fat found a glitch
+Mon Oct 22 22:40:47 2018	locky (STEAM_0:0:176792616): rdm
+Mon Oct 22 22:41:05 2018	Revolver Ocelote (STEAM_0:0:10631997) disconnected
+Mon Oct 22 22:41:06 2018	locky (STEAM_0:0:176792616) disconnected
+Mon Oct 22 22:41:14 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Mon Oct 22 22:41:15 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:41:35 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Mon Oct 22 22:41:35 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 22 22:41:41 2018	Tier (STEAM_0:1:33589770): are you breaking it?
+Mon Oct 22 22:41:44 2018	Tier (STEAM_0:1:33589770): the hell
+Mon Oct 22 22:41:45 2018	Tier (STEAM_0:1:33589770): how
+Mon Oct 22 22:41:55 2018	Tier (STEAM_0:1:33589770): what did you do?
+Mon Oct 22 22:42:00 2018	I like Gay (STEAM_0:1:109705991): // is this martin Garix?
+Mon Oct 22 22:42:09 2018	Tier (STEAM_0:1:33589770): that scared me I thought you broke it
+Mon Oct 22 22:42:10 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 22 22:42:11 2018	Tier (STEAM_0:1:33589770): /dropmoney 1000
+Mon Oct 22 22:42:12 2018	Tier (STEAM_0:1:33589770) has dropped $1,000
+Mon Oct 22 22:42:15 2018	Tier (STEAM_0:1:33589770): that was your last play
+Mon Oct 22 22:42:28 2018	I like Gay (STEAM_0:1:109705991): /name How much is Pac3?
+Mon Oct 22 22:42:38 2018	I like Gay (STEAM_0:1:109705991): /name How Much Is Pac3
+Mon Oct 22 22:42:39 2018	How Much Is Pac3 (STEAM_0:1:109705991): // .
+Mon Oct 22 22:42:44 2018	Enviro (STEAM_0:0:80115103): 
+Mon Oct 22 22:42:55 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:43:07 2018	Nice Friendly Max (STEAM_0:0:169248915) has joined the game
+Mon Oct 22 22:43:07 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:43:15 2018	How Much Is Pac3 (STEAM_0:1:109705991): // how much is Pac3
+Mon Oct 22 22:43:20 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert YOU GOT A CORRUPT PLANT WORKER IN THE COOLANTS
+Mon Oct 22 22:43:21 2018	wolfhugger 3000 (STEAM_0:1:42591216): // idk
+Mon Oct 22 22:43:27 2018	Aaron (STEAM_0:1:184775407): // what you mean
+Mon Oct 22 22:43:29 2018	Enviro (STEAM_0:0:80115103): // What do you mean? How much what?
+Mon Oct 22 22:43:31 2018	How Much Is Pac3 (STEAM_0:1:109705991): // i want Pac3
+Mon Oct 22 22:43:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 22:43:33 2018	Coral But Faggot (STEAM_0:0:197000190): // you apply idiot
+Mon Oct 22 22:43:38 2018	Aaron (STEAM_0:1:184775407): // ok apply
+Mon Oct 22 22:43:40 2018	How Much Is Pac3 (STEAM_0:1:109705991): // wow im sorry xd
+Mon Oct 22 22:43:42 2018	How Much Is Pac3 (STEAM_0:1:109705991): // ;-;
+Mon Oct 22 22:43:48 2018	[Opi] Spooky Simon (STEAM_0:1:84422693) has joined the game
+Mon Oct 22 22:43:48 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 22:44:00 2018	ManMilk (STEAM_0:0:81653832) has joined the game
+Mon Oct 22 22:44:00 2018	ManMilk (STEAM_0:0:81653832) spawned
+Mon Oct 22 22:44:09 2018	How Much Is Pac3 (STEAM_0:1:109705991) spawned
+Mon Oct 22 22:44:17 2018	Harold Jenkins (STEAM_0:0:78643179): Good
+Mon Oct 22 22:44:19 2018	How Much Is Pac3 (STEAM_0:1:109705991): /name I Like Futa
+Mon Oct 22 22:44:24 2018	Harold Jenkins (STEAM_0:0:78643179): Im going to work.
+Mon Oct 22 22:44:26 2018	Tier (STEAM_0:1:33589770): this is broken somehow
+Mon Oct 22 22:44:29 2018	Tier (STEAM_0:1:33589770): I didnt set it up right
+Mon Oct 22 22:44:29 2018	Jeep™ (STEAM_0:0:77324839): /job Plant Worker
+Mon Oct 22 22:44:34 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) spawned
+Mon Oct 22 22:44:35 2018	I Like Futa (STEAM_0:1:109705991): !Motd
+Mon Oct 22 22:44:41 2018	Harold Jenkins (STEAM_0:0:78643179): Mk
+Mon Oct 22 22:44:49 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah.
+Mon Oct 22 22:44:51 2018	Aaron (STEAM_0:1:184775407): /want jeep shooting chef
+Mon Oct 22 22:44:53 2018	Harold Jenkins (STEAM_0:0:78643179): Eh
+Mon Oct 22 22:44:57 2018	Harold Jenkins (STEAM_0:0:78643179): I'd disagree
+Mon Oct 22 22:45:00 2018	Aaron (STEAM_0:1:184775407): @how do i want
+Mon Oct 22 22:45:04 2018	Harold Jenkins (STEAM_0:0:78643179): Maybe not.
+Mon Oct 22 22:45:09 2018	Harold Jenkins (STEAM_0:0:78643179): Eh
+Mon Oct 22 22:45:19 2018	Aaron (STEAM_0:1:184775407): /wanted jeep shooting chef
+Mon Oct 22 22:45:19 2018	Aaron has made Jeep™ wanted, reason: shooting chef
+Mon Oct 22 22:45:20 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Plant Director. Jeep is corrupt and turning off the coolant shit while also attacking me cuz I want to give ya a pizza
+Mon Oct 22 22:45:27 2018	Jeep™ is no longer wanted by the Police. Revoked by: Aaron
+Mon Oct 22 22:45:27 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:45:27 2018	Aaron (STEAM_0:1:184775407) arrested Jeep™
+Mon Oct 22 22:45:36 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) disconnected
+Mon Oct 22 22:45:52 2018	Harold Jenkins (STEAM_0:0:78643179): I got like 5 marks on him
+Mon Oct 22 22:46:10 2018	Spooky Simon (STEAM_0:1:84422693): /pm johnny hey are u using ur job
+Mon Oct 22 22:46:24 2018	Harold Jenkins (STEAM_0:0:78643179): Imma be honest
+Mon Oct 22 22:46:29 2018	Harold Jenkins (STEAM_0:0:78643179): I've had this job for like 3 days
+Mon Oct 22 22:46:31 2018	wolfhugger 3000 (STEAM_0:1:42591216): !goto Johnny K Bronk
+Mon Oct 22 22:46:31 2018	Harold Jenkins (STEAM_0:0:78643179): Haven't done shit
+Mon Oct 22 22:46:43 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 22:46:51 2018	Spooky Simon (STEAM_0:1:84422693): /advert is there any pro corrupt workers that arent using their job
+Mon Oct 22 22:46:57 2018	ManMilk (STEAM_0:0:81653832): am i gonna die
+Mon Oct 22 22:47:03 2018	wolfhugger 3000 (STEAM_0:1:42591216): remember when i tped you to the admin room to make meth?
+Mon Oct 22 22:47:07 2018	Tier (STEAM_0:1:33589770): nahhh
+Mon Oct 22 22:47:14 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:47:19 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert OMFG SOMEONE TURNS ON THE LASERS AND SHIT IN THE CORE AHHHHHHHHHHHHHHHH
+Mon Oct 22 22:47:22 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:47:22 2018	Tier (STEAM_0:1:33589770): Its really hard
+Mon Oct 22 22:47:23 2018	Aaron (STEAM_0:1:184775407): // spooky taht is something you say in ooc not advert
+Mon Oct 22 22:47:25 2018	wolfhugger 3000 (STEAM_0:1:42591216): ya
+Mon Oct 22 22:47:28 2018	Tier (STEAM_0:1:33589770): To keep up with
+Mon Oct 22 22:47:29 2018	Coral But Faggot was killed by Johnny K Bronk with a fas2_machete
+Mon Oct 22 22:47:31 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:47:34 2018	Tier (STEAM_0:1:33589770): with the prizes
+Mon Oct 22 22:47:35 2018	Tier (STEAM_0:1:33589770): But sure
+Mon Oct 22 22:47:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): /me salutes and stands at attention
+Mon Oct 22 22:47:39 2018	wolfhugger 3000 (STEAM_0:1:42591216): k
+Mon Oct 22 22:47:41 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Mon Oct 22 22:47:42 2018	Tier (STEAM_0:1:33589770): I wanna do it 
+Mon Oct 22 22:47:44 2018	Harold Jenkins (STEAM_0:0:78643179): /y He's close
+Mon Oct 22 22:47:45 2018	Tier (STEAM_0:1:33589770): where I cheat it
+Mon Oct 22 22:47:52 2018	Tier (STEAM_0:1:33589770): and make it give who ever dupes it money to me
+Mon Oct 22 22:47:58 2018	Sakura (Wendell) (STEAM_0:1:52615420) has joined the game
+Mon Oct 22 22:47:58 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:47:58 2018	Tier (STEAM_0:1:33589770): as a joke but yeah you can dupe it
+Mon Oct 22 22:48:10 2018	Tier (STEAM_0:1:33589770): no
+Mon Oct 22 22:48:22 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:48:25 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:48:26 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 22:48:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Mon Oct 22 22:48:39 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 22:48:44 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:48:55 2018	ManMilk (STEAM_0:0:81653832): /ooc uhh how do i lvl uhp
+Mon Oct 22 22:48:58 2018	Spooky Simon (STEAM_0:1:84422693): tier
+Mon Oct 22 22:49:00 2018	Enviro (STEAM_0:0:80115103): // its based on playtime
+Mon Oct 22 22:49:00 2018	Tier (STEAM_0:1:33589770): Yes
+Mon Oct 22 22:49:03 2018	Spooky Simon (STEAM_0:1:84422693): are you actually taking hits and shit
+Mon Oct 22 22:49:04 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Plant Director we need you at the core, two men turned on bad shit!!! Also I need to give you the pizza I made.
+Mon Oct 22 22:49:10 2018	Spooky Simon (STEAM_0:1:84422693): i will pay you 1k to leave that job
+Mon Oct 22 22:49:14 2018	Tier (STEAM_0:1:33589770): bro
+Mon Oct 22 22:49:14 2018	Spooky Simon (STEAM_0:1:84422693): soi can be pro
+Mon Oct 22 22:49:16 2018	Tier (STEAM_0:1:33589770): no
+Mon Oct 22 22:49:19 2018	Tier (STEAM_0:1:33589770): 1k
+Mon Oct 22 22:49:20 2018	ManMilk (STEAM_0:0:81653832): !motd
+Mon Oct 22 22:49:21 2018	Tier (STEAM_0:1:33589770): is nothing
+Mon Oct 22 22:49:23 2018	Spooky Simon (STEAM_0:1:84422693): 2k
+Mon Oct 22 22:49:25 2018	UNI aka 76561198119439177 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:49:27 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:49:27 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:49:28 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 22:49:29 2018	Tier (STEAM_0:1:33589770): thats litterly the prize for my casino
+Mon Oct 22 22:49:31 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:49:32 2018	FloodTamer was killed by Max with a cw_deagle
+Mon Oct 22 22:49:33 2018	Spooky Simon (STEAM_0:1:84422693): what u want for it then
+Mon Oct 22 22:49:37 2018	Tier (STEAM_0:1:33589770): Nothing
+Mon Oct 22 22:49:38 2018	Pirate Raider (STEAM_0:1:116056055): !menu
+Mon Oct 22 22:49:39 2018	Tier (STEAM_0:1:33589770): I want this job
+Mon Oct 22 22:49:39 2018	Ass Eater 9000 (STEAM_0:1:47616133): /911 HELPPP AT CORE
+Mon Oct 22 22:49:41 2018	wolfhugger 3000 (STEAM_0:1:42591216): /pm tier remember when we where makin meth in the admin room
+Mon Oct 22 22:49:43 2018	Tier (STEAM_0:1:33589770): No one has requested me hits
+Mon Oct 22 22:49:43 2018	Spooky Simon (STEAM_0:1:84422693): fine
+Mon Oct 22 22:49:45 2018	Sakura (Wendell) (STEAM_0:1:52615420): // how long has it been since meltdown i just joined?
+Mon Oct 22 22:49:48 2018	Tier (STEAM_0:1:33589770): You can get hits aswell
+Mon Oct 22 22:49:50 2018	Harold Jenkins (STEAM_0:0:78643179): Hey
+Mon Oct 22 22:49:51 2018	I Like Futa (STEAM_0:1:109705991): Hold fire! 
+Mon Oct 22 22:49:52 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:49:52 2018	I Like Futa (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 22:49:54 2018	Tier (STEAM_0:1:33589770): its litterly only a gun difference
+Mon Oct 22 22:49:54 2018	wolfhugger 3000 (STEAM_0:1:42591216): /pm tier ?
+Mon Oct 22 22:49:55 2018	UNI aka 76561198119439177 was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:49:55 2018	I Like Futa (STEAM_0:1:109705991): /y HALT
+Mon Oct 22 22:49:55 2018	Spooky Simon (STEAM_0:1:84422693): // johnny are u using ur job
+Mon Oct 22 22:49:55 2018	Jeep™ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:49:56 2018	Sakura (Wendell) was killed by Pirate Raider with a cw_shorty
+Mon Oct 22 22:49:56 2018	I Like Futa (STEAM_0:1:109705991): /y GROUP UP
+Mon Oct 22 22:49:57 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:49:58 2018	Spooky Simon (STEAM_0:1:84422693): yeah ik
+Mon Oct 22 22:49:59 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 22:50:00 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:50:00 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:50:02 2018	ManMilk (STEAM_0:0:81653832): /ooc how do i make it so there is no fukkin checker eye-rape?
+Mon Oct 22 22:50:08 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc maybe
+Mon Oct 22 22:50:13 2018	Helium Snake (STEAM_0:1:155725835) spawned
+Mon Oct 22 22:50:20 2018	wolfhugger 3000 (STEAM_0:1:42591216): /pm tier yesterday ?
+Mon Oct 22 22:50:27 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:50:32 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 22:50:33 2018	Spooky Simon (STEAM_0:1:84422693): /pm Johnny i can pay you for the pro corrupt job
+Mon Oct 22 22:50:33 2018	ManMilk was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:50:34 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Mon Oct 22 22:50:35 2018	ManMilk (STEAM_0:0:81653832) spawned
+Mon Oct 22 22:50:37 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:50:40 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): ouch
+Mon Oct 22 22:50:42 2018	Tier (STEAM_0:1:33589770): dont play on this one
+Mon Oct 22 22:50:45 2018	Tier (STEAM_0:1:33589770): Im about to remove it
+Mon Oct 22 22:50:49 2018	ManMilk (STEAM_0:0:81653832) spawned
+Mon Oct 22 22:50:54 2018	Tier (STEAM_0:1:33589770): dont play any more in general
+Mon Oct 22 22:50:56 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:50:56 2018	Tier (STEAM_0:1:33589770): Im updating it
+Mon Oct 22 22:51:09 2018	Coral But Faggot (STEAM_0:0:197000190): // MAX SHUT THE FUCK UP
+Mon Oct 22 22:51:12 2018	Tier (STEAM_0:1:33589770): wait stop playing real quick
+Mon Oct 22 22:51:14 2018	Spooky Simon (STEAM_0:1:84422693): // johhny i can pay you for the job
+Mon Oct 22 22:51:17 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:51:25 2018	Pirate Raider (STEAM_0:1:116056055): /advert you can't aos people
+Mon Oct 22 22:51:26 2018	Spooky Simon (STEAM_0:1:84422693): // meet me in lobby
+Mon Oct 22 22:51:33 2018	Pirate Raider (STEAM_0:1:116056055): !menu
+Mon Oct 22 22:51:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Mon Oct 22 22:51:43 2018	FloodTamer was killed by Sakura (Wendell) with a cw_deagle
+Mon Oct 22 22:51:46 2018	Harold Jenkins was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:51:46 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:51:47 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:51:51 2018	Aaron (STEAM_0:1:184775407): /advert can i get CBRN because 049 is no going back into his cell
+Mon Oct 22 22:51:53 2018	Sakura (Wendell) was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:51:54 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 22:51:57 2018	Spooky Simon (STEAM_0:1:84422693): i lost nothing
+Mon Oct 22 22:52:02 2018	ManMilk (STEAM_0:0:81653832): /ooc someone wanna give me the download stuff so everything is not purple and black checkers?
+Mon Oct 22 22:52:26 2018	Spooky Simon (STEAM_0:1:84422693): /advert Johnny can I use your job if you dont need it
+Mon Oct 22 22:52:30 2018	Bob Saget (STEAM_0:0:53375381): /dropmoney 500
+Mon Oct 22 22:52:31 2018	Spooky Simon (STEAM_0:1:84422693): /advert raid lol
+Mon Oct 22 22:52:31 2018	Bob Saget (STEAM_0:0:53375381) has dropped $500
+Mon Oct 22 22:52:36 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Mon Oct 22 22:52:39 2018	Spooky Simon (STEAM_0:1:84422693): /advert false bind test
+Mon Oct 22 22:52:43 2018	FloodTamer was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:52:46 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:52:54 2018	ManMilk (STEAM_0:0:81653832): /ooc (^:
+Mon Oct 22 22:52:58 2018	Spooky Simon (STEAM_0:1:84422693): /advert raid for reals not a test
+Mon Oct 22 22:53:02 2018	Bob Saget was killed by Spooky Simon with a cw_fiveseven
+Mon Oct 22 22:53:04 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 22:53:09 2018	Kamala (STEAM_0:0:114433345) has joined the game
+Mon Oct 22 22:53:09 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 22:53:09 2018	Pirate Raider (STEAM_0:1:116056055): // stop Aosing people
+Mon Oct 22 22:53:16 2018	Enviro (STEAM_0:0:80115103): // shit, did he just KOS himself?
+Mon Oct 22 22:53:18 2018	Harold Jenkins was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:53:21 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:53:21 2018	UNI aka 76561198119439177 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:53:27 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:53:31 2018	Enviro (STEAM_0:0:80115103): !goto manmilk
+Mon Oct 22 22:53:31 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Mon Oct 22 22:53:33 2018	Enviro (STEAM_0:0:80115103): hey
+Mon Oct 22 22:53:34 2018	Enviro (STEAM_0:0:80115103): https://steamcommunity.com/sharedfiles/filedetails/?id=604460054
+Mon Oct 22 22:53:35 2018	Harold Jenkins (STEAM_0:0:78643179): Wanna place a hit on Max?
+Mon Oct 22 22:53:38 2018	Spooky Simon (STEAM_0:1:84422693): /advert any pro corrupts dont need their job
+Mon Oct 22 22:53:39 2018	Enviro (STEAM_0:0:80115103): Sorry it took a while
+Mon Oct 22 22:53:50 2018	ManMilk (STEAM_0:0:81653832): Hello
+Mon Oct 22 22:53:52 2018	Enviro (STEAM_0:0:80115103): https://steamcommunity.com/sharedfiles/filedetails/?id=604460054
+Mon Oct 22 22:53:53 2018	ManMilk (STEAM_0:0:81653832): oh thank you
+Mon Oct 22 22:53:56 2018	Enviro (STEAM_0:0:80115103): :)
+Mon Oct 22 22:53:59 2018	Jeep™ was killed by Ass Eater 9000 with a weapon_l4d2_frying_pan
+Mon Oct 22 22:54:05 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:54:08 2018	Spooky Simon (STEAM_0:1:84422693): /advert over lol
+Mon Oct 22 22:54:09 2018	ManMilk (STEAM_0:0:81653832): u r good man
+Mon Oct 22 22:54:10 2018	Coral But Faggot (STEAM_0:0:197000190): // he ended it with im KOS, keep going
+Mon Oct 22 22:54:10 2018	Enviro (STEAM_0:0:80115103): If that doesn't work, make sure you have CS:S textures installed.
+Mon Oct 22 22:54:13 2018	UNI aka 76561198119439177 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:54:14 2018	ManMilk (STEAM_0:0:81653832): thats a love tap
+Mon Oct 22 22:54:16 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:54:20 2018	Enviro (STEAM_0:0:80115103): 
+Mon Oct 22 22:54:21 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:54:22 2018	Tier (STEAM_0:1:33589770): hey
+Mon Oct 22 22:54:23 2018	Jeep™ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 22:54:23 2018	Tier (STEAM_0:1:33589770): Flooot
+Mon Oct 22 22:54:24 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:54:27 2018	Tier (STEAM_0:1:33589770): Place a hit on director?
+Mon Oct 22 22:54:28 2018	Spooky Simon (STEAM_0:1:84422693): /advert i will pay 2000 for the job of Pro Corrupt Worker
+Mon Oct 22 22:54:29 2018	Tier (STEAM_0:1:33589770): hes kos
+Mon Oct 22 22:54:33 2018	Harold Jenkins (STEAM_0:0:78643179): /invholster
+Mon Oct 22 22:54:41 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc :\ no
+Mon Oct 22 22:54:42 2018	Jeep™ (STEAM_0:0:77324839): !motd
+Mon Oct 22 22:54:45 2018	Tier (STEAM_0:1:33589770): /cheque flood 2000
+Mon Oct 22 22:54:47 2018	Tier (STEAM_0:1:33589770): there
+Mon Oct 22 22:54:49 2018	Spooky Simon (STEAM_0:1:84422693): // i can pay more
+Mon Oct 22 22:54:51 2018	Coral But Faggot (STEAM_0:0:197000190): // pay me a mil and I'll trade
+Mon Oct 22 22:54:52 2018	Bob Saget (STEAM_0:0:53375381): /ooc what's the point of putting the pizza in a box, it breaks it and makes it not able to be eaten
+Mon Oct 22 22:54:54 2018	Tier (STEAM_0:1:33589770): I updated my casino
+Mon Oct 22 22:54:58 2018	Tier (STEAM_0:1:33589770): I added slots
+Mon Oct 22 22:54:59 2018	Spooky Simon (STEAM_0:1:84422693): // not a mil
+Mon Oct 22 22:55:05 2018	Spooky Simon (STEAM_0:1:84422693): // i dont even have 100k
+Mon Oct 22 22:55:06 2018	I Like Futa (STEAM_0:1:109705991): // let me out
+Mon Oct 22 22:55:10 2018	ManMilk (STEAM_0:0:81653832) disconnected
+Mon Oct 22 22:55:13 2018	Tier (STEAM_0:1:33589770): // I mean
+Mon Oct 22 22:55:20 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc  ROGER DOGER  INBOUND ON I NTERCOM
+Mon Oct 22 22:55:20 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 22:55:26 2018	I Like Futa (STEAM_0:1:109705991): // someone with a lockpick come to 049's cel
+Mon Oct 22 22:55:26 2018	Tier (STEAM_0:1:33589770): // it has the pro lockpick and keypad cracker
+Mon Oct 22 22:55:30 2018	Spooky Simon (STEAM_0:1:84422693): // thats why
+Mon Oct 22 22:55:45 2018	Pirate Raider (STEAM_0:1:116056055): !menu
+Mon Oct 22 22:55:48 2018	Tier (STEAM_0:1:33589770): // you can just use the regular
+Mon Oct 22 22:55:48 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:55:50 2018	Enviro (STEAM_0:0:80115103): // sHIT
+Mon Oct 22 22:55:54 2018	Harold Jenkins (STEAM_0:0:78643179): Thanks
+Mon Oct 22 22:55:54 2018	Spooky Simon (STEAM_0:1:84422693): // i will give you half of my first meth batch if you let me use the job
+Mon Oct 22 22:55:54 2018	I Like Futa (STEAM_0:1:109705991): @ admin 2 me plz
+Mon Oct 22 22:56:08 2018	Phil Swift (STEAM_0:0:114433345): wut
+Mon Oct 22 22:56:11 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 22:56:14 2018	Coral But Faggot was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:56:15 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:56:18 2018	Phil Swift (STEAM_0:0:114433345): !motd
+Mon Oct 22 22:56:25 2018	Harold Jenkins (STEAM_0:0:78643179): Shit I think hes dead
+Mon Oct 22 22:56:29 2018	Max (STEAM_0:0:169248915): !warn Aaron FearRP
+Mon Oct 22 22:56:30 2018	Harold Jenkins (STEAM_0:0:78643179): Nevermind
+Mon Oct 22 22:56:38 2018	Max (STEAM_0:0:169248915): !bring futa
+Mon Oct 22 22:56:39 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:56:40 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 22:56:42 2018	Max (STEAM_0:0:169248915): 
+Mon Oct 22 22:56:42 2018	Tier (STEAM_0:1:33589770): sup
+Mon Oct 22 22:56:44 2018	Harold Jenkins (STEAM_0:0:78643179): /y He's not dead
+Mon Oct 22 22:56:47 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 22:56:48 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:56:53 2018	Jeep™ (STEAM_0:0:77324839): !motd
+Mon Oct 22 22:57:01 2018	Phil Swift (STEAM_0:0:114433345): /job Flex Product Seller
+Mon Oct 22 22:57:02 2018	Coral But Faggot (STEAM_0:0:197000190): // KILL THE DIRECTOR
+Mon Oct 22 22:57:11 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 22:57:17 2018	Helium Snake (STEAM_0:1:155725835): /advert EVERYONE TO VAULT SCP'S LET LOOSE
+Mon Oct 22 22:57:18 2018	I Like Futa (STEAM_0:1:109705991): @ max i need u 2 get someone out who was trapped with me
+Mon Oct 22 22:57:26 2018	Phil Swift (STEAM_0:0:114433345): that's a nice dron
+Mon Oct 22 22:57:31 2018	Phil Swift (STEAM_0:0:114433345): did you did it with flex tape?
+Mon Oct 22 22:57:37 2018	jazton (STEAM_0:0:121187671) has joined the game
+Mon Oct 22 22:57:37 2018	jazton (STEAM_0:0:121187671) spawned
+Mon Oct 22 22:57:42 2018	Harold Jenkins was killed by Max with a cw_deagle
+Mon Oct 22 22:57:43 2018	Ass Eater 9000 (STEAM_0:1:47616133): /911 HELP AT ADMIN ROOM!!!!
+Mon Oct 22 22:57:45 2018	Aaron was killed by Coral But Faggot with a fas2_machete
+Mon Oct 22 22:57:45 2018	Harold Jenkins (STEAM_0:0:78643179): Ow ;c
+Mon Oct 22 22:57:47 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:57:48 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 22:57:55 2018	Pirate Raider (STEAM_0:1:116056055): // 049 lemme out
+Mon Oct 22 22:57:58 2018	Spooky Simon was killed by UNI aka 76561198119439177 with a cw_shorty
+Mon Oct 22 22:58:01 2018	Bob Saget was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:58:01 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:58:02 2018	I Like Futa (STEAM_0:1:109705991): // wait 1 sec
+Mon Oct 22 22:58:02 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 22:58:03 2018	Harold Jenkins (STEAM_0:0:78643179): /invholster
+Mon Oct 22 22:58:06 2018	Tier (STEAM_0:1:33589770): /y IM FRIENDLY
+Mon Oct 22 22:58:10 2018	Enviro (STEAM_0:0:80115103): // Alrighty, gtg bye guys ;)
+Mon Oct 22 22:58:16 2018	Tier (STEAM_0:1:33589770): /y LET ME IN
+Mon Oct 22 22:58:16 2018	Phil Swift (STEAM_0:0:114433345): // Bye enviro.
+Mon Oct 22 22:58:17 2018	Helium Snake (STEAM_0:1:155725835) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 22:58:20 2018	Tier (STEAM_0:1:33589770): /y PLEs
+Mon Oct 22 22:58:22 2018	I Like Futa (STEAM_0:1:109705991): // Pig im coming 2 get u
+Mon Oct 22 22:58:24 2018	Harold Jenkins (STEAM_0:0:78643179): // Bye big thicc admin boy
+Mon Oct 22 22:58:24 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 22:58:25 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 22:58:26 2018	Coral But Faggot was killed by Aaron with a cw_deagle
+Mon Oct 22 22:58:27 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 22:58:30 2018	Enviro (STEAM_0:0:80115103): // <3
+Mon Oct 22 22:58:30 2018	Ass Eater 9000 (STEAM_0:1:47616133): // Goodnight Emviro
+Mon Oct 22 22:58:30 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): byeeee
+Mon Oct 22 22:58:31 2018	Lysander Valerius (STEAM_0:0:54486489): // Byeee
+Mon Oct 22 22:58:32 2018	Helium Snake (STEAM_0:1:155725835): // BYE
+Mon Oct 22 22:58:32 2018	Tier (STEAM_0:1:33589770): // night enviro
+Mon Oct 22 22:58:34 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 22:58:35 2018	Spooky Simon (STEAM_0:1:84422693): // no
+Mon Oct 22 22:58:37 2018	Coral But Faggot (STEAM_0:0:197000190): // night faggot
+Mon Oct 22 22:58:40 2018	Tier was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 22:58:41 2018	FloodTamer (STEAM_0:1:32753103): // Goodnight Emviro
+Mon Oct 22 22:58:41 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 22:58:42 2018	Pirate Raider (STEAM_0:1:116056055): // 049 cell 2
+Mon Oct 22 22:58:44 2018	Pirate Raider (STEAM_0:1:116056055): // pls
+Mon Oct 22 22:58:47 2018	Harold Jenkins (STEAM_0:0:78643179): Damn
+Mon Oct 22 22:58:49 2018	Ass Eater 9000 was killed by Jeep™ with a cw_deagle
+Mon Oct 22 22:58:49 2018	Enviro (STEAM_0:0:80115103) disconnected
+Mon Oct 22 22:58:50 2018	Harold Jenkins (STEAM_0:0:78643179): Nice place
+Mon Oct 22 22:58:52 2018	Jeep™ was killed by Max with a cw_deagle
+Mon Oct 22 22:58:54 2018	Harold Jenkins (STEAM_0:0:78643179): To be fair
+Mon Oct 22 22:58:55 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 22:58:58 2018	Coral But Faggot (STEAM_0:0:197000190): /request
+Mon Oct 22 22:58:59 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Mon Oct 22 22:58:59 2018	Aaron (STEAM_0:1:184775407): /pm max how many guns does it need to be for fearrp
+Mon Oct 22 22:59:02 2018	Helium Snake (STEAM_0:1:155725835): /advert sign up for the local vault if scp let loose or bomb blast
+Mon Oct 22 22:59:02 2018	Coral But Faggot (STEAM_0:0:197000190): 
+Mon Oct 22 22:59:05 2018	Phil Swift (STEAM_0:0:114433345): hey
+Mon Oct 22 22:59:06 2018	FloodTamer (STEAM_0:1:32753103): /advert Drop 2k in 10 seconds or die. If you move you also die.
+Mon Oct 22 22:59:07 2018	Harold Jenkins (STEAM_0:0:78643179): Its probably not safe to have a bar in a power plant
+Mon Oct 22 22:59:09 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 22:59:10 2018	Harold Jenkins (STEAM_0:0:78643179): I mean
+Mon Oct 22 22:59:13 2018	Phil Swift (STEAM_0:0:114433345): let's play chess
+Mon Oct 22 22:59:16 2018	Phil Swift (STEAM_0:0:114433345): lets play chess
+Mon Oct 22 22:59:19 2018	Harold Jenkins (STEAM_0:0:78643179): Some of the drinks might be irradiated
+Mon Oct 22 22:59:19 2018	FloodTamer (STEAM_0:1:32753103): /advert False
+Mon Oct 22 22:59:21 2018	Aaron was killed by Pirate Raider with a eoti_raven_swep
+Mon Oct 22 22:59:22 2018	FloodTamer was killed by Max with a cw_deagle
+Mon Oct 22 22:59:23 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 22:59:23 2018	Harold Jenkins (STEAM_0:0:78643179): Good point
+Mon Oct 22 22:59:29 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 22:59:34 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 22:59:42 2018	Tier (STEAM_0:1:33589770): EVERYONE NEEDS A METH COOk
+Mon Oct 22 22:59:46 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert THE SCPS ARE OUT DIRECTOR
+Mon Oct 22 22:59:49 2018	I Like Futa (STEAM_0:1:109705991): // RO{
+Mon Oct 22 22:59:49 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Counter
+Mon Oct 22 22:59:50 2018	Tier (STEAM_0:1:33589770): /y every diner needs a meth cook
+Mon Oct 22 22:59:51 2018	jazton (STEAM_0:0:121187671): // F
+Mon Oct 22 22:59:51 2018	I Like Futa (STEAM_0:1:109705991): // RIP
+Mon Oct 22 22:59:52 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert RUNNNNNNNNNNNNNNNNNNNN
+Mon Oct 22 22:59:53 2018	Lysander Valerius (STEAM_0:0:54486489): // RIP 
+Mon Oct 22 22:59:58 2018	Phil Swift (STEAM_0:0:114433345): /advert Hey what's up flex fans
+Mon Oct 22 23:00:01 2018	Helium Snake (STEAM_0:1:155725835): /advert GET TO VAULT
+Mon Oct 22 23:00:02 2018	Aaron (STEAM_0:1:184775407): /advert can we get swat or something to deal with the scps
+Mon Oct 22 23:00:08 2018	Tier (STEAM_0:1:33589770): /y HOLDON
+Mon Oct 22 23:00:08 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): hold on buddy
+Mon Oct 22 23:00:09 2018	Phil Swift (STEAM_0:0:114433345): /Y WHAT
+Mon Oct 22 23:00:11 2018	Sakura (Wendell) was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:00:12 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned
+Mon Oct 22 23:00:15 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert OMFG WE'RE ALL GONE DIE! ALL THE SCPS ARE LOOSE
+Mon Oct 22 23:00:19 2018	Tier (STEAM_0:1:33589770): DUDE
+Mon Oct 22 23:00:22 2018	I Like Futa (STEAM_0:1:109705991): // HAH
+Mon Oct 22 23:00:23 2018	Tier (STEAM_0:1:33589770): YOU CAN TRAN HOP WITH THIS DINER
+Mon Oct 22 23:00:25 2018	Phil Swift was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:00:26 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Mon Oct 22 23:00:27 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 23:00:27 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 23:00:28 2018	Tier (STEAM_0:1:33589770): /y EVERYONE FOLLOW ME
+Mon Oct 22 23:00:30 2018	Sakura (Wendell) (STEAM_0:1:52615420): /adver Come on down to the diner at spawn to get your pizza
+Mon Oct 22 23:00:36 2018	Sakura (Wendell) (STEAM_0:1:52615420):  /advert Come on down to the diner at spawn to get your pizza
+Mon Oct 22 23:00:36 2018	Aaron was killed by Coral But Faggot with a fas2_machete
+Mon Oct 22 23:00:37 2018	Bob Saget was killed by Pirate Raider with a eoti_raven_swep
+Mon Oct 22 23:00:37 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 23:00:39 2018	Tier (STEAM_0:1:33589770): WE NOW WAIT FOR TRAM
+Mon Oct 22 23:00:44 2018	Ass Eater 9000 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:00:45 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Mon Oct 22 23:00:45 2018	Harold Jenkins (STEAM_0:0:78643179): Oh
+Mon Oct 22 23:00:45 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert Come on down to the diner at spawn to get your pizza
+Mon Oct 22 23:00:49 2018	Harold Jenkins (STEAM_0:0:78643179): I see what you doing
+Mon Oct 22 23:00:51 2018	Harold Jenkins (STEAM_0:0:78643179): Wanna place a hit?
+Mon Oct 22 23:00:53 2018	Really Really Smart Guinea Pig was killed by Jeep™ with a cw_deagle
+Mon Oct 22 23:00:55 2018	Tier (STEAM_0:1:33589770): nah
+Mon Oct 22 23:00:55 2018	Max was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:00:56 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 23:00:56 2018	Harold Jenkins (STEAM_0:0:78643179): I'll place a hit if you do
+Mon Oct 22 23:00:57 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:00:58 2018	Tier (STEAM_0:1:33589770): only if you place a hit
+Mon Oct 22 23:01:01 2018	Phil Swift (STEAM_0:0:114433345): /advert pIZZA IWTH FLEX SEAL TIME
+Mon Oct 22 23:01:02 2018	Tier (STEAM_0:1:33589770): I cnat
+Mon Oct 22 23:01:04 2018	Lysander Valerius (STEAM_0:0:54486489): // Big oof
+Mon Oct 22 23:01:04 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Mon Oct 22 23:01:05 2018	FloodTamer was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:01:07 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert NEED CHEFS COME TO SPAWN 
+Mon Oct 22 23:01:07 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 23:01:10 2018	Tier (STEAM_0:1:33589770): wont let me
+Mon Oct 22 23:01:11 2018	Coral But Faggot was killed by Aaron with a cw_deagle
+Mon Oct 22 23:01:11 2018	Harold Jenkins (STEAM_0:0:78643179): Fuck, me either
+Mon Oct 22 23:01:13 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 23:01:18 2018	Coral But Faggot (STEAM_0:0:197000190): 
+Mon Oct 22 23:01:21 2018	Harold Jenkins (STEAM_0:0:78643179): neither*
+Mon Oct 22 23:01:23 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:01:25 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:01:27 2018	Bob Saget (STEAM_0:0:53375381) spawned
+Mon Oct 22 23:01:29 2018	Aaron (STEAM_0:1:184775407): /sellalldoors
+Mon Oct 22 23:01:32 2018	Tier (STEAM_0:1:33589770): Get the owner
+Mon Oct 22 23:01:33 2018	Tier (STEAM_0:1:33589770): Quick
+Mon Oct 22 23:01:37 2018	Tier (STEAM_0:1:33589770): holdon
+Mon Oct 22 23:01:37 2018	Phil Swift (STEAM_0:0:114433345): Hey what's up flex fans
+Mon Oct 22 23:01:40 2018	Tier (STEAM_0:1:33589770): someone just used my casino
+Mon Oct 22 23:01:42 2018	Kilroy (STEAM_0:0:138507625): b
+Mon Oct 22 23:01:44 2018	Phil Swift (STEAM_0:0:114433345): wanna buy some flex products?
+Mon Oct 22 23:01:44 2018	Helium Snake (STEAM_0:1:155725835): /advert anyone wanting o survive scp's go to vault
+Mon Oct 22 23:01:44 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 23:01:48 2018	Kilroy (STEAM_0:0:138507625): b
+Mon Oct 22 23:01:51 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 23:01:59 2018	Phil Swift (STEAM_0:0:114433345): alright cool we have the flex seal and the flex tape
+Mon Oct 22 23:01:59 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 23:02:02 2018	wolfhugger 3000 (STEAM_0:1:42591216): /pm tier i won it from slots
+Mon Oct 22 23:02:06 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 23:02:07 2018	Phil Swift (STEAM_0:0:114433345): /Y NO
+Mon Oct 22 23:02:07 2018	FloodTamer was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:02:07 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 23:02:10 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 23:02:21 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 23:02:23 2018	Harold Jenkins (STEAM_0:0:78643179): I'm thinking of doing the researcher job
+Mon Oct 22 23:02:24 2018	Harold Jenkins (STEAM_0:0:78643179): I mean
+Mon Oct 22 23:02:27 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:27 2018	Phil Swift (STEAM_0:0:114433345): /advert Flex fans a poor man just killed himself D:
+Mon Oct 22 23:02:28 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:30 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:30 2018	Harold Jenkins (STEAM_0:0:78643179): I've been in Black Mesa
+Mon Oct 22 23:02:31 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:33 2018	wolfhugger 3000 (STEAM_0:1:42591216): /pm tier XD
+Mon Oct 22 23:02:33 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:34 2018	Harold Jenkins (STEAM_0:0:78643179): So I have exp
+Mon Oct 22 23:02:37 2018	Tier (STEAM_0:1:33589770): awwwww
+Mon Oct 22 23:02:38 2018	Harold Jenkins (STEAM_0:0:78643179): Fuck
+Mon Oct 22 23:02:41 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:42 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:43 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:44 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:45 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:02:49 2018	Tier (STEAM_0:1:33589770): 
+Mon Oct 22 23:02:50 2018	Harold Jenkins (STEAM_0:0:78643179): Maybe I can cause some crazy shit
+Mon Oct 22 23:02:51 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:02:51 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:52 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:02:56 2018	Harold Jenkins (STEAM_0:0:78643179): Who knows
+Mon Oct 22 23:03:01 2018	Tier (STEAM_0:1:33589770): that casino I made
+Mon Oct 22 23:03:03 2018	Tier (STEAM_0:1:33589770): has made me 30k
+Mon Oct 22 23:03:04 2018	Tier (STEAM_0:1:33589770): profit
+Mon Oct 22 23:03:06 2018	Harold Jenkins (STEAM_0:0:78643179): damn
+Mon Oct 22 23:03:09 2018	Phil Swift (STEAM_0:0:114433345): hey what's up
+Mon Oct 22 23:03:12 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:03:14 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:03:15 2018	Phil Swift (STEAM_0:0:114433345): there's some family friendly stuff going on here
+Mon Oct 22 23:03:18 2018	Tier (STEAM_0:1:33589770): I made 10k from my buddy who tested out the new slots I found on youtube
+Mon Oct 22 23:03:20 2018	Phil Swift (STEAM_0:0:114433345): i'm selling some flex products
+Mon Oct 22 23:03:26 2018	Harold Jenkins (STEAM_0:0:78643179): GG
+Mon Oct 22 23:03:26 2018	FloodTamer was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:03:32 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Rapist
+Mon Oct 22 23:03:33 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 23:03:36 2018	Spooky Simon (STEAM_0:1:84422693): /pm futa if you infect a pro corrupt i will pay you
+Mon Oct 22 23:03:39 2018	Phil Swift (STEAM_0:0:114433345): hey what's up flex fan
+Mon Oct 22 23:03:41 2018	Harold Jenkins (STEAM_0:0:78643179): I feel like it's going to come soon.
+Mon Oct 22 23:03:42 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:03:44 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): wheeeeeeee
+Mon Oct 22 23:03:45 2018	Spooky Simon (STEAM_0:1:84422693): shut up flex sucs
+Mon Oct 22 23:03:48 2018	Helium Snake (STEAM_0:1:155725835): /advert we need security and chefs at vault
+Mon Oct 22 23:03:51 2018	Tier (STEAM_0:1:33589770): NOW
+Mon Oct 22 23:03:54 2018	I Like Futa (STEAM_0:1:109705991): /PM Sim what?
+Mon Oct 22 23:03:54 2018	Tier was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:03:54 2018	Phil Swift (STEAM_0:0:114433345): /Y WHAT'D YOU SAY?!
+Mon Oct 22 23:03:55 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 23:03:55 2018	Harold Jenkins was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:03:56 2018	Spooky Simon (STEAM_0:1:84422693): /advert mug drop 5 buck
+Mon Oct 22 23:03:57 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:03:57 2018	Coral But Faggot (STEAM_0:0:197000190): // someone shoot him
+Mon Oct 22 23:04:03 2018	Really Really Smart Guinea Pig was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:04:03 2018	Jeep™ (STEAM_0:0:77324839): // will do
+Mon Oct 22 23:04:03 2018	Sakura (Wendell) (STEAM_0:1:52615420): // where is vault
+Mon Oct 22 23:04:05 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 23:04:10 2018	Tier (STEAM_0:1:33589770): /me Counter
+Mon Oct 22 23:04:12 2018	Sakura (Wendell) (STEAM_0:1:52615420): i dont have audio what?
+Mon Oct 22 23:04:13 2018	Tier (STEAM_0:1:33589770): /advert Counter
+Mon Oct 22 23:04:15 2018	Helium Snake (STEAM_0:1:155725835): /advert topside bomb shelter
+Mon Oct 22 23:04:16 2018	Tier (STEAM_0:1:33589770): DROP THE 5 BUCKS
+Mon Oct 22 23:04:20 2018	Phil Swift was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:04:21 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 23:04:24 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Forgive me Max, for I have changed.
+Mon Oct 22 23:04:26 2018	Spooky Simon was killed by Tier with a cw_deagle
+Mon Oct 22 23:04:27 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:04:28 2018	I Like Futa (STEAM_0:1:109705991): // i hate that song
+Mon Oct 22 23:04:28 2018	Lysander Valerius was killed by Pirate Raider with a eoti_raven_swep
+Mon Oct 22 23:04:33 2018	Coral But Faggot was killed by Johnny K Bronk with a fas2_machete
+Mon Oct 22 23:04:33 2018	Johnny K Bronk was killed by Kilroy with a cw_deagle
+Mon Oct 22 23:04:34 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:04:35 2018	Coral But Faggot (STEAM_0:0:197000190) spawned
+Mon Oct 22 23:04:35 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 22 23:04:37 2018	Phil Swift (STEAM_0:0:114433345): // edgyrp
+Mon Oct 22 23:04:45 2018	Spooky Simon was killed by Tier with a cw_deagle
+Mon Oct 22 23:04:47 2018	Tier (STEAM_0:1:33589770): He hit me
+Mon Oct 22 23:04:47 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:04:49 2018	Tier (STEAM_0:1:33589770): already
+Mon Oct 22 23:04:50 2018	Phil Swift (STEAM_0:0:114433345): /name Fortnite
+Mon Oct 22 23:04:51 2018	Tier (STEAM_0:1:33589770): watch
+Mon Oct 22 23:04:53 2018	Tier (STEAM_0:1:33589770): HEs gonna rdm
+Mon Oct 22 23:04:57 2018	Fortnite (STEAM_0:0:114433345): /job Vbucks Seller
+Mon Oct 22 23:05:03 2018	Helium Snake (STEAM_0:1:155725835): yep also there are creatures let loose
+Mon Oct 22 23:05:10 2018	Fortnite (STEAM_0:0:114433345): hey mah dude, wanna some free vbucks?
+Mon Oct 22 23:05:13 2018	Harold Jenkins (STEAM_0:0:78643179): /y kys lol
+Mon Oct 22 23:05:17 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Everything will be alright Max, just let this happen.
+Mon Oct 22 23:05:21 2018	Tier was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:05:22 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 23:05:22 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 23:05:30 2018	Fortnite (STEAM_0:0:114433345): /Y OH SHIT
+Mon Oct 22 23:05:31 2018	Tier (STEAM_0:1:33589770): no ones gonna give you pro
+Mon Oct 22 23:05:32 2018	Tier (STEAM_0:1:33589770): stop asking
+Mon Oct 22 23:05:36 2018	Helium Snake (STEAM_0:1:155725835): /advert max GET TO TOPside VaULT
+Mon Oct 22 23:05:40 2018	Harold Jenkins (STEAM_0:0:78643179): /y kys lol
+Mon Oct 22 23:05:44 2018	Tier (STEAM_0:1:33589770): im pro
+Mon Oct 22 23:05:45 2018	Fortnite (STEAM_0:0:114433345): /advert Buy me vbucks
+Mon Oct 22 23:05:51 2018	jazton (STEAM_0:0:121187671): // no
+Mon Oct 22 23:05:55 2018	Tier (STEAM_0:1:33589770): How much money do you have
+Mon Oct 22 23:05:55 2018	Lysander Valerius (STEAM_0:0:54486489) spawned
+Mon Oct 22 23:05:59 2018	Tier (STEAM_0:1:33589770): 38k right
+Mon Oct 22 23:06:01 2018	Spooky Simon (STEAM_0:1:84422693): I have 38k
+Mon Oct 22 23:06:01 2018	Tier (STEAM_0:1:33589770): I want all of it
+Mon Oct 22 23:06:02 2018	Helium Snake (STEAM_0:1:155725835): /name damion Richardson
+Mon Oct 22 23:06:03 2018	Spooky Simon (STEAM_0:1:84422693): yea
+Mon Oct 22 23:06:04 2018	Spooky Simon (STEAM_0:1:84422693): but
+Mon Oct 22 23:06:04 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert He cannot, he is surrounded by SCPs. He has no means of escape other then death.
+Mon Oct 22 23:06:08 2018	Jeep™ was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:06:09 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 23:06:14 2018	Spooky Simon (STEAM_0:1:84422693): how about i make meth then give you all the meth
+Mon Oct 22 23:06:17 2018	damion Richardson (STEAM_0:1:155725835): /job Overseer
+Mon Oct 22 23:06:17 2018	Fortnite (STEAM_0:0:114433345): /name Phil Swift
+Mon Oct 22 23:06:18 2018	Tier (STEAM_0:1:33589770): no
+Mon Oct 22 23:06:21 2018	Tier (STEAM_0:1:33589770): I want all your money
+Mon Oct 22 23:06:26 2018	jazton (STEAM_0:0:121187671): // wait isnt this powerplant rp?
+Mon Oct 22 23:06:27 2018	Bob Saget (STEAM_0:0:53375381): /advert heading back to my diner, it took soo damn long for the tram to arrive
+Mon Oct 22 23:06:28 2018	Phil Swift (STEAM_0:0:114433345): /job Flex Products Seller
+Mon Oct 22 23:06:29 2018	FloodTamer was killed by Max with a cw_deagle
+Mon Oct 22 23:06:30 2018	Harold Jenkins (STEAM_0:0:78643179): // no
+Mon Oct 22 23:06:31 2018	Harold Jenkins (STEAM_0:0:78643179): // lol
+Mon Oct 22 23:06:32 2018	Spooky Simon (STEAM_0:1:84422693): its impossible to come back from having no money
+Mon Oct 22 23:06:33 2018	Harold Jenkins (STEAM_0:0:78643179): // Jk
+Mon Oct 22 23:06:34 2018	Phil Swift (STEAM_0:0:114433345): // no whatcha talking about
+Mon Oct 22 23:06:36 2018	Tier (STEAM_0:1:33589770): yes
+Mon Oct 22 23:06:38 2018	Tier (STEAM_0:1:33589770): Sallery
+Mon Oct 22 23:06:39 2018	FloodTamer (STEAM_0:1:32753103) spawned
+Mon Oct 22 23:06:40 2018	Phil Swift (STEAM_0:0:114433345): // this is flex tape rp
+Mon Oct 22 23:06:41 2018	Tier (STEAM_0:1:33589770): and friends
+Mon Oct 22 23:06:44 2018	damion Richardson (STEAM_0:1:155725835): /advert ok
+Mon Oct 22 23:06:45 2018	John Leguizamo (STEAM_0:1:61331422) disconnected
+Mon Oct 22 23:06:46 2018	Spooky Simon (STEAM_0:1:84422693): /advert drop 400 or die
+Mon Oct 22 23:06:47 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): /radio Shouldn't we um try to contain the scps?
+Mon Oct 22 23:06:48 2018	Jeep™ (STEAM_0:0:77324839): wrong helmet
+Mon Oct 22 23:06:49 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /pm max ey max ya busy if neh then come over
+Mon Oct 22 23:06:50 2018	jazton (STEAM_0:0:121187671): // probably shouldn't have asked oh boy
+Mon Oct 22 23:06:57 2018	Spooky Simon was killed by FloodTamer with a cw_deagle
+Mon Oct 22 23:06:57 2018	Coral But Faggot (STEAM_0:0:197000190): /comms nah
+Mon Oct 22 23:06:58 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:07:00 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:07:07 2018	Kilroy (STEAM_0:0:138507625): /advert MAX IS A FAGGOT
+Mon Oct 22 23:07:09 2018	Bob Saget (STEAM_0:0:53375381): /ooc We reached a quarter of a million subsribers
+Mon Oct 22 23:07:10 2018	Tier (STEAM_0:1:33589770): Sakura
+Mon Oct 22 23:07:11 2018	Phil Swift (STEAM_0:0:114433345): /advert Plant Director Max wanna some vbucks?
+Mon Oct 22 23:07:12 2018	damion Richardson (STEAM_0:1:155725835) spawned
+Mon Oct 22 23:07:14 2018	Tier (STEAM_0:1:33589770): here
+Mon Oct 22 23:07:17 2018	Jeep™ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:07:19 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Mon Oct 22 23:07:21 2018	jazton (STEAM_0:0:121187671): // the fact that we reached this number is amazing
+Mon Oct 22 23:07:22 2018	Ass Eater 9000 was killed by Max with a cw_deagle
+Mon Oct 22 23:07:26 2018	Tier (STEAM_0:1:33589770): /chegue sakura 1500
+Mon Oct 22 23:07:28 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Mon Oct 22 23:07:32 2018	Tier (STEAM_0:1:33589770): /cheque salura 1500
+Mon Oct 22 23:07:36 2018	Tier (STEAM_0:1:33589770): you lsot some money from my casio
+Mon Oct 22 23:07:37 2018	damion Richardson (STEAM_0:1:155725835): /advert max i'm coming
+Mon Oct 22 23:07:40 2018	Tier (STEAM_0:1:33589770): /cheque sakura 1500
+Mon Oct 22 23:07:41 2018	Kilroy was killed by Coral But Faggot with a fas2_machete
+Mon Oct 22 23:07:42 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 22 23:07:43 2018	Harold Jenkins was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:07:44 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:07:51 2018	Spooky Simon was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:07:51 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc DONT DISRESPECT PYROCI.....
+Mon Oct 22 23:07:53 2018	Tier (STEAM_0:1:33589770): that casino
+Mon Oct 22 23:07:53 2018	Jeep™ (STEAM_0:0:77324839) disconnected
+Mon Oct 22 23:07:54 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:07:56 2018	Tier (STEAM_0:1:33589770): has made me like 30k
+Mon Oct 22 23:07:58 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:08:04 2018	Phil Swift (STEAM_0:0:114433345): // jameskii is way more cooler
+Mon Oct 22 23:08:10 2018	Spooky Simon was killed by Aaron with a cw_fiveseven
+Mon Oct 22 23:08:13 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:08:13 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): /ooc neh i hate furries
+Mon Oct 22 23:08:22 2018	Tier (STEAM_0:1:33589770): Bob
+Mon Oct 22 23:08:24 2018	damion Richardson (STEAM_0:1:155725835): // no zuthar13 is best
+Mon Oct 22 23:08:25 2018	Tier (STEAM_0:1:33589770): make a user to a seat
+Mon Oct 22 23:08:29 2018	I Like Futa was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:08:29 2018	jazton (STEAM_0:0:121187671): // but youtube doesn't prank pyro as much as jameskii
+Mon Oct 22 23:08:32 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 23:08:33 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:08:34 2018	Tier (STEAM_0:1:33589770): bob
+Mon Oct 22 23:08:34 2018	Max was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:08:36 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:08:39 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724): no GENERICYOURUBER is better
+Mon Oct 22 23:08:40 2018	I Like Futa (STEAM_0:1:109705991): // get me out plz
+Mon Oct 22 23:08:41 2018	Phil Swift (STEAM_0:0:114433345): // no jimmy neutron's dad is the best youtuber whatcha talking about
+Mon Oct 22 23:08:43 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert Come on down to the diner at spawn to get your pizza
+Mon Oct 22 23:08:44 2018	Phil Swift (STEAM_0:0:114433345): /name Fortnite
+Mon Oct 22 23:08:48 2018	Harold Jenkins (STEAM_0:0:78643179): // Hitler's youtube channel is the best you fucking mongrols
+Mon Oct 22 23:08:51 2018	Nid_Flindirz (STEAM_0:1:76037270) has joined the game
+Mon Oct 22 23:08:51 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Mon Oct 22 23:08:51 2018	Harold Jenkins (STEAM_0:0:78643179): // JK
+Mon Oct 22 23:09:09 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert need janitor at diner
+Mon Oct 22 23:09:10 2018	Lysander Valerius was killed by Harold Jenkins with a weapon_l4d2_frying_pan
+Mon Oct 22 23:09:11 2018	Fortnite (STEAM_0:0:114433345): // oh fuck
+Mon Oct 22 23:09:12 2018	Harold Jenkins (STEAM_0:0:78643179): SHIT
+Mon Oct 22 23:09:13 2018	canaryinacoalmine (STEAM_0:1:158899771) has joined the game
+Mon Oct 22 23:09:13 2018	canaryinacoalmine (STEAM_0:1:158899771) spawned
+Mon Oct 22 23:09:15 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert somone made a poo poo
+Mon Oct 22 23:09:15 2018	I Like Futa (STEAM_0:1:109705991): // get me out plz
+Mon Oct 22 23:09:17 2018	Harold Jenkins (STEAM_0:0:78643179): FUCK
+Mon Oct 22 23:09:19 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 23:09:20 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:09:25 2018	Spooky Simon (STEAM_0:1:84422693): /poop
+Mon Oct 22 23:09:25 2018	Tier (STEAM_0:1:33589770): /y Ill be bodyguard
+Mon Oct 22 23:09:28 2018	Really Really Smart Guinea Pig was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 22 23:09:29 2018	Tier (STEAM_0:1:33589770): I work for free
+Mon Oct 22 23:09:31 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239) spawned
+Mon Oct 22 23:09:34 2018	Spooky Simon (STEAM_0:1:84422693): /me shits on floor
+Mon Oct 22 23:09:34 2018	Fortnite (STEAM_0:0:114433345): // want 25k vbucks for free?
+Mon Oct 22 23:09:40 2018	Spooky Simon (STEAM_0:1:84422693): bitch
+Mon Oct 22 23:09:43 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:09:44 2018	I Like Futa (STEAM_0:1:109705991): // why tf is Aaron plant Director
+Mon Oct 22 23:09:47 2018	Spooky Simon (STEAM_0:1:84422693): /me shits on floor
+Mon Oct 22 23:09:56 2018	Max (STEAM_0:0:169248915) spawned
+Mon Oct 22 23:09:59 2018	Max (STEAM_0:0:169248915): !goto futa
+Mon Oct 22 23:10:02 2018	Spooky Simon (STEAM_0:1:84422693): i shot your guitar
+Mon Oct 22 23:10:03 2018	damion Richardson (STEAM_0:1:155725835): // is max alive
+Mon Oct 22 23:10:03 2018	Fortnite (STEAM_0:0:114433345): /name Phil Swift
+Mon Oct 22 23:10:11 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert THE CORE IS FILLED WITH SCPS
+Mon Oct 22 23:10:12 2018	Spooky Simon (STEAM_0:1:84422693): THIS ISNT PUBLIC
+Mon Oct 22 23:10:14 2018	Spooky Simon (STEAM_0:1:84422693): I MADE THSI
+Mon Oct 22 23:10:18 2018	Harold Jenkins was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:10:22 2018	Harold Jenkins (STEAM_0:0:78643179): // im sad now ;c
+Mon Oct 22 23:10:22 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:10:22 2018	Spooky Simon (STEAM_0:1:84422693): Show me a link to it
+Mon Oct 22 23:10:30 2018	damion Richardson (STEAM_0:1:155725835): /radio max are you ok
+Mon Oct 22 23:10:33 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:10:41 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) disconnected
+Mon Oct 22 23:10:43 2018	Max (STEAM_0:0:169248915): // Yeah just talking to my old friend fut
+Mon Oct 22 23:10:45 2018	Phil Swift (STEAM_0:0:114433345): /advert Hey what's up flex fans we are gonna check out the core its awesome
+Mon Oct 22 23:10:48 2018	Spooky Simon (STEAM_0:1:84422693): /advert raid
+Mon Oct 22 23:10:51 2018	Spooky Simon was killed by Tier with a cw_deagle
+Mon Oct 22 23:10:52 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:10:54 2018	Spooky Simon (STEAM_0:1:84422693): /advert over
+Mon Oct 22 23:11:03 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:11:05 2018	damion Richardson (STEAM_0:1:155725835): /radio you ESCAPED!
+Mon Oct 22 23:11:05 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:11:10 2018	Aaron (STEAM_0:1:184775407): // raid failed you mean
+Mon Oct 22 23:11:13 2018	Harold Jenkins (STEAM_0:0:78643179): Hello
+Mon Oct 22 23:11:15 2018	Phil Swift (STEAM_0:0:114433345): /Advert WHAT
+Mon Oct 22 23:11:17 2018	Tier (STEAM_0:1:33589770): // Congradulations IM pretty sure you were the first to raide here spooky to bad it fialed
+Mon Oct 22 23:11:18 2018	Spooky Simon (STEAM_0:1:84422693): // over and failed are the same
+Mon Oct 22 23:11:18 2018	Tier (STEAM_0:1:33589770): // failed
+Mon Oct 22 23:11:19 2018	Harold Jenkins (STEAM_0:0:78643179): I am a Corrupt worker
+Mon Oct 22 23:11:21 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert need security to do their jobs
+Mon Oct 22 23:11:25 2018	I Like Futa (STEAM_0:1:109705991): // LET ME OUT PLZ
+Mon Oct 22 23:11:25 2018	Harold Jenkins (STEAM_0:0:78643179): Much like modern day Politicians
+Mon Oct 22 23:11:27 2018	damion Richardson (STEAM_0:1:155725835): // back to my vault
+Mon Oct 22 23:11:27 2018	damion Richardson (STEAM_0:1:155725835) spawned
+Mon Oct 22 23:11:28 2018	Harold Jenkins (STEAM_0:0:78643179): JK
+Mon Oct 22 23:11:34 2018	Harold Jenkins (STEAM_0:0:78643179): I just wanted to make that joke sorry
+Mon Oct 22 23:11:39 2018	Tier (STEAM_0:1:33589770): dude
+Mon Oct 22 23:11:41 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Mon Oct 22 23:11:42 2018	Phil Swift (STEAM_0:0:114433345): /Y LET ME IN
+Mon Oct 22 23:11:46 2018	Tier (STEAM_0:1:33589770): he tried to mug me
+Mon Oct 22 23:11:47 2018	I Like Futa (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 23:11:50 2018	Tier (STEAM_0:1:33589770): because I didnt give him my job
+Mon Oct 22 23:11:50 2018	I Like Futa (STEAM_0:1:109705991): /y HALT
+Mon Oct 22 23:11:51 2018	I Like Futa (STEAM_0:1:109705991): /y GROUP UP
+Mon Oct 22 23:11:55 2018	I Like Futa (STEAM_0:1:109705991): /y HALT
+Mon Oct 22 23:11:55 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:11:56 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:11:59 2018	I Like Futa (STEAM_0:1:109705991): /y GROUP UP
+Mon Oct 22 23:12:02 2018	I Like Futa (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 23:12:05 2018	Tier (STEAM_0:1:33589770): Bob
+Mon Oct 22 23:12:09 2018	Tier (STEAM_0:1:33589770): Set a user up to a seat
+Mon Oct 22 23:12:15 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:12:16 2018	Tier (STEAM_0:1:33589770): because you have 25 health and a one hit kill
+Mon Oct 22 23:12:25 2018	Tier (STEAM_0:1:33589770): Hes gonna raid and your gonna suffer more from it
+Mon Oct 22 23:12:26 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:12:29 2018	damion Richardson (STEAM_0:1:155725835): /radio are scp's conatined
+Mon Oct 22 23:12:30 2018	Tier (STEAM_0:1:33589770): if you die
+Mon Oct 22 23:12:32 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Mon Oct 22 23:12:34 2018	I Like Futa (STEAM_0:1:109705991): // sadly
+Mon Oct 22 23:12:34 2018	Aaron (STEAM_0:1:184775407): // yes
+Mon Oct 22 23:12:35 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:12:36 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:12:43 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): /g hi
+Mon Oct 22 23:12:43 2018	Max (STEAM_0:0:169248915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:12:54 2018	Kilroy (STEAM_0:0:138507625): /dropmoney 8000
+Mon Oct 22 23:12:55 2018	Kilroy (STEAM_0:0:138507625) has dropped $8,000
+Mon Oct 22 23:12:59 2018	Spooky Simon was killed by Nid_Flindirz with a weapon_hlof_pipewrench
+Mon Oct 22 23:13:00 2018	Phil Swift (STEAM_0:0:114433345): /advert i want a pizza with flex tape plz
+Mon Oct 22 23:13:00 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert And that's one SCP down the drain!
+Mon Oct 22 23:13:01 2018	Harold Jenkins (STEAM_0:0:78643179): Take me on a ride
+Mon Oct 22 23:13:03 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:13:03 2018	damion Richardson (STEAM_0:1:155725835): /advert vault closed everyone out
+Mon Oct 22 23:13:10 2018	Kilroy (STEAM_0:0:138507625): I took your money
+Mon Oct 22 23:13:14 2018	I Like Futa (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 23:13:15 2018	I Like Futa (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 23:13:16 2018	Aaron (STEAM_0:1:184775407) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:13:17 2018	I Like Futa (STEAM_0:1:109705991): /y HALT
+Mon Oct 22 23:13:17 2018	Aaron (STEAM_0:1:184775407) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:13:21 2018	I Like Futa (STEAM_0:1:109705991): /y GROUP UP
+Mon Oct 22 23:13:22 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:13:23 2018	I Like Futa (STEAM_0:1:109705991): /y HALT
+Mon Oct 22 23:13:23 2018	Phil Swift was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:13:25 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 23:13:35 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): ok
+Mon Oct 22 23:13:56 2018	damion Richardson (STEAM_0:1:155725835): use desk
+Mon Oct 22 23:13:56 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) has joined the game
+Mon Oct 22 23:13:56 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 23:14:01 2018	I Like Futa (STEAM_0:1:109705991) spawned
+Mon Oct 22 23:14:12 2018	I Like Futa (STEAM_0:1:109705991): /y MOVE OUT
+Mon Oct 22 23:14:20 2018	I Like Futa (STEAM_0:1:109705991): // LET ME OUTUUUTUTUTUTUTUTUT PLZZZZZZZZ
+Mon Oct 22 23:14:21 2018	Harold Jenkins (STEAM_0:0:78643179): Hey
+Mon Oct 22 23:14:23 2018	damion Richardson (STEAM_0:1:155725835): it failed
+Mon Oct 22 23:14:27 2018	Aaron (STEAM_0:1:184775407) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:14:28 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 23:14:29 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 23:14:39 2018	Harold Jenkins (STEAM_0:0:78643179): WAIT
+Mon Oct 22 23:14:42 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert 3431 IS STILL AFTER MY ASS
+Mon Oct 22 23:14:45 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 23:14:47 2018	Harold Jenkins (STEAM_0:0:78643179): /y I just wanted to ask
+Mon Oct 22 23:14:48 2018	Max (STEAM_0:0:169248915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:14:53 2018	Harold Jenkins (STEAM_0:0:78643179): If you wanted to place a hit
+Mon Oct 22 23:14:56 2018	Pirate Raider (STEAM_0:1:116056055): /advert nope I lost you
+Mon Oct 22 23:14:57 2018	Harold Jenkins (STEAM_0:0:78643179): If you wanted to place a hit
+Mon Oct 22 23:14:59 2018	Phil Swift (STEAM_0:0:114433345): hey wanna see a cool trick
+Mon Oct 22 23:15:00 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert AND ALL THE LASERS ARE ON AT THE CORE
+Mon Oct 22 23:15:10 2018	Phil Swift was killed by Nid_Flindirz with a weapon_hlof_pipewrench
+Mon Oct 22 23:15:11 2018	Busta-Bug (STEAM_0:1:419563430): // Someone let me out please
+Mon Oct 22 23:15:12 2018	Phil Swift (STEAM_0:0:114433345) spawned
+Mon Oct 22 23:15:16 2018	Spooky Simon (STEAM_0:1:84422693): /advert mug 100
+Mon Oct 22 23:15:17 2018	Harold Jenkins (STEAM_0:0:78643179): Wait
+Mon Oct 22 23:15:17 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 23:15:18 2018	Nid_Flindirz was killed by Phil Swift with a weapon_hlof_pipewrench
+Mon Oct 22 23:15:20 2018	UNI aka 76561198119439177 (STEAM_0:1:79586724) spawned
+Mon Oct 22 23:15:22 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Mon Oct 22 23:15:22 2018	Harold Jenkins was killed by Spooky Simon with a cw_deagle
+Mon Oct 22 23:15:22 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:15:23 2018	damion Richardson (STEAM_0:1:155725835): /advert SHIT THEY ARE LOOSE TO THE VaULT
+Mon Oct 22 23:15:24 2018	Harold Jenkins (STEAM_0:0:78643179): Fuck
+Mon Oct 22 23:15:25 2018	Harold Jenkins (STEAM_0:0:78643179) spawned
+Mon Oct 22 23:15:26 2018	Busta-Bug (STEAM_0:1:419563430): // im 049
+Mon Oct 22 23:15:27 2018	Pirate Raider was killed by FloodTamer with a cw_deagle
+Mon Oct 22 23:15:29 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Mon Oct 22 23:15:29 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:15:31 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:15:33 2018	Nid_Flindirz was killed by Aaron with a weapon_hlof_pipewrench
+Mon Oct 22 23:15:34 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Mon Oct 22 23:15:35 2018	Max (STEAM_0:0:169248915): !warn Aaron RDM
+Mon Oct 22 23:15:36 2018	I Like Futa (STEAM_0:1:109705991): // LET ME OUT
+Mon Oct 22 23:15:36 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): ok
+Mon Oct 22 23:15:38 2018	Pirate Raider (STEAM_0:1:116056055): // lemme out
+Mon Oct 22 23:15:41 2018	Harold Jenkins (STEAM_0:0:78643179): Cancer
+Mon Oct 22 23:15:43 2018	Sakura (Wendell) (STEAM_0:1:52615420): // no
+Mon Oct 22 23:15:44 2018	Coral But Faggot (STEAM_0:0:197000190): // Max should commit neck rope
+Mon Oct 22 23:15:49 2018	damion Richardson (STEAM_0:1:155725835): /advert nvm
+Mon Oct 22 23:15:55 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 23:15:58 2018	Harold Jenkins (STEAM_0:0:78643179): No
+Mon Oct 22 23:15:59 2018	damion Richardson (STEAM_0:1:155725835): /job overseer
+Mon Oct 22 23:16:08 2018	Harold Jenkins (STEAM_0:0:78643179): Wanna 1v1?
+Mon Oct 22 23:16:11 2018	Pirate Raider (STEAM_0:1:116056055): // lemme out
+Mon Oct 22 23:16:11 2018	Max (STEAM_0:0:169248915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:16:11 2018	damion Richardson (STEAM_0:1:155725835): /drop 350
+Mon Oct 22 23:16:12 2018	Harold Jenkins (STEAM_0:0:78643179): Fine
+Mon Oct 22 23:16:14 2018	Ass Eater 9000 (STEAM_0:1:47616133): @ I'm stuck :P
+Mon Oct 22 23:16:16 2018	Harold Jenkins (STEAM_0:0:78643179): Me too
+Mon Oct 22 23:16:17 2018	Aaron (STEAM_0:1:184775407): !warns
+Mon Oct 22 23:16:17 2018	I Like Futa (STEAM_0:1:109705991): // LET ME OUT
+Mon Oct 22 23:16:19 2018	Harold Jenkins (STEAM_0:0:78643179): Wanna do it together?
+Mon Oct 22 23:16:21 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 23:16:23 2018	damion Richardson (STEAM_0:1:155725835): /dropmoney 350
+Mon Oct 22 23:16:24 2018	damion Richardson (STEAM_0:1:155725835) has dropped $350
+Mon Oct 22 23:16:29 2018	Max (STEAM_0:0:169248915): !birng 900
+Mon Oct 22 23:16:33 2018	Max (STEAM_0:0:169248915): !bring 9000
+Mon Oct 22 23:16:33 2018	Liddle (STEAM_0:0:80547539) has joined the game
+Mon Oct 22 23:16:33 2018	Liddle (STEAM_0:0:80547539) spawned
+Mon Oct 22 23:16:47 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 23:16:55 2018	Max (STEAM_0:0:169248915): !warn aaron ARDM
+Mon Oct 22 23:16:56 2018	Aaron (STEAM_0:1:184775407) disconnected
+Mon Oct 22 23:17:05 2018	Tier was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:17:06 2018	Tier (STEAM_0:1:33589770) spawned
+Mon Oct 22 23:17:08 2018	Max (STEAM_0:0:169248915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:17:10 2018	Ass Eater 9000 was killed by FloodTamer with a cw_deagle
+Mon Oct 22 23:17:21 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Mon Oct 22 23:17:23 2018	Max (STEAM_0:0:169248915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:17:29 2018	Sakura (Wendell) (STEAM_0:1:52615420): /advert come to the diner in spawn bois
+Mon Oct 22 23:17:36 2018	Really Really Smart Guinea Pig (STEAM_0:1:41205239): yea
+Mon Oct 22 23:17:37 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:17:51 2018	Pirate Raider (STEAM_0:1:116056055): // dont put lamp in my cell
+Mon Oct 22 23:18:03 2018	Harold Jenkins (STEAM_0:0:78643179): Flood
+Mon Oct 22 23:18:07 2018	Sakura (Wendell) (STEAM_0:1:52615420) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:18:08 2018	Harold Jenkins (STEAM_0:0:78643179): Wanna place a hit?
+Mon Oct 22 23:18:14 2018	damion Richardson (STEAM_0:1:155725835) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:18:14 2018	Harold Jenkins (STEAM_0:0:78643179): Yeah
+Mon Oct 22 23:18:15 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct 22 23:18:15 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 23:18:16 2018	damion Richardson (STEAM_0:1:155725835) spawned Vehicle prop_vehicle_jeep
+Mon Oct 22 23:18:18 2018	damion Richardson (STEAM_0:1:155725835) spawned Vehicle prop_vehicle_airboat
+Mon Oct 22 23:18:20 2018	Tier (STEAM_0:1:33589770): max
+Mon Oct 22 23:18:21 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:18:24 2018	Tier (STEAM_0:1:33589770): spawn it back in
+Mon Oct 22 23:18:28 2018	damion Richardson (STEAM_0:1:155725835) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 23:18:29 2018	Tier (STEAM_0:1:33589770): I will show you how to fix
+Mon Oct 22 23:18:33 2018	Busta-Bug was killed by FloodTamer with a cw_deagle
+Mon Oct 22 23:18:34 2018	Busta-Bug (STEAM_0:1:419563430) spawned
+Mon Oct 22 23:18:37 2018	Tier (STEAM_0:1:33589770): nvm
+Mon Oct 22 23:18:38 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:18:39 2018	Rabbi Ryan (STEAM_0:1:71837740) has joined the game
+Mon Oct 22 23:18:39 2018	Rabbi Ryan (STEAM_0:1:71837740) spawned
+Mon Oct 22 23:18:41 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:18:41 2018	jazton (STEAM_0:0:121187671): 
+Mon Oct 22 23:18:43 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 22 23:18:44 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Mon Oct 22 23:18:47 2018	Aaron (STEAM_0:1:184775407) spawned
+Mon Oct 22 23:19:07 2018	Aaron (STEAM_0:1:184775407): // that is not

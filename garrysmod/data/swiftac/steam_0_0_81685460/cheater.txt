@@ -1,0 +1,2 @@
+Sun Oct 21 01:52:09 2018 - Nick: Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] | IP: 97.115.199.27 | SteamID: STEAM_0:0:81685460.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

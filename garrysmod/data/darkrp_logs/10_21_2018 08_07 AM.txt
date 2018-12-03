@@ -1,0 +1,54 @@
+Sun Oct 21 08:07:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 21 08:07:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 21 08:12:13 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct 21 08:12:13 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct 21 08:19:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sun Oct 21 08:34:34 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Sun Oct 21 08:34:34 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 21 08:38:58 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 21 08:40:01 2018	nzeagle1 (STEAM_0:0:90648133) has joined the game
+Sun Oct 21 08:40:01 2018	nzeagle1 (STEAM_0:0:90648133) spawned
+Sun Oct 21 08:40:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so guys
+Sun Oct 21 08:40:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // the time-based whitelist is now done
+Sun Oct 21 08:41:03 2018	Jeroma (STEAM_0:0:121143569): // Noice
+Sun Oct 21 08:41:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and enforcement will start automatically on the next restart
+Sun Oct 21 08:41:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // thats the level bar above
+Sun Oct 21 08:41:29 2018	Jeroma (STEAM_0:0:121143569): // How much time does it take to bcome Head of security?
+Sun Oct 21 08:41:34 2018	nzeagle1 (STEAM_0:0:90648133) spawned
+Sun Oct 21 08:41:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so after spending most of my day on the server I am level 12
+Sun Oct 21 08:41:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // HOS requires 10 rn
+Sun Oct 21 08:42:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // but you can be the lower jobs
+Sun Oct 21 08:42:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // trainee is 4
+Sun Oct 21 08:42:07 2018	Jeroma (STEAM_0:0:121143569): // And Head of swat?
+Sun Oct 21 08:42:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // head of SWAT is a more powerful job, so HOSWAT requires lvl 12
+Sun Oct 21 08:42:32 2018	Jeroma (STEAM_0:0:121143569): // Thank you
+Sun Oct 21 08:42:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and the trainee level requirement is higher
+Sun Oct 21 08:42:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // all level values subject to change
+Sun Oct 21 08:43:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // as we iron out the anti-minge update
+Sun Oct 21 08:43:10 2018	nzeagle1 was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 08:43:12 2018	nzeagle1 (STEAM_0:0:90648133) spawned
+Sun Oct 21 08:43:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // only thing left to the anti-minge update is a map update, coming next weekend hopefully
+Sun Oct 21 08:43:36 2018	Jeroma (STEAM_0:0:121143569): // Noice
+Sun Oct 21 08:45:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // is it ok if I restart?
+Sun Oct 21 08:45:11 2018	Aniki (STEAM_0:1:67307965) has joined the game
+Sun Oct 21 08:45:11 2018	Aniki (STEAM_0:1:67307965) spawned
+Sun Oct 21 08:45:15 2018	Jeroma (STEAM_0:0:121143569): // Ye
+Sun Oct 21 08:45:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // alright, thanks
+Sun Oct 21 08:45:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // dupe your stuff if you need too, ill be doing something for a few mins first
+Sun Oct 21 08:45:59 2018	nzeagle1 (STEAM_0:0:90648133): /name Phil
+Sun Oct 21 08:46:12 2018	nzeagle1 (STEAM_0:0:90648133): /name Phill
+Sun Oct 21 08:46:37 2018	Jeroma was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct 21 08:46:38 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 21 08:49:51 2018	Jeroma (STEAM_0:0:121143569): !motd
+Sun Oct 21 08:50:48 2018	Atomic (STEAM_0:0:145671660) has joined the game
+Sun Oct 21 08:50:48 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Sun Oct 21 08:51:15 2018	Aniki (STEAM_0:1:67307965) spawned
+Sun Oct 21 08:54:34 2018	Phill was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct 21 08:54:36 2018	Phill (STEAM_0:0:90648133) spawned
+Sun Oct 21 08:55:42 2018	Jeroma (STEAM_0:0:121143569): Sir please out
+Sun Oct 21 08:55:44 2018	Jeroma (STEAM_0:0:121143569): Get out
+Sun Oct 21 08:56:10 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Sun Oct 21 08:56:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // prepare for restart to apply the Anti-Minge Update - Part 2
+Sun Oct 21 08:56:36 2018	Andrew Blackery (STEAM_0:0:145671660): // Alright.
+Sun Oct 21 08:56:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // last restart of the night
+Sun Oct 21 08:56:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // dupe your shit, restarting in 15 seconds

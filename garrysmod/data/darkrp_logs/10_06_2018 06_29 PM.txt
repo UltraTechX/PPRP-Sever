@@ -1,0 +1,428 @@
+Sat Oct  6 18:29:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 18:29:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:29:44 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct  6 18:29:44 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 18:30:20 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 18:30:47 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct  6 18:30:47 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 18:32:36 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 18:32:42 2018	Dinky Winks (STEAM_0:0:56680165) has joined the game
+Sat Oct  6 18:32:42 2018	Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 18:32:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // can you fix Creature spawns now?
+Sat Oct  6 18:32:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Sat Oct  6 18:33:07 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): bye
+Sat Oct  6 18:33:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc just vote me in to this job so i can check spawns per job
+Sat Oct  6 18:34:10 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): everyone spawns at parking lot
+Sat Oct  6 18:34:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:34:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn director
+Sat Oct  6 18:34:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TEAM_DIRECTOR
+Sat Oct  6 18:35:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn DIRECTOR
+Sat Oct  6 18:35:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:35:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok it seems ppl are figuring it out
+Sat Oct  6 18:36:02 2018	TheBigMeech (STEAM_0:0:225558851) has joined the game
+Sat Oct  6 18:36:02 2018	TheBigMeech (STEAM_0:0:225558851) spawned
+Sat Oct  6 18:36:04 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // yeah announcements can be heard far away in the sand place
+Sat Oct  6 18:36:10 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct  6 18:36:10 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:37:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:38:27 2018	Dinky Winks (STEAM_0:0:56680165) disconnected
+Sat Oct  6 18:39:48 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Sat Oct  6 18:39:48 2018	Wolves Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 18:40:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:40:08 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:40:17 2018	TheBigMeech was killed by Adam Klein with a eoti_raven_swep
+Sat Oct  6 18:40:28 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Why is the: You have been cursed into becoming a feathery monster of the forest. GLobal?
+Sat Oct  6 18:40:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc uh idk i need to fix that
+Sat Oct  6 18:40:48 2018	TheBigMeech (STEAM_0:0:225558851) spawned
+Sat Oct  6 18:40:53 2018	Valien (STEAM_0:1:41660292): // I have been cursed apparently lmao
+Sat Oct  6 18:41:11 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:41:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:41:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:41:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto ly
+Sat Oct  6 18:41:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto luk
+Sat Oct  6 18:41:51 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:42:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:42:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:42:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:42:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADTERRORIST
+Sat Oct  6 18:42:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTGRUNT
+Sat Oct  6 18:43:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTSOLDIER
+Sat Oct  6 18:43:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORIST
+Sat Oct  6 18:43:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTCHEF
+Sat Oct  6 18:43:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTJUGGERNAUT
+Sat Oct  6 18:43:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTMEDIC
+Sat Oct  6 18:43:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTSNIPER
+Sat Oct  6 18:43:57 2018	Wolves Mercy (STEAM_0:0:86025114): d
+Sat Oct  6 18:44:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTTRAINEE
+Sat Oct  6 18:44:05 2018	Wolves Mercy (STEAM_0:0:86025114): /rpname Adam Soal
+Sat Oct  6 18:44:09 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:44:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:44:10 2018	Adam Soal (STEAM_0:0:86025114): // How has it been guys?
+Sat Oct  6 18:44:17 2018	Valien (STEAM_0:1:41660292): // Lit
+Sat Oct  6 18:44:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc alright, you?
+Sat Oct  6 18:44:33 2018	Valien (STEAM_0:1:41660292): /nick Emmett Pyke
+Sat Oct  6 18:44:35 2018	Adam Soal (STEAM_0:0:86025114): // Doing ok. Been on and off gmod for the past few months
+Sat Oct  6 18:44:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i see
+Sat Oct  6 18:44:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc well im glad youre back
+Sat Oct  6 18:44:59 2018	Adam Soal (STEAM_0:0:86025114) spawned
+Sat Oct  6 18:45:00 2018	Adam Soal (STEAM_0:0:86025114): // Yeah. 
+Sat Oct  6 18:45:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITY
+Sat Oct  6 18:45:17 2018	Adam Soal (STEAM_0:0:86025114): // I have noticed that I spawn at visitor spawn
+Sat Oct  6 18:45:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYTRAINEE
+Sat Oct  6 18:45:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah im working on it, issues from transferring from a local server to crident on ridiculously short noice
+Sat Oct  6 18:46:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its a story
+Sat Oct  6 18:46:07 2018	Adam Soal (STEAM_0:0:86025114): // Ah ok
+Sat Oct  6 18:46:10 2018	Adam Soal (STEAM_0:0:86025114) spawned
+Sat Oct  6 18:46:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYMEDIC
+Sat Oct  6 18:46:17 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm fat Are you going to add a tp back to Earth from the sand place?
+Sat Oct  6 18:46:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADSECURITY
+Sat Oct  6 18:46:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i could work on that, some kind of trigger given to you when you enter the portal
+Sat Oct  6 18:47:04 2018	Adam Klein was killed by Entity [2889][func_rotating] with a func_rotating
+Sat Oct  6 18:47:09 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:47:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYPERSONELL
+Sat Oct  6 18:47:13 2018	Adam Soal (STEAM_0:0:86025114): // Woah. Map been updated a bit from the last time I was on
+Sat Oct  6 18:47:16 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm fat I meant a second portal back
+Sat Oct  6 18:47:16 2018	Emmett Pyke (STEAM_0:1:41660292): // big rip
+Sat Oct  6 18:47:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYPERSONELL
+Sat Oct  6 18:47:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYTRAINEE
+Sat Oct  6 18:47:28 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:47:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Sat Oct  6 18:47:44 2018	Adam Soal (STEAM_0:0:86025114): // Oh God. I remember that.
+Sat Oct  6 18:47:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CORESECURITY
+Sat Oct  6 18:47:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Nice voice acting
+Sat Oct  6 18:47:52 2018	Emmett Pyke (STEAM_0:1:41660292): // thanks
+Sat Oct  6 18:47:52 2018	Adam Soal (STEAM_0:0:86025114): // Its always pizza day!
+Sat Oct  6 18:48:09 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:48:23 2018	Adam Soal (STEAM_0:0:86025114): /rpname John Mercy
+Sat Oct  6 18:48:33 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 18:48:37 2018	John Mercy (STEAM_0:0:86025114): // So wait
+Sat Oct  6 18:48:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYPERSONNEL
+Sat Oct  6 18:48:48 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:48:50 2018	John Mercy (STEAM_0:0:86025114): // Security trainee and Security Personel?
+Sat Oct  6 18:48:50 2018	Emmett Pyke (STEAM_0:1:41660292): 
+Sat Oct  6 18:49:25 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm fat can you add a health charger to the sand place? For the crabs
+Sat Oct  6 18:50:07 2018	Emmett Pyke (STEAM_0:1:41660292): // Ultra set the keybind
+Sat Oct  6 18:50:41 2018	TheBigMeech (STEAM_0:0:225558851) disconnected
+Sat Oct  6 18:52:17 2018	Dinky Winks (STEAM_0:0:56680165) has joined the game
+Sat Oct  6 18:52:17 2018	Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 18:52:20 2018	Emmett Pyke (STEAM_0:1:41660292): !goto adam
+Sat Oct  6 18:53:31 2018	John Mercy (STEAM_0:0:86025114): // Im keeping the security code in mind. Even if not in use atm
+Sat Oct  6 18:53:43 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // it can be used for emergency coolant
+Sat Oct  6 18:53:55 2018	John Mercy (STEAM_0:0:86025114): // So it was finally added?
+Sat Oct  6 18:54:06 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // idk but there is a keypad
+Sat Oct  6 18:54:12 2018	Nosey (STEAM_0:0:139498605) has joined the game
+Sat Oct  6 18:54:12 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 18:54:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc e coolant works yea
+Sat Oct  6 18:54:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc just noone has been able to use it yet
+Sat Oct  6 18:54:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc generator has to be on before the initial explosion that knocks out the power
+Sat Oct  6 18:54:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and you need to remember the code said about every 10 mins over the intercom
+Sat Oct  6 18:55:01 2018	John Mercy (STEAM_0:0:86025114): // It changes?
+Sat Oct  6 18:55:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no
+Sat Oct  6 18:55:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ACTIVITYCOORD
+Sat Oct  6 18:56:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CHEF
+Sat Oct  6 18:56:11 2018	John Mercy (STEAM_0:0:86025114): // Red lights mean on or off?
+Sat Oct  6 18:56:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc on
+Sat Oct  6 18:56:19 2018	John Mercy (STEAM_0:0:86025114): // Ok
+Sat Oct  6 18:56:24 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // but for portal it's the opposite
+Sat Oct  6 18:56:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn worker
+Sat Oct  6 18:56:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc red light on portal means its charged
+Sat Oct  6 18:56:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn WORKER
+Sat Oct  6 18:56:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CORRUPTWORKER
+Sat Oct  6 18:56:53 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 18:57:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn PROCORRUPTWORKER
+Sat Oct  6 18:57:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn JANITOR
+Sat Oct  6 18:57:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ENGINEER
+Sat Oct  6 18:57:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn INSPECTOR
+Sat Oct  6 18:58:00 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct  6 18:58:00 2018	John Mercy was killed by Adam Klein with a env_explosion
+Sat Oct  6 18:58:00 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 18:58:02 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 18:58:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TOURGUIDE
+Sat Oct  6 18:58:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn GUIDE
+Sat Oct  6 18:58:11 2018	John Mercy (STEAM_0:0:86025114): // I felt like I was doing 0 damage
+Sat Oct  6 18:58:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn JANITOR
+Sat Oct  6 18:58:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 18:59:26 2018	John Mercy (STEAM_0:0:86025114): // I think Im going to be sticking as security a lot.
+Sat Oct  6 18:59:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah lol
+Sat Oct  6 18:59:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc youre the only guy fighing the terrorist force right now
+Sat Oct  6 18:59:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im fixing spawns
+Sat Oct  6 18:59:53 2018	John Mercy (STEAM_0:0:86025114): // I mean I like defending, and I like bad odds
+Sat Oct  6 19:00:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc well good luck then!
+Sat Oct  6 19:00:11 2018	franco.ciarrapico (STEAM_0:1:188872981) has joined the game
+Sat Oct  6 19:00:11 2018	franco.ciarrapico (STEAM_0:1:188872981) spawned
+Sat Oct  6 19:00:14 2018	Emmett Pyke was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:00:14 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:00:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRMMEDIC
+Sat Oct  6 19:00:56 2018	John Mercy (STEAM_0:0:86025114): // Are those manhole cover things for the terrorist?
+Sat Oct  6 19:00:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNSPECIAL
+Sat Oct  6 19:01:06 2018	Emmett Pyke (STEAM_0:1:41660292): // Theyre for meth cookers
+Sat Oct  6 19:01:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its for meth
+Sat Oct  6 19:01:08 2018	Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 19:01:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNSPECIAL
+Sat Oct  6 19:01:16 2018	Nosey (STEAM_0:0:139498605): // My pizzas are made with rats just letting you know
+Sat Oct  6 19:01:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADCBRN
+Sat Oct  6 19:01:24 2018	Emmett Pyke (STEAM_0:1:41660292): // Forbidden 
+Sat Oct  6 19:01:25 2018	John Mercy (STEAM_0:0:86025114): // Quality rats?
+Sat Oct  6 19:01:28 2018	Nosey (STEAM_0:0:139498605): // You bet
+Sat Oct  6 19:01:35 2018	Nosey (STEAM_0:0:139498605): /name Chef Nosey
+Sat Oct  6 19:01:43 2018	Adam Klein was killed by Entity [526][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sat Oct  6 19:01:48 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:02:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADRESEARCHER
+Sat Oct  6 19:02:14 2018	Chef Nosey (STEAM_0:0:139498605): /me unzips pants
+Sat Oct  6 19:02:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn RESEARCHER
+Sat Oct  6 19:02:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn RESEARCHERTRAINEE
+Sat Oct  6 19:02:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPZOMBIE
+Sat Oct  6 19:02:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPRAVEN
+Sat Oct  6 19:03:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPFIRE
+Sat Oct  6 19:03:20 2018	Adam Klein was killed by John Mercy with a cw_mp5
+Sat Oct  6 19:03:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:03:32 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:03:38 2018	Dinky Winks (STEAM_0:0:56680165): /rpname Chez Dinky Winks
+Sat Oct  6 19:03:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPHEADCRAB
+Sat Oct  6 19:03:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc spawn are now fixed!
+Sat Oct  6 19:03:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc spawns*
+Sat Oct  6 19:04:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:04:24 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:04:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc time to take matters into my own hands and save the core!
+Sat Oct  6 19:04:46 2018	John Mercy (STEAM_0:0:86025114): // I have been little busy fighting a dead terrorist!
+Sat Oct  6 19:04:53 2018	Chef Nosey (STEAM_0:0:139498605): // I'll bring fries
+Sat Oct  6 19:04:59 2018	Chef Nosey (STEAM_0:0:139498605): /name Chef Nosey
+Sat Oct  6 19:05:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc we need a plant worker or engineer ASAP! None of us are trained to fix this!
+Sat Oct  6 19:05:13 2018	John Mercy (STEAM_0:0:86025114): // there are lights flashing and sirens going off. 50/50 chance we need to panic
+Sat Oct  6 19:05:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill stand by for guard
+Sat Oct  6 19:06:01 2018	Emmett Pyke (STEAM_0:1:41660292): /dropmoney 5
+Sat Oct  6 19:06:02 2018	Emmett Pyke (STEAM_0:1:41660292) has dropped $5
+Sat Oct  6 19:06:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Oct  6 19:06:53 2018	John Mercy (STEAM_0:0:86025114): // This is how I die.
+Sat Oct  6 19:07:09 2018	John Mercy (STEAM_0:0:86025114): // Like the end of Pandora
+Sat Oct  6 19:07:47 2018	John Mercy was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:07:50 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:07:57 2018	John Mercy (STEAM_0:0:86025114): // I got as far as I could. Bought some time
+Sat Oct  6 19:08:01 2018	Emmett Pyke (STEAM_0:1:41660292): /dropmoney 150
+Sat Oct  6 19:08:02 2018	Emmett Pyke (STEAM_0:1:41660292) has dropped $150
+Sat Oct  6 19:08:09 2018	Chef Nosey (STEAM_0:0:139498605): // HELL YEAH
+Sat Oct  6 19:08:16 2018	Chef Nosey (STEAM_0:0:139498605): // WYA
+Sat Oct  6 19:08:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 19:08:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:08:23 2018	Chef Nosey (STEAM_0:0:139498605): /advert WYA
+Sat Oct  6 19:08:28 2018	Emmett Pyke (STEAM_0:1:41660292): // They're on their way
+Sat Oct  6 19:08:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:08:43 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // How can the crabs eat?
+Sat Oct  6 19:08:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fuck
+Sat Oct  6 19:08:53 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // I am alone in the sand land
+Sat Oct  6 19:08:58 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // and getting hungrier
+Sat Oct  6 19:08:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc uh
+Sat Oct  6 19:09:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill look into that
+Sat Oct  6 19:09:04 2018	John Mercy (STEAM_0:0:86025114): // Maybe put plants there?
+Sat Oct  6 19:09:17 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Fat Gay be like: Introducing chef crabs!
+Sat Oct  6 19:09:34 2018	John Mercy (STEAM_0:0:86025114): // So when the reactor starts to melt, does to whole area start to break and get fires?
+Sat Oct  6 19:09:40 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // should
+Sat Oct  6 19:11:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc IM GOING IN
+Sat Oct  6 19:11:51 2018	Chez Dinky Winks (STEAM_0:0:56680165): /advert hey director man we have a delivery
+Sat Oct  6 19:11:57 2018	[Opi] Fat Gay was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:12:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:12:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:12:14 2018	Emmett Pyke (STEAM_0:1:41660292): !god
+Sat Oct  6 19:12:23 2018	Lukyn150 (CZ) was killed by Entity [2012][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:12:25 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:12:37 2018	Emmett Pyke (STEAM_0:1:41660292): !ungod
+Sat Oct  6 19:12:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:13:31 2018	Emmett Pyke (STEAM_0:1:41660292): !help
+Sat Oct  6 19:14:07 2018	Chef Nosey (STEAM_0:0:139498605): // We're cooking radiation pizza
+Sat Oct  6 19:14:14 2018	Emmett Pyke (STEAM_0:1:41660292): // mmmmmmm
+Sat Oct  6 19:14:27 2018	John Mercy was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 19:14:28 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Jobs simulator
+Sat Oct  6 19:14:28 2018	Chef Nosey (STEAM_0:0:139498605): // Using the core as a stove is the best
+Sat Oct  6 19:14:28 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:14:49 2018	Chez Dinky Winks was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:14:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:14:54 2018	Chez Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 19:14:55 2018	Chef Nosey was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:14:57 2018	Chef Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 19:14:58 2018	Emmett Pyke (STEAM_0:1:41660292): // Tip: yall can sit on the tram seats with Alt + E
+Sat Oct  6 19:14:59 2018	Chef Nosey (STEAM_0:0:139498605): // WE DID IT
+Sat Oct  6 19:15:39 2018	Chef Nosey (STEAM_0:0:139498605): // Your pizza is ready
+Sat Oct  6 19:15:40 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hi
+Sat Oct  6 19:15:54 2018	Chef Nosey (STEAM_0:0:139498605): // We have 3rd degree burns but it's ready
+Sat Oct  6 19:16:13 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Oh no
+Sat Oct  6 19:16:22 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // I got off the tram and really off the tram
+Sat Oct  6 19:16:27 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // stuck too
+Sat Oct  6 19:16:32 2018	Adam Klein was killed by [Opi] Fat Gay with a cw_scarh
+Sat Oct  6 19:16:35 2018	Emmett Pyke (STEAM_0:1:41660292): !goto Luk
+Sat Oct  6 19:16:37 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:16:51 2018	[Opi] Fat Gay was killed by Chez Dinky Winks with a weapon_l4d2_frying_pan
+Sat Oct  6 19:16:53 2018	Emmett Pyke (STEAM_0:1:41660292): !bring luk
+Sat Oct  6 19:16:55 2018	John Mercy (STEAM_0:0:86025114): // remember the zombie deal we did a few months ago?
+Sat Oct  6 19:17:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:17:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Sat Oct  6 19:17:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc that was a fun event
+Sat Oct  6 19:17:22 2018	Adam Klein (STEAM_0:1:116765028) disconnected
+Sat Oct  6 19:17:34 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): no
+Sat Oct  6 19:17:36 2018	Emmett Pyke (STEAM_0:1:41660292): // ADAM!
+Sat Oct  6 19:18:33 2018	Lukyn150 (CZ) was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:18:34 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:19:11 2018	John Mercy (STEAM_0:0:86025114): // When does it blow?
+Sat Oct  6 19:19:17 2018	Emmett Pyke (STEAM_0:1:41660292): // 5000K
+Sat Oct  6 19:19:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 5000
+Sat Oct  6 19:19:21 2018	John Mercy (STEAM_0:0:86025114): // ....
+Sat Oct  6 19:19:23 2018	John Mercy (STEAM_0:0:86025114): // ...
+Sat Oct  6 19:19:29 2018	John Mercy (STEAM_0:0:86025114): // Fk saving the core. Im out of here!
+Sat Oct  6 19:20:08 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert there are 2 evacuation points. The parking lot and the laboratory.
+Sat Oct  6 19:20:10 2018	Emmett Pyke (STEAM_0:1:41660292): 
+Sat Oct  6 19:20:30 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert I am taking the rocket in the lab
+Sat Oct  6 19:20:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert come soon. 5 minutes and the facility is a big hole
+Sat Oct  6 19:21:10 2018	John Mercy was killed by [Opi] Fat Gay with a cw_scarh
+Sat Oct  6 19:21:10 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:21:16 2018	John Mercy (STEAM_0:0:86025114): // what. This gun sucks
+Sat Oct  6 19:21:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk what youre talking about
+Sat Oct  6 19:21:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc did you die
+Sat Oct  6 19:21:43 2018	John Mercy (STEAM_0:0:86025114): // Yeah
+Sat Oct  6 19:21:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Sat Oct  6 19:21:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you were close
+Sat Oct  6 19:21:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i had 1 hp
+Sat Oct  6 19:22:10 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:14 2018	John Mercy (STEAM_0:0:86025114): // I dont understand this SMG. sometimes it does damage. Sometimes I feel like we are in a MMO RPG
+Sat Oct  6 19:22:14 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:16 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:18 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:19 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:19 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:19 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc well looks like I win in the end!
+Sat Oct  6 19:22:21 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:23 2018	Emmett Pyke (STEAM_0:1:41660292) spawned SENT fz_pizza
+Sat Oct  6 19:22:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you would have killed me if you sunk one more bullet into me
+Sat Oct  6 19:22:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill leave the gen on so you guys can see the emergency lights and coolant
+Sat Oct  6 19:23:21 2018	John Mercy (STEAM_0:0:86025114): // So uh...Blast shelter? When does it shut?
+Sat Oct  6 19:23:31 2018	Emmett Pyke (STEAM_0:1:41660292): // Right as the core explodes
+Sat Oct  6 19:23:56 2018	John Mercy (STEAM_0:0:86025114): // That ton. Makes it seem real
+Sat Oct  6 19:25:09 2018	John Mercy (STEAM_0:0:86025114): // Well...This is on the edge of epic and scary.
+Sat Oct  6 19:25:17 2018	Emmett Pyke (STEAM_0:1:41660292): // That was our goal
+Sat Oct  6 19:25:58 2018	John Mercy (STEAM_0:0:86025114): // Would be cool if some areas started to break in the end, making you debate leaving soon or dying.
+Sat Oct  6 19:26:01 2018	Richiekiller03 (STEAM_0:0:184700386) has joined the game
+Sat Oct  6 19:26:01 2018	Richiekiller03 (STEAM_0:0:184700386) spawned
+Sat Oct  6 19:26:11 2018	John Mercy (STEAM_0:0:86025114): // What happened?
+Sat Oct  6 19:26:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc e ecoolant
+Sat Oct  6 19:26:19 2018	John Mercy (STEAM_0:0:86025114): // Someone bought us time?
+Sat Oct  6 19:26:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no it drops it back to 4k
+Sat Oct  6 19:26:47 2018	John Mercy (STEAM_0:0:86025114): // So it bought us some time. Very little.
+Sat Oct  6 19:26:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc eh thats like 5 mins
+Sat Oct  6 19:27:04 2018	John Mercy (STEAM_0:0:86025114): // Enough for some to evacuate
+Sat Oct  6 19:27:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc some things are still broke
+Sat Oct  6 19:27:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc like the bridges in the underground
+Sat Oct  6 19:27:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the concrete collapses
+Sat Oct  6 19:27:24 2018	John Mercy (STEAM_0:0:86025114): // Oh thats cool
+Sat Oct  6 19:27:35 2018	John Mercy (STEAM_0:0:86025114): // Usually I would use that way to evac
+Sat Oct  6 19:27:42 2018	Richiekiller03 (STEAM_0:0:184700386) spawned
+Sat Oct  6 19:28:10 2018	John Mercy (STEAM_0:0:86025114): // So anything change with the rocket?
+Sat Oct  6 19:28:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 2 mins instead of 1
+Sat Oct  6 19:28:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc instead of 3
+Sat Oct  6 19:28:35 2018	[Opi] Fat Gay was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:28:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:28:38 2018	Richiekiller03 (STEAM_0:0:184700386): hello
+Sat Oct  6 19:28:43 2018	Chef Nosey (STEAM_0:0:139498605): /advert CELEBRATORY PIZZA FOR NOT DYING!
+Sat Oct  6 19:28:44 2018	John Mercy (STEAM_0:0:86025114): // So less time to get there
+Sat Oct  6 19:28:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:28:58 2018	Richiekiller03 (STEAM_0:0:184700386): what
+Sat Oct  6 19:29:12 2018	Richiekiller03 (STEAM_0:0:184700386): i can't hear you
+Sat Oct  6 19:29:20 2018	John Mercy (STEAM_0:0:86025114): The reactor is FUCKED
+Sat Oct  6 19:29:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 19:29:23 2018	Chef Nosey (STEAM_0:0:139498605): // Come to the cafeteria for pizza!
+Sat Oct  6 19:29:33 2018	Richiekiller03 (STEAM_0:0:184700386): you can tallk now
+Sat Oct  6 19:29:34 2018	John Mercy (STEAM_0:0:86025114): We have less than 3 minutes to gtfo to a bunker
+Sat Oct  6 19:29:39 2018	Richiekiller03 (STEAM_0:0:184700386): ok
+Sat Oct  6 19:30:43 2018	John Mercy (STEAM_0:0:86025114): // Get to the bunker *Goes other way* Or dont....
+Sat Oct  6 19:30:54 2018	Emmett Pyke (STEAM_0:1:41660292): // mood
+Sat Oct  6 19:31:06 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 4198
+Sat Oct  6 19:31:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc mlg barak obama
+Sat Oct  6 19:31:56 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Erm come have a look at this
+Sat Oct  6 19:32:00 2018	Emmett Pyke (STEAM_0:1:41660292): // ayy itz is back
+Sat Oct  6 19:32:01 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct  6 19:32:01 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:32:06 2018	franco.ciarrapico (STEAM_0:1:188872981): /name James Connor
+Sat Oct  6 19:32:11 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // map issue
+Sat Oct  6 19:32:12 2018	Emmett Pyke (STEAM_0:1:41660292): !goto luk
+Sat Oct  6 19:32:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring va
+Sat Oct  6 19:32:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring em
+Sat Oct  6 19:32:21 2018	James Connor (STEAM_0:1:188872981) spawned
+Sat Oct  6 19:32:51 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm fat You forgot some lihgts here
+Sat Oct  6 19:32:53 2018	Richiekiller03 (STEAM_0:0:184700386): hello
+Sat Oct  6 19:32:54 2018	John Mercy (STEAM_0:0:86025114): // Wtf just happened
+Sat Oct  6 19:32:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc wtf
+Sat Oct  6 19:33:00 2018	Richiekiller03 (STEAM_0:0:184700386): hello
+Sat Oct  6 19:33:04 2018	John Mercy (STEAM_0:0:86025114): // Lots of people vanished
+Sat Oct  6 19:33:06 2018	James Connor (STEAM_0:1:188872981): // hi bois Im new to the server
+Sat Oct  6 19:33:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i didnt say "You forgot some lihgts here"
+Sat Oct  6 19:33:12 2018	Chef Nosey (STEAM_0:0:139498605): // PIZZA DAY
+Sat Oct  6 19:33:17 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): np
+Sat Oct  6 19:33:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc Welcome franco!
+Sat Oct  6 19:33:22 2018	Richiekiller03 (STEAM_0:0:184700386): /dropmoney 40
+Sat Oct  6 19:33:23 2018	Richiekiller03 (STEAM_0:0:184700386) has dropped $40
+Sat Oct  6 19:33:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc we hope you enjoy your stay!
+Sat Oct  6 19:33:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm fat But you forgot some lights here.
+Sat Oct  6 19:33:49 2018	Emmett Pyke (STEAM_0:1:41660292): // Heads Up! You can't inject E-Coolant this time
+Sat Oct  6 19:33:51 2018	James Connor (STEAM_0:1:188872981): // thanks, I hope I do a good Plant Director
+Sat Oct  6 19:34:03 2018	James Connor (STEAM_0:1:188872981): // lol
+Sat Oct  6 19:34:05 2018	John Mercy (STEAM_0:0:86025114): // Head Up! Im already gone!
+Sat Oct  6 19:34:22 2018	Richiekiller03 (STEAM_0:0:184700386): guys we got to go
+Sat Oct  6 19:34:23 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /announce test
+Sat Oct  6 19:34:41 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): really
+Sat Oct  6 19:34:44 2018	Chef Nosey (STEAM_0:0:139498605): // WE HAVE PIZZA
+Sat Oct  6 19:34:47 2018	Chef Nosey (STEAM_0:0:139498605): // NOOOO
+Sat Oct  6 19:34:51 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert The rocket now taking people
+Sat Oct  6 19:34:51 2018	James Connor (STEAM_0:1:188872981): lol
+Sat Oct  6 19:35:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc PRING YOUR FUCKING PIZZAS TO THE ROCKET
+Sat Oct  6 19:35:07 2018	James Connor (STEAM_0:1:188872981): why is there no ooc and local chat is globañ
+Sat Oct  6 19:35:07 2018	Emmett Pyke (STEAM_0:1:41660292): !act
+Sat Oct  6 19:35:19 2018	Chef Nosey (STEAM_0:0:139498605): // WHERE IS IT
+Sat Oct  6 19:35:25 2018	John Mercy (STEAM_0:0:86025114): // radio addon no longer working?
+Sat Oct  6 19:35:28 2018	James Connor (STEAM_0:1:188872981): Why is this global chaaaaaaaaat
+Sat Oct  6 19:35:29 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert the lab
+Sat Oct  6 19:35:31 2018	John Mercy (STEAM_0:0:86025114): // Bunker in the garage!
+Sat Oct  6 19:35:31 2018	Richiekiller03 (STEAM_0:0:184700386): hurry up
+Sat Oct  6 19:35:37 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): go
+Sat Oct  6 19:35:38 2018	Emmett Pyke (STEAM_0:1:41660292): // Gmod's Web Client is broken so no tv or radio works
+Sat Oct  6 19:35:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert launching rocket
+Sat Oct  6 19:35:49 2018	James Connor was killed by Entity [2745][func_rotating] with a func_rotating
+Sat Oct  6 19:35:50 2018	James Connor (STEAM_0:1:188872981) spawned
+Sat Oct  6 19:35:57 2018	John Mercy (STEAM_0:0:86025114): // What about the hand held radio?
+Sat Oct  6 19:35:59 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert wait there is agalss
+Sat Oct  6 19:36:02 2018	Richiekiller03 (STEAM_0:0:184700386): ahhhhhhhhhhhhhhhhhhhhhhhh
+Sat Oct  6 19:36:02 2018	Chef Nosey (STEAM_0:0:139498605): // DINKY
+Sat Oct  6 19:36:05 2018	Chef Nosey (STEAM_0:0:139498605): // DINKY NO
+Sat Oct  6 19:36:07 2018	Chef Nosey (STEAM_0:0:139498605): // GET IN
+Sat Oct  6 19:36:11 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): I can't
+Sat Oct  6 19:36:22 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): a researcher must
+Sat Oct  6 19:36:36 2018	John Mercy (STEAM_0:0:86025114): // Shut bunker doors~!
+Sat Oct  6 19:36:36 2018	Chez Dinky Winks (STEAM_0:0:56680165): // I must stay with the pizza
+Sat Oct  6 19:36:40 2018	James Connor (STEAM_0:1:188872981) spawned
+Sat Oct  6 19:36:41 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:36:46 2018	Chef Nosey (STEAM_0:0:139498605): // I'LL NEVER FORGET YOU
+Sat Oct  6 19:36:51 2018	Itz IrnBru118 (STEAM_0:1:160171071) has joined the game
+Sat Oct  6 19:36:51 2018	Itz IrnBru118 (STEAM_0:1:160171071) spawned
+Sat Oct  6 19:36:55 2018	James Connor (STEAM_0:1:188872981): what why am I an admin now
+Sat Oct  6 19:36:56 2018	Richiekiller03 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 19:37:01 2018	Richiekiller03 (STEAM_0:0:184700386) spawned
+Sat Oct  6 19:37:10 2018	John Mercy (STEAM_0:0:86025114): // Well congrats! You started ww3!
+Sat Oct  6 19:37:26 2018	James Connor (STEAM_0:1:188872981) spawned
+Sat Oct  6 19:37:43 2018	Chez Dinky Winks was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:37:43 2018	Adam Klein was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:37:44 2018	Emmett Pyke was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:37:45 2018	Chef Nosey (STEAM_0:0:139498605): // Rip earth alexa play Despacito
+Sat Oct  6 19:37:46 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:37:48 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:37:50 2018	Chef Nosey (STEAM_0:0:139498605): // Wait, no sound in space
+Sat Oct  6 19:37:52 2018	Chef Nosey (STEAM_0:0:139498605): // FUCK
+Sat Oct  6 19:37:56 2018	Chez Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 19:37:58 2018	John Mercy (STEAM_0:0:86025114): // Well we have no food
+Sat Oct  6 19:38:01 2018	Chez Dinky Winks was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:38:08 2018	Itz IrnBru118 was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:38:08 2018	Adam Klein was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:38:09 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // we have direct sound transmission to the space station
+Sat Oct  6 19:38:09 2018	Emmett Pyke was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:38:10 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:38:14 2018	Chef Nosey (STEAM_0:0:139498605): // sweet
+Sat Oct  6 19:38:16 2018	Emmett Pyke was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:38:17 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:38:19 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:38:20 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // we have 2 cooks at the space station

@@ -1,0 +1,4 @@
+2018-10-05 - h18m17s34 - pfoolproof.lua:182   cleaned 1 old log files.
+
+2018-10-05 - h18m17s34 - pfoolproof.lua:182   ADDON VERSION: 1.1.7
+

@@ -1,0 +1,5 @@
+<Logging continued from "data/ulx_logs/04-17-18.txt">
+[05:12:55] Client "Darth Vader" connected.
+[05:15:37] Client "Darth Vader" spawned in server <STEAM_0:0:27531482> (took 162 seconds).
+[05:20:16] Dropped "Darth Vader" from server<STEAM_0:0:27531482>
+<Logging continued in "data/ulx_logs/04-20-18.txt">

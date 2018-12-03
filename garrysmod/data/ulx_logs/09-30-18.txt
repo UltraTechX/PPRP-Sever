@@ -1,0 +1,135 @@
+<Logging continued from "data/ulx_logs/09-29-18.txt">
+[00:55:51] Client "[Opi] Fat Gay" connected.
+[00:57:41] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 110 seconds).
+[01:04:24] Fat Gay was killed by trigger_hurt
+[01:05:44] Fat Gay was killed by trigger_hurt
+[01:05:53] Fat Gay was killed by trigger_hurt
+[01:06:01] Fat Gay was killed by trigger_hurt
+[01:07:50] Fat Gay was killed by trigger_hurt
+[01:10:21] Fat Gay<STEAM_0:1:218173703> used the tool advdupe2 on maps/rp_powerplant_v2b3.bsp
+[01:10:36] Fat Gay<STEAM_0:1:218173703> used the tool advdupe2 on maps/rp_powerplant_v2b3.bsp
+
+
+
+[01:31:36] New map: rp_powerplant_v2b3
+[01:31:59] Client "[Opi] Fat Gay" connected.
+[01:33:19] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 80 seconds).
+[01:36:04] Fat Gay was killed by trigger_hurt
+[02:06:32] Fat Gay was killed by trigger_hurt
+[02:07:03] Fat Gay was killed by trigger_hurt
+[02:09:15] Fat Gay was killed by trigger_hurt
+[02:12:46] Fat Gay was killed by func_rotating
+[03:10:47] Fat Gay was killed by trigger_hurt
+[03:10:55] Fat Gay was killed by trigger_hurt
+[03:11:01] Fat Gay was killed by trigger_hurt
+[03:11:02] Server is shutting down/changing levels.
+
+
+
+[03:11:49] New map: rp_powerplant_v2b3
+
+
+
+[05:05:28] New map: rp_powerplant_v2b3
+[15:27:34] Client "[Opi] Fat Gay" connected.
+
+
+
+[15:30:02] New map: rp_powerplant_v2b3
+[15:30:16] Client "[Opi] Fat Gay" connected.
+[15:30:23] Client "Matthew" connected.
+[15:31:26] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 70 seconds).
+[15:42:25] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:42:49] Client "Matthew" connected.
+[15:43:14] Client "[Opi] Fat Gay" connected.
+[15:44:27] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 73 seconds).
+[15:45:05] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:45:15] Client "[Opi] Fat Gay" connected.
+[15:46:14] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+[15:48:02] Fat Gay: !kick fat nigger
+[15:48:02] Fat Gay kicked Themself (nigger)
+[15:48:02] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:50:26] Client "Matthew" connected.
+[15:55:29] Client "[Opi] Fat Gay" connected.
+[15:56:27] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+[15:56:49] (TEAM) Fat Gay: !kickid STEAM_0:1:218173703
+[15:56:52] Fat Gay: !kickID STEAM_0:1:218173703
+[15:56:56] (TEAM) Fat Gay: !menu
+[15:57:13] Fat Gay: !reload
+[15:57:16] Fat Gay: !meun
+[15:57:18] Fat Gay: !menu
+[15:58:17] Client "Matthew" spawned in server <STEAM_0:1:127001171> (took 471 seconds).
+[15:58:17] (Console) added ImaThief to group PACUser
+[15:59:05] (Console) removed all access rights from ImaThief
+[15:59:11] (Console) added ImaThief to group PACUser
+[15:59:18] Fat Gay: !vip STEAM_0:1:127001171
+[15:59:21] Fat Gay: !vip 
+[15:59:27] Fat Gay: !vip "STEAM_0:1:127001171"
+[15:59:47] (Console) removed all access rights from ImaThief
+[15:59:47] (Console) added ImaThief to group VIPPACUser
+[15:59:58] (Console) removed all access rights from ImaThief
+[15:59:58] (Console) added ImaThief to group PACUser
+
+
+
+[16:03:51] New map: rp_powerplant_v2b3
+[16:03:57] Client "Matthew" connected.
+[16:04:14] Client "[Opi] Fat Gay" connected.
+[16:05:13] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+[16:05:26] Client "Matthew" spawned in server <STEAM_0:1:127001171> (took 89 seconds).
+[16:05:55] Fat Gay: !kickID STEAM_0:1:127001171 ddd
+[16:05:58] Fat Gay: !menu
+[16:14:11] Fat Gay<STEAM_0:1:218173703> used the tool advdupe2 on models/player/group01/female_03.mdl
+[16:14:45] Fat Gay: !bring ima
+[16:14:45] Fat Gay brought ImaThief
+[16:16:22] Fat Gay: /ooc have fun, ill be working on my map. message me with any questions
+[16:16:24] Fat Gay was killed by trigger_hurt
+[16:16:28] ImaThief: // Alright 
+[16:18:24] Fat Gay: !reload
+[16:18:26] Fat Gay: !menu
+[16:19:58] Fat Gay kicked Themself
+[16:19:58] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:20:27] Client "[Opi] Fat Gay" connected.
+[16:21:40] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 73 seconds).
+[16:24:56] Fat Gay: !ban STEAM_0:1:218173703
+[16:25:13] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:25:40] Client "[Opi] Fat Gay" connected.
+[16:26:39] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+[16:26:50] ImaThief: // Do you have a guide for what to do?
+[16:27:00] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:28:15] Dropped "ImaThief" from server<STEAM_0:1:127001171>
+[16:28:21] Client "[Opi] Fat Gay" connected.
+[16:29:23] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 62 seconds).
+[16:29:58] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:38:49] Client "[Opi] Fat Gay" connected.
+[16:39:50] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 61 seconds).
+[16:52:33] Fat Gay was killed by trigger_hurt
+
+
+
+[17:30:00] New map: rp_powerplant_v2b3
+[17:30:14] Client "[Opi] Fat Gay" connected.
+[17:31:40] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 86 seconds).
+[17:32:22] Fat Gay: !blogs
+
+
+
+[17:37:59] New map: rp_powerplant_v2b3
+[17:38:21] Client "[Opi] Fat Gay" connected.
+[17:39:21] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 60 seconds).
+[17:42:05] Fat Gay: fuvckasda
+[17:42:09] Fat Gay: fuck niggers
+[17:42:15] Fat Gay: /ooc fuck them all
+[17:58:13] Fat Gay was killed by trigger_hurt
+[18:00:09] Fat Gay was killed by trigger_hurt
+[18:41:34] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[21:45:54] New map: rp_powerplant_v2b3
+[21:57:46] Client "[Opi] Fat Gay" connected.
+[21:59:57] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 131 seconds).
+[22:13:33] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:37:58] Client "[Opi] Fat Gay" connected.
+[22:39:11] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 73 seconds).
+[22:54:23] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

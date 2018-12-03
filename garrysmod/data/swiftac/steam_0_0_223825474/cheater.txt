@@ -1,0 +1,2 @@
+Tue Oct 16 21:53:55 2018 - Nick: deonwils98 {WEST-SIDE} | IP: 86.10.2.142 | SteamID: STEAM_0:0:223825474.txt | Cheating Infraction: Invalid type:  bad_manip sv_allowcslua;
+

@@ -1,0 +1,52 @@
+[Mon Jun 11 17:13:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (Owner) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:13:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (Owner) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:13:37 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (Owner) (Visitor) % killed themself
+[Mon Jun 11 17:13:37 2018] Starvation: %Fat Gay (STEAM_0:1:218173703) (Owner) (Visitor) % died of starvation.
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (unarrest_stick)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (stunstick)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (door_ram)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (weaponchecker)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (arrest_stick)
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Mon Jun 11 17:18:17 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Mon Jun 11 17:34:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:35:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:35:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:35:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:35:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:35:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:35:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:36:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:36:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:36:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:36:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:36:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:36:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:37:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:37:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:37:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:37:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:37:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:37:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:38:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:38:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:38:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:38:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:38:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:38:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:39:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:39:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:39:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:39:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:39:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:39:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:40:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:40:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % damaged themself for 3 damage
+[Mon Jun 11 17:40:27 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % killed themself
+[Mon Jun 11 17:40:27 2018] Starvation: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % died of starvation.

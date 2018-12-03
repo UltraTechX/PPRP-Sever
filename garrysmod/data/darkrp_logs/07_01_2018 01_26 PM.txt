@@ -1,0 +1,8 @@
+Sun Jul  1 13:26:46 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  1 13:26:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  1 13:28:35 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul  1 13:29:26 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jul  1 13:29:26 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  1 13:33:15 2018	Emmett (STEAM_0:1:41660292): /dance
+Sun Jul  1 13:33:20 2018	Emmett (STEAM_0:1:41660292): !dance
+Sun Jul  1 13:33:49 2018	Emmett (STEAM_0:1:41660292) spawned

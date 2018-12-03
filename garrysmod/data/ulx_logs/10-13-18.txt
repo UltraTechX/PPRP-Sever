@@ -1,0 +1,18 @@
+[06:43:01] New map: rp_powerplant_v2b3
+[06:58:21] Server is shutting down/changing levels.
+
+
+
+[07:00:45] New map: rp_powerplant_v2b3
+[07:00:52] Client "[Opi] Fat Gay" connected.
+
+
+
+[07:53:00] New map: rp_powerplant_v2b3
+[07:53:06] Client "KeeblesPal" connected.
+
+
+
+[17:30:26] New map: rp_powerplant_v2b3
+[17:30:39] Client "Sir Will Swag" connected.
+[17:30:40] Client "[Opi] Fat Gay" connected.

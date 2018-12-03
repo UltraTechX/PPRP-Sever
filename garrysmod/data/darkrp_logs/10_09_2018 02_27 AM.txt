@@ -1,0 +1,28 @@
+Tue Oct  9 02:27:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct  9 02:27:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 02:31:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Tue Oct  9 02:32:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct  9 02:32:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 02:41:25 2018	Tello (STEAM_0:0:74320577) has joined the game
+Tue Oct  9 02:41:25 2018	Tello (STEAM_0:0:74320577) spawned
+Tue Oct  9 02:46:04 2018	Tello was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 02:46:05 2018	Tello (STEAM_0:0:74320577) spawned
+Tue Oct  9 02:46:29 2018	Tello (STEAM_0:0:74320577) disconnected
+Tue Oct  9 03:44:46 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct  9 04:42:33 2018	Remant (STEAM_0:0:140034522) has joined the game
+Tue Oct  9 04:42:33 2018	Remant (STEAM_0:0:140034522) spawned
+Tue Oct  9 05:02:07 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Tue Oct  9 05:02:07 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 05:54:37 2018	Remant was killed by Himself with a suicide trick
+Tue Oct  9 06:05:34 2018	Pootis Bird was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 06:05:39 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 06:13:19 2018	Tigroon (STEAM_0:0:40127246) has joined the game
+Tue Oct  9 06:13:19 2018	Tigroon (STEAM_0:0:40127246) spawned
+Tue Oct  9 06:14:00 2018	Tigroon (STEAM_0:0:40127246) spawned
+Tue Oct  9 06:29:53 2018	Pootis Bird (STEAM_0:0:22086175): Sup Osama
+Tue Oct  9 06:30:53 2018	Tigroon (STEAM_0:0:40127246): /advert Alluh Ackbar! Alluh Ackbar! Alluh Ackbar!
+Tue Oct  9 06:31:16 2018	Tigroon (STEAM_0:0:40127246): /advert May the glorious fires of nuclear devestation clense you heathen from the earth!
+Tue Oct  9 06:32:24 2018	Pootis Bird (STEAM_0:0:22086175): // *shrugs*
+Tue Oct  9 06:32:27 2018	Pootis Bird was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Tue Oct  9 06:32:57 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 06:33:02 2018	Pootis Bird was killed by Entity [4941][trigger_hurt] with a trigger_hurt

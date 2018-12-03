@@ -1,0 +1,41 @@
+[01:10:03] New map: rp_powerplant_v2b3
+[01:10:06] Client "[Opi] Fat Gay" connected.
+
+
+
+[02:26:14] New map: rp_powerplant_v2b3
+[02:27:07] Client "[Opi] Fat Gay" connected.
+
+
+
+[02:37:21] New map: rp_powerplant_v2b3
+[02:37:42] Client "[Opi] Fat Gay" connected.
+
+
+
+[02:49:12] New map: rp_powerplant_v2b3
+[02:49:40] Client "InVaLiD" connected.
+
+
+
+[03:02:51] New map: rp_powerplant_v2b3
+[03:02:57] Client "InVaLiD" connected.
+
+
+
+[03:52:48] New map: rp_powerplant_v2b3
+[05:14:46] Client "xPestlo" connected.
+
+
+
+[08:01:18] New map: rp_powerplant_v2b3
+[14:57:26] Client "chiken" connected.
+
+
+
+[15:00:41] New map: rp_powerplant_v2b3
+
+
+
+[15:01:44] New map: rp_powerplant_v2b3
+[15:12:42] Client "chiken" connected.

@@ -1,0 +1,14 @@
+Sun Oct 21 01:06:19 2018 - Nick: Infinitynull | IP: 173.80.243.20 | SteamID: STEAM_0:1:60776888.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:16:11 2018 - Nick: Infinitynull | IP: 173.80.243.20 | SteamID: STEAM_0:1:60776888.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:17:34 2018 - Nick: Infinitynull | IP: 173.80.243.20 | SteamID: STEAM_0:1:60776888.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:27:39 2018 - Nick: Infinitynull | IP: 173.80.243.20 | SteamID: STEAM_0:1:60776888.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:53:33 2018 - Nick: Infinitynull | IP: 173.80.243.20 | SteamID: STEAM_0:1:60776888.txt | Cheating Infraction: Invalid source: require@addons/swiftac/lua/includes/init.lua;
+

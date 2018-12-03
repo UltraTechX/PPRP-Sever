@@ -1,0 +1,22 @@
+[05:05:04] New map: rp_powerplant_v2b2
+[12:52:58] Client "Valien" connected.
+[12:55:35] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 157 seconds).
+[13:01:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ak12
+[13:08:13] Emmett was killed by trigger_hurt
+[13:08:56] Emmett was killed by func_rotating
+[13:10:36] Emmett was killed by trigger_hurt
+[13:10:57] Emmett was killed by trigger_hurt
+[13:15:35] Emmett<STEAM_0:1:41660292> spawned/gave himself swep staff_lockpick
+[13:20:09] Emmett: /dropmoney 8330417
+[13:23:49] Emmett granted god mode upon Themself
+[13:26:56] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[13:27:37] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[13:28:14] Emmett revoked god mode from Themself
+[13:29:44] Emmett was killed by trigger_hurt
+[13:29:54] Emmett granted god mode upon Themself
+[13:30:07] Emmett revoked god mode from Themself
+[13:47:34] Emmett was killed by trigger_hurt
+[13:51:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep staff_lockpick
+[13:52:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep door_ram
+[13:52:18] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_p2282
+[13:53:17] Dropped "Emmett" from server<STEAM_0:1:41660292>

@@ -1,0 +1,18 @@
+Tue Sep 18 18:45:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Sep 18 18:45:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 19:19:09 2018	Bot01 (BOT) has joined the game
+Tue Sep 18 19:19:09 2018	Bot01 (BOT) spawned
+Tue Sep 18 19:24:39 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Sep 18 19:25:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 19:33:57 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Tue Sep 18 19:33:57 2018	Bot01 (BOT) disconnected
+Tue Sep 18 20:44:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Sep 18 20:44:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 20:48:37 2018	Fat Gay (STEAM_0:1:218173703): 
+Tue Sep 18 20:48:38 2018	Fat Gay (STEAM_0:1:218173703): 
+Tue Sep 18 21:17:59 2018	Bot02 (BOT) has joined the game
+Tue Sep 18 21:17:59 2018	Bot02 (BOT) spawned
+Tue Sep 18 21:23:29 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Sep 18 21:23:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 21:43:45 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Tue Sep 18 21:43:45 2018	Bot02 (BOT) disconnected

@@ -1,0 +1,8 @@
+Sat Oct 20 05:52:48 2018 - Nick: smithers | IP: 70.74.172.195 | SteamID: STEAM_0:1:114325106.txt | Cheating Infraction: Invalid source: hook.Add@addons/_blogs-remastered-20/lua/vgui/blogs.lua;
+
+
+Sat Oct 20 05:55:17 2018 - Nick: smithers | IP: 70.74.172.195 | SteamID: STEAM_0:1:114325106.txt | Cheating Infraction: Invalid source: concommand.Add@addons/_blogs-remastered-20/lua/blogs/cl.lua;
+
+
+Sat Oct 20 05:58:09 2018 - Nick: smithers | IP: 70.74.172.195 | SteamID: STEAM_0:1:114325106.txt | Cheating Infraction: Invalid source: hook.Add@addons/_blogs-remastered-20/lua/vgui/blogs.lua;
+

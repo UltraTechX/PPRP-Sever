@@ -1,0 +1,415 @@
+[05:05:23] New map: rp_powerplant_v2b2
+[15:55:01] Client "[Opi] Fat Gay" connected.
+[15:55:23] Client "Dots" connected.
+[15:56:38] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 97 seconds).
+[15:58:28] Client "Dots" connected.
+[15:59:20] Fat Gay: !motd
+[16:07:37] Client "Dots" spawned in server <STEAM_0:1:72014148> (took 549 seconds).
+[16:07:38] (Console) added CBRN COL Dots to group PACUser
+[16:07:43] Fat Gay<STEAM_0:1:218173703> spawned sent phone_box
+[16:07:49] Fat Gay<STEAM_0:1:218173703> spawned sent sent_iodevice
+[16:07:54] Fat Gay<STEAM_0:1:218173703> spawned sent sent_computer
+[16:08:47] Fat Gay<STEAM_0:1:218173703> spawned sent widget_discord
+[16:08:57] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:08:59] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:08:59] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:09:09] Fat Gay: !menu
+[16:09:28] Fat Gay added CBRN COL Dots to group superadmin
+[16:09:45] Fat Gay<STEAM_0:1:218173703> spawned sent widget_discord
+[16:09:51] Fat Gay: !bring dot
+[16:09:51] Fat Gay brought CBRN COL Dots
+[16:10:34] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_pp19
+[16:10:35] Client "Bot01" connected.
+[16:10:35] Client "Bot01" spawned in server <BOT> (took 39989 seconds).
+[16:10:35] CBRN COL Dots killed Fat Gay using fas2_pp19
+[16:10:46] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep chess_admin_tool
+[16:11:08] CBRN COL Dots<STEAM_0:1:72014148> spawned sent animprop_spawnentrance_blue3
+[16:11:12] CBRN COL Dots<STEAM_0:1:72014148> spawned sent animprop_spawnentrance_blue3
+[16:11:13] CBRN COL Dots<STEAM_0:1:72014148> spawned sent animprop_spawnentrance_blue
+[16:11:15] CBRN COL Dots<STEAM_0:1:72014148> spawned sent animprop_spawnexit_blue
+[16:11:18] CBRN COL Dots<STEAM_0:1:72014148> spawned sent animprop_spawnexit_blue3
+[16:11:36] CBRN COL Dots<STEAM_0:1:72014148> spawned sent animprop_spawnentrance_blue
+[16:11:58] CBRN COL Dots<STEAM_0:1:72014148> spawned sent gmt_instrument_piano
+[16:13:42] Client "Bot02" connected.
+[16:13:42] Client "Bot02" spawned in server <BOT> (took 40176 seconds).
+[16:13:58] CBRN COL Dots<STEAM_0:1:72014148> spawned sent ent_draughts_board
+[16:13:58] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:14:12] CBRN COL Dots<STEAM_0:1:72014148> spawned sent gmod_wire_ramcard_default024
+[16:14:47] CBRN COL Dots killed Bot02 using fas2_pp19
+[16:14:56] Client "[Opi] Fat Gay" connected.
+[16:15:05] CBRN COL Dots<STEAM_0:1:72014148> spawned sent rp_radio_microphone
+[16:15:10] CBRN COL Dots<STEAM_0:1:72014148> spawned sent rp_radio
+[16:15:54] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+[16:16:23] Fat Gay: /ooc i can hear you
+[16:16:30] Fat Gay: /advert i can hear you gay
+[16:16:41] CBRN COL Dots<STEAM_0:1:72014148> spawned sent d3d_sign
+[16:16:48] Fat Gay: !goto dot
+[16:16:48] Fat Gay teleported to CBRN COL Dots
+[16:16:58] Dropped "Bot02" from server<BOT>
+[16:17:32] CBRN COL Dots<STEAM_0:1:72014148> spawned sent d3d_sign
+[16:21:15] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fx_openbag
+[16:21:16] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fx_openbag
+[16:21:19] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_bunbottom
+[16:21:20] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_buntop
+[16:21:24] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_burger
+[16:21:34] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_closedburgerbox
+[16:21:37] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fx_closedbag
+[16:21:39] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fz_closedpizzabox
+[16:21:40] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_egriddle
+[16:21:48] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_openburgerbox
+[16:21:50] CBRN COL Dots<STEAM_0:1:72014148> spawned sent ff_npc
+[16:21:52] CBRN COL Dots<STEAM_0:1:72014148> spawned sent ff_friespack
+[16:21:54] CBRN COL Dots<STEAM_0:1:72014148> spawned sent ff_frybasket
+[16:21:57] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_lettuce
+[16:22:02] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_onion
+[16:22:08] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fz_openpizzabox
+[16:22:10] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fz_pizza
+[16:22:14] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fz_pizzaoven
+[16:22:16] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fz_pizzaraw
+[16:22:18] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fs_sodacup
+[16:22:23] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fs_sodatop
+[16:22:25] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fb_tomato
+[16:22:30] CBRN COL Dots<STEAM_0:1:72014148> spawned sent fx_tray
+[16:22:39] CBRN COL Dots<STEAM_0:1:72014148> spawned sent ff_friespack
+[16:23:32] CBRN COL Dots<STEAM_0:1:72014148> spawned sent zpizmak_customertable
+[16:23:36] CBRN COL Dots<STEAM_0:1:72014148> spawned sent zpizmak_fridge
+[16:23:40] CBRN COL Dots<STEAM_0:1:72014148> spawned sent sent_computer
+[16:23:44] CBRN COL Dots<STEAM_0:1:72014148> spawned sent phone_box
+[16:23:57] CBRN COL Dots<STEAM_0:1:72014148> spawned sent ent_metal_detector_large
+[16:24:09] Fat Gay: !strip dot
+[16:24:09] Fat Gay stripped weapons from CBRN COL Dots
+[16:24:17] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep cw_ak74
+[16:24:31] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_uzi
+[16:25:25] Fat Gay killed CBRN COL Dots using eoti_raven_swep
+[16:26:03] Fat Gay: !goto dot
+[16:26:03] Fat Gay teleported to CBRN COL Dots
+[16:26:26] Fat Gay: !goto dots
+[16:26:26] Fat Gay teleported to CBRN COL Dots
+[16:26:34] Fat Gay: !bring dots
+[16:26:34] Fat Gay brought CBRN COL Dots
+[16:27:05] Client "Bot03" connected.
+[16:27:05] Client "Bot03" spawned in server <BOT> (took 40979 seconds).
+[16:27:05] (Console) added Bot01 to group PACUser
+[16:27:06] Client "Bot04" connected.
+[16:27:06] Client "Bot04" spawned in server <BOT> (took 40980 seconds).
+[16:27:06] (Console) added Bot01 to group PACUser
+[16:27:06] Client "Bot05" connected.
+[16:27:06] Client "Bot05" spawned in server <BOT> (took 40980 seconds).
+[16:27:06] (Console) added Bot01 to group PACUser
+[16:27:06] Client "Bot06" connected.
+[16:27:06] Client "Bot06" spawned in server <BOT> (took 40980 seconds).
+[16:27:06] (Console) added Bot01 to group PACUser
+[16:27:06] Client "Bot07" connected.
+[16:27:06] Client "Bot07" spawned in server <BOT> (took 40980 seconds).
+[16:27:06] (Console) added Bot01 to group PACUser
+[16:27:07] Client "Bot08" connected.
+[16:27:07] Client "Bot08" spawned in server <BOT> (took 40981 seconds).
+[16:27:07] (Console) added Bot01 to group PACUser
+[16:27:07] Client "Bot09" connected.
+[16:27:07] Client "Bot09" spawned in server <BOT> (took 40981 seconds).
+[16:27:07] (Console) added Bot01 to group PACUser
+[16:27:07] Client "Bot10" connected.
+[16:27:07] Client "Bot10" spawned in server <BOT> (took 40981 seconds).
+[16:27:07] (Console) added Bot01 to group PACUser
+[16:27:07] Client "Bot11" connected.
+[16:27:07] Client "Bot11" spawned in server <BOT> (took 40981 seconds).
+[16:27:07] (Console) added Bot01 to group PACUser
+[16:27:08] Client "Bot12" connected.
+[16:27:08] Client "Bot12" spawned in server <BOT> (took 40982 seconds).
+[16:27:08] (Console) added Bot01 to group PACUser
+[16:27:08] Client "Bot13" connected.
+[16:27:08] Client "Bot13" spawned in server <BOT> (took 40982 seconds).
+[16:27:08] (Console) added Bot01 to group PACUser
+[16:27:08] Client "Bot14" connected.
+[16:27:08] Client "Bot14" spawned in server <BOT> (took 40982 seconds).
+[16:27:08] (Console) added Bot01 to group PACUser
+[16:27:09] Client "Bot15" connected.
+[16:27:09] Client "Bot15" spawned in server <BOT> (took 40983 seconds).
+[16:27:09] (Console) added Bot01 to group PACUser
+[16:27:20] CBRN COL Dots killed Bot11 using cw_deagle
+[16:27:22] Fat Gay: !goto dot
+[16:27:22] Fat Gay teleported to CBRN COL Dots
+[16:27:34] CBRN COL Dots killed Bot05 using cw_g3a3
+[16:27:50] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_mp5k
+[16:27:58] CBRN COL Dots killed Bot08 using fas2_mp5k
+[16:28:11] CBRN COL Dots killed Bot04 using fas2_mp5k
+[16:28:16] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_pp19
+[16:28:18] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_p226
+[16:28:19] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_rem870
+[16:28:32] Fat Gay: /checkphone
+[16:28:34] (TEAM) Fat Gay: /phone
+[16:28:38] Fat Gay: /phone
+[16:28:45] Fat Gay killed Bot05 using cw_fiveseven
+[16:28:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_ragingbull
+[16:28:55] CBRN COL Dots killed Bot09 using fas2_ragingbull
+[16:29:02] CBRN COL Dots killed Bot08 using fas2_ragingbull
+[16:29:03] CBRN COL Dots killed Bot06 using fas2_ragingbull
+[16:29:14] CBRN COL Dots killed Bot13 using fas2_ragingbull
+[16:29:22] CBRN COL Dots killed Bot05 using fas2_ragingbull
+[16:29:31] Dropped "Bot11" from server<BOT>
+[16:29:32] CBRN COL Dots killed Bot09 using fas2_ragingbull
+[16:29:45] Dropped "Bot05" from server<BOT>
+[16:29:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:29:52] Fat Gay killed Bot08 using cw_fiveseven
+[16:29:53] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:29:54] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:29:55] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:29:56] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m24
+[16:30:02] CBRN COL Dots killed Bot12 using fas2_m24
+[16:30:09] Dropped "Bot08" from server<BOT>
+[16:30:10] CBRN COL Dots killed Bot06 using fas2_m24
+[16:30:23] Dropped "Bot04" from server<BOT>
+[16:30:39] CBRN COL Dots killed Bot14 using fas2_ragingbull
+[16:30:45] CBRN COL Dots killed Bot07 using fas2_ragingbull
+[16:30:53] CBRN COL Dots killed Bot13 using fas2_ragingbull
+[16:30:57] CBRN COL Dots killed Bot10 using fas2_ragingbull
+[16:31:03] CBRN COL Dots killed Bot06 using fas2_ragingbull
+[16:31:06] Dropped "Bot09" from server<BOT>
+[16:31:13] CBRN COL Dots killed Bot12 using fas2_ragingbull
+[16:31:13] Dropped "Bot06" from server<BOT>
+[16:31:20] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m4a1
+[16:31:21] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m4a1
+[16:31:22] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep fas2_m4a1
+[16:31:24] Dropped "Bot13" from server<BOT>
+[16:31:28] CBRN COL Dots killed Bot15 using fas2_m4a1
+[16:31:50] CBRN COL Dots killed Bot03 using fas2_m4a1
+[16:31:55] CBRN COL Dots killed Bot12 using fas2_m4a1
+[16:32:03] Fat Gay was killed by trigger_hurt
+[16:32:03] CBRN COL Dots killed Bot14 using fas2_m4a1
+[16:32:06] Fat Gay: !goto dot
+[16:32:06] Fat Gay teleported to CBRN COL Dots
+[16:32:13] Dropped "Bot12" from server<BOT>
+[16:32:19] CBRN COL Dots killed Bot10 using fas2_m4a1
+[16:32:30] CBRN COL Dots killed Bot07 using fas2_m4a1
+[16:32:35] CBRN COL Dots killed Bot15 using fas2_m4a1
+[16:32:50] Dropped "Bot14" from server<BOT>
+[16:32:55] Dropped "Bot07" from server<BOT>
+[16:33:08] Dropped "Bot10" from server<BOT>
+[16:33:39] Dropped "Bot15" from server<BOT>
+[16:34:01] Dropped "Bot03" from server<BOT>
+[16:34:56] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:34:56] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:34:56] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:34:56] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:34:57] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:34:59] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[16:34:59] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[16:34:59] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[16:35:02] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[16:35:02] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[16:35:02] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[16:35:04] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[16:35:04] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[16:35:04] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[16:35:09] Fat Gay<STEAM_0:1:218173703> used the tool glow on maps/rp_powerplant_v2b2.bsp
+[16:35:09] Fat Gay<STEAM_0:1:218173703> used the tool glow on maps/rp_powerplant_v2b2.bsp
+[16:35:10] Fat Gay<STEAM_0:1:218173703> used the tool glow on maps/rp_powerplant_v2b2.bsp
+[16:35:10] Fat Gay<STEAM_0:1:218173703> used the tool glow on maps/rp_powerplant_v2b2.bsp
+[16:35:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[16:35:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[16:35:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[16:35:13] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[16:35:14] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[16:35:15] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[16:35:15] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[16:35:15] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[16:35:25] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:26] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:26] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:26] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:26] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:26] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:32] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:32] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:32] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:32] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:32] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:33] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:33] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:33] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:35:33] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:37:20] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:38:52] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:38:52] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:38:53] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:38:54] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:38:55] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on models/ocdev/cars/truck/1999_gmc_sierra_1500_ext.mdl
+[16:39:05] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on *218
+[16:39:05] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:39:06] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:39:08] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:39:10] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:46] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:46] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on *210
+[16:41:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:55] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:41:55] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:47:16] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[16:48:38] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_crowbar
+[16:48:43] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_crowbar
+[16:48:52] CBRN COL Dots killed Fat Gay using player
+[16:51:28] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:51:29] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:51:37] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_ar2
+[16:51:41] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_bugbait
+[16:51:43] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_crossbow
+[16:51:47] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_crowbar
+[16:51:48] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_frag
+[16:51:50] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_physcannon
+[16:51:55] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_pistol
+[16:52:06] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_rpg
+[16:52:17] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_shotgun
+[16:52:21] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_slam
+[16:52:24] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_smg1
+[16:52:30] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_stunstick
+[16:52:34] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_crowbar
+[16:52:39] CBRN COL Dots killed Fat Gay using player
+[16:52:45] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:51] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[16:52:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:52:53] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_357
+[16:56:02] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_crowbar
+[16:56:10] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_pistol
+[16:56:17] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_rpg
+[16:56:22] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_physcannon
+[16:56:31] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_smg1
+[16:56:48] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_fists
+[16:56:52] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep gmod_camera
+[16:57:01] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_physgun
+[16:57:12] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep manhack_welder
+[16:57:22] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep gmod_tool
+[16:57:33] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_medkit
+[17:02:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_crowbar
+[17:02:18] Fat Gay: !goto dots
+[17:02:18] Fat Gay teleported to CBRN COL Dots
+[17:02:22] Fat Gay killed CBRN COL Dots using player
+[17:12:22] CBRN COL Dots killed Fat Gay using cw_deagle
+[17:14:12] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_9mmar
+[17:14:20] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_sniperrifle
+[17:14:31] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_rpg
+[17:14:36] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_shockrifle
+[17:14:42] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_shotgun
+[17:14:48] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_m249
+[17:14:56] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_displacer
+[17:15:03] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_handgrenade
+[17:15:06] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_eagle
+[17:15:12] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_9mmhandgun
+[17:15:18] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_knife
+[17:15:23] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_satchel
+[17:15:33] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_pipewrench
+[17:15:38] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep weapon_hlof_sporelauncher
+[17:15:47] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep heretic_cw2_m27
+[17:16:25] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep cw_ar15
+[17:17:17] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep cw_mr96
+[17:17:27] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep cw_p99
+[17:17:36] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep cw_shorty
+[17:17:45] CBRN COL Dots<STEAM_0:1:72014148> spawned/gave himself swep cw_vss
+
+
+
+[17:19:24] New map: rp_powerplant_v2b2
+[17:19:28] Client "[Opi] Fat Gay" connected.
+[17:20:21] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+[17:20:48] Client "Dots" connected.
+[17:22:03] Fat Gay: !SPAWNMIC
+[17:22:33] Client "Dots" spawned in server <STEAM_0:1:72014148> (took 105 seconds).
+[17:23:02] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/oldbill/microphone.mdl
+[17:24:24] Fat Gay: !spawnmic
+[17:24:27] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:28] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:28] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:28] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:29] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:29] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:29] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:29] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:29] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:30] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:30] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:24:30] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:26:39] Fat Gay: !spawnmic
+[17:27:32] Fat Gay: !menu
+[17:27:43] Fat Gay changed the map to rp_powerplant_v2b2
+[17:27:44] Server is shutting down/changing levels.
+
+
+
+[17:28:25] New map: rp_powerplant_v2b2
+[17:29:36] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 100 seconds).
+[17:29:42] Client "Dots" spawned in server <STEAM_0:1:72014148> (took 106 seconds).
+[17:58:25] Fat Gay: !spawnmic
+[17:58:50] Fat Gay: !spawnmic
+[18:02:53] Client "Bot01" connected.
+[18:02:53] Client "Bot01" spawned in server <BOT> (took 2097 seconds).
+[18:06:36] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/oldbill/microphone.mdl
+[18:08:23] Fat Gay suicided!
+[18:08:33] CBRN COL Dots suicided!
+[18:21:56] Dropped "CBRN COL Dots" from server<STEAM_0:1:72014148>
+[18:22:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ak74
+[18:23:21] Fat Gay was killed by sent_elegant_printer
+[18:23:25] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ar15
+[18:24:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[18:24:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[18:24:41] Fat Gay suicided!
+[18:24:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[18:25:05] Fat Gay suicided!
+[18:26:18] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/breen.mdl
+[18:26:49] Fat Gay<STEAM_0:1:218173703> spawned effect models/advisor.mdl
+
+
+
+[18:44:23] New map: rp_powerplant_v2b2
+[18:44:45] Client "[Opi] Fat Gay" connected.
+[18:45:47] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 62 seconds).
+[19:19:09] Client "Bot01" connected.
+[19:19:09] Client "Bot01" spawned in server <BOT> (took 2167 seconds).
+[19:24:39] Fat Gay suicided!
+[19:33:57] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[19:33:57] Dropped "Bot01" from server<BOT>
+[20:43:50] Client "[Opi] Fat Gay" connected.
+[20:44:48] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+[20:48:37] Fat Gay: /quickwant
+[20:48:38] Fat Gay: /quickwant
+[21:17:59] Client "Bot02" connected.
+[21:17:59] Client "Bot02" spawned in server <BOT> (took 9297 seconds).
+[21:23:29] Fat Gay suicided!
+[21:43:45] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:43:45] Dropped "Bot02" from server<BOT>
+
+
+
+[23:32:47] New map: rp_powerplant_v2b2
+[23:32:56] Client "[Opi] Fat Gay" connected.
+[23:34:07] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 71 seconds).
+[23:34:45] Fat Gay: !uadmin
+[23:35:01] Fat Gay: !unadmin
+[23:39:53] Fat Gay: !unadmin
+<Logging continued in "data/ulx_logs/09-19-18.txt">

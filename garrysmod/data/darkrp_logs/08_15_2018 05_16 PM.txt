@@ -1,0 +1,27 @@
+Wed Aug 15 17:16:26 2018	Rodrinr (STEAM_0:0:33637358) has joined the game
+Wed Aug 15 17:16:27 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:18:41 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:29:04 2018	Rodrinr was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Wed Aug 15 17:29:09 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:29:29 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:51:19 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:53:36 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:53:55 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:54:17 2018	Bot01 (BOT) has joined the game
+Wed Aug 15 17:54:17 2018	Bot01 (BOT) spawned
+Wed Aug 15 17:55:19 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 17:57:23 2018	Rodrinr was killed by Himself with a suicide trick
+Wed Aug 15 17:57:28 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 18:02:30 2018	Rodrinr was killed by Himself with a suicide trick
+Wed Aug 15 18:02:37 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 18:15:27 2018	Rodrinr was killed by Himself with a suicide trick
+Wed Aug 15 18:15:27 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 18:16:58 2018	Rodrinr was killed by Entity [1946][trigger_hurt] with a trigger_hurt
+Wed Aug 15 18:17:01 2018	Rodrinr (STEAM_0:0:33637358) spawned
+Wed Aug 15 18:17:06 2018	Rodrinr (STEAM_0:0:33637358) disconnected
+Wed Aug 15 18:17:06 2018	Bot01 (BOT) disconnected
+Wed Aug 15 23:53:49 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed Aug 15 23:53:49 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Aug 16 00:08:40 2018	Emmett was killed by Entity [1402][trigger_hurt] with a trigger_hurt
+Thu Aug 16 00:08:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Aug 16 00:14:57 2018	Emmett (STEAM_0:1:41660292) disconnected

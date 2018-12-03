@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Model":"models/weapons/w_slam.mdl","Class":"weapon_slam"},"Class":"spawned_weapon"}]

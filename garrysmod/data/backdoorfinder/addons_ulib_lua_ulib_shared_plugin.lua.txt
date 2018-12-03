@@ -1,0 +1,169 @@
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( "http://google.com", httpCheck, httpErr ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________
+	http.Fetch( url, receiverFor( plugin ) ) - severe
+
+___________

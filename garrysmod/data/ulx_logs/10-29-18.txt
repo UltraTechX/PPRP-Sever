@@ -1,0 +1,10 @@
+[02:30:54] New map: rp_powerplant_v2b3
+
+
+
+[02:46:13] New map: rp_powerplant_v2b3
+[02:46:13] Client "{Opi} Chicken 136" connected.
+
+
+
+[08:02:04] New map: rp_powerplant_v2b3

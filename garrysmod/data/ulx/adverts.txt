@@ -1,0 +1,84 @@
+; Here's where you put advertisements
+;
+; Whether an advertisement is a center advertisement (csay) or text box advertisement (tsay) is determined by
+; whether or not the "time_on_screen" key is present. If it is present, it's a csay.
+;
+; The 'time' argument inside a center advertisement and the number following a chat advertisement are the
+; time it takes between each showing of this advertisement in seconds. Set it to 300 and the advertisement
+; will show every five minutes.
+;
+; If you want to make it so that one advertisement is shown and then will always be followed by another,
+; put them in a table. For example, if you add the following to the bottom of the file, A will always show
+; first followed by B.
+; "my_group"
+; {
+;     {
+;         "text" "Advertisement A"
+;         "time" "200"
+;     }
+;     {
+;         "text" "Advertisement B"
+;         "time" "300"
+;     }
+; }
+
+
+{
+	"text" "Want to join the community? Join our discord! https://discord.gg/HntKeW3"
+	"red" "161"
+	"green" "0"
+	"blue" "255"
+	"time" "363"
+}
+{
+	"text" "Want to support the server? do !donate in chat!"
+	"red" "255"
+	"green" "0"
+	"blue" "0"
+	"time_on_screen" "10"
+	"time" "300"
+}
+{
+	"text" "Want to support the server? do !donate in chat!"
+	"red" "255"
+	"green" "0"
+	"blue" "0"
+	"time" "300"
+}
+{
+	"text" "Want to get some rewards for putting our tag in your name? do !rewards"
+	"red" "255"
+	"green" "182"
+	"blue" "0"
+	"time_on_screen" "10"
+	"time" "387"
+}
+{
+	"text" "Is someone breaking the rules? do !report"
+	"red" "208"
+	"green" "255"
+	"blue" "0"
+	"time_on_screen" "10"
+	"time" "250"
+}
+{
+	"text" "Is someone breaking the rules? do !report"
+	"red" "208"
+	"green" "255"
+	"blue" "0"
+	"time" "250"
+}
+{
+	"text" "Want free money for having [Opi] in your name? do !rewards"
+	"red" "255"
+	"green" "0"
+	"blue" "0"
+	"time" "247"
+}
+{
+	"text" "Want 25k for free? do !steam"
+	"red" "155"
+	"green" "155"
+	"blue" "155"
+	"time" "353"
+}

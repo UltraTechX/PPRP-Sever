@@ -1,0 +1,8 @@
+Sun Aug 12 17:09:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Aug 12 17:09:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 17:09:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 17:14:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 17:14:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 17:15:06 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Aug 12 17:15:25 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_combine_s
+Sun Aug 12 17:15:41 2018	Fat Gay (STEAM_0:1:218173703) spawned

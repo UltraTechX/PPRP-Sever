@@ -1,0 +1,723 @@
+Wed Oct 10 20:36:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Oct 10 20:36:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 20:36:37 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Wed Oct 10 20:36:37 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 20:36:42 2018	chiken (STEAM_0:0:143719653) has joined the game
+Wed Oct 10 20:36:42 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 20:36:58 2018	Imperial_Germany (STEAM_0:0:115652713) has joined the game
+Wed Oct 10 20:36:58 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Wed Oct 10 20:37:02 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Wed Oct 10 20:37:02 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 20:37:09 2018	chiken (STEAM_0:0:143719653): // The fuck was that?
+Wed Oct 10 20:37:14 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 10 20:37:14 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 10 20:37:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) has joined the game
+Wed Oct 10 20:37:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 20:37:19 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 10 20:37:19 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 20:37:28 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Wed Oct 10 20:37:28 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Wed Oct 10 20:37:32 2018	chiken (STEAM_0:0:143719653): // I just join in to dubstep playing with like 500 db bass
+Wed Oct 10 20:37:35 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Wed Oct 10 20:37:35 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Wed Oct 10 20:37:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 20:37:53 2018	chiken (STEAM_0:0:143719653): so whats the objective?
+Wed Oct 10 20:38:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Lol!
+Wed Oct 10 20:38:13 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Wed Oct 10 20:38:13 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 20:38:32 2018	chiken (STEAM_0:0:143719653): Pretty bad timing
+Wed Oct 10 20:38:34 2018	chiken (STEAM_0:0:143719653): i guess
+Wed Oct 10 20:38:34 2018	Loco Peepee (STEAM_0:1:44466441) has joined the game
+Wed Oct 10 20:38:34 2018	Loco Peepee (STEAM_0:1:44466441) spawned
+Wed Oct 10 20:38:34 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 20:38:46 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Wed Oct 10 20:38:50 2018	chiken (STEAM_0:0:143719653): sure
+Wed Oct 10 20:38:52 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Wed Oct 10 20:38:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 20:38:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 20:39:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto chik
+Wed Oct 10 20:39:21 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /rpname Johnny K Bronk
+Wed Oct 10 20:39:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // "So guys we did it."
+Wed Oct 10 20:39:36 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 20:39:37 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 20:39:43 2018	Enviro (STEAM_0:0:80115103): // was there a meltdowdn
+Wed Oct 10 20:39:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Wed Oct 10 20:39:48 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc yes
+Wed Oct 10 20:39:48 2018	John Schaefer (STEAM_0:0:115652713): // Yes
+Wed Oct 10 20:39:51 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 20:39:51 2018	Enviro (STEAM_0:0:80115103): // k
+Wed Oct 10 20:39:52 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 20:39:53 2018	chiken (STEAM_0:0:143719653): // we reacher a quarter of a million degrees
+Wed Oct 10 20:39:57 2018	chiken (STEAM_0:0:143719653): // Reached*
+Wed Oct 10 20:39:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 20:40:02 2018	Dave Letcher (STEAM_0:1:52038966): // The Lord taken
+Wed Oct 10 20:40:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc exactly
+Wed Oct 10 20:40:06 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 10 20:40:07 2018	Dave Letcher (STEAM_0:1:52038966): // The lord taketh
+Wed Oct 10 20:40:09 2018	calvin (STEAM_0:0:120980248) has joined the game
+Wed Oct 10 20:40:09 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 20:40:10 2018	Dave Letcher (STEAM_0:1:52038966): // and the Lord yeeteth
+Wed Oct 10 20:40:14 2018	Johnny K Bronk (STEAM_0:1:167614500): @ help
+Wed Oct 10 20:40:15 2018	Enviro (STEAM_0:0:80115103): /job Plant Worker
+Wed Oct 10 20:40:20 2018	chiken (STEAM_0:0:143719653): // Dont forget to get calcium
+Wed Oct 10 20:40:34 2018	Enviro (STEAM_0:0:80115103): 
+Wed Oct 10 20:40:54 2018	chiken (STEAM_0:0:143719653): hey
+Wed Oct 10 20:41:03 2018	chiken (STEAM_0:0:143719653): i dunno
+Wed Oct 10 20:41:07 2018	Loco Peepee (STEAM_0:1:44466441) spawned
+Wed Oct 10 20:41:07 2018	chiken (STEAM_0:0:143719653): the tour guide left me
+Wed Oct 10 20:41:09 2018	chiken (STEAM_0:0:143719653): :(
+Wed Oct 10 20:41:13 2018	Enviro (STEAM_0:0:80115103): hey
+Wed Oct 10 20:41:15 2018	Enviro (STEAM_0:0:80115103): need a hit
+Wed Oct 10 20:41:17 2018	chiken (STEAM_0:0:143719653): // How do i get back?
+Wed Oct 10 20:41:18 2018	Enviro (STEAM_0:0:80115103): :)
+Wed Oct 10 20:41:25 2018	Enviro (STEAM_0:0:80115103): bud?
+Wed Oct 10 20:41:29 2018	chiken (STEAM_0:0:143719653): ooh
+Wed Oct 10 20:41:33 2018	Lukyn Red (STEAM_0:0:81441026): // back where?
+Wed Oct 10 20:41:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): FAK
+Wed Oct 10 20:41:34 2018	Enviro (STEAM_0:0:80115103): Why is SWAt in here
+Wed Oct 10 20:41:35 2018	Loco Peepee was killed by waviestballoonx9 [WaviestRP] with a fas2_thrown_m67
+Wed Oct 10 20:41:35 2018	Enviro was killed by waviestballoonx9 [WaviestRP] with a fas2_thrown_m67
+Wed Oct 10 20:41:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // SORRY
+Wed Oct 10 20:41:41 2018	Loco Peepee (STEAM_0:1:44466441) spawned
+Wed Oct 10 20:41:43 2018	Enviro (STEAM_0:0:80115103) disconnected
+Wed Oct 10 20:41:44 2018	DimensionRMG (STEAM_0:1:111567013) disconnected
+Wed Oct 10 20:42:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Uhh
+Wed Oct 10 20:42:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto chik
+Wed Oct 10 20:42:23 2018	Loco Peepee (STEAM_0:1:44466441) spawned
+Wed Oct 10 20:42:25 2018	chiken (STEAM_0:0:143719653): I lost my tour guide
+Wed Oct 10 20:42:36 2018	chiken (STEAM_0:0:143719653): so now i am role playing as a lost visitor
+Wed Oct 10 20:42:48 2018	Johnny K Bronk was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 10 20:42:50 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 10 20:42:56 2018	chiken (STEAM_0:0:143719653): Am i destroying it?
+Wed Oct 10 20:43:10 2018	chiken (STEAM_0:0:143719653): But i lost my guide
+Wed Oct 10 20:43:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 20:43:18 2018	chiken (STEAM_0:0:143719653): So it's fair
+Wed Oct 10 20:43:19 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 10 20:43:20 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 20:43:20 2018	Loco Peepee (STEAM_0:1:44466441) spawned
+Wed Oct 10 20:43:26 2018	Dave Letcher (STEAM_0:1:52038966): /advert We have 1 active boost laser I can spot from the fan room
+Wed Oct 10 20:43:30 2018	chiken (STEAM_0:0:143719653): uhm
+Wed Oct 10 20:43:59 2018	chiken (STEAM_0:0:143719653): hey
+Wed Oct 10 20:44:03 2018	chiken (STEAM_0:0:143719653): uhm
+Wed Oct 10 20:44:08 2018	chiken (STEAM_0:0:143719653): i think the radiation
+Wed Oct 10 20:44:11 2018	chiken (STEAM_0:0:143719653): kinda fucked me upo
+Wed Oct 10 20:44:15 2018	chiken (STEAM_0:0:143719653): im like one of those babies
+Wed Oct 10 20:44:17 2018	calvin (STEAM_0:0:120980248) disconnected
+Wed Oct 10 20:44:23 2018	chiken (STEAM_0:0:143719653): from japan
+Wed Oct 10 20:44:32 2018	Dave Letcher (STEAM_0:1:52038966): /advert I think somone just disabled the boost in trade power level 2
+Wed Oct 10 20:44:37 2018	Dave Letcher (STEAM_0:1:52038966): /advert Test
+Wed Oct 10 20:44:44 2018	Dave Letcher (STEAM_0:1:52038966): // ffs my alert bind never works
+Wed Oct 10 20:44:49 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Wed Oct 10 20:44:49 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 20:44:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 20:45:01 2018	Loco Peepee (STEAM_0:1:44466441) disconnected
+Wed Oct 10 20:45:03 2018	chiken (STEAM_0:0:143719653): OOH
+Wed Oct 10 20:45:08 2018	chiken (STEAM_0:0:143719653): me pressy buttony
+Wed Oct 10 20:45:13 2018	Dave Letcher (STEAM_0:1:52038966): /advert Test
+Wed Oct 10 20:45:14 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Wed Oct 10 20:45:16 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Wed Oct 10 20:45:20 2018	DimensionRMG (STEAM_0:1:111567013): // That RDM tho
+Wed Oct 10 20:45:26 2018	chiken (STEAM_0:0:143719653): me like button
+Wed Oct 10 20:45:27 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 20:45:33 2018	chiken (STEAM_0:0:143719653): me little dumb dumb
+Wed Oct 10 20:45:36 2018	chiken (STEAM_0:0:143719653): sorry :(
+Wed Oct 10 20:45:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Note: The inspector has came!
+Wed Oct 10 20:45:46 2018	chiken (STEAM_0:0:143719653): ME GET OFF TO FAN
+Wed Oct 10 20:45:59 2018	fallenturtle (STEAM_0:1:62867403): /advert good
+Wed Oct 10 20:46:03 2018	chiken (STEAM_0:0:143719653): ok
+Wed Oct 10 20:46:06 2018	Craftygarrett (STEAM_0:1:184775407): @fat i need you
+Wed Oct 10 20:46:07 2018	chiken (STEAM_0:0:143719653): ill stop minging
+Wed Oct 10 20:46:08 2018	chiken was killed by Entity [2889][func_rotating] with a func_rotating
+Wed Oct 10 20:46:09 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 20:46:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring chik
+Wed Oct 10 20:46:19 2018	Craftygarrett (STEAM_0:1:184775407): @for a little thing
+Wed Oct 10 20:46:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 10 20:46:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y INSPECTOR!
+Wed Oct 10 20:46:49 2018	DimensionRMG (STEAM_0:1:111567013): // Garret. 
+Wed Oct 10 20:46:59 2018	DimensionRMG (STEAM_0:1:111567013): Set Core Security as one of the teams
+Wed Oct 10 20:47:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 10 20:47:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 10 20:47:19 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Secuirty have failed! 1/10!
+Wed Oct 10 20:47:25 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 20:47:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 20:47:35 2018	Craftygarrett (STEAM_0:1:184775407): // fat i cant mobe it
+Wed Oct 10 20:47:39 2018	Craftygarrett (STEAM_0:1:184775407): // move
+Wed Oct 10 20:47:49 2018	DimensionRMG (STEAM_0:1:111567013): // Well, that security guard lacked keycard scanner intelligence
+Wed Oct 10 20:48:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Now inspecting the core
+Wed Oct 10 20:48:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto chik
+Wed Oct 10 20:48:24 2018	Lukyn Red (STEAM_0:0:81441026): // Why do you have some creepy sounds for people burnin gin the core?
+Wed Oct 10 20:48:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ Were do I apply for staff?
+Wed Oct 10 20:48:38 2018	chiken (STEAM_0:0:143719653): is this better?
+Wed Oct 10 20:48:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok. =3
+Wed Oct 10 20:49:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 20:49:15 2018	chiken (STEAM_0:0:143719653): is this minging
+Wed Oct 10 20:49:15 2018	Nagegg (STEAM_0:0:98220726) has joined the game
+Wed Oct 10 20:49:15 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 20:49:18 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 10 20:49:18 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 10 20:49:25 2018	DimensionRMG (STEAM_0:1:111567013): John
+Wed Oct 10 20:49:28 2018	chiken (STEAM_0:0:143719653): ok
+Wed Oct 10 20:49:35 2018	chiken (STEAM_0:0:143719653): so
+Wed Oct 10 20:49:39 2018	DimensionRMG (STEAM_0:1:111567013): Make sure you add all the security teams to the keycard scanner
+Wed Oct 10 20:49:45 2018	chiken (STEAM_0:0:143719653): How do i go out and be a terrorist
+Wed Oct 10 20:50:03 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Wed Oct 10 20:50:11 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Admin room as failed! 2/10 doors unlocked
+Wed Oct 10 20:50:20 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 10 20:50:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring chik
+Wed Oct 10 20:50:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // "You have been cursed into becoming a feathery monster of the forest." wth
+Wed Oct 10 20:50:45 2018	fallenturtle (STEAM_0:1:62867403): //advert rly you cant lock those doors
+Wed Oct 10 20:50:47 2018	chiken (STEAM_0:0:143719653): no?
+Wed Oct 10 20:50:48 2018	Lukyn Red (STEAM_0:0:81441026): make it 3 second
+Wed Oct 10 20:50:54 2018	fallenturtle (STEAM_0:1:62867403): /advert rly you cant lock those doors
+Wed Oct 10 20:50:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ You have been cursed into becoming a feathery monster of the forest. WTH?!
+Wed Oct 10 20:51:02 2018	chiken (STEAM_0:0:143719653): wait
+Wed Oct 10 20:51:05 2018	chiken (STEAM_0:0:143719653): there we go
+Wed Oct 10 20:51:05 2018	Lukyn Red (STEAM_0:0:81441026): // don't mind being cursed
+Wed Oct 10 20:51:07 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 20:51:09 2018	Lukyn Red (STEAM_0:0:81441026): // it's a bug
+Wed Oct 10 20:51:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): What the
+Wed Oct 10 20:51:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): HELL
+Wed Oct 10 20:51:15 2018	Dave Letcher (STEAM_0:1:52038966): // Fat Gay, hes just that for the tour?
+Wed Oct 10 20:51:16 2018	Lukyn Red (STEAM_0:0:81441026): // should be local but it's global
+Wed Oct 10 20:51:19 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): =Z
+Wed Oct 10 20:51:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no dave i think hes actually rp'ing
+Wed Oct 10 20:51:37 2018	DimensionRMG (STEAM_0:1:111567013): Reaper?
+Wed Oct 10 20:51:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert This place has failed 2/10 times!
+Wed Oct 10 20:51:41 2018	Dave Letcher (STEAM_0:1:52038966): // hasn;t been 10 minutes yet has it?
+Wed Oct 10 20:51:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Guys
+Wed Oct 10 20:51:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I got this
+Wed Oct 10 20:51:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 20:52:23 2018	chiken (STEAM_0:0:143719653): !motd
+Wed Oct 10 20:52:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio Hello?
+Wed Oct 10 20:52:36 2018	Lukyn Red (STEAM_0:0:81441026): /radio Hi
+Wed Oct 10 20:52:39 2018	chiken (STEAM_0:0:143719653): !motd
+Wed Oct 10 20:52:40 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 20:52:41 2018	John Schaefer (STEAM_0:0:115652713): /advert I HEAR A MOTHERFUCKING KEYCARD SCANNER BEING CRACKED
+Wed Oct 10 20:52:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio Ok!
+Wed Oct 10 20:52:47 2018	calvin (STEAM_0:0:120980248) has joined the game
+Wed Oct 10 20:52:47 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 20:53:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Report to core!
+Wed Oct 10 20:53:19 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 20:53:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /ADVERT rEPORTING*
+Wed Oct 10 20:53:26 2018	Dave Letcher (STEAM_0:1:52038966): /advert I have Checkpoints setup at their vents sir
+Wed Oct 10 20:53:26 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT COOLANT'S OFF
+Wed Oct 10 20:53:43 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT I REPEAT THE COOLANT'S OFF
+Wed Oct 10 20:53:50 2018	John F Kennedy (STEAM_0:1:121067955) has joined the game
+Wed Oct 10 20:53:50 2018	John F Kennedy (STEAM_0:1:121067955) spawned
+Wed Oct 10 20:53:50 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 20:53:51 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Hey we have more people on, this is how to make a server big
+Wed Oct 10 20:53:52 2018	fallenturtle (STEAM_0:1:62867403): /advert then turn it on
+Wed Oct 10 20:53:59 2018	Dave Letcher (STEAM_0:1:52038966): /advert What fucking coolant thouigh
+Wed Oct 10 20:53:59 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT No shit
+Wed Oct 10 20:54:02 2018	Dave Letcher (STEAM_0:1:52038966): /advert We have 3 coolants
+Wed Oct 10 20:54:18 2018	fallenturtle (STEAM_0:1:62867403): /advert he means the pumps
+Wed Oct 10 20:54:27 2018	chiken (STEAM_0:0:143719653): @ hey
+Wed Oct 10 20:54:33 2018	John Schaefer (STEAM_0:0:115652713): // I press E on the numbers and nothing happens
+Wed Oct 10 20:54:35 2018	chiken (STEAM_0:0:143719653): @ I cant climb up this ladder
+Wed Oct 10 20:54:38 2018	John Schaefer (STEAM_0:0:115652713): // Like it dosn't register
+Wed Oct 10 20:54:41 2018	fallenturtle (STEAM_0:1:62867403): // dont turn it on
+Wed Oct 10 20:54:47 2018	chiken (STEAM_0:0:143719653): I tried to crack it
+Wed Oct 10 20:54:48 2018	fallenturtle (STEAM_0:1:62867403): // thats emergency colant
+Wed Oct 10 20:54:51 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 20:54:53 2018	chiken (STEAM_0:0:143719653): but i wouldn't let me get in
+Wed Oct 10 20:54:54 2018	John Schaefer (STEAM_0:0:115652713): // Oh
+Wed Oct 10 20:54:57 2018	chiken (STEAM_0:0:143719653): the lamp is blocking
+Wed Oct 10 20:55:04 2018	chiken (STEAM_0:0:143719653): No
+Wed Oct 10 20:55:06 2018	chiken (STEAM_0:0:143719653): i can open it
+Wed Oct 10 20:55:11 2018	John Schaefer (STEAM_0:0:115652713): // Well isn't the thingy suppost to be spinning
+Wed Oct 10 20:55:19 2018	chiken (STEAM_0:0:143719653): xD
+Wed Oct 10 20:55:24 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Wed Oct 10 20:55:31 2018	fallenturtle (STEAM_0:1:62867403): // what thingy
+Wed Oct 10 20:55:41 2018	John Schaefer (STEAM_0:0:115652713): // Forget about it
+Wed Oct 10 20:55:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring dave
+Wed Oct 10 20:55:45 2018	John Schaefer (STEAM_0:0:115652713): // Im going back to building
+Wed Oct 10 20:55:48 2018	fallenturtle (STEAM_0:1:62867403): // the generator yes
+Wed Oct 10 20:55:59 2018	chiken (STEAM_0:0:143719653): You cant get through though
+Wed Oct 10 20:56:05 2018	chiken (STEAM_0:0:143719653): The lamp is blocking
+Wed Oct 10 20:56:23 2018	DimensionRMG was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Wed Oct 10 20:56:27 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 20:56:27 2018	chiken was killed by John Schaefer with a cw_g36c
+Wed Oct 10 20:56:30 2018	chiken (STEAM_0:0:143719653): Hey
+Wed Oct 10 20:56:36 2018	chiken (STEAM_0:0:143719653): We were in a sit
+Wed Oct 10 20:56:37 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 20:56:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring chik
+Wed Oct 10 20:56:40 2018	calvin (STEAM_0:0:120980248) disconnected
+Wed Oct 10 20:56:48 2018	DimensionRMG (STEAM_0:1:111567013): // I did it :3
+Wed Oct 10 20:57:01 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Wed Oct 10 20:57:01 2018	[HN]LightShade (STEAM_0:1:59756947) spawned
+Wed Oct 10 20:57:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 20:57:19 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) has joined the game
+Wed Oct 10 20:57:19 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) spawned
+Wed Oct 10 20:57:24 2018	chiken (STEAM_0:0:143719653): what
+Wed Oct 10 20:57:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 20:57:29 2018	chiken (STEAM_0:0:143719653): oh
+Wed Oct 10 20:57:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 20:57:31 2018	chiken (STEAM_0:0:143719653): you too
+Wed Oct 10 20:57:33 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok
+Wed Oct 10 20:57:45 2018	John F Kennedy (STEAM_0:1:121067955) disconnected
+Wed Oct 10 20:57:52 2018	Nagegg (STEAM_0:0:98220726): /advert Guards Bird boi is has escaped?
+Wed Oct 10 20:57:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ Are lockdown doors not allowed?
+Wed Oct 10 20:58:07 2018	[LN] Georgio (STEAM_0:0:73020306) has joined the game
+Wed Oct 10 20:58:07 2018	[LN] Georgio (STEAM_0:0:73020306) spawned
+Wed Oct 10 20:58:10 2018	Craftygarrett was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 20:58:19 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): No
+Wed Oct 10 20:58:22 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 20:58:24 2018	Nagegg (STEAM_0:0:98220726): /advert BIRD BOI HAS ESCAPED ALL CBRN TO THE LABORTORY
+Wed Oct 10 20:58:25 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): A button but
+Wed Oct 10 20:58:33 2018	fallenturtle (STEAM_0:1:62867403): /advert theres a terroist grunt in the coolant pump room
+Wed Oct 10 20:58:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // oh rip
+Wed Oct 10 20:58:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Every door has a override
+Wed Oct 10 20:58:38 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 10 20:58:42 2018	Dave Letcher (STEAM_0:1:52038966): /advert A double checkpoint is setup
+Wed Oct 10 20:58:52 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ._>
+Wed Oct 10 20:58:53 2018	Nagegg (STEAM_0:0:98220726): /advert We cant control him
+Wed Oct 10 20:58:53 2018	Dave Letcher (STEAM_0:1:52038966): /advert 3431 should be secure
+Wed Oct 10 20:58:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Look
+Wed Oct 10 20:59:00 2018	Nagegg (STEAM_0:0:98220726): !stuck
+Wed Oct 10 20:59:02 2018	Dave Letcher (STEAM_0:1:52038966): /advert Stay in the observation room
+Wed Oct 10 20:59:02 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok!
+Wed Oct 10 20:59:04 2018	Nagegg (STEAM_0:0:98220726): @im stuck
+Wed Oct 10 20:59:13 2018	Craftygarrett (STEAM_0:1:184775407): /pm envi let me out
+Wed Oct 10 20:59:16 2018	[HN]LightShade (STEAM_0:1:59756947) spawned
+Wed Oct 10 20:59:20 2018	Enviro (STEAM_0:0:80115103): /pm crafty i am trying
+Wed Oct 10 20:59:20 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): !
+Wed Oct 10 20:59:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ._.
+Wed Oct 10 20:59:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): SOrry nah
+Wed Oct 10 20:59:49 2018	fallenturtle (STEAM_0:1:62867403): @waviest is rufuseing to listen to my orders
+Wed Oct 10 20:59:50 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /ooc can someone train me please
+Wed Oct 10 20:59:50 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) spawned
+Wed Oct 10 20:59:51 2018	chiken was killed by John Schaefer with a cw_g36c
+Wed Oct 10 20:59:52 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 20:59:54 2018	[HN]LightShade (STEAM_0:1:59756947) spawned
+Wed Oct 10 20:59:54 2018	Dave Letcher (STEAM_0:1:52038966): // no whitlists rn
+Wed Oct 10 20:59:57 2018	Dave Letcher (STEAM_0:1:52038966): // go anything you want
+Wed Oct 10 21:00:03 2018	Nagegg (STEAM_0:0:98220726): /advert 049 Has also now escaped his containment
+Wed Oct 10 21:00:03 2018	John Schaefer (STEAM_0:0:115652713): /advert Terrorist dealt with
+Wed Oct 10 21:00:06 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /
+Wed Oct 10 21:00:07 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:00:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Grut?
+Wed Oct 10 21:00:17 2018	Nagegg (STEAM_0:0:98220726): /advert And 457
+Wed Oct 10 21:00:17 2018	chiken (STEAM_0:0:143719653): oh wow
+Wed Oct 10 21:00:18 2018	John Schaefer (STEAM_0:0:115652713) disconnected
+Wed Oct 10 21:00:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Oh
+Wed Oct 10 21:00:34 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:00:37 2018	Dave Letcher (STEAM_0:1:52038966): // I have hit the card scanner limit
+Wed Oct 10 21:00:41 2018	Dave Letcher (STEAM_0:1:52038966): // May it be increased
+Wed Oct 10 21:00:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i can increase it
+Wed Oct 10 21:00:50 2018	Dave Letcher (STEAM_0:1:52038966): // what is it rn
+Wed Oct 10 21:00:54 2018	[HN]LightShade (STEAM_0:1:59756947): /name Fire Dude
+Wed Oct 10 21:00:57 2018	chiken (STEAM_0:0:143719653): shit
+Wed Oct 10 21:01:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Making a lift to get to the admin room more fast
+Wed Oct 10 21:01:21 2018	Lukyn Red (STEAM_0:0:81441026): // good
+Wed Oct 10 21:01:22 2018	Craftygarrett (STEAM_0:1:184775407): @fat we can break out fading doors are in the way
+Wed Oct 10 21:01:22 2018	John F Kennedy (STEAM_0:1:121067955) has joined the game
+Wed Oct 10 21:01:22 2018	John F Kennedy (STEAM_0:1:121067955) spawned
+Wed Oct 10 21:01:28 2018	Dave Letcher (STEAM_0:1:52038966): /advert use ladders
+Wed Oct 10 21:01:30 2018	fallenturtle (STEAM_0:1:62867403): /advert good
+Wed Oct 10 21:01:35 2018	calvin (STEAM_0:0:120980248) has joined the game
+Wed Oct 10 21:01:35 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 21:01:39 2018	Nagegg was killed by DimensionRMG with a cw_g36c
+Wed Oct 10 21:01:41 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:02:00 2018	DimensionRMG was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 21:02:02 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:02:05 2018	Fire Dude was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:02:06 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:02:06 2018	Fire Dude (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:02:10 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:02:34 2018	DimensionRMG was killed by chiken with a cw_mp5
+Wed Oct 10 21:02:35 2018	fallenturtle (STEAM_0:1:62867403): // owner/fat gey are teleporters alloud?
+Wed Oct 10 21:02:36 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:02:38 2018	Fire Dude (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:02:46 2018	John F Kennedy (STEAM_0:1:121067955) disconnected
+Wed Oct 10 21:02:53 2018	Lukyn Red (STEAM_0:0:81441026): /advert Hello! I would like to invite you to the activity of the day! The dance party! It's happening right now at the debrief
+Wed Oct 10 21:02:53 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /ad Whats the situtation of 049
+Wed Oct 10 21:02:57 2018	pants (STEAM_0:0:77636123) has joined the game
+Wed Oct 10 21:02:57 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:02:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes but not if they exploit the map (go to space/t-spawn)
+Wed Oct 10 21:02:59 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /advert Whats the situation of 049
+Wed Oct 10 21:03:03 2018	Lukyn Red (STEAM_0:0:81441026): /advert (I have pizza)
+Wed Oct 10 21:03:07 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:03:08 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:03:08 2018	Nagegg (STEAM_0:0:98220726): /advert All SCP's have escaped quarntine at the labratory is inplace but it was no use
+Wed Oct 10 21:03:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert lol luk
+Wed Oct 10 21:03:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert fun fact
+Wed Oct 10 21:03:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert guess what
+Wed Oct 10 21:03:27 2018	fallenturtle (STEAM_0:1:62867403): // i died fun
+Wed Oct 10 21:03:30 2018	Lukyn Red (STEAM_0:0:81441026): /advert Every has a job to do
+Wed Oct 10 21:03:31 2018	chiken was killed by DimensionRMG with a weapon_crowbar
+Wed Oct 10 21:03:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !mtod
+Wed Oct 10 21:03:33 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:03:33 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:03:36 2018	Dave Letcher (STEAM_0:1:52038966): /advert how are they out?
+Wed Oct 10 21:03:40 2018	Fire Dude (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:03:46 2018	Nagegg was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:03:46 2018	Dave Letcher (STEAM_0:1:52038966): /advert DID YOU LET THEM OUT!
+Wed Oct 10 21:03:46 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /ooc give mee foood wryyyyy
+Wed Oct 10 21:03:47 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:03:47 2018	fallenturtle (STEAM_0:1:62867403): // a dumbass let them out kough kough the reaserachers
+Wed Oct 10 21:03:47 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:03:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert guess what the rule is about activity coordinators lo
+Wed Oct 10 21:03:51 2018	Fire Dude (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:03:52 2018	Fire Dude (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:03:54 2018	fallenturtle (STEAM_0:1:62867403): // not dumbass
+Wed Oct 10 21:03:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !motd
+Wed Oct 10 21:03:59 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /name Scp-457
+Wed Oct 10 21:04:00 2018	Lukyn Red (STEAM_0:0:81441026): !motd
+Wed Oct 10 21:04:02 2018	fallenturtle (STEAM_0:1:62867403): // just a dumb person
+Wed Oct 10 21:04:03 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:04:03 2018	Fire Dude was killed by DimensionRMG with a weapon_crowbar
+Wed Oct 10 21:04:04 2018	Fire Dude (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:04:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert READY BOIS
+Wed Oct 10 21:04:06 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169): /name 457
+Wed Oct 10 21:04:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 23. You must participate in activities made by coordinators unless one of them tells you otherwise
+Wed Oct 10 21:04:09 2018	457 (STEAM_0:0:113547169): /ooc WRYYYY
+Wed Oct 10 21:04:14 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:04:19 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:04:19 2018	Fire Dude was killed by DimensionRMG with a weapon_crowbar
+Wed Oct 10 21:04:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert lOL
+Wed Oct 10 21:04:22 2018	457 (STEAM_0:0:113547169): /ooc Im burninng helpppppp meeee
+Wed Oct 10 21:04:26 2018	Fire Dude (STEAM_0:1:59756947): y
+Wed Oct 10 21:04:30 2018	Fire Dude (STEAM_0:1:59756947): 
+Wed Oct 10 21:04:31 2018	DimensionRMG was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:04:32 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:04:32 2018	Fire Dude (STEAM_0:1:59756947): 
+Wed Oct 10 21:04:33 2018	Fire Dude (STEAM_0:1:59756947): 
+Wed Oct 10 21:04:36 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Wed Oct 10 21:04:39 2018	Fire Dude (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:04:45 2018	457 (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:04:51 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:05:04 2018	Dave Letcher (STEAM_0:1:52038966): // Fat gay you never increased scanner limit
+Wed Oct 10 21:05:09 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:05:10 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio HELP!
+Wed Oct 10 21:05:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im workin on it
+Wed Oct 10 21:05:19 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:05:19 2018	457 (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:05:25 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:05:27 2018	457 (STEAM_0:0:113547169): /ooc Im burning someone help
+Wed Oct 10 21:05:33 2018	457 (STEAM_0:0:113547169): /name Terorist Joseph
+Wed Oct 10 21:05:36 2018	Lukyn Red (STEAM_0:0:81441026): // You are supposed to
+Wed Oct 10 21:05:39 2018	Nagegg (STEAM_0:0:98220726): /a lol
+Wed Oct 10 21:05:39 2018	Dave Letcher (STEAM_0:1:52038966): // no hes chef
+Wed Oct 10 21:05:41 2018	Fire Dude (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:05:46 2018	waviestballoonx9 [WaviestRP] was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 21:05:50 2018	Dave Letcher (STEAM_0:1:52038966): // you notice his name is fucking pink
+Wed Oct 10 21:05:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio x_X
+Wed Oct 10 21:05:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:05:54 2018	Lukyn Red (STEAM_0:0:81441026): // his anme confused me
+Wed Oct 10 21:06:03 2018	Lukyn Red (STEAM_0:0:81441026): / name*
+Wed Oct 10 21:06:09 2018	Lukyn Red (STEAM_0:0:81441026): // name*
+Wed Oct 10 21:06:19 2018	Terorist Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:06:20 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Wed Oct 10 21:06:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fixed dave
+Wed Oct 10 21:06:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert I hate the trams they take too long lol
+Wed Oct 10 21:06:37 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:06:39 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 21:06:46 2018	Nagegg was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 21:06:47 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:06:47 2018	Fire Dude (STEAM_0:1:59756947): .
+Wed Oct 10 21:06:48 2018	[LN] Georgio (STEAM_0:0:73020306) spawned
+Wed Oct 10 21:06:53 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:06:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ID
+Wed Oct 10 21:07:06 2018	chiken was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:07:07 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ID please sir
+Wed Oct 10 21:07:08 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:07:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Keycard
+Wed Oct 10 21:07:13 2018	pants (STEAM_0:0:77636123): show id?
+Wed Oct 10 21:07:16 2018	DimensionRMG was killed by fallenturtle with a cw_scarh
+Wed Oct 10 21:07:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yea
+Wed Oct 10 21:07:17 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Wed Oct 10 21:07:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc LOL CHIKEN
+Wed Oct 10 21:07:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Right click
+Wed Oct 10 21:07:26 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:07:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Thanks sir
+Wed Oct 10 21:07:32 2018	Terorist Joseph (STEAM_0:0:113547169) disconnected
+Wed Oct 10 21:07:44 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:07:47 2018	DimensionRMG (STEAM_0:1:111567013): // Why can security officers kill the plant director LOL
+Wed Oct 10 21:07:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:07:49 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:07:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc they arent supposed to
+Wed Oct 10 21:07:55 2018	John F Kennedy (STEAM_0:1:121067955) has joined the game
+Wed Oct 10 21:07:55 2018	John F Kennedy (STEAM_0:1:121067955) spawned
+Wed Oct 10 21:07:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc file a report
+Wed Oct 10 21:07:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Sir I need ID
+Wed Oct 10 21:07:59 2018	Fire Dude (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:08:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ID
+Wed Oct 10 21:08:17 2018	Fire Dude (STEAM_0:1:59756947): /name HOS Light
+Wed Oct 10 21:08:18 2018	DimensionRMG (STEAM_0:1:111567013): @ Security officer killed director
+Wed Oct 10 21:08:27 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:08:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert ID PLEASE 10S SEC OR KOS
+Wed Oct 10 21:08:31 2018	DimensionRMG (STEAM_0:1:111567013): @ The current director...
+Wed Oct 10 21:08:39 2018	[LN] Georgio (STEAM_0:0:73020306): // Yo Fat Gay
+Wed Oct 10 21:08:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Right click
+Wed Oct 10 21:08:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring falle
+Wed Oct 10 21:08:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ?
+Wed Oct 10 21:08:45 2018	chiken (STEAM_0:0:143719653): 
+Wed Oct 10 21:08:46 2018	John F Kennedy (STEAM_0:1:121067955) disconnected
+Wed Oct 10 21:08:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 10
+Wed Oct 10 21:08:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 9
+Wed Oct 10 21:08:49 2018	[LN] Georgio (STEAM_0:0:73020306): // What the fuck do you do on this server
+Wed Oct 10 21:08:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 8
+Wed Oct 10 21:08:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 7
+Wed Oct 10 21:08:54 2018	DimensionRMG (STEAM_0:1:111567013): // ?
+Wed Oct 10 21:08:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hmm
+Wed Oct 10 21:08:56 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Wed Oct 10 21:08:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok
+Wed Oct 10 21:08:57 2018	Enviro (STEAM_0:0:80115103): // roleplay
+Wed Oct 10 21:09:02 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): WOAH
+Wed Oct 10 21:09:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /warrant
+Wed Oct 10 21:09:06 2018	chiken was killed by Nagegg with a cw_fiveseven
+Wed Oct 10 21:09:08 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:09:08 2018	Nagegg was killed by waviestballoonx9 [WaviestRP] with a cw_mp5
+Wed Oct 10 21:09:09 2018	DimensionRMG (STEAM_0:1:111567013): @ I forgot I was zambie lol
+Wed Oct 10 21:09:09 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:09:11 2018	DimensionRMG (STEAM_0:1:111567013): @ Return him
+Wed Oct 10 21:09:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc roleplay on a rp map
+Wed Oct 10 21:09:20 2018	Nagegg was killed by Entity [4871][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:09:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 21:09:21 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) has joined the game
+Wed Oct 10 21:09:21 2018	Terorist Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:09:22 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:09:24 2018	chiken was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:09:25 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 10 21:09:27 2018	DimensionRMG (STEAM_0:1:111567013): // Reaper
+Wed Oct 10 21:09:28 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /warrant pants Attemping to kill a staff
+Wed Oct 10 21:09:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto turt
+Wed Oct 10 21:09:39 2018	DimensionRMG (STEAM_0:1:111567013) disconnected
+Wed Oct 10 21:09:42 2018	calvin was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:09:43 2018	Enviro (STEAM_0:0:80115103): // LOL
+Wed Oct 10 21:09:58 2018	Terorist Joseph (STEAM_0:0:113547169) disconnected
+Wed Oct 10 21:10:02 2018	[LN] Georgio (STEAM_0:0:73020306): // This shit looks boring as fuck, I don't even know what to do
+Wed Oct 10 21:10:07 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:10:10 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // RP man
+Wed Oct 10 21:10:21 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 21:10:28 2018	[LN] Georgio (STEAM_0:0:73020306) disconnected
+Wed Oct 10 21:10:40 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 21:10:44 2018	chiken (STEAM_0:0:143719653) disconnected
+Wed Oct 10 21:11:10 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:11:29 2018	pants (STEAM_0:0:77636123) disconnected
+Wed Oct 10 21:11:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:12:01 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): lol
+Wed Oct 10 21:12:02 2018	Lukyn Red (STEAM_0:0:81441026): /advert Can you contain the SCPs, terrorists, core and come over here?
+Wed Oct 10 21:12:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:12:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto turt
+Wed Oct 10 21:12:36 2018	Craftygarrett (STEAM_0:1:184775407): @my zombies keep on hitting me everytime i make them a zombie and he took 100 hp from me
+Wed Oct 10 21:12:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto turt
+Wed Oct 10 21:12:59 2018	fallenturtle (STEAM_0:1:62867403): /advert 049 i need to talk to you
+Wed Oct 10 21:13:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring wav
+Wed Oct 10 21:13:13 2018	Nagegg (STEAM_0:0:98220726): /advert Fix the core
+Wed Oct 10 21:13:15 2018	Enviro (STEAM_0:0:80115103): !motd
+Wed Oct 10 21:13:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Once, it was a misstake
+Wed Oct 10 21:13:27 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): wHEN i TRIED TO SHOOT
+Wed Oct 10 21:13:33 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Caps ._.
+Wed Oct 10 21:13:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 21:13:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 21:13:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): OH GOD
+Wed Oct 10 21:13:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): SORRY
+Wed Oct 10 21:13:51 2018	calvin was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 21:13:56 2018	calvin (STEAM_0:0:120980248) spawned
+Wed Oct 10 21:13:57 2018	Nagegg was killed by waviestballoonx9 [WaviestRP] with a weapon_sillyzombieclaw_v2
+Wed Oct 10 21:13:59 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:14:00 2018	♛ Ultra Instinct Goku ♛ (STEAM_0:0:113547169) has joined the game
+Wed Oct 10 21:14:00 2018	Terorist Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:14:10 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:14:14 2018	Lukyn Red (STEAM_0:0:81441026): /advert Can 049 turn everyone into a 049-2 to get the party going?
+Wed Oct 10 21:14:29 2018	fallenturtle was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 21:14:29 2018	Craftygarrett (STEAM_0:1:184775407): /advert hell yes
+Wed Oct 10 21:14:30 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:14:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): NO
+Wed Oct 10 21:14:36 2018	waviestballoonx9 [WaviestRP] was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:14:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:14:40 2018	Lukyn Red (STEAM_0:0:81441026): // and cool the core
+Wed Oct 10 21:14:42 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:14:54 2018	Lukyn Red (STEAM_0:0:81441026): // I don't want to have a mix of music with music
+Wed Oct 10 21:15:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Where's the server hosted?
+Wed Oct 10 21:15:30 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:15:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // UK?
+Wed Oct 10 21:15:48 2018	Lukyn Red (STEAM_0:0:81441026): // Canada I think
+Wed Oct 10 21:15:52 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Rip,
+Wed Oct 10 21:15:57 2018	Enviro (STEAM_0:0:80115103): // hell yeah
+Wed Oct 10 21:15:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I live in UK
+Wed Oct 10 21:16:07 2018	Lukyn Red (STEAM_0:0:81441026): // Should be US East but the dad of the owner needs to drill the basement or something
+Wed Oct 10 21:16:09 2018	fallenturtle was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:16:10 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:16:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no its like
+Wed Oct 10 21:16:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc I had a server
+Wed Oct 10 21:16:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and my internet was OK
+Wed Oct 10 21:16:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc then my dad got comast and my upload speed went to shit
+Wed Oct 10 21:16:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its using crident until I get gigabit in a few weeks
+Wed Oct 10 21:16:49 2018	Enviro (STEAM_0:0:80115103): // So.. what do you use now?
+Wed Oct 10 21:16:52 2018	Enviro (STEAM_0:0:80115103): // oh nice
+Wed Oct 10 21:17:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Crident is best =D
+Wed Oct 10 21:17:09 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I use dem
+Wed Oct 10 21:17:10 2018	Lukyn Red (STEAM_0:0:81441026): // ok fat come to the party
+Wed Oct 10 21:17:15 2018	Lukyn Red (STEAM_0:0:81441026): // I can show it to you
+Wed Oct 10 21:17:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:17:19 2018	Lukyn Red (STEAM_0:0:81441026): // I need to go
+Wed Oct 10 21:17:22 2018	Enviro (STEAM_0:0:80115103): // I like crident but its not the cheapest for me
+Wed Oct 10 21:17:23 2018	fallenturtle was killed by Nagegg with a weapon_sillyzombieclaw_v2
+Wed Oct 10 21:17:24 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:17:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc but when i pay 25 a month its not the best ;(
+Wed Oct 10 21:17:29 2018	HOS Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:17:41 2018	Enviro (STEAM_0:0:80115103): // 2 of my friends own the top 2 cheapest hosting companies or some shit i think idek
+Wed Oct 10 21:18:14 2018	HOS Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:18:15 2018	Lukyn Red (STEAM_0:0:81441026): here
+Wed Oct 10 21:18:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert guys
+Wed Oct 10 21:18:19 2018	Lukyn Red (STEAM_0:0:81441026): wait
+Wed Oct 10 21:18:24 2018	Enviro (STEAM_0:0:80115103): /advert guys
+Wed Oct 10 21:18:24 2018	HOS Light (STEAM_0:1:59756947): /name OSAMA BIN LADEN
+Wed Oct 10 21:18:25 2018	Terorist Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:18:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y HELP
+Wed Oct 10 21:18:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert rule 13 in general rules in !motd
+Wed Oct 10 21:18:31 2018	Enviro (STEAM_0:0:80115103): !motd
+Wed Oct 10 21:18:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y HELP
+Wed Oct 10 21:18:36 2018	Terorist Joseph (STEAM_0:0:113547169): .
+Wed Oct 10 21:18:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y OPEN IT UP
+Wed Oct 10 21:18:39 2018	Lukyn Red (STEAM_0:0:81441026): Rule 2 and rule 2 in Researcher
+Wed Oct 10 21:18:43 2018	fallenturtle (STEAM_0:1:62867403): @fail rp
+Wed Oct 10 21:18:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert you must come to the dance party since its planned
+Wed Oct 10 21:18:48 2018	Terorist Joseph (STEAM_0:0:113547169): /name Grunt Joseph
+Wed Oct 10 21:18:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:18:55 2018	Enviro (STEAM_0:0:80115103): // wtf?
+Wed Oct 10 21:19:03 2018	Grunt Joseph (STEAM_0:0:113547169): /name Terrorist Grunt
+Wed Oct 10 21:19:04 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Can we not blow up the place
+Wed Oct 10 21:19:07 2018	Lukyn Red (STEAM_0:0:81441026): /advert So stop saving the core and facility and come to dance
+Wed Oct 10 21:19:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I have a building to do
+Wed Oct 10 21:19:16 2018	Terrorist Grunt (STEAM_0:0:113547169): /name Terrorist Grunt Joseph
+Wed Oct 10 21:19:19 2018	Enviro (STEAM_0:0:80115103): // where is the party
+Wed Oct 10 21:19:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // And I can't AdvDupe it
+Wed Oct 10 21:19:27 2018	Lukyn Red (STEAM_0:0:81441026): // The rule should be non-emergency only
+Wed Oct 10 21:19:30 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Wed Oct 10 21:19:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Wed Oct 10 21:19:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:19:39 2018	Craftygarrett was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:19:39 2018	Lukyn Red (STEAM_0:0:81441026): /advert the party is at the debrief area of the Offices
+Wed Oct 10 21:19:40 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:19:49 2018	Craftygarrett (STEAM_0:1:184775407): @fat i found a glitch
+Wed Oct 10 21:19:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc party in ooc lounge say XD for tp
+Wed Oct 10 21:20:11 2018	Lukyn Red (STEAM_0:0:81441026): // It's just big and has everything I need
+Wed Oct 10 21:20:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert UH OH
+Wed Oct 10 21:20:19 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): / NOOOOOOO
+Wed Oct 10 21:20:20 2018	Craftygarrett (STEAM_0:1:184775407): // XD
+Wed Oct 10 21:20:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring garr
+Wed Oct 10 21:20:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // NOOO PLEASE WONER GIVE ME ADVDIPE
+Wed Oct 10 21:20:37 2018	Lukyn Red (STEAM_0:0:81441026): // But
+Wed Oct 10 21:20:40 2018	Lukyn Red (STEAM_0:0:81441026): // Np
+Wed Oct 10 21:20:43 2018	Lukyn Red (STEAM_0:0:81441026): // No*
+Wed Oct 10 21:20:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ Can you give me AdvDupe2 to save my lift?
+Wed Oct 10 21:20:59 2018	Lukyn Red (STEAM_0:0:81441026): stop
+Wed Oct 10 21:21:02 2018	Lukyn Red (STEAM_0:0:81441026): and dance
+Wed Oct 10 21:21:15 2018	OSAMA BIN LADEN (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:21:16 2018	Lukyn Red (STEAM_0:0:81441026): OH NO
+Wed Oct 10 21:21:19 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yea
+Wed Oct 10 21:21:22 2018	waviestballoonx9 [WaviestRP] was killed by Himself with a suicide trick
+Wed Oct 10 21:21:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay wav
+Wed Oct 10 21:21:23 2018	Lukyn Red (STEAM_0:0:81441026): // THE LIGHT SWITCH IS BLOCKED
+Wed Oct 10 21:21:24 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:21:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring wav
+Wed Oct 10 21:21:31 2018	OSAMA BIN LADEN (STEAM_0:1:59756947): /ooc hahahaha
+Wed Oct 10 21:21:35 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /ooc osama come to escape rocket
+Wed Oct 10 21:21:38 2018	Lukyn Red (STEAM_0:0:81441026): // my party is ruined
+Wed Oct 10 21:22:32 2018	Lukyn Red (STEAM_0:0:81441026): wait
+Wed Oct 10 21:22:37 2018	Lukyn Red (STEAM_0:0:81441026): I have the party
+Wed Oct 10 21:22:57 2018	Lukyn Red was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Wed Oct 10 21:22:57 2018	Terrorist Grunt Joseph was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Wed Oct 10 21:22:58 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Wed Oct 10 21:22:59 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:23:06 2018	Nagegg was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Wed Oct 10 21:23:09 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:23:09 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /ooc yas!
+Wed Oct 10 21:23:11 2018	Lukyn Red (STEAM_0:0:81441026): // rocket will launch without meltdown?
+Wed Oct 10 21:23:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:23:16 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /ooc 8
+Wed Oct 10 21:23:19 2018	Lukyn Red (STEAM_0:0:81441026): // cool
+Wed Oct 10 21:23:22 2018	fallenturtle was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:23:22 2018	Lukyn Red (STEAM_0:0:81441026): // bye rocket
+Wed Oct 10 21:23:24 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:23:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // HELL NO.
+Wed Oct 10 21:23:35 2018	Lukyn Red (STEAM_0:0:81441026): // explore the space station
+Wed Oct 10 21:23:36 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /ooc CRY BOIS
+Wed Oct 10 21:23:37 2018	Nagegg (STEAM_0:0:98220726): /a lmao
+Wed Oct 10 21:23:45 2018	Lukyn Red (STEAM_0:0:81441026): // NOW GET TO MY PARTY
+Wed Oct 10 21:23:50 2018	Lukyn Red (STEAM_0:0:81441026): // DEBRIEF
+Wed Oct 10 21:23:54 2018	Lukyn Red (STEAM_0:0:81441026): // OFFICES
+Wed Oct 10 21:24:35 2018	fallenturtle was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:24:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // It's not exploded- OH...
+Wed Oct 10 21:24:37 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:24:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // it cooled down
+Wed Oct 10 21:24:45 2018	Lukyn Red (STEAM_0:0:81441026): // emergency coolant
+Wed Oct 10 21:24:48 2018	Lukyn Red (STEAM_0:0:81441026): // one use
+Wed Oct 10 21:24:51 2018	Lukyn Red (STEAM_0:0:81441026): // used
+Wed Oct 10 21:24:57 2018	Lukyn Red (STEAM_0:0:81441026): // now we really blow up
+Wed Oct 10 21:25:00 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Wed Oct 10 21:25:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Wed Oct 10 21:25:01 2018	Lukyn Red (STEAM_0:0:81441026): // without the rocket
+Wed Oct 10 21:25:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:25:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto env
+Wed Oct 10 21:25:10 2018	waviestballoonx9 [WaviestRP] was killed by Nagegg with a cw_scarh
+Wed Oct 10 21:25:14 2018	Lukyn Red (STEAM_0:0:81441026): // SO COME DANCE
+Wed Oct 10 21:25:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:25:21 2018	Lukyn Red (STEAM_0:0:81441026): // I have it duped
+Wed Oct 10 21:25:28 2018	OSAMA BIN LADEN (STEAM_0:1:59756947): /ooc we shall blow this pace
+Wed Oct 10 21:25:33 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:25:34 2018	OSAMA BIN LADEN (STEAM_0:1:59756947): /ooc place
+Wed Oct 10 21:25:37 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /ooc where are u
+Wed Oct 10 21:25:41 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /Ooc Im coming wait
+Wed Oct 10 21:25:42 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Lol.
+Wed Oct 10 21:25:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring env
+Wed Oct 10 21:25:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gar
+Wed Oct 10 21:26:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:26:33 2018	Lukyn Red (STEAM_0:0:81441026): // It's the time
+Wed Oct 10 21:26:38 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Well, fak
+Wed Oct 10 21:26:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:26:44 2018	Lukyn Red (STEAM_0:0:81441026): // everyone to the blast shelter
+Wed Oct 10 21:26:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:26:57 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Wed Oct 10 21:27:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:27:33 2018	Lukyn Red (STEAM_0:0:81441026): // where is the tram
+Wed Oct 10 21:27:42 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert SWAT AT BUNKER! ALL PERSONEL REPORT TO BUNKER NOW!
+Wed Oct 10 21:27:54 2018	OSAMA BIN LADEN was killed by Himself with a suicide trick
+Wed Oct 10 21:27:54 2018	Terrorist Grunt Joseph was killed by OSAMA BIN LADEN with a env_explosion
+Wed Oct 10 21:27:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): lol
+Wed Oct 10 21:27:57 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:27:57 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:28:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Nice voice acting
+Wed Oct 10 21:28:09 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Like it
+Wed Oct 10 21:28:19 2018	OSAMA BIN LADEN (STEAM_0:1:59756947): /ooc YES
+Wed Oct 10 21:28:20 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169): /ooc we did it nigga
+Wed Oct 10 21:28:25 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:28:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Oof.
+Wed Oct 10 21:28:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // 2nd today ._.
+Wed Oct 10 21:28:55 2018	Craftygarrett (STEAM_0:1:184775407): /drop
+Wed Oct 10 21:29:04 2018	fallenturtle was killed by Enviro with a eoti_raven_swep
+Wed Oct 10 21:29:06 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:29:17 2018	Nagegg was killed by Craftygarrett with a rpg_missile
+Wed Oct 10 21:29:18 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:30:21 2018	OSAMA BIN LADEN was killed by Himself with a suicide trick
+Wed Oct 10 21:30:24 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:30:41 2018	Nagegg was killed by Entity [5086][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:30:42 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:30:43 2018	Terrorist Grunt Joseph was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:30:43 2018	fallenturtle was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:30:44 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:30:44 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:30:51 2018	Nagegg was killed by Himself with a suicide trick
+Wed Oct 10 21:30:53 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:30:53 2018	fallenturtle was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:30:54 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:30:58 2018	Lukyn Red (STEAM_0:0:81441026): // can you hear the radio?
+Wed Oct 10 21:30:59 2018	Terrorist Grunt Joseph was killed by Nagegg with a fas2_thrown_m67
+Wed Oct 10 21:31:01 2018	fallenturtle was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:31:01 2018	OSAMA BIN LADEN was killed by Nagegg with a fas2_thrown_m67
+Wed Oct 10 21:31:02 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:31:03 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:31:07 2018	OSAMA BIN LADEN was killed by Himself with a suicide trick
+Wed Oct 10 21:31:07 2018	Nagegg was killed by OSAMA BIN LADEN with a env_explosion
+Wed Oct 10 21:31:08 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:31:09 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:31:09 2018	fallenturtle was killed by Nagegg with a fas2_thrown_m67
+Wed Oct 10 21:31:09 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:31:10 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:31:17 2018	Enviro was killed by Craftygarrett with a crossbow_bolt
+Wed Oct 10 21:31:19 2018	OSAMA BIN LADEN was killed by Nagegg with a fas2_thrown_m67
+Wed Oct 10 21:31:19 2018	Terrorist Grunt Joseph (STEAM_0:0:113547169) spawned
+Wed Oct 10 21:31:20 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned

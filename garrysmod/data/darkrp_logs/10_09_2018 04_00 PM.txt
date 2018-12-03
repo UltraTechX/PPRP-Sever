@@ -1,0 +1,1674 @@
+Tue Oct  9 16:00:18 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Tue Oct  9 16:00:18 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 16:02:57 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 16:03:10 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 16:16:13 2018	Dave Letcher (STEAM_0:1:52038966): models/Combine_Soldier.mdl
+Tue Oct  9 16:16:14 2018	Dave Letcher (STEAM_0:1:52038966): models/Combine_Soldier.mdl
+Tue Oct  9 16:18:47 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 16:37:05 2018	Dave Letcher was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Tue Oct  9 16:37:06 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 16:40:00 2018	Dave Letcher was killed by Entity [2430][func_movelinear] with a func_movelinear
+Tue Oct  9 16:40:01 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 16:41:12 2018	Dave Letcher (STEAM_0:1:52038966): 
+Tue Oct  9 17:06:31 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Tue Oct  9 17:06:31 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Tue Oct  9 17:07:41 2018	Lukyn Red (STEAM_0:0:81441026): // hi
+Tue Oct  9 17:07:45 2018	Dave Letcher (STEAM_0:1:52038966): // sup
+Tue Oct  9 17:07:52 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Tue Oct  9 17:08:10 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Tue Oct  9 17:08:24 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Tue Oct  9 17:08:48 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Tue Oct  9 17:17:00 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Tue Oct  9 17:17:04 2018	Lukyn Red (STEAM_0:0:81441026): /job afk
+Tue Oct  9 17:17:12 2018	Lukyn Red (STEAM_0:0:81441026): /job afk - getting players
+Tue Oct  9 17:21:11 2018	Dave Letcher was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Tue Oct  9 17:21:12 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 17:31:09 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 17:31:10 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 17:57:19 2018	Lukyn Red (STEAM_0:0:81441026): 
+Tue Oct  9 17:58:18 2018	Lukyn Red (STEAM_0:0:81441026): !donate
+Tue Oct  9 17:58:25 2018	Lukyn Red (STEAM_0:0:81441026) disconnected
+Tue Oct  9 18:37:01 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Tue Oct  9 18:37:01 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 18:37:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct  9 18:37:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 18:41:18 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 18:44:12 2018	Mr Micspam Boi (STEAM_0:0:152459863) has joined the game
+Tue Oct  9 18:44:12 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Tue Oct  9 18:45:29 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Yee
+Tue Oct  9 18:45:44 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Hi fat guy\
+Tue Oct  9 18:46:41 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Tue Oct  9 18:47:20 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Tue Oct  9 18:49:18 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Tue Oct  9 18:50:22 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Virryis making a new update soon
+Tue Oct  9 18:50:31 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Is there anybody not AFK?
+Tue Oct  9 18:50:35 2018	Mr Micspam Boi (STEAM_0:0:152459863): /looc
+Tue Oct  9 18:50:38 2018	Mr Micspam Boi (STEAM_0:0:152459863): /looc hey
+Tue Oct  9 18:50:44 2018	Mr Micspam Boi (STEAM_0:0:152459863): /name Johnny Johnner
+Tue Oct  9 18:50:50 2018	Pootis Bird (STEAM_0:0:22086175): // Oh sorry, i'm here but also doing things at the same time.
+Tue Oct  9 18:51:01 2018	Johnny Johnner (STEAM_0:0:152459863): // Virryi showed me this server
+Tue Oct  9 18:51:04 2018	Johnny Johnner (STEAM_0:0:152459863): // Hes staff on here
+Tue Oct  9 18:51:09 2018	Johnny Johnner (STEAM_0:0:152459863): // This map is sweet
+Tue Oct  9 18:51:17 2018	Pootis Bird (STEAM_0:0:22086175): // Ah.
+Tue Oct  9 18:51:42 2018	Johnny Johnner (STEAM_0:0:152459863): // The tram is suprisingly stable
+Tue Oct  9 18:51:46 2018	Johnny Johnner (STEAM_0:0:152459863): // No twitching when it moves
+Tue Oct  9 18:51:54 2018	Pootis Bird (STEAM_0:0:22086175): // True.
+Tue Oct  9 18:52:46 2018	Johnny Johnner (STEAM_0:0:152459863): // The escape sequence is also preety sweet
+Tue Oct  9 18:52:49 2018	Johnny Johnner (STEAM_0:0:152459863): // Same with the core
+Tue Oct  9 18:53:06 2018	Pootis Bird (STEAM_0:0:22086175): // Yeah it's very nice.
+Tue Oct  9 18:53:49 2018	Johnny Johnner (STEAM_0:0:152459863): // Fun fact, these radio massages are voice acted by one of staff on the server
+Tue Oct  9 18:54:17 2018	Pootis Bird (STEAM_0:0:22086175): // Yeah I saw someone saying that on discord.
+Tue Oct  9 18:54:57 2018	Pootis Bird (STEAM_0:0:22086175): // The radio messages are pretty spot on.
+Tue Oct  9 18:55:12 2018	Johnny Johnner (STEAM_0:0:152459863): // I mean the voice acting isnt horrible
+Tue Oct  9 18:55:41 2018	Johnny Johnner (STEAM_0:0:152459863): // You can also meltdown the core
+Tue Oct  9 18:55:46 2018	Johnny Johnner (STEAM_0:0:152459863): // Which will trigger an escape sequence
+Tue Oct  9 18:55:49 2018	Johnny Johnner (STEAM_0:0:152459863): // Any player can do it
+Tue Oct  9 18:55:55 2018	Johnny Johnner (STEAM_0:0:152459863): // But without reason its failRP
+Tue Oct  9 18:56:08 2018	Pootis Bird (STEAM_0:0:22086175): // Yeah, you can also still save the core if you use the E-Coolant
+Tue Oct  9 18:56:09 2018	Johnny Johnner (STEAM_0:0:152459863): // So if i dunno youre a corrupt worker for example
+Tue Oct  9 18:56:56 2018	Pootis Bird (STEAM_0:0:22086175): // I remember some guy prevented a meltdown using the Emergency Coolant, pretty cool how you can do that.
+Tue Oct  9 18:57:24 2018	Johnny Johnner (STEAM_0:0:152459863) spawned
+Tue Oct  9 18:58:02 2018	Johnny Johnner (STEAM_0:0:152459863): // I fuckin love the escape rocket in this btw
+Tue Oct  9 18:58:21 2018	Pootis Bird (STEAM_0:0:22086175): // Yeah it's alright.
+Tue Oct  9 18:58:40 2018	Johnny Johnner (STEAM_0:0:152459863): !motd
+Tue Oct  9 19:00:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc wow
+Tue Oct  9 19:01:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc actual rp
+Tue Oct  9 19:01:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc for once
+Tue Oct  9 19:01:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc wait im still user from bot testing
+Tue Oct  9 19:01:23 2018	Johnny Johnner (STEAM_0:0:152459863): // Oh hi Fat Gay
+Tue Oct  9 19:01:29 2018	Johnny Johnner (STEAM_0:0:152459863): // Its me Mr Micspam Boi
+Tue Oct  9 19:01:31 2018	Johnny Johnner (STEAM_0:0:152459863): // From yesterday
+Tue Oct  9 19:01:43 2018	Johnny Johnner (STEAM_0:0:152459863): // Remember me?
+Tue Oct  9 19:02:04 2018	Johnny Johnner (STEAM_0:0:152459863) spawned
+Tue Oct  9 19:02:14 2018	Johnny Johnner (STEAM_0:0:152459863): // Terrorists can attack at any time rite?
+Tue Oct  9 19:02:23 2018	Dave Letcher (STEAM_0:1:52038966): // Please don't
+Tue Oct  9 19:02:31 2018	Johnny Johnner (STEAM_0:0:152459863): // Allahu akbar
+Tue Oct  9 19:02:34 2018	Johnny Johnner (STEAM_0:0:152459863): // Murder the core
+Tue Oct  9 19:02:36 2018	Johnny Johnner (STEAM_0:0:152459863): // For allah
+Tue Oct  9 19:02:40 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 19:02:42 2018	Pootis Bird (STEAM_0:0:22086175): // Aghhh god just when I had my hopes up lol.
+Tue Oct  9 19:03:04 2018	Dave Letcher (STEAM_0:1:52038966): // We need the whitlist system
+Tue Oct  9 19:03:14 2018	Johnny Johnner (STEAM_0:0:152459863): // This aint serious RP homeboi
+Tue Oct  9 19:03:25 2018	Dave Letcher (STEAM_0:1:52038966): // Terrorists come every fucking second
+Tue Oct  9 19:03:25 2018	Johnny Johnner (STEAM_0:0:152459863): // Go back to clockwork
+Tue Oct  9 19:04:01 2018	Johnny Johnner (STEAM_0:0:152459863): /name Amaso Nib Nedal
+Tue Oct  9 19:04:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // terrorists can attack 15 mins after a meltdown
+Tue Oct  9 19:05:10 2018	Amaso Nib Nedal was killed by Dave Letcher with a cw_g36c
+Tue Oct  9 19:05:12 2018	Amaso Nib Nedal (STEAM_0:0:152459863): Aw fuck
+Tue Oct  9 19:05:15 2018	Amaso Nib Nedal (STEAM_0:0:152459863): I cant belive youve done this
+Tue Oct  9 19:05:17 2018	Amaso Nib Nedal (STEAM_0:0:152459863) spawned
+Tue Oct  9 19:05:21 2018	Dave Letcher (STEAM_0:1:52038966): // Can we get a Terorrist NLR
+Tue Oct  9 19:05:27 2018	Dave Letcher (STEAM_0:1:52038966): // SWAT/CBRN/Terorrist NLR
+Tue Oct  9 19:05:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc may do a small nerf so one cant massacre an entire team. Not nearly as big as scps
+Tue Oct  9 19:05:50 2018	Amaso Nib Nedal (STEAM_0:0:152459863): // Speaking about SCPS
+Tue Oct  9 19:05:58 2018	Amaso Nib Nedal (STEAM_0:0:152459863): // Only terrorists and corrupts can break them out?
+Tue Oct  9 19:06:04 2018	Amaso Nib Nedal (STEAM_0:0:152459863) spawned
+Tue Oct  9 19:06:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc pretty much
+Tue Oct  9 19:06:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc or a pme
+Tue Oct  9 19:06:11 2018	Amaso Nib Nedal (STEAM_0:0:152459863): /name Micspam Boi the enginner
+Tue Oct  9 19:06:12 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 19:06:24 2018	Micspam Boi the enginner (STEAM_0:0:152459863): // BTW Do you remember me
+Tue Oct  9 19:06:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc which should in that case be passed by an admin first so we dont assume mingery and warn the person who opened the door
+Tue Oct  9 19:06:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yes I do
+Tue Oct  9 19:06:37 2018	Dave Letcher (STEAM_0:1:52038966): // PME
+Tue Oct  9 19:06:41 2018	Dave Letcher (STEAM_0:1:52038966): // Pushed by an admin first?
+Tue Oct  9 19:06:45 2018	Dave Letcher (STEAM_0:1:52038966): // thats not what a PME is
+Tue Oct  9 19:07:14 2018	Micspam Boi the enginner (STEAM_0:0:152459863) spawned
+Tue Oct  9 19:07:28 2018	Micspam Boi the enginner (STEAM_0:0:152459863): // BTW, Is things like security robots allowed and shit?
+Tue Oct  9 19:07:33 2018	Micspam Boi the enginner (STEAM_0:0:152459863): // Or atleast custom units
+Tue Oct  9 19:08:33 2018	Micspam Boi the enginner (STEAM_0:0:152459863): // Oh you have PAC4 Good
+Tue Oct  9 19:10:24 2018	Dave Letcher (STEAM_0:1:52038966): // Iv been here for 3 Hours making checkpoints
+Tue Oct  9 19:10:32 2018	Dave Letcher (STEAM_0:1:52038966): // And iv only made 4
+Tue Oct  9 19:12:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc mfw teamviewer makes tab not work
+Tue Oct  9 19:12:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc discord bot BrOkE too
+Tue Oct  9 19:13:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dont worry I got this
+Tue Oct  9 19:14:00 2018	Micspam Boi the enginner (STEAM_0:0:152459863): /name Z.E.A.L.
+Tue Oct  9 19:14:27 2018	Micspam Boi the enginner (STEAM_0:0:152459863): /name Zeal
+Tue Oct  9 19:15:37 2018	Zeal was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 19:15:37 2018	Nagegg (STEAM_0:0:98220726) has joined the game
+Tue Oct  9 19:15:37 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 19:15:49 2018	Zeal (STEAM_0:0:152459863) spawned
+Tue Oct  9 19:15:55 2018	Zeal (STEAM_0:0:152459863) disconnected
+Tue Oct  9 19:16:28 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Tue Oct  9 19:16:28 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 19:18:30 2018	Nagegg (STEAM_0:0:98220726): gay
+Tue Oct  9 19:18:34 2018	Nagegg (STEAM_0:0:98220726): gay
+Tue Oct  9 19:18:53 2018	Nagegg (STEAM_0:0:98220726): gay
+Tue Oct  9 19:19:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu'
+Tue Oct  9 19:20:51 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 19:21:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert thanks to the plant worker who added security to the scp laboratory
+Tue Oct  9 19:21:34 2018	Dave Letcher (STEAM_0:1:52038966): // Still working on it
+Tue Oct  9 19:21:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) has joined the game
+Tue Oct  9 19:21:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Tue Oct  9 19:21:43 2018	Dave Letcher (STEAM_0:1:52038966): // Iv also made a Checkpoint for every coolant system
+Tue Oct  9 19:21:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dupe that shit once your done, super useful for rp
+Tue Oct  9 19:21:52 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 19:21:56 2018	Dave Letcher (STEAM_0:1:52038966): // I have
+Tue Oct  9 19:22:00 2018	Dave Letcher (STEAM_0:1:52038966): // I have 4 checkpoints
+Tue Oct  9 19:22:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc good
+Tue Oct  9 19:22:06 2018	Nagegg (STEAM_0:0:98220726): /a waviest why are you on every damn server i go on 
+Tue Oct  9 19:22:09 2018	Enviro (STEAM_0:0:80115103) disconnected
+Tue Oct  9 19:22:13 2018	Dave Letcher (STEAM_0:1:52038966): // Then theres also the T spawn checkpoints
+Tue Oct  9 19:22:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // because hes stalking you
+Tue Oct  9 19:22:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah
+Tue Oct  9 19:22:26 2018	Nagegg (STEAM_0:0:98220726): /a makes sense
+Tue Oct  9 19:22:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // they have bkeycardscanner_cracker's now so they can still break it open with time
+Tue Oct  9 19:22:53 2018	Dave Letcher (STEAM_0:1:52038966): // I can just double the doors
+Tue Oct  9 19:22:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc alright
+Tue Oct  9 19:23:06 2018	Dave Letcher (STEAM_0:1:52038966): // Make 2 Ts requires to attack
+Tue Oct  9 19:23:10 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 19:23:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc just make it so they CAN get out, doesnt really matter how long it takes
+Tue Oct  9 19:23:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Tue Oct  9 19:23:39 2018	Nagegg (STEAM_0:0:98220726): /a are you allowed to make 1 ways?
+Tue Oct  9 19:23:39 2018	Dave Letcher (STEAM_0:1:52038966): // I can make them logically able to get out with the assistance of 1 other T
+Tue Oct  9 19:23:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc one way windows? yes
+Tue Oct  9 19:23:48 2018	Dave Letcher (STEAM_0:1:52038966): // Ye
+Tue Oct  9 19:23:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i guess thats ok dave
+Tue Oct  9 19:25:40 2018	Nagegg (STEAM_0:0:98220726): /a why in the fuck is the entirety of wire blocked
+Tue Oct  9 19:26:00 2018	Dave Letcher (STEAM_0:1:52038966): // wym?
+Tue Oct  9 19:26:11 2018	Nagegg (STEAM_0:0:98220726): /a cant spawn anything in from wire
+Tue Oct  9 19:26:17 2018	Dave Letcher (STEAM_0:1:52038966): // Button?
+Tue Oct  9 19:26:23 2018	Nagegg (STEAM_0:0:98220726): /a anything
+Tue Oct  9 19:26:30 2018	Dave Letcher (STEAM_0:1:52038966): // I can spawn shiz
+Tue Oct  9 19:26:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto nag
+Tue Oct  9 19:26:37 2018	Nagegg (STEAM_0:0:98220726): /a lucky you
+Tue Oct  9 19:27:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // What?! Nagegg and Envire?¬
+Tue Oct  9 19:27:50 2018	Nagegg (STEAM_0:0:98220726): /a waviest i was on halogen and now im on here
+Tue Oct  9 19:27:54 2018	Nagegg (STEAM_0:0:98220726): /a and you are also on here
+Tue Oct  9 19:27:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Nice¬
+Tue Oct  9 19:27:59 2018	Nagegg (STEAM_0:0:98220726): /a tell me the chances of thagt
+Tue Oct  9 19:28:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I like Black Mesa RP and this,
+Tue Oct  9 19:28:29 2018	Nagegg (STEAM_0:0:98220726): /a cool
+Tue Oct  9 19:28:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Tue Oct  9 19:29:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Wow, missing texture labs
+Tue Oct  9 19:29:31 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Like it! it's good for the eyes *_*
+Tue Oct  9 19:29:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc do you have css?
+Tue Oct  9 19:29:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto wav
+Tue Oct  9 19:29:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Nah, can't be bothered
+Tue Oct  9 19:29:45 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hey
+Tue Oct  9 19:29:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): You use Crident?
+Tue Oct  9 19:30:01 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): You do,
+Tue Oct  9 19:30:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's good
+Tue Oct  9 19:30:12 2018	Nagegg (STEAM_0:0:98220726): /a oh cool you have that moneyRequest addon
+Tue Oct  9 19:30:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Tue Oct  9 19:30:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I'm an owner of a server with Crident
+Tue Oct  9 19:30:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Nice
+Tue Oct  9 19:30:27 2018	Dave Letcher (STEAM_0:1:52038966): /qqq
+Tue Oct  9 19:30:33 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Where?
+Tue Oct  9 19:30:34 2018	Dave Letcher (STEAM_0:1:52038966): // Fat, look at my checkpoints
+Tue Oct  9 19:30:34 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Tue Oct  9 19:30:34 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 19:30:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hold on
+Tue Oct  9 19:30:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Just, malware, -_-
+Tue Oct  9 19:30:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): A bit...
+Tue Oct  9 19:30:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yeah
+Tue Oct  9 19:31:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): VMPs?
+Tue Oct  9 19:31:23 2018	Nagegg (STEAM_0:0:98220726): /a fat you know the bug with this fading door addon?
+Tue Oct  9 19:31:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no?
+Tue Oct  9 19:31:36 2018	Enviro (STEAM_0:0:80115103): // that damn audio peaks in the announcemen is starting to get to me
+Tue Oct  9 19:31:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Thank you.
+Tue Oct  9 19:31:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yeah
+Tue Oct  9 19:31:38 2018	Nagegg (STEAM_0:0:98220726): /a you know about the whole pp/copy glitch?
+Tue Oct  9 19:31:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hey
+Tue Oct  9 19:31:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no
+Tue Oct  9 19:31:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hery
+Tue Oct  9 19:31:52 2018	Enviro (STEAM_0:0:80115103): // fOUR oNNEEEE nIINNE eiGHTT
+Tue Oct  9 19:31:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): virustotal
+Tue Oct  9 19:31:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): =3
+Tue Oct  9 19:32:01 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 19:32:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Good site to check
+Tue Oct  9 19:32:13 2018	Nagegg (STEAM_0:0:98220726): /a basiscally its a really buggy material and its usually blocked but you can bypass the block with the addon by typing in con
+Tue Oct  9 19:32:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Tue Oct  9 19:32:23 2018	Nagegg (STEAM_0:0:98220726): /a console fading_door_mat pp/opy
+Tue Oct  9 19:32:28 2018	Nagegg (STEAM_0:0:98220726): /a something like that
+Tue Oct  9 19:32:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh well its not the fading door crash tho
+Tue Oct  9 19:32:42 2018	Nagegg (STEAM_0:0:98220726): /a basically when you fade it if bugs out with physguns holos
+Tue Oct  9 19:32:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i have an addon that patches it
+Tue Oct  9 19:32:47 2018	Nagegg (STEAM_0:0:98220726): /a and it can mke your screen black
+Tue Oct  9 19:32:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Tue Oct  9 19:32:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i havent seen it yet
+Tue Oct  9 19:33:00 2018	Enviro (STEAM_0:0:80115103): my bad
+Tue Oct  9 19:33:01 2018	Nagegg (STEAM_0:0:98220726): /a tp to me ill show you how to do it
+Tue Oct  9 19:33:03 2018	Nagegg (STEAM_0:0:98220726): /a and fix it
+Tue Oct  9 19:33:11 2018	Enviro (STEAM_0:0:80115103): ayye
+Tue Oct  9 19:33:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Black Mesa RP seems to be down so I'm here. ._.
+Tue Oct  9 19:33:17 2018	Enviro (STEAM_0:0:80115103): is that creeds?
+Tue Oct  9 19:33:22 2018	Dave Letcher (STEAM_0:1:52038966): // freeloader
+Tue Oct  9 19:33:22 2018	Enviro (STEAM_0:0:80115103): // or your own?
+Tue Oct  9 19:33:24 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 19:33:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 19:33:32 2018	Nagegg (STEAM_0:0:98220726): /a fat tp to me 
+Tue Oct  9 19:33:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto nag
+Tue Oct  9 19:33:53 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 19:34:10 2018	Dave Letcher (STEAM_0:1:52038966): /job Human Nigerian Settler
+Tue Oct  9 19:34:22 2018	Nagegg (STEAM_0:0:98220726): oh
+Tue Oct  9 19:34:29 2018	Nagegg (STEAM_0:0:98220726): idk what happened
+Tue Oct  9 19:34:38 2018	Nagegg (STEAM_0:0:98220726): but a your phys holo doesnt render
+Tue Oct  9 19:34:40 2018	Nagegg (STEAM_0:0:98220726): so the bug doesnt work
+Tue Oct  9 19:34:46 2018	Nagegg (STEAM_0:0:98220726): idk might be a addon you added
+Tue Oct  9 19:34:51 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Core?
+Tue Oct  9 19:34:52 2018	Nagegg (STEAM_0:0:98220726): ill fix it anyway
+Tue Oct  9 19:35:09 2018	Nagegg (STEAM_0:0:98220726): yeah
+Tue Oct  9 19:35:14 2018	Nagegg (STEAM_0:0:98220726): just search up pp/copy glitch
+Tue Oct  9 19:35:51 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // WOAH, THAT'S A BIG CORE
+Tue Oct  9 19:37:08 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Enviro, Black-MesaRP is down, isn't it.
+Tue Oct  9 19:37:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert BOOTING LAZERS BEING WE NEED BIG
+Tue Oct  9 19:37:56 2018	Nagegg (STEAM_0:0:98220726): /a english please lol
+Tue Oct  9 19:38:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Lol.
+Tue Oct  9 19:38:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc black mesa rp isnt down, i think its just dead atm, if your talking about sBMRP
+Tue Oct  9 19:38:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc they will pick up in players im sure in a few hours
+Tue Oct  9 19:39:08 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 19:39:15 2018	Pootis Bird (STEAM_0:0:22086175): // God... only reason why i'm here is because Creed mentioned this server on his Discord.
+Tue Oct  9 19:39:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Not on Crident Networks?
+Tue Oct  9 19:39:53 2018	Imperial_Germany (STEAM_0:0:115652713) has joined the game
+Tue Oct  9 19:39:53 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 19:40:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you mean sirro?
+Tue Oct  9 19:40:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc creed didnt say shit about this server, he didnt join either
+Tue Oct  9 19:40:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert A note: All lazers must be one! plus boot!
+Tue Oct  9 19:40:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Type-o
+Tue Oct  9 19:40:24 2018	Dave Letcher (STEAM_0:1:52038966): /advert Why?
+Tue Oct  9 19:40:27 2018	Pootis Bird (STEAM_0:0:22086175): // Lol, I was thinking of cBMRP for a sec
+Tue Oct  9 19:40:34 2018	Pootis Bird (STEAM_0:0:22086175): // Your right it is Sirro
+Tue Oct  9 19:40:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Tue Oct  9 19:40:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Hey, is cBMRP down?
+Tue Oct  9 19:40:49 2018	Dave Letcher (STEAM_0:1:52038966): /advert You shouldn't over charge the core that much, stop
+Tue Oct  9 19:40:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Tue Oct  9 19:40:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc cBMRP closed a month ago
+Tue Oct  9 19:41:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Yeah, it down
+Tue Oct  9 19:41:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // That's strange
+Tue Oct  9 19:41:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Odd
+Tue Oct  9 19:41:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Let me in
+Tue Oct  9 19:41:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Thank you sir
+Tue Oct  9 19:41:51 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 19:42:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): lolz
+Tue Oct  9 19:42:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I joined cBMRP the other day...
+Tue Oct  9 19:42:45 2018	Dave Letcher (STEAM_0:1:52038966): /advert Im bringing the core down to power level 3 with a +1 boost
+Tue Oct  9 19:42:59 2018	John Schaefer (STEAM_0:0:115652713): // cBMRP died in September
+Tue Oct  9 19:43:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Copy that
+Tue Oct  9 19:43:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you mean sBMRP
+Tue Oct  9 19:43:03 2018	Nagegg (STEAM_0:0:98220726): /a ive never been on sBMRP but im in the discord from when YeetRP shutdown
+Tue Oct  9 19:43:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i knew he ran yeetRP, never played it tho
+Tue Oct  9 19:43:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // sBMRP... rings a bell, but I think Black-Mesa RP is dead...
+Tue Oct  9 19:43:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // How sad
+Tue Oct  9 19:43:46 2018	Nagegg (STEAM_0:0:98220726): /a BMRP is dead in general
+Tue Oct  9 19:43:46 2018	John Schaefer (STEAM_0:0:115652713): /advert If any of you guys see any unauthorized biological lifeforms, call me or my boys and we'll kill it.
+Tue Oct  9 19:43:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk
+Tue Oct  9 19:43:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i mean
+Tue Oct  9 19:44:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc this is the servers 4th day and we have 8 ppl on an off hour
+Tue Oct  9 19:44:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc according to the server stats, 7 ingame, 1 connecting
+Tue Oct  9 19:44:31 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Jsut need dam textures =3
+Tue Oct  9 19:44:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc get css
+Tue Oct  9 19:44:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I will.
+Tue Oct  9 19:44:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i found the one I used to use before I got css because mapping requres it unless i use some janky shit
+Tue Oct  9 19:44:58 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 19:45:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Enviro, are you AFK.
+Tue Oct  9 19:45:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 19:45:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no hes not
+Tue Oct  9 19:45:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hes the hall monitor
+Tue Oct  9 19:45:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc omg
+Tue Oct  9 19:45:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Uhh
+Tue Oct  9 19:45:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc someone should do a skit with that
+Tue Oct  9 19:45:59 2018	Enviro (STEAM_0:0:80115103): /advert New railings have been added in the fan control room.
+Tue Oct  9 19:46:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc from spongebob
+Tue Oct  9 19:46:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc with 1 security and terrorists
+Tue Oct  9 19:46:52 2018	Hatten (STEAM_0:1:4024515) has joined the game
+Tue Oct  9 19:46:52 2018	Hatten (STEAM_0:1:4024515) spawned
+Tue Oct  9 19:47:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Nah,
+Tue Oct  9 19:47:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I ran a core
+Tue Oct  9 19:47:39 2018	Pootis Bird (STEAM_0:0:22086175): /advert Hey to whoever is turning the laser boosters on could you stop, you could overheat the core.
+Tue Oct  9 19:47:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Wait
+Tue Oct  9 19:47:46 2018	Dave Letcher (STEAM_0:1:52038966): /advert Somone deal with the Core temperature
+Tue Oct  9 19:47:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): That was a anti-matter ._.
+Tue Oct  9 19:47:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): That
+Tue Oct  9 19:47:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert I wonder who
+Tue Oct  9 19:47:53 2018	Pootis Bird (STEAM_0:0:22086175): /advert On it.
+Tue Oct  9 19:48:00 2018	Nagegg (STEAM_0:0:98220726): .whatis
+Tue Oct  9 19:48:01 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Blow up the labs
+Tue Oct  9 19:48:08 2018	Nagegg (STEAM_0:0:98220726): .walk zmlab_mehtbuyer
+Tue Oct  9 19:48:08 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Nah
+Tue Oct  9 19:48:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert We're doing research!
+Tue Oct  9 19:48:34 2018	Nagegg (STEAM_0:0:98220726): .melee zmlab_methbuyer
+Tue Oct  9 19:48:34 2018	Dave Letcher (STEAM_0:1:52038966): /advert The core is perfectly understood
+Tue Oct  9 19:48:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Don't shut it down!
+Tue Oct  9 19:48:54 2018	Nagegg (STEAM_0:0:98220726): .walk zmlab_methbuyer
+Tue Oct  9 19:49:06 2018	Nagegg (STEAM_0:0:98220726): .run zmlab_methbuyer
+Tue Oct  9 19:49:17 2018	Nagegg (STEAM_0:0:98220726): .melee zmlab_methbuyer
+Tue Oct  9 19:49:21 2018	Pootis Bird (STEAM_0:0:22086175): /advert We need security to the core, someone keeps turning the lasers on
+Tue Oct  9 19:49:32 2018	Nagegg (STEAM_0:0:98220726): .usemelee zmlab_methbuyer
+Tue Oct  9 19:49:51 2018	Nagegg (STEAM_0:0:98220726): .givegun zmlab_methbuyer ar2
+Tue Oct  9 19:49:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert KEEP THE CORE LIKE IT IS NOW!
+Tue Oct  9 19:50:00 2018	John Schaefer (STEAM_0:0:115652713): /advert If you don't stop I might just have to shoot you
+Tue Oct  9 19:50:07 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Tue Oct  9 19:50:07 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 19:50:09 2018	Dave Letcher (STEAM_0:1:52038966): /advert Security Arrest that man
+Tue Oct  9 19:50:13 2018	Nagegg (STEAM_0:0:98220726): .showrelay zmlab_methbuyer Player
+Tue Oct  9 19:50:16 2018	Enviro (STEAM_0:0:80115103): /advert What is going on up there?
+Tue Oct  9 19:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the plant shouldnt even blow up since noone is terrorist
+Tue Oct  9 19:50:22 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:50:38 2018	Enviro (STEAM_0:0:80115103): // oh god if you have a warn bind
+Tue Oct  9 19:50:38 2018	Hatten (STEAM_0:1:4024515) spawned
+Tue Oct  9 19:50:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hey
+Tue Oct  9 19:50:41 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:50:43 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:50:45 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I think we may have to go
+Tue Oct  9 19:50:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): This
+Tue Oct  9 19:50:48 2018	Dave Letcher (STEAM_0:1:52038966): // do I still have my alert bind
+Tue Oct  9 19:50:49 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:50:52 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:50:53 2018	Dave Letcher (STEAM_0:1:52038966): // no thats annoying
+Tue Oct  9 19:50:56 2018	Enviro (STEAM_0:0:80115103): // ok chill with that
+Tue Oct  9 19:50:56 2018	DimensionRMG (STEAM_0:1:111567013): Sorry
+Tue Oct  9 19:50:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ray is making me feel funny
+Tue Oct  9 19:51:01 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:51:04 2018	Enviro (STEAM_0:0:80115103): // Bro.
+Tue Oct  9 19:51:14 2018	Pootis Bird (STEAM_0:0:22086175): /advert Temperature should be lowering now.
+Tue Oct  9 19:51:36 2018	Dave Letcher (STEAM_0:1:52038966): /Advert [Automated Message] ALERT! The owner of this device is in danger, be aware of any and stay near protection
+Tue Oct  9 19:51:40 2018	Dave Letcher (STEAM_0:1:52038966): // yey
+Tue Oct  9 19:51:44 2018	Dave Letcher (STEAM_0:1:52038966): /advert False
+Tue Oct  9 19:51:44 2018	Enviro (STEAM_0:0:80115103): Ello
+Tue Oct  9 19:52:03 2018	DimensionRMG (STEAM_0:1:111567013): // Sorry
+Tue Oct  9 19:52:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Envino, can you respond!
+Tue Oct  9 19:52:08 2018	DimensionRMG (STEAM_0:1:111567013): // My binds went off
+Tue Oct  9 19:52:13 2018	Enviro (STEAM_0:0:80115103): /advert What?
+Tue Oct  9 19:52:24 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:52:30 2018	DimensionRMG (STEAM_0:1:111567013): // OMG
+Tue Oct  9 19:52:40 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 19:52:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Is Black Mesa RP down, that server that we we're on last night
+Tue Oct  9 19:52:48 2018	Dave Letcher (STEAM_0:1:52038966): // Please no terrorists
+Tue Oct  9 19:52:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I saw you...
+Tue Oct  9 19:52:56 2018	John Schaefer (STEAM_0:0:115652713): // No terrorists hee
+Tue Oct  9 19:52:58 2018	Pootis Bird was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 19:53:00 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 19:53:00 2018	John Schaefer (STEAM_0:0:115652713): // here
+Tue Oct  9 19:53:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert CRITCAL ERRP!
+Tue Oct  9 19:53:06 2018	Nagegg (STEAM_0:0:98220726): /a raid the admin office
+Tue Oct  9 19:53:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no i think its just dead, sBMRP I think your talking about
+Tue Oct  9 19:53:12 2018	Dave Letcher (STEAM_0:1:52038966): // Do I have to setup the Anti-T checkpoints
+Tue Oct  9 19:53:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc theres only 1 person on sBMRP rn
+Tue Oct  9 19:53:16 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 19:53:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Hmm,
+Tue Oct  9 19:53:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc feel free
+Tue Oct  9 19:53:30 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 19:53:30 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 19:53:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I like Black-Mesa it's just...
+Tue Oct  9 19:53:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Yeah.
+Tue Oct  9 19:54:01 2018	DimensionRMG (STEAM_0:1:111567013): Wheres the core room
+Tue Oct  9 19:54:15 2018	Dave Letcher (STEAM_0:1:52038966): // So Fat, when do you plan to get whitlists setup
+Tue Oct  9 19:54:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc when everything needed before it is done
+Tue Oct  9 19:54:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc donation system
+Tue Oct  9 19:54:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc discord redo
+Tue Oct  9 19:54:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc finish bot
+Tue Oct  9 19:54:37 2018	Dave Letcher (STEAM_0:1:52038966): // You need discord help?
+Tue Oct  9 19:54:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc staff apps
+Tue Oct  9 19:54:48 2018	DimensionRMG (STEAM_0:1:111567013): /advert Get off my lawn!/away from me! Warn 1/2/3
+Tue Oct  9 19:54:48 2018	Dave Letcher (STEAM_0:1:52038966): // with that
+Tue Oct  9 19:54:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and then I can choose heads to run tryouts for jobs
+Tue Oct  9 19:54:52 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I hope this server grows, I love reactors
+Tue Oct  9 19:54:53 2018	Dave Letcher (STEAM_0:1:52038966): //
+Tue Oct  9 19:54:53 2018	DimensionRMG (STEAM_0:1:111567013): // ....
+Tue Oct  9 19:54:59 2018	Dave Letcher (STEAM_0:1:52038966): // Discord help with what?
+Tue Oct  9 19:55:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no thanks
+Tue Oct  9 19:55:03 2018	Nagegg (STEAM_0:0:98220726): /a i feel like the map could be more
+Tue Oct  9 19:55:04 2018	DimensionRMG was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 19:55:06 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 19:55:10 2018	Nagegg (STEAM_0:0:98220726): /a so when there are no terroists its fun
+Tue Oct  9 19:55:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert BOOTER #2 ON! FOR ABOUT 4.5 MINS
+Tue Oct  9 19:55:18 2018	Enviro (STEAM_0:0:80115103): 
+Tue Oct  9 19:55:26 2018	Dave Letcher (STEAM_0:1:52038966): /advert Alter Power level before booster
+Tue Oct  9 19:55:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i may nerf them a bit to promote them banding together so once cant kill everyone
+Tue Oct  9 19:55:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc not as much as anom. creatures tho
+Tue Oct  9 19:55:51 2018	Dave Letcher (STEAM_0:1:52038966): // specially with their forward spawns
+Tue Oct  9 19:55:52 2018	Nagegg (STEAM_0:0:98220726): /a 049 is busted
+Tue Oct  9 19:55:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc those things went to hell this morning
+Tue Oct  9 19:55:58 2018	DimensionRMG (STEAM_0:1:111567013): // Is there some sort of evac route?
+Tue Oct  9 19:56:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Tue Oct  9 19:56:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc do you see the signs?
+Tue Oct  9 19:56:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dim
+Tue Oct  9 19:56:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc wow we got 12 ppl on now
+Tue Oct  9 19:56:55 2018	Nagegg (STEAM_0:0:98220726): /a was more on yesterday
+Tue Oct  9 19:57:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its only 3
+Tue Oct  9 19:57:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 4
+Tue Oct  9 19:57:05 2018	Dave Letcher (STEAM_0:1:52038966): // 9 Online rn
+Tue Oct  9 19:57:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 11
+Tue Oct  9 19:57:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 2 connecting
+Tue Oct  9 19:57:14 2018	Nagegg (STEAM_0:0:98220726): /a i swear the whole tab was full
+Tue Oct  9 19:57:18 2018	Nagegg (STEAM_0:0:98220726): /a yesterday
+Tue Oct  9 19:57:20 2018	DimensionRMG (STEAM_0:1:111567013): u
+Tue Oct  9 19:57:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc it gets full around 20
+Tue Oct  9 19:57:33 2018	John Schaefer (STEAM_0:0:115652713): /advert No terrorism happening here
+Tue Oct  9 19:57:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc still pretty early, work isnt out yet + school is still on in the western US states
+Tue Oct  9 19:58:01 2018	Nagegg (STEAM_0:0:98220726): /a its school for everyone
+Tue Oct  9 19:58:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Tue Oct  9 19:58:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i get out at 2:40
+Tue Oct  9 19:58:11 2018	John Schaefer was killed by Dave Letcher with a cw_g36c
+Tue Oct  9 19:58:16 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 19:58:25 2018	John Schaefer (STEAM_0:0:115652713): // Jesus christ that was brutal
+Tue Oct  9 19:58:28 2018	Nagegg (STEAM_0:0:98220726): /a i get home about 4 pm utc+00
+Tue Oct  9 19:58:34 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 19:58:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 19:58:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // PS, I joined the Discord =3
+Tue Oct  9 19:58:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 19:58:43 2018	DimensionRMG (STEAM_0:1:111567013): // This server so lit. Why is it not popular
+Tue Oct  9 19:58:48 2018	Nagegg (STEAM_0:0:98220726): /a wait someone link the discord
+Tue Oct  9 19:58:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its only 4 days old
+Tue Oct  9 19:58:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Not meny people like reacotrs
+Tue Oct  9 19:59:02 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I do
+Tue Oct  9 19:59:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its posted in chat boi
+Tue Oct  9 19:59:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc https://discord.gg/HntKeW3
+Tue Oct  9 19:59:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert https://discord.gg/HntKeW3
+Tue Oct  9 19:59:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc it posts every 5 mins automatically
+Tue Oct  9 19:59:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert WHAT'S GOING ON?!
+Tue Oct  9 19:59:45 2018	DimensionRMG (STEAM_0:1:111567013): /radio
+Tue Oct  9 19:59:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert Whats the situation?
+Tue Oct  9 19:59:57 2018	Dave Letcher (STEAM_0:1:52038966): /advert OSAMA AT ELEVATORS
+Tue Oct  9 20:00:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert on my way
+Tue Oct  9 20:00:04 2018	Dave Letcher (STEAM_0:1:52038966): // Ugh
+Tue Oct  9 20:00:09 2018	Dave Letcher (STEAM_0:1:52038966): // Core Room Sec only have exec channel
+Tue Oct  9 20:00:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc lemme fix that sorry
+Tue Oct  9 20:00:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert MELTDOWN TEST!
+Tue Oct  9 20:00:30 2018	Dave Letcher (STEAM_0:1:52038966): /advert NO NOT NOW NOT EVERT
+Tue Oct  9 20:00:30 2018	John Schaefer (STEAM_0:0:115652713): /advert I AM DOING ALLAH'S WORK
+Tue Oct  9 20:00:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's ok man
+Tue Oct  9 20:00:42 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Tue Oct  9 20:00:42 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:00:47 2018	John Schaefer was killed by Enviro with a cw_g36c
+Tue Oct  9 20:00:50 2018	Nagegg (STEAM_0:0:98220726): /advert All SWAT are on the task of hunting and killing the terroist
+Tue Oct  9 20:00:56 2018	Nazeem (STEAM_0:0:69668875) has joined the game
+Tue Oct  9 20:00:56 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:00:58 2018	Nagegg (STEAM_0:0:98220726): /a fuck no swat lol
+Tue Oct  9 20:01:02 2018	Nagegg (STEAM_0:0:98220726): /a just realised
+Tue Oct  9 20:01:10 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert No, just a test of the meltdown system
+Tue Oct  9 20:01:12 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:01:17 2018	Dave Letcher (STEAM_0:1:52038966): W
+Tue Oct  9 20:01:23 2018	DimensionRMG (STEAM_0:1:111567013): // How?
+Tue Oct  9 20:01:38 2018	Seinor sherif (STEAM_0:1:48666253) has joined the game
+Tue Oct  9 20:01:38 2018	Seinor sherif (STEAM_0:1:48666253) spawned
+Tue Oct  9 20:01:45 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Nah, =3
+Tue Oct  9 20:01:47 2018	Nazeem (STEAM_0:0:69668875): // Hi guys
+Tue Oct  9 20:01:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): it's ok
+Tue Oct  9 20:01:50 2018	Dave Letcher (STEAM_0:1:52038966): // Enviro I cant fuckin acess your card scanner
+Tue Oct  9 20:02:01 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Whait
+Tue Oct  9 20:02:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Oh
+Tue Oct  9 20:02:11 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:02:11 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I've been in the ray for too long
+Tue Oct  9 20:02:25 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Help
+Tue Oct  9 20:02:30 2018	John Schaefer (STEAM_0:0:115652713): /g Try to start a meltdown boi
+Tue Oct  9 20:02:37 2018	John Schaefer (STEAM_0:0:115652713): /g Kill the infidels
+Tue Oct  9 20:02:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I know, I saw your advert in the Crident Networks Discord
+Tue Oct  9 20:02:52 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's ok!
+Tue Oct  9 20:03:33 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): No
+Tue Oct  9 20:03:38 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's a test
+Tue Oct  9 20:04:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): What's this?
+Tue Oct  9 20:04:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Oh
+Tue Oct  9 20:04:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I'ts may anti-matter core
+Tue Oct  9 20:04:41 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:05:15 2018	DimensionRMG (STEAM_0:1:111567013): Core temp rising
+Tue Oct  9 20:05:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert THAT CORE IS ABOUT TO LIGHT! GET OUT OF THERE
+Tue Oct  9 20:05:25 2018	DimensionRMG (STEAM_0:1:111567013): Evac!
+Tue Oct  9 20:05:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Don't worry! I've installed a E-Coolant, I think to stop it
+Tue Oct  9 20:05:34 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT This is wha you get infidels
+Tue Oct  9 20:05:56 2018	Nagegg (STEAM_0:0:98220726): /a dave how did you get that ladder to work
+Tue Oct  9 20:06:01 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:06:03 2018	Seinor sherif was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 20:06:16 2018	Seinor sherif (STEAM_0:1:48666253) spawned
+Tue Oct  9 20:06:27 2018	Nagegg (STEAM_0:0:98220726): /a nvm
+Tue Oct  9 20:06:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh its going down
+Tue Oct  9 20:06:41 2018	Dwight Kurt Schrute was killed by Himself with a suicide trick
+Tue Oct  9 20:06:44 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:07:05 2018	DimensionRMG (STEAM_0:1:111567013): // You should add some sort of alarm system
+Tue Oct  9 20:07:08 2018	Seinor sherif (STEAM_0:1:48666253) disconnected
+Tue Oct  9 20:07:12 2018	DimensionRMG (STEAM_0:1:111567013): // That makes noise and lights
+Tue Oct  9 20:07:18 2018	Enviro (STEAM_0:0:80115103): // there is one only for meltdowns
+Tue Oct  9 20:07:32 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:07:33 2018	DimensionRMG (STEAM_0:1:111567013): // Ah okay.
+Tue Oct  9 20:07:40 2018	Dwight Kurt Schrute was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 20:07:41 2018	DimensionRMG (STEAM_0:1:111567013): // What can terrorists do to blow up the coor?
+Tue Oct  9 20:07:43 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:07:46 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:07:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Tue Oct  9 20:07:52 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:07:53 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // disable the pumps and the fan
+Tue Oct  9 20:07:59 2018	John Schaefer (STEAM_0:0:115652713): // Jihad ended with complete failure
+Tue Oct  9 20:08:04 2018	DimensionRMG (STEAM_0:1:111567013): // Where do they do that?
+Tue Oct  9 20:08:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Is there any cool music when the core melts?
+Tue Oct  9 20:08:09 2018	John Schaefer (STEAM_0:0:115652713): // Yes
+Tue Oct  9 20:08:10 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // yes
+Tue Oct  9 20:08:15 2018	John Schaefer (STEAM_0:0:115652713): // it's fucking ebic
+Tue Oct  9 20:08:17 2018	Enviro (STEAM_0:0:80115103): // tsunami
+Tue Oct  9 20:08:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // HELL YEAH!!!
+Tue Oct  9 20:08:21 2018	Enviro (STEAM_0:0:80115103): // DODODODODODODODOD
+Tue Oct  9 20:08:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Hold on
+Tue Oct  9 20:08:30 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // whilst short lived, the meltdown is badass, amirite?
+Tue Oct  9 20:08:43 2018	DimensionRMG (STEAM_0:1:111567013): // Is this
+Tue Oct  9 20:08:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): come back
+Tue Oct  9 20:08:51 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): this is not the core
+Tue Oct  9 20:08:53 2018	DimensionRMG (STEAM_0:1:111567013): // Is this inspired by pinewoord?
+Tue Oct  9 20:09:09 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // no this is based off chernobyl
+Tue Oct  9 20:09:11 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Did you get this idea from a game called 
+Tue Oct  9 20:09:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I know
+Tue Oct  9 20:09:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc slaverp
+Tue Oct  9 20:09:23 2018	Dave Letcher (STEAM_0:1:52038966): // Enviro fix your fucking card scanners
+Tue Oct  9 20:09:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Oof.
+Tue Oct  9 20:09:40 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // i dont want to work, i just want to bang on this cup all day
+Tue Oct  9 20:09:44 2018	Dave Letcher (STEAM_0:1:52038966): // why is CBRN in?
+Tue Oct  9 20:09:45 2018	DimensionRMG (STEAM_0:1:111567013): // Where are the coolant pumps?
+Tue Oct  9 20:09:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // But Pinewood Computer Core is dead now
+Tue Oct  9 20:10:07 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // how to survive the nuclear blast
+Tue Oct  9 20:10:13 2018	Dave Letcher (STEAM_0:1:52038966): // goto 3 places
+Tue Oct  9 20:10:15 2018	Dave Letcher (STEAM_0:1:52038966): // The Rocket
+Tue Oct  9 20:10:15 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 20:10:18 2018	Dave Letcher (STEAM_0:1:52038966): // The Blast Shelter
+Tue Oct  9 20:10:21 2018	Dave Letcher (STEAM_0:1:52038966): // or Nigeria
+Tue Oct  9 20:10:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert DAVE 
+Tue Oct  9 20:10:27 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // nigeria is interesting lol
+Tue Oct  9 20:10:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert come over here please so we can kill the terrorist
+Tue Oct  9 20:10:38 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:10:47 2018	DimensionRMG (STEAM_0:1:111567013): 
+Tue Oct  9 20:11:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert AHHHH!
+Tue Oct  9 20:11:03 2018	waviestballoonx9 [WaviestRP] was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:11:08 2018	Enviro (STEAM_0:0:80115103): // haha
+Tue Oct  9 20:11:10 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // if you go to the rocket is there some animation to go to space?
+Tue Oct  9 20:11:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert WARNING: CORE CRITCAL!
+Tue Oct  9 20:11:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Tue Oct  9 20:11:26 2018	John Schaefer was killed by Enviro with a cw_l85a2
+Tue Oct  9 20:11:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert DON'T GO NEAR THE CORE!
+Tue Oct  9 20:11:29 2018	Pootis Bird (STEAM_0:0:22086175): /advert Uhh the core's pretty much screwed. Someone left the lasers on and now nobody can turn them off
+Tue Oct  9 20:11:30 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:11:38 2018	DimensionRMG was killed by Nagegg with a cw_deagle
+Tue Oct  9 20:11:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert WARNING: CORE IS FUCKED!
+Tue Oct  9 20:11:39 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 20:11:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert SHALL WE ATTEMP E-COOLANT?
+Tue Oct  9 20:11:45 2018	John Schaefer (STEAM_0:0:115652713): /advert FOR ALLAH
+Tue Oct  9 20:11:56 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT EVERYONE WHO IS A MUSLIM BEGIN PRAYING TO ALLAH!
+Tue Oct  9 20:11:57 2018	Dave Letcher (STEAM_0:1:52038966): /advert Only until metldown
+Tue Oct  9 20:11:57 2018	Pootis Bird (STEAM_0:0:22086175): /advert E-Collant can only be active during a meltdown
+Tue Oct  9 20:12:04 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert SOME ATTEMPT E COOLANT LOL
+Tue Oct  9 20:12:12 2018	Enviro was killed by Nazeem with a cw_g36c
+Tue Oct  9 20:12:13 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:12:15 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:12:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I'm getting flashbacks from Pinewood
+Tue Oct  9 20:12:16 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:12:18 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /Y I am evacuating
+Tue Oct  9 20:12:20 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y fuck this
+Tue Oct  9 20:12:22 2018	DimensionRMG was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 20:12:23 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 20:12:27 2018	Dave Letcher (STEAM_0:1:52038966): /advert Plant Workers, evacuate to the blast shelter
+Tue Oct  9 20:12:34 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert I am evacuating nigga
+Tue Oct  9 20:12:58 2018	Dave Letcher (STEAM_0:1:52038966): /advert WHY IS THE REACTOR POWER LEVEL 3
+Tue Oct  9 20:13:05 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert Everyone who wants to live go to the space rocket.
+Tue Oct  9 20:13:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert ( ͡° ͜ʖ ͡°)
+Tue Oct  9 20:13:35 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert that's what she said
+Tue Oct  9 20:13:36 2018	Pootis Bird was killed by Enviro with a cw_l85a2
+Tue Oct  9 20:13:38 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 20:13:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert I didn't do anything ( ͡° ͜ʖ ͡°)
+Tue Oct  9 20:13:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert =3
+Tue Oct  9 20:13:54 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert i dont want to work
+Tue Oct  9 20:14:00 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert i just want to bang on this cup all day
+Tue Oct  9 20:14:06 2018	Nagegg (STEAM_0:0:98220726): /advert GET EMERGENCY COOLING ON
+Tue Oct  9 20:14:09 2018	Dave Letcher was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:14:09 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert WTH
+Tue Oct  9 20:14:12 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:14:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert LOL
+Tue Oct  9 20:14:20 2018	Nazeem was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:14:22 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:14:30 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): evacuate right niga
+Tue Oct  9 20:14:32 2018	Nazeem (STEAM_0:0:69668875): /advert NO USE EVAC NOW!!!
+Tue Oct  9 20:14:40 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert I DONT WANT TO WORK
+Tue Oct  9 20:14:45 2018	Dave Letcher (STEAM_0:1:52038966): /advert Power level down and all boosters disabled
+Tue Oct  9 20:14:46 2018	waviestballoonx9 [WaviestRP] was killed by DimensionRMG with a cw_l85a2
+Tue Oct  9 20:14:46 2018	[Opi] Fat Gay was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:14:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT I JUST WANT TO BANG ON THIS CUP ALL DAY
+Tue Oct  9 20:14:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Tue Oct  9 20:14:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 20:14:49 2018	Nagegg (STEAM_0:0:98220726): /advert TERROISTS NEAR THE CORE
+Tue Oct  9 20:15:00 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT 
+Tue Oct  9 20:15:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert one is still on I think
+Tue Oct  9 20:15:25 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Tue Oct  9 20:15:34 2018	Enviro was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 20:15:36 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:15:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Tue Oct  9 20:15:43 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): hEY
+Tue Oct  9 20:15:45 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:15:53 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): I can't request a hit, nuke meltdown about to occur.
+Tue Oct  9 20:15:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert A WARNING: SWAT are now coming into the lab!
+Tue Oct  9 20:16:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:16:13 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert I am at the Escape Rocket, everyone who wants to live come here.
+Tue Oct  9 20:16:13 2018	Enviro (STEAM_0:0:80115103): // lab?
+Tue Oct  9 20:16:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Sorry, core
+Tue Oct  9 20:16:33 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Don't cool the core, let tsunami play
+Tue Oct  9 20:16:46 2018	Nagegg (STEAM_0:0:98220726): /advert Im nearly dead goodbye everyone
+Tue Oct  9 20:16:54 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // SORRY
+Tue Oct  9 20:16:56 2018	John Schaefer (STEAM_0:0:115652713): /advert DON'T LET THE DIRECTOR ESCAPE
+Tue Oct  9 20:16:57 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert nagegg get on the intercom
+Tue Oct  9 20:17:00 2018	Nagegg was killed by John Schaefer with a cw_mr96
+Tue Oct  9 20:17:04 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:17:05 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // oof
+Tue Oct  9 20:17:09 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert DAMN YOU ISIS
+Tue Oct  9 20:17:13 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT DAMN YOU TO HELL
+Tue Oct  9 20:17:13 2018	John Schaefer (STEAM_0:0:115652713): /advert HE IS DEAD CAUSE ALLAH
+Tue Oct  9 20:17:14 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:17:29 2018	John Schaefer (STEAM_0:0:115652713): /advert I never thought I would get this far actually
+Tue Oct  9 20:17:36 2018	DimensionRMG (STEAM_0:1:111567013) disconnected
+Tue Oct  9 20:17:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT We need to negotiate with the terrorists
+Tue Oct  9 20:17:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Is there another way to get in to the core without the tram?
+Tue Oct  9 20:17:46 2018	Enviro (STEAM_0:0:80115103): // nope
+Tue Oct  9 20:17:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Rip!
+Tue Oct  9 20:17:54 2018	Dave Letcher (STEAM_0:1:52038966): // 2 Stops via tram
+Tue Oct  9 20:17:58 2018	John Schaefer (STEAM_0:0:115652713): /advert Yeah negotiate and I might turn this shit back on
+Tue Oct  9 20:18:02 2018	Dave Letcher (STEAM_0:1:52038966): // 1 Stop, take the teleporter, run to the elevator take that
+Tue Oct  9 20:18:19 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert Don't shoot the terrorists, peacefully bring them to be a Christian
+Tue Oct  9 20:18:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Security Warning: SWAT Team has now making there way to the reactor core!
+Tue Oct  9 20:18:41 2018	John Schaefer (STEAM_0:0:115652713): /advert I want 17 zillion dollars and I'll turn the fan back on
+Tue Oct  9 20:18:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Idk
+Tue Oct  9 20:18:49 2018	Pootis Bird (STEAM_0:0:22086175): // Haha
+Tue Oct  9 20:18:53 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // This is like Air France 8969
+Tue Oct  9 20:18:58 2018	John Schaefer (STEAM_0:0:115652713): /advert I AINT KIDDIN SON
+Tue Oct  9 20:19:10 2018	John Schaefer was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:19:12 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:19:18 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert 17 zillion is not a number, it is impossible to provide you with such an amount of money.
+Tue Oct  9 20:19:26 2018	John Schaefer (STEAM_0:0:115652713): /advert BULLSHIT
+Tue Oct  9 20:19:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Lol.
+Tue Oct  9 20:19:34 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT MONEY NOW OR CORE GO BOOM
+Tue Oct  9 20:19:44 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert Turn on the fan and we will hold the SWAT back
+Tue Oct  9 20:19:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Oof
+Tue Oct  9 20:19:53 2018	Nagegg (STEAM_0:0:98220726): /a whats teh code
+Tue Oct  9 20:20:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): lol
+Tue Oct  9 20:20:15 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert If you fail to comply, SWAT will be deployed
+Tue Oct  9 20:20:33 2018	John Schaefer (STEAM_0:0:115652713): /advert Hold on I gotta walk to the fan
+Tue Oct  9 20:20:36 2018	Enviro (STEAM_0:0:80115103): /advert All colant systems are online. 
+Tue Oct  9 20:20:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert No john nuke this placep ls
+Tue Oct  9 20:20:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ID!
+Tue Oct  9 20:20:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert I want to launch into space
+Tue Oct  9 20:20:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): GIVE US ID
+Tue Oct  9 20:20:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok!
+Tue Oct  9 20:20:57 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm john nuke this shit fam
+Tue Oct  9 20:21:02 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm john swat is just coming in anyway
+Tue Oct  9 20:21:32 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:21:32 2018	Enviro was killed by John Schaefer with a env_explosion
+Tue Oct  9 20:21:33 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:21:36 2018	Enviro (STEAM_0:0:80115103): // fuckin
+Tue Oct  9 20:21:38 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Security Warning: Note to all secuirty! make personel give ID!
+Tue Oct  9 20:21:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm JOHN Nuke this place fam
+Tue Oct  9 20:21:40 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:21:48 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm john COme on Schaefer
+Tue Oct  9 20:22:01 2018	John Schaefer (STEAM_0:0:115652713): /pm Dwight I blew up and landed in the coolant
+Tue Oct  9 20:22:08 2018	Enviro (STEAM_0:0:80115103): /advert Core cooling.
+Tue Oct  9 20:22:11 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm john fuck
+Tue Oct  9 20:22:17 2018	MacAttack (STEAM_0:1:104618787) has joined the game
+Tue Oct  9 20:22:17 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:22:29 2018	Nagegg (STEAM_0:0:98220726): /advert Mug! Drop $1 or die. Pls dont kill me i just want $1. If you run/ pull a gun KOS
+Tue Oct  9 20:22:30 2018	Hatten (STEAM_0:1:4024515) disconnected
+Tue Oct  9 20:22:34 2018	Nagegg (STEAM_0:0:98220726): /a oops
+Tue Oct  9 20:22:42 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert How many casualties among the SWAT?
+Tue Oct  9 20:22:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // DarkRP ¬_¬
+Tue Oct  9 20:22:56 2018	Dave Letcher (STEAM_0:1:52038966): /advert SWAT, watch the T Spawns, 3 of you, 3 Spawns
+Tue Oct  9 20:22:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Rip
+Tue Oct  9 20:23:09 2018	Enviro (STEAM_0:0:80115103): // *spawns* lmao
+Tue Oct  9 20:23:10 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:23:15 2018	Dave Letcher (STEAM_0:1:52038966): /advert HES AT 
+Tue Oct  9 20:23:17 2018	Dave Letcher (STEAM_0:1:52038966): /Advert [Automated Message] ALERT! The owner of this device is in danger, be aware of any and stay near protection
+Tue Oct  9 20:23:18 2018	Enviro (STEAM_0:0:80115103): // RUINING MY IMMERSION REEE
+Tue Oct  9 20:23:25 2018	Nagegg (STEAM_0:0:98220726): /advert FAN NOW SWAT
+Tue Oct  9 20:23:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // AH!
+Tue Oct  9 20:23:45 2018	Pootis Bird (STEAM_0:0:22086175): /advert OSAMA AT E COLLANT
+Tue Oct  9 20:23:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // The classic warning lights
+Tue Oct  9 20:23:51 2018	John Schaefer (STEAM_0:0:115652713): /advert Can you fight in the dark Americans?
+Tue Oct  9 20:23:54 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /advert ALLAHU AKBAR!
+Tue Oct  9 20:24:03 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): Let me in fam
+Tue Oct  9 20:24:23 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): We need to destroy this shit
+Tue Oct  9 20:24:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): YOU ARE HOSTAGE NOW
+Tue Oct  9 20:24:47 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:24:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT WE HAVE A PLANT WORKER HOSTAGE
+Tue Oct  9 20:24:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert TEMP. IS STABILIZING
+Tue Oct  9 20:24:55 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT SWAT LEAVE OR DIE
+Tue Oct  9 20:24:59 2018	John Schaefer (STEAM_0:0:115652713): /advert DON'T COME IN
+Tue Oct  9 20:25:02 2018	MacAttack (STEAM_0:1:104618787): /announce What the hell is going on up there!
+Tue Oct  9 20:25:07 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT OR HE GO BYE BYE
+Tue Oct  9 20:25:18 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT HE WILL BYE BYE
+Tue Oct  9 20:25:24 2018	John Schaefer (STEAM_0:0:115652713): /advert BACK OFF
+Tue Oct  9 20:25:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:25:29 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT OR HE GO DIE
+Tue Oct  9 20:25:29 2018	MacAttack (STEAM_0:1:104618787): /job Core engineer
+Tue Oct  9 20:25:34 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVERT EVERY EXPLOSION IS SHOT IN KNEE
+Tue Oct  9 20:25:37 2018	Pootis Bird was killed by Dave Letcher with a fas2_thrown_m67
+Tue Oct  9 20:25:40 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /ADVER
+Tue Oct  9 20:25:49 2018	Pootis Bird (STEAM_0:0:22086175): // Lol those grenades killed me
+Tue Oct  9 20:25:51 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 20:25:57 2018	Dwight Kurt Schrute was killed by Dave Letcher with a cw_deagle
+Tue Oct  9 20:25:58 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): I SURRENDER
+Tue Oct  9 20:26:00 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:26:02 2018	Nagegg (STEAM_0:0:98220726): /advert Swat let them stay in there they cant get to the fans and pumps without us knowing
+Tue Oct  9 20:26:03 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:26:06 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:26:19 2018	Dave Letcher (STEAM_0:1:52038966): /advert THEY'rE DOWN WATCH SPAWNS
+Tue Oct  9 20:26:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:26:26 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /NAME Mohammed Al Alweed Sahmared
+Tue Oct  9 20:26:28 2018	Enviro (STEAM_0:0:80115103): // okay dont do taht
+Tue Oct  9 20:26:31 2018	Dave Letcher (STEAM_0:1:52038966): /advert Get to the spawn checkpoints
+Tue Oct  9 20:26:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's broken the PAC
+Tue Oct  9 20:26:41 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Tue Oct  9 20:26:41 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:27:08 2018	Dave Letcher (STEAM_0:1:52038966): /advert Im watching the E-Coolant spawn
+Tue Oct  9 20:27:20 2018	Enviro was killed by Mohammed Al Alweed Sahmared with a cw_shorty
+Tue Oct  9 20:27:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert me and nazeem are at the core
+Tue Oct  9 20:27:20 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:27:33 2018	Nagegg was killed by Mohammed Al Alweed Sahmared with a cw_l85a2
+Tue Oct  9 20:27:38 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:27:44 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:27:49 2018	MacAttack (STEAM_0:1:104618787): !vox hello
+Tue Oct  9 20:27:50 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:27:54 2018	Nagegg (STEAM_0:0:98220726): /a cant beat em join em
+Tue Oct  9 20:27:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /vox =3
+Tue Oct  9 20:27:58 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:27:59 2018	MacAttack (STEAM_0:1:104618787): /vox hello
+Tue Oct  9 20:28:04 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT KILL THE INFIDELS
+Tue Oct  9 20:28:28 2018	Dave Letcher (STEAM_0:1:52038966): /advert Im moving away from E-Coolant to unlock the cards for Security and SWAT
+Tue Oct  9 20:28:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): SOrry
+Tue Oct  9 20:28:58 2018	Dave Letcher (STEAM_0:1:52038966): /a
+Tue Oct  9 20:28:58 2018	Dave Letcher was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:28:58 2018	Dave Letcher (STEAM_0:1:52038966): /Advert [Automated Message] ALERT! The owner of this device is in danger, be aware of any and stay near protection
+Tue Oct  9 20:29:00 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:29:20 2018	bad staff memeber (STEAM_0:0:32441) has joined the game
+Tue Oct  9 20:29:20 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:29:50 2018	John Schaefer (STEAM_0:0:115652713): /advert I WILL LIST MY DEMANDS
+Tue Oct  9 20:30:02 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 20:30:03 2018	Nazeem (STEAM_0:0:69668875): 17 zilliuon dollars
+Tue Oct  9 20:30:03 2018	John Schaefer (STEAM_0:0:115652713): /advert 1 zillion dollars, a tampoline, a private jet
+Tue Oct  9 20:30:07 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert And that is?
+Tue Oct  9 20:30:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Lol.
+Tue Oct  9 20:30:27 2018	John Schaefer (STEAM_0:0:115652713): /advert Barack Obama's first born child
+Tue Oct  9 20:30:30 2018	Dave Letcher (STEAM_0:1:52038966): /advert I can get you 5 bucks, A singular wheel and a paper airplane?
+Tue Oct  9 20:30:34 2018	Nagegg was killed by Enviro with a cw_g36c
+Tue Oct  9 20:30:36 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:30:51 2018	Nagegg (STEAM_0:0:98220726): /a why is the snuper useless
+Tue Oct  9 20:30:58 2018	Nagegg (STEAM_0:0:98220726): /a i hate people like 5 times and it doesnt kill
+Tue Oct  9 20:31:02 2018	Nagegg (STEAM_0:0:98220726): /a hit*
+Tue Oct  9 20:31:12 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:31:12 2018	[Opi] Fat Gay was killed by John Schaefer with a env_explosion
+Tue Oct  9 20:31:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 20:31:19 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:31:34 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:31:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert core seems to be stabilizing...
+Tue Oct  9 20:32:07 2018	John Schaefer (STEAM_0:0:115652713): /advert Give me the shit I want and I'll stop attacking
+Tue Oct  9 20:32:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's a PAC error
+Tue Oct  9 20:32:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yeah
+Tue Oct  9 20:32:20 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:32:48 2018	John Schaefer (STEAM_0:0:115652713): /advert 1 zillion dollars, a trampoline, a scooter, 15000 vbucks, Barack Obama's first born child, and the entire country of
+Tue Oct  9 20:32:51 2018	John Schaefer (STEAM_0:0:115652713): /advert Greece
+Tue Oct  9 20:33:01 2018	Nagegg was killed by Himself with a suicide trick
+Tue Oct  9 20:33:01 2018	Enviro was killed by Nagegg with a env_explosion
+Tue Oct  9 20:33:02 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:33:02 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:33:03 2018	Dave Letcher (STEAM_0:1:52038966): /advert, Why would you want Greece
+Tue Oct  9 20:33:04 2018	bad staff memeber (STEAM_0:0:32441): // wtf am i hearing
+Tue Oct  9 20:33:11 2018	Dave Letcher (STEAM_0:1:52038966): /advert Why would you want greece?
+Tue Oct  9 20:33:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert GIVE US GREECE NOW
+Tue Oct  9 20:33:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): You're not allowed to be here
+Tue Oct  9 20:33:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you can buy them anyways without using a businessman
+Tue Oct  9 20:33:23 2018	Dave Letcher (STEAM_0:1:52038966): /advert That would make you loose out on all the money we will give you
+Tue Oct  9 20:33:26 2018	John Schaefer (STEAM_0:0:115652713): /advert I WANT GREECE
+Tue Oct  9 20:33:27 2018	MacAttack (STEAM_0:1:104618787): I want to speak
+Tue Oct  9 20:33:27 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok lol
+Tue Oct  9 20:33:37 2018	John Schaefer (STEAM_0:0:115652713): /advert GREECE IS WORTH 2 BUCKS 
+Tue Oct  9 20:33:39 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NO GIVE US ALL
+Tue Oct  9 20:33:45 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT T
+Tue Oct  9 20:34:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Alert: We're under attack! Taking fire
+Tue Oct  9 20:34:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc stop
+Tue Oct  9 20:34:35 2018	Dave Letcher (STEAM_0:1:52038966): // gag
+Tue Oct  9 20:34:44 2018	Mohammed Al Alweed Sahmared was killed by Himself with a suicide trick
+Tue Oct  9 20:34:44 2018	bad staff memeber was killed by Mohammed Al Alweed Sahmared with a env_explosion
+Tue Oct  9 20:34:44 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a env_explosion
+Tue Oct  9 20:34:47 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:34:47 2018	bad staff memeber (STEAM_0:0:32441): // LMAO
+Tue Oct  9 20:34:48 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:34:48 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:34:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 20:34:51 2018	Nagegg was killed by Himself with a suicide trick
+Tue Oct  9 20:34:51 2018	Dave Letcher was killed by Nagegg with a env_explosion
+Tue Oct  9 20:34:52 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:34:53 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:34:54 2018	John Schaefer (STEAM_0:0:115652713): /advert GREAT JOB BROTHER OF BLOWING UP THE TRAM
+Tue Oct  9 20:34:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // SO MENY PEOPLE!
+Tue Oct  9 20:35:01 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALLAHU AKBAR
+Tue Oct  9 20:35:08 2018	bad staff memeber (STEAM_0:0:32441): // hey waviesballoonx9
+Tue Oct  9 20:35:10 2018	MacAttack (STEAM_0:1:104618787): /announce Quarantining core
+Tue Oct  9 20:35:10 2018	Dave Letcher (STEAM_0:1:52038966): // would be better if we were actually RPing
+Tue Oct  9 20:35:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring bad
+Tue Oct  9 20:35:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Hi
+Tue Oct  9 20:35:20 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WHERE'S MY GREECE DAMNIT
+Tue Oct  9 20:35:22 2018	MacAttack (STEAM_0:1:104618787): /announce Evacuate sectors near the core
+Tue Oct  9 20:35:26 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT AND MY TRAMPOLINE
+Tue Oct  9 20:35:28 2018	MacAttack (STEAM_0:1:104618787): /announce 
+Tue Oct  9 20:35:30 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT GIVE US GREECE AND SCOOTER 
+Tue Oct  9 20:35:31 2018	Dave Letcher (STEAM_0:1:52038966): /advert WE AREN'T IN GREECE
+Tue Oct  9 20:35:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Well,
+Tue Oct  9 20:35:45 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Cya guys
+Tue Oct  9 20:35:49 2018	MacAttack (STEAM_0:1:104618787): /announce Somebody needs to turn off the lasers!
+Tue Oct  9 20:35:50 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT GIVE ME GREECE CALL UP THEIR PRESIDENT AND TELL THEM TO GIVE IT TO ME
+Tue Oct  9 20:35:54 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NO WE WANT WHOLE COUNTRY OF GREECE
+Tue Oct  9 20:35:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // May log in another time =3
+Tue Oct  9 20:35:56 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT OR ELSE
+Tue Oct  9 20:35:57 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHOLE THING
+Tue Oct  9 20:36:09 2018	Dave Letcher (STEAM_0:1:52038966): /advert How about brazil
+Tue Oct  9 20:36:11 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) disconnected
+Tue Oct  9 20:36:17 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT Yes
+Tue Oct  9 20:36:33 2018	John Schaefer (STEAM_0:0:115652713): /advert We can make more cocaine
+Tue Oct  9 20:36:48 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:36:53 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:36:53 2018	Nagegg (STEAM_0:0:98220726): /advert Turning up the power
+Tue Oct  9 20:37:04 2018	MacAttack (STEAM_0:1:104618787): /announce Quarantining core
+Tue Oct  9 20:37:04 2018	John Schaefer (STEAM_0:0:115652713): /advert WHERE'S MY BAZIL AND GREECE
+Tue Oct  9 20:37:14 2018	MacAttack (STEAM_0:1:104618787): /announce Your going to be fucking trapped you fucking peice of shit now
+Tue Oct  9 20:37:21 2018	Dave Letcher (STEAM_0:1:52038966): /advert Brazil was a trade for greece
+Tue Oct  9 20:37:38 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NO WE WANT BOTH
+Tue Oct  9 20:37:41 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT OR NO DEAL
+Tue Oct  9 20:37:43 2018	Dave Letcher (STEAM_0:1:52038966): /advert Nigga
+Tue Oct  9 20:37:43 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT OH AND CHANGE THE NAME OF DENMARK TO LAND OF THE GAYS
+Tue Oct  9 20:37:51 2018	Dave Letcher (STEAM_0:1:52038966): /advert How about we turn Estonia nordic?
+Tue Oct  9 20:37:56 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT Yes
+Tue Oct  9 20:38:00 2018	John Schaefer (STEAM_0:0:115652713): /advert very yes
+Tue Oct  9 20:38:13 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Tue Oct  9 20:38:13 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Tue Oct  9 20:38:15 2018	John Schaefer (STEAM_0:0:115652713): /advert But I still want Brazil and Greece
+Tue Oct  9 20:38:23 2018	Nagegg was killed by MacAttack with a cw_deagle
+Tue Oct  9 20:38:25 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:38:37 2018	Enviro was killed by Mohammed Al Alweed Sahmared with a cw_l85a2
+Tue Oct  9 20:38:39 2018	Nazeem (STEAM_0:0:69668875): // Jesus just kill each other already
+Tue Oct  9 20:38:41 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:38:43 2018	bad staff memeber was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:38:46 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:38:51 2018	Nagegg (STEAM_0:0:98220726): /a ran outta bullets lol
+Tue Oct  9 20:38:53 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT BROTHER THE INFEDELS ARE COMING TO CORE
+Tue Oct  9 20:38:54 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:38:55 2018	Dave Letcher (STEAM_0:1:52038966): /advert Brazil OR Greec
+Tue Oct  9 20:39:06 2018	Craftygarrett was killed by John Schaefer with a cw_scarh
+Tue Oct  9 20:39:09 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:39:10 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Tue Oct  9 20:39:14 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT THE INFEDELS ARE COMING
+Tue Oct  9 20:39:20 2018	MacAttack (STEAM_0:1:104618787): /announce They broke the alarm
+Tue Oct  9 20:39:22 2018	John Schaefer (STEAM_0:0:115652713): /advert KILL THEM BROTHERS
+Tue Oct  9 20:39:42 2018	[Opi] Fat Gay was killed by Nagegg with a fas2_thrown_m67
+Tue Oct  9 20:39:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 20:39:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc opens door
+Tue Oct  9 20:39:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc nade flies in
+Tue Oct  9 20:39:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dies
+Tue Oct  9 20:40:05 2018	Nagegg (STEAM_0:0:98220726): /a :)
+Tue Oct  9 20:40:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc this core is done! Im outta here!
+Tue Oct  9 20:40:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 150 from meltdown!
+Tue Oct  9 20:40:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE KILL NOW
+Tue Oct  9 20:40:22 2018	Nagegg was killed by Himself with a suicide trick
+Tue Oct  9 20:40:24 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:40:28 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHOLE CORE BOOM
+Tue Oct  9 20:40:30 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:40:59 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:41:06 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Tue Oct  9 20:41:11 2018	Pootis Bird (STEAM_0:0:22086175): /advert Yep the core is done for.
+Tue Oct  9 20:41:12 2018	Dave Letcher (STEAM_0:1:52038966): /advert GET TO THE FUCKING COOLANT
+Tue Oct  9 20:41:13 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ULTIMATUM IS COMING AT 16:00 HOURS
+Tue Oct  9 20:41:26 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:41:35 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT 17:00
+Tue Oct  9 20:41:37 2018	MacAttack (STEAM_0:1:104618787): /announce *BIZWARN* They are under the reactor use this knoledge
+Tue Oct  9 20:41:41 2018	Dave Letcher was killed by DixBFloppin with a cw_l85a2
+Tue Oct  9 20:41:42 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:41:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert ITS TOO LATE! RUN DIRECTOR!
+Tue Oct  9 20:41:54 2018	Dave Letcher (STEAM_0:1:52038966): /advert ALL PERSONELL GET TO EVACUATION SHELTERS
+Tue Oct  9 20:42:05 2018	Dave Letcher (STEAM_0:1:52038966): /advert SECURITY GUARD THE LOBBY AND ROCKET
+Tue Oct  9 20:42:10 2018	Pootis Bird (STEAM_0:0:22086175): /advert Shit it's done for, we need to get out.
+Tue Oct  9 20:42:12 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WE HAVE COMPLETED THE WILL OF ALLAH
+Tue Oct  9 20:42:15 2018	Craftygarrett (STEAM_0:1:184775407): // why when the director dies why does he switch jobs but now osama
+Tue Oct  9 20:42:21 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:42:32 2018	Dave Letcher (STEAM_0:1:52038966): // Cause Osama will be whitlist
+Tue Oct  9 20:42:35 2018	Dave Letcher (STEAM_0:1:52038966): // director will be open
+Tue Oct  9 20:42:42 2018	MacAttack was killed by Mohammed Al Alweed Sahmared with a cw_shorty
+Tue Oct  9 20:42:50 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:42:52 2018	bad staff memeber was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 20:42:53 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:43:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no I can hear both of you
+Tue Oct  9 20:43:15 2018	Dave Letcher (STEAM_0:1:52038966): // Broke
+Tue Oct  9 20:43:20 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:43:28 2018	bad staff memeber was killed by MacAttack with a weapon_hlof_pipewrench
+Tue Oct  9 20:43:31 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:43:39 2018	bad staff memeber (STEAM_0:0:32441) spawned
+Tue Oct  9 20:43:50 2018	MacAttack (STEAM_0:1:104618787): /y HOLY SHIT
+Tue Oct  9 20:43:55 2018	Pootis Bird (STEAM_0:0:22086175): /advert E-Collant now being used.
+Tue Oct  9 20:43:59 2018	Dave Letcher (STEAM_0:1:52038966): /advert Too late
+Tue Oct  9 20:44:02 2018	Nagegg (STEAM_0:0:98220726): /a ^
+Tue Oct  9 20:44:05 2018	MacAttack (STEAM_0:1:104618787): The tram could collapse!
+Tue Oct  9 20:44:07 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT THERE IS NO STOPPING THIS
+Tue Oct  9 20:44:10 2018	Pootis Bird (STEAM_0:0:22086175): /advert Try me.
+Tue Oct  9 20:44:12 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALLAH HAS CHOSEN YOU TO DIE WIH US
+Tue Oct  9 20:44:13 2018	MacAttack (STEAM_0:1:104618787): The tram line could collapse from the tremors
+Tue Oct  9 20:44:15 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALLAHU AKBAR
+Tue Oct  9 20:44:16 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT PREPARE TO DIE INFIDELS
+Tue Oct  9 20:44:24 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT ALLAHU ACKBAR
+Tue Oct  9 20:44:25 2018	Nagegg (STEAM_0:0:98220726): /advert ALLAHU AKBAR
+Tue Oct  9 20:44:36 2018	Dave Letcher (STEAM_0:1:52038966): A
+Tue Oct  9 20:44:37 2018	bad staff memeber (STEAM_0:0:32441) disconnected
+Tue Oct  9 20:44:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert WE MADE IT OUT IN THE ROCKET! SEE YOU FUCKERS LATER!
+Tue Oct  9 20:44:45 2018	DixBFloppin was killed by Craftygarrett with a cw_l115
+Tue Oct  9 20:44:51 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Tue Oct  9 20:45:03 2018	Dave Letcher (STEAM_0:1:52038966): // we made it to nigerioa
+Tue Oct  9 20:45:09 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT Where is the blowy up part
+Tue Oct  9 20:45:11 2018	Craftygarrett (STEAM_0:1:184775407): /advert i cooled downed the core
+Tue Oct  9 20:45:14 2018	Nagegg (STEAM_0:0:98220726): /a meltdown didnt happen
+Tue Oct  9 20:45:14 2018	Enviro (STEAM_0:0:80115103): // LMAO
+Tue Oct  9 20:45:17 2018	John Schaefer (STEAM_0:0:115652713): /advert NOO
+Tue Oct  9 20:45:19 2018	MacAttack (STEAM_0:1:104618787): Where are we.........
+Tue Oct  9 20:45:25 2018	MacAttack (STEAM_0:1:104618787): /me Walks to the light
+Tue Oct  9 20:45:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert E-COOLANT LMAO
+Tue Oct  9 20:45:27 2018	Pootis Bird (STEAM_0:0:22086175): /advert Meltdown Prevented, suck on that obama
+Tue Oct  9 20:45:30 2018	John Schaefer (STEAM_0:0:115652713): /advert WHO IS RESPONSIBLE FOR THIS SHIT
+Tue Oct  9 20:45:32 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Tue Oct  9 20:45:35 2018	DixBFloppin (STEAM_0:1:86800123) disconnected
+Tue Oct  9 20:45:48 2018	MacAttack was killed by Dave Letcher with a fas2_thrown_m67
+Tue Oct  9 20:45:50 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:45:52 2018	Dave Letcher was killed by Himself with a suicide trick
+Tue Oct  9 20:45:53 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:46:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring garr
+Tue Oct  9 20:46:11 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT I WILL JUST DESTROY YOUR ASSES FOR THIS
+Tue Oct  9 20:46:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS BLOWY UP PART
+Tue Oct  9 20:46:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /dropmoney 50000
+Tue Oct  9 20:46:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has dropped $50,000
+Tue Oct  9 20:46:27 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS BOOM PART
+Tue Oct  9 20:46:32 2018	Nagegg (STEAM_0:0:98220726): /a getting some people on atelast
+Tue Oct  9 20:46:36 2018	MacAttack (STEAM_0:1:104618787): /advert Tram override engaged security lock engaged
+Tue Oct  9 20:46:37 2018	Dave Letcher (STEAM_0:1:52038966): /advert It's in nigeria
+Tue Oct  9 20:46:47 2018	Dave Letcher (STEAM_0:1:52038966): /advert Take the portal and witness the strength of allah yourself
+Tue Oct  9 20:46:50 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE COME TO NIGERIA AND FUC YOU IN ASS
+Tue Oct  9 20:46:51 2018	John Schaefer (STEAM_0:0:115652713): /advert Did Nigeria blow up
+Tue Oct  9 20:46:55 2018	Dave Letcher (STEAM_0:1:52038966): /advert Im totallty right on this
+Tue Oct  9 20:47:11 2018	John Schaefer (STEAM_0:0:115652713): // Today is pizza day
+Tue Oct  9 20:47:20 2018	MacAttack (STEAM_0:1:104618787): // huh When is a better map coming out/
+Tue Oct  9 20:47:24 2018	Dave Letcher (STEAM_0:1:52038966): /advert [super duper sevret facility comms] nigeria is ok btw, totally gonna prank 'em
+Tue Oct  9 20:47:44 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE ARE COMING TO NIGERIA FOR OUR MONEY
+Tue Oct  9 20:47:45 2018	Nagegg was killed by MacAttack with a weapon_hlof_pipewrench
+Tue Oct  9 20:47:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:48:03 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:48:13 2018	John Schaefer was killed by Craftygarrett with a cw_l115
+Tue Oct  9 20:48:20 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:48:21 2018	Mohammed Al Alweed Sahmared was killed by Craftygarrett with a cw_l115
+Tue Oct  9 20:48:24 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:48:32 2018	Dave Letcher (STEAM_0:1:52038966): /advert Guys theres totall 72 nigerian muslim virgins waiting for you aswell, as a bonus
+Tue Oct  9 20:48:45 2018	MacAttack (STEAM_0:1:104618787): // XD
+Tue Oct  9 20:48:52 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:48:54 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT We come to nigeria for our 72 virgins
+Tue Oct  9 20:49:20 2018	Nagegg (STEAM_0:0:98220726): /advert now recruiting for CBRN
+Tue Oct  9 20:49:20 2018	Dave Letcher (STEAM_0:1:52038966): /advert also the entire population of greece, aswell as the deed for a plot of nigerian land shaped like greece
+Tue Oct  9 20:49:34 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 20:49:53 2018	Nagegg (STEAM_0:0:98220726): /a stfu
+Tue Oct  9 20:49:54 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Tue Oct  9 20:49:54 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 20:49:56 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert We activate portal now
+Tue Oct  9 20:49:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dont micspam pls thank you
+Tue Oct  9 20:50:01 2018	John Schaefer (STEAM_0:0:115652713): /advert WE COME TO NIGERIA
+Tue Oct  9 20:50:03 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert Coming four our greece
+Tue Oct  9 20:50:12 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT SHUT THIS KID UP
+Tue Oct  9 20:50:14 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert WE LAND IN NIGERIA
+Tue Oct  9 20:50:22 2018	MacAttack (STEAM_0:1:104618787): /announce JOhnny jonny
+Tue Oct  9 20:50:24 2018	Nagegg (STEAM_0:0:98220726): /a he thinks hes funny
+Tue Oct  9 20:50:27 2018	Dave Letcher (STEAM_0:1:52038966): /advert Guys I just totally beaned them
+Tue Oct  9 20:50:29 2018	Nagegg (STEAM_0:0:98220726): /a its actually sad
+Tue Oct  9 20:50:31 2018	MacAttack (STEAM_0:1:104618787): /announce Eating fucking shugar
+Tue Oct  9 20:50:37 2018	MacAttack (STEAM_0:1:104618787): /announce 
+Tue Oct  9 20:50:38 2018	Nagegg (STEAM_0:0:98220726): /a you can tell he gets bullied in school
+Tue Oct  9 20:50:39 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT We are in nigeria
+Tue Oct  9 20:50:45 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert where is everyone
+Tue Oct  9 20:50:45 2018	Pootis Bird (STEAM_0:0:22086175): /avdert Haha well done Dave.
+Tue Oct  9 20:50:47 2018	Dave Letcher (STEAM_0:1:52038966): // Jesus fucking christ man
+Tue Oct  9 20:50:47 2018	John Schaefer (STEAM_0:0:115652713): /advert Where is land shaped like Greece
+Tue Oct  9 20:50:54 2018	Dave Letcher (STEAM_0:1:52038966): // hat in fucks name is wrong with you
+Tue Oct  9 20:50:54 2018	John Schaefer (STEAM_0:0:115652713): /advert THIS IS NOT NIGERIA
+Tue Oct  9 20:50:55 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert WHERE IS SCOOTER
+Tue Oct  9 20:50:57 2018	Pootis Bird (STEAM_0:0:22086175): /advert Haha, well done Dave.
+Tue Oct  9 20:50:59 2018	Nagegg (STEAM_0:0:98220726): /a muted him
+Tue Oct  9 20:51:03 2018	MacAttack was killed by Himself with a suicide trick
+Tue Oct  9 20:51:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay mac
+Tue Oct  9 20:51:04 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE NEED OUR SCOOTER
+Tue Oct  9 20:51:07 2018	Nagegg (STEAM_0:0:98220726): /a guys hold tab
+Tue Oct  9 20:51:07 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WE COME BACK IN ANOTHER LIFE AND KILL MAC
+Tue Oct  9 20:51:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fuck off thank get slayed
+Tue Oct  9 20:51:14 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:51:15 2018	MacAttack (STEAM_0:1:104618787): // ;-;
+Tue Oct  9 20:51:16 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:51:23 2018	Mohammed Al Alweed Sahmared was killed by Himself with a suicide trick
+Tue Oct  9 20:51:25 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 20:51:25 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 20:51:25 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 20:51:26 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:51:27 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 20:51:37 2018	John Schaefer (STEAM_0:0:115652713): /advert NO LONGER ABOUT CORE. THIS IS NOW ABOUT MAC
+Tue Oct  9 20:51:40 2018	Dave Letcher (STEAM_0:1:52038966): // can we not have terorrists for 15 minutes again
+Tue Oct  9 20:51:44 2018	MacAttack (STEAM_0:1:104618787): /advert oh fuck
+Tue Oct  9 20:51:53 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT NO CORE BOOMY JUST KILL MAC
+Tue Oct  9 20:51:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert im in space niggas suck on that
+Tue Oct  9 20:51:56 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS LAND SHAPED LIKE GREECE
+Tue Oct  9 20:51:58 2018	Dave Letcher (STEAM_0:1:52038966): // Oh fuck 
+Tue Oct  9 20:51:59 2018	MacAttack (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:52:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert YOU CANT KILL ME IM SAFE FROM THE MELTDOWN
+Tue Oct  9 20:52:06 2018	Dave Letcher (STEAM_0:1:52038966): // the walkway around the fan literally caves in
+Tue Oct  9 20:52:35 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE COME INTO FACIITY NOT TO KILL
+Tue Oct  9 20:52:47 2018	John Schaefer (STEAM_0:0:115652713): /advert No we kill Mac
+Tue Oct  9 20:53:09 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 20:54:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert core has been stabilized!
+Tue Oct  9 20:54:16 2018	Nagegg was killed by Himself with a suicide trick
+Tue Oct  9 20:54:17 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:54:20 2018	Manager Barn (STEAM_0:1:444450075): /advert Good job
+Tue Oct  9 20:54:21 2018	Dave Letcher was killed by John Schaefer with a cw_mr96
+Tue Oct  9 20:54:25 2018	Craftygarrett was killed by John Schaefer with a cw_mr96
+Tue Oct  9 20:54:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:54:31 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:54:36 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:54:37 2018	Dave Letcher (STEAM_0:1:52038966): // was a smokebomb iggas
+Tue Oct  9 20:54:37 2018	John Schaefer (STEAM_0:0:115652713): /advert GET MAC
+Tue Oct  9 20:54:39 2018	Bulldog (STEAM_0:0:180224455) has joined the game
+Tue Oct  9 20:54:39 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 20:54:43 2018	MacAttack (STEAM_0:1:104618787): /advert wtf
+Tue Oct  9 20:54:52 2018	MacAttack (STEAM_0:1:104618787): /name fuck you
+Tue Oct  9 20:54:57 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:54:59 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT GET FUCK
+Tue Oct  9 20:55:03 2018	John Schaefer (STEAM_0:0:115652713): /advert GIVE US MAC AND WE LEAVE
+Tue Oct  9 20:55:04 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 20:55:04 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:55:05 2018	fuck you (STEAM_0:1:104618787): /name Im a asshole
+Tue Oct  9 20:55:15 2018	Craftygarrett (STEAM_0:1:184775407): // a big mac
+Tue Oct  9 20:55:15 2018	Sinbad (STEAM_0:0:88069895) has joined the game
+Tue Oct  9 20:55:16 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 20:55:27 2018	Manager Barn (STEAM_0:1:444450075): da
+Tue Oct  9 20:55:28 2018	John Schaefer (STEAM_0:0:115652713): /aDVERT GET BACK
+Tue Oct  9 20:55:28 2018	Nagegg (STEAM_0:0:98220726): /advert Selling some slick shit come to lobby
+Tue Oct  9 20:55:30 2018	Manager Barn was killed by Mohammed Al Alweed Sahmared with a fas2_machete
+Tue Oct  9 20:55:30 2018	Im a asshole was killed by John Schaefer with a cw_scarh
+Tue Oct  9 20:55:35 2018	Nagegg (STEAM_0:0:98220726): /advert AKA Bombs
+Tue Oct  9 20:55:36 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct  9 20:55:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Tue Oct  9 20:55:36 2018	Im a asshole (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:55:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 20:55:42 2018	Dave Letcher (STEAM_0:1:52038966): // Ts if you ge Mak will you leave us I wanna errr-pee again
+Tue Oct  9 20:55:43 2018	Im a asshole (STEAM_0:1:104618787) spawned
+Tue Oct  9 20:55:51 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 20:55:58 2018	Im a asshole (STEAM_0:1:104618787): // fuck you
+Tue Oct  9 20:56:03 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NO GAMES YOU GIVE US MAC
+Tue Oct  9 20:56:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:56:28 2018	Manager Barn (STEAM_0:1:444450075): // who the fuck is mac
+Tue Oct  9 20:56:31 2018	Im a asshole (STEAM_0:1:104618787): /name greeman forgen
+Tue Oct  9 20:56:34 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE WANT SOMALIA
+Tue Oct  9 20:56:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:56:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:56:50 2018	greeman forgen (STEAM_0:1:104618787): /advert how about I give you ligma
+Tue Oct  9 20:56:51 2018	Dave Letcher (STEAM_0:1:52038966): /advert He is an engineer
+Tue Oct  9 20:56:54 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT GIVE US MAC AND WE TAKE HIM TO SOMALIA
+Tue Oct  9 20:57:01 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE GO TO SOMALIA
+Tue Oct  9 20:57:03 2018	greeman forgen (STEAM_0:1:104618787): /announce Nah Man Get ligma boi
+Tue Oct  9 20:57:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:57:12 2018	greeman forgen (STEAM_0:1:104618787): /advert nah get ligma you cunt
+Tue Oct  9 20:57:14 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 20:57:26 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 20:57:29 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 20:57:30 2018	Dave Letcher (STEAM_0:1:52038966): // 13 players
+Tue Oct  9 20:57:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 20:57:46 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WE COMING FOR MAC EVEN IF IT MEAN GENOCIDE
+Tue Oct  9 20:57:51 2018	Dave Letcher (STEAM_0:1:52038966): /Me Holds his breath
+Tue Oct  9 20:57:58 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 20:58:06 2018	Dave Letcher (STEAM_0:1:52038966): // I broke it
+Tue Oct  9 20:58:11 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE COME FOR MAC TO TAKE HIM TO SOMALIA
+Tue Oct  9 20:58:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert I know where mac is, but I wont tell
+Tue Oct  9 20:58:15 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT GIVE MAC TO US AND WE WILL GO TO SOMALIA
+Tue Oct  9 20:58:19 2018	Dave Letcher was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Tue Oct  9 20:58:20 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 20:58:49 2018	Manager Barn (STEAM_0:1:444450075): have a bater ram
+Tue Oct  9 20:58:56 2018	Craftygarrett was killed by Nazeem with a cw_shorty
+Tue Oct  9 20:59:04 2018	Manager Barn (STEAM_0:1:444450075): we got cake
+Tue Oct  9 20:59:18 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 20:59:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /warrant greeman had to do it to em'
+Tue Oct  9 20:59:46 2018	greeman forgen (STEAM_0:1:104618787): Hello.
+Tue Oct  9 20:59:48 2018	Bulldog was killed by John Schaefer with a cw_scarh
+Tue Oct  9 20:59:48 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT YOU GIVE MAC TO US AND WE GO TO SOMALIA
+Tue Oct  9 20:59:52 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 20:59:53 2018	greeman forgen (STEAM_0:1:104618787): NO!
+Tue Oct  9 20:59:55 2018	Manager Barn (STEAM_0:1:444450075): /warent Greeman sorry only way for ben laden to leave
+Tue Oct  9 20:59:58 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT I KILL MAC CAUSE TOO MUCH TROUBLE
+Tue Oct  9 21:00:00 2018	Craftygarrett (STEAM_0:1:184775407): /ad what is mac
+Tue Oct  9 21:00:05 2018	Craftygarrett (STEAM_0:1:184775407): /advert what is mac
+Tue Oct  9 21:00:06 2018	Craftygarrett was killed by John Schaefer with a cw_scarh
+Tue Oct  9 21:00:07 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:00:15 2018	Manager Barn (STEAM_0:1:444450075): /warant Greeman Mk
+Tue Oct  9 21:00:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert nowhere you get nothing!
+Tue Oct  9 21:00:17 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:00:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:00:28 2018	Dave Letcher was killed by John Schaefer with a cw_scarh
+Tue Oct  9 21:00:29 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 21:00:34 2018	Manager Barn (STEAM_0:1:444450075): /warrent Greeman Mk
+Tue Oct  9 21:00:43 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 21:00:45 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 21:00:54 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT GIVE MAC
+Tue Oct  9 21:01:00 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT GIVE MAC OR DIE
+Tue Oct  9 21:01:06 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT GENOCIDE
+Tue Oct  9 21:01:24 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:01:32 2018	Bulldog was killed by Nazeem with a cw_shorty
+Tue Oct  9 21:01:32 2018	Manager Barn (STEAM_0:1:444450075): same
+Tue Oct  9 21:01:40 2018	Manager Barn (STEAM_0:1:444450075): sorry
+Tue Oct  9 21:01:45 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:01:49 2018	Dave Letcher (STEAM_0:1:52038966): /pm jo Annonymous tip, I didn't tell you, check the warhouse
+Tue Oct  9 21:02:07 2018	John Schaefer (STEAM_0:0:115652713): /PM Dave And where is warehouse
+Tue Oct  9 21:02:17 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:02:22 2018	Manager Barn (STEAM_0:1:444450075): just let us
+Tue Oct  9 21:02:28 2018	Dave Letcher (STEAM_0:1:52038966): /pm jo Lobby
+Tue Oct  9 21:02:35 2018	Dave Letcher (STEAM_0:1:52038966): /pm jo Bring your men
+Tue Oct  9 21:02:40 2018	Craftygarrett was killed by Nazeem with a cw_shorty
+Tue Oct  9 21:02:42 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:02:44 2018	John Schaefer (STEAM_0:0:115652713): /g GO TO LOBBY WAREHOUSE
+Tue Oct  9 21:02:58 2018	Manager Barn (STEAM_0:1:444450075): /pm j heading to jail btw green
+Tue Oct  9 21:03:08 2018	Manager Barn (STEAM_0:1:444450075): yea haha
+Tue Oct  9 21:03:24 2018	Manager Barn (STEAM_0:1:444450075): heling
+Tue Oct  9 21:03:25 2018	Manager Barn was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:03:25 2018	greeman forgen was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:03:27 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:03:31 2018	greeman forgen (STEAM_0:1:104618787) spawned
+Tue Oct  9 21:03:32 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:03:34 2018	Nazeem was killed by greeman forgen with a weapon_hlof_pipewrench
+Tue Oct  9 21:03:35 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:03:37 2018	Dave Letcher was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:03:37 2018	Manager Barn was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:03:39 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:03:40 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 21:03:45 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 21:03:47 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:03:48 2018	Enviro (STEAM_0:0:80115103): // brb gonna get food so i can eat while i stare at this door
+Tue Oct  9 21:04:25 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT YOU GIVE US MAC OR CORE BOOMY
+Tue Oct  9 21:04:27 2018	Manager Barn (STEAM_0:1:444450075): We need to help him  da
+Tue Oct  9 21:04:47 2018	Nagegg (STEAM_0:0:98220726): /a please give them mac
+Tue Oct  9 21:04:47 2018	John Schaefer (STEAM_0:0:115652713): /advert YES CORE NEVER WENT FULL BOOMY BEFORE
+Tue Oct  9 21:04:54 2018	Nagegg (STEAM_0:0:98220726): /a he changed his name
+Tue Oct  9 21:05:00 2018	Manager Barn (STEAM_0:1:444450075): Suka bleh long live the sovit union
+Tue Oct  9 21:05:02 2018	John Schaefer (STEAM_0:0:115652713): // WE KNOW
+Tue Oct  9 21:05:02 2018	Nagegg (STEAM_0:0:98220726): /a his name is greeman something
+Tue Oct  9 21:05:45 2018	Manager Barn was killed by John Schaefer with a cw_scarh
+Tue Oct  9 21:05:51 2018	Manager Barn (STEAM_0:1:444450075): RUUUUUN
+Tue Oct  9 21:05:56 2018	Manager Barn (STEAM_0:1:444450075): /Y RUN 
+Tue Oct  9 21:05:57 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:06:01 2018	[Opi] Fat Gay was killed by John Schaefer with a cw_scarh
+Tue Oct  9 21:06:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:06:06 2018	Manager Barn (STEAM_0:1:444450075): HELLO SIR
+Tue Oct  9 21:06:12 2018	Manager Barn (STEAM_0:1:444450075): iM ON YOUR SIDW
+Tue Oct  9 21:06:18 2018	Manager Barn (STEAM_0:1:444450075): COME
+Tue Oct  9 21:06:24 2018	Manager Barn (STEAM_0:1:444450075): COME
+Tue Oct  9 21:06:52 2018	Enviro (STEAM_0:0:80115103): // if the door isnt open by the time i finish my baguette
+Tue Oct  9 21:06:58 2018	Enviro (STEAM_0:0:80115103): // ill start watching reaction vidoes on youtube
+Tue Oct  9 21:07:07 2018	John Schaefer (STEAM_0:0:115652713): /advert WHERE MAC IS 
+Tue Oct  9 21:07:08 2018	Enviro (STEAM_0:0:80115103): // im holding myself hostage
+Tue Oct  9 21:07:11 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WHERE
+Tue Oct  9 21:07:18 2018	Dave Letcher (STEAM_0:1:52038966): /pm joh Warhouse, lobby
+Tue Oct  9 21:07:20 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE MAC IS AT
+Tue Oct  9 21:07:21 2018	Enviro (STEAM_0:0:80115103): /advert nobody cares or knows, jesus christ
+Tue Oct  9 21:07:23 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE HAVE 2 HOSTAGE
+Tue Oct  9 21:07:27 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT IN CAFETERIA
+Tue Oct  9 21:07:31 2018	John Schaefer (STEAM_0:0:115652713): /pm Dav I think I found the warhouse
+Tue Oct  9 21:07:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert DAVE WAS A TERRORIST IN DISGUISE THE WHOLE TIME!
+Tue Oct  9 21:08:00 2018	Manager Barn was killed by John Schaefer with a cw_scarh
+Tue Oct  9 21:08:03 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:08:08 2018	John Schaefer was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 21:08:11 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 21:08:12 2018	Dave Letcher (STEAM_0:1:52038966): /advert If I help them give mac, they leave
+Tue Oct  9 21:08:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc why dont you go break out the scps or something lol
+Tue Oct  9 21:08:41 2018	Manager Barn (STEAM_0:1:444450075): sUKA BELH
+Tue Oct  9 21:08:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you are not getting him
+Tue Oct  9 21:08:57 2018	Manager Barn was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:08:59 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:08:59 2018	John Schaefer (STEAM_0:0:115652713): /advert THANK FOR GOOD IDEA ME GO LET OUT SCP
+Tue Oct  9 21:09:07 2018	Manager Barn (STEAM_0:1:444450075): on your side
+Tue Oct  9 21:09:11 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:09:12 2018	Dave Letcher was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Tue Oct  9 21:09:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:09:17 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT You are a very smart man
+Tue Oct  9 21:09:18 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 21:09:23 2018	Enviro (STEAM_0:0:80115103): // oh shit sweet
+Tue Oct  9 21:09:24 2018	Dave Letcher (STEAM_0:1:52038966): t
+Tue Oct  9 21:09:27 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT SPIES ARE DEAD
+Tue Oct  9 21:09:31 2018	Enviro (STEAM_0:0:80115103): !motd
+Tue Oct  9 21:09:31 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS MAC
+Tue Oct  9 21:09:39 2018	Manager Barn (STEAM_0:1:444450075): mhm
+Tue Oct  9 21:09:52 2018	Manager Barn (STEAM_0:1:444450075): /pm mo he in jail cell on the right side
+Tue Oct  9 21:09:57 2018	Nazeem (STEAM_0:0:69668875): /advert YOU HAVE TEN MIN TO FIND MAC OR THEY DIE
+Tue Oct  9 21:10:08 2018	Craftygarrett (STEAM_0:1:184775407): /advert what does he look like
+Tue Oct  9 21:10:09 2018	Dave Letcher (STEAM_0:1:52038966): /
+Tue Oct  9 21:10:14 2018	Dave Letcher (STEAM_0:1:52038966): /advert He at the damn warhouse
+Tue Oct  9 21:10:30 2018	Manager Barn (STEAM_0:1:444450075): /pm da he in jail cell
+Tue Oct  9 21:10:33 2018	John Schaefer (STEAM_0:0:115652713): /advert 1 SCP IS LOOSE 
+Tue Oct  9 21:10:36 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT GOODY
+Tue Oct  9 21:10:40 2018	Nazeem (STEAM_0:0:69668875): /advert Should I release them then?
+Tue Oct  9 21:10:49 2018	Manager Barn (STEAM_0:1:444450075): cells
+Tue Oct  9 21:10:52 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Tue Oct  9 21:10:56 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 21:10:57 2018	Manager Barn (STEAM_0:1:444450075): /in
+Tue Oct  9 21:11:07 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:11:15 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS MAC OR DIE
+Tue Oct  9 21:11:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ADVERT no
+Tue Oct  9 21:11:32 2018	Nazeem (STEAM_0:0:69668875): /advert  5 MIN LEFT
+Tue Oct  9 21:11:34 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT GIVE MAC TO US AND WE GO TO SOMALIA
+Tue Oct  9 21:11:36 2018	Manager Barn (STEAM_0:1:444450075): /pm mo he in the dam cells
+Tue Oct  9 21:11:41 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /PM MANAGER WHERE
+Tue Oct  9 21:12:02 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /PM BARN WHERE ARE CELLS
+Tue Oct  9 21:12:05 2018	Manager Barn (STEAM_0:1:444450075): /pm mo were secutrity spawn
+Tue Oct  9 21:12:10 2018	greeman forgen (STEAM_0:1:104618787): /advert Attention if you want to speak to me join the network gorman on gnet
+Tue Oct  9 21:12:57 2018	Bulldog was killed by Nazeem with a cw_l85a2
+Tue Oct  9 21:12:59 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:13:05 2018	Sinbad was killed by Nazeem with a cw_shorty
+Tue Oct  9 21:13:13 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I DONT WANT SPEAK I WANT TO FIND MAC
+Tue Oct  9 21:13:20 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:13:20 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE FIND MAC AND WE GO TO SOMALIA
+Tue Oct  9 21:13:22 2018	Nazeem was killed by Himself with a suicide trick
+Tue Oct  9 21:13:33 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:13:34 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:13:35 2018	Craftygarrett (STEAM_0:1:184775407): /advert mac is there
+Tue Oct  9 21:14:19 2018	Craftygarrett (STEAM_0:1:184775407): @can i get help to use the computer
+Tue Oct  9 21:14:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT GUY LIE TO ME
+Tue Oct  9 21:14:28 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS MAC
+Tue Oct  9 21:14:50 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I WILL NOT REST UNTIL MAC IS AT SOMALIA
+Tue Oct  9 21:15:07 2018	Craftygarrett (STEAM_0:1:184775407): /advert hes in space
+Tue Oct  9 21:15:13 2018	Enviro (STEAM_0:0:80115103): good
+Tue Oct  9 21:15:13 2018	John Schaefer (STEAM_0:0:115652713): /advert BULLSHIT
+Tue Oct  9 21:15:19 2018	Enviro (STEAM_0:0:80115103): // oh no
+Tue Oct  9 21:15:22 2018	Enviro was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:15:23 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 21:15:34 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WE HAVE VERY SCARY MONSTER MAN WITH US
+Tue Oct  9 21:15:40 2018	Enviro (STEAM_0:0:80115103): /advert not anymore
+Tue Oct  9 21:15:44 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT DAMN
+Tue Oct  9 21:15:47 2018	Enviro (STEAM_0:0:80115103): // i died
+Tue Oct  9 21:15:50 2018	John Schaefer (STEAM_0:0:115652713): /advert Just give us Mac
+Tue Oct  9 21:16:00 2018	Nagegg (STEAM_0:0:98220726): .amount 5000
+Tue Oct  9 21:16:15 2018	John Schaefer was killed by Himself with a suicide trick
+Tue Oct  9 21:16:17 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 21:16:19 2018	Nagegg (STEAM_0:0:98220726): .amount 5000
+Tue Oct  9 21:16:25 2018	Dave Letcher was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:16:26 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Tue Oct  9 21:16:29 2018	John Schaefer (STEAM_0:0:115652713): /advert Shit the SCP's I let loose are now killing us
+Tue Oct  9 21:16:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gorm
+Tue Oct  9 21:16:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gree
+Tue Oct  9 21:16:52 2018	Bulldog (STEAM_0:0:180224455): /ooc how do i get more amow
+Tue Oct  9 21:16:53 2018	Manager Barn was killed by Mohammed Al Alweed Sahmared with a cw_shorty
+Tue Oct  9 21:17:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Tue Oct  9 21:17:04 2018	Nagegg (STEAM_0:0:98220726): .amount 32874598237569823
+Tue Oct  9 21:17:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): :gnet j gorman
+Tue Oct  9 21:17:40 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:17:46 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /PM MANAGER sorry i didnt know it was you
+Tue Oct  9 21:17:48 2018	Enviro (STEAM_0:0:80115103): ;)
+Tue Oct  9 21:17:50 2018	Sinbad was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:17:51 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:17:52 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:17:52 2018	Pootis Bird (STEAM_0:0:22086175): ;3
+Tue Oct  9 21:17:53 2018	Nagegg (STEAM_0:0:98220726): .amount 42386904
+Tue Oct  9 21:18:05 2018	Nagegg (STEAM_0:0:98220726): .amount 28349023
+Tue Oct  9 21:18:06 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:18:06 2018	Enviro (STEAM_0:0:80115103): I have big plan
+Tue Oct  9 21:18:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:18:11 2018	Enviro (STEAM_0:0:80115103): brOther
+Tue Oct  9 21:18:12 2018	Pootis Bird (STEAM_0:0:22086175): Ye?
+Tue Oct  9 21:18:15 2018	greeman forgen (STEAM_0:1:104618787): Yeah
+Tue Oct  9 21:18:20 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert WHERE IS MAC
+Tue Oct  9 21:18:31 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHY YOU MAKE LIES TO US
+Tue Oct  9 21:18:34 2018	Craftygarrett (STEAM_0:1:184775407): /advert did you check your ass
+Tue Oct  9 21:18:52 2018	Nagegg (STEAM_0:0:98220726): .amount 9832423
+Tue Oct  9 21:18:55 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:19:00 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I CHECK 100 TIMES
+Tue Oct  9 21:19:11 2018	Craftygarrett (STEAM_0:1:184775407): /advert ok i see sexy
+Tue Oct  9 21:19:18 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT THANK YOU BUT WHERE IS MAC
+Tue Oct  9 21:19:25 2018	greeman forgen (STEAM_0:1:104618787): /it Warning Access alert
+Tue Oct  9 21:19:27 2018	Manager Barn (STEAM_0:1:444450075): /pm mo meet me in loby
+Tue Oct  9 21:19:41 2018	Manager Barn (STEAM_0:1:444450075): come
+Tue Oct  9 21:19:43 2018	Craftygarrett (STEAM_0:1:184775407): /advert ask fat gay he knows where he is at he tol me
+Tue Oct  9 21:19:56 2018	Bulldog (STEAM_0:0:180224455): @ how do i get amow
+Tue Oct  9 21:19:57 2018	Nagegg (STEAM_0:0:98220726): .amount 432950
+Tue Oct  9 21:19:57 2018	Manager Barn (STEAM_0:1:444450075): fat is in there to
+Tue Oct  9 21:19:58 2018	Pootis Bird (STEAM_0:0:22086175): No-Ones in there
+Tue Oct  9 21:20:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ofc i know im an admin
+Tue Oct  9 21:20:03 2018	Pootis Bird (STEAM_0:0:22086175): no
+Tue Oct  9 21:20:14 2018	John Schaefer (STEAM_0:0:115652713): /advert Tell us please
+Tue Oct  9 21:20:16 2018	Mohammed Al Alweed Sahmared was killed by greeman forgen with a weapon_hlof_pipewrench
+Tue Oct  9 21:20:17 2018	Manager Barn (STEAM_0:1:444450075): he is max
+Tue Oct  9 21:20:22 2018	John Schaefer (STEAM_0:0:115652713): /advert I ask nicely
+Tue Oct  9 21:20:26 2018	Manager Barn (STEAM_0:1:444450075): im sorry but
+Tue Oct  9 21:20:31 2018	Craftygarrett (STEAM_0:1:184775407): // no you said it in character
+Tue Oct  9 21:20:31 2018	Manager Barn (STEAM_0:1:444450075): they need you
+Tue Oct  9 21:20:32 2018	greeman forgen (STEAM_0:1:104618787): /advert they know where mac
+Tue Oct  9 21:20:34 2018	Manager Barn was killed by greeman forgen with a weapon_hlof_pipewrench
+Tue Oct  9 21:20:45 2018	greeman forgen (STEAM_0:1:104618787): /advert They Know where I am
+Tue Oct  9 21:20:45 2018	Manager Barn (STEAM_0:1:444450075): /y my kidney
+Tue Oct  9 21:20:52 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:20:54 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:21:00 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:21:10 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /PM JOHN GET MAC HE IS AT TRAM STATION
+Tue Oct  9 21:21:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:21:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gree
+Tue Oct  9 21:21:21 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I WILL NUKE CORE MEANWHILE
+Tue Oct  9 21:21:24 2018	John Schaefer (STEAM_0:0:115652713): /advert SOMEONE HELP US ON THE TRAM THEY HAVE SCARY MONSTERS
+Tue Oct  9 21:21:28 2018	greeman forgen (STEAM_0:1:104618787): He Knows where the base is
+Tue Oct  9 21:21:39 2018	greeman forgen (STEAM_0:1:104618787): He told us where i was
+Tue Oct  9 21:21:43 2018	greeman forgen (STEAM_0:1:104618787): them
+Tue Oct  9 21:21:50 2018	greeman forgen (STEAM_0:1:104618787): A few minutes ago
+Tue Oct  9 21:21:53 2018	Manager Barn (STEAM_0:1:444450075): lies
+Tue Oct  9 21:21:55 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT IF MAC DOESN'T SPEAK TO US IN 5 MINUTES THERE WILL BE DIRE CONSEQUENCES FOR ALL OF US
+Tue Oct  9 21:21:56 2018	greeman forgen (STEAM_0:1:104618787): He lead him here
+Tue Oct  9 21:22:03 2018	Nagegg (STEAM_0:0:98220726): .amount 43869903
+Tue Oct  9 21:22:05 2018	Manager Barn (STEAM_0:1:444450075): he focred me
+Tue Oct  9 21:22:07 2018	greeman forgen (STEAM_0:1:104618787): He attempted to cuff me with a traitor
+Tue Oct  9 21:22:42 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I AM TELLING YOU
+Tue Oct  9 21:22:45 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:22:47 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT FAIR WARNING
+Tue Oct  9 21:22:55 2018	Manager Barn was killed by John Schaefer with a cw_mr96
+Tue Oct  9 21:22:57 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:23:04 2018	[Opi] Fat Gay was killed by Sinbad with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:23:06 2018	Sinbad was killed by greeman forgen with a weapon_hlof_pipewrench
+Tue Oct  9 21:23:09 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 21:23:14 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:23:20 2018	John Schaefer (STEAM_0:0:115652713): /advert NOO
+Tue Oct  9 21:23:26 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT I AM NOW ZOMBIE TERRORIST
+Tue Oct  9 21:23:34 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:23:39 2018	greeman forgen (STEAM_0:1:104618787): /y NAH I DONT HAVE LIGMA
+Tue Oct  9 21:23:46 2018	John Schaefer was killed by Nazeem with a cw_l85a2
+Tue Oct  9 21:23:48 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Tue Oct  9 21:24:00 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT MONSTERS HAVE TAKEN OVER AND MAC IS BEING A BITCH
+Tue Oct  9 21:24:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:24:15 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT DONT WORRY BROTHER I WILL FIND MAC
+Tue Oct  9 21:24:16 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:24:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT BRING HIM TO SOMALIA
+Tue Oct  9 21:24:27 2018	Nagegg (STEAM_0:0:98220726): .amount 3824903284
+Tue Oct  9 21:24:28 2018	Manager Barn (STEAM_0:1:444450075): /pm mo same spot
+Tue Oct  9 21:24:28 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT WE MUST BLOW UP CORE TO RID PLACE OF MONSTERS
+Tue Oct  9 21:24:30 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:24:32 2018	greeman forgen (STEAM_0:1:104618787): We have a bit of time
+Tue Oct  9 21:24:36 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NO WE NEED FIND MAC
+Tue Oct  9 21:24:43 2018	Nagegg (STEAM_0:0:98220726): .amount 3289423
+Tue Oct  9 21:24:44 2018	John Schaefer (STEAM_0:0:115652713): W
+Tue Oct  9 21:24:48 2018	Pootis Bird (STEAM_0:0:22086175): Uhh
+Tue Oct  9 21:24:52 2018	Nazeem was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 21:24:56 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:24:57 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT MAC LOCKED HIMSELF IN A CELL
+Tue Oct  9 21:25:01 2018	Nagegg (STEAM_0:0:98220726): .amount 1000
+Tue Oct  9 21:25:06 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:25:08 2018	John Schaefer (STEAM_0:0:115652713): /ADVERT AND IS SURROUNDED BY SCARY MONSTERS
+Tue Oct  9 21:25:10 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT HE IS CRAZY ITALIAN MAN NOW
+Tue Oct  9 21:25:28 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:25:46 2018	Nagegg (STEAM_0:0:98220726): .amount 21321
+Tue Oct  9 21:25:51 2018	Nagegg (STEAM_0:0:98220726): .amount 500
+Tue Oct  9 21:26:32 2018	Nagegg (STEAM_0:0:98220726): /a who ever setup the printers you dont make any profit lol
+Tue Oct  9 21:26:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert SWITCH TO RADIO CHANNEL "Facility-all" FOR COMMS
+Tue Oct  9 21:26:57 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:27:05 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:27:06 2018	John Schaefer (STEAM_0:0:115652713) disconnected
+Tue Oct  9 21:27:38 2018	Sinbad was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:27:40 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:27:50 2018	Nagegg was killed by Bulldog with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:27:51 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:27:51 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:27:54 2018	Manager Barn (STEAM_0:1:444450075): /radio director radio check
+Tue Oct  9 21:27:58 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT IF MAC DOESN'T COME TO US NOW THERE WILL BE DIRE CONSEQUENCES FOR EVERYONE INVOLVED
+Tue Oct  9 21:28:07 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:28:10 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE MAKE TELEPORTER AND GO TO NIGERIA
+Tue Oct  9 21:28:16 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:28:21 2018	Enviro was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:28:23 2018	Enviro (STEAM_0:0:80115103): @my own zombie killed me
+Tue Oct  9 21:28:23 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 21:28:30 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:28:40 2018	Enviro (STEAM_0:0:80115103): yeah
+Tue Oct  9 21:28:44 2018	Craftygarrett was killed by Nagegg with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:28:48 2018	Enviro (STEAM_0:0:80115103): I turned a guy and he killed me after I turned him
+Tue Oct  9 21:28:49 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:28:49 2018	Manager Barn was killed by Pootis Bird with a eoti_raven_swep
+Tue Oct  9 21:28:53 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:29:02 2018	Enviro (STEAM_0:0:80115103): Nagegg
+Tue Oct  9 21:29:04 2018	Manager Barn (STEAM_0:1:444450075): // iu JUST GOT THE DAM JOB I HATE THE SCPS
+Tue Oct  9 21:29:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring nag
+Tue Oct  9 21:29:07 2018	greeman forgen (STEAM_0:1:104618787): Dont attract its attention.......
+Tue Oct  9 21:29:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:29:32 2018	Mohammed Al Alweed Sahmared was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:29:32 2018	Sinbad was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:29:33 2018	Enviro (STEAM_0:0:80115103): Nah its good
+Tue Oct  9 21:29:33 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:29:34 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:29:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:29:46 2018	Enviro (STEAM_0:0:80115103): yeah sure thx
+Tue Oct  9 21:29:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto nagegg
+Tue Oct  9 21:29:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring envir
+Tue Oct  9 21:29:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring enviro
+Tue Oct  9 21:30:09 2018	Sinbad was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:30:10 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:30:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALL OF YOU WILL PAY ON BEHALF OF MAC
+Tue Oct  9 21:30:23 2018	Sinbad was killed by Nagegg with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:30:24 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:30:26 2018	greeman forgen (STEAM_0:1:104618787): /advert Safehouse down.
+Tue Oct  9 21:30:33 2018	greeman forgen (STEAM_0:1:104618787): /advert we need to move
+Tue Oct  9 21:30:45 2018	greeman forgen (STEAM_0:1:104618787): /y we need to move
+Tue Oct  9 21:31:20 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:31:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:31:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring bull
+Tue Oct  9 21:32:01 2018	Mohammed Al Alweed Sahmared was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:32:02 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:32:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp ^ 200
+Tue Oct  9 21:32:25 2018	greeman forgen (STEAM_0:1:104618787): Come on
+Tue Oct  9 21:32:27 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT EVERYONE WILL DIE ON BEHALF OF MAC
+Tue Oct  9 21:32:35 2018	Sinbad was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:32:35 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT MONSTERS INCLUDED
+Tue Oct  9 21:32:36 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:32:37 2018	greeman forgen (STEAM_0:1:104618787): oof
+Tue Oct  9 21:32:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring naze
+Tue Oct  9 21:33:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring bull
+Tue Oct  9 21:33:36 2018	Mohammed Al Alweed Sahmared was killed by greeman forgen with a weapon_hlof_pipewrench
+Tue Oct  9 21:33:40 2018	Nazeem (STEAM_0:0:69668875): // brb
+Tue Oct  9 21:33:46 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:33:51 2018	Nagegg (STEAM_0:0:98220726): 
+Tue Oct  9 21:34:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:34:30 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:34:49 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT MAC
+Tue Oct  9 21:34:52 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE ARE YOU FRIEND
+Tue Oct  9 21:34:57 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I TAKE YOU TO SOMALIA
+Tue Oct  9 21:35:02 2018	Manager Barn was killed by [Opi] Fat Gay with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:35:06 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:35:13 2018	Manager Barn (STEAM_0:1:444450075): // 
+Tue Oct  9 21:35:19 2018	Manager Barn (STEAM_0:1:444450075): // mmmmmmmmmmmmmmmmmmmmmm
+Tue Oct  9 21:35:20 2018	greeman forgen was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:35:21 2018	greeman forgen (STEAM_0:1:104618787) spawned
+Tue Oct  9 21:35:31 2018	greeman forgen (STEAM_0:1:104618787) spawned
+Tue Oct  9 21:35:39 2018	Nazeem was killed by Mohammed Al Alweed Sahmared with a cw_m1911
+Tue Oct  9 21:35:45 2018	Manager Barn was killed by Entity [5081][point_hurt] with a point_hurt
+Tue Oct  9 21:35:58 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:36:02 2018	Pootis Bird (STEAM_0:0:22086175): /advert Oh yessssss.
+Tue Oct  9 21:36:26 2018	Craftygarrett (STEAM_0:1:184775407): @we have a problem
+Tue Oct  9 21:36:27 2018	Sinbad was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:36:29 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:36:33 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:36:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mog
+Tue Oct  9 21:36:43 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT MAC
+Tue Oct  9 21:36:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring moh
+Tue Oct  9 21:36:44 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE
+Tue Oct  9 21:37:00 2018	Nagegg (STEAM_0:0:98220726): 
+Tue Oct  9 21:37:02 2018	Manager Barn (STEAM_0:1:444450075): leave with out me
+Tue Oct  9 21:37:15 2018	Manager Barn (STEAM_0:1:444450075): i said leave
+Tue Oct  9 21:37:25 2018	Manager Barn (STEAM_0:1:444450075): LEAVE
+Tue Oct  9 21:37:28 2018	Sinbad was killed by Manager Barn with a cw_deagle
+Tue Oct  9 21:37:31 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:37:32 2018	Manager Barn (STEAM_0:1:444450075): LEAVE
+Tue Oct  9 21:37:59 2018	Manager Barn (STEAM_0:1:444450075): Press that
+Tue Oct  9 21:38:10 2018	greeman forgen (STEAM_0:1:104618787) spawned
+Tue Oct  9 21:38:21 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:38:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:38:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gar
+Tue Oct  9 21:38:40 2018	Nagegg (STEAM_0:0:98220726): 
+Tue Oct  9 21:38:40 2018	Manager Barn was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:38:41 2018	Sinbad was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:38:42 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:38:42 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:38:52 2018	greeman forgen (STEAM_0:1:104618787) spawned
+Tue Oct  9 21:39:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:39:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto env
+Tue Oct  9 21:39:13 2018	Manager Barn (STEAM_0:1:444450075): i have to fix this
+Tue Oct  9 21:39:25 2018	Manager Barn (STEAM_0:1:444450075): that be faster
+Tue Oct  9 21:39:27 2018	Craftygarrett was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:39:29 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:39:33 2018	Mohammed Al Alweed Sahmared was killed by Himself with a suicide trick
+Tue Oct  9 21:39:34 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:39:35 2018	Bulldog was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:39:36 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:39:41 2018	Pootis Bird (STEAM_0:0:22086175): Ye I know
+Tue Oct  9 21:39:44 2018	Manager Barn (STEAM_0:1:444450075) spawned
+Tue Oct  9 21:39:44 2018	greeman forgen was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:39:47 2018	greeman forgen (STEAM_0:1:104618787) spawned
+Tue Oct  9 21:39:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): spectate gr
+Tue Oct  9 21:39:55 2018	Sinbad was killed by Nagegg with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:39:56 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:39:59 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:40:01 2018	greeman forgen (STEAM_0:1:104618787) disconnected
+Tue Oct  9 21:40:06 2018	Nazeem (STEAM_0:0:69668875): // Back
+Tue Oct  9 21:40:08 2018	Sinbad was killed by Nagegg with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:40:10 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:40:12 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:40:15 2018	[Opi] Fat Gay was killed by Nazeem with a cw_g36c
+Tue Oct  9 21:40:23 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:40:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:40:27 2018	Nagegg was killed by Sinbad with a cw_fiveseven
+Tue Oct  9 21:40:28 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:40:31 2018	Manager Barn (STEAM_0:1:444450075): // what the collant code
+Tue Oct  9 21:40:37 2018	Enviro (STEAM_0:0:80115103): // its already used up
+Tue Oct  9 21:40:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 3431 but its used up
+Tue Oct  9 21:40:42 2018	Manager Barn (STEAM_0:1:444450075): // fuck
+Tue Oct  9 21:40:50 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): // what is used
+Tue Oct  9 21:40:51 2018	Enviro (STEAM_0:0:80115103): Stop.
+Tue Oct  9 21:41:04 2018	Bulldog was killed by Nazeem with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:41:04 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ keypad wont work
+Tue Oct  9 21:41:06 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:41:11 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ can you delete this fam
+Tue Oct  9 21:41:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:41:31 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:41:43 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:41:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:41:48 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert MAC
+Tue Oct  9 21:41:56 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I KILL EVERYONE IF YOU DONT COME
+Tue Oct  9 21:42:09 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I WILL INDIVIDUALLY KILL YOU MAC
+Tue Oct  9 21:42:29 2018	Manager Barn (STEAM_0:1:444450075): // if i use the portal whould i live
+Tue Oct  9 21:42:35 2018	[Opi] Fat Gay was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:42:35 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:42:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:42:39 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:42:40 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT CORE GO BOOMY
+Tue Oct  9 21:42:45 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:42:45 2018	Nazeem was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:42:47 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:43:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:43:04 2018	Sinbad was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:43:06 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:43:16 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT MANAGER BARN
+Tue Oct  9 21:43:20 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS MAC
+Tue Oct  9 21:43:20 2018	Nazeem was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:43:22 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:43:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:43:29 2018	Sinbad was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:43:30 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:43:30 2018	Manager Barn (STEAM_0:1:444450075): /advert idk
+Tue Oct  9 21:43:37 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERY YOU TELL ME OR WE BOOM BOOM
+Tue Oct  9 21:43:40 2018	[Opi] Fat Gay was killed by Nazeem with a cw_g36c
+Tue Oct  9 21:43:42 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:43:42 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NO IDK
+Tue Oct  9 21:43:45 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT TELL ME OR BOOM
+Tue Oct  9 21:43:50 2018	Sinbad was killed by Craftygarrett with a weapon_sillyzombieclaw_v2
+Tue Oct  9 21:43:51 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:43:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:43:56 2018	Nazeem was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:43:58 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:43:58 2018	Manager Barn (STEAM_0:1:444450075): /advert i dont think he still in the server
+Tue Oct  9 21:44:04 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT YOU LIE 
+Tue Oct  9 21:44:09 2018	Craftygarrett was killed by Nagegg with a cw_deagle
+Tue Oct  9 21:44:10 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHERE IS HE
+Tue Oct  9 21:44:10 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:44:19 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:44:21 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:44:22 2018	Manager Barn (STEAM_0:1:444450075): /advert he not in the sever look
+Tue Oct  9 21:44:28 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT HE IS HERE
+Tue Oct  9 21:44:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:44:38 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:44:38 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE ALL DIE NOW
+Tue Oct  9 21:44:42 2018	Enviro was killed by Sinbad with a cw_fiveseven
+Tue Oct  9 21:44:45 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT YOU REFUSE TO TELL ME WHERE HE IS
+Tue Oct  9 21:44:48 2018	Manager Barn (STEAM_0:1:444450075): /advert i dont bloody know
+Tue Oct  9 21:44:48 2018	Nazeem was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:44:49 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:44:56 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE ALL DIE NOW SEE YOU IN ALLAH
+Tue Oct  9 21:44:58 2018	Enviro (STEAM_0:0:80115103): @When I infect nazeem he just kills himself
+Tue Oct  9 21:44:59 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 21:45:05 2018	[Opi] Fat Gay was killed by Sinbad with a cw_fiveseven
+Tue Oct  9 21:45:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 21:45:15 2018	Manager Barn (STEAM_0:1:444450075): /advert you fucking mad man
+Tue Oct  9 21:45:16 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT LAST CHANCE TO TELL ME WHERE MAC IS
+Tue Oct  9 21:45:27 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT OR WE ALL DIE MAC INCLUDED
+Tue Oct  9 21:45:30 2018	Manager Barn (STEAM_0:1:444450075): /advert in the bunker
+Tue Oct  9 21:45:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert TOO LATE MOHAMID
+Tue Oct  9 21:45:45 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WHO IS MOHAMID
+Tue Oct  9 21:45:46 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT I WANT MAC
+Tue Oct  9 21:45:50 2018	Nagegg (STEAM_0:0:98220726): .amount 5000
+Tue Oct  9 21:45:54 2018	Enviro (STEAM_0:0:80115103): When I infected Nazeem, he would jump off and kill himself when he was a zombie
+Tue Oct  9 21:46:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring naz
+Tue Oct  9 21:46:07 2018	Enviro (STEAM_0:0:80115103): New guy
+Tue Oct  9 21:46:18 2018	Enviro (STEAM_0:0:80115103): yea
+Tue Oct  9 21:46:28 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT WE NEVER HAVE FULL CORE BOOMY
+Tue Oct  9 21:46:30 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT NOW IS TIME
+Tue Oct  9 21:46:36 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALLAH SAYS TIME TO DIE
+Tue Oct  9 21:46:49 2018	Enviro (STEAM_0:0:80115103): It's cool man, just don't do it again.
+Tue Oct  9 21:46:49 2018	Manager Barn (STEAM_0:1:444450075): /advert im some were safe
+Tue Oct  9 21:46:55 2018	Enviro (STEAM_0:0:80115103): yep
+Tue Oct  9 21:46:56 2018	Nagegg was killed by Bulldog with a fas2_thrown_m67
+Tue Oct  9 21:46:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 21:46:57 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:46:58 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT BARN WHERE IS MAC
+Tue Oct  9 21:46:59 2018	Enviro (STEAM_0:0:80115103): we're about to meltdown anyways
+Tue Oct  9 21:47:08 2018	Bulldog was killed by Himself with a suicide trick
+Tue Oct  9 21:47:08 2018	Manager Barn (STEAM_0:1:444450075): /advert I DONT KNOW
+Tue Oct  9 21:47:09 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 21:47:12 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 21:47:13 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT TELL ME AND WE CAN FIX THIS
+Tue Oct  9 21:47:16 2018	Sinbad was killed by Pootis Bird with a eoti_raven_swep
+Tue Oct  9 21:47:17 2018	Nagegg was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 21:47:17 2018	Craftygarrett was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:47:17 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 21:47:18 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:47:20 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:47:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT EVERYONE WHO DIES THANK BARN AND MAC
+Tue Oct  9 21:47:26 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALLAHU AKBAR
+Tue Oct  9 21:47:38 2018	Manager Barn (STEAM_0:1:444450075): // is mac even in the server
+Tue Oct  9 21:47:43 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): // YES
+Tue Oct  9 21:47:46 2018	Nagegg (STEAM_0:0:98220726): .amount 1
+Tue Oct  9 21:47:55 2018	Craftygarrett (STEAM_0:1:184775407): /me drops one dollor
+Tue Oct  9 21:48:02 2018	Manager Barn (STEAM_0:1:444450075): // i was not asking you
+Tue Oct  9 21:48:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): // BARN WHERE IS MAC FAM
+Tue Oct  9 21:48:27 2018	Manager Barn (STEAM_0:1:444450075): // i dont know 
+Tue Oct  9 21:48:38 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /JOB MUSLIM GUY
+Tue Oct  9 21:48:38 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 21:48:54 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /JOB MUSLIM GUY
+Tue Oct  9 21:48:58 2018	Nazeem was killed by Entity [2541][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Tue Oct  9 21:48:59 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:49:01 2018	Pootis Bird was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 21:49:05 2018	Pootis Bird (STEAM_0:0:22086175): NEIN
+Tue Oct  9 21:49:05 2018	Enviro (STEAM_0:0:80115103): WE GOT EM
+Tue Oct  9 21:49:07 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT ALLAHU AKBAR
+Tue Oct  9 21:49:11 2018	Pootis Bird (STEAM_0:0:22086175): /y NEIN MEIN FUHRER
+Tue Oct  9 21:49:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job AFK
+Tue Oct  9 21:49:26 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): MAC IS DEAD
+Tue Oct  9 21:49:28 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): THANK GOD
+Tue Oct  9 21:49:30 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT MAC IS DEAD
+Tue Oct  9 21:49:38 2018	Sinbad was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:38 2018	Nagegg was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:38 2018	Nazeem was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:38 2018	Craftygarrett was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:49:40 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:41 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:49:41 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:49:41 2018	Manager Barn (STEAM_0:1:444450075): // I Went in the portal the the sand men village
+Tue Oct  9 21:49:44 2018	Craftygarrett was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:45 2018	Manager Barn (STEAM_0:1:444450075): /im safe
+Tue Oct  9 21:49:46 2018	Enviro was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:46 2018	Nazeem was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:46 2018	Nagegg was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Tue Oct  9 21:49:48 2018	Manager Barn (STEAM_0:1:444450075): // im safe
+Tue Oct  9 21:49:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 21:49:49 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 21:49:49 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 21:49:49 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /ADVERT MAC IS DEAD ALLAHU AKBAR
+Tue Oct  9 21:49:50 2018	Enviro (STEAM_0:0:80115103) spawned

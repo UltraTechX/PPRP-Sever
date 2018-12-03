@@ -1,0 +1,63 @@
+Wed Sep 19 05:06:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Sep 19 05:06:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 05:39:53 2018	Bot01 (BOT) has joined the game
+Wed Sep 19 05:39:53 2018	Bot01 (BOT) spawned
+Wed Sep 19 05:45:23 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 05:45:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 06:24:47 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 06:25:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 07:03:57 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 07:04:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 07:43:07 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 07:43:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 08:22:17 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 08:22:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 08:57:57 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 08:58:15 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Wed Sep 19 08:58:15 2018	Bot01 (BOT) disconnected
+Wed Sep 19 11:30:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Sep 19 11:30:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 12:03:28 2018	Bot02 (BOT) has joined the game
+Wed Sep 19 12:03:28 2018	Bot02 (BOT) spawned
+Wed Sep 19 12:08:58 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 12:09:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 12:48:08 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 12:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 13:27:18 2018	Fat Gay was killed by Himself with a suicide trick
+Wed Sep 19 13:27:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 13:41:13 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Wed Sep 19 13:41:13 2018	Bot02 (BOT) disconnected
+Wed Sep 19 14:52:45 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed Sep 19 14:52:45 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 14:53:33 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 14:55:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:02:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Sep 19 15:02:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 15:04:57 2018	Emmett was killed by Himself with a suicide trick
+Wed Sep 19 15:04:57 2018	Fat Gay was killed by Emmett with a env_explosion
+Wed Sep 19 15:05:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 15:05:04 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:05:15 2018	Emmett was killed by Himself with a suicide trick
+Wed Sep 19 15:05:17 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:05:28 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:05:57 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:06:52 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:10:08 2018	Bot03 (BOT) has joined the game
+Wed Sep 19 15:10:08 2018	Bot03 (BOT) spawned
+Wed Sep 19 15:10:08 2018	Fat Gay was killed by Emmett with a cw_deagle
+Wed Sep 19 15:10:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 15:10:58 2018	Fat Gay (STEAM_0:1:218173703): /radio shutup faggot
+Wed Sep 19 15:11:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:13:01 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed Sep 19 15:13:05 2018	Emmett (STEAM_0:1:41660292): !goto ultra
+Wed Sep 19 15:13:08 2018	Emmett (STEAM_0:1:41660292): !goto fat
+Wed Sep 19 15:13:33 2018	Fat Gay was killed by Emmett with a cw_shorty
+Wed Sep 19 15:13:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 15:15:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 15:16:43 2018	Fat Gay (STEAM_0:1:218173703): !goto va
+Wed Sep 19 15:16:45 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed Sep 19 15:19:02 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Wed Sep 19 15:19:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed Sep 19 15:20:52 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed Sep 19 15:22:52 2018	Fat Gay was killed by Entity [2072][sent_elegant_printer] with a sent_elegant_printer
+Wed Sep 19 15:22:57 2018	Fat Gay (STEAM_0:1:218173703) spawned

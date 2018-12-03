@@ -1,0 +1,1 @@
+{"Suggestion":{"Title":"Precision Alignment","Text":"Add Precision Alignment for more precise building for advanced builders."},"ID":27.0,"VoteNo":[],"Status":"Voting","Player":{"SteamID":"STEAM_0:0:95660701","Name":"Not GimON"},"Approved":{"Is":false,"SteamID":"","Name":""},"VoteYes":["STEAM_0:0:62970398","STEAM_0:0:50791607","STEAM_0:1:187884151"]}

@@ -1,0 +1,486 @@
+Sun Jul 22 13:18:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul 22 13:18:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 13:19:35 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul 22 13:20:48 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul 22 17:42:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul 22 17:42:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 17:49:48 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul 22 17:50:10 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jul 22 17:51:10 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul 22 18:01:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul 22 18:01:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:04 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:04 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:14 2018	Fat Gay (STEAM_0:1:218173703): !expllode *
+Sun Jul 22 18:25:17 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:17 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:19 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:19 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:21 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:21 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:23 2018	Fat Gay (STEAM_0:1:218173703):  !explode *
+Sun Jul 22 18:25:25 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:25 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:27 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:27 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:29 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:29 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:30 2018	Fat Gay (STEAM_0:1:218173703):   
+Sun Jul 22 18:25:31 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:31 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:33 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:33 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:35 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:35 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:37 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:37 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:39 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 18:25:39 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 18:25:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:25:52 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Jul 22 18:26:02 2018	Fat Gay (STEAM_0:1:218173703): !fmuscle *
+Sun Jul 22 18:26:16 2018	Fat Gay (STEAM_0:1:218173703): !fdisagree *
+Sun Jul 22 18:26:24 2018	Fat Gay (STEAM_0:1:218173703): !fzombie *
+Sun Jul 22 18:26:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT gmt_instrument_piano
+Sun Jul 22 18:38:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_ball
+Sun Jul 22 18:38:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_ball
+Sun Jul 22 18:38:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_ball
+Sun Jul 22 18:38:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_ball
+Sun Jul 22 18:38:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_ball
+Sun Jul 22 18:38:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_ball
+Sun Jul 22 18:40:44 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Jul 22 18:40:44 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:41:34 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:41:38 2018	Bot01 (BOT) has joined the game
+Sun Jul 22 18:41:38 2018	Bot01 (BOT) spawned
+Sun Jul 22 18:41:39 2018	Fat Gay was killed by power guy with a cw_m1911
+Sun Jul 22 18:41:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:42:28 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:42:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:43:29 2018	Fat Gay was killed by power guy with a fas2_dv2
+Sun Jul 22 18:43:31 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:43:48 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:43:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:47:34 2018	power guy was killed by Fat Gay with a csgo_bayonet
+Sun Jul 22 18:47:39 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:48:30 2018	power guy was killed by Entity [2089][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 18:48:33 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:48:56 2018	power guy was killed by Entity [2089][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 18:48:57 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:49:01 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:49:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:49:12 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:49:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:49:16 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 18:49:21 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:49:22 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:49:25 2018	Fat Gay (STEAM_0:1:218173703): !goto po
+Sun Jul 22 18:49:27 2018	power guy was killed by Entity [2061][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 18:49:37 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:50:05 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:50:06 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:50:08 2018	Fat Gay (STEAM_0:1:218173703): !ghoto pow
+Sun Jul 22 18:50:19 2018	power guy was killed by Entity [1566][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 18:50:23 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:50:49 2018	power guy was killed by Entity [1565][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 18:50:51 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:50:57 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:50:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:51:09 2018	Fat Gay was killed by power guy with a cw_g36c
+Sun Jul 22 18:51:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:51:21 2018	power guy was killed by Entity [2069][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 18:51:22 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:51:28 2018	Fat Gay (STEAM_0:1:218173703): !goto guy
+Sun Jul 22 18:51:32 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:51:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:52:48 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:52:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:52:52 2018	Fat Gay (STEAM_0:1:218173703): !goto guy
+Sun Jul 22 18:53:12 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:53:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:53:17 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 18:53:30 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:53:37 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:54:05 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:54:05 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:54:12 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:54:14 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:54:30 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:54:33 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:54:42 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:54:44 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:54:56 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:54:57 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:55:06 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:55:06 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:55:17 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:55:19 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:55:27 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:55:29 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:55:32 2018	Fat Gay was killed by power guy with a cw_g36c
+Sun Jul 22 18:55:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:55:37 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:55:38 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:55:45 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:55:47 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:56:09 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:56:12 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:56:30 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:56:31 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:56:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul 22 18:56:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul 22 18:56:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul 22 18:56:55 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:56:57 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:57:13 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:57:14 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:57:29 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:57:31 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:57:57 2018	Fat Gay was killed by Entity [1566][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 18:57:57 2018	power guy was killed by Entity [1565][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 18:57:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:57:59 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:58:05 2018	power guy was killed by Entity [2063][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 18:58:06 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:58:17 2018	Fat Gay was killed by power guy with a cw_g36c
+Sun Jul 22 18:58:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:58:21 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:58:21 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:58:33 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:58:33 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:58:44 2018	power guy was killed by Fat Gay with a weapon_l4d2_pumpshotgun
+Sun Jul 22 18:58:46 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:58:51 2018	Fat Gay was killed by power guy with a cw_m3super90
+Sun Jul 22 18:58:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 18:59:06 2018	power guy was killed by Fat Gay with a weapon_l4d2_sniper_military
+Sun Jul 22 18:59:07 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:59:24 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:59:26 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 18:59:49 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 18:59:51 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:00:04 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 19:00:05 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:00:09 2018	Fat Gay was killed by power guy with a cw_g36c
+Sun Jul 22 19:00:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:00:17 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 19:00:22 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:00:32 2018	Fat Gay (STEAM_0:1:218173703): !GOTO POEW
+Sun Jul 22 19:00:36 2018	Fat Gay (STEAM_0:1:218173703): !GOTO POW
+Sun Jul 22 19:00:46 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 19:00:47 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:00:53 2018	Fat Gay (STEAM_0:1:218173703): !GOTO POWE
+Sun Jul 22 19:00:58 2018	power guy was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 22 19:01:07 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:01:25 2018	Fat Gay (STEAM_0:1:218173703): !GOTO POW
+Sun Jul 22 19:01:31 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:01:44 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:01:44 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:01:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:01:46 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:01:52 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:01:56 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:02:00 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul 22 19:02:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:02:05 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:02:12 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 19:02:14 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:02:30 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:02:32 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:02:52 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:02:53 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:02:57 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:02:57 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:03:33 2018	power guy was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jul 22 19:03:34 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:03:52 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:03:53 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:04:15 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:04:15 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:04:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:04:17 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:04:26 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:04:29 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:05:12 2018	Fat Gay was killed by power guy with a fas2_machete
+Sun Jul 22 19:05:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:05:20 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:05:21 2018	Fat Gay was killed by power guy with a fas2_machete
+Sun Jul 22 19:05:22 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:05:24 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:05:33 2018	Fat Gay was killed by power guy with a fas2_machete
+Sun Jul 22 19:05:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:05:36 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:05:43 2018	Fat Gay was killed by power guy with a fas2_machete
+Sun Jul 22 19:05:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:05:46 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:06:02 2018	power guy was killed by Fat Gay with a csgo_m9_fade
+Sun Jul 22 19:06:03 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:07:05 2018	Fat Gay was killed by power guy with a cw_mr96
+Sun Jul 22 19:07:06 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:07:09 2018	Fat Gay (STEAM_0:1:218173703): !goto pow\
+Sun Jul 22 19:07:12 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:07:12 2018	Fat Gay (STEAM_0:1:218173703): !explode pow
+Sun Jul 22 19:07:13 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:07:18 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:07:22 2018	Fat Gay was killed by power guy with a cw_scarh
+Sun Jul 22 19:07:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:07:28 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:07:31 2018	power guy was killed by Fat Gay with a csgo_m9_fade
+Sun Jul 22 19:07:31 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:08:34 2018	Fat Gay was killed by Entity [1467][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 19:08:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:08:42 2018	Fat Gay (STEAM_0:1:218173703): !goto powe
+Sun Jul 22 19:08:45 2018	power guy was killed by Fat Gay with a csgo_karambit_ultraviolet
+Sun Jul 22 19:08:46 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:09:10 2018	Fat Gay was killed by power guy with a cw_mr96
+Sun Jul 22 19:09:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:09:13 2018	power guy was killed by Entity [2076][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 19:09:13 2018	Fat Gay (STEAM_0:1:218173703): !goto pow\
+Sun Jul 22 19:09:15 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:09:17 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:09:18 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:09:22 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:09:22 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:09:23 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:09:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:09:27 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:09:40 2018	Fat Gay was killed by power guy with a fas2_machete
+Sun Jul 22 19:09:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:09:46 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:09:50 2018	Fat Gay was killed by Entity [2063][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 19:09:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:09:56 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:10:04 2018	power guy was killed by Fat Gay with a fas2_m4a1
+Sun Jul 22 19:10:05 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:10:29 2018	Fat Gay was killed by Entity [2089][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Jul 22 19:10:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:10:34 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:10:43 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:10:43 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:10:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:10:45 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:10:47 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:10:53 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:10:53 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:10:54 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:10:54 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:10:56 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:11:15 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:11:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:11:20 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:11:39 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:11:40 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:11:43 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:11:45 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:11:46 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:11:52 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:11:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:11:57 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:11:59 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:12:03 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:12:04 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:12:19 2018	power guy was killed by Fat Gay with a fas2_thrown_m67
+Sun Jul 22 19:12:21 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:12:21 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:12:22 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:12:26 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:12:26 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:12:26 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:12:29 2018	Fat Gay (STEAM_0:1:218173703): !goto poe
+Sun Jul 22 19:12:30 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:12:30 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:12:31 2018	Fat Gay (STEAM_0:1:218173703): !goto pw
+Sun Jul 22 19:12:33 2018	Fat Gay (STEAM_0:1:218173703): !goto po
+Sun Jul 22 19:12:33 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:12:33 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:12:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:12:35 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:12:38 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:12:44 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:12:44 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:12:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:12:45 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:12:48 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:12:57 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:12:57 2018	Fat Gay was killed by power guy with a env_explosion
+Sun Jul 22 19:12:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:12:58 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:13:02 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:13:04 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:13:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:13:09 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:13:13 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:13:14 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul 22 19:13:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:13:22 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:13:23 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:13:27 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:13:28 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul 22 19:13:29 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:13:32 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:13:35 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:13:36 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:14:10 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:14:32 2018	Fat Gay was killed by power guy with a cw_mr96
+Sun Jul 22 19:14:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:14:35 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:14:45 2018	power guy was killed by Entity [1467][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 19:14:45 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:15:09 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:15:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:15:14 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:15:32 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:15:32 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:15:33 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:15:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:15:41 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:15:44 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:15:53 2018	power guy was killed by Fat Gay with a fas2_40mm_frag
+Sun Jul 22 19:15:58 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:16:33 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:16:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:16:37 2018	Fat Gay (STEAM_0:1:218173703): !goto poe
+Sun Jul 22 19:16:38 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:16:48 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:16:48 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:16:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:16:49 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:16:51 2018	Fat Gay (STEAM_0:1:218173703): !goto p
+Sun Jul 22 19:16:54 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:16:55 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:17:02 2018	power guy was killed by Entity [2028][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 19:17:03 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:17:32 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:17:33 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:17:41 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:17:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:17:45 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:17:47 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:17:53 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:18:01 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:18:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:18:05 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:18:06 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:18:07 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:18:13 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:18:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:18:15 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:18:16 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:18:18 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:18:21 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:18:21 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:18:29 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:18:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:18:32 2018	Fat Gay (STEAM_0:1:218173703): !goot pow
+Sun Jul 22 19:18:34 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:18:38 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:18:38 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:18:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:18:39 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:18:41 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:18:54 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:18:56 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:19:08 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:19:08 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:19:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:19:09 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:19:12 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:19:17 2018	power guy was killed by Entity [2028][fas2_40mm_frag] with a fas2_40mm_frag
+Sun Jul 22 19:19:18 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:19:35 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:19:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:19:40 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:19:44 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:19:46 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:20:02 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:20:03 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:20:06 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:20:07 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:20:07 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:20:10 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:20:20 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:20:21 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:20:36 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:20:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:20:37 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:20:39 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:20:40 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:20:45 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:20:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:20:48 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:20:50 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:20:51 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:21:00 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:21:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:21:03 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:21:07 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:21:08 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:21:09 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:21:11 2018	Fat Gay (STEAM_0:1:218173703): !goto pow
+Sun Jul 22 19:21:19 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:21:21 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:21:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul 22 19:21:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul 22 19:21:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul 22 19:21:40 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:21:41 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:21:56 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:21:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:21:59 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:22:00 2018	Fat Gay (STEAM_0:1:218173703): !goto po
+Sun Jul 22 19:22:00 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:22:04 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:22:04 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:22:04 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul 22 19:22:04 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 19:22:09 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:22:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:22:13 2018	Fat Gay (STEAM_0:1:218173703): !bring *\
+Sun Jul 22 19:22:15 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Jul 22 19:22:18 2018	Bot01 (BOT) spawned
+Sun Jul 22 19:22:22 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Jul 22 19:22:27 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:22:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:22:29 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:22:30 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:22:37 2018	Fat Gay (STEAM_0:1:218173703): !bring pow
+Sun Jul 22 19:22:42 2018	Fat Gay was killed by power guy with a fas2_thrown_m67
+Sun Jul 22 19:22:44 2018	Fat Gay (STEAM_0:1:218173703): !God
+Sun Jul 22 19:22:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:22:48 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:22:50 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:22:55 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:22:55 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:23:00 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:23:00 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:24:02 2018	power guy was killed by Himself with a suicide trick
+Sun Jul 22 19:24:32 2018	power guy (STEAM_0:1:100921529) spawned
+Sun Jul 22 19:25:12 2018	Fat Gay was killed by power guy with a cw_m1911
+Sun Jul 22 19:25:15 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:25:57 2018	Fat Gay (STEAM_0:1:218173703): !go
+Sun Jul 22 19:25:58 2018	Fat Gay (STEAM_0:1:218173703): !god
+Sun Jul 22 19:26:09 2018	power guy (STEAM_0:1:100921529) disconnected
+Sun Jul 22 19:30:13 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:30:13 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul 22 19:30:13 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul 22 19:30:14 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:30:19 2018	Fat Gay (STEAM_0:1:218173703): !hp * 1
+Sun Jul 22 19:30:26 2018	Bot01 (BOT) spawned
+Sun Jul 22 19:30:26 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul 22 19:30:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:30:35 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 22 19:30:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:31:07 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 22 19:31:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul 22 19:50:14 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul 22 19:50:14 2018	Bot01 (BOT) disconnected

@@ -1,0 +1,67 @@
+Sun Oct  7 11:29:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 11:30:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 11:30:38 2018	[G.E.W.P] turkeyman (STEAM_0:0:65254791) has joined the game
+Sun Oct  7 11:30:38 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 11:30:46 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 11:30:46 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 11:31:04 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sun Oct  7 11:31:04 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 11:33:40 2018	John Johnson (STEAM_0:0:65254791): /annnounce test
+Sun Oct  7 11:33:55 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 11:34:11 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 11:38:50 2018	John Johnson (STEAM_0:0:65254791): Can someone check on the coolant?
+Sun Oct  7 11:38:56 2018	John Johnson (STEAM_0:0:65254791): Thank you.
+Sun Oct  7 11:42:45 2018	John Johnson (STEAM_0:0:65254791): // bacon
+Sun Oct  7 11:46:16 2018	John Johnson (STEAM_0:0:65254791): You coming up?
+Sun Oct  7 11:46:21 2018	Pootis Bird (STEAM_0:0:22086175): Might aswell
+Sun Oct  7 11:46:38 2018	John Johnson (STEAM_0:0:65254791): Uh oh.
+Sun Oct  7 11:46:40 2018	Pootis Bird (STEAM_0:0:22086175): Uhh
+Sun Oct  7 11:46:45 2018	John Johnson (STEAM_0:0:65254791): Follow me.
+Sun Oct  7 11:47:20 2018	John Johnson (STEAM_0:0:65254791): I think we might have a meltdown
+Sun Oct  7 11:47:22 2018	Pootis Bird (STEAM_0:0:22086175): Is there actually a way to cool down the core?
+Sun Oct  7 11:47:32 2018	John Johnson (STEAM_0:0:65254791): I don't think so.
+Sun Oct  7 11:47:43 2018	John Johnson (STEAM_0:0:65254791): When I checked it last someone turned all the lasers on.
+Sun Oct  7 11:47:48 2018	John Johnson (STEAM_0:0:65254791): And made it large.
+Sun Oct  7 11:47:49 2018	John Johnson (STEAM_0:0:65254791): So.
+Sun Oct  7 11:47:54 2018	John Johnson (STEAM_0:0:65254791): Oh, wait.
+Sun Oct  7 11:47:57 2018	John Johnson (STEAM_0:0:65254791): With me.
+Sun Oct  7 11:48:23 2018	John Johnson (STEAM_0:0:65254791): Lets uh.
+Sun Oct  7 11:48:28 2018	John Johnson (STEAM_0:0:65254791): Hope this works.
+Sun Oct  7 11:48:44 2018	John Johnson (STEAM_0:0:65254791): Crap.
+Sun Oct  7 11:48:53 2018	John Johnson (STEAM_0:0:65254791): Well, we're doomed.
+Sun Oct  7 11:49:17 2018	Pootis Bird (STEAM_0:0:22086175): So confusing this is
+Sun Oct  7 11:49:23 2018	John Johnson (STEAM_0:0:65254791): Yeahe
+Sun Oct  7 11:49:52 2018	John Johnson (STEAM_0:0:65254791): Well.
+Sun Oct  7 11:49:58 2018	John Johnson (STEAM_0:0:65254791): Now we wait I do suppose.
+Sun Oct  7 11:50:07 2018	John Johnson (STEAM_0:0:65254791): Uh.
+Sun Oct  7 11:50:13 2018	John Johnson (STEAM_0:0:65254791): Are there any terrorists online?
+Sun Oct  7 11:50:18 2018	John Johnson (STEAM_0:0:65254791): No.
+Sun Oct  7 11:50:23 2018	Pootis Bird (STEAM_0:0:22086175): Iv'e got no clue
+Sun Oct  7 11:50:45 2018	John Johnson (STEAM_0:0:65254791): Well.
+Sun Oct  7 11:50:51 2018	John Johnson (STEAM_0:0:65254791): Lets go pal.
+Sun Oct  7 11:50:51 2018	Pootis Bird (STEAM_0:0:22086175): Perhaps next time I should look around and familiarze myself with the stuff.
+Sun Oct  7 11:51:16 2018	John Johnson (STEAM_0:0:65254791): In two minutes we should be safe enough.
+Sun Oct  7 11:51:32 2018	John Johnson (STEAM_0:0:65254791): God let hope it launches before the meltdown.
+Sun Oct  7 11:51:55 2018	Pootis Bird (STEAM_0:0:22086175): Last time it left me and I couldn't make it to the blast shelter
+Sun Oct  7 11:52:02 2018	John Johnson (STEAM_0:0:65254791): Oh dear.
+Sun Oct  7 11:52:08 2018	John Johnson (STEAM_0:0:65254791): Well.
+Sun Oct  7 11:52:26 2018	John Johnson (STEAM_0:0:65254791): We probably should've prepped the rocket sooner.
+Sun Oct  7 11:52:32 2018	John Johnson (STEAM_0:0:65254791): But we might make it.
+Sun Oct  7 11:52:38 2018	Pootis Bird (STEAM_0:0:22086175): Uh okay.
+Sun Oct  7 11:52:50 2018	John Johnson (STEAM_0:0:65254791): Good god.
+Sun Oct  7 11:52:55 2018	John Johnson (STEAM_0:0:65254791): That was a close one
+Sun Oct  7 11:53:00 2018	Pootis Bird (STEAM_0:0:22086175): Oh my.
+Sun Oct  7 11:53:15 2018	Pootis Bird (STEAM_0:0:22086175): This is actually pretty cool
+Sun Oct  7 11:53:19 2018	John Johnson (STEAM_0:0:65254791): Yeah.
+Sun Oct  7 11:53:36 2018	John Johnson (STEAM_0:0:65254791): And now we hope that we don't explode, yes?
+Sun Oct  7 11:53:43 2018	John Johnson (STEAM_0:0:65254791): Welcome to the space station.
+Sun Oct  7 11:53:51 2018	John Johnson (STEAM_0:0:65254791): We're good here.
+Sun Oct  7 11:53:56 2018	Pootis Bird (STEAM_0:0:22086175): wow
+Sun Oct  7 11:54:08 2018	Pootis Bird (STEAM_0:0:22086175): Oh wow
+Sun Oct  7 11:54:26 2018	John Johnson (STEAM_0:0:65254791): And we're safe.
+Sun Oct  7 11:54:31 2018	John Johnson (STEAM_0:0:65254791): Woot.
+Sun Oct  7 11:54:56 2018	Pootis Bird (STEAM_0:0:22086175): Yeah when this thing resets I should figure out how to cool down the core.
+Sun Oct  7 11:55:00 2018	Sammy Boom was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 11:55:00 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 11:55:06 2018	John Johnson (STEAM_0:0:65254791): The coolant was off.
+Sun Oct  7 11:55:10 2018	John Johnson (STEAM_0:0:65254791): And the core was large.

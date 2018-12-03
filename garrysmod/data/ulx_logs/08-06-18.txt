@@ -1,0 +1,283 @@
+[05:06:07] New map: rp_powerplant_v2b2
+
+
+
+[20:59:05] New map: rp_powerplant_v2b2
+[21:03:20] Client "[Opi] Fat Gay" connected.
+[21:05:19] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 119 seconds).
+[21:05:45] Fat Gay: !rewards
+[21:07:24] Client "Webbchess" connected.
+[21:10:10] Fat Gay: !warns
+[21:10:24] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:10:29] Client "[Opi] Fat Gay" connected.
+[21:11:18] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[21:11:42] Fat Gay: !warn fat gay
+[21:11:42] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:14:39] (Console) unbanned steamid STEAM_0:1:44006700
+[21:14:54] (Console) unbanned steamid STEAM_0:1:44006700
+[21:15:27] (Console) unbanned steamid STEAM_0:1:218173703 (Fat Gay)
+[21:15:31] Client "[Opi] Fat Gay" connected.
+[21:16:19] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[21:16:53] Fat Gay: !warns
+[21:20:22] Fat Gay: !warn
+[21:20:26] Fat Gay: !warn fat gay
+[21:27:23] Fat Gay: !warn fat gay
+[21:27:41] Client "Webbchess" connected.
+[21:35:34] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:35:35] Client "[Opi] Fat Gay" connected.
+[21:36:25] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+[21:36:42] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:36:43] Client "[Opi] Fat Gay" connected.
+[21:37:32] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[21:43:27] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:43:27] Client "[Opi] Fat Gay" connected.
+[21:44:17] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+[21:45:16] Fat Gay: !bwhitelist
+[21:45:28] Fat Gay: !bwhitelist
+[21:45:36] Client "Webbchess" spawned in server <STEAM_0:1:432592418> (took 1075 seconds).
+[21:45:36] (Console) added Webbchess to group PACUser
+[21:47:03] Webbchess: oh
+[21:47:08] Webbchess: NOCLIP
+[21:47:10] Webbchess: .
+[21:48:29] Fat Gay: !goto we
+[21:48:29] Fat Gay teleported to Webbchess
+[21:48:57] Webbchess: hi
+[21:49:18] Webbchess: so uh
+[21:49:43] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/chair02a.mdl
+[21:50:20] Webbchess: perfect
+[21:51:37] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep pill_wep_annabelle
+[21:51:48] Webbchess: thanks
+[21:52:21] Webbchess: okay
+[21:52:40] Fat Gay: !bring web
+[21:52:40] Fat Gay brought Webbchess
+[21:53:21] Webbchess: sorry was afk
+[21:53:30] Webbchess: where did you go?
+[21:54:07] Client "Bot01" connected.
+[21:54:07] Client "Bot01" spawned in server <BOT> (took 3359 seconds).
+[21:54:15] Webbchess: sorry
+[21:54:38] Webbchess: lel
+[21:55:04] Webbchess: uh
+[21:55:21] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep csgo_bayonet
+[21:55:30] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep weapon_sillyzombieclaw_v2
+[21:55:34] Webbchess: so uh
+[21:55:41] Webbchess: must be a ranknig system
+[21:55:42] Fat Gay: !BRING WEB
+[21:55:42] Fat Gay brought Webbchess
+[21:55:49] Webbchess: because eveything is locked
+[21:55:59] Webbchess: cant do anything with the Q
+[21:56:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props_junk/plasticcrate01a.mdl
+[21:56:05] Webbchess: them menu
+[21:56:12] Webbchess: i can get in it
+[21:56:19] Webbchess: only can spawn props
+[21:56:22] Webbchess: nothing else
+[21:56:25] Webbchess: idk
+[21:56:34] Webbchess: oh
+[21:56:39] Webbchess: no rankng systm?
+[21:56:44] Webbchess: system*
+[21:56:52] Webbchess: someone joined
+[21:57:02] Webbchess: ooh
+[21:57:24] Webbchess: i want to spawn a chair but i cant 
+[21:57:27] Webbchess: sadly
+[21:57:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/chair02a.mdl
+[21:57:35] Webbchess: a chair to sit in
+[21:58:01] Webbchess: uh
+[21:58:27] Fat Gay:  /OOC KEK
+[21:58:30] Fat Gay: /ooc kek
+[21:58:40] Fat Gay: /radio ni
+[21:58:40] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:58:47] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:58:47] Fat Gay: /broadcast n
+[21:58:52] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:59:05] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/door01_left.mdl
+[21:59:23] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate2x2_tri.mdl
+[21:59:25] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate2x2.mdl
+[21:59:35] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate1x2.mdl
+[22:00:07] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[22:00:11] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[22:00:12] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[22:00:18] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[22:00:23] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/computer01_keyboard.mdl
+[22:00:24] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/computer01_keyboard.mdl
+[22:00:25] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[22:00:25] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[22:00:26] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[22:00:27] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[22:00:27] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[22:00:28] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[22:01:00] Webbchess: THATS REALLY COOL
+[22:01:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_lever on maps/rp_powerplant_v2b2.bsp
+[22:01:04] Fat Gay<STEAM_0:1:218173703> used the tool wire_lever on maps/rp_powerplant_v2b2.bsp
+[22:01:27] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[22:01:29] Webbchess: sorry friend in disc keeps messaging me
+[22:01:51] Webbchess<STEAM_0:1:432592418> spawned model models/gibs/hgibs.mdl
+[22:01:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[22:02:01] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[22:02:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_wasteland/tram_leverbase01.mdl
+[22:02:03] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_wasteland/tram_lever01.mdl
+[22:02:04] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_wasteland/tram_lever01.mdl
+[22:02:04] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[22:02:04] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_wasteland/tram_lever01.mdl
+[22:02:05] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[22:02:06] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[22:02:06] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[22:02:06] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[22:02:09] Webbchess: i honestly cant spawn anything
+[22:02:23] Webbchess: YES
+[22:02:53] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:02:57] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:03:03] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:03:06] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on models/cheeze/wires/cpu.mdl
+[22:03:06] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:03:07] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:03:13] Webbchess<STEAM_0:1:432592418> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:03:20] Webbchess<STEAM_0:1:432592418> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[22:03:35] Webbchess<STEAM_0:1:432592418> used the tool wire_consolescreen on maps/rp_powerplant_v2b2.bsp
+[22:03:39] Webbchess<STEAM_0:1:432592418> used the tool wire_consolescreen on maps/rp_powerplant_v2b2.bsp
+[22:03:41] Fat Gay<STEAM_0:1:218173703> used the tool wire_user on maps/rp_powerplant_v2b2.bsp
+[22:04:06] Webbchess: k
+[22:04:21] Webbchess<STEAM_0:1:432592418> used the tool wire_cam on maps/rp_powerplant_v2b2.bsp
+[22:04:23] Webbchess<STEAM_0:1:432592418> used the tool wire_cam on maps/rp_powerplant_v2b2.bsp
+[22:04:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_lab/blastdoor001c.mdl
+[22:04:31] Webbchess: god what the heck am i doing
+[22:04:37] Webbchess<STEAM_0:1:432592418> used the tool wire_cam on models/props_lab/blastdoor001c.mdl
+[22:04:48] Fat Gay<STEAM_0:1:218173703> used the tool elevator on models/props_lab/blastdoor001c.mdl
+[22:04:53] Webbchess<STEAM_0:1:432592418> used the tool wire_cam on models/props_lab/blastdoor001c.mdl
+[22:05:01] Webbchess<STEAM_0:1:432592418> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[22:05:11] Webbchess: how do you connect things..
+[22:05:13] Webbchess: AAAA
+[22:05:21] Webbchess<STEAM_0:1:432592418> used the tool wire_adv_hud_indicator_2 on models/cheeze/wires/speaker.mdl
+[22:05:40] Webbchess<STEAM_0:1:432592418> used the tool wire_adv_hud_indicator_2 on maps/rp_powerplant_v2b2.bsp
+[22:05:49] Webbchess<STEAM_0:1:432592418> used the tool wire_explosive on maps/rp_powerplant_v2b2.bsp
+[22:05:50] Webbchess<STEAM_0:1:432592418> used the tool wire_explosive on maps/rp_powerplant_v2b2.bsp
+[22:06:18] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate4x4.mdl
+[22:06:26] Fat Gay<STEAM_0:1:218173703> used the tool ladder on maps/rp_powerplant_v2b2.bsp
+[22:06:26] Fat Gay<STEAM_0:1:218173703> used the tool ladder on maps/rp_powerplant_v2b2.bsp
+[22:06:27] Webbchess: can 
+[22:06:34] Fat Gay<STEAM_0:1:218173703> used the tool ladder on maps/rp_powerplant_v2b2.bsp
+[22:06:34] Fat Gay<STEAM_0:1:218173703> used the tool ladder on maps/rp_powerplant_v2b2.bsp
+[22:06:44] Fat Gay<STEAM_0:1:218173703> used the tool ladder on maps/rp_powerplant_v2b2.bsp
+[22:06:45] Fat Gay<STEAM_0:1:218173703> used the tool ladder on maps/rp_powerplant_v2b2.bsp
+[22:06:46] Webbchess: can you drop the elevator door down plz
+[22:06:53] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate2x4.mdl
+[22:06:55] Webbchess: ty
+[22:07:17] Fat Gay<STEAM_0:1:218173703> used the tool light on maps/rp_powerplant_v2b2.bsp
+[22:07:19] Fat Gay<STEAM_0:1:218173703> used the tool light on maps/rp_powerplant_v2b2.bsp
+[22:07:22] Webbchess: can you assign roles?
+[22:07:28] Webbchess: or give admin or items
+[22:07:36] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_angle360.mdl
+[22:07:39] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_plate4x4_tri.mdl
+[22:07:47] Webbchess: cool
+[22:07:55] Webbchess: nice logo btw
+[22:08:00] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/metal_tube.mdl
+[22:08:18] Webbchess: i got a discord group
+[22:08:19] Fat Gay: /ooc https://discord.gg/wtPZXj
+[22:08:25] Webbchess: yea
+[22:08:28] Webbchess: i might
+[22:08:36] Webbchess: been working on it allmost all day
+[22:08:43] Webbchess<STEAM_0:1:432592418> spawned model models/props_phx/construct/windows/window4x4.mdl
+[22:08:49] Webbchess: DUDE
+[22:09:01] Fat Gay: !menu
+[22:09:03] Webbchess: did you drop this?
+[22:09:10] Webbchess: uh
+[22:09:11] Fat Gay: !menu
+[22:09:19] Fat Gay: !menu
+[22:09:20] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep csgo_bayonet
+[22:09:22] Fat Gay<STEAM_0:1:218173703> used the tool light on models/props_phx/construct/windows/window4x4.mdl
+[22:09:23] Webbchess: its fine
+[22:09:37] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep weapon_l4d2_chainsaw
+[22:10:13] Webbchess: btw
+[22:10:13] Fat Gay<STEAM_0:1:218173703> used the tool bkeycardscanner on maps/rp_powerplant_v2b2.bsp
+[22:10:15] Fat Gay<STEAM_0:1:218173703> used the tool bkeycardscanner on maps/rp_powerplant_v2b2.bsp
+[22:10:17] Webbchess: can you add
+[22:10:19] Webbchess: like
+[22:10:24] Webbchess: give people stuff
+[22:10:29] Webbchess: and permissions
+[22:10:32] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep weapon_l4d2_rifle_desert
+[22:10:34] Webbchess: uh
+[22:10:46] Webbchess: the thing i want rn
+[22:10:48] Webbchess: is noclip
+[22:10:49] Webbchess: but
+[22:10:57] Webbchess: oh
+[22:11:07] Webbchess: aw
+[22:11:27] Webbchess: how do you apply
+[22:11:56] Webbchess: okay
+[22:11:58] Webbchess: oops
+[22:12:00] Webbchess: srry
+[22:12:02] Fat Gay suicided!
+[22:12:02] Fat Gay killed Webbchess using env_explosion
+[22:12:02] Webbchess: OWT
+[22:12:05] Webbchess: LOL
+[22:12:10] Fat Gay: !goto web
+[22:12:10] Fat Gay teleported to Webbchess
+[22:12:13] Webbchess: rip
+[22:12:21] Webbchess: it was a misclick
+[22:12:25] Webbchess: but that was worth it
+[22:12:28] Fat Gay: /ooc xd
+[22:12:29] Webbchess: UH
+[22:12:31] Fat Gay: !bring web
+[22:12:31] Fat Gay brought Webbchess
+[22:12:31] Webbchess<STEAM_0:1:432592418> spawned/gave himself swep weapon_l4d2_rifle
+[22:12:59] Webbchess: rlly?
+[22:13:03] Webbchess: c;
+[22:13:05] Webbchess: ow
+[22:13:16] Webbchess: i got
+[22:13:22] Webbchess: the mod
+[22:13:23] Webbchess: so
+[22:13:24] Webbchess: ik
+[22:13:34] Webbchess: i got it in my game
+[22:13:45] Webbchess: uh
+[22:13:54] (TEAM) Webbchess: aw
+[22:13:59] Webbchess: i cant do givecurrentammo
+[22:14:12] Webbchess: perfect?
+[22:14:16] Webbchess: perfect!
+[22:14:24] Webbchess: i got a idea
+[22:14:27] Webbchess: why dont we
+[22:14:32] Webbchess: make a deathmatch thing
+[22:14:34] Webbchess: where
+[22:14:38] Webbchess: these boxes
+[22:14:43] Webbchess: are placed everywhere
+[22:14:53] Webbchess: wait
+[22:14:53] Webbchess was killed by fas2_thrown_ammobox
+[22:14:53] Fat Gay was killed by fas2_thrown_ammobox
+[22:14:55] Webbchess: ow
+[22:15:04] Webbchess: us vs a army of zombies
+[22:15:06] Webbchess: c;
+[22:15:17] Webbchess: uh
+[22:15:23] Webbchess: ooh
+[22:15:33] Webbchess: can i recommend a mod?
+[22:15:38] Webbchess: vj base
+[22:15:40] Webbchess: oops
+[22:15:52] Webbchess: no
+[22:16:02] Webbchess: vj base is a npc base
+[22:16:05] Webbchess: its really good
+[22:16:15] Webbchess: its got liberty prime from fallout in it
+[22:17:42] Webbchess: uh
+[22:17:46] Webbchess: what is this?
+[22:18:16] Webbchess: oh my
+[22:18:23] Webbchess: ill stop now
+[22:18:48] Webbchess<STEAM_0:1:432592418> used the tool fading_door on maps/rp_powerplant_v2b2.bsp
+[22:18:50] Webbchess<STEAM_0:1:432592418> used the tool fading_door on maps/rp_powerplant_v2b2.bsp
+[22:18:57] Webbchess<STEAM_0:1:432592418> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[22:18:59] Webbchess<STEAM_0:1:432592418> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[22:19:02] Webbchess: oh
+[22:19:04] Webbchess: rip
+[22:19:09] Webbchess: k
+[22:19:12] Webbchess: bye...
+[22:19:15] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:19:25] Webbchess<STEAM_0:1:432592418> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[22:19:54] Webbchess suicided!
+[22:20:10] Webbchess suicided!
+[22:20:19] Webbchess suicided!
+[22:20:31] Webbchess suicided!
+[22:20:38] Webbchess suicided!
+[22:20:51] Webbchess suicided!
+[22:20:57] Dropped "Webbchess" from server<STEAM_0:1:432592418>
+[22:20:57] Dropped "Bot01" from server<BOT>
+[22:29:45] Client "Wolves Mercy" connected.
+[23:01:15] Client "Wolves Mercy" spawned in server <STEAM_0:0:86025114> (took 1890 seconds).
+[23:01:15] (Console) added Security Soal to group PACUser
+[23:37:29] Client "Bot02" connected.
+[23:37:29] Client "Bot02" spawned in server <BOT> (took 9561 seconds).
+[23:37:29] (Console) added Bot02 to group PACUser
+[23:52:29] Security Soal suicided!
+<Logging continued in "data/ulx_logs/08-07-18.txt">

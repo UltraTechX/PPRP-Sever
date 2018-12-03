@@ -1,0 +1,95 @@
+Sat Jun 23 23:22:23 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 23 23:22:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:22:44 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Jun 23 23:22:44 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:22:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:23:02 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:23:03 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:23:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:23:09 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:23:09 2018	Fat Gay has made Emmett wanted, reason: Quick Want
+Sat Jun 23 23:23:37 2018	Emmett was killed by Fat Gay with a stunstick
+Sat Jun 23 23:23:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:23:55 2018	Emmett was killed by Fat Gay with a stunstick
+Sat Jun 23 23:23:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:24:23 2018	Emmett was killed by Fat Gay with a stunstick
+Sat Jun 23 23:24:24 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:24:44 2018	Emmett was killed by Fat Gay with a cw_deagle
+Sat Jun 23 23:24:45 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:24:52 2018	Emmett was killed by Fat Gay with a cw_deagle
+Sat Jun 23 23:24:54 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:25:03 2018	Emmett was killed by Fat Gay with a cw_deagle
+Sat Jun 23 23:25:09 2018	Emmett is no longer wanted by the Police.
+Sat Jun 23 23:25:10 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:25:17 2018	Emmett was killed by Fat Gay with a cw_deagle
+Sat Jun 23 23:25:18 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:27:32 2018	Emmett was killed by Fat Gay with a cw_deagle
+Sat Jun 23 23:27:34 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:38:08 2018	Emmett was killed by Fat Gay with a gmod_wire_simple_explosive
+Sat Jun 23 23:38:23 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:38:26 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:38:34 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:38:38 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:38:58 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:39:03 2018	Emmett was killed by Fat Gay with a gmod_wire_simple_explosive
+Sat Jun 23 23:39:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:39:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:39:33 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:39:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:39:43 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:39:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:39:53 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:39:54 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:40:03 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:40:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:40:33 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 23 23:43:51 2018	Fat Gay was killed by Emmett with a fas2_ak12
+Sat Jun 23 23:43:54 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:43:57 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 23 23:44:11 2018	Emmett was killed by Himself with a suicide trick
+Sat Jun 23 23:44:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:44:55 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:44:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:45:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:45:11 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 23 23:46:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Jun 23 23:54:33 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Jun 23 23:54:33 2018	Emmett was killed by Fat Gay with a gmod_wire_simple_explosive
+Sat Jun 23 23:54:35 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:54:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:54:42 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sat Jun 23 23:59:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 23:59:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sun Jun 24 00:05:56 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jun 24 00:06:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:06:13 2018	Emmett was killed by Fat Gay with a cw_fiveseven
+Sun Jun 24 00:06:23 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jun 24 00:06:23 2018	Fat Gay (STEAM_0:1:218173703): !SLAY ^
+Sun Jun 24 00:06:43 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 00:06:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:15:02 2018	Fat Gay (STEAM_0:1:218173703): !hunger 0
+Sun Jun 24 00:15:06 2018	Fat Gay (STEAM_0:1:218173703): !help
+Sun Jun 24 00:15:10 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jun 24 00:19:21 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sun Jun 24 00:19:39 2018	Emmett (STEAM_0:1:41660292): !god fat
+Sun Jun 24 00:22:23 2018	Emmett was killed by Himself with a suicide trick
+Sun Jun 24 00:22:25 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 00:22:26 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jun 24 00:22:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:22:35 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Jun 24 00:23:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:30:49 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_combine_s
+Sun Jun 24 00:34:05 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_combine_s
+Sun Jun 24 00:34:51 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_combine_s
+Sun Jun 24 00:35:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_citizen
+Sun Jun 24 00:36:45 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_citizen
+Sun Jun 24 00:36:50 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_combine_s

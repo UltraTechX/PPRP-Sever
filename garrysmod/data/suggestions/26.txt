@@ -1,0 +1,1 @@
+{"Suggestion":{"Title":"Map Proportions","Text":"Start over and make the map a lot smaller.\n\nPut more detail into rooms and lighting."},"ID":26.0,"VoteNo":["STEAM_0:1:116765028"],"Status":"Voting","Player":{"SteamID":"STEAM_0:1:41660292","Name":"Valien"},"Approved":{"Name":"","Is":false,"SteamID":""},"VoteYes":["STEAM_0:0:46148772","STEAM_0:1:187884151"]}

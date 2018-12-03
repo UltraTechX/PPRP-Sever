@@ -1,0 +1,67 @@
+Sat Oct 27 06:38:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 27 06:38:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 06:55:49 2018	☭✠Tynneside✠☭[Opi] (STEAM_0:0:89038456) has joined the game
+Sat Oct 27 06:55:49 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 06:57:13 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sat Oct 27 07:01:07 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 07:01:07 2018	☭✠Tynneside✠☭ was killed by Himself with a suicide trick
+Sat Oct 27 07:01:09 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 07:01:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 07:01:17 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): hi
+Sat Oct 27 07:01:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hi
+Sat Oct 27 07:01:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): im just testing stuff before I get off
+Sat Oct 27 07:01:32 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): oh ok
+Sat Oct 27 07:01:38 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): I was planning on getting money
+Sat Oct 27 07:01:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): thats fine
+Sat Oct 27 07:01:49 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): when will the website be back up
+Sat Oct 27 07:01:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): server is gonna auto restart in about
+Sat Oct 27 07:01:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 1-3 hours
+Sat Oct 27 07:02:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): it does that daily
+Sat Oct 27 07:02:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): so
+Sat Oct 27 07:02:06 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): oh
+Sat Oct 27 07:02:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): funny story
+Sat Oct 27 07:02:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): the website
+Sat Oct 27 07:02:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i tried to fix it
+Sat Oct 27 07:02:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): and rendered it unusable
+Sat Oct 27 07:02:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): until I get to my other house
+Sat Oct 27 07:02:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): so yeah thats not working until tueday
+Sat Oct 27 07:02:50 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): ok
+Sat Oct 27 07:02:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): sorry bout that
+Sat Oct 27 07:03:08 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): its fine just wanted to see what vip gets you
+Sat Oct 27 07:03:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): ok
+Sat Oct 27 07:03:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): so
+Sat Oct 27 07:03:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): if you go to the F4 menu
+Sat Oct 27 07:03:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): all the jobs that say you need VIP + core room security are given with VIP
+Sat Oct 27 07:03:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): also
+Sat Oct 27 07:03:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): as a terrorist w/ vip you get a disguise kit to go undercover
+Sat Oct 27 07:04:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): and
+Sat Oct 27 07:04:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): you get access to the VIP printer
+Sat Oct 27 07:04:19 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): thats cool
+Sat Oct 27 07:04:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): and there are a few other but since the website is down I cant remember them all
+Sat Oct 27 07:04:45 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): ok well ill be checking up on it 
+Sat Oct 27 07:04:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): alrighty
+Sat Oct 27 07:04:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): see ya later
+Sat Oct 27 07:05:13 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): so about the testing of things is it going to be new things to the server?
+Sat Oct 27 07:05:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): so yeah
+Sat Oct 27 07:05:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): it was mainly a bugfix
+Sat Oct 27 07:05:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): the door owning bug is fixed now
+Sat Oct 27 07:05:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): and uh
+Sat Oct 27 07:05:58 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): oh I only really joined 2 days ago so I didnt know about that
+Sat Oct 27 07:06:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): the missing textures at the top xp bar
+Sat Oct 27 07:06:12 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): ok
+Sat Oct 27 07:06:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): oh welcome to the server then! Hope you like it!
+Sat Oct 27 07:06:28 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): Ya I do
+Sat Oct 27 07:06:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): thats great! Also I do announce all changes on the discord if you were wondering
+Sat Oct 27 07:07:09 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): whats the link to join
+Sat Oct 27 07:07:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): its in the chat every 5 mins lemme scroll up
+Sat Oct 27 07:07:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): https://discord.gg/HntKeW3
+Sat Oct 27 07:08:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): well anyways
+Sat Oct 27 07:08:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): ill see ya later
+Sat Oct 27 07:08:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Oct 27 07:08:49 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 07:14:37 2018	☭✠Tynneside✠☭ was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 27 07:14:39 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 07:15:00 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 07:15:30 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 07:22:12 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): !motd
+Sat Oct 27 07:36:39 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned

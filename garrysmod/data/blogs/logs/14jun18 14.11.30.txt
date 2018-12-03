@@ -1,0 +1,58 @@
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Thu Jun 14 14:11:30 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Thu Jun 14 14:11:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:11:31 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:11:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:11:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:11:50 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:11:50 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:11:56 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "creator"
+[Thu Jun 14 14:11:56 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % spawned SWEP "Scripted Weapon"
+[Thu Jun 14 14:11:56 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "creator"
+[Thu Jun 14 14:11:56 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % spawned SWEP "Scripted Weapon"
+[Thu Jun 14 14:11:56 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "creator"
+[Thu Jun 14 14:11:56 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % spawned SWEP "Scripted Weapon"
+[Thu Jun 14 14:11:56 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "creator"
+[Thu Jun 14 14:11:56 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % spawned SWEP "Scripted Weapon"
+[Thu Jun 14 14:11:56 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "creator"
+[Thu Jun 14 14:11:56 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % spawned SWEP "Scripted Weapon"
+[Thu Jun 14 14:11:57 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "creator"
+[Thu Jun 14 14:11:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % spawned SWEP "Scripted Weapon"
+[Thu Jun 14 14:11:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % picked up a Scripted Weapon (cw_ak74)
+[Thu Jun 14 14:12:00 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:12:00 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:12:01 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (049-2) % changed job from Visitor
+[Thu Jun 14 14:12:10 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:12:10 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:12:20 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:12:20 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:12:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:12:30 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Thu Jun 14 14:12:32 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (SWAT Juggernaut) % changed job from 049-2
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (SWAT Juggernaut) % picked up a Scripted Weapon (swep_radiodevice)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Pocket (pocket)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (swep_radiodevice)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (fas2_dv2)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (cw_flash_grenade)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a weapon_physgun
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Tool Gun (gmod_tool)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a #GMOD_Camera (gmod_camera)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (fas2_m67)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (cw_smoke_grenade)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (cw_g3a3)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (keys)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (fas2_ifak)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (cw_m3super90)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Scripted Weapon (cw_deagle)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a Inventory Pickup (itemstore_pickup)
+[Thu Jun 14 14:12:35 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (SWAT Juggernaut) % picked up a weapon_physcannon
+[Thu Jun 14 14:12:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Thu Jun 14 14:12:40 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"

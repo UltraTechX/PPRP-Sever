@@ -1,0 +1,8 @@
+Wed Sep 26 16:41:19 2018 - Nick: Emmett | IP: 73.195.176.199 | SteamID: STEAM_0:1:41660292.txt | Cheating Infraction: Invalid source: hook.Add@addons/itemstore/lua/itemstore/cl_menu.lua;
+
+
+Wed Sep 26 16:44:19 2018 - Nick: Emmett | IP: 73.195.176.199 | SteamID: STEAM_0:1:41660292.txt | Cheating Infraction: Invalid source: hook.Add@addons/itemstore/lua/itemstore/cl_menu.lua;
+
+
+Wed Sep 26 17:02:54 2018 - Nick: Emmett | IP: 73.195.176.199 | SteamID: STEAM_0:1:41660292.txt | Cheating Infraction: Invalid source: hook.Add@addons/itemstore/lua/itemstore/cl_menu.lua;
+

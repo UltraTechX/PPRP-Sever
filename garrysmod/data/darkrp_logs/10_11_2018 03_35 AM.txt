@@ -1,0 +1,200 @@
+Thu Oct 11 03:35:13 2018	Power Pete (STEAM_0:0:26019050) has joined the game
+Thu Oct 11 03:35:13 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:35:13 2018	Gumpo Mumpo (STEAM_0:1:53547966) has joined the game
+Thu Oct 11 03:35:13 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:35:15 2018	[TVR]rkholcomb (STEAM_0:0:57943747) has joined the game
+Thu Oct 11 03:35:15 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:35:19 2018	Makarov (STEAM_0:1:71554965) has joined the game
+Thu Oct 11 03:35:19 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:35:32 2018	Tigroon (STEAM_0:0:40127246) has joined the game
+Thu Oct 11 03:35:32 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 03:35:45 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 03:35:45 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:35:54 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 03:36:02 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 03:36:02 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:36:13 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:36:14 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:36:17 2018	TimPai (STEAM_0:0:53526522) has joined the game
+Thu Oct 11 03:36:17 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:36:19 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:36:22 2018	Spicy Wing (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 03:36:30 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:36:30 2018	Spicy Wing (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 03:36:36 2018	TimPai was killed by Power Pete with a cw_shorty
+Thu Oct 11 03:36:40 2018	Sammy Boom was killed by Gumpo Mumpo with a cw_m3super90
+Thu Oct 11 03:36:40 2018	[TVR]rkholcomb was killed by Power Pete with a cw_ump45
+Thu Oct 11 03:36:42 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:36:49 2018	TimPai was killed by Power Pete with a cw_m1911
+Thu Oct 11 03:36:56 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:37:07 2018	[PR]Rebel (STEAM_0:1:121310734) has joined the game
+Thu Oct 11 03:37:07 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:37:12 2018	TimPai was killed by Gumpo Mumpo with a cw_m1911
+Thu Oct 11 03:37:13 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 03:37:13 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 03:37:15 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:37:18 2018	Corvus Clemmons was killed by Power Pete with a fas2_thrown_m67
+Thu Oct 11 03:37:21 2018	John doe was killed by Power Pete with a fas2_thrown_m67
+Thu Oct 11 03:37:21 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:37:33 2018	TimPai was killed by Himself with a suicide trick
+Thu Oct 11 03:37:35 2018	Power Pete was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:37:36 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:37:37 2018	Tigroon was killed by Makarov with a cw_l85a2
+Thu Oct 11 03:37:38 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:37:41 2018	Tigroon (STEAM_0:0:40127246): /y I'm on your side.
+Thu Oct 11 03:37:45 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:37:50 2018	Sammy Boom (STEAM_0:0:91181601): // is real zuthar
+Thu Oct 11 03:37:51 2018	Sammy Boom was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:37:51 2018	Tigroon (STEAM_0:0:40127246): 
+Thu Oct 11 03:37:53 2018	Sammy Boom (STEAM_0:0:91181601): // is very real zuthar
+Thu Oct 11 03:37:54 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:37:58 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 03:37:59 2018	Power Pete was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:37:59 2018	TimPai was killed by Himself with a suicide trick
+Thu Oct 11 03:38:04 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:38:05 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:38:18 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:38:22 2018	Tigroon (STEAM_0:0:40127246): /ooc Hey, Maverick. You uh, just killed me. When I was on your side. As Terrorist Leader.
+Thu Oct 11 03:38:32 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:38:57 2018	Okofos (STEAM_0:0:207625889) has joined the game
+Thu Oct 11 03:38:57 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:39:02 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:39:18 2018	Corvus Clemmons (STEAM_0:1:121310734) disconnected
+Thu Oct 11 03:39:35 2018	Makarov (STEAM_0:1:71554965) disconnected
+Thu Oct 11 03:39:36 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:39:54 2018	Power Pete was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:39:54 2018	Sammy Boom was killed by Power Pete with a fas2_thrown_m67
+Thu Oct 11 03:39:56 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:40:10 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:40:15 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:40:20 2018	Okofos was killed by Power Pete with a fas2_thrown_m67
+Thu Oct 11 03:40:33 2018	TimPai was killed by Himself with a suicide trick
+Thu Oct 11 03:40:34 2018	Power Pete (STEAM_0:0:26019050): /oco WHEREWS THE PIZZA
+Thu Oct 11 03:40:36 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:40:39 2018	Power Pete (STEAM_0:0:26019050): /ooc WHERES THE PIZZ
+Thu Oct 11 03:41:22 2018	Power Pete (STEAM_0:0:26019050): /ooc LAZER SO LOUD
+Thu Oct 11 03:41:24 2018	Power Pete (STEAM_0:0:26019050): /ooc HOLY FUCK
+Thu Oct 11 03:41:26 2018	Power Pete (STEAM_0:0:26019050): /ooc STOP
+Thu Oct 11 03:41:32 2018	Sammy Boom (STEAM_0:0:91181601): // oh so it is Zoother
+Thu Oct 11 03:41:34 2018	Sammy Boom (STEAM_0:0:91181601): // wowee
+Thu Oct 11 03:41:39 2018	Power Pete (STEAM_0:0:26019050): /ooc cool server
+Thu Oct 11 03:41:44 2018	Sammy Boom (STEAM_0:0:91181601): // never thot I'd meet my life idol like this
+Thu Oct 11 03:42:15 2018	Sammy Boom (STEAM_0:0:91181601): // hey zooth tooth what happened to not playing gmod
+Thu Oct 11 03:42:22 2018	Power Pete (STEAM_0:0:26019050): /ooc that was 8 months ago
+Thu Oct 11 03:42:28 2018	Sammy Boom (STEAM_0:0:91181601): // lol yes
+Thu Oct 11 03:42:59 2018	TimPai was killed by Tigroon with a cw_scarh
+Thu Oct 11 03:43:09 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:43:19 2018	Power Pete (STEAM_0:0:26019050): /ooc that was fucking depressing
+Thu Oct 11 03:43:29 2018	Sammy Boom (STEAM_0:0:91181601): // what part of what
+Thu Oct 11 03:43:31 2018	TimPai (STEAM_0:0:53526522): /ooc why are there terrorists attacking me in a power plant?
+Thu Oct 11 03:43:40 2018	Sammy Boom (STEAM_0:0:91181601): // because we're in Ukraine I guess
+Thu Oct 11 03:43:46 2018	Spicy Wing was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:43:47 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:43:49 2018	TimPai (STEAM_0:0:53526522): /ooc sure that makes sense
+Thu Oct 11 03:43:59 2018	Sammy Boom (STEAM_0:0:91181601): // it does if it makes sense to you ;)
+Thu Oct 11 03:44:00 2018	TimPai was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 03:44:01 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:44:13 2018	Gumpo Mumpo (STEAM_0:1:53547966): // connor the core looks so cool
+Thu Oct 11 03:44:24 2018	Sammy Boom (STEAM_0:0:91181601): // Did you guys know this server is based off a Roblox server
+Thu Oct 11 03:44:32 2018	Sammy Boom (STEAM_0:0:91181601): // hello
+Thu Oct 11 03:44:42 2018	Sammy Boom (STEAM_0:0:91181601): // give speech 
+Thu Oct 11 03:44:51 2018	Sammy Boom (STEAM_0:0:91181601): // I demand a speech
+Thu Oct 11 03:45:00 2018	Sammy Boom (STEAM_0:0:91181601): // or else I'll give a speech about killing you then kill you
+Thu Oct 11 03:45:35 2018	Sammy Boom (STEAM_0:0:91181601): // No lie I checked your channel like 3 days ago to see if you had already played this server
+Thu Oct 11 03:45:52 2018	Sammy Boom (STEAM_0:0:91181601): // cus there was a dude that sounded nearly just like you
+Thu Oct 11 03:45:56 2018	Spicy Wing was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:45:58 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:46:22 2018	Sammy Boom (STEAM_0:0:91181601): // but the moment I got spawn killed the thought sprung up again, "Wait a second this IS Zuthar"
+Thu Oct 11 03:47:00 2018	Sammy Boom (STEAM_0:0:91181601): // then once you gave that superb sentence about being in an office or something my heart was wreched with joy
+Thu Oct 11 03:47:16 2018	Gumpo Mumpo was killed by Power Pete with a cw_ump45
+Thu Oct 11 03:47:20 2018	Power Pete was killed by Tigroon with a cw_scarh
+Thu Oct 11 03:47:25 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:47:26 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:47:47 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:48:06 2018	TimPai was killed by Tigroon with a cw_scarh
+Thu Oct 11 03:48:16 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:48:31 2018	Sammy Boom (STEAM_0:0:91181601): // lol hi
+Thu Oct 11 03:48:52 2018	Sammy Boom (STEAM_0:0:91181601): // I have a bunker now
+Thu Oct 11 03:49:16 2018	Sammy Boom (STEAM_0:0:91181601): /y hola
+Thu Oct 11 03:49:20 2018	Sammy Boom (STEAM_0:0:91181601): /y not a bunker
+Thu Oct 11 03:49:40 2018	Sammy Boom (STEAM_0:0:91181601): beep beep
+Thu Oct 11 03:50:00 2018	Gumpo Mumpo was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:50:00 2018	Sammy Boom (STEAM_0:0:91181601): // Battle of stalingrad circa 2018
+Thu Oct 11 03:50:02 2018	Power Pete was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:50:08 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:50:23 2018	TimPai was killed by Himself with a suicide trick
+Thu Oct 11 03:50:28 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:50:28 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:50:47 2018	Power Pete was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:50:47 2018	TimPai was killed by Himself with a suicide trick
+Thu Oct 11 03:50:47 2018	Spicy Wing was killed by Tigroon with a cw_scarh
+Thu Oct 11 03:50:51 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:50:53 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:50:53 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:50:55 2018	Spicy Wing (STEAM_0:0:176415266): !motds
+Thu Oct 11 03:50:57 2018	Spicy Wing (STEAM_0:0:176415266): !motd
+Thu Oct 11 03:50:58 2018	Sammy Boom (STEAM_0:0:91181601) disconnected
+Thu Oct 11 03:51:00 2018	Gumpo Mumpo was killed by Entity [5049][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Thu Oct 11 03:51:05 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:51:17 2018	Power Pete was killed by Himself with a suicide trick
+Thu Oct 11 03:51:19 2018	TimPai was killed by Power Pete with a fas2_thrown_m67
+Thu Oct 11 03:51:23 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:51:24 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:51:26 2018	Spicy Wing (STEAM_0:0:176415266): !motd
+Thu Oct 11 03:51:57 2018	Gumpo Mumpo was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:52:00 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:52:04 2018	Power Pete was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 03:52:04 2018	TimPai was killed by Himself with a suicide trick
+Thu Oct 11 03:52:07 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:52:07 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:52:13 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:52:30 2018	Gumpo Mumpo (STEAM_0:1:53547966): /wanted timpai idiot
+Thu Oct 11 03:52:42 2018	Gumpo Mumpo (STEAM_0:1:53547966): /wanted timpai bitch
+Thu Oct 11 03:52:42 2018	Gumpo Mumpo has made TimPai wanted, reason: bitch
+Thu Oct 11 03:52:45 2018	TimPai is no longer wanted by the Police. Revoked by: Gumpo Mumpo
+Thu Oct 11 03:52:45 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:52:45 2018	Gumpo Mumpo (STEAM_0:1:53547966) arrested TimPai
+Thu Oct 11 03:52:52 2018	Gumpo Mumpo was killed by Power Pete with a cw_m1911
+Thu Oct 11 03:52:57 2018	TimPai (STEAM_0:0:53526522): /ooc admin to me
+Thu Oct 11 03:53:02 2018	Gumpo Mumpo (STEAM_0:1:53547966): /wanted power bitch
+Thu Oct 11 03:53:03 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:53:07 2018	Gumpo Mumpo (STEAM_0:1:53547966): /wanted power bitch
+Thu Oct 11 03:53:07 2018	Gumpo Mumpo has made Power Pete wanted, reason: bitch
+Thu Oct 11 03:54:21 2018	Power Pete was killed by Tigroon with a cw_scarh
+Thu Oct 11 03:54:37 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:55:02 2018	Gumpo Mumpo (STEAM_0:1:53547966): !suggestion
+Thu Oct 11 03:55:07 2018	Power Pete is no longer wanted by the Police.
+Thu Oct 11 03:55:15 2018	Okofos (STEAM_0:0:207625889): /ooc this shit bout to go down
+Thu Oct 11 03:55:34 2018	Power Pete (STEAM_0:0:26019050): /ooc TWO MINUTES
+Thu Oct 11 03:55:48 2018	Power Pete (STEAM_0:0:26019050): /ooc WHERE ROCKET
+Thu Oct 11 03:55:56 2018	Tello (STEAM_0:0:74320577) has joined the game
+Thu Oct 11 03:55:56 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 03:55:57 2018	Spicy Wing was killed by Gumpo Mumpo with a cw_g36c
+Thu Oct 11 03:56:17 2018	[TVR]rkholcomb (STEAM_0:0:57943747): / near fulled gates 
+Thu Oct 11 03:56:32 2018	[TVR]rkholcomb (STEAM_0:0:57943747): // near flud gate 
+Thu Oct 11 03:57:11 2018	Tigroon (STEAM_0:0:40127246): /advert Seea, fuckahs.
+Thu Oct 11 03:57:11 2018	[TVR]rkholcomb (STEAM_0:0:57943747): // bye bitchs 
+Thu Oct 11 03:57:15 2018	Tello (STEAM_0:0:74320577): // lmao
+Thu Oct 11 03:57:16 2018	Tigroon (STEAM_0:0:40127246): /advert Alluh Ackbar up in here.
+Thu Oct 11 03:57:44 2018	Tigroon (STEAM_0:0:40127246): Of course! Never say I don't know how to throw a good party.
+Thu Oct 11 03:57:56 2018	TimPai was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 03:57:58 2018	Okofos was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 03:57:58 2018	Power Pete was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:57:59 2018	Gumpo Mumpo was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:58:00 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:58:01 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:58:02 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:58:03 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:58:19 2018	Tello (STEAM_0:0:74320577): hurry
+Thu Oct 11 03:58:21 2018	Tello (STEAM_0:0:74320577): over here
+Thu Oct 11 03:58:55 2018	Tigroon was killed by Himself with a suicide trick
+Thu Oct 11 03:59:04 2018	Tigroon (STEAM_0:0:40127246): Oof
+Thu Oct 11 03:59:07 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 03:59:11 2018	Okofos was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:59:14 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:59:32 2018	Tello was killed by Power Pete with a cw_shorty
+Thu Oct 11 03:59:33 2018	Tigroon (STEAM_0:0:40127246): /ooc Wicked fun music.
+Thu Oct 11 03:59:34 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 03:59:39 2018	Tello was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:59:41 2018	Okofos (STEAM_0:0:207625889): /ooc damn right
+Thu Oct 11 03:59:44 2018	Tello (STEAM_0:0:74320577) spawned

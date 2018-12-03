@@ -1,0 +1,127 @@
+Tue Oct 16 01:11:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct 16 01:11:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:11:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job test
+Tue Oct 16 01:11:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job Looking At Staff Apps
+Tue Oct 16 01:12:25 2018	Infinitynull (STEAM_0:1:60776888) has joined the game
+Tue Oct 16 01:12:25 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Tue Oct 16 01:15:01 2018	Infinitynull (STEAM_0:1:60776888): !motd
+Tue Oct 16 01:16:41 2018	OpiDogoDankExpressAirline (STEAM_0:1:114863335) has joined the game
+Tue Oct 16 01:16:41 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:20:39 2018	DogoDankExpressAirline (STEAM_0:1:114863335): /afk
+Tue Oct 16 01:28:52 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:29:06 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // wru you guys'
+Tue Oct 16 01:29:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // boutta get off
+Tue Oct 16 01:31:07 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // where are the dorms like that area
+Tue Oct 16 01:33:47 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Tue Oct 16 01:33:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:35:36 2018	Lucky (STEAM_0:1:30577460) has joined the game
+Tue Oct 16 01:35:36 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:35:59 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:36:13 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Tue Oct 16 01:36:24 2018	Infinitynull (STEAM_0:1:60776888) disconnected
+Tue Oct 16 01:36:32 2018	DogoDankExpressAirline (STEAM_0:1:114863335): hi
+Tue Oct 16 01:36:57 2018	DogoDankExpressAirline (STEAM_0:1:114863335): lets go minion
+Tue Oct 16 01:36:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:37:28 2018	DogoDankExpressAirline (STEAM_0:1:114863335): wtf
+Tue Oct 16 01:38:13 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct 16 01:38:13 2018	DogoDankExpressAirline was killed by Himself with a suicide trick
+Tue Oct 16 01:38:13 2018	Lucky was killed by Himself with a suicide trick
+Tue Oct 16 01:38:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay *
+Tue Oct 16 01:38:14 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:38:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:38:14 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:38:17 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // WTf
+Tue Oct 16 01:38:58 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:39:59 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // wtf wa sthat machine that i can still hear!
+Tue Oct 16 01:40:42 2018	Lucky was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 01:40:44 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:41:26 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // wru you guys
+Tue Oct 16 01:41:47 2018	DogoDankExpressAirline (STEAM_0:1:114863335): hoi
+Tue Oct 16 01:41:52 2018	Lucky was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 01:41:53 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:41:53 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 01:41:54 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:42:26 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:42:45 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // lucky stay 457
+Tue Oct 16 01:42:48 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:42:51 2018	Lucky (STEAM_0:1:30577460): // oops
+Tue Oct 16 01:43:09 2018	Lucky (STEAM_0:1:30577460) spawned
+Tue Oct 16 01:43:27 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // okay ima be there in a min
+Tue Oct 16 01:43:32 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Tue Oct 16 01:43:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:43:59 2018	Lucky (STEAM_0:1:30577460) disconnected
+Tue Oct 16 01:44:08 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // well crap
+Tue Oct 16 01:44:30 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // what now
+Tue Oct 16 01:44:36 2018	DogoDankExpressAirline (STEAM_0:1:114863335): okay yeet!
+Tue Oct 16 01:44:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // nothing
+Tue Oct 16 01:44:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i need to fix the bot
+Tue Oct 16 01:45:21 2018	DogoDankExpressAirline (STEAM_0:1:114863335): suprise
+Tue Oct 16 01:45:48 2018	[Opi] Fat Gay was killed by Entity [1375][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Tue Oct 16 01:45:54 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // wtf
+Tue Oct 16 01:46:43 2018	Valien (STEAM_0:1:41660292) has joined the game
+Tue Oct 16 01:46:43 2018	Valien (STEAM_0:1:41660292) spawned
+Tue Oct 16 01:47:08 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // ima be by the rocket XD
+Tue Oct 16 01:47:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Tue Oct 16 01:47:30 2018	Valien (STEAM_0:1:41660292): 
+Tue Oct 16 01:47:44 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // oh hail na
+Tue Oct 16 01:48:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:49:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // watch this val
+Tue Oct 16 01:49:16 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // ?
+Tue Oct 16 01:49:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job tree
+Tue Oct 16 01:49:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // now hold tab
+Tue Oct 16 01:49:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // the scoreboard now shows custom job names
+Tue Oct 16 01:49:44 2018	Valien (STEAM_0:1:41660292): // Ask me if im a tree
+Tue Oct 16 01:49:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job AFK
+Tue Oct 16 01:49:48 2018	Valien (STEAM_0:1:41660292): /job tree
+Tue Oct 16 01:49:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Tue Oct 16 01:50:06 2018	Valien (STEAM_0:1:41660292): /job Suicide Manager
+Tue Oct 16 01:50:16 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // recomended to get to rocket
+Tue Oct 16 01:50:29 2018	Valien (STEAM_0:1:41660292): // omw
+Tue Oct 16 01:50:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im at the shelter
+Tue Oct 16 01:50:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im getting off after this
+Tue Oct 16 01:50:40 2018	Valien (STEAM_0:1:41660292): // !bring
+Tue Oct 16 01:50:44 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // im making weapons
+Tue Oct 16 01:50:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im gonna clear inventories soon
+Tue Oct 16 01:51:05 2018	Valien (STEAM_0:1:41660292): /setmoney
+Tue Oct 16 01:51:09 2018	Valien (STEAM_0:1:41660292): /setcash
+Tue Oct 16 01:51:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // since dave abused a glitch made during that temp. pickup dead peoples items gltich sunday
+Tue Oct 16 01:51:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // using it to get 2x speed as any job
+Tue Oct 16 01:51:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // by spawning in a frying pan and taking it back
+Tue Oct 16 01:51:47 2018	DogoDankExpressAirline (STEAM_0:1:114863335): OUT
+Tue Oct 16 01:53:04 2018	Valien (STEAM_0:1:41660292): // lemme get pushed
+Tue Oct 16 01:53:16 2018	DogoDankExpressAirline (STEAM_0:1:114863335): oh
+Tue Oct 16 01:53:37 2018	DogoDankExpressAirline (STEAM_0:1:114863335): // HHAHA
+Tue Oct 16 01:53:40 2018	Valien (STEAM_0:1:41660292): !goto fat
+Tue Oct 16 01:54:03 2018	DogoDankExpressAirline was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Tue Oct 16 01:54:06 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:54:25 2018	DogoDankExpressAirline (STEAM_0:1:114863335): /pm fat where the blast shelter
+Tue Oct 16 01:54:28 2018	DogoDankExpressAirline was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Tue Oct 16 01:54:37 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:54:40 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct 16 01:54:40 2018	Valien was killed by Himself with a suicide trick
+Tue Oct 16 01:54:40 2018	DogoDankExpressAirline was killed by Himself with a suicide trick
+Tue Oct 16 01:54:43 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:55:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 01:55:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok im gonna go work on the bot for the rest of the night
+Tue Oct 16 01:55:19 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:56:28 2018	Valien (STEAM_0:1:41660292) spawned
+Tue Oct 16 01:57:04 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:58:33 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:59:02 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 01:59:04 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:59:16 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 01:59:17 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:59:37 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 01:59:38 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 01:59:51 2018	DogoDankExpressAirline was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct 16 01:59:53 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 02:01:10 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 02:01:12 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 02:01:24 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 02:01:25 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 02:02:08 2018	DogoDankExpressAirline was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct 16 02:02:09 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 02:02:20 2018	DogoDankExpressAirline was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 02:02:21 2018	DogoDankExpressAirline (STEAM_0:1:114863335) spawned
+Tue Oct 16 02:02:56 2018	DogoDankExpressAirline (STEAM_0:1:114863335) disconnected
+Tue Oct 16 02:10:01 2018	Valien (STEAM_0:1:41660292) disconnected

@@ -1,0 +1,23 @@
+[05:05:32] New map: rp_powerplant_v2b2
+
+
+
+[17:01:48] New map: rp_powerplant_v2b2
+
+
+
+[17:18:52] New map: rp_powerplant_v2b2
+[17:19:25] Client "[Opi] Fat Gay" connected.
+[17:21:09] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 104 seconds).
+[17:23:00] Fat Gay: !motd
+[17:54:33] Client "Bot01" connected.
+[17:54:33] Client "Bot01" spawned in server <BOT> (took 2212 seconds).
+[18:00:03] Fat Gay suicided!
+[18:39:13] Fat Gay suicided!
+
+
+
+[19:00:55] New map: rp_powerplant_v2b2
+[19:10:51] Client "[Opi] Fat Gay" connected.
+[19:11:45] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 54 seconds).
+[19:34:20] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

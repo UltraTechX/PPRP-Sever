@@ -1,0 +1,23 @@
+Sat Jun 30 13:18:52 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 30 13:18:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:19:08 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Jun 30 13:19:08 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:19:57 2018	Fat Gay (STEAM_0:1:218173703): !fdance
+Sat Jun 30 13:20:02 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sat Jun 30 13:24:36 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Jun 30 13:25:48 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 30 13:25:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:26:05 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Jun 30 13:37:58 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 30 13:37:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:39:55 2018	Emmett was killed by Entity [2073][tierp_printer] with a tierp_printer
+Sat Jun 30 13:39:58 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:40:05 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_large
+Sat Jun 30 13:40:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_small
+Sat Jun 30 13:42:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_large
+Sat Jun 30 13:42:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_large
+Sat Jun 30 13:42:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_large
+Sat Jun 30 13:42:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ent_metal_detector_large
+Sat Jun 30 13:43:12 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:43:35 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Jun 30 13:43:35 2018	Emmett (STEAM_0:1:41660292) spawned

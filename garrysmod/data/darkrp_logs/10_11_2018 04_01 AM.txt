@@ -1,0 +1,91 @@
+Thu Oct 11 04:01:24 2018	Tello (STEAM_0:0:74320577) has joined the game
+Thu Oct 11 04:01:25 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 04:01:30 2018	Tigroon (STEAM_0:0:40127246) has joined the game
+Thu Oct 11 04:01:30 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 04:01:36 2018	[TVR]rkholcomb (STEAM_0:0:57943747) has joined the game
+Thu Oct 11 04:01:37 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 04:01:38 2018	Gumpo Mumpo (STEAM_0:1:53547966) has joined the game
+Thu Oct 11 04:01:38 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 04:01:38 2018	Power Pete (STEAM_0:0:26019050) has joined the game
+Thu Oct 11 04:01:38 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 04:01:52 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 04:01:53 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 04:01:53 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:02:11 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 04:02:20 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 04:02:26 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 04:02:28 2018	TimPai (STEAM_0:0:53526522) has joined the game
+Thu Oct 11 04:02:28 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 04:02:42 2018	[PR]Rebel (STEAM_0:1:121310734) has joined the game
+Thu Oct 11 04:02:42 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 04:02:44 2018	Gumpo Mumpo (STEAM_0:1:53547966): !store
+Thu Oct 11 04:02:55 2018	TimPai was killed by Gumpo Mumpo with a cw_m1911
+Thu Oct 11 04:03:05 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 04:03:11 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 04:03:13 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 04:03:16 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 04:03:16 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 04:03:24 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 04:03:24 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 04:03:25 2018	Corvus Clemmons was killed by Power Pete with a cw_l115
+Thu Oct 11 04:03:32 2018	Spicy Wing was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 04:03:32 2018	John doe was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 04:03:32 2018	Sammy Boom was killed by TimPai with a fas2_thrown_m67
+Thu Oct 11 04:03:34 2018	Corvus Clemmons (STEAM_0:1:121310734) disconnected
+Thu Oct 11 04:03:50 2018	[TVR]rkholcomb (STEAM_0:0:57943747) disconnected
+Thu Oct 11 04:03:52 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:03:53 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 04:03:56 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 04:03:56 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:04:06 2018	Spicy Wing (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 04:04:06 2018	Okofos (STEAM_0:0:207625889) has joined the game
+Thu Oct 11 04:04:06 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 04:04:18 2018	Sammy Boom (STEAM_0:0:91181601): // sorry I crashed :D
+Thu Oct 11 04:04:21 2018	Gumpo Mumpo (STEAM_0:1:53547966): // :D
+Thu Oct 11 04:04:24 2018	Sammy Boom (STEAM_0:0:91181601): // :DD
+Thu Oct 11 04:04:48 2018	TimPai (STEAM_0:0:53526522) disconnected
+Thu Oct 11 04:05:21 2018	Spicy Wing (STEAM_0:0:176415266): /pm Tello I'm coming over there.
+Thu Oct 11 04:05:25 2018	Sammy Boom (STEAM_0:0:91181601): heyo spacy wangs
+Thu Oct 11 04:05:38 2018	Tello was killed by Tigroon with a cw_scarh
+Thu Oct 11 04:05:39 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 04:05:41 2018	Sammy Boom (STEAM_0:0:91181601): ?
+Thu Oct 11 04:05:45 2018	Sammy Boom (STEAM_0:0:91181601): smoke
+Thu Oct 11 04:05:53 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 04:06:06 2018	Sammy Boom (STEAM_0:0:91181601): // nein
+Thu Oct 11 04:06:06 2018	Tello (STEAM_0:0:74320577) spawned
+Thu Oct 11 04:06:20 2018	Sid (STEAM_0:0:178121022) has joined the game
+Thu Oct 11 04:06:20 2018	Sid (STEAM_0:0:178121022) spawned
+Thu Oct 11 04:06:20 2018	Spicy Wing (STEAM_0:0:176415266): /ooc We're Seal team 6 all over again.
+Thu Oct 11 04:06:26 2018	Sammy Boom (STEAM_0:0:91181601): !party
+Thu Oct 11 04:06:26 2018	Sammy Boom (STEAM_0:0:91181601): aw
+Thu Oct 11 04:06:29 2018	Sammy Boom (STEAM_0:0:91181601): they should add that
+Thu Oct 11 04:06:33 2018	Sammy Boom (STEAM_0:0:91181601): Hell yea
+Thu Oct 11 04:06:36 2018	Sammy Boom (STEAM_0:0:91181601): /job Seal Team 7
+Thu Oct 11 04:06:45 2018	Spicy Wing (STEAM_0:0:176415266) disconnected
+Thu Oct 11 04:06:51 2018	Sammy Boom (STEAM_0:0:91181601): // oof he also crashed
+Thu Oct 11 04:07:01 2018	Tigroon was killed by Gumpo Mumpo with a cw_g36c
+Thu Oct 11 04:07:05 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 04:07:08 2018	Gumpo Mumpo (STEAM_0:1:53547966): // ladies and gentlemen
+Thu Oct 11 04:07:09 2018	Sid (STEAM_0:0:178121022) spawned
+Thu Oct 11 04:07:10 2018	Gumpo Mumpo (STEAM_0:1:53547966): // we got him
+Thu Oct 11 04:07:13 2018	TimPai (STEAM_0:0:53526522) has joined the game
+Thu Oct 11 04:07:13 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 04:07:15 2018	Tello (STEAM_0:0:74320577): // hes dead?
+Thu Oct 11 04:07:20 2018	Gumpo Mumpo (STEAM_0:1:53547966): // yes
+Thu Oct 11 04:07:25 2018	Tigroon (STEAM_0:0:40127246): Not much. Ready to reap some shit?
+Thu Oct 11 04:07:27 2018	Tigroon (STEAM_0:0:40127246): Load up on ammo.
+Thu Oct 11 04:07:46 2018	Sid (STEAM_0:0:178121022): can we kos?
+Thu Oct 11 04:07:47 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 04:07:52 2018	Tigroon (STEAM_0:0:40127246): Yup
+Thu Oct 11 04:08:24 2018	Sammy Boom was killed by Sid with a cw_shorty
+Thu Oct 11 04:08:25 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 04:08:31 2018	Sammy Boom (STEAM_0:0:91181601): // mfw gun no shooty
+Thu Oct 11 04:08:33 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 04:08:55 2018	Tello (STEAM_0:0:74320577): // cool the core!
+Thu Oct 11 04:08:56 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 04:08:56 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:09:15 2018	Sammy Boom (STEAM_0:0:91181601): /y hi
+Thu Oct 11 04:09:19 2018	Okofos (STEAM_0:0:207625889): /ooc damn that core kinda hot no homo
+Thu Oct 11 04:09:31 2018	Tigroon (STEAM_0:0:40127246): Taking the admin office up top.
+Thu Oct 11 04:09:50 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Seal team 6 part 2
+Thu Oct 11 04:09:56 2018	Spicy Wing (STEAM_0:0:176415266) spawned

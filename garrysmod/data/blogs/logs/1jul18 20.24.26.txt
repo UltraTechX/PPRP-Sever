@@ -1,0 +1,215 @@
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:24:26 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:24:29 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:24:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:24:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:24:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:24:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:24:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:24:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % picked up a Scripted Weapon (fas2_m67)
+[Sun Jul  1 20:25:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:25:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % was damaged for 91 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sun Jul  1 20:25:07 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % was killed by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sun Jul  1 20:25:07 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 20 damage
+[Sun Jul  1 20:25:07 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx adduserid BOT PACUser"
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:07 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:08 2018] Connects/Disconnects: Bot01 (BOT) connected from a:24:{s:17:"geoplugin_request";s:12:"108.2.221.98";s:16:"geoplugin_status";i:200;s:15:"geoplugin_delay";s:3:"2ms";s:16:"geoplugin_credit";s:145:"Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\'http://www.maxmind.com\'>http://www.maxmind.com</a>.";s:14:"geoplugin_city";s:12:"Collegeville";s:16:"geoplugin_region";s:12:"Pennsylvania";s:20:"geoplugin_regionCode";s:2:"PA";s:20:"geoplugin_regionName";s:12:"Pennsylvania";s:18:"geoplugin_areaCode";s:0:"";s:17:"geoplugin_dmaCode";s:3:"504";s:21:"geoplugin_countryCode";s:2:"US";s:21:"geoplugin_countryName";s:13:"United States";s:14:"geoplugin_inEU";i:0;s:19:"geoplugin_euVATrate";b:0;s:23:"geoplugin_continentCode";s:2:"NA";s:23:"geoplugin_continentName";s:13:"North America";s:18:"geoplugin_latitude";s:7:"40.1879";s:19:"geoplugin_longitude";s:8:"-75.4254";s:32:"geoplugin_locationAccuracyRadius";s:1:"5";s:18:"geoplugin_timezone";s:16:"America/New_York";s:22:"geoplugin_currencyCode";s:3:"USD";s:24:"geoplugin_currencySymbol";s:5:"&#36;";s:29:"geoplugin_currencySymbol_UTF8";s:1:"$";s:27:"geoplugin_currencyConverter";s:1:"1";}
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:09 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:25:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:17 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 31 damage
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:17 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:25:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:25:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:40 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 8 damage
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:40 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:25:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:45 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % was damaged for 28 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sun Jul  1 20:25:51 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % was killed by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sun Jul  1 20:25:51 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 26 damage
+[Sun Jul  1 20:25:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:25:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:58 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % killed themself
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:58 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:25:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:26:00 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: !simplac
+[Sun Jul  1 20:26:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:26:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:26:12 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: !menu
+[Sun Jul  1 20:26:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:26:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:26:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:26:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:26:28 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:26:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:26:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:26:41 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: !menu
+[Sun Jul  1 20:26:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:26:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:26:45 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_keypadchecker) (Visitor) %: /votedirector
+[Sun Jul  1 20:26:55 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % picked up a Scripted Weapon (fas2_m67)
+[Sun Jul  1 20:26:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:26:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:26:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % was damaged for 84 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sun Jul  1 20:26:59 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 24 damage
+[Sun Jul  1 20:26:59 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % was killed by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sun Jul  1 20:26:59 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 47 damage
+[Sun Jul  1 20:27:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:27:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:27:05 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Plant Director) % changed job from Visitor
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a weapon_physcannon
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Pocket (pocket)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (arrest_stick)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (stunstick)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a weapon_physgun
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (door_ram)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (unarrest_stick)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (cw_deagle)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:27:05 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:27:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:27:14 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: !simplac
+[Sun Jul  1 20:27:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:27:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:27:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:27:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Scripted Weapon (keys)
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a weapon_physgun
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Pocket (pocket)
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (itemstore_pickup) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a weapon_physcannon
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sun Jul  1 20:27:29 2018] Weapon Pickups: %Bot01 (BOT) (90071996842377216) (PACUser) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sun Jul  1 20:27:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:27:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:27:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:27:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:27:45 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % picked up a Scripted Weapon (fas2_m3s90)
+[Sun Jul  1 20:27:55 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Plant Director) % spawned NPC "npc_breen"
+[Sun Jul  1 20:27:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:27:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:28:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:28:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:28:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:28:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:28:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:28:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:28:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:28:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:28:44 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (stunstick) (Plant Director) % was damaged by falldamage or crushing for 37 damage
+[Sun Jul  1 20:28:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:28:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:28:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:28:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:29:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:29:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:29:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:29:15 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:29:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:29:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:29:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:29:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sun Jul  1 20:29:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sun Jul  1 20:29:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"

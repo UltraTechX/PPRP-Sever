@@ -1,0 +1,304 @@
+Sun Jul  8 16:33:11 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  8 16:33:12 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 16:33:55 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jul  8 16:33:55 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 16:46:03 2018	Bot01 (BOT) has joined the game
+Sun Jul  8 16:46:03 2018	Bot01 (BOT) spawned
+Sun Jul  8 16:46:08 2018	Fat Gay was killed by Emmett with a weapon_sillyzombieclaw_v2
+Sun Jul  8 16:46:08 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 16:46:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 16:46:38 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:00:26 2018	Fat Gay was killed by Entity [559][zmlab_combiner] with a zmlab_combiner
+Sun Jul  8 17:00:26 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:00:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:00:56 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:03:51 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:04:25 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Jul  8 17:04:25 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:04:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:04:30 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:04:55 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:05:28 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:06:00 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:07:17 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul  8 17:07:17 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:07:18 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:07:20 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:07:21 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul  8 17:07:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:07:47 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:07:48 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:10:08 2018	Emmett was killed by Entity [1677][trigger_hurt] with a trigger_hurt
+Sun Jul  8 17:10:08 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:10:09 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:10:13 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:10:38 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:13:20 2018	Emmett (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Sun Jul  8 17:13:29 2018	Emmett (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Sun Jul  8 17:15:30 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:15:30 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:15:40 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:15:46 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:15:46 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:15:46 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:15:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:15:54 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:15:54 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:16:13 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:16:16 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:16:19 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:16:19 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:16:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:16:22 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:16:49 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:16:55 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:16:55 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:16:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:17:12 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:17:14 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:17:14 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:17:14 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:17:15 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:17:16 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:17:19 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:17:23 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:17:27 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:17:33 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:17:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:17:43 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:17:48 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:17:53 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jul  8 17:18:02 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:18:02 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:18:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:18:21 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:18:21 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:18:21 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:18:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:18:51 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:21:41 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:21:41 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:21:49 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:22:11 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:22:52 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:22:52 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:23:04 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:23:19 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:23:19 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:23:19 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:23:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:23:22 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:23:49 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:24:33 2018	Emmett (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Sun Jul  8 17:25:30 2018	Fat Gay was killed by Emmett with a weapon_pumpshotgun2
+Sun Jul  8 17:25:30 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:25:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:26:00 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:27:09 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:27:09 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:27:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:27:14 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:27:17 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:27:32 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:27:32 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:27:32 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:27:42 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:28:02 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:28:20 2018	Emmett was killed by Fat Gay with a weapon_ak472
+Sun Jul  8 17:28:20 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:28:25 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:28:35 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:28:50 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:29:05 2018	Emmett was killed by Fat Gay with a weapon_ak472
+Sun Jul  8 17:29:05 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:29:09 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:29:15 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:29:16 2018	Emmett was killed by Fat Gay with a weapon_ak472
+Sun Jul  8 17:29:16 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:29:23 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:29:31 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:29:31 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:29:31 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:29:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:30:01 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:30:17 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:30:17 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:30:21 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:30:31 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:30:31 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:30:31 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:30:36 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:30:41 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:30:41 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:30:41 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:30:47 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:30:51 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:31:00 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:31:00 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:31:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:31:30 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:31:52 2018	Fat Gay was killed by Entity [1561][entityflame] with a entityflame
+Sun Jul  8 17:31:52 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:31:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:32:04 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:32:10 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:32:10 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sun Jul  8 17:32:10 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:32:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:32:13 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:32:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sun Jul  8 17:32:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sun Jul  8 17:32:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sun Jul  8 17:32:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sun Jul  8 17:32:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sun Jul  8 17:32:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sun Jul  8 17:32:40 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:32:46 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:32:46 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:32:46 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:32:46 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:32:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:32:51 2018	Fat Gay (STEAM_0:1:218173703): !goot em
+Sun Jul  8 17:32:53 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 17:32:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:32:59 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:32:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:33:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:33:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Jul  8 17:33:00 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:33:01 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:07 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:33:08 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:33:08 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:33:12 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:16 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:33:16 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:33:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:33:18 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:25 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:33:25 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:33:26 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:26 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:33:32 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:33:32 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:33:32 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:33:33 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:38 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:33:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:43 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:33:43 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:33:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:33:44 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:48 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:33:48 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:33:50 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:33:51 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:33:52 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:33:55 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:34:02 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:34:03 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:34:03 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:34:03 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:34:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:34:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:34:22 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:34:22 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:34:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:34:25 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:34:33 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:34:35 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:34:35 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:34:37 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:34:43 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:34:46 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:34:46 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:34:49 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:34:56 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:34:57 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:34:57 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:34:57 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:35:06 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:35:07 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:35:13 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:35:14 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 17:35:14 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:35:15 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:35:31 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 17:35:31 2018	Emmett was killed by Fat Gay with a env_explosion
+Sun Jul  8 17:35:33 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:35:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:35:45 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:35:49 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 17:35:49 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:35:49 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:35:50 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:35:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:35:55 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 17:35:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:35:58 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:36:00 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:36:05 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:36:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:36:09 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 17:36:11 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:36:12 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:36:14 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:36:18 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 17:36:19 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:36:19 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:36:29 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:36:29 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:36:29 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:36:29 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:36:32 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:36:38 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:36:42 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:36:55 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:36:55 2018	Fat Gay was killed by Emmett with a env_explosion
+Sun Jul  8 17:36:57 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:36:59 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:36:59 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:36:59 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 17:37:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:37:29 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:37:52 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:37:52 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:37:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:37:57 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:37:58 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:38:22 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:42:16 2018	Fat Gay was killed by Emmett with a fas2_machete
+Sun Jul  8 17:42:16 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:42:23 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 17:42:24 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:42:33 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul  8 17:42:33 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:42:46 2018	Bot01 (BOT) spawned
+Sun Jul  8 17:42:46 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 17:42:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:43:16 2018	Bot01 (BOT) spawned

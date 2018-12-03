@@ -1,0 +1,1 @@
+{"Suggestion":{"Title":"Core destruction time cooldown","Text":"Change the time to 15 min to 30"},"ID":21.0,"VoteNo":[],"Status":"Implemented","Player":{"SteamID":"STEAM_0:1:86800123","Name":"DixBFloppin"},"Approved":{"Is":false,"SteamID":"","Name":""},"VoteYes":["STEAM_0:1:234721838","STEAM_0:1:218173703"]}

@@ -1,0 +1,113 @@
+[05:05:27] New map: rp_powerplant_v2b2
+[06:55:05] Client "[Opi] Fat Gay" connected.
+[06:57:06] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 121 seconds).
+[06:58:25] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ak74
+[06:59:11] Fat Gay was killed by sent_elegant_printer
+[07:00:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mp5
+[07:03:29] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_p99
+[07:09:12] Fat Gay: !menu
+
+
+
+[07:11:54] New map: rp_powerplant_v2b2
+[07:12:13] Client "[Opi] Fat Gay" connected.
+[07:13:21] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 68 seconds).
+[07:16:38] Fat Gay: !menu
+[07:16:45] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[07:18:19] New map: rp_powerplant_v2b2
+
+
+
+[18:03:07] New map: rp_powerplant_v2b2
+[18:03:09] Client "[Opi] Fat Gay" connected.
+[18:04:48] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 99 seconds).
+
+
+
+[18:13:53] New map: rp_powerplant_v2b2
+
+
+
+[18:16:28] New map: rp_powerplant_v2b2
+[18:16:50] Client "[Opi] Fat Gay" connected.
+[18:17:38] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+
+
+
+[18:27:57] New map: rp_powerplant_v2b2
+[18:28:02] Client "[Opi] Fat Gay" connected.
+[18:28:47] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 45 seconds).
+[19:02:05] Client "Bot01" connected.
+[19:02:05] Client "Bot01" spawned in server <BOT> (took 2112 seconds).
+[19:07:35] Fat Gay suicided!
+
+
+
+[19:27:35] New map: rp_powerplant_v2b2
+[19:27:57] Client "[Opi] Fat Gay" connected.
+[19:28:43] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+
+
+
+[19:37:19] New map: rp_powerplant_v2b2
+[19:37:40] Client "[Opi] Fat Gay" connected.
+[19:38:26] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+[19:59:37] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:26:19] Client "[Opi] Fat Gay" connected.
+[21:27:15] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+[21:27:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_pipewrench
+[21:27:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_shockrifle
+[21:27:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_shotgun
+[21:27:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_rpg
+[21:27:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_handgrenade
+[21:28:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_displacer
+[21:28:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_eagle
+[21:28:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_sporelauncher
+[21:28:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_sniperrifle
+[21:28:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_m249
+[21:28:25] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_pipewrench
+[21:28:30] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[21:28:31] Client "Bot01" connected.
+[21:28:31] Client "Bot01" spawned in server <BOT> (took 6735 seconds).
+[21:28:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[21:28:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[21:29:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_gut_case
+[21:29:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers_greyscaled
+[21:29:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_karambit_boreal
+[21:30:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet_case
+[21:32:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet_marblefade
+[21:32:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet_night
+[21:32:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet_slaughter
+[21:33:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet_ultraviolet
+[21:34:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_cssource
+[21:34:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_default_knife
+[21:34:45] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_falchion
+[21:34:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_default_t
+[21:34:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_default_t_golden
+[21:37:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9
+[21:37:33] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[21:37:37] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9
+[21:38:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers
+[21:40:03] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers_fade
+[21:40:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers_marblefade
+[21:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers_slaughter
+[21:41:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers_ultraviolet
+[21:41:24] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_daggers_ultraviolet
+[21:43:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bowie_crimsonwebs
+[21:44:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bowie_marblefade
+[21:44:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bowie_night
+[21:51:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_flip_ultraviolet
+[21:52:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_gut_bluesteel
+[21:54:47] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_huntsman_slaughter
+[21:54:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_huntsman_ultraviolet
+[21:58:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_ultraviolet
+[22:03:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_karambit_bluesteel
+[22:03:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_default_golden
+[22:03:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_default_t_golden
+[22:04:21] Fat Gay suicided!
+[22:43:31] Fat Gay suicided!
+[22:59:27] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:59:27] Dropped "Bot01" from server<BOT>

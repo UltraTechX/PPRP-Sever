@@ -1,0 +1,1 @@
+[{"Data":{"MethAmount":213.75},"Class":"zmlab_meth"},{"Data":{"MethAmount":213.75},"Class":"zmlab_meth"},{"Data":{"MethAmount":213.75},"Class":"zmlab_meth"},{"Data":{"MethAmount":213.75},"Class":"zmlab_meth"},{"Data":{"MethAmount":171.0},"Class":"zmlab_meth"},{"Data":{"Amount":1.0,"Ammo":0.0,"Model":"models/weapons/w_crowbar.mdl","Class":"lockpick"},"Class":"spawned_weapon"}]

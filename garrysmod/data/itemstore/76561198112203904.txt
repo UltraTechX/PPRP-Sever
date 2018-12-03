@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Ammo":-1.0,"Model":"models/weapons/w_357.mdl","Class":"laserpointer"},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Ammo":-1.0,"Model":"models/weapons/w_toolgun.mdl","Class":"weapon_cuff_standard"},"Class":"spawned_weapon"}]

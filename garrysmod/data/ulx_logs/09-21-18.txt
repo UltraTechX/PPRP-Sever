@@ -1,0 +1,2 @@
+[05:05:20] New map: rp_powerplant_v2b2
+<Logging continued in "data/ulx_logs/09-22-18.txt">

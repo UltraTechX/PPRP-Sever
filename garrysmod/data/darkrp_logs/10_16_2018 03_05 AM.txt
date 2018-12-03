@@ -1,0 +1,145 @@
+Tue Oct 16 03:05:13 2018	InVaLiD (STEAM_0:1:7448143) has joined the game
+Tue Oct 16 03:05:13 2018	InVaLiD (STEAM_0:1:7448143) spawned
+Tue Oct 16 03:05:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct 16 03:05:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:09:21 2018	InVaLiD (STEAM_0:1:7448143): // u trash
+Tue Oct 16 03:09:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // no you
+Tue Oct 16 03:09:28 2018	InVaLiD (STEAM_0:1:7448143): // no u
+Tue Oct 16 03:10:01 2018	InVaLiD (STEAM_0:1:7448143): // next time u restart can you warn me? i just wanna look around the map lol
+Tue Oct 16 03:11:36 2018	InVaLiD was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:11:39 2018	InVaLiD (STEAM_0:1:7448143) spawned
+Tue Oct 16 03:12:03 2018	InVaLiD (STEAM_0:1:7448143) spawned Vehicle prop_vehicle_prisoner_pod
+Tue Oct 16 03:14:02 2018	Sirro (STEAM_0:1:72140646) has joined the game
+Tue Oct 16 03:14:02 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:14:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // no
+Tue Oct 16 03:14:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i did here you though
+Tue Oct 16 03:14:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hear*
+Tue Oct 16 03:15:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // walk away from it, die, disconnect, or let the 30 seconds run out
+Tue Oct 16 03:15:23 2018	InVaLiD (STEAM_0:1:7448143): // kk
+Tue Oct 16 03:15:28 2018	Nid_Flindirz (STEAM_0:1:76037270) has joined the game
+Tue Oct 16 03:15:28 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:15:34 2018	InVaLiD (STEAM_0:1:7448143): // how new is this server?
+Tue Oct 16 03:15:42 2018	InVaLiD (STEAM_0:1:7448143): // OH DAMN ITS PIZZA DAY?
+Tue Oct 16 03:15:45 2018	Sirro (STEAM_0:1:72140646): // >meltdown, world exploding: I sleep
+Tue Oct 16 03:15:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // about 1.5 weeks old, opened not this saturday but the last one
+Tue Oct 16 03:15:54 2018	Sirro (STEAM_0:1:72140646): // >gets noclip: REAL SHIT?
+Tue Oct 16 03:15:57 2018	InVaLiD (STEAM_0:1:7448143): // DAMN
+Tue Oct 16 03:16:04 2018	InVaLiD (STEAM_0:1:7448143): // so new af then
+Tue Oct 16 03:16:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // zuthar is posting a vid tommorrow so well see how popular we get
+Tue Oct 16 03:16:30 2018	InVaLiD (STEAM_0:1:7448143): // how many players does this server get?
+Tue Oct 16 03:16:39 2018	Sirro (STEAM_0:1:72140646): // 20 million
+Tue Oct 16 03:16:43 2018	InVaLiD (STEAM_0:1:7448143): // sure
+Tue Oct 16 03:16:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // we has a peak of 18 today around 5-6 PM EST
+Tue Oct 16 03:16:45 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:17:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc we had 25-28 on saturday and sunday
+Tue Oct 16 03:17:11 2018	Sirro (STEAM_0:1:72140646): // How is virryi doing with the map
+Tue Oct 16 03:17:16 2018	InVaLiD (STEAM_0:1:7448143): // yeah weekends are always the best
+Tue Oct 16 03:17:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // first update tommorrow, i have my own things I wanna change tho
+Tue Oct 16 03:17:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and I have those anti-minge SCP door warns for the admins to add in
+Tue Oct 16 03:17:54 2018	InVaLiD (STEAM_0:1:7448143): // yeah
+Tue Oct 16 03:18:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // already made, just need to be linked in hammer with the logic relay
+Tue Oct 16 03:18:22 2018	Sirro (STEAM_0:1:72140646): // im a sand nigerian
+Tue Oct 16 03:18:22 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:18:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc nice
+Tue Oct 16 03:18:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:18:36 2018	InVaLiD (STEAM_0:1:7448143): // HOW DO I MAKE THIS THING EXPLODE?
+Tue Oct 16 03:18:36 2018	Sirro (STEAM_0:1:72140646): // im a gaint fucking turkey
+Tue Oct 16 03:18:42 2018	InVaLiD (STEAM_0:1:7448143): // I WANT EXPLOSIONS DAMNIT
+Tue Oct 16 03:18:46 2018	Nid_Flindirz (STEAM_0:1:76037270): // im an albino nigger
+Tue Oct 16 03:19:00 2018	Sirro was killed by [Opi] Fat Gay with a weapon_crowbar
+Tue Oct 16 03:19:01 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:19:11 2018	[Opi] Fat Gay was killed by Sirro with a weapon_crowbar
+Tue Oct 16 03:19:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:19:19 2018	Sirro was killed by [Opi] Fat Gay with a weapon_crowbar
+Tue Oct 16 03:19:20 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:19:55 2018	Sirro (STEAM_0:1:72140646): 
+Tue Oct 16 03:20:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): these things are hideous
+Tue Oct 16 03:20:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): thats why they are sand nigerians
+Tue Oct 16 03:20:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc if you want explosion invalid blow up the core
+Tue Oct 16 03:20:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Tue Oct 16 03:20:31 2018	InVaLiD (STEAM_0:1:7448143): // working on it
+Tue Oct 16 03:20:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): ok
+Tue Oct 16 03:20:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn fat RDM
+Tue Oct 16 03:20:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): oh
+Tue Oct 16 03:20:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): im unwarnable
+Tue Oct 16 03:20:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): sorry pal
+Tue Oct 16 03:20:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct 16 03:21:03 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:21:15 2018	Sirro (STEAM_0:1:72140646): /announce if you see this ur gay
+Tue Oct 16 03:21:20 2018	Sirro (STEAM_0:1:72140646): // that was a test
+Tue Oct 16 03:21:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // plant owner is plant director but on a whitelist (which admins bypass)
+Tue Oct 16 03:21:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // but for normal players its pretty much trusted director
+Tue Oct 16 03:21:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:21:39 2018	Sirro (STEAM_0:1:72140646): oi
+Tue Oct 16 03:21:55 2018	InVaLiD (STEAM_0:1:7448143): // 2000k its fine
+Tue Oct 16 03:22:16 2018	InVaLiD (STEAM_0:1:7448143): // oh?
+Tue Oct 16 03:22:58 2018	Sirro (STEAM_0:1:72140646): wyd
+Tue Oct 16 03:23:00 2018	Sirro (STEAM_0:1:72140646): a map clean?
+Tue Oct 16 03:23:12 2018	Sirro (STEAM_0:1:72140646): oh thats nice
+Tue Oct 16 03:23:12 2018	InVaLiD (STEAM_0:1:7448143): // no safety
+Tue Oct 16 03:23:16 2018	InVaLiD (STEAM_0:1:7448143): // safety bad
+Tue Oct 16 03:23:17 2018	Sirro (STEAM_0:1:72140646): a lot better than map restarts
+Tue Oct 16 03:24:02 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:24:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Tue Oct 16 03:27:18 2018	Sirro (STEAM_0:1:72140646): I wanna fucking die
+Tue Oct 16 03:27:36 2018	InVaLiD (STEAM_0:1:7448143) spawned Vehicle prop_vehicle_prisoner_pod
+Tue Oct 16 03:28:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring inv
+Tue Oct 16 03:28:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring sirr
+Tue Oct 16 03:28:12 2018	InVaLiD (STEAM_0:1:7448143) spawned Vehicle prop_vehicle_prisoner_pod
+Tue Oct 16 03:28:28 2018	Sirro (STEAM_0:1:72140646): wah
+Tue Oct 16 03:28:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Tue Oct 16 03:28:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Tue Oct 16 03:28:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Tue Oct 16 03:29:17 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 03:29:19 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:30:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Tue Oct 16 03:30:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:30:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto sirr
+Tue Oct 16 03:31:00 2018	Sirro (STEAM_0:1:72140646): choccy
+Tue Oct 16 03:32:15 2018	Sirro (STEAM_0:1:72140646): YEET
+Tue Oct 16 03:33:19 2018	InVaLiD (STEAM_0:1:7448143) spawned Vehicle prop_vehicle_prisoner_pod
+Tue Oct 16 03:33:20 2018	Sirro (STEAM_0:1:72140646): its just u and me
+Tue Oct 16 03:33:35 2018	Nid_Flindirz was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:33:39 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:33:44 2018	Nid_Flindirz was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:33:46 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:33:51 2018	Nid_Flindirz was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:33:52 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:33:57 2018	Nid_Flindirz was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:33:58 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:34:02 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:34:03 2018	Nid_Flindirz was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:34:07 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:34:09 2018	Sirro (STEAM_0:1:72140646): my desk stopped it
+Tue Oct 16 03:34:12 2018	Nid_Flindirz was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Tue Oct 16 03:34:12 2018	InVaLiD was killed by Himself with a suicide trick
+Tue Oct 16 03:34:12 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct 16 03:34:12 2018	Nid_Flindirz was killed by Himself with a suicide trick
+Tue Oct 16 03:34:12 2018	Sirro was killed by Himself with a suicide trick
+Tue Oct 16 03:34:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:34:16 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:34:16 2018	InVaLiD (STEAM_0:1:7448143) spawned
+Tue Oct 16 03:34:17 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:34:31 2018	Sirro (STEAM_0:1:72140646): was trhat the vfire I saw
+Tue Oct 16 03:35:03 2018	InVaLiD was killed by [Opi] Fat Gay with a weapon_l4d2_shotgun_spas
+Tue Oct 16 03:35:07 2018	InVaLiD (STEAM_0:1:7448143) spawned
+Tue Oct 16 03:35:20 2018	Sirro (STEAM_0:1:72140646): do u want my arrest reason thing
+Tue Oct 16 03:35:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct 16 03:35:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct 16 03:35:38 2018	Sirro (STEAM_0:1:72140646): /wanted gay fag
+Tue Oct 16 03:35:45 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:35:53 2018	Sirro (STEAM_0:1:72140646): /wanted fat stole my cheerios
+Tue Oct 16 03:35:53 2018	Sirro has made [Opi] Fat Gay wanted, reason: stole my cheerios
+Tue Oct 16 03:36:38 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 03:36:40 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 03:36:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 16 03:36:43 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Tue Oct 16 03:37:14 2018	Sirro (STEAM_0:1:72140646): // IDEAW
+Tue Oct 16 03:37:37 2018	Sirro was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 16 03:37:48 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Oct 16 03:37:53 2018	[Opi] Fat Gay is no longer wanted by the Police.
+Tue Oct 16 03:38:02 2018	Sirro (STEAM_0:1:72140646) disconnected
+Tue Oct 16 03:39:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Tue Oct 16 03:39:55 2018	Nid_Flindirz (STEAM_0:1:76037270) disconnected
+Tue Oct 16 03:44:48 2018	InVaLiD (STEAM_0:1:7448143): 
+Tue Oct 16 03:45:02 2018	InVaLiD (STEAM_0:1:7448143) disconnected

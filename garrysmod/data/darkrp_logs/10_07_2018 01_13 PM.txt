@@ -1,0 +1,157 @@
+Sun Oct  7 13:13:04 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 13:13:05 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 13:22:35 2018	Pootis Bird (STEAM_0:0:22086175): !motd
+Sun Oct  7 13:22:53 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 13:22:53 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:28:39 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:29:36 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:39:42 2018	The Kettle (STEAM_0:0:86812760): !motd
+Sun Oct  7 13:49:20 2018	The Kettle (STEAM_0:0:86812760): 
+Sun Oct  7 13:49:43 2018	Crystal (STEAM_0:1:61393244) has joined the game
+Sun Oct  7 13:49:43 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 13:51:57 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 13:53:23 2018	The Kettle was killed by Crystal with a cw_g3a3
+Sun Oct  7 13:53:25 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:54:27 2018	The Kettle was killed by Crystal with a cw_m3super90
+Sun Oct  7 13:54:28 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:54:47 2018	The Kettle was killed by Crystal with a cw_m3super90
+Sun Oct  7 13:54:48 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:55:01 2018	The Kettle was killed by Crystal with a cw_m3super90
+Sun Oct  7 13:55:02 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:55:11 2018	The Kettle was killed by Crystal with a cw_m3super90
+Sun Oct  7 13:55:12 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:56:20 2018	Virryi (STEAM_0:1:82934475) has joined the game
+Sun Oct  7 13:56:20 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 13:56:22 2018	The Kettle was killed by Crystal with a fas2_thrown_m67
+Sun Oct  7 13:56:23 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:56:33 2018	Majorelle (STEAM_0:1:44240446) has joined the game
+Sun Oct  7 13:56:33 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 13:56:48 2018	The Kettle was killed by Crystal with a fas2_thrown_m67
+Sun Oct  7 13:56:49 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:57:54 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 13:58:04 2018	The Kettle was killed by Crystal with a fas2_dv2
+Sun Oct  7 13:58:06 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:58:54 2018	The Kettle (STEAM_0:0:86812760): how
+Sun Oct  7 13:59:00 2018	Crystal was killed by The Kettle with a cw_fiveseven
+Sun Oct  7 13:59:04 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 13:59:38 2018	The Kettle was killed by Majorelle with a cw_m3super90
+Sun Oct  7 13:59:40 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 13:59:55 2018	The Kettle was killed by Majorelle with a cw_m3super90
+Sun Oct  7 13:59:56 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:00:04 2018	The Kettle was killed by Majorelle with a cw_g36c
+Sun Oct  7 14:00:05 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:00:12 2018	The Kettle was killed by Crystal with a cw_m3super90
+Sun Oct  7 14:00:13 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:00:25 2018	Majorelle was killed by Crystal with a cw_g3a3
+Sun Oct  7 14:00:26 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:00:29 2018	The Kettle was killed by Crystal with a cw_g3a3
+Sun Oct  7 14:00:30 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:00:40 2018	The Kettle was killed by Crystal with a cw_g3a3
+Sun Oct  7 14:00:41 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:00:49 2018	The Kettle was killed by Crystal with a cw_g3a3
+Sun Oct  7 14:00:50 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:02:51 2018	Majorelle was killed by Crystal with a cw_m1911
+Sun Oct  7 14:02:52 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:02:56 2018	Virryi (STEAM_0:1:82934475): // g'day boiz
+Sun Oct  7 14:02:58 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:03:01 2018	Virryi was killed by Majorelle with a cw_g36c
+Sun Oct  7 14:03:05 2018	Virryi (STEAM_0:1:82934475): // oof
+Sun Oct  7 14:03:06 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:03:21 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:03:27 2018	Virryi (STEAM_0:1:82934475): // C O R R U P T I O N
+Sun Oct  7 14:03:43 2018	Virryi (STEAM_0:1:82934475): // lmao
+Sun Oct  7 14:03:44 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:03:55 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:04:05 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 14:04:20 2018	Virryi (STEAM_0:1:82934475): let's go
+Sun Oct  7 14:04:37 2018	The Kettle (STEAM_0:0:86812760): in cant run :(
+Sun Oct  7 14:04:40 2018	Virryi (STEAM_0:1:82934475): we're gonna explode
+Sun Oct  7 14:05:45 2018	Virryi (STEAM_0:1:82934475): // this is art
+Sun Oct  7 14:06:35 2018	Crystal was killed by Majorelle with a cw_g36c
+Sun Oct  7 14:06:37 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:06:39 2018	Virryi was killed by Himself with a suicide trick
+Sun Oct  7 14:06:49 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:06:51 2018	Virryi (STEAM_0:1:82934475): // >explodes >payday you received 50$
+Sun Oct  7 14:06:53 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:07:11 2018	The Kettle (STEAM_0:0:86812760): fuck it time for a meltdown
+Sun Oct  7 14:07:19 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 14:07:19 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 14:07:26 2018	Crystal (STEAM_0:1:61393244): /logs
+Sun Oct  7 14:07:33 2018	Virryi (STEAM_0:1:82934475): // alright guys who wants to go to the human blender
+Sun Oct  7 14:07:46 2018	Virryi was killed by Entity [2889][func_rotating] with a func_rotating
+Sun Oct  7 14:07:49 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:08:04 2018	Majorelle was killed by Himself with a suicide trick
+Sun Oct  7 14:08:08 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:08:13 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:08:25 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 14:08:28 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:10:24 2018	Virryi (STEAM_0:1:82934475): // The fact I can become quite literally osama is hilarious.
+Sun Oct  7 14:11:24 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:11:27 2018	Virryi (STEAM_0:1:82934475): // ah yes
+Sun Oct  7 14:11:30 2018	Virryi (STEAM_0:1:82934475): /advert cucks
+Sun Oct  7 14:12:50 2018	Virryi (STEAM_0:1:82934475): noo
+Sun Oct  7 14:12:52 2018	Virryi (STEAM_0:1:82934475): noo
+Sun Oct  7 14:12:54 2018	Virryi (STEAM_0:1:82934475): daddy
+Sun Oct  7 14:13:01 2018	Virryi (STEAM_0:1:82934475): i surrender
+Sun Oct  7 14:13:03 2018	Virryi (STEAM_0:1:82934475): take uh
+Sun Oct  7 14:13:06 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 14:13:21 2018	Virryi (STEAM_0:1:82934475): I'm fucked
+Sun Oct  7 14:13:29 2018	The Kettle (STEAM_0:0:86812760): yep
+Sun Oct  7 14:13:41 2018	Virryi (STEAM_0:1:82934475): wait
+Sun Oct  7 14:13:46 2018	Virryi (STEAM_0:1:82934475): lemme crank up the mouse sensitivity
+Sun Oct  7 14:13:51 2018	Majorelle was killed by Entity [5026][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 14:13:51 2018	Crystal was killed by Entity [5026][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 14:13:54 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:13:56 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:14:04 2018	Virryi (STEAM_0:1:82934475): the fan is off
+Sun Oct  7 14:14:46 2018	Virryi (STEAM_0:1:82934475): ye
+Sun Oct  7 14:14:49 2018	Virryi (STEAM_0:1:82934475): I know.
+Sun Oct  7 14:15:20 2018	The Kettle (STEAM_0:0:86812760): ATTENTION I HAVE TAKEN THE DIRECTOR AS A HOSTAGE. I WANT "MIIL IN % MINS OR HE DIES
+Sun Oct  7 14:15:49 2018	The Kettle (STEAM_0:0:86812760): // *5mill in 10 mins
+Sun Oct  7 14:16:21 2018	Virryi (STEAM_0:1:82934475): oh well
+Sun Oct  7 14:16:26 2018	Virryi (STEAM_0:1:82934475): i'm even more fucked now
+Sun Oct  7 14:16:29 2018	Crystal (STEAM_0:1:61393244): /holster
+Sun Oct  7 14:16:30 2018	Crystal (STEAM_0:1:61393244): /drop
+Sun Oct  7 14:20:00 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Sun Oct  7 14:20:59 2018	Virryi was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:21:01 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:21:49 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 14:21:49 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 14:22:51 2018	Virryi (STEAM_0:1:82934475): hi daddy
+Sun Oct  7 14:23:02 2018	Pootis Bird (STEAM_0:0:22086175): Sup
+Sun Oct  7 14:23:06 2018	Virryi (STEAM_0:1:82934475): Oh well.
+Sun Oct  7 14:23:08 2018	Virryi (STEAM_0:1:82934475): Rest in peace.
+Sun Oct  7 14:23:37 2018	Virryi (STEAM_0:1:82934475): we are all about to die uh
+Sun Oct  7 14:23:39 2018	Benedict (STEAM_0:1:177305291) has joined the game
+Sun Oct  7 14:23:39 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 14:23:59 2018	Virryi (STEAM_0:1:82934475): Tell my wife I hated her.
+Sun Oct  7 14:24:12 2018	Pootis Bird (STEAM_0:0:22086175): You know we are safe in this room.
+Sun Oct  7 14:24:15 2018	Virryi (STEAM_0:1:82934475): True
+Sun Oct  7 14:24:18 2018	The Kettle (STEAM_0:0:86812760): // and htats how you cause a meltdown
+Sun Oct  7 14:24:26 2018	Majorelle (STEAM_0:1:44240446): // wasnt me i swear
+Sun Oct  7 14:24:28 2018	The Kettle (STEAM_0:0:86812760): // and escape
+Sun Oct  7 14:24:35 2018	Virryi (STEAM_0:1:82934475): This is so sad.
+Sun Oct  7 14:24:45 2018	Mike (STEAM_0:1:41660292): // Theres also a blast shelter at the spawn
+Sun Oct  7 14:24:51 2018	Virryi (STEAM_0:1:82934475): // yeet
+Sun Oct  7 14:25:00 2018	Virryi (STEAM_0:1:82934475): g'day
+Sun Oct  7 14:25:12 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 14:25:14 2018	The Kettle (STEAM_0:0:86812760): // why would you watch it from there when you can watch it from space
+Sun Oct  7 14:25:14 2018	Virryi (STEAM_0:1:82934475): Amazing
+Sun Oct  7 14:25:21 2018	Virryi (STEAM_0:1:82934475): // Oofio
+Sun Oct  7 14:25:25 2018	Mike (STEAM_0:1:41660292): // Good point
+Sun Oct  7 14:25:29 2018	Pootis Bird (STEAM_0:0:22086175): Awww boy
+Sun Oct  7 14:25:38 2018	Majorelle was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:25:38 2018	Crystal was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:25:41 2018	Majorelle (STEAM_0:1:44240446) spawned
+Sun Oct  7 14:25:41 2018	Virryi (STEAM_0:1:82934475): // it sure is great to have a party in the blast shelter
+Sun Oct  7 14:25:43 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:25:45 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 14:25:45 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 14:25:58 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:26:03 2018	Crystal was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:26:03 2018	Majorelle was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:26:03 2018	AIO l Mine_Turtle was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:26:05 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:26:10 2018	Crystal was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:26:11 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:26:15 2018	The Kettle (STEAM_0:0:86812760): // see yal soon

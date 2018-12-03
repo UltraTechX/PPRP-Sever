@@ -1,0 +1,72 @@
+Thu Oct 11 16:18:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 16:18:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 16:22:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Thu Oct 11 16:26:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 16:26:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 16:41:53 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Thu Oct 11 16:41:53 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 16:44:11 2018	HOS Dimension (STEAM_0:1:111567013): !suggest
+Thu Oct 11 16:44:16 2018	HOS Dimension (STEAM_0:1:111567013): !suggestion
+Thu Oct 11 16:44:19 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 16:44:31 2018	HOS Dimension (STEAM_0:1:111567013): !suggestions
+Thu Oct 11 16:44:45 2018	HOS Dimension (STEAM_0:1:111567013): /nick Director Dimension
+Thu Oct 11 16:57:43 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Thu Oct 11 16:57:43 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 16:58:01 2018	Director Dimension (STEAM_0:1:111567013): // Hello.
+Thu Oct 11 17:02:37 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Thu Oct 11 17:05:19 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Thu Oct 11 17:05:19 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 17:06:33 2018	Director Dimension (STEAM_0:1:111567013) disconnected
+Thu Oct 11 17:08:53 2018	Dave Letcher (STEAM_0:1:52038966): /Me Strips of all Weapons,Communication Devices,Methods of Suicide,Binds hands,gags, drags binds
+Thu Oct 11 17:09:10 2018	Dave Letcher (STEAM_0:1:52038966): /Me Strips of all Weapons,Communication Devices,Methods of Suicide,Binds hands,gags, drags binds
+Thu Oct 11 17:11:01 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 17:14:20 2018	chiken (STEAM_0:0:143719653) has joined the game
+Thu Oct 11 17:14:20 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:15:14 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:15:30 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:15:42 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:15:50 2018	chiken was killed by Himself with a suicide trick
+Thu Oct 11 17:15:51 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:18:24 2018	Dave Letcher was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 17:18:30 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 17:21:05 2018	Dave Letcher (STEAM_0:1:52038966): // are you seriouslky doing this with 3 o n l i n e
+Thu Oct 11 17:22:08 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 17:22:08 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 17:22:55 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 17:23:00 2018	DoS Spicy (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 17:23:06 2018	DoS Spicy (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 17:26:04 2018	DoS Spicy (STEAM_0:0:176415266): /ooc NOT ON MY WATCH MISTER!
+Thu Oct 11 17:26:59 2018	DoS Spicy (STEAM_0:0:176415266) disconnected
+Thu Oct 11 17:27:43 2018	Dave Letcher was killed by chiken with a cw_scarh
+Thu Oct 11 17:27:44 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 17:27:46 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Thu Oct 11 17:28:52 2018	chiken (STEAM_0:0:143719653): // Wtf does release qurantine do?
+Thu Oct 11 17:29:04 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 17:29:04 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 17:29:38 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 17:32:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) has joined the game
+Thu Oct 11 17:32:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Thu Oct 11 17:34:28 2018	chiken (STEAM_0:0:143719653): // the fuck does weapon synthesiser do?
+Thu Oct 11 17:34:36 2018	DoS Spicy was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 17:34:38 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 17:34:40 2018	chiken (STEAM_0:0:143719653): // Synthesizer
+Thu Oct 11 17:34:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Well, hello!
+Thu Oct 11 17:35:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Thu Oct 11 17:35:54 2018	chiken was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Thu Oct 11 17:35:56 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:36:00 2018	DoS Spicy (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 17:37:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I'm going to join back when there's more RP
+Thu Oct 11 17:37:49 2018	waviestballoonx9 [WaviestRP] was killed by chiken with a cw_scarh
+Thu Oct 11 17:37:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Thu Oct 11 17:37:57 2018	DoS Spicy (STEAM_0:0:176415266): /ooc Well there would be more rp
+Thu Oct 11 17:38:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) disconnected
+Thu Oct 11 17:38:04 2018	DoS Spicy (STEAM_0:0:176415266): /ooc But people are at fucking school
+Thu Oct 11 17:38:18 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Thu Oct 11 17:41:33 2018	chiken (STEAM_0:0:143719653): // GET IN THE ROCKET
+Thu Oct 11 17:42:30 2018	chiken was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 17:42:30 2018	DoS Spicy was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 17:42:32 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 17:42:37 2018	chiken (STEAM_0:0:143719653): // WELP
+Thu Oct 11 17:42:43 2018	chiken (STEAM_0:0:143719653): // Guess we didnt make it
+Thu Oct 11 17:43:03 2018	chiken was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Thu Oct 11 17:43:04 2018	chiken (STEAM_0:0:143719653) spawned

@@ -1,0 +1,17 @@
+[05:04:55] New map: rp_powerplant_v2b2
+[17:11:41] Client "Rodrinr" connected.
+[17:16:26] Client "Rodrinr" spawned in server <STEAM_0:0:33637358> (took 285 seconds).
+[17:16:27] (Console) added Rodrinr to group PACUser
+[17:27:16] Rodrinr<STEAM_0:0:33637358> spawned model models/props_c17/fence03a.mdl
+[17:29:04] Rodrinr was killed by trigger_hurt
+[17:54:17] Client "Bot01" connected.
+[17:54:17] Client "Bot01" spawned in server <BOT> (took 46243 seconds).
+[17:57:23] Rodrinr suicided!
+[18:02:30] Rodrinr suicided!
+[18:15:27] Rodrinr suicided!
+[18:16:58] Rodrinr was killed by trigger_hurt
+[18:17:06] Dropped "Rodrinr" from server<STEAM_0:0:33637358>
+[18:17:06] Dropped "Bot01" from server<BOT>
+[23:50:34] Client "Valien" connected.
+[23:53:49] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 195 seconds).
+<Logging continued in "data/ulx_logs/08-16-18.txt">

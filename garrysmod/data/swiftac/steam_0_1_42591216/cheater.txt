@@ -1,0 +1,11 @@
+Sat Oct 20 16:37:42 2018 - Nick: wolfhugger 3000 | IP: 72.210.56.149 | SteamID: STEAM_0:1:42591216.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sat Oct 20 17:21:59 2018 - Nick: wolfhugger 3000 | IP: 72.210.56.149 | SteamID: STEAM_0:1:42591216.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:52:11 2018 - Nick: wolfhugger 3000 | IP: 72.210.56.149 | SteamID: STEAM_0:1:42591216.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:54:42 2018 - Nick: wolfhugger 3000 | IP: 72.210.56.149 | SteamID: STEAM_0:1:42591216.txt | Cheating Infraction: Invalid source: require@addons/swiftac/lua/includes/init.lua;
+

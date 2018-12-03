@@ -1,0 +1,383 @@
+<Logging continued from "data/ulx_logs/06-12-18.txt">
+[12:08:51] Client "Fat Gay" connected.
+[12:09:55] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 64 seconds).
+[12:13:00] Fat Gay: /stoplockdown
+[12:13:04] Fat Gay: /lockdown
+[12:13:08] Fat Gay: /endlockdown
+[12:13:41] Fat Gay: /unlockdown
+[12:40:39] Fat Gay suicided!
+[13:04:58] Fat Gay: !menu
+[13:09:21] Fat Gay: !menu
+[13:09:53] (SILENT) Fat Gay set the npc limit for Owner to 99999
+[13:09:56] (SILENT) Fat Gay set the npc limit for superadmin to 99999
+[13:09:58] (SILENT) Fat Gay set the npc limit for admin to 99999
+[13:10:04] (SILENT) Fat Gay set the npc limit for Moderator to 99999
+[13:10:09] (SILENT) Fat Gay set the npc limit for TrialModerator to 10
+[13:10:14] (SILENT) Fat Gay set the npc limit for VIPPACUser to 0
+[13:10:16] (SILENT) Fat Gay set the npc limit for VIP to 0
+[13:10:17] (SILENT) Fat Gay set the npc limit for PACUser to 0
+[13:10:19] (SILENT) Fat Gay set the npc limit for user to 0
+[13:10:45] (SILENT) Fat Gay set the vehicle limit for Owner to 99999
+[13:10:48] (SILENT) Fat Gay set the vehicle limit for superadmin to 99999
+[13:10:50] (SILENT) Fat Gay set the vehicle limit for admin to 99999
+[13:11:02] (SILENT) Fat Gay set the vehicle limit for Moderator to 0
+[13:11:04] (SILENT) Fat Gay set the vehicle limit for TrialModerator to 0
+[13:11:06] (SILENT) Fat Gay set the vehicle limit for VIPPACUser to 0
+[13:11:09] (SILENT) Fat Gay set the vehicle limit for VIP to 0
+[13:11:10] (SILENT) Fat Gay set the vehicle limit for PACUser to 0
+[13:11:12] (SILENT) Fat Gay set the vehicle limit for user to 0
+[13:11:17] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/nova/chair_office02.mdl
+[13:11:19] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/airboat.mdl
+[13:15:38] Fat Gay: !menu
+[13:16:00] (SILENT) Fat Gay set the effect limit for Owner to 999999
+[13:16:06] (SILENT) Fat Gay set the effect limit for superadmin to 20
+[13:16:07] (SILENT) Fat Gay set the effect limit for admin to 20
+[13:16:09] (SILENT) Fat Gay set the effect limit for admin to 20
+[13:16:11] (SILENT) Fat Gay set the effect limit for Moderator to 20
+[13:16:12] (SILENT) Fat Gay set the effect limit for TrialModerator to 20
+[13:16:14] (SILENT) Fat Gay set the effect limit for VIPPACUser to 20
+[13:16:16] (SILENT) Fat Gay set the effect limit for VIP to 20
+[13:16:18] (SILENT) Fat Gay set the effect limit for PACUser to 20
+[13:16:20] (SILENT) Fat Gay set the effect limit for user to 20
+[13:16:26] (SILENT) Fat Gay set the effect limit for noaccess to 0
+[13:16:31] (SILENT) Fat Gay set the npc limit for noaccess to 0
+[13:16:34] (SILENT) Fat Gay set the prop limit for noaccess to 0
+[13:16:36] (SILENT) Fat Gay set the vehicle limit for noaccess to 0
+[13:16:43] (SILENT) Fat Gay set the ragdoll limit for Owner to 99999999
+[13:16:46] (SILENT) Fat Gay set the ragdoll limit for superadmin to 99999999
+[13:16:47] (SILENT) Fat Gay set the ragdoll limit for admin to 99999999
+[13:16:53] (SILENT) Fat Gay set the ragdoll limit for Moderator to 20
+[13:16:56] (SILENT) Fat Gay set the ragdoll limit for TrialModerator to 20
+[13:17:03] (SILENT) Fat Gay set the ragdoll limit for VIPPACUser to 10
+[13:17:06] (SILENT) Fat Gay set the ragdoll limit for VIP to 10
+[13:17:07] (SILENT) Fat Gay set the ragdoll limit for PACUser to 10
+[13:17:09] (SILENT) Fat Gay set the ragdoll limit for user to 10
+[13:17:15] (SILENT) Fat Gay set the ragdoll limit for noaccess to 0
+[13:17:24] (SILENT) Fat Gay set the ragdoll limit for admin to 50
+[13:17:59] (SILENT) Fat Gay set the sent limit for Owner to 9999999
+[13:18:00] (SILENT) Fat Gay set the sent limit for superadmin to 9999999
+[13:18:05] (SILENT) Fat Gay set the sent limit for admin to 10
+[13:18:11] (SILENT) Fat Gay set the sent limit for Moderator to 0
+[13:18:12] (SILENT) Fat Gay set the sent limit for noaccess to 0
+[13:18:14] (SILENT) Fat Gay set the sent limit for TrialModerator to 0
+[13:18:16] (SILENT) Fat Gay set the sent limit for VIPPACUser to 0
+[13:18:18] (SILENT) Fat Gay set the sent limit for VIP to 0
+[13:18:19] (SILENT) Fat Gay set the sent limit for PACUser to 0
+[13:18:21] (SILENT) Fat Gay set the sent limit for user to 0
+[13:18:34] (SILENT) Fat Gay set the sent limit for admin to 999999
+[13:27:01] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:01] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:01] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:01] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:01] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:02] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:02] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:02] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:02] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:27:03] Fat Gay<STEAM_0:1:218173703> used the tool balloon on maps/rp_powerplant_v2b2.bsp
+[13:30:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:30:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:30:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:30:17] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/door02_double.mdl
+[13:30:20] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnitureboiler001a.mdl
+[13:30:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/fountain_01.mdl
+[13:30:33] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gaspipes006a.mdl
+[13:30:37] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituretoilet001a.mdl
+[13:30:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:30:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props_canal/bridge_pillar02.mdl
+[13:30:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_canal/canal_bridge04.mdl
+[13:31:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_docks/dock01_pole01a_128.mdl
+[13:31:09] Fat Gay<STEAM_0:1:218173703> spawned model models/props_docks/dock01_cleat01a.mdl
+[13:31:11] Fat Gay<STEAM_0:1:218173703> spawned model models/props_docks/channelmarker_gib04.mdl
+[13:31:16] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/headcrabcannister01a.mdl
+[13:31:18] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/weaponstripper.mdl
+[13:31:21] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combine_window001.mdl
+[13:31:23] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combine_fence01b.mdl
+[13:31:27] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/utilitypole03a.mdl
+[13:31:28] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/utilitypole02b.mdl
+[13:31:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/utilitypole01d.mdl
+[13:31:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/utilitypole01b.mdl
+[13:31:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/utilitypole01a.mdl
+[13:31:50] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/signpole001.mdl
+[13:31:55] Fat Gay<STEAM_0:1:218173703> spawned model models/props_foliage/tree_poplar_01.mdl
+[13:32:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/ceiling_arch001a.mdl
+[13:32:12] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/trainstation_column001.mdl
+[13:34:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/trainstation_clock001.mdl
+[13:34:09] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/pole_448connection001a.mdl
+[13:34:18] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/pole_448connection002b.mdl
+[13:34:23] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/tracksign01.mdl
+[13:34:26] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/mount_connection001a.mdl
+[13:34:28] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/column_arch001a.mdl
+[13:34:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/cranemagnet01a.mdl
+[13:34:39] Fat Gay suicided!
+[13:34:46] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/dockplank01b.mdl
+[13:34:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/gaspump001a.mdl
+[13:34:50] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[13:34:57] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/laundry_washer003.mdl
+[13:35:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[13:35:10] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:13] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:14] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:15] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:15] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:15] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_post01.mdl
+[13:35:19] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:26] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/panel_leverhandle001a.mdl
+[13:35:31] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[13:35:34] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/trainstation_ornament001.mdl
+[13:35:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/trainstation_ornament002.mdl
+[13:35:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_strut01.mdl
+[13:35:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_post01.mdl
+[13:35:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_post01.mdl
+[13:35:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_post01.mdl
+[13:35:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:35:50] Fat Gay<STEAM_0:1:218173703> spawned model models/props_wasteland/medbridge_base01.mdl
+[13:36:06] Fat Gay<STEAM_0:1:218173703> spawned model models/gibs/helicopter_brokenpiece_05_tailfan.mdl
+[13:36:12] Fat Gay<STEAM_0:1:218173703> spawned model models/gibs/helicopter_brokenpiece_06_body.mdl
+[13:36:16] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combine_monitorbay.mdl
+[13:36:24] Fat Gay<STEAM_0:1:218173703> spawned effect models/props_lab/corkboard001.mdl
+[13:36:30] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/trappropeller_lever.mdl
+[13:36:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props_lab/workspace003.mdl
+[13:37:10] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/mossman.mdl
+[13:37:11] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/mossman.mdl
+[13:37:11] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/mossman.mdl
+[13:37:11] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/mossman.mdl
+[13:37:12] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/mossman.mdl
+[13:37:19] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/manhack.mdl
+[13:37:36] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/combine_soldier.mdl
+[13:37:41] Fat Gay<STEAM_0:1:218173703> spawned model models/props_vehicles/car001b_hatchback.mdl
+[13:37:43] Fat Gay<STEAM_0:1:218173703> spawned model models/combine_helicopter.mdl
+[13:37:53] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/train002.mdl
+[13:37:57] Fat Gay<STEAM_0:1:218173703> spawned model models/combine_apc.mdl
+[13:38:00] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/combine_dropship.mdl
+[13:38:20] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combine_train02a.mdl
+[13:38:25] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combine_train02b.mdl
+[13:38:27] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combinetrain01a.mdl
+[13:38:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combinetrain01a.mdl
+[13:38:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combinetrain01a.mdl
+[13:38:30] Fat Gay<STEAM_0:1:218173703> spawned model models/props_combine/combinetrain01a.mdl
+[13:38:30] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/train005.mdl
+[13:38:32] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/train003.mdl
+[13:38:33] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/train002.mdl
+[13:38:33] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/train002.mdl
+[13:38:34] Fat Gay<STEAM_0:1:218173703> spawned model models/props_trainstation/train001.mdl
+[13:38:37] Fat Gay<STEAM_0:1:218173703> spawned model models/props_vehicles/truck001a.mdl
+[13:41:07] Fat Gay<STEAM_0:1:218173703> spawned effect models/items/hevsuit.mdl
+[13:41:18] Fat Gay<STEAM_0:1:218173703> spawned effect models/items/boxflares.mdl
+[13:50:28] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/player/t_phoenix.mdl
+[13:56:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/moneypallet02.mdl
+[13:56:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/moneypallete.mdl
+[13:56:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/moneypallete.mdl
+[13:56:41] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/acunit01.mdl
+[13:56:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/acunit02.mdl
+[13:56:50] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/billboard.mdl
+[13:56:52] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/billboard.mdl
+[13:56:56] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:56:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:56:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:57:03] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack2.mdl
+[13:57:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:57:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:57:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:57:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/box_stack1.mdl
+[13:57:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/camera.mdl
+[13:57:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/consolepanelloadingbay.mdl
+[13:57:09] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/dryer_box.mdl
+[13:57:11] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/firehydrant.mdl
+[13:57:12] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/duct.mdl
+[13:57:14] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/firehydrant.mdl
+[13:57:15] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/forklift.mdl
+[13:57:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_assault/ticketmachine.mdl
+[13:57:31] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/fencewoodlog01_short.mdl
+[13:57:32] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/boxes_frontroom.mdl
+[13:57:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/bathroomwallhole01_wood_broken.mdl
+[13:57:41] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/car_militia.mdl
+[13:57:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/couch.mdl
+[13:57:45] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/bridgelight.mdl
+[13:57:47] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/bridgelight.mdl
+[13:57:53] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/boxes_garage.mdl
+[13:57:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/boxes_frontroom.mdl
+[13:58:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/boulderring01.mdl
+[13:58:13] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/coveredbridge01_top.mdl
+[13:58:18] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/coveredbridge01_bottom.mdl
+[13:58:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/coveredbridge01_left.mdl
+[13:58:26] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/coveredbridge01_right.mdl
+[13:58:31] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/crate_stackmill.mdl
+[13:58:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/crate_extrasmallmill.mdl
+[13:58:38] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/fern01lg.mdl
+[13:58:41] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/fertilizer.mdl
+[13:58:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/fencewoodlog02_short.mdl
+[13:58:47] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/fireplace01.mdl
+[13:58:52] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/fireplacechimney01.mdl
+[13:58:54] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/food_stack.mdl
+[13:58:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/gun_cabinet.mdl
+[13:59:19] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/haybale_target_02.mdl
+[13:59:21] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/housefence_door.mdl
+[13:59:25] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/logpile2.mdl
+[13:59:32] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/logpile2.mdl
+[13:59:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/shelves_wood.mdl
+[13:59:40] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/tree_large_militia.mdl
+[13:59:44] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/trees3.mdl
+[13:59:47] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/trees2.mdl
+[13:59:51] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/trees1.mdl
+[13:59:55] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/toothbrushset01.mdl
+[13:59:57] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/van_glass.mdl
+[13:59:57] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/van_glass.mdl
+[13:59:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/van.mdl
+[13:59:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/van.mdl
+[14:00:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/van.mdl
+[14:00:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/vent01.mdl
+[14:00:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/van.mdl
+[14:00:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/wndw01.mdl
+[14:00:09] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/roof_vent.mdl
+[14:00:12] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/reload_scale.mdl
+[14:00:20] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/reloadingpress01.mdl
+[14:00:24] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/rockpileramp01.mdl
+[14:00:29] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/cs_militia/rocks01.mdl
+[14:00:45] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/rocksteppingstones01.mdl
+[14:00:54] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/sheetrock_leaning.mdl
+[14:00:57] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/reload_bullet_tray.mdl
+[14:00:57] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_militia/reload_scale.mdl
+[14:01:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_office/address.mdl
+[14:01:09] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_office/crates_outdoor.mdl
+[14:01:15] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_office/offpaintingd.mdl
+[14:01:18] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_office/snowman_body.mdl
+[14:01:21] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_office/sofa.mdl
+[14:01:25] Fat Gay<STEAM_0:1:218173703> spawned model models/props/cs_office/vending_machine.mdl
+[14:01:35] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/clock.mdl
+[14:01:36] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/cinderblock_stack.mdl
+[14:01:38] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/crate_extrasmall.mdl
+[14:01:39] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/crate_small.mdl
+[14:01:42] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_tunnelb.mdl
+[14:01:47] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_tunnela.mdl
+[14:01:51] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_tspawnb.mdl
+[14:01:54] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_tspawna.mdl
+[14:01:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_ctspawnc.mdl
+[14:02:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_ctspawnb.mdl
+[14:02:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_ctspawnb.mdl
+[14:02:12] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_ctspawna.mdl
+[14:02:15] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_bombsite_d.mdl
+[14:02:16] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_bombsite_d.mdl
+[14:02:22] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_bombsitec.mdl
+[14:02:23] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/de_nuke/ibeams_bombsiteb.mdl
+[14:02:31] Fat Gay<STEAM_0:1:218173703> spawned effect models/props/de_nuke/ibeams_bombsiteb.mdl
+[14:02:37] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_bombsitea.mdl
+[14:02:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/file_cabinet1_group.mdl
+[14:02:45] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/equipment1.mdl
+[14:02:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ibeams_warehouseroof.mdl
+[14:02:54] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/nuclearcontainerboxclosed.mdl
+[14:02:57] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/nucleartestcabinet.mdl
+[14:02:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/powerplanttank.mdl
+[14:03:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/pipeset.mdl
+[14:03:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/truck_nuke.mdl
+[14:03:09] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/truck_nuke_glass.mdl
+[14:03:11] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/ventilationduct02large.mdl
+[14:03:13] Fat Gay<STEAM_0:1:218173703> spawned model models/props/de_nuke/wall_light.mdl
+[14:03:18] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube8x8x8.mdl
+[14:03:19] Fat Gay suicided!
+[14:03:28] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube6x6x6.mdl
+[14:03:36] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube6x6x6.mdl
+[14:03:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props_phx/construct/plastic/plastic_panel8x8.mdl
+
+
+
+[14:07:11] New map: rp_powerplant_v2b2
+[14:07:17] Client "Fat Gay" connected.
+[14:08:03] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+[14:19:59] Client "coldbolt25" connected.
+[14:22:09] Client "coldbolt25" spawned in server <STEAM_0:0:59274331> (took 130 seconds).
+[14:22:09] (Console) added coldbolt25 to group PACUser
+[14:23:53] (Console) removed all access rights from coldbolt25
+[14:23:53] (Console) added coldbolt25 to group VIPPACUser
+[14:26:38] Fat Gay: customCheck = function(ply) return ply:CheckGroup( "VIP" ) end,    CustomCheckFailMsg = "This job is for VIP only! You must al
+[14:26:40] coldbolt25 suicided!
+[14:26:57] coldbolt25 killed Fat Gay using player
+[14:28:47] coldbolt25 suicided!
+[14:28:57] Fat Gay suicided!
+[14:29:07] Fat Gay killed coldbolt25 using player
+[14:29:45] Fat Gay killed coldbolt25 using fas2_thrown_m67
+[14:29:53] Fat Gay suicided!
+[14:30:23] Fat Gay killed coldbolt25 using fas2_thrown_m67
+[14:31:11] Fat Gay killed coldbolt25 using player
+[14:31:27] Fat Gay killed coldbolt25 using player
+[14:33:03] coldbolt25 killed Fat Gay using player
+[14:34:30] Fat Gay killed coldbolt25 using player
+[14:34:39] coldbolt25 killed Fat Gay using player
+[14:34:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[14:35:12] coldbolt25 suicided!
+[14:35:17] Fat Gay teleported to coldbolt25
+[14:35:17] Fat Gay: !goto cold
+[14:35:27] coldbolt25 suicided!
+[14:35:33] coldbolt25 suicided!
+[14:35:43] coldbolt25 suicided!
+[14:35:50] coldbolt25 suicided!
+[14:35:56] coldbolt25 suicided!
+[14:36:02] coldbolt25 suicided!
+[14:36:39] Fat Gay killed coldbolt25 using fas2_thrown_m67
+[14:36:57] Fat Gay killed coldbolt25 using fas2_thrown_m67
+[14:37:37] coldbolt25<STEAM_0:0:59274331> spawned model models/props_c17/fence01b.mdl
+[14:37:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[14:38:00] Fat Gay teleported to coldbolt25
+[14:38:00] Fat Gay: !goto col
+[14:38:07] coldbolt25 suicided!
+[14:38:10] Fat Gay teleported to coldbolt25
+[14:38:10] Fat Gay: !goto col
+[14:38:13] Fat Gay suicided!
+[14:38:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[14:38:20] Fat Gay: !goto cold
+[14:38:23] Fat Gay: !goto cold
+[14:38:26] Fat Gay teleported to coldbolt25
+[14:38:26] Fat Gay: !goto col
+[14:38:31] Fat Gay suicided!
+[14:38:38] Fat Gay teleported to coldbolt25
+[14:38:38] Fat Gay: !goto col
+[14:38:42] Fat Gay killed coldbolt25 using player
+[14:38:47] Fat Gay was killed by trigger_hurt
+[14:38:53] Fat Gay teleported to coldbolt25
+[14:38:53] Fat Gay: !goto cold
+[14:38:54] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[14:38:58] Fat Gay suicided!
+[14:39:03] Fat Gay teleported to coldbolt25
+[14:39:03] Fat Gay: !goto cold
+[14:39:59] coldbolt25 killed Fat Gay using player
+[14:40:02] Fat Gay teleported to coldbolt25
+[14:40:02] Fat Gay: !goto cold
+[14:40:16] Fat Gay killed coldbolt25 using player
+[14:41:02] Fat Gay set the hp for Themself to 2500
+[14:41:02] Fat Gay: !hp fat 2500
+[14:41:33] Fat Gay set the hp for coldbolt25 to 2500
+[14:41:33] Fat Gay: !hp cold 2500
+[14:41:41] Fat Gay set the hp for coldbolt25 to 1
+[14:41:41] Fat Gay: !hp cold 1
+[14:41:54] Fat Gay killed coldbolt25 using player
+[14:42:00] coldbolt25 killed Fat Gay using player
+[14:43:06] Fat Gay killed coldbolt25 using player
+[14:43:14] coldbolt25 killed Fat Gay using player
+[14:44:45] Fat Gay killed coldbolt25 using player
+[14:46:23] coldbolt25 killed Fat Gay using player
+[14:46:37] coldbolt25 was killed by trigger_hurt
+[14:48:51] coldbolt25 killed Fat Gay using player
+[14:48:56] Fat Gay teleported to coldbolt25
+[14:48:56] Fat Gay: !GOTO COLD
+[14:52:33] coldbolt25 suicided!
+[14:55:26] Fat Gay: !spectate sab
+[14:55:42] Fat Gay: !spec col
+[14:55:46] Fat Gay: !spectatecol
+[14:55:51] Fat Gay: !spectate col
+[15:20:40] Fat Gay suicided!
+[15:23:32] coldbolt25 suicided!
+[15:25:42] Dropped "coldbolt25" from server<STEAM_0:0:59274331>
+[19:55:23] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[19:55:24] Client "Fat Gay" connected.
+[19:56:13] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[20:18:22] Fat Gay suicided!
+[20:47:02] Fat Gay suicided!
+<Logging continued in "data/ulx_logs/06-14-18.txt">

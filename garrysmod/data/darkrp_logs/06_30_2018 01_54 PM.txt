@@ -1,0 +1,10 @@
+Sat Jun 30 13:54:38 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 30 13:54:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:54:59 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Jun 30 13:54:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 13:57:46 2018	Fat Gay was killed by Emmett with a fas2_thrown_m67
+Sat Jun 30 13:57:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 13:58:09 2018	Emmett (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_jeep
+Sat Jun 30 13:58:11 2018	Emmett (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_airboat
+Sat Jun 30 14:04:20 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Jun 30 14:04:21 2018	Emmett (STEAM_0:1:41660292) spawned

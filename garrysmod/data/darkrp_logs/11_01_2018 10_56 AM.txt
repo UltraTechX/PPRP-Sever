@@ -1,0 +1,100 @@
+Thu Nov  1 10:56:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Nov  1 10:56:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Nov  1 12:04:28 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Thu Nov  1 17:24:21 2018	Valien (STEAM_0:1:41660292) has joined the game
+Thu Nov  1 17:24:21 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 17:27:08 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 17:27:10 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 17:41:44 2018	Valien (STEAM_0:1:41660292): !TEMP 5000
+Thu Nov  1 17:41:48 2018	Valien (STEAM_0:1:41660292): /temp 5000
+Thu Nov  1 17:46:02 2018	Valien (STEAM_0:1:41660292): /temp 1000
+Thu Nov  1 17:56:25 2018	Valien was killed by Himself with a suicide trick
+Thu Nov  1 17:56:27 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 19:03:59 2018	SuperHeavy (STEAM_0:0:60593081) has joined the game
+Thu Nov  1 19:03:59 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:10:00 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:13:22 2018	chiken (STEAM_0:0:143719653) has joined the game
+Thu Nov  1 19:13:22 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:14:14 2018	BOB (STEAM_0:1:109525504) has joined the game
+Thu Nov  1 19:14:14 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:15:30 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:16:17 2018	chiken (STEAM_0:0:143719653): /me Weaponcheck stand still or kos/aos
+Thu Nov  1 19:17:35 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:17:37 2018	SuperHeavy was killed by BOB with a weapon_l4d2_frying_pan
+Thu Nov  1 19:17:41 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:18:02 2018	SuperHeavy (STEAM_0:0:60593081): // what the hell is this
+Thu Nov  1 19:18:46 2018	SuperHeavy (STEAM_0:0:60593081): thata soff
+Thu Nov  1 19:19:26 2018	SuperHeavy (STEAM_0:0:60593081): we must kill the power plant
+Thu Nov  1 19:19:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Nov  1 19:21:26 2018	SuperHeavy (STEAM_0:0:60593081): // why is there meth and terrorists in a power plant rp
+Thu Nov  1 19:21:35 2018	chiken (STEAM_0:0:143719653): // cause why not?
+Thu Nov  1 19:21:39 2018	SuperHeavy (STEAM_0:0:60593081): // tru
+Thu Nov  1 19:22:16 2018	BOB was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 19:22:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Thu Nov  1 19:22:19 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:22:25 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:22:41 2018	SuperHeavy (STEAM_0:0:60593081): // frag out
+Thu Nov  1 19:22:46 2018	SuperHeavy was killed by Himself with a suicide trick
+Thu Nov  1 19:22:49 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:28:52 2018	SuperHeavy (STEAM_0:0:60593081): hello comrads
+Thu Nov  1 19:28:55 2018	chiken (STEAM_0:0:143719653): hello
+Thu Nov  1 19:28:59 2018	chiken (STEAM_0:0:143719653): blyat
+Thu Nov  1 19:29:19 2018	SuperHeavy (STEAM_0:0:60593081): we must close the gates
+Thu Nov  1 19:29:54 2018	SuperHeavy (STEAM_0:0:60593081): watch out lads
+Thu Nov  1 19:29:59 2018	SuperHeavy (STEAM_0:0:60593081): we best be scooting now
+Thu Nov  1 19:30:15 2018	SuperHeavy (STEAM_0:0:60593081): we did that guys
+Thu Nov  1 19:30:17 2018	SuperHeavy (STEAM_0:0:60593081): hear that
+Thu Nov  1 19:30:18 2018	chiken (STEAM_0:0:143719653): yes
+Thu Nov  1 19:31:39 2018	chiken was killed by SuperHeavy with a fas2_thrown_m67
+Thu Nov  1 19:31:42 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:31:56 2018	chiken was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Nov  1 19:31:58 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:31:58 2018	SuperHeavy (STEAM_0:0:60593081): // gotta say though
+Thu Nov  1 19:32:11 2018	SuperHeavy was killed by Himself with a suicide trick
+Thu Nov  1 19:32:11 2018	BOB was killed by SuperHeavy with a fas2_thrown_m67
+Thu Nov  1 19:32:12 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:32:14 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:32:21 2018	BOB was killed by SuperHeavy with a cw_mr96
+Thu Nov  1 19:32:21 2018	chiken was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Nov  1 19:32:22 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:32:22 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:32:27 2018	chiken was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Nov  1 19:32:28 2018	SuperHeavy was killed by BOB with a weapon_l4d2_frying_pan
+Thu Nov  1 19:32:28 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:32:32 2018	SuperHeavy (STEAM_0:0:60593081): // gotta say thogh
+Thu Nov  1 19:32:33 2018	BOB was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Thu Nov  1 19:32:33 2018	Valien was killed by Himself with a suicide trick
+Thu Nov  1 19:32:33 2018	SuperHeavy was killed by Himself with a suicide trick
+Thu Nov  1 19:32:33 2018	BOB was killed by Himself with a suicide trick
+Thu Nov  1 19:32:33 2018	chiken was killed by Himself with a suicide trick
+Thu Nov  1 19:32:35 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:32:36 2018	BOB (STEAM_0:1:109525504) spawned
+Thu Nov  1 19:32:39 2018	SuperHeavy (STEAM_0:0:60593081): // for something called power plant rp
+Thu Nov  1 19:32:42 2018	SuperHeavy (STEAM_0:0:60593081): // this is pretty well made
+Thu Nov  1 19:32:42 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:33:03 2018	BOB (STEAM_0:1:109525504) disconnected
+Thu Nov  1 19:33:09 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Nov  1 19:34:48 2018	SuperHeavy was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 19:34:50 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:35:16 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:35:31 2018	chiken (STEAM_0:0:143719653) disconnected
+Thu Nov  1 19:36:50 2018	SuperHeavy was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 19:36:52 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:37:23 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:39:30 2018	SuperHeavy was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Thu Nov  1 19:39:31 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:44:39 2018	SuperHeavy was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 19:44:40 2018	SuperHeavy (STEAM_0:0:60593081) spawned
+Thu Nov  1 19:45:09 2018	SuperHeavy (STEAM_0:0:60593081) disconnected
+Thu Nov  1 20:28:43 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Thu Nov  1 20:28:43 2018	Enviro (STEAM_0:0:80115103) spawned
+Thu Nov  1 20:36:15 2018	Enviro was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Thu Nov  1 20:36:27 2018	Enviro was killed by Himself with a suicide trick
+Thu Nov  1 20:36:27 2018	Valien was killed by Himself with a suicide trick
+Thu Nov  1 20:36:35 2018	Enviro (STEAM_0:0:80115103) disconnected
+Fri Nov  2 00:08:45 2018	Valien (STEAM_0:1:41660292) spawned
+Fri Nov  2 00:09:13 2018	Valien (STEAM_0:1:41660292): 
+Fri Nov  2 00:16:01 2018	Valien (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Nov  2 01:16:51 2018	Valien was killed by Himself with a suicide trick
+Fri Nov  2 01:17:02 2018	Valien (STEAM_0:1:41660292) spawned
+Fri Nov  2 01:17:05 2018	Valien (STEAM_0:1:41660292) disconnected

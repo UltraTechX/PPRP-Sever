@@ -1,0 +1,744 @@
+Thu Oct 11 00:10:37 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Thu Oct 11 00:10:37 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:10:42 2018	CaptnObvious (STEAM_0:0:64513062) has joined the game
+Thu Oct 11 00:10:42 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Thu Oct 11 00:10:44 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Thu Oct 11 00:10:45 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:10:45 2018	Alen (STEAM_0:0:120134659) has joined the game
+Thu Oct 11 00:10:45 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:10:50 2018	Ares (STEAM_0:0:79724754) has joined the game
+Thu Oct 11 00:10:50 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:11:09 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:11:17 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Thu Oct 11 00:11:21 2018	Ragpan (STEAM_0:1:155698467) has joined the game
+Thu Oct 11 00:11:21 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 00:11:22 2018	nuclearnacho88 (STEAM_0:0:166782773) has joined the game
+Thu Oct 11 00:11:22 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:11:35 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 00:11:35 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 00:11:37 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:11:38 2018	Alen (STEAM_0:0:120134659): /advert Hiring a Cook for the talib
+Thu Oct 11 00:11:41 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:11:58 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:12:04 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:12:13 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 00:12:58 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Thu Oct 11 00:13:00 2018	Alen (STEAM_0:0:120134659): // Hiring a cook. I dont want to have war but instead make a mother fucking mcdonalds.
+Thu Oct 11 00:13:15 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Thu Oct 11 00:13:24 2018	Sammy Boom (STEAM_0:0:91181601): btw
+Thu Oct 11 00:13:29 2018	Sammy Boom (STEAM_0:0:91181601): thats a hazmat job
+Thu Oct 11 00:13:32 2018	Sammy Boom (STEAM_0:0:91181601): doesn't mean it's only for SCPs
+Thu Oct 11 00:13:37 2018	Sammy Boom (STEAM_0:0:91181601): but SCPs are hazardous as well
+Thu Oct 11 00:13:43 2018	Ares (STEAM_0:0:79724754): !motd
+Thu Oct 11 00:13:50 2018	Sammy Boom (STEAM_0:0:91181601): But they are not the only hazards
+Thu Oct 11 00:14:01 2018	DimensionRMG was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 00:14:03 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:14:04 2018	Sammy Boom (STEAM_0:0:91181601): Terrorists, radiation, the core, etc
+Thu Oct 11 00:14:06 2018	DimensionRMG (STEAM_0:1:111567013): // LOL
+Thu Oct 11 00:14:10 2018	DimensionRMG (STEAM_0:1:111567013): // I FELL
+Thu Oct 11 00:14:35 2018	nuclearnacho88 (STEAM_0:0:166782773): /advert what is the point of this job?
+Thu Oct 11 00:14:40 2018	Alen (STEAM_0:0:120134659): // Imma make a McDonalds
+Thu Oct 11 00:14:44 2018	Lazlo Tart (STEAM_0:0:64513062): // yeet
+Thu Oct 11 00:14:50 2018	Alen (STEAM_0:0:120134659): // You shouldnt attack us 
+Thu Oct 11 00:14:55 2018	Alen (STEAM_0:0:120134659): // Yes
+Thu Oct 11 00:15:06 2018	Alen (STEAM_0:0:120134659): // We definitely wont take over
+Thu Oct 11 00:15:13 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:15:17 2018	Sammy Boom (STEAM_0:0:91181601): // 15 minute grace period
+Thu Oct 11 00:15:23 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:15:26 2018	Sammy Boom (STEAM_0:0:91181601): // you can't blow up the core or let SCPs go before the 15 minutes
+Thu Oct 11 00:16:05 2018	Sammy Boom (STEAM_0:0:91181601): // aaand someone's already fucking with it
+Thu Oct 11 00:16:12 2018	Craftygarrett (STEAM_0:1:184775407): // so that means dont try blowing up the core because that will fuck up the server
+Thu Oct 11 00:16:26 2018	Lazlo Tart (STEAM_0:0:64513062) disconnected
+Thu Oct 11 00:16:59 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:17:12 2018	blueslime64 (STEAM_0:1:168888682) has joined the game
+Thu Oct 11 00:17:12 2018	blueslime64 (STEAM_0:1:168888682) spawned
+Thu Oct 11 00:17:18 2018	nuclearnacho88 (STEAM_0:0:166782773): yes
+Thu Oct 11 00:17:21 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc yes
+Thu Oct 11 00:18:14 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:18:20 2018	blueslime64 (STEAM_0:1:168888682) disconnected
+Thu Oct 11 00:18:24 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) has joined the game
+Thu Oct 11 00:18:24 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:18:37 2018	nuclearnacho88 (STEAM_0:0:166782773): /pm cr he can explain to u if u pm him
+Thu Oct 11 00:18:49 2018	Ares was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 00:18:54 2018	Ares (STEAM_0:0:79724754): // XD
+Thu Oct 11 00:19:02 2018	Ares (STEAM_0:0:79724754): // Released E Before D
+Thu Oct 11 00:19:13 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:19:56 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 00:20:41 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 00:20:41 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:21:23 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:21:41 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:21:42 2018	Ares (STEAM_0:0:79724754): // It says I have been cursed
+Thu Oct 11 00:21:46 2018	Ares (STEAM_0:0:79724754): // what does that mean?
+Thu Oct 11 00:21:47 2018	Sammy Boom (STEAM_0:0:91181601): // it's a glitchy
+Thu Oct 11 00:21:48 2018	Sammy Boom (STEAM_0:0:91181601): // ignore it
+Thu Oct 11 00:21:52 2018	Sammy Boom (STEAM_0:0:91181601): // ignore it
+Thu Oct 11 00:22:45 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:23:18 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:23:29 2018	Alen (STEAM_0:0:120134659): // All chefs to the core
+Thu Oct 11 00:23:31 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:24:02 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:24:33 2018	Damnit, I Have A Crush On You was killed by Entity [2441][func_movelinear] with a func_movelinear
+Thu Oct 11 00:24:36 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:24:48 2018	Sammy Boom (STEAM_0:0:91181601): hello
+Thu Oct 11 00:24:51 2018	Ragpan (STEAM_0:1:155698467): hey
+Thu Oct 11 00:25:47 2018	Craftygarrett was killed by Ragpan with a cw_l85a2
+Thu Oct 11 00:26:02 2018	Ares was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:26:17 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:26:23 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:26:31 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:26:32 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:27:41 2018	Dr. Necrofeelya (STEAM_0:1:196793061) has joined the game
+Thu Oct 11 00:27:41 2018	Dr. Necrofeelya (STEAM_0:1:196793061) spawned
+Thu Oct 11 00:28:15 2018	Craftygarrett was killed by Ares with a cw_l85a2
+Thu Oct 11 00:28:17 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:28:22 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:28:23 2018	Sammy Boom (STEAM_0:0:91181601): thanks lol
+Thu Oct 11 00:28:50 2018	nuclearnacho88 (STEAM_0:0:166782773): /advert someone please save this very soul so i shall cleanse this facility!
+Thu Oct 11 00:28:55 2018	Damnit, I Have A Crush On You was killed by Craftygarrett with a cw_fiveseven
+Thu Oct 11 00:28:56 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:28:57 2018	Ares (STEAM_0:0:79724754): // Lies
+Thu Oct 11 00:28:58 2018	Ragpan was killed by Himself with a suicide trick
+Thu Oct 11 00:28:58 2018	Alen (STEAM_0:0:120134659): // Need my cook to goto the core.
+Thu Oct 11 00:28:59 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 00:29:09 2018	Craftygarrett was killed by Somebody with a cw_deagle
+Thu Oct 11 00:29:11 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:29:15 2018	DimensionRMG (STEAM_0:1:111567013): /advert Security to the fan room. Terrorists in the facility.
+Thu Oct 11 00:29:19 2018	Alen (STEAM_0:0:120134659): // Ragpan you should like, become a cook.
+Thu Oct 11 00:29:34 2018	Somebody was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:29:43 2018	Ares was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:29:45 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:29:51 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:29:52 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc being locked in this room isnt no fun, how about we make this a little more interesting......
+Thu Oct 11 00:30:23 2018	Torque (STEAM_0:0:101089741) has joined the game
+Thu Oct 11 00:30:23 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:31:14 2018	DimensionRMG (STEAM_0:1:111567013): /advert MULTIPLE terrorists in the facility! Security to the fan room ASAP!
+Thu Oct 11 00:31:16 2018	Ragpan (STEAM_0:1:155698467): it's pm
+Thu Oct 11 00:31:20 2018	Ragpan (STEAM_0:1:155698467): off*
+Thu Oct 11 00:31:38 2018	Alen (STEAM_0:0:120134659): // Fuck the McDonald idea lets just fucking blow this place up
+Thu Oct 11 00:31:44 2018	Ares was killed by Damnit, I Have A Crush On You with a cw_shorty
+Thu Oct 11 00:31:47 2018	Alen (STEAM_0:0:120134659): /ad For Allah!
+Thu Oct 11 00:31:51 2018	Ares (STEAM_0:0:79724754): // Thanks
+Thu Oct 11 00:31:52 2018	nuclearnacho88 (STEAM_0:0:166782773): /advert Please, let me out and Ill do whatever u want!
+Thu Oct 11 00:31:53 2018	Craftygarrett (STEAM_0:1:184775407): // alen you have to wait or the server wont work
+Thu Oct 11 00:31:53 2018	Alen (STEAM_0:0:120134659): /advert For Allah!
+Thu Oct 11 00:32:06 2018	Alen (STEAM_0:0:120134659): // Later then
+Thu Oct 11 00:32:12 2018	Alen (STEAM_0:0:120134659): // Ill just kidnap somone
+Thu Oct 11 00:33:13 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 00:33:13 2018	Gaster (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:33:25 2018	Craftygarrett was killed by Damnit, I Have A Crush On You with a fas2_thrown_m67
+Thu Oct 11 00:33:33 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:33:36 2018	Somebody was killed by Entity [5060][fb_rawburger] with a fb_rawburger
+Thu Oct 11 00:33:40 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:33:40 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:33:43 2018	Alen (STEAM_0:0:120134659): // All terrorist 
+Thu Oct 11 00:33:48 2018	Somebody was killed by Craftygarrett with a weapon_l4d2_frying_pan
+Thu Oct 11 00:33:49 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc ;-;
+Thu Oct 11 00:33:58 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:34:01 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:34:14 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:34:15 2018	Alen was killed by DimensionRMG with a cw_deagle
+Thu Oct 11 00:34:20 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:34:28 2018	DimensionRMG was killed by Ragpan with a cw_m1911
+Thu Oct 11 00:34:32 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:34:41 2018	Torque was killed by Damnit, I Have A Crush On You with a fas2_thrown_m67
+Thu Oct 11 00:34:46 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:34:46 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:35:07 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:35:26 2018	Gaster (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:35:38 2018	Torque (STEAM_0:0:101089741): 
+Thu Oct 11 00:35:40 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:37:03 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:37:16 2018	DimensionRMG (STEAM_0:1:111567013): SCP
+Thu Oct 11 00:37:19 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:37:20 2018	DimensionRMG (STEAM_0:1:111567013): Do you want out
+Thu Oct 11 00:37:27 2018	Damnit, I Have A Crush On You was killed by Himself with a suicide trick
+Thu Oct 11 00:37:29 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:37:31 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 00:38:05 2018	Gaster (STEAM_0:1:59756947): /advert core security to core room
+Thu Oct 11 00:38:09 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:38:11 2018	DimensionRMG (STEAM_0:1:111567013): On my way
+Thu Oct 11 00:38:24 2018	Alen (STEAM_0:0:120134659): /advert Naw we'll come instead
+Thu Oct 11 00:38:47 2018	DimensionRMG was killed by Alen with a cw_scarh
+Thu Oct 11 00:38:48 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:39:11 2018	Ragpan (STEAM_0:1:155698467): core is overloading lol
+Thu Oct 11 00:39:20 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc let me out and I may give u 1k.....\
+Thu Oct 11 00:39:20 2018	DimensionRMG (STEAM_0:1:111567013): /pm Gaster We must evac the facility
+Thu Oct 11 00:39:25 2018	DimensionRMG (STEAM_0:1:111567013): /pm gaster To many people
+Thu Oct 11 00:40:07 2018	DimensionRMG (STEAM_0:1:111567013): /advert Coming director!
+Thu Oct 11 00:40:12 2018	DimensionRMG (STEAM_0:1:111567013): /advert Hide
+Thu Oct 11 00:40:19 2018	Alen (STEAM_0:0:120134659): /advert False
+Thu Oct 11 00:40:25 2018	Alen (STEAM_0:0:120134659): // I will
+Thu Oct 11 00:40:36 2018	Alen (STEAM_0:0:120134659): // Protect
+Thu Oct 11 00:40:38 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:40:54 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc dont u want a super weapon?
+Thu Oct 11 00:40:58 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc your own?
+Thu Oct 11 00:41:11 2018	DimensionRMG (STEAM_0:1:111567013): 049
+Thu Oct 11 00:41:17 2018	Gaster was killed by Ragpan with a fas2_thrown_m67
+Thu Oct 11 00:41:18 2018	Gaster (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:41:21 2018	Ragpan (STEAM_0:1:155698467): /ooc rekt
+Thu Oct 11 00:41:32 2018	Craftygarrett (STEAM_0:1:184775407): // rmg remove your props
+Thu Oct 11 00:41:32 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc imagine the power u could have: to destroy the terrorist or cause havoc....
+Thu Oct 11 00:41:37 2018	Gaster (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:41:40 2018	Ragpan (STEAM_0:1:155698467): I threw a nade at em
+Thu Oct 11 00:41:44 2018	DimensionRMG (STEAM_0:1:111567013): // I will let you out if you help us?
+Thu Oct 11 00:41:46 2018	DimensionRMG (STEAM_0:1:111567013): // Ok?
+Thu Oct 11 00:41:53 2018	Sammy Boom (STEAM_0:0:91181601): /advert How much money?
+Thu Oct 11 00:42:00 2018	Gaster (STEAM_0:1:59756947): /name Dark Bird
+Thu Oct 11 00:42:04 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:42:04 2018	Ragpan (STEAM_0:1:155698467): 20k
+Thu Oct 11 00:42:10 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc yes
+Thu Oct 11 00:42:11 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:42:13 2018	Somebody (STEAM_0:0:58278368): yo
+Thu Oct 11 00:42:14 2018	Sammy Boom (STEAM_0:0:91181601): /advert You'll never get that much
+Thu Oct 11 00:42:18 2018	Dark Bird (STEAM_0:1:59756947): /name Dark Bird Knight
+Thu Oct 11 00:42:20 2018	Alen (STEAM_0:0:120134659): // Just you watch
+Thu Oct 11 00:42:22 2018	Craftygarrett (STEAM_0:1:184775407): // nacho you cna only team with other scps or us
+Thu Oct 11 00:42:23 2018	Sammy Boom (STEAM_0:0:91181601): /advert There's probably not even a million in total value of this place
+Thu Oct 11 00:42:28 2018	Somebody (STEAM_0:0:58278368): i can help
+Thu Oct 11 00:42:36 2018	Dark Bird Knight (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:42:40 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc well just because u have an unfair thing going on, i believe is acceptable....
+Thu Oct 11 00:42:45 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc want to help me guys?
+Thu Oct 11 00:42:55 2018	Somebody (STEAM_0:0:58278368): me to
+Thu Oct 11 00:42:59 2018	DimensionRMG (STEAM_0:1:111567013): // Im coming nacho
+Thu Oct 11 00:43:15 2018	Dark Bird Knight (STEAM_0:1:59756947): /pm dimension come let me out im a good boi
+Thu Oct 11 00:43:18 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc THE DISEASE WILL KILL THE TERRORISTS!
+Thu Oct 11 00:43:28 2018	DimensionRMG (STEAM_0:1:111567013): /advert Pizza?
+Thu Oct 11 00:43:32 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad ;)
+Thu Oct 11 00:43:33 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc oh and scp can kill terrorist if they want
+Thu Oct 11 00:43:36 2018	nuclearnacho88 (STEAM_0:0:166782773): /advert ;)
+Thu Oct 11 00:43:49 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc 049 can team with anyone
+Thu Oct 11 00:43:50 2018	Ares (STEAM_0:0:79724754): // AFK
+Thu Oct 11 00:44:02 2018	DimensionRMG (STEAM_0:1:111567013): // is security ALLOWED to let them out?
+Thu Oct 11 00:44:07 2018	Ragpan (STEAM_0:1:155698467): /ooc nah
+Thu Oct 11 00:44:08 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc yes
+Thu Oct 11 00:44:10 2018	Somebody (STEAM_0:0:58278368): ye
+Thu Oct 11 00:44:16 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad Yes
+Thu Oct 11 00:44:17 2018	Sammy Boom (STEAM_0:0:91181601): // only if they're corrupt
+Thu Oct 11 00:44:31 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc let me out 
+Thu Oct 11 00:44:36 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc well i sure have due to the poor conditions
+Thu Oct 11 00:44:42 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc let me out this is not a dance
+Thu Oct 11 00:44:49 2018	Somebody (STEAM_0:0:58278368): let me out and I wont roast you alive
+Thu Oct 11 00:44:50 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:44:57 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc im begging for help im screaming for help please come let me out
+Thu Oct 11 00:45:00 2018	nuclearnacho88 (STEAM_0:0:166782773): /y sexy bird knight
+Thu Oct 11 00:45:05 2018	DimensionRMG (STEAM_0:1:111567013): // I am coming young ones
+Thu Oct 11 00:45:14 2018	nuclearnacho88 (STEAM_0:0:166782773): /y wanna bang in our heads?
+Thu Oct 11 00:45:19 2018	Craftygarrett (STEAM_0:1:184775407): // RMG remove your props now
+Thu Oct 11 00:45:30 2018	DimensionRMG (STEAM_0:1:111567013): // You ain't an admin but ok.
+Thu Oct 11 00:45:42 2018	Dark Bird Knight (STEAM_0:1:59756947): /ooc im the dark bird knight
+Thu Oct 11 00:45:49 2018	Dark Bird Knight (STEAM_0:1:59756947): /job Dark Knight
+Thu Oct 11 00:45:58 2018	Dark Bird Knight (STEAM_0:1:59756947): /name BirdMan
+Thu Oct 11 00:46:01 2018	Somebody (STEAM_0:0:58278368): im on fire
+Thu Oct 11 00:46:24 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad Plz someone free us from our eternal hell!
+Thu Oct 11 00:46:25 2018	DimensionRMG (STEAM_0:1:111567013): /pm nu Im coming child
+Thu Oct 11 00:46:36 2018	nuclearnacho88 (STEAM_0:0:166782773): /y SEXY
+Thu Oct 11 00:46:51 2018	BirdMan (STEAM_0:1:59756947): /y come let me out
+Thu Oct 11 00:47:03 2018	BirdMan (STEAM_0:1:59756947): /y rawr
+Thu Oct 11 00:47:03 2018	blue (STEAM_0:0:7152325) has joined the game
+Thu Oct 11 00:47:03 2018	blue (STEAM_0:0:7152325) spawned
+Thu Oct 11 00:47:45 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:48:10 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:48:21 2018	nuclearnacho88 (STEAM_0:0:166782773): /y ?
+Thu Oct 11 00:49:17 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:49:29 2018	nuclearnacho88 (STEAM_0:0:166782773): my friend needs to get out
+Thu Oct 11 00:50:23 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Thu Oct 11 00:50:23 2018	blue (STEAM_0:0:7152325) disconnected
+Thu Oct 11 00:50:34 2018	BirdMan (STEAM_0:1:59756947): /job Dark Knight
+Thu Oct 11 00:50:42 2018	BirdMan (STEAM_0:1:59756947): .
+Thu Oct 11 00:50:47 2018	Craftygarrett was killed by Entity [2745][func_rotating] with a func_rotating
+Thu Oct 11 00:50:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:50:53 2018	nuclearnacho88 (STEAM_0:0:166782773): ;)
+Thu Oct 11 00:51:00 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 00:51:04 2018	DimensionRMG (STEAM_0:1:111567013): /nick DimensionMAN
+Thu Oct 11 00:51:07 2018	nuclearnacho88 (STEAM_0:0:166782773): /name SCP 049
+Thu Oct 11 00:51:14 2018	Alen (STEAM_0:0:120134659): // dont kill Necro, he gave the cupon.
+Thu Oct 11 00:51:32 2018	Alen (STEAM_0:0:120134659): // Well im fucking bored lets blow it up
+Thu Oct 11 00:51:45 2018	Craftygarrett (STEAM_0:1:184775407): // we good to do that
+Thu Oct 11 00:51:46 2018	SCP 049 (STEAM_0:0:166782773): /ooc the disease has been found!
+Thu Oct 11 00:51:54 2018	DimensionMAN (STEAM_0:1:111567013): /nick SCP 049-02 
+Thu Oct 11 00:52:09 2018	Alen (STEAM_0:0:120134659): // Need two terrorists down on the fans and pumps
+Thu Oct 11 00:52:18 2018	Craftygarrett (STEAM_0:1:184775407): // i did that
+Thu Oct 11 00:52:20 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:52:21 2018	Dr. Necrofeelya (STEAM_0:1:196793061) spawned
+Thu Oct 11 00:53:37 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:54:12 2018	Craftygarrett was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:54:13 2018	DimensionMAN (STEAM_0:1:111567013) disconnected
+Thu Oct 11 00:54:15 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:54:20 2018	Alen (STEAM_0:0:120134659): // cmere
+Thu Oct 11 00:55:00 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:55:22 2018	Ragpan was killed by Damnit, I Have A Crush On You with a fas2_thrown_m67
+Thu Oct 11 00:55:24 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 00:55:48 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 00:56:01 2018	Ragpan (STEAM_0:1:155698467): !content
+Thu Oct 11 00:56:54 2018	Ares was killed by BirdMan with a eoti_raven_swep
+Thu Oct 11 00:57:27 2018	Torque was killed by BirdMan with a eoti_raven_swep
+Thu Oct 11 00:57:30 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 00:57:42 2018	Alen was killed by Himself with a suicide trick
+Thu Oct 11 00:57:46 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:58:28 2018	Craftygarrett was killed by BirdMan with a eoti_raven_swep
+Thu Oct 11 00:58:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:59:04 2018	SCP 049 (STEAM_0:0:166782773): /pm bi I may not make it brotha, so this may be farewell...... <3
+Thu Oct 11 00:59:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 00:59:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 00:59:18 2018	Craftygarrett (STEAM_0:1:184775407) disconnected
+Thu Oct 11 01:00:03 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 01:00:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 01:01:52 2018	Sammy Boom (STEAM_0:0:91181601): // my nightclub has more railings than the facility
+Thu Oct 11 01:02:26 2018	Damnit, I Have A Crush On You was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:02:28 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 01:02:33 2018	Dr. Necrofeelya was killed by [Opi] Fat Gay with a cw_g36c
+Thu Oct 11 01:02:57 2018	Alen (STEAM_0:0:120134659): // rag come back!
+Thu Oct 11 01:03:13 2018	Ragpan (STEAM_0:1:155698467): k
+Thu Oct 11 01:03:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Thu Oct 11 01:03:53 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:04:01 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Thu Oct 11 01:04:02 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 01:04:04 2018	Dr. Necrofeelya (STEAM_0:1:196793061) spawned
+Thu Oct 11 01:04:10 2018	Sammy Boom (STEAM_0:0:91181601): I know
+Thu Oct 11 01:04:14 2018	Dr. Necrofeelya (STEAM_0:1:196793061) disconnected
+Thu Oct 11 01:04:24 2018	Damnit, I Have A Crush On You was killed by Entity [2745][func_rotating] with a func_rotating
+Thu Oct 11 01:04:25 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Thu Oct 11 01:04:25 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:04:25 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 01:04:35 2018	SCP 049 (STEAM_0:0:166782773): /pm bir I saved the facility two times in a row from those diseased individuals
+Thu Oct 11 01:04:37 2018	Alen (STEAM_0:0:120134659) disconnected
+Thu Oct 11 01:04:40 2018	Sammy Boom (STEAM_0:0:91181601): /pm fat guy I meant to ask you first but it's too late now cus I've already built it, but I made an emergancy hallway to E-Coo
+Thu Oct 11 01:04:50 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 01:04:50 2018	SCP 049 was killed by [Opi] Fat Gay with a cw_g36c
+Thu Oct 11 01:04:53 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:05:07 2018	BirdMan was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:05:08 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:05:13 2018	SCP 049 (STEAM_0:0:166782773): /pm bi if u are still alive, may u please release me?
+Thu Oct 11 01:05:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert SCP-049 has been re-contained and all 049-2 are dead
+Thu Oct 11 01:05:21 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:05:27 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Thu Oct 11 01:05:27 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:05:32 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:05:41 2018	Ragpan (STEAM_0:1:155698467): @stuck
+Thu Oct 11 01:05:44 2018	SCP 049 (STEAM_0:0:166782773): /ad the facility almsot got destroyed because of your failure to do whats right, now its going to blow
+Thu Oct 11 01:05:52 2018	SCP 049 (STEAM_0:0:166782773): /advert the facility almsot got destroyed because of your failure to do whats right, now its going to blow
+Thu Oct 11 01:05:57 2018	Ragpan (STEAM_0:1:155698467): @i'm stuck
+Thu Oct 11 01:06:01 2018	SCP 049 (STEAM_0:0:166782773): /ad ;)
+Thu Oct 11 01:06:05 2018	SCP 049 (STEAM_0:0:166782773): /ooc ;)
+Thu Oct 11 01:06:38 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:06:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring rag
+Thu Oct 11 01:07:07 2018	Ragpan (STEAM_0:1:155698467) disconnected
+Thu Oct 11 01:07:47 2018	Fresh_Baguette (STEAM_0:0:62069412) has joined the game
+Thu Oct 11 01:07:47 2018	Fresh_Baguette (STEAM_0:0:62069412) spawned
+Thu Oct 11 01:08:29 2018	Damnit, I Have A Crush On You was killed by Ares with a cw_l85a2
+Thu Oct 11 01:08:29 2018	Somebody was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:08:32 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Thu Oct 11 01:08:32 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:08:45 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:08:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 457 has been recontained and with that all anomalous creatures have been contained!
+Thu Oct 11 01:09:00 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) disconnected
+Thu Oct 11 01:09:08 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:09:19 2018	SCP 049 (STEAM_0:0:166782773): /ad youve failed to save the core in the process........
+Thu Oct 11 01:09:30 2018	SCP 049 (STEAM_0:0:166782773): /advert You failed to save the core in the process......
+Thu Oct 11 01:09:47 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:09:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert we have plant workers, engineers, and security to help with that
+Thu Oct 11 01:09:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !Bring bird
+Thu Oct 11 01:10:10 2018	Sammy Boom (STEAM_0:0:91181601): // yea and I (sort of) base right near the core
+Thu Oct 11 01:10:41 2018	Sammy Boom (STEAM_0:0:91181601): // btw Fat, what does the generator do
+Thu Oct 11 01:10:49 2018	Sammy Boom (STEAM_0:0:91181601): // Does it make the temp higher or lower
+Thu Oct 11 01:10:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc e coolant during meltdown
+Thu Oct 11 01:10:57 2018	Sammy Boom (STEAM_0:0:91181601): // oh
+Thu Oct 11 01:10:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no effect on tempw
+Thu Oct 11 01:10:58 2018	SCP 049 (STEAM_0:0:166782773): /advert 4k bois, better hasten your stopping of those diseased terrorists
+Thu Oct 11 01:11:15 2018	SCP 049 (STEAM_0:0:166782773): /advert the fan.....
+Thu Oct 11 01:11:22 2018	Sammy Boom (STEAM_0:0:91181601): Roger
+Thu Oct 11 01:11:26 2018	Fresh_Baguette (STEAM_0:0:62069412) disconnected
+Thu Oct 11 01:12:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Thu Oct 11 01:12:29 2018	SCP 049 (STEAM_0:0:166782773): /y sup Sexy boi
+Thu Oct 11 01:12:39 2018	SCP 049 (STEAM_0:0:166782773): /y these are hard times arent they brother
+Thu Oct 11 01:12:44 2018	Somebody (STEAM_0:0:58278368): ye
+Thu Oct 11 01:13:03 2018	Sammy Boom (STEAM_0:0:91181601): // I say we all party before the core explodes
+Thu Oct 11 01:13:19 2018	Somebody (STEAM_0:0:58278368): /y yeah
+Thu Oct 11 01:13:24 2018	SCP 049 (STEAM_0:0:166782773): /ooc save it u fools, u outnumber the terrorit coalition
+Thu Oct 11 01:14:00 2018	SCP 049 (STEAM_0:0:166782773): sexy
+Thu Oct 11 01:14:34 2018	Somebody (STEAM_0:0:58278368): /y were screwed
+Thu Oct 11 01:14:43 2018	BirdMan was killed by Ares with a cw_shorty
+Thu Oct 11 01:14:45 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:14:57 2018	SCP 049 (STEAM_0:0:166782773): /ooc NO U ARENT! u outnumber the terrorists!
+Thu Oct 11 01:15:03 2018	SCP 049 (STEAM_0:0:166782773): /ooc nvm
+Thu Oct 11 01:15:08 2018	Johnny K Bronk was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:15:08 2018	SCP 049 (STEAM_0:0:166782773): /ooc were screwed xd
+Thu Oct 11 01:15:09 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:15:12 2018	SCP 049 (STEAM_0:0:166782773): /ooc ;-;
+Thu Oct 11 01:15:26 2018	Ares was killed by [Opi] Fat Gay with a cw_g36c
+Thu Oct 11 01:15:27 2018	BirdMan (STEAM_0:1:59756947) disconnected
+Thu Oct 11 01:15:31 2018	SCP 049 (STEAM_0:0:166782773): /ooc im going insane in here
+Thu Oct 11 01:15:35 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:15:36 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:15:42 2018	Somebody (STEAM_0:0:58278368): /y yeah same
+Thu Oct 11 01:15:44 2018	[Opi] Fat Gay was killed by Torque with a cw_shorty
+Thu Oct 11 01:15:47 2018	SCP 049 (STEAM_0:0:166782773): /y Sexy at least i have u <3
+Thu Oct 11 01:15:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 01:16:40 2018	SCP 049 (STEAM_0:0:166782773): /ooc well its a pretty even fight (sam isnt gonna do anything), the core will explode if u dont do anything
+Thu Oct 11 01:17:03 2018	SCP 049 (STEAM_0:0:166782773): /ooc nvm about that
+Thu Oct 11 01:17:10 2018	Ragpan (STEAM_0:1:155698467) has joined the game
+Thu Oct 11 01:17:10 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 01:17:32 2018	Sammy Boom was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:17:35 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 01:17:59 2018	SCP 049 (STEAM_0:0:166782773): /ooc i honestly think they played stupid for not letting us out to go after them terrorists
+Thu Oct 11 01:18:08 2018	SCP 049 (STEAM_0:0:166782773): /ooc clods
+Thu Oct 11 01:18:09 2018	Somebody (STEAM_0:0:58278368): /y yeah
+Thu Oct 11 01:18:21 2018	SCP 049 (STEAM_0:0:166782773): /y ;3
+Thu Oct 11 01:18:54 2018	Sammy Boom (STEAM_0:0:91181601): // you just made me wonder why we can't just...shut down the reactor
+Thu Oct 11 01:18:55 2018	Sammy Boom (STEAM_0:0:91181601): // like turn it off
+Thu Oct 11 01:19:02 2018	Torque was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Thu Oct 11 01:19:03 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:19:07 2018	Ares was killed by [Opi] Fat Gay with a fas2_sr25
+Thu Oct 11 01:19:14 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:21:10 2018	[Opi] Fat Gay was killed by Ares with a cw_l85a2
+Thu Oct 11 01:21:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 01:21:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /pm turtle RUN
+Thu Oct 11 01:21:26 2018	SCP 049 (STEAM_0:0:166782773): /advert Well it looks like the end is emminent, so I guess this is it baby, hug me (hugs Somebody)......
+Thu Oct 11 01:21:39 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 01:21:46 2018	Somebody (STEAM_0:0:58278368): (hugs SCP 049)
+Thu Oct 11 01:21:52 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 01:22:31 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 01:22:42 2018	Torque was killed by Johnny K Bronk with a cw_g3a3
+Thu Oct 11 01:22:43 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:22:59 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 01:23:06 2018	Ares was killed by fallenturtle with a cw_deagle
+Thu Oct 11 01:23:08 2018	fallenturtle was killed by Ares with a fas2_thrown_m67
+Thu Oct 11 01:23:10 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:23:11 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:23:34 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:23:59 2018	Ragpan (STEAM_0:1:155698467) disconnected
+Thu Oct 11 01:24:03 2018	Sammy Boom was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:24:04 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 01:25:10 2018	Ares was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:25:12 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 01:25:13 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:25:40 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:26:03 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Thu Oct 11 01:26:03 2018	kevin malone (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:26:10 2018	Torque was killed by Johnny K Bronk with a cw_g3a3
+Thu Oct 11 01:26:11 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:26:18 2018	SCP 049 (STEAM_0:0:166782773): /invholster
+Thu Oct 11 01:26:34 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:26:37 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 01:26:37 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:27:04 2018	kevin malone (STEAM_0:0:63800005): /name Robert California
+Thu Oct 11 01:27:11 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:27:18 2018	Sammy Boom (STEAM_0:0:91181601): /y You going to the core?
+Thu Oct 11 01:27:22 2018	SCP 049 (STEAM_0:0:166782773): /y yes
+Thu Oct 11 01:27:24 2018	Robert California (STEAM_0:0:63800005): // you'll find it easy to embrace the sabre spirit
+Thu Oct 11 01:27:33 2018	Sammy Boom (STEAM_0:0:91181601): /y Good luck, try and turn off the booster at the back if you can
+Thu Oct 11 01:28:10 2018	Robert California (STEAM_0:0:63800005): /advert I am surrendering to the FBI.
+Thu Oct 11 01:28:27 2018	Ares (STEAM_0:0:79724754): // Theres no SCPs why is there CBRN?
+Thu Oct 11 01:28:39 2018	fallenturtle (STEAM_0:1:62867403): // why not
+Thu Oct 11 01:28:51 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Thu Oct 11 01:28:59 2018	Robert California (STEAM_0:0:63800005): // CBRN is supposed to capture SCPs right
+Thu Oct 11 01:29:03 2018	Ares (STEAM_0:0:79724754): // yes
+Thu Oct 11 01:29:11 2018	Robert California (STEAM_0:0:63800005): // ok why does a nuclear plant have scps
+Thu Oct 11 01:29:14 2018	Ares was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:29:15 2018	Torque was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:29:18 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:29:19 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:29:28 2018	Robert California (STEAM_0:0:63800005): // oy blow up the core
+Thu Oct 11 01:29:32 2018	Ares (STEAM_0:0:79724754): // We are
+Thu Oct 11 01:29:52 2018	Robert California (STEAM_0:0:63800005): // it is going down tho
+Thu Oct 11 01:29:56 2018	Not lucky (STEAM_0:0:109792021) has joined the game
+Thu Oct 11 01:29:56 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:30:02 2018	fallenturtle (STEAM_0:1:62867403): /pm fat go on executive radio
+Thu Oct 11 01:30:30 2018	Robert California was killed by Himself with a suicide trick
+Thu Oct 11 01:30:32 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:30:50 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:31:06 2018	[Opi] Fat Gay was killed by Torque with a cw_scarh
+Thu Oct 11 01:31:17 2018	Ares was killed by Himself with a suicide trick
+Thu Oct 11 01:31:17 2018	SCP 049 was killed by Ares with a fas2_thrown_m67
+Thu Oct 11 01:31:17 2018	Johnny K Bronk was killed by Torque with a cw_scarh
+Thu Oct 11 01:31:18 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:31:20 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:31:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 01:31:21 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:31:42 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 01:31:42 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:32:08 2018	Robert California (STEAM_0:0:63800005): I know everything there is to know about Russia
+Thu Oct 11 01:32:15 2018	Robert California (STEAM_0:0:63800005): stop
+Thu Oct 11 01:32:24 2018	Robert California (STEAM_0:0:63800005): we destroy core
+Thu Oct 11 01:32:39 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:33:15 2018	Robert California (STEAM_0:0:63800005): /y ALLAHU AKBAR
+Thu Oct 11 01:33:44 2018	Robert California was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 01:33:45 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:34:05 2018	BirdMan (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:34:13 2018	Sammy Boom (STEAM_0:0:91181601): /y yes
+Thu Oct 11 01:34:15 2018	Sammy Boom (STEAM_0:0:91181601): yes
+Thu Oct 11 01:34:18 2018	BirdMan (STEAM_0:1:59756947): /name HOS Light
+Thu Oct 11 01:34:53 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:34:55 2018	Sammy Boom (STEAM_0:0:91181601): // just escaped from a terrorist who couldn't shoot lol
+Thu Oct 11 01:35:06 2018	fallenturtle (STEAM_0:1:62867403): /PM SAMMY IM AT Emergency coolant
+Thu Oct 11 01:35:18 2018	Johnny K Bronk was killed by Torque with a cw_scarh
+Thu Oct 11 01:35:21 2018	Sammy Boom (STEAM_0:0:91181601): /pm fallen If you turned the lights off you have a good advantage
+Thu Oct 11 01:35:25 2018	Makarov (STEAM_0:1:71554965) has joined the game
+Thu Oct 11 01:35:25 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:35:26 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:35:28 2018	Ares was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Thu Oct 11 01:35:34 2018	Torque was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Thu Oct 11 01:35:35 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:35:38 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:35:45 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:36:06 2018	Sammy Boom (STEAM_0:0:91181601): /y It's me
+Thu Oct 11 01:36:09 2018	fallenturtle (STEAM_0:1:62867403): /pm sammy nice one
+Thu Oct 11 01:36:15 2018	Sammy Boom (STEAM_0:0:91181601): /y ok
+Thu Oct 11 01:36:25 2018	Not lucky (STEAM_0:0:109792021): /ooc what do you do in this 
+Thu Oct 11 01:36:26 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:36:36 2018	Sammy Boom (STEAM_0:0:91181601): /pm fallen shhh
+Thu Oct 11 01:36:40 2018	Not lucky (STEAM_0:0:109792021): /ooc this is my first time playing powerplant
+Thu Oct 11 01:36:43 2018	Sammy Boom (STEAM_0:0:91181601): /pm fall I'm on the balcony
+Thu Oct 11 01:36:50 2018	Sammy Boom (STEAM_0:0:91181601): /pm fall there's terrorists around
+Thu Oct 11 01:36:50 2018	Robert California (STEAM_0:0:63800005): // destroy the core
+Thu Oct 11 01:36:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // well you essentially roleplay in a power plant
+Thu Oct 11 01:36:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // you CAN do that
+Thu Oct 11 01:36:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // or
+Thu Oct 11 01:37:03 2018	Sammy Boom (STEAM_0:0:91181601): /y its next toy ou
+Thu Oct 11 01:37:09 2018	Not lucky (STEAM_0:0:109792021): /ooc can i kill people
+Thu Oct 11 01:37:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // you can help us/rp normally
+Thu Oct 11 01:37:16 2018	SCP 049 was killed by Not lucky with a cw_l85a2
+Thu Oct 11 01:37:17 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:37:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // if your terrorist yes
+Thu Oct 11 01:37:23 2018	Not lucky (STEAM_0:0:109792021): /ooc oh ok
+Thu Oct 11 01:37:29 2018	Not lucky was killed by [Opi] Fat Gay with a cw_g36c
+Thu Oct 11 01:37:30 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:37:31 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Thu Oct 11 01:37:31 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:37:37 2018	Not lucky (STEAM_0:0:109792021): /ooc i just got killed oof
+Thu Oct 11 01:37:42 2018	Ares was killed by Entity [2752][func_rotating] with a func_rotating
+Thu Oct 11 01:37:43 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:37:45 2018	Somebody was killed by Robert California with a cw_l85a2
+Thu Oct 11 01:37:49 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:38:06 2018	fallenturtle (STEAM_0:1:62867403): /pm fat do you copy we need help
+Thu Oct 11 01:38:26 2018	Robert California was killed by [Opi] Fat Gay with a cw_g36c
+Thu Oct 11 01:38:30 2018	Torque was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:38:36 2018	[Opi] Fat Gay was killed by Ares with a cw_l85a2
+Thu Oct 11 01:38:37 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:38:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 01:38:47 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:38:54 2018	Robert California (STEAM_0:0:63800005): r
+Thu Oct 11 01:39:07 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:39:57 2018	fallenturtle (STEAM_0:1:62867403): /pm hos go on the radio
+Thu Oct 11 01:40:03 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:40:05 2018	fallenturtle (STEAM_0:1:62867403): /pm hos go on executive radio
+Thu Oct 11 01:40:06 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:40:42 2018	fallenturtle was killed by Robert California with a cw_l85a2
+Thu Oct 11 01:40:45 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:40:51 2018	Not lucky (STEAM_0:0:109792021): /ooc i found food yay
+Thu Oct 11 01:40:51 2018	HOS Light was killed by Ares with a cw_shorty
+Thu Oct 11 01:41:07 2018	HOS Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:41:11 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:41:24 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:41:27 2018	Robert California (STEAM_0:0:63800005): /advert our king osama looks like a homeless santa
+Thu Oct 11 01:41:28 2018	HOS Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:41:38 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:41:45 2018	HOS Light (STEAM_0:1:59756947): /name HOC Light
+Thu Oct 11 01:41:47 2018	Not lucky was killed by [Opi] Fat Gay with a cw_m3super90
+Thu Oct 11 01:41:50 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:42:14 2018	Sammy Boom was killed by Robert California with a fas2_thrown_m67
+Thu Oct 11 01:42:20 2018	Torque (STEAM_0:0:101089741): No CBRN commander, there's no SCP right now
+Thu Oct 11 01:42:22 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 01:42:46 2018	Robert California was killed by [Opi] Fat Gay with a cw_m3super90
+Thu Oct 11 01:42:48 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:42:55 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:43:01 2018	SCP 049 was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Thu Oct 11 01:43:02 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:43:02 2018	Not lucky was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Thu Oct 11 01:43:03 2018	Sammy Boom (STEAM_0:0:91181601): /pm fall Hurry, use E-Coolant
+Thu Oct 11 01:43:04 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:43:06 2018	fallenturtle (STEAM_0:1:62867403): /advert activate e coolant
+Thu Oct 11 01:43:10 2018	fallenturtle (STEAM_0:1:62867403): /pm sammy im dead
+Thu Oct 11 01:43:17 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:43:18 2018	Makarov (STEAM_0:1:71554965) disconnected
+Thu Oct 11 01:43:19 2018	Sammy Boom (STEAM_0:0:91181601): /pm fallen Oof me too, but I'm nearly there again
+Thu Oct 11 01:43:20 2018	[Opi] Fat Gay was killed by Torque with a cw_scarh
+Thu Oct 11 01:43:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 01:43:36 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:43:40 2018	Torque (STEAM_0:0:101089741): /advert NO SAVING IT, EVACUATE
+Thu Oct 11 01:43:43 2018	Torque (STEAM_0:0:101089741) spawned
+Thu Oct 11 01:43:46 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:44:10 2018	Ares was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 01:44:11 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:44:38 2018	Robert California (STEAM_0:0:63800005): I am sorry
+Thu Oct 11 01:44:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto torq
+Thu Oct 11 01:44:43 2018	Not lucky (STEAM_0:0:109792021): /ooc aaaaaaaaaaaaaaaaa
+Thu Oct 11 01:44:53 2018	Ares was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 01:44:54 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:44:54 2018	Not lucky was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 01:44:55 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:44:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Thu Oct 11 01:45:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tor
+Thu Oct 11 01:45:04 2018	Ares (STEAM_0:0:79724754): /advert WE'RE GOPING TO FUCKING DIE
+Thu Oct 11 01:45:09 2018	Ares (STEAM_0:0:79724754): /ADVERT FUCKING RUN!
+Thu Oct 11 01:45:16 2018	Ares (STEAM_0:0:79724754): /advert THIS WAS A BAD IDEA!
+Thu Oct 11 01:45:17 2018	Robert California (STEAM_0:0:63800005): // arrest me
+Thu Oct 11 01:45:20 2018	Robert California (STEAM_0:0:63800005): // pls
+Thu Oct 11 01:45:20 2018	Robert California was killed by HOC Light with a cw_g3a3
+Thu Oct 11 01:45:22 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:45:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_regular
+Thu Oct 11 01:45:38 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:45:39 2018	HOC Light (STEAM_0:1:59756947): /ooc bye guys lol
+Thu Oct 11 01:45:45 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:46:30 2018	Sammy Boom (STEAM_0:0:91181601): Nice man
+Thu Oct 11 01:46:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring torq
+Thu Oct 11 01:47:03 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:47:08 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 01:47:11 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:47:29 2018	SCP 049 was killed by Johnny K Bronk with a weapon_crowbar
+Thu Oct 11 01:47:30 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:47:53 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:48:13 2018	Ares was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:48:14 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:48:15 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 01:48:21 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:48:23 2018	Ares (STEAM_0:0:79724754) disconnected
+Thu Oct 11 01:48:32 2018	Torque (STEAM_0:0:101089741) disconnected
+Thu Oct 11 01:48:39 2018	Sammy Boom (STEAM_0:0:91181601): // Don't forget
+Thu Oct 11 01:49:35 2018	Not lucky was killed by Himself with a suicide trick
+Thu Oct 11 01:49:43 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:49:52 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:50:31 2018	Sammy Boom was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:50:33 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 01:50:36 2018	Sammy Boom (STEAM_0:0:91181601): // wtf is making the core heat up
+Thu Oct 11 01:50:38 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 01:50:38 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 01:50:40 2018	Makarov (STEAM_0:1:71554965) has joined the game
+Thu Oct 11 01:50:40 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:50:46 2018	fallenturtle (STEAM_0:1:62867403): // lasers
+Thu Oct 11 01:50:50 2018	Sammy Boom (STEAM_0:0:91181601): // they're all off though
+Thu Oct 11 01:50:53 2018	fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 01:50:54 2018	Sammy Boom (STEAM_0:0:91181601): // and the power level is 1
+Thu Oct 11 01:50:56 2018	Johnny K Bronk was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:50:57 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 01:50:57 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:51:23 2018	Robert California (STEAM_0:0:63800005): // Core?
+Thu Oct 11 01:51:27 2018	SCP 049 (STEAM_0:0:166782773): /ooc hmm
+Thu Oct 11 01:51:29 2018	Robert California (STEAM_0:0:63800005): sammy
+Thu Oct 11 01:51:31 2018	Sammy Boom (STEAM_0:0:91181601): Ja
+Thu Oct 11 01:51:36 2018	Robert California (STEAM_0:0:63800005): i want to sell paper to you
+Thu Oct 11 01:51:40 2018	Sammy Boom (STEAM_0:0:91181601): ok
+Thu Oct 11 01:51:51 2018	Sammy Boom (STEAM_0:0:91181601): too much paper
+Thu Oct 11 01:51:53 2018	Robert California (STEAM_0:0:63800005): interested?
+Thu Oct 11 01:51:55 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:51:56 2018	HOC Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:52:02 2018	HOC Light (STEAM_0:1:59756947): /name light
+Thu Oct 11 01:52:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring light
+Thu Oct 11 01:52:09 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 01:52:15 2018	Makarov (STEAM_0:1:71554965): /ooc squeaker alert
+Thu Oct 11 01:52:18 2018	light (STEAM_0:1:59756947): models/props/forest_monster/forest_monster2.mdl
+Thu Oct 11 01:52:21 2018	Makarov (STEAM_0:1:71554965): /ooc prepare the zyklon b
+Thu Oct 11 01:52:22 2018	Robert California (STEAM_0:0:63800005): maybe we should leave
+Thu Oct 11 01:52:23 2018	Robert California (STEAM_0:0:63800005): core is heaitng
+Thu Oct 11 01:52:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !model models/props/forest_monster/forest_monster2.mdl
+Thu Oct 11 01:52:38 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 01:52:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !model ^ models/props/forest_monster/forest_monster2.mdl
+Thu Oct 11 01:52:43 2018	Robert California (STEAM_0:0:63800005): sammy
+Thu Oct 11 01:52:49 2018	Robert California (STEAM_0:0:63800005): let's get high on our own supply!
+Thu Oct 11 01:52:58 2018	Somebody (STEAM_0:0:58278368): oh yeah
+Thu Oct 11 01:52:59 2018	Sammy Boom (STEAM_0:0:91181601): I have a nightclub to do so at lol
+Thu Oct 11 01:53:07 2018	Robert California (STEAM_0:0:63800005): I like your hair btw
+Thu Oct 11 01:53:10 2018	Sammy Boom (STEAM_0:0:91181601): Danke
+Thu Oct 11 01:53:21 2018	Sammy Boom (STEAM_0:0:91181601): // found the suspected source
+Thu Oct 11 01:53:22 2018	Robert California (STEAM_0:0:63800005): /advert E-Coolant is what
+Thu Oct 11 01:53:23 2018	Not lucky was killed by fallenturtle with a cw_deagle
+Thu Oct 11 01:53:26 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:53:29 2018	Robert California (STEAM_0:0:63800005): /advert where is e-coolant
+Thu Oct 11 01:53:39 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:53:43 2018	Robert California (STEAM_0:0:63800005): /y i will come
+Thu Oct 11 01:53:53 2018	light (STEAM_0:1:59756947): models/player/stenli/lycan_werewolf.mdl
+Thu Oct 11 01:53:55 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:53:57 2018	Somebody was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:53:59 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:54:03 2018	Robert California (STEAM_0:0:63800005): i want to free 049
+Thu Oct 11 01:54:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !model ^ models/player/stenli/lycan_werewolf.mdl
+Thu Oct 11 01:54:26 2018	Somebody (STEAM_0:0:58278368): well
+Thu Oct 11 01:54:29 2018	Somebody (STEAM_0:0:58278368): shit
+Thu Oct 11 01:54:30 2018	light (STEAM_0:1:59756947): /name Black Furry
+Thu Oct 11 01:54:42 2018	Robert California (STEAM_0:0:63800005): // who here sells paper
+Thu Oct 11 01:54:56 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 01:55:28 2018	Sammy Boom (STEAM_0:0:91181601): // Just upload a video on the core exploding on the MOTD so people stop exploding it just to see it lol
+Thu Oct 11 01:55:31 2018	Robert California (STEAM_0:0:63800005): /y yo
+Thu Oct 11 01:55:49 2018	Not lucky was killed by Entity [4872][entityflame] with a entityflame
+Thu Oct 11 01:55:51 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:56:02 2018	Somebody (STEAM_0:0:58278368): !motd
+Thu Oct 11 01:56:04 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:56:09 2018	SCP 049 (STEAM_0:0:166782773): /ooc im surprised
+Thu Oct 11 01:56:13 2018	Black Furry (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:56:31 2018	Sammy Boom (STEAM_0:0:91181601): // gonna spend my last moments partying
+Thu Oct 11 01:56:46 2018	Makarov was killed by Himself with a suicide trick
+Thu Oct 11 01:56:46 2018	Spicy Wing (STEAM_0:0:176415266) disconnected
+Thu Oct 11 01:56:48 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:56:48 2018	Sammy Boom (STEAM_0:0:91181601): /advert Come on down to the Emergancy Coolant room for a bit of partying as we all die
+Thu Oct 11 01:56:53 2018	Black Furry was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Thu Oct 11 01:56:55 2018	Black Furry (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:57:08 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:57:09 2018	Somebody (STEAM_0:0:58278368): what is going on out there?
+Thu Oct 11 01:57:20 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:57:28 2018	Robert California was killed by fallenturtle with a cw_deagle
+Thu Oct 11 01:57:29 2018	Black Furry was killed by Makarov with a weapon_crowbar
+Thu Oct 11 01:57:30 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:57:31 2018	Black Furry (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:57:38 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:57:43 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_m3super90
+Thu Oct 11 01:57:45 2018	Black Furry was killed by Makarov with a weapon_crowbar
+Thu Oct 11 01:57:46 2018	SCP 049 (STEAM_0:0:166782773): /ooc so this is it?
+Thu Oct 11 01:57:48 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 01:57:51 2018	Black Furry (STEAM_0:1:59756947) spawned
+Thu Oct 11 01:57:52 2018	Robert California (STEAM_0:0:63800005): /advert STOP FRICKING AROUND
+Thu Oct 11 01:57:53 2018	SCP 049 (STEAM_0:0:166782773): /ooc well then
+Thu Oct 11 01:57:58 2018	Somebody (STEAM_0:0:58278368): /y apperently
+Thu Oct 11 01:58:24 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 01:58:31 2018	Black Furry (STEAM_0:1:59756947): /pm fat models/player/undead/undead.mdl
+Thu Oct 11 01:58:39 2018	Sammy Boom (STEAM_0:0:91181601): // lmfao
+Thu Oct 11 01:58:42 2018	Not lucky was killed by Robert California with a fas2_thrown_m67
+Thu Oct 11 01:58:43 2018	Sammy Boom (STEAM_0:0:91181601): // pizza day
+Thu Oct 11 01:58:47 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 01:58:47 2018	Somebody (STEAM_0:0:58278368): lol
+Thu Oct 11 01:59:07 2018	Robert California was killed by Not lucky with a fas2_thrown_m67
+Thu Oct 11 01:59:09 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 01:59:40 2018	Robert California was killed by Himself with a suicide trick
+Thu Oct 11 01:59:41 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 01:59:41 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 01:59:41 2018	Makarov (STEAM_0:1:71554965): /ooc yoo wtf why is dubstep playing before we all die
+Thu Oct 11 01:59:46 2018	Johnny K Bronk was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:59:46 2018	Somebody was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:59:46 2018	SCP 049 was killed by Entity [4927][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:59:46 2018	Sammy Boom was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:59:48 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:59:48 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 01:59:49 2018	Makarov (STEAM_0:1:71554965): /ooc shit lit af but still horrifying
+Thu Oct 11 01:59:50 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 01:59:53 2018	SCP 049 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:59:54 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 01:59:54 2018	Robert California (STEAM_0:0:63800005): // TSUNAMI
+Thu Oct 11 01:59:55 2018	Somebody was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 01:59:59 2018	SCP 049 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:00 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 02:00:01 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 02:00:03 2018	Not lucky (STEAM_0:0:109792021): /ooc robert why
+Thu Oct 11 02:00:04 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:00:05 2018	SCP 049 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:07 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 02:00:09 2018	Somebody was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:11 2018	Makarov was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:11 2018	Robert California was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:11 2018	Sammy Boom was killed by Entity [4935][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:11 2018	Spicy Wing was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:12 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 02:00:12 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:00:12 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:00:12 2018	SCP 049 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:13 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 02:00:15 2018	SCP 049 (STEAM_0:0:166782773): /ooc yeah
+Thu Oct 11 02:00:15 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 02:00:17 2018	Sammy Boom was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:17 2018	Spicy Wing was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:17 2018	Makarov was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:18 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:00:18 2018	Robert California was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:00:18 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:00:18 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 02:00:19 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 02:00:20 2018	SCP 049 was killed by Entity [4915][trigger_hurt] with a trigger_hurt

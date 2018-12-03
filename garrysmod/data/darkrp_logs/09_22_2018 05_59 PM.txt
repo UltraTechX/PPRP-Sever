@@ -1,0 +1,170 @@
+Sat Sep 22 17:59:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 17:59:40 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 18:00:22 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 18:00:22 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:00:40 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Sep 22 18:00:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 18:01:03 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:01:12 2018	Mark (STEAM_0:0:143859663) disconnected
+Sat Sep 22 18:03:02 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 18:03:02 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:03:21 2018	Fat Gay (STEAM_0:1:218173703): /addmoney
+Sat Sep 22 18:03:23 2018	Emmett (STEAM_0:1:41660292): !setmoney Mark 1
+Sat Sep 22 18:03:32 2018	Mark (STEAM_0:0:143859663): !add Money
+Sat Sep 22 18:03:38 2018	Fat Gay (STEAM_0:1:218173703): /addmoney mark -1
+Sat Sep 22 18:03:38 2018	Fat Gay (STEAM_0:1:218173703) added -$1 to Vix Archaser [Opi]'s wallet
+Sat Sep 22 18:03:40 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:04:45 2018	Fat Gay (STEAM_0:1:218173703): /setmoney mark 1000
+Sat Sep 22 18:04:45 2018	Fat Gay (STEAM_0:1:218173703) set Vix Archaser [Opi]'s money to $1,000
+Sat Sep 22 18:05:05 2018	Emmett (STEAM_0:1:41660292): /dropmoney 1
+Sat Sep 22 18:05:06 2018	Emmett (STEAM_0:1:41660292) has dropped $1
+Sat Sep 22 18:07:52 2018	Emmett (STEAM_0:1:41660292): /dropmoney 500
+Sat Sep 22 18:07:53 2018	Emmett (STEAM_0:1:41660292) has dropped $500
+Sat Sep 22 18:08:04 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:05 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:05 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1
+Sat Sep 22 18:08:06 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:07 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1
+Sat Sep 22 18:08:07 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:08 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:09 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:09 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1
+Sat Sep 22 18:08:10 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:11 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:11 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1
+Sat Sep 22 18:08:12 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:13 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1
+Sat Sep 22 18:08:14 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sat Sep 22 18:08:17 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 9999
+Sat Sep 22 18:08:18 2018	Fat Gay (STEAM_0:1:218173703) has dropped $9,999
+Sat Sep 22 18:08:23 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 999999
+Sat Sep 22 18:08:24 2018	Fat Gay (STEAM_0:1:218173703) has dropped $999,999
+Sat Sep 22 18:08:51 2018	Bot01 (BOT) has joined the game
+Sat Sep 22 18:08:51 2018	Bot01 (BOT) spawned
+Sat Sep 22 18:09:10 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 18:09:12 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:09:24 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 18:09:26 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:09:33 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 18:09:34 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:09:42 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 18:09:43 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:09:51 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 18:10:21 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:10:51 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 18:10:56 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:11:58 2018	Emmett (STEAM_0:1:41660292): /dropmoney 10000
+Sat Sep 22 18:11:59 2018	Emmett (STEAM_0:1:41660292) has dropped $10,000
+Sat Sep 22 18:14:35 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sat Sep 22 18:15:52 2018	Emmett (STEAM_0:1:41660292): /dropmoney 300
+Sat Sep 22 18:15:53 2018	Emmett (STEAM_0:1:41660292) has dropped $300
+Sat Sep 22 18:16:13 2018	Fat Gay was killed by Entity [4990][sent_elegant_printer] with a sent_elegant_printer
+Sat Sep 22 18:16:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 18:17:05 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Sep 22 18:17:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Sep 22 18:17:36 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 18:17:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 18:17:59 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 18:18:06 2018	Mark was killed by Himself with a suicide trick
+Sat Sep 22 18:18:08 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:18:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methylamin
+Sat Sep 22 18:18:20 2018	Emmett (STEAM_0:1:41660292): !bring mark
+Sat Sep 22 18:18:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_collectcrate
+Sat Sep 22 18:19:09 2018	Mark was killed by Entity [493][zmlab_combiner] with a zmlab_combiner
+Sat Sep 22 18:19:12 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:19:40 2018	Fat Gay was killed by Entity [2404][trigger_hurt] with a trigger_hurt
+Sat Sep 22 18:19:42 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:19:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 18:20:30 2018	Mark (STEAM_0:0:143859663): 
+Sat Sep 22 18:20:53 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:21:20 2018	Emmett (STEAM_0:1:41660292): !goto mark
+Sat Sep 22 18:21:32 2018	Emmett (STEAM_0:1:41660292): /dropmoney 20000
+Sat Sep 22 18:21:33 2018	Emmett (STEAM_0:1:41660292) has dropped $20,000
+Sat Sep 22 18:21:57 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 18:22:04 2018	Emmett (STEAM_0:1:41660292): !goto mark
+Sat Sep 22 18:39:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Sat Sep 22 18:39:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Sat Sep 22 18:39:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Sat Sep 22 18:39:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Sat Sep 22 18:39:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Sat Sep 22 18:39:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_computer
+Sat Sep 22 18:39:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_iodevice
+Sat Sep 22 18:42:33 2018	Mark was killed by Fat Gay with a csgo_bayonet
+Sat Sep 22 18:42:43 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:43:12 2018	Mark was killed by Fat Gay with a csgo_bayonet
+Sat Sep 22 18:43:15 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:43:34 2018	Mark was killed by Fat Gay with a csgo_bayonet
+Sat Sep 22 18:43:38 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 18:44:17 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 18:44:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 18:45:12 2018	Fat Gay (STEAM_0:1:218173703): !bring va
+Sat Sep 22 18:45:16 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Sat Sep 22 18:46:10 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 18:46:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 18:46:13 2018	Fat Gay (STEAM_0:1:218173703): !goto em

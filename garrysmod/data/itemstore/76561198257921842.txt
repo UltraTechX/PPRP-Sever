@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Clip1":8.0,"Ammo":8.0,"Class":"cw_makarov","Model":"models/cw2/pistols/w_makarov.mdl","Clip2":-1.0},"Class":"spawned_weapon"}]

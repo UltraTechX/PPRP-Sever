@@ -1,0 +1,67 @@
+<Logging continued from "data/ulx_logs/06-17-18.txt">
+[20:25:10] Client "Fat Gay" connected.
+[20:26:20] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 70 seconds).
+[20:26:42] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[20:26:42] Client "Fat Gay" connected.
+[20:27:13] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 31 seconds).
+[20:34:09] Client "Hap9786 [BTTE]" connected.
+[20:41:00] Client "5D-77 | Vix Archaser" connected.
+[20:41:23] Client "Hap9786 [BTTE]" spawned in server <STEAM_0:1:214673060> (took 434 seconds).
+[20:41:23] (Console) added Xander Greene to group PACUser
+[20:43:01] Xander Greene: is suicide a option
+[20:43:22] Xander Greene: is suicide a option..
+[20:49:09] Dropped "Xander Greene" from server<STEAM_0:1:214673060>
+[20:49:46] Client "5D-77 | Vix Archaser" spawned in server <STEAM_0:0:143859663> (took 526 seconds).
+[20:49:46] (Console) added Hey FURFAG to group PACUser
+[20:50:09] Client "Hap9786 [BTTE]" connected.
+[20:55:57] Client "Hap9786 [BTTE]" spawned in server <STEAM_0:1:214673060> (took 348 seconds).
+[20:56:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m1911
+[20:56:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g3a3
+[20:56:10] Fat Gay killed Hey FURFAG using player
+[20:56:16] Fat Gay was killed by trigger_hurt
+[21:01:37] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep chess_admin_tool
+[21:02:51] Fat Gay brought Hey FURFAG
+[21:02:51] Fat Gay: !bring fur
+[21:03:19] Dropped "Xander Greene" from server<STEAM_0:1:214673060>
+[21:03:37] Hey FURFAG suicided!
+[21:05:09] Hey FURFAG was killed by trigger_hurt
+[21:06:13] Fat Gay was killed by trigger_hurt
+[21:06:53] Fat Gay brought Hey FURFAG
+[21:06:53] Fat Gay: !bring fu
+[21:06:55] Hey FURFAG was killed by trigger_hurt
+[21:09:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[21:09:45] Fat Gay killed Hey FURFAG using fas2_thrown_m67
+[21:13:48] Dropped "Hey FURFAG" from server<STEAM_0:0:143859663>
+[21:23:11] Fat Gay was killed by trigger_hurt
+
+
+
+[21:35:53] New map: rp_powerplant_v2b2
+[21:36:16] Client "Fat Gay" connected.
+[21:37:03] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 47 seconds).
+[21:37:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep realrbn_tazer_mr
+[21:38:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep zmlab_extractor
+[21:38:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_defibrilator
+
+
+
+[21:44:04] New map: rp_powerplant_v2b2
+[21:44:08] Client "Fat Gay" connected.
+[21:44:40] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+[21:46:29] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methbuyer
+[21:46:34] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methdropoff
+[21:46:56] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_collectcrate
+[21:46:59] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methdropoff
+[21:47:33] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methdropoff
+[21:47:59] Fat Gay: !savezmlab
+[21:48:06] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methbuyer
+[21:50:19] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methbuyer
+[21:50:22] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_collectcrate
+[21:50:24] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methdropoff
+[21:50:49] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methdropoff
+[21:51:04] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methbuyer
+[21:51:24] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methbuyer
+[21:51:42] Fat Gay was killed by trigger_hurt
+[21:52:07] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_methbuyer
+[21:52:15] Fat Gay: !savezmlab
+[21:54:31] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

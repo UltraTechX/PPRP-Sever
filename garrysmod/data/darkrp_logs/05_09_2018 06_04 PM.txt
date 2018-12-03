@@ -1,0 +1,52 @@
+Wed May  9 18:04:27 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed May  9 18:04:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 18:04:42 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed May  9 18:04:42 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 18:05:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 18:10:00 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Wed May  9 18:10:00 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 18:12:18 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 18:15:13 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT cw_ammo_crate_regular
+Wed May  9 18:15:50 2018	Emmett (STEAM_0:1:41660292): !bring z
+Wed May  9 18:26:31 2018	Fat Gay was killed by Himself with a suicide trick
+Wed May  9 18:26:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 18:29:58 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 18:30:16 2018	Emmett (STEAM_0:1:41660292): wasup
+Wed May  9 18:33:06 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Wed May  9 18:35:01 2018	Zerrakoth (STEAM_0:1:44006700): r
+Wed May  9 18:35:23 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:35:28 2018	Zerrakoth (STEAM_0:1:44006700) spawned NPC npc_citizen
+Wed May  9 18:35:41 2018	Emmett (STEAM_0:1:41660292): // gar plz dont
+Wed May  9 18:35:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned NPC npc_citizen
+Wed May  9 18:36:18 2018	Emmett (STEAM_0:1:41660292): !goto z
+Wed May  9 18:36:22 2018	Emmett (STEAM_0:1:41660292): !goto z
+Wed May  9 18:37:51 2018	Zerrakoth was killed by Himself with a suicide trick
+Wed May  9 18:37:54 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed May  9 18:38:24 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Wed May  9 18:38:30 2018	Fat Gay (STEAM_0:1:218173703): !bring zer
+Wed May  9 18:38:59 2018	Emmett (STEAM_0:1:41660292): !goto z
+Wed May  9 18:39:33 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:39:48 2018	Fat Gay (STEAM_0:1:218173703): !ungod va
+Wed May  9 18:39:51 2018	Fat Gay (STEAM_0:1:218173703): !ungod em
+Wed May  9 18:39:57 2018	Fat Gay was killed by Emmett with a cw_l115
+Wed May  9 18:39:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 18:40:01 2018	Emmett (STEAM_0:1:41660292): !god
+Wed May  9 18:40:01 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Wed May  9 18:40:16 2018	Emmett (STEAM_0:1:41660292): !god
+Wed May  9 18:40:17 2018	Fat Gay (STEAM_0:1:218173703): !hp emm 199
+Wed May  9 18:40:19 2018	Fat Gay (STEAM_0:1:218173703): !ungod em
+Wed May  9 18:40:20 2018	Emmett was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Wed May  9 18:41:14 2018	Emmett (STEAM_0:1:41660292) spawned
+Wed May  9 18:41:50 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:42:23 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:42:42 2018	Emmett (STEAM_0:1:41660292): !bring z
+Wed May  9 18:43:12 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:44:11 2018	Zerrakoth (STEAM_0:1:44006700) disconnected
+Wed May  9 18:44:19 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:44:45 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Wed May  9 18:45:17 2018	Emmett (STEAM_0:1:41660292) disconnected
+Wed May  9 18:57:45 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Wed May  9 19:00:44 2018	Fat Gay was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Wed May  9 19:00:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 19:01:22 2018	Fat Gay was killed by Entity [1684][trigger_hurt] with a trigger_hurt
+Wed May  9 19:01:32 2018	Fat Gay (STEAM_0:1:218173703) spawned

@@ -1,0 +1,26 @@
+Tue Oct  9 22:44:31 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Tue Oct  9 22:44:31 2018	Enviro (STEAM_0:0:80115103) spawned
+Tue Oct  9 22:44:32 2018	Craftygarrett (STEAM_0:1:184775407): // fuck we need a resart
+Tue Oct  9 22:44:32 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Tue Oct  9 22:44:32 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 22:44:34 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Tue Oct  9 22:44:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Tue Oct  9 22:45:45 2018	Enviro (STEAM_0:0:80115103): // ima head off, cya all tomorrow
+Tue Oct  9 22:45:57 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Tue Oct  9 22:46:16 2018	Enviro (STEAM_0:0:80115103): // bye
+Tue Oct  9 22:46:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc see ya
+Tue Oct  9 22:46:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !changelevel rp_powerplant_v2b3
+Tue Oct  9 22:46:47 2018	Zerrakoth was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 22:46:52 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 22:47:03 2018	Zerrakoth (STEAM_0:1:44006700): /ooc the discord bot is freaking out
+Tue Oct  9 22:47:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yup
+Tue Oct  9 22:47:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dont go to discord logs at 3 am
+Tue Oct  9 22:47:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i meant
+Tue Oct  9 22:47:34 2018	Damnit, I Have A Crush On You was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 22:47:35 2018	Damnit, I Have A Crush On You (STEAM_0:1:169329981) spawned
+Tue Oct  9 22:47:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dont go to discord server logs at 3am
+Tue Oct  9 22:47:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc kill logs specifically
+Tue Oct  9 22:47:45 2018	Nagegg (STEAM_0:0:98220726) spawned
+Tue Oct  9 22:47:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu'
+Tue Oct  9 22:47:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Tue Oct  9 22:47:55 2018	Zerrakoth (STEAM_0:1:44006700): !menu

@@ -1,0 +1,28 @@
+Tue Oct  9 06:35:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct  9 06:35:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 06:35:36 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Tue Oct  9 06:35:36 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 06:37:34 2018	Remant (STEAM_0:0:140034522) has joined the game
+Tue Oct  9 06:37:34 2018	Remant (STEAM_0:0:140034522) spawned
+Tue Oct  9 06:48:32 2018	Pootis Bird was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 06:48:34 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 06:54:16 2018	Pootis Bird (STEAM_0:0:22086175): !motd
+Tue Oct  9 06:56:45 2018	Remant (STEAM_0:0:140034522) spawned
+Tue Oct  9 06:57:32 2018	Remant (STEAM_0:0:140034522) spawned
+Tue Oct  9 06:57:56 2018	Remant (STEAM_0:0:140034522) disconnected
+Tue Oct  9 07:41:35 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 07:47:14 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct  9 08:30:58 2018	Pootis Bird was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 08:31:00 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 08:52:28 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Tue Oct  9 10:00:27 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Tue Oct  9 10:00:27 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 10:05:31 2018	Pootis Bird (STEAM_0:0:22086175): 
+Tue Oct  9 10:27:13 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 10:27:41 2018	Pootis Bird was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 10:27:43 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 10:41:53 2018	Pootis Bird was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Tue Oct  9 10:41:56 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 11:04:18 2018	Pootis Bird was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Tue Oct  9 11:04:25 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 11:04:43 2018	Pootis Bird was killed by Entity [4933][trigger_hurt] with a trigger_hurt

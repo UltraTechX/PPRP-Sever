@@ -1,0 +1,7 @@
+Sun Apr 29 16:06:43 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 29 16:06:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:07:16 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Apr 29 16:07:16 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:07:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:08:28 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:09:45 2018	Fat Gay was killed by Emmett with a weapon_l4d2_frying_pan

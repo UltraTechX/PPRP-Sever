@@ -1,0 +1,391 @@
+Mon Oct  8 00:26:20 2018	Thatguy (STEAM_0:1:116482800) has joined the game
+Mon Oct  8 00:26:20 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:26:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 00:26:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 00:26:40 2018	Doodle (STEAM_0:1:61991548) has joined the game
+Mon Oct  8 00:26:40 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:27:27 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Mon Oct  8 00:27:27 2018	jimbo (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:27:32 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Mon Oct  8 00:27:32 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 00:27:32 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 00:27:32 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 00:28:19 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:28:38 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 00:28:43 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:28:53 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 00:28:57 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 00:28:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 00:29:43 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:29:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Oct  8 00:29:47 2018	Sammy Boom (STEAM_0:0:91181601) disconnected
+Mon Oct  8 00:29:56 2018	jimbo (STEAM_0:0:63800005): // destroy the kore
+Mon Oct  8 00:30:09 2018	Doodle (STEAM_0:1:61991548) disconnected
+Mon Oct  8 00:31:16 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:31:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 00:31:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 00:31:23 2018	jimbo was killed by Entity [519][prop_physics] with a prop_physics
+Mon Oct  8 00:31:25 2018	Terry Moist (STEAM_0:1:62842914) has joined the game
+Mon Oct  8 00:31:25 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 00:31:28 2018	Knight (STEAM_0:0:24467799) has joined the game
+Mon Oct  8 00:31:28 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:31:31 2018	jimbo (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:31:34 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:31:40 2018	Pizza Crust (STEAM_0:0:127633732) has joined the game
+Mon Oct  8 00:31:40 2018	Mario (STEAM_0:0:127633732) spawned
+Mon Oct  8 00:32:01 2018	jimbo (STEAM_0:0:63800005): lmao
+Mon Oct  8 00:32:29 2018	jimbo (STEAM_0:0:63800005): sorry fam
+Mon Oct  8 00:32:45 2018	[Opi] Fat Gay was killed by Entity [4873][prop_physics] with a prop_physics
+Mon Oct  8 00:32:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 00:33:06 2018	jimbo (STEAM_0:0:63800005): prank'
+Mon Oct  8 00:33:24 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Mon Oct  8 00:33:24 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 00:33:33 2018	Brandon (STEAM_0:1:67482615) has joined the game
+Mon Oct  8 00:33:33 2018	Brandon (STEAM_0:1:67482615) spawned
+Mon Oct  8 00:33:59 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 00:34:09 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:34:22 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:34:34 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:34:37 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 00:34:42 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Mon Oct  8 00:34:46 2018	jimbo (STEAM_0:0:63800005): hi
+Mon Oct  8 00:34:51 2018	jimbo was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 00:34:56 2018	jimbo (STEAM_0:0:63800005): eugh
+Mon Oct  8 00:34:56 2018	jimbo (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:35:02 2018	Sammy Boom (STEAM_0:0:91181601): Hello
+Mon Oct  8 00:35:07 2018	Sammy Boom (STEAM_0:0:91181601): ;)
+Mon Oct  8 00:35:52 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) has joined the game
+Mon Oct  8 00:35:52 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:36:00 2018	Brandon (STEAM_0:1:67482615) spawned
+Mon Oct  8 00:36:15 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Mon Oct  8 00:36:15 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Mon Oct  8 00:36:19 2018	Sammy Boom (STEAM_0:0:91181601): // Fat Gay, are there any secret locations that no one has seen yet
+Mon Oct  8 00:36:24 2018	Mike (STEAM_0:1:41660292): // yes
+Mon Oct  8 00:36:27 2018	Sammy Boom (STEAM_0:0:91181601): // or has the entire place been explored yet
+Mon Oct  8 00:36:36 2018	Sammy Boom (STEAM_0:0:91181601): // ooh I'm gonna look for those
+Mon Oct  8 00:37:52 2018	|Zulu| Chris (STEAM_0:0:113353663) has joined the game
+Mon Oct  8 00:37:52 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 00:38:38 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:38:39 2018	Mike (STEAM_0:1:41660292) spawned SENT rp_radio_microphone
+Mon Oct  8 00:38:40 2018	Doodle (STEAM_0:1:61991548) has joined the game
+Mon Oct  8 00:38:40 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:39:41 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:39:54 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Mon Oct  8 00:39:59 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:40:20 2018	Sammy Boom (STEAM_0:0:91181601): // they had GTA; How To Stop The Train videos
+Mon Oct  8 00:40:28 2018	Thatguy (STEAM_0:1:116482800): 
+Mon Oct  8 00:40:31 2018	jimbo (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:40:31 2018	Sammy Boom (STEAM_0:0:91181601): // now they'll have PPRP: How To Stop the Tram
+Mon Oct  8 00:40:34 2018	Mike (STEAM_0:1:41660292): !goto boomb
+Mon Oct  8 00:40:35 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:40:44 2018	Mario was killed by jimbo with a cw_m1911
+Mon Oct  8 00:40:49 2018	jimbo (STEAM_0:0:63800005): yo
+Mon Oct  8 00:41:03 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 00:41:07 2018	Doodle (STEAM_0:1:61991548): @ RDMing swat
+Mon Oct  8 00:41:12 2018	jimbo was killed by Doodle with a cw_deagle
+Mon Oct  8 00:41:13 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Mon Oct  8 00:41:17 2018	jimbo (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:41:56 2018	jimbo (STEAM_0:0:63800005): i am sorry i thought this was a deathmatch game sir
+Mon Oct  8 00:42:12 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo was killed by Brandon with a cw_m1911
+Mon Oct  8 00:42:14 2018	Sammy Boom (STEAM_0:0:91181601): /advert Someone's attempting to over-extend the core, we need Core Security Personel
+Mon Oct  8 00:42:14 2018	jimbo (STEAM_0:0:63800005): ok i apologize
+Mon Oct  8 00:42:17 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:42:23 2018	eror (STEAM_0:1:197330045) has joined the game
+Mon Oct  8 00:42:23 2018	eror (STEAM_0:1:197330045) spawned
+Mon Oct  8 00:42:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 00:42:40 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:42:52 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:42:52 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 00:43:17 2018	Thatguy was killed by Brandon with a cw_m1911
+Mon Oct  8 00:43:18 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:43:18 2018	eror (STEAM_0:1:197330045) spawned
+Mon Oct  8 00:43:19 2018	jimbo (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:43:28 2018	Sammy Boom (STEAM_0:0:91181601): /advert Terry Moist is trying to blow us all up, someone arrest him
+Mon Oct  8 00:43:37 2018	Thatguy was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 00:43:38 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 00:43:43 2018	Mike (STEAM_0:1:41660292): // We need someone to call a warrant on him then
+Mon Oct  8 00:43:43 2018	|Zulu| Chris (STEAM_0:0:113353663): /pm thatguy Come release the scp 049 doors lul
+Mon Oct  8 00:43:49 2018	Terry Moist (STEAM_0:1:62842914): Terry Moist would never do such a thing
+Mon Oct  8 00:43:59 2018	jimbo (STEAM_0:0:63800005): /name John A. Abrams II
+Mon Oct  8 00:44:06 2018	Sammy Boom (STEAM_0:0:91181601): // Well I'm a lowley Engineer who has no government influence
+Mon Oct  8 00:44:15 2018	jimbo (STEAM_0:0:63800005): /name Dwight F Schrute III
+Mon Oct  8 00:44:15 2018	Pootis Bird was killed by Brandon with a cw_m1911
+Mon Oct  8 00:44:25 2018	Brandon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 00:44:27 2018	Brandon (STEAM_0:1:67482615) spawned
+Mon Oct  8 00:44:35 2018	Dwight F Schrute III (STEAM_0:0:63800005): /Name Dwight F Schrute
+Mon Oct  8 00:44:48 2018	Brandon (STEAM_0:1:67482615) spawned
+Mon Oct  8 00:44:54 2018	Dwight F Schrute (STEAM_0:0:63800005): We have a terrorist situation in the Core.
+Mon Oct  8 00:44:56 2018	|Zulu| Chris (STEAM_0:0:113353663): /whisper chris g
+Mon Oct  8 00:44:57 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Mon Oct  8 00:45:07 2018	|Zulu| Chris (STEAM_0:0:113353663): /pm ch test
+Mon Oct  8 00:45:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !spc
+Mon Oct  8 00:45:31 2018	Thatguy (STEAM_0:1:116482800): /hit
+Mon Oct  8 00:45:33 2018	Dwight F Schrute (STEAM_0:0:63800005): /name Jack Ryan
+Mon Oct  8 00:45:35 2018	Thatguy (STEAM_0:1:116482800): !hit
+Mon Oct  8 00:45:39 2018	Thatguy (STEAM_0:1:116482800): 
+Mon Oct  8 00:46:04 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Mon Oct  8 00:46:04 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 00:46:06 2018	Jack Ryan (STEAM_0:0:63800005): Plant Worker
+Mon Oct  8 00:46:07 2018	Brandon (STEAM_0:1:67482615) disconnected
+Mon Oct  8 00:46:12 2018	Jack Ryan (STEAM_0:0:63800005): cyka
+Mon Oct  8 00:46:18 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:46:27 2018	Jack Ryan (STEAM_0:0:63800005): here we go
+Mon Oct  8 00:46:32 2018	Jack Ryan (STEAM_0:0:63800005): good luck fam
+Mon Oct  8 00:46:49 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Mon Oct  8 00:47:05 2018	Jack Ryan (STEAM_0:0:63800005): /name Major Favier
+Mon Oct  8 00:47:28 2018	Knight (STEAM_0:0:24467799): !MOTD
+Mon Oct  8 00:47:30 2018	Knight (STEAM_0:0:24467799): !motd
+Mon Oct  8 00:47:33 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 00:47:52 2018	Major Favier (STEAM_0:0:63800005): pizzer day?
+Mon Oct  8 00:47:59 2018	Major Favier (STEAM_0:0:63800005): shit
+Mon Oct  8 00:48:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc come to warehouse and add your contribution to the bowsette shrine, find 3 of your fav pics and put them on signs
+Mon Oct  8 00:48:07 2018	Terry Moist was killed by Major Favier with a cw_g36c
+Mon Oct  8 00:48:11 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 00:48:14 2018	Terry Moist (STEAM_0:1:62842914) disconnected
+Mon Oct  8 00:48:17 2018	Knight (STEAM_0:0:24467799): !motd
+Mon Oct  8 00:48:20 2018	Mike (STEAM_0:1:41660292): // What the fuck Ultra
+Mon Oct  8 00:48:51 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:49:05 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:49:21 2018	eror (STEAM_0:1:197330045) spawned
+Mon Oct  8 00:50:17 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) disconnected
+Mon Oct  8 00:50:19 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 00:50:38 2018	Major Favier (STEAM_0:0:63800005): hey
+Mon Oct  8 00:50:42 2018	Major Favier (STEAM_0:0:63800005): we have to stop this dick
+Mon Oct  8 00:50:46 2018	TempusBilBoJo (STEAM_0:0:204382926): damn you THICC
+Mon Oct  8 00:50:48 2018	Major Favier (STEAM_0:0:63800005): stay here
+Mon Oct  8 00:50:53 2018	eror was killed by Knight with a weapon_crowbar
+Mon Oct  8 00:50:56 2018	eror (STEAM_0:1:197330045) spawned
+Mon Oct  8 00:51:02 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:51:21 2018	eror (STEAM_0:1:197330045) spawned
+Mon Oct  8 00:51:38 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 00:51:41 2018	Knight (STEAM_0:0:24467799): !motd
+Mon Oct  8 00:52:44 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 00:53:00 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) has joined the game
+Mon Oct  8 00:53:00 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:53:08 2018	eror (STEAM_0:1:197330045) disconnected
+Mon Oct  8 00:53:08 2018	Major Favier (STEAM_0:0:63800005): How do we smash this
+Mon Oct  8 00:53:16 2018	Major Favier (STEAM_0:0:63800005): someone is coming
+Mon Oct  8 00:53:50 2018	Mike (STEAM_0:1:41660292): // who tf turned the power up to 4
+Mon Oct  8 00:53:55 2018	Major Favier (STEAM_0:0:63800005): shh
+Mon Oct  8 00:54:07 2018	Major Favier (STEAM_0:0:63800005): // we are trying to destroy the core sir
+Mon Oct  8 00:54:12 2018	Knight (STEAM_0:0:24467799): /dropmoney 100
+Mon Oct  8 00:54:13 2018	Knight (STEAM_0:0:24467799) has dropped $100
+Mon Oct  8 00:54:15 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:54:17 2018	Mike (STEAM_0:1:41660292): // after I built this whole gate
+Mon Oct  8 00:54:19 2018	Mike (STEAM_0:1:41660292): // bruh
+Mon Oct  8 00:54:21 2018	Major Favier (STEAM_0:0:63800005): // yes boss
+Mon Oct  8 00:54:40 2018	Major Favier (STEAM_0:0:63800005): kill all
+Mon Oct  8 00:54:44 2018	Major Favier (STEAM_0:0:63800005): whom come in 
+Mon Oct  8 00:54:47 2018	Doodle (STEAM_0:1:61991548): no
+Mon Oct  8 00:54:50 2018	Major Favier (STEAM_0:0:63800005): pls
+Mon Oct  8 00:55:02 2018	Major Favier (STEAM_0:0:63800005): // i have political motives
+Mon Oct  8 00:55:12 2018	Major Favier (STEAM_0:0:63800005): stay there
+Mon Oct  8 00:55:13 2018	Mike (STEAM_0:1:41660292): // Yep ur username says it
+Mon Oct  8 00:55:41 2018	Major Favier (STEAM_0:0:63800005): // how to bomb core
+Mon Oct  8 00:55:46 2018	Major Favier (STEAM_0:0:63800005): // lower core or raise
+Mon Oct  8 00:55:50 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): it is gonna die
+Mon Oct  8 00:55:59 2018	Major Favier was killed by Doodle with a cw_g36c
+Mon Oct  8 00:56:21 2018	Doodle (STEAM_0:1:61991548): @ major favier attempted to rdm the plant director
+Mon Oct  8 00:56:24 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 00:56:27 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): say bye
+Mon Oct  8 00:56:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mah
+Mon Oct  8 00:56:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring maj
+Mon Oct  8 00:57:02 2018	Major Favier (STEAM_0:0:63800005): what
+Mon Oct  8 00:57:04 2018	Major Favier (STEAM_0:0:63800005): can you repeat
+Mon Oct  8 00:57:11 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 00:57:15 2018	Major Favier (STEAM_0:0:63800005): no i attempt to destroy this core
+Mon Oct  8 00:57:24 2018	Major Favier (STEAM_0:0:63800005): allahu akbar
+Mon Oct  8 00:57:36 2018	Major Favier (STEAM_0:0:63800005): wait
+Mon Oct  8 00:57:37 2018	Major Favier (STEAM_0:0:63800005): sir
+Mon Oct  8 00:57:39 2018	Sammy Boom (STEAM_0:0:91181601): // lol you can actually stop the fan using props
+Mon Oct  8 00:57:48 2018	Major Favier (STEAM_0:0:63800005): sir
+Mon Oct  8 00:57:52 2018	Major Favier (STEAM_0:0:63800005): i have questions
+Mon Oct  8 00:57:59 2018	Major Favier (STEAM_0:0:63800005): can you make bombing
+Mon Oct  8 00:58:07 2018	Major Favier (STEAM_0:0:63800005): ok
+Mon Oct  8 00:58:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn favi att RDM + failrp
+Mon Oct  8 00:58:10 2018	Major Favier (STEAM_0:0:63800005): how to become terrorism
+Mon Oct  8 00:58:21 2018	Major Favier (STEAM_0:0:63800005): how to come to that 
+Mon Oct  8 00:58:27 2018	Major Favier (STEAM_0:0:63800005): conclusion
+Mon Oct  8 00:58:28 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): lol
+Mon Oct  8 00:58:42 2018	Major Favier (STEAM_0:0:63800005): i applied for the job
+Mon Oct  8 00:58:51 2018	Major Favier (STEAM_0:0:63800005): i have resume
+Mon Oct  8 00:58:58 2018	Major Favier (STEAM_0:0:63800005): sir
+Mon Oct  8 00:59:01 2018	Major Favier (STEAM_0:0:63800005): i have question sir
+Mon Oct  8 00:59:12 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo was killed by Major Favier with a cw_g36c
+Mon Oct  8 00:59:15 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 00:59:20 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): gg rip
+Mon Oct  8 00:59:23 2018	Major Favier (STEAM_0:0:63800005): /y AHHH
+Mon Oct  8 00:59:25 2018	Poontang (STEAM_0:0:128103662) has joined the game
+Mon Oct  8 00:59:25 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 00:59:32 2018	Sammy Boom was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct  8 00:59:33 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 00:59:40 2018	TempusBilBoJo (STEAM_0:0:204382926): // Fat Gay makes me mist
+Mon Oct  8 00:59:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc thanks
+Mon Oct  8 00:59:56 2018	Sammy Boom (STEAM_0:0:91181601): // btw Fat Gay are there any secret locations on this map or is it all just based around the facility
+Mon Oct  8 00:59:59 2018	Major Favier (STEAM_0:0:63800005): terrorist detected
+Mon Oct  8 01:00:07 2018	Major Favier was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:00:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc nothing "secret" per say
+Mon Oct  8 01:00:11 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:00:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc aside from the code over the intercom
+Mon Oct  8 01:00:15 2018	TempusBilBoJo was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:00:16 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:00:24 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): we need to go fast like sanic
+Mon Oct  8 01:00:26 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:00:27 2018	Sammy Boom (STEAM_0:0:91181601): yea
+Mon Oct  8 01:00:33 2018	Sammy Boom (STEAM_0:0:91181601): // Does that code go to the Coolant thing?
+Mon Oct  8 01:00:34 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:00:38 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): idk
+Mon Oct  8 01:00:38 2018	Mike (STEAM_0:1:41660292): // yes
+Mon Oct  8 01:00:40 2018	Major Favier was killed by Himself with a suicide trick
+Mon Oct  8 01:00:44 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:00:50 2018	Major Favier (STEAM_0:0:63800005): core
+Mon Oct  8 01:00:55 2018	Major Favier (STEAM_0:0:63800005): g
+Mon Oct  8 01:01:07 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): wanna blow uo the core
+Mon Oct  8 01:01:07 2018	Sammy Boom (STEAM_0:0:91181601): /y ok
+Mon Oct  8 01:01:09 2018	TempusBilBoJo was killed by Doodle with a cw_g36c
+Mon Oct  8 01:01:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !god
+Mon Oct  8 01:01:12 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:01:15 2018	Major Favier was killed by Himself with a suicide trick
+Mon Oct  8 01:01:15 2018	Doodle was killed by Major Favier with a env_explosion
+Mon Oct  8 01:01:16 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): lets do it
+Mon Oct  8 01:01:17 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:01:18 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:01:57 2018	Major Favier was killed by Himself with a suicide trick
+Mon Oct  8 01:02:00 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:02:17 2018	Sammy Boom (STEAM_0:0:91181601): // maybe the meltdown thing should be like 5200 k instead of just 5000 k
+Mon Oct  8 01:02:21 2018	Major Favier (STEAM_0:0:63800005): @ bin laden is dead actually
+Mon Oct  8 01:02:40 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): can i get let in please
+Mon Oct  8 01:02:43 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): sir
+Mon Oct  8 01:03:06 2018	Sammy Boom was killed by Major Favier with a cw_l85a2
+Mon Oct  8 01:03:10 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 01:03:17 2018	Thatguy was killed by Major Favier with a cw_l85a2
+Mon Oct  8 01:03:25 2018	TempusBilBoJo was killed by Himself with a suicide trick
+Mon Oct  8 01:03:25 2018	Major Favier was killed by TempusBilBoJo with a env_explosion
+Mon Oct  8 01:03:27 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:03:29 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:03:36 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:03:50 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:04:09 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 01:04:11 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:04:18 2018	Sammy Boom (STEAM_0:0:91181601): // I keep forgetting I have a pipe wrench
+Mon Oct  8 01:04:19 2018	Major Favier was killed by Himself with a suicide trick
+Mon Oct  8 01:04:20 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:04:21 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:04:26 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): me either
+Mon Oct  8 01:04:28 2018	Major Favier (STEAM_0:0:63800005): // Nuke the bomb
+Mon Oct  8 01:04:48 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:04:57 2018	Major Favier (STEAM_0:0:63800005): // 800k to go
+Mon Oct  8 01:05:09 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): eskiet
+Mon Oct  8 01:05:32 2018	Sammy Boom was killed by Doodle with a cw_l85a2
+Mon Oct  8 01:05:32 2018	TempusBilBoJo was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:05:35 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:05:37 2018	Mike (STEAM_0:1:41660292): !goto fat
+Mon Oct  8 01:05:43 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 01:05:48 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:06:00 2018	Major Favier (STEAM_0:0:63800005): // this is my computer last year
+Mon Oct  8 01:06:15 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 01:06:24 2018	|Zulu| Chris was killed by Major Favier with a cw_l85a2
+Mon Oct  8 01:06:25 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:06:41 2018	Poontang (STEAM_0:0:128103662): I don't know
+Mon Oct  8 01:06:42 2018	Mario (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:06:51 2018	TempusBilBoJo (STEAM_0:0:204382926): // EVERYONE EVACUATE
+Mon Oct  8 01:06:58 2018	Major Favier (STEAM_0:0:63800005): /y ALLAH AKBAR!
+Mon Oct  8 01:07:05 2018	Mario (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:07:13 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): // goodbye friends
+Mon Oct  8 01:07:32 2018	Mario (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:07:40 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:07:56 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:08:00 2018	Sammy Boom was killed by TempusBilBoJo with a cw_mr96
+Mon Oct  8 01:08:02 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 01:08:02 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:08:10 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:08:13 2018	|Zulu| Chris (STEAM_0:0:113353663): /demote doodle failrp
+Mon Oct  8 01:08:23 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:08:27 2018	Major Favier (STEAM_0:0:63800005): ALLAH
+Mon Oct  8 01:08:30 2018	Sammy Boom (STEAM_0:0:91181601): lmfao
+Mon Oct  8 01:08:35 2018	Major Favier (STEAM_0:0:63800005): JIHAD
+Mon Oct  8 01:08:38 2018	Thatguy (STEAM_0:1:116482800): /hit
+Mon Oct  8 01:08:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc BOWSETTE SHRINE SO HOT WE HAD A MELTDOWN
+Mon Oct  8 01:08:48 2018	Mario (STEAM_0:0:127633732): /name Gerald
+Mon Oct  8 01:08:48 2018	Major Favier (STEAM_0:0:63800005): ALLAH
+Mon Oct  8 01:08:50 2018	Major Favier (STEAM_0:0:63800005): // ALLAH
+Mon Oct  8 01:09:01 2018	Gerald was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:09:03 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:09:06 2018	|Zulu| Chris (STEAM_0:0:113353663): // Doodle don't failrp
+Mon Oct  8 01:09:14 2018	Sammy Boom (STEAM_0:0:91181601): // these contraptions could not be slower
+Mon Oct  8 01:09:15 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): nooo
+Mon Oct  8 01:09:16 2018	Doodle (STEAM_0:1:61991548): ?
+Mon Oct  8 01:09:17 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): noo
+Mon Oct  8 01:09:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc report this shit, use @ or !report
+Mon Oct  8 01:09:28 2018	|Zulu| Chris (STEAM_0:0:113353663): 
+Mon Oct  8 01:09:29 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): @ i am stuck
+Mon Oct  8 01:09:32 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:09:36 2018	TempusBilBoJo (STEAM_0:0:204382926): // You should make the trams go at lightspeed during core meltdown
+Mon Oct  8 01:09:39 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): /warrant mike stuck
+Mon Oct  8 01:09:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 01:09:48 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): where do we go!
+Mon Oct  8 01:10:12 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): ohohowafaj1!!
+Mon Oct  8 01:10:14 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): disgsdmgmdsgmsdimgse
+Mon Oct  8 01:10:15 2018	Major Favier (STEAM_0:0:63800005): ALALH
+Mon Oct  8 01:10:16 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): oooooooooooooooo
+Mon Oct  8 01:10:19 2018	Major Favier was killed by Himself with a suicide trick
+Mon Oct  8 01:10:21 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): we go to fucking sanic the fucking shit
+Mon Oct  8 01:10:22 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:10:28 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): get your hacks on and noclip us
+Mon Oct  8 01:10:35 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:10:37 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): i love you
+Mon Oct  8 01:10:46 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): i would tap that 
+Mon Oct  8 01:10:48 2018	Sammy Boom was killed by Major Favier with a cw_l85a2
+Mon Oct  8 01:10:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring dood
+Mon Oct  8 01:10:53 2018	Sammy Boom (STEAM_0:0:91181601): // coolant and a giant fan won't work during meltdown, but elevators will
+Mon Oct  8 01:10:53 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 01:10:59 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): // lol
+Mon Oct  8 01:11:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 01:11:21 2018	|Zulu| Chris was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:11:21 2018	TempusBilBoJo (STEAM_0:0:204382926): hey
+Mon Oct  8 01:11:22 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:11:24 2018	Mike (STEAM_0:1:41660292): hey
+Mon Oct  8 01:11:24 2018	TempusBilBoJo (STEAM_0:0:204382926): how ya doin
+Mon Oct  8 01:11:38 2018	Mike (STEAM_0:1:41660292): kinda got some ptsd from being in 40 meltdowns today
+Mon Oct  8 01:11:52 2018	TempusBilBoJo was killed by Himself with a suicide trick
+Mon Oct  8 01:11:57 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:12:04 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:12:07 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo was killed by Poontang with a cw_g3a3
+Mon Oct  8 01:12:08 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 01:12:08 2018	Major Favier (STEAM_0:0:63800005): // When does meltdown happen
+Mon Oct  8 01:12:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc NOW LOL
+Mon Oct  8 01:12:17 2018	Major Favier (STEAM_0:0:63800005): // oof
+Mon Oct  8 01:12:20 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867): // bye friends!!!!!!!!!!!!!!!
+Mon Oct  8 01:12:37 2018	|Zulu| Chris (STEAM_0:0:113353663): // that drop tho
+Mon Oct  8 01:12:40 2018	Sammy Boom (STEAM_0:0:91181601): // name of music pls
+Mon Oct  8 01:12:44 2018	Knight was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:12:44 2018	|Zulu| Chris was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:12:45 2018	Major Favier was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:12:46 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 01:12:47 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:12:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc tsunami hardstlye
+Mon Oct  8 01:12:50 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:12:52 2018	|Zulu| Chris was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:12:54 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:12:59 2018	|Zulu| Chris was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:00 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:13:01 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:13:05 2018	Major Favier (STEAM_0:0:63800005): // chernobyl disaster (1986, colorized)
+Mon Oct  8 01:13:05 2018	|Zulu| Chris was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:06 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:13:09 2018	Sammy Boom (STEAM_0:0:91181601): // lmfao
+Mon Oct  8 01:13:09 2018	Poontang was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:10 2018	Gerald was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:10 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:10 2018	Thatguy was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:11 2018	|Zulu| Chris was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:12 2018	|Zulu| Chris (STEAM_0:0:113353663): // Fag
+Mon Oct  8 01:13:13 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:13:14 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 01:13:16 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:13:18 2018	|Zulu| Chris was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:19 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:13:19 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:21 2018	๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo (STEAM_0:0:78898867) spawned
+Mon Oct  8 01:13:21 2018	Major Favier was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:13:22 2018	Major Favier (STEAM_0:0:63800005) spawned

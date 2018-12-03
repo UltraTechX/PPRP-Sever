@@ -1,0 +1,5 @@
+Sat Oct 20 17:22:41 2018 - Nick: Nibbler | IP: 108.2.164.21 | SteamID: STEAM_0:1:81708481.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sat Oct 20 17:42:49 2018 - Nick: Nibbler | IP: 108.2.164.21 | SteamID: STEAM_0:1:81708481.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

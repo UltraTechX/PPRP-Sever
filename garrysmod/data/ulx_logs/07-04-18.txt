@@ -1,0 +1,568 @@
+[05:05:07] New map: rp_powerplant_v2b2
+[21:46:52] Client "Fat Gay" connected.
+[21:48:47] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 115 seconds).
+[21:53:23] Client "Valien" connected.
+[21:55:17] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 114 seconds).
+[21:59:04] Fat Gay: !rewards
+[21:59:05] Emmett: !rewards
+[21:59:54] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[21:59:57] Fat Gay: !report
+[22:00:00] Emmett: !report
+[22:00:10] Fat Gay teleported to Emmett
+[22:00:10] Fat Gay: !goto em
+[22:00:32] Fat Gay: !menu
+[22:03:46] Fat Gay: !men
+[22:03:48] Fat Gay: !menu
+[22:06:03] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:06:07] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:09:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:09:52] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:09:55] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:09:58] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:05] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:07] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:09] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:11] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:12] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:13] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:13] Fat Gay<STEAM_0:1:218173703> used the tool wire_cpu on maps/rp_powerplant_v2b2.bsp
+[22:10:19] Emmett: !goto f
+[22:10:19] Fat Gay: !bring em
+[22:10:23] Emmett teleported to Fat Gay
+[22:10:23] Emmett: !goto F
+[22:10:48] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[22:10:51] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[22:10:56] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[22:10:58] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[22:11:00] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[22:11:16] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[22:11:17] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[22:11:18] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:11:19] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:11:21] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[22:11:22] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[22:11:24] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[22:11:25] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[22:11:26] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:11:27] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:13:05] Emmett<STEAM_0:1:41660292> used the tool pcspawn_printer on maps/rp_powerplant_v2b2.bsp
+[22:13:11] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:13:12] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:13:12] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:13:14] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:14:26] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_printer on maps/rp_powerplant_v2b2.bsp
+[22:14:27] Emmett<STEAM_0:1:41660292> used the tool pcspawn_printer on maps/rp_powerplant_v2b2.bsp
+[22:14:31] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:14:31] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:14:32] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:14:33] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:16:34] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[22:17:04] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[22:17:07] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_router on maps/rp_powerplant_v2b2.bsp
+[22:17:11] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[22:18:17] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_speaker on maps/rp_powerplant_v2b2.bsp
+[22:18:26] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_junk/metalbucket01a.mdl
+[22:18:28] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_junk/metalbucket01a.mdl
+[22:18:29] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:18:30] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:18:36] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_splitter on maps/rp_powerplant_v2b2.bsp
+[22:18:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[22:18:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/tpplug.mdl
+[22:18:41] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_junk/metalbucket01a.mdl
+[22:18:42] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_junk/metalbucket01a.mdl
+[22:18:42] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/tpplug.mdl
+[22:18:46] Fat Gay<STEAM_0:1:218173703> used the tool pcunwire on models/props_junk/metalbucket01a.mdl
+[22:18:46] Fat Gay<STEAM_0:1:218173703> used the tool pcunwire on models/props_lab/tpplug.mdl
+[22:18:50] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_junk/metalbucket01a.mdl
+[22:18:51] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_junk/metalbucket01a.mdl
+[22:18:51] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/tpplug.mdl
+[22:18:52] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/tpplug.mdl
+[22:18:53] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/tpplug.mdl
+[22:18:54] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/tpplug.mdl
+[22:18:55] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:18:56] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:20:02] Emmett<STEAM_0:1:41660292> used the tool pcspawn_router on maps/rp_powerplant_v2b2.bsp
+[22:20:25] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[22:20:36] Emmett<STEAM_0:1:41660292> used the tool pcspawn_iodevice on maps/rp_powerplant_v2b2.bsp
+[22:20:38] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_iodevice on maps/rp_powerplant_v2b2.bsp
+[22:20:40] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01d.mdl
+[22:20:43] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[22:20:45] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[22:20:48] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[22:20:49] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[22:21:03] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:21:15] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[22:21:18] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/cheeze/wires/speaker.mdl
+[22:21:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/props_lab/reciever01d.mdl
+[22:21:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/props_lab/reciever01d.mdl
+[22:21:23] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/cheeze/wires/speaker.mdl
+[22:21:24] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01d.mdl
+[22:21:25] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01d.mdl
+[22:21:26] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/cheeze/wires/speaker.mdl
+[22:21:27] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[22:21:27] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:21:30] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[22:21:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[22:21:37] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:21:39] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[22:21:40] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:21:41] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:21:45] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:21:46] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:21:48] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:21:53] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:21:59] Emmett<STEAM_0:1:41660292> used the tool pcunwire on models/pcmod/kopierer.mdl
+[22:21:59] Emmett<STEAM_0:1:41660292> used the tool pcunwire on models/pcmod/kopierer.mdl
+[22:22:01] Emmett<STEAM_0:1:41660292> used the tool pcunwire on models/pcmod/kopierer.mdl
+[22:22:04] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:22:05] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:22:06] Client "Bot01" connected.
+[22:22:06] Client "Bot01" spawned in server <BOT> (took 62269 seconds).
+[22:22:06] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:22:08] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:22:08] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:22:10] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/kopierer.mdl
+[22:22:11] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[22:22:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[22:22:31] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:22:31] Bot01 suicided!
+[22:23:01] Bot01 suicided!
+[22:23:31] Bot01 suicided!
+[22:24:01] Bot01 suicided!
+[22:24:19] Emmett<STEAM_0:1:41660292> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[22:24:31] Bot01 suicided!
+[22:25:01] Bot01 suicided!
+[22:25:31] Bot01 suicided!
+[22:26:01] Bot01 suicided!
+[22:26:31] Bot01 suicided!
+[22:27:01] Bot01 suicided!
+[22:27:31] Bot01 suicided!
+[22:28:01] Bot01 suicided!
+[22:28:31] Bot01 suicided!
+[22:29:01] Bot01 suicided!
+[22:29:31] Bot01 suicided!
+[22:30:01] Bot01 suicided!
+[22:30:31] Bot01 suicided!
+[22:31:01] Bot01 suicided!
+[22:31:31] Bot01 suicided!
+[22:32:01] Bot01 suicided!
+[22:32:31] Bot01 suicided!
+[22:33:01] Bot01 suicided!
+[22:33:31] Bot01 suicided!
+[22:34:01] Bot01 suicided!
+[22:34:31] Bot01 suicided!
+[22:35:01] Bot01 suicided!
+[22:35:31] Bot01 suicided!
+[22:36:01] Bot01 suicided!
+[22:36:31] Bot01 suicided!
+[22:37:01] Bot01 suicided!
+[22:37:31] Bot01 suicided!
+[22:38:01] Bot01 suicided!
+[22:38:31] Bot01 suicided!
+[22:39:01] Bot01 suicided!
+[22:39:31] Bot01 suicided!
+[22:40:01] Bot01 suicided!
+[22:40:31] Bot01 suicided!
+[22:41:01] Bot01 suicided!
+[22:41:31] Bot01 suicided!
+[22:42:01] Bot01 suicided!
+[22:42:31] Bot01 suicided!
+[22:42:46] Bot01 suicided!
+[22:42:56] Bot01 suicided!
+[22:43:06] Bot01 suicided!
+[22:43:16] Bot01 suicided!
+[22:43:26] Bot01 suicided!
+[22:43:36] Bot01 suicided!
+[22:43:46] Bot01 suicided!
+[22:43:56] Bot01 suicided!
+[22:44:06] Bot01 suicided!
+[22:44:16] Bot01 suicided!
+[22:44:26] Bot01 suicided!
+[22:44:36] Bot01 suicided!
+[22:44:46] Bot01 suicided!
+[22:44:56] Bot01 suicided!
+[22:45:06] Bot01 suicided!
+[22:45:16] Bot01 suicided!
+[22:45:26] Bot01 suicided!
+[22:45:36] Bot01 suicided!
+[22:45:46] Bot01 suicided!
+[22:45:56] Bot01 suicided!
+[22:46:06] Bot01 suicided!
+[22:46:16] Bot01 suicided!
+[22:46:26] Bot01 suicided!
+[22:46:36] Bot01 suicided!
+[22:46:46] Bot01 suicided!
+[22:46:56] Bot01 suicided!
+[22:47:06] Bot01 suicided!
+[22:47:16] Bot01 suicided!
+[22:47:26] Bot01 suicided!
+[22:47:36] Bot01 suicided!
+[22:47:46] Bot01 suicided!
+[22:47:56] Bot01 suicided!
+[22:48:06] Bot01 suicided!
+[22:48:16] Emmett suicided!
+[22:48:16] Bot01 suicided!
+[22:48:46] Bot01 suicided!
+[22:49:16] Bot01 suicided!
+[22:49:46] Bot01 suicided!
+[22:50:18] Bot01 suicided!
+[22:50:57] Bot01 suicided!
+[22:51:27] Bot01 suicided!
+[22:51:57] Bot01 suicided!
+[22:52:27] Bot01 suicided!
+[22:52:57] Bot01 suicided!
+[22:53:27] Bot01 suicided!
+[22:53:57] Bot01 suicided!
+[22:54:27] Bot01 suicided!
+[22:54:57] Bot01 suicided!
+[22:55:27] Bot01 suicided!
+[22:55:57] Bot01 suicided!
+[22:56:27] Bot01 suicided!
+[22:56:57] Bot01 suicided!
+[22:57:27] Bot01 suicided!
+[22:57:57] Bot01 suicided!
+[22:58:28] Bot01 suicided!
+[22:58:58] Bot01 suicided!
+[22:59:28] Bot01 suicided!
+[22:59:58] Bot01 suicided!
+[23:00:28] Bot01 suicided!
+[23:00:58] Bot01 suicided!
+[23:01:28] Bot01 suicided!
+[23:01:58] Bot01 suicided!
+[23:02:28] Bot01 suicided!
+[23:03:00] Bot01 suicided!
+[23:03:38] Bot01 suicided!
+[23:04:09] Bot01 suicided!
+[23:04:38] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[23:04:39] Bot01 suicided!
+[23:04:41] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[23:04:58] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on models/props_wasteland/controlroom_desk001b.mdl
+[23:05:09] Bot01 suicided!
+[23:05:17] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on models/props_wasteland/controlroom_desk001b.mdl
+[23:05:33] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on models/props/cs_office/computer_keyboard.mdl
+[23:05:39] Bot01 suicided!
+[23:05:58] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:06:00] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:06:01] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:06:02] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:06:04] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:06:06] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:06:07] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:06:08] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:06:09] Bot01 suicided!
+[23:06:21] Emmett<STEAM_0:1:41660292> spawned vehicle models/nova/chair_office01.mdl
+[23:06:39] Bot01 suicided!
+[23:07:09] Bot01 suicided!
+[23:07:39] Bot01 suicided!
+[23:08:09] Bot01 suicided!
+[23:08:39] Bot01 suicided!
+[23:09:09] Bot01 suicided!
+[23:09:39] Bot01 suicided!
+[23:10:10] Bot01 suicided!
+[23:10:15] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on models/props_wasteland/controlroom_desk001b.mdl
+[23:10:30] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on models/props_wasteland/controlroom_desk001b.mdl
+[23:10:38] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:10:40] Bot01 suicided!
+[23:10:56] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:10:57] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:10:58] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:10:58] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:10:59] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:11:00] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:11:01] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:11:01] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:11:02] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:11:10] Bot01 suicided!
+[23:11:40] Bot01 suicided!
+[23:12:10] Bot01 suicided!
+[23:12:24] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:25] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props/cs_office/computer_case.mdl
+[23:12:26] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props/cs_office/computer_case.mdl
+[23:12:37] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:38] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:38] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:38] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:39] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:39] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props/cs_office/computer_case.mdl
+[23:12:40] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props/cs_office/computer_case.mdl
+[23:12:40] Bot01 suicided!
+[23:12:40] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:40] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props_wasteland/controlroom_desk001b.mdl
+[23:12:47] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props_wasteland/controlroom_desk001b.mdl
+[23:12:47] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on models/props_wasteland/controlroom_desk001b.mdl
+[23:12:49] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:50] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:52] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:12:52] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:13:10] Bot01 suicided!
+[23:13:40] Bot01 suicided!
+[23:14:07] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[23:14:10] Bot01 suicided!
+[23:14:11] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:14:15] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[23:14:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:14:31] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:14:32] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:14:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:14:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:14:35] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:14:35] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:14:36] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:14:40] Bot01 suicided!
+[23:14:50] Emmett<STEAM_0:1:41660292> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[23:14:53] Emmett<STEAM_0:1:41660292> used the tool pcspawn_router on models/props_lab/reciever01a.mdl
+[23:15:07] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:15:10] Bot01 suicided!
+[23:15:11] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:15:12] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:15:13] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:15:40] Bot01 suicided!
+[23:15:45] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:15:52] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:16:10] Bot01 suicided!
+[23:16:14] Emmett<STEAM_0:1:41660292> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[23:16:18] Emmett<STEAM_0:1:41660292> used the tool pcspawn_router on maps/rp_powerplant_v2b2.bsp
+[23:16:27] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:16:28] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:16:29] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:16:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:16:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:16:35] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:16:36] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:16:37] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:16:40] Bot01 suicided!
+[23:17:10] Bot01 suicided!
+[23:17:40] Bot01 suicided!
+[23:18:10] Bot01 suicided!
+[23:18:16] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:18:17] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:18:18] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:18:21] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:18:22] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:18:24] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:18:25] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:18:40] Bot01 suicided!
+[23:19:10] Bot01 suicided!
+[23:19:40] Bot01 suicided!
+[23:20:10] Bot01 suicided!
+[23:20:40] Bot01 suicided!
+[23:21:10] Bot01 suicided!
+[23:21:40] Bot01 suicided!
+[23:22:10] Bot01 suicided!
+[23:22:19] Bot01 suicided!
+[23:22:26] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:22:29] Bot01 suicided!
+[23:22:39] Bot01 suicided!
+[23:22:49] Bot01 suicided!
+[23:22:59] Bot01 suicided!
+[23:23:09] Bot01 suicided!
+[23:23:19] Bot01 suicided!
+[23:23:29] Bot01 suicided!
+[23:23:39] Bot01 suicided!
+[23:23:49] Bot01 suicided!
+[23:23:59] Bot01 suicided!
+[23:24:09] Bot01 suicided!
+[23:24:39] Bot01 suicided!
+[23:24:53] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:24:54] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:24:55] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:24:56] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:25:09] Bot01 suicided!
+[23:25:39] Bot01 suicided!
+[23:26:09] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:26:09] Bot01 suicided!
+[23:26:10] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:26:11] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:26:12] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:26:39] Bot01 suicided!
+[23:27:09] Bot01 suicided!
+[23:27:39] Bot01 suicided!
+[23:28:09] Bot01 suicided!
+[23:28:39] Bot01 suicided!
+[23:29:09] Bot01 suicided!
+[23:29:39] Bot01 suicided!
+[23:30:09] Bot01 suicided!
+[23:30:39] Bot01 suicided!
+[23:31:09] Bot01 suicided!
+[23:31:39] Bot01 suicided!
+[23:32:09] Bot01 suicided!
+[23:32:39] Bot01 suicided!
+[23:33:09] Bot01 suicided!
+[23:33:39] Bot01 suicided!
+[23:34:09] Bot01 suicided!
+[23:34:39] Bot01 suicided!
+[23:35:09] Bot01 suicided!
+[23:35:39] Bot01 suicided!
+[23:36:09] Bot01 suicided!
+[23:36:38] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[23:36:39] Bot01 suicided!
+[23:36:41] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:36:43] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[23:36:55] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:36:56] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:36:57] Emmett<STEAM_0:1:41660292> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[23:36:59] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:37:00] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:37:01] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:37:02] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:37:02] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:37:03] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:37:04] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:37:04] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:37:09] Bot01 suicided!
+[23:37:39] Bot01 suicided!
+[23:38:09] Bot01 suicided!
+[23:38:38] Emmett<STEAM_0:1:41660292> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[23:38:39] Bot01 suicided!
+[23:38:48] Emmett<STEAM_0:1:41660292> used the tool pcspawn_router on maps/rp_powerplant_v2b2.bsp
+[23:39:01] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:39:06] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:39:09] Bot01 suicided!
+[23:39:23] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:39:24] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:39:25] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:39:27] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:39:27] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:39:35] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:39:36] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:39:37] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:39:39] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:39:39] Bot01 suicided!
+[23:39:49] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:39:52] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:40:00] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:40:02] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:40:09] Bot01 suicided!
+[23:40:20] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:40:22] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:40:23] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:40:25] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:40:28] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:40:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:40:31] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:40:32] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:40:39] Bot01 suicided!
+[23:41:09] Bot01 suicided!
+[23:41:20] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:41:39] Bot01 suicided!
+[23:42:09] Bot01 suicided!
+[23:42:39] Bot01 suicided!
+[23:43:09] Bot01 suicided!
+[23:43:39] Bot01 suicided!
+[23:44:10] Bot01 suicided!
+[23:44:40] Bot01 suicided!
+[23:45:10] Bot01 suicided!
+[23:45:31] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[23:45:35] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:45:38] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[23:45:40] Bot01 suicided!
+[23:45:45] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:45:48] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:46:10] Bot01 suicided!
+[23:46:15] Emmett<STEAM_0:1:41660292> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[23:46:20] Emmett<STEAM_0:1:41660292> used the tool pcspawn_router on maps/rp_powerplant_v2b2.bsp
+[23:46:28] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:46:29] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:46:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:46:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:46:32] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:46:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:46:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:46:35] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:46:37] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:46:40] Bot01 suicided!
+[23:46:40] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:46:41] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:46:43] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:46:55] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:46:57] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:47:00] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:47:01] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:47:10] Bot01 suicided!
+[23:47:40] Bot01 suicided!
+[23:48:10] Bot01 suicided!
+[23:48:13] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:48:15] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:48:16] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:48:17] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:48:19] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:48:20] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:48:22] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:48:23] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:48:40] Bot01 suicided!
+[23:48:47] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:49:10] Bot01 suicided!
+[23:49:34] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:49:40] Bot01 suicided!
+[23:50:10] Bot01 suicided!
+[23:50:40] Bot01 suicided!
+[23:51:10] Bot01 suicided!
+[23:51:22] Emmett<STEAM_0:1:41660292> used the tool pcspawn_tower on maps/rp_powerplant_v2b2.bsp
+[23:51:26] Emmett<STEAM_0:1:41660292> used the tool pcspawn_monitor on maps/rp_powerplant_v2b2.bsp
+[23:51:30] Emmett<STEAM_0:1:41660292> used the tool pcspawn_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:51:40] Bot01 suicided!
+[23:51:55] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:51:55] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_keyboard.mdl
+[23:51:56] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:51:57] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:51:57] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:51:58] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:51:58] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:51:59] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[23:52:10] Bot01 suicided!
+[23:52:12] Emmett<STEAM_0:1:41660292> used the tool pcspawn_brouter on maps/rp_powerplant_v2b2.bsp
+[23:52:18] Emmett<STEAM_0:1:41660292> used the tool pcspawn_router on maps/rp_powerplant_v2b2.bsp
+[23:52:29] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:52:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01a.mdl
+[23:52:31] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:52:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:52:40] Bot01 suicided!
+[23:53:10] Bot01 suicided!
+[23:53:11] Emmett<STEAM_0:1:41660292> used the tool pc_sweps on maps/rp_powerplant_v2b2.bsp
+[23:53:40] Bot01 suicided!
+[23:53:49] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:54:10] Bot01 suicided!
+[23:54:40] Bot01 suicided!
+[23:54:49] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:54:51] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:54:58] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:54:59] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:55:06] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:55:07] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:55:08] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:55:09] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:55:10] Bot01 suicided!
+[23:55:21] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on maps/rp_powerplant_v2b2.bsp
+[23:55:40] Bot01 suicided!
+[23:56:10] Bot01 suicided!
+[23:56:33] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:56:34] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/wrt54g.mdl
+[23:56:35] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:56:36] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/pcmod/eeepc.mdl
+[23:56:40] Bot01 suicided!
+[23:57:10] Bot01 suicided!
+[23:57:29] Bot01 suicided!
+[23:57:39] Bot01 suicided!
+[23:57:49] Bot01 suicided!
+[23:57:59] Bot01 suicided!
+[23:58:09] Bot01 suicided!
+[23:58:19] Bot01 suicided!
+[23:58:29] Bot01 suicided!
+[23:58:39] Bot01 suicided!
+[23:58:49] Bot01 suicided!
+[23:58:59] Bot01 suicided!
+[23:59:09] Bot01 suicided!
+[23:59:09] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[23:59:16] Emmett<STEAM_0:1:41660292> used the tool pcwire on maps/rp_powerplant_v2b2.bsp
+[23:59:19] Bot01 suicided!
+[23:59:27] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack_laptop.mdl
+[23:59:29] Bot01 suicided!
+[23:59:39] Bot01 suicided!
+[23:59:49] Bot01 suicided!
+[23:59:49] Emmett granted god mode upon Themself
+[23:59:57] Emmett<STEAM_0:1:41660292> used the tool nocollide on models/pcmod/eeepc.mdl
+[23:59:58] Emmett<STEAM_0:1:41660292> used the tool nocollide on models/props_computers/server_rack_laptop.mdl
+[23:59:59] Bot01 suicided!
+<Logging continued in "data/ulx_logs/07-05-18.txt">

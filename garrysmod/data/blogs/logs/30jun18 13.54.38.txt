@@ -1,0 +1,252 @@
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Surrender (surrender)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Flip (flip)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Dab (dab)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Facepunch (facepunch)
+[Sat Jun 30 13:54:38 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Salute (salute)
+[Sat Jun 30 13:54:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:54:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:54:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:54:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 13:54:59 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 13:55:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:55:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:55:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:55:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:55:19 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % bought custom entity "Small Metal Detector" for $5,000
+[Sat Jun 30 13:55:19 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: /buysmalldetector
+[Sat Jun 30 13:55:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:55:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:55:25 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % picked up a Scripted Weapon (weapon_ak472)
+[Sat Jun 30 13:55:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:55:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:55:34 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_deagle) (Visitor) % picked up a Scripted Weapon (fas2_deagle)
+[Sat Jun 30 13:55:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:55:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:55:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:55:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:56:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:56:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:56:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:56:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:56:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:56:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:56:27 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % bought custom entity "Large Metal Detector" for $7,500
+[Sat Jun 30 13:56:27 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: /buylargedetector
+[Sat Jun 30 13:56:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:56:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:56:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:56:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:56:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:56:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:57:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:57:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:57:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:25 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % picked up a Scripted Weapon (fas2_m67)
+[Sat Jun 30 13:57:30 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % damaged themself for 13 damage
+[Sat Jun 30 13:57:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:57:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:36 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % was damaged for 32 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 13:57:36 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % was damaged for 50 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 13:57:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:57:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:46 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % was killed by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 13:57:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m67) (Visitor) % picked up a Scripted Weapon (bn_defib_admin)
+[Sat Jun 30 13:57:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:57:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Surrender (surrender)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Flip (flip)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Dab (dab)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Facepunch (facepunch)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (weapon_ak472)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 13:57:59 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Salute (salute)
+[Sat Jun 30 13:58:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:58:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:58:09 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (bn_defib_admin) (Visitor) % spawned vehicle "prop_vehicle_jeep"
+[Sat Jun 30 13:58:11 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (bn_defib_admin) (Visitor) % spawned vehicle "prop_vehicle_airboat"
+[Sat Jun 30 13:58:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:58:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:58:16 2018] Buys: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % bought vehicle "prop_vehicle_airboat" for $40
+[Sat Jun 30 13:58:16 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) %: /toggleown
+[Sat Jun 30 13:58:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:58:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:58:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:58:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:58:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:58:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:58:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:58:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:59:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:59:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:59:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:59:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:59:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:59:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:59:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:59:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:59:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:59:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 13:59:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 13:59:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:00:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:00:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:00:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:00:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:00:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:00:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:00:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:00:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:00:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:00:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:00:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:00:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:01:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:01:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:01:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:01:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:01:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:01:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:01:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:01:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:01:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:01:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:01:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (cw_ak74)
+[Sat Jun 30 14:01:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:01:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:02:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:02:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:02:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:02:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:02:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:02:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:02:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:02:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:02:34 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % bought custom entity "Large Metal Detector" for $7,500
+[Sat Jun 30 14:02:34 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: /buylargedetector
+[Sat Jun 30 14:02:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:02:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:02:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:02:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:03:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:03:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:03:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:03:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:03:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:03:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:03:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:03:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:03:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:03:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:03:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:03:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:04:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:04:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:04:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:04:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:04:20 2018] Prop/Entity Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by an entity (*230, trigger_hurt) with an unknown owner (possibly a world/blocked entity)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:04:21 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:04:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:04:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:04:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:04:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:04:41 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/oldbill/riverserver1.mdl"
+[Sat Jun 30 14:04:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:04:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:04:46 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_computers/server_rack.mdl"
+[Sat Jun 30 14:04:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:04:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:05:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:05:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:05:11 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_lab/servers.mdl"
+[Sat Jun 30 14:05:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:05:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:05:14 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_computers/server_rack_laptop.mdl"
+[Sat Jun 30 14:05:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:05:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:05:29 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_computers/server_rack_laptop.mdl"
+[Sat Jun 30 14:05:31 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % bought custom entity "Printer" for $10,000
+[Sat Jun 30 14:05:31 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: /buytierprinter
+[Sat Jun 30 14:05:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:05:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:05:40 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_computers/server_rack.mdl"
+[Sat Jun 30 14:05:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:05:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:05:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:05:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:06:00 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_computers/server_rack.mdl"
+[Sat Jun 30 14:06:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:06:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:06:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:06:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:06:14 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/props_computers/server_rack.mdl"
+[Sat Jun 30 14:06:15 2018] Q Menu/Spawning: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % spawned prop "models/oldbill/riverserver1.mdl"
+[Sat Jun 30 14:06:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:06:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:06:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:06:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:06:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:06:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:06:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:06:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:07:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:07:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:07:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:07:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:07:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:07:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:07:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:07:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:07:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:07:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:07:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:07:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:08:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:08:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:08:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:08:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:08:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:08:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:08:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:08:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:08:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:08:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:08:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:08:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"

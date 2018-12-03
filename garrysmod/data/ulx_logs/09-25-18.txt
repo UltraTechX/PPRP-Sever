@@ -1,0 +1,75 @@
+<Logging continued from "data/ulx_logs/09-24-18.txt">
+[19:51:30] Client "[Opi] Fat Gay" connected.
+[19:53:32] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 122 seconds).
+[19:53:55] Fat Gay: !menu
+[19:55:01] Fat Gay played sound ultratechx/rp_powerplant/core/MMusic.wav
+[19:55:03] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b3.bsp
+[19:55:29] Fat Gay: !menu
+[19:55:30] Fat Gay played sound ultratechx/rp_powerplant/core/MMusic.wav
+[19:55:34] Fat Gay played sound ultratechx/rp_powerplant/core/MMusic.wav
+[19:55:34] Fat Gay played sound ultratechx/rp_powerplant/core/MMusic.wav
+[19:55:34] Fat Gay played sound ultratechx/rp_powerplant/core/MMusic.wav
+[19:55:35] Fat Gay played sound ultratechx/rp_powerplant/core/MMusic.wav
+[19:56:18] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[19:56:39] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[19:57:02] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[19:57:03] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[19:59:04] (Console) played sound UltraTechX/rp_powerplant/misc/Burning.wav
+[19:59:05] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_office/shelves_metal2.mdl
+[19:59:14] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_militia/table_shed.mdl
+[20:02:35] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:14] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:18] Fat Gay: !menu
+[20:04:20] Fat Gay played sound UltraTechX/rp_powerplant/misc/PowerDown.wav
+[20:04:40] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:41] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:41] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/furniturefridge001a.mdl
+[20:04:45] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/zerochain/props_pizza/zpizmak_oven.mdl
+[20:04:46] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_junk/trashbin01a.mdl
+[20:04:46] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:47] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_militia/stove01.mdl
+[20:04:47] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/furniturefridge001a.mdl
+[20:04:47] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/furniturefridge001a.mdl
+[20:04:47] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/furniturefridge001a.mdl
+[20:04:47] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/furniturefridge001a.mdl
+[20:04:48] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_militia/stove01.mdl
+[20:04:48] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_militia/dryer.mdl
+[20:04:48] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/chair02a.mdl
+[20:04:48] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_militia/table_shed.mdl
+[20:04:48] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_c17/chair02a.mdl
+[20:04:48] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props_junk/garbage256_composite002a.mdl
+[20:04:49] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:49] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:49] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[20:04:51] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/de_tides/restaurant_table.mdl
+[20:04:52] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/de_tides/restaurant_table.mdl
+[20:04:53] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/de_tides/restaurant_table.mdl
+[20:04:53] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/de_tides/restaurant_table.mdl
+[20:04:53] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/de_tides/restaurant_table.mdl
+[20:04:53] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/de_tides/restaurant_table.mdl
+[20:04:54] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/nova/chair_plastic01.mdl
+[20:04:54] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/nova/chair_plastic01.mdl
+[20:04:54] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/nova/chair_plastic01.mdl
+[20:18:10] Fat Gay was killed by trigger_hurt
+[20:21:37] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[21:13:35] New map: rp_powerplant_v2b3
+[21:14:05] Client "[Opi] Fat Gay" connected.
+[21:16:00] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 115 seconds).
+[21:25:15] Fat Gay: !playtime
+[21:25:18] Fat Gay: /playtime
+[21:25:21] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[21:39:01] New map: rp_powerplant_v2b3
+[21:39:33] Client "[Opi] Fat Gay" connected.
+[21:40:32] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+[21:43:21] Fat Gay was killed by trigger_hurt
+[21:43:39] Fat Gay was killed by trigger_hurt
+[21:47:14] Fat Gay: !explode *
+[21:47:14] Fat Gay suicided!
+[21:47:14] Fat Gay exploded Themself
+[21:47:19] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

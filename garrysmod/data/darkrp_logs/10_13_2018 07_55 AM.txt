@@ -1,0 +1,803 @@
+Sat Oct 13 07:55:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 13 07:55:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 13 07:55:48 2018	KeeblesPal (STEAM_0:1:85874611) has joined the game
+Sat Oct 13 07:55:48 2018	KeeblesPal (STEAM_0:1:85874611) spawned
+Sat Oct 13 07:55:49 2018	KeeblesPal (STEAM_0:1:85874611): A pair of <hsv>SCISSORS?</hsv> This is a <hsv>KNIFE.</hsv>
+Sat Oct 13 07:56:10 2018	KeeblesPal (STEAM_0:1:85874611): Hu
+Sat Oct 13 07:56:12 2018	KeeblesPal (STEAM_0:1:85874611): Hi
+Sat Oct 13 07:56:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hi
+Sat Oct 13 07:56:53 2018	KeeblesPal (STEAM_0:1:85874611) spawned
+Sat Oct 13 07:57:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im getting off for the night
+Sat Oct 13 07:57:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // see ya
+Sat Oct 13 07:57:20 2018	KeeblesPal (STEAM_0:1:85874611): /ooc Okay, I'll be grinding printers all day
+Sat Oct 13 07:57:27 2018	KeeblesPal (STEAM_0:1:85874611): /ooc Bye
+Sat Oct 13 07:57:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Oct 13 07:58:19 2018	KeeblesPal (STEAM_0:1:85874611): 
+Sat Oct 13 07:58:27 2018	KeeblesPal (STEAM_0:1:85874611): 
+Sat Oct 13 07:58:41 2018	KeeblesPal (STEAM_0:1:85874611): 
+Sat Oct 13 07:59:16 2018	KeeblesPal (STEAM_0:1:85874611): 
+Sat Oct 13 08:52:46 2018	KeeblesPal (STEAM_0:1:85874611) disconnected
+Sat Oct 13 09:35:02 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sat Oct 13 09:35:02 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:41:31 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:41:51 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:42:25 2018	Pootis Bird was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct 13 09:42:35 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:43:56 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:45:11 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:47:06 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:49:58 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 09:55:52 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 13 10:30:56 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Sat Oct 13 14:36:26 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Sat Oct 13 14:36:26 2018	Spicy Wings (STEAM_0:0:176415266) spawned
+Sat Oct 13 14:42:49 2018	Spicy Wings (STEAM_0:0:176415266) disconnected
+Sat Oct 13 15:31:33 2018	chiken (STEAM_0:0:143719653) has joined the game
+Sat Oct 13 15:31:33 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:32:22 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:33:55 2018	chiken was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:33:56 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:34:20 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:34:21 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:34:29 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:34:30 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:34:39 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:34:40 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:35:02 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:35:04 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:35:09 2018	chiken was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 15:35:10 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:37:20 2018	chiken was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 15:37:21 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:37:31 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:37:33 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:37:45 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:37:46 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:37:51 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:37:52 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:38:01 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:38:02 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:38:14 2018	chiken was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 15:38:15 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:43:14 2018	chiken was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 15:43:16 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:43:24 2018	chiken was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 13 15:43:25 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 15:44:37 2018	chiken (STEAM_0:0:143719653) disconnected
+Sat Oct 13 15:44:47 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sat Oct 13 15:44:47 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 15:46:33 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 16:01:52 2018	jayvoorhees (STEAM_0:0:437461092) has joined the game
+Sat Oct 13 16:01:52 2018	jayvoorhees (STEAM_0:0:437461092) spawned
+Sat Oct 13 16:04:35 2018	jayvoorhees (STEAM_0:0:437461092): ok
+Sat Oct 13 16:07:20 2018	jayvoorhees (STEAM_0:0:437461092) disconnected
+Sat Oct 13 16:09:08 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct 13 16:09:08 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:09:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 13 16:09:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 13 16:10:50 2018	Enviro (STEAM_0:0:80115103): // yo waddup fat gay
+Sat Oct 13 16:12:20 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:14:16 2018	Adam Klein (STEAM_0:1:116765028) disconnected
+Sat Oct 13 16:15:16 2018	Atomic (STEAM_0:0:145671660) has joined the game
+Sat Oct 13 16:15:16 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:16:52 2018	Enviro (STEAM_0:0:80115103): // yo opi
+Sat Oct 13 16:17:00 2018	Atomic (STEAM_0:0:145671660): // back
+Sat Oct 13 16:17:02 2018	[Opi] fallenturtle (STEAM_0:1:62867403) has joined the game
+Sat Oct 13 16:17:02 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:17:04 2018	Enviro (STEAM_0:0:80115103): // ayy atomic
+Sat Oct 13 16:17:07 2018	Atomic (STEAM_0:0:145671660): // oh shit this looks professional
+Sat Oct 13 16:17:30 2018	Atomic (STEAM_0:0:145671660): // yes
+Sat Oct 13 16:17:31 2018	Enviro (STEAM_0:0:80115103): // oh god
+Sat Oct 13 16:17:31 2018	Atomic (STEAM_0:0:145671660): // yes please
+Sat Oct 13 16:17:33 2018	Atomic (STEAM_0:0:145671660): // my god
+Sat Oct 13 16:17:36 2018	Atomic (STEAM_0:0:145671660): // i have to
+Sat Oct 13 16:17:41 2018	Atomic (STEAM_0:0:145671660): // it is my DUTY
+Sat Oct 13 16:17:49 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct 13 16:17:49 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:17:51 2018	Enviro (STEAM_0:0:80115103): // oof
+Sat Oct 13 16:17:53 2018	Atomic (STEAM_0:0:145671660): // also why is there a meth buyer just sitting outside the fucking facility
+Sat Oct 13 16:17:58 2018	Atomic (STEAM_0:0:145671660): // supiscious much
+Sat Oct 13 16:17:59 2018	Enviro (STEAM_0:0:80115103): // i honestly dont know
+Sat Oct 13 16:18:45 2018	Atomic (STEAM_0:0:145671660): // why is this allowed
+Sat Oct 13 16:18:45 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:18:47 2018	Enviro (STEAM_0:0:80115103): // why not
+Sat Oct 13 16:18:49 2018	Atomic (STEAM_0:0:145671660): // door god
+Sat Oct 13 16:18:53 2018	Atomic (STEAM_0:0:145671660): // i am 049
+Sat Oct 13 16:19:07 2018	Fallenturtle (STEAM_0:1:62867403): // gay
+Sat Oct 13 16:19:14 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:19:15 2018	Atomic (STEAM_0:0:145671660): // lets try this
+Sat Oct 13 16:19:25 2018	Atomic (STEAM_0:0:145671660): // oooh, thats the tram?
+Sat Oct 13 16:19:34 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:19:49 2018	Atomic (STEAM_0:0:145671660): henlo
+Sat Oct 13 16:19:55 2018	Atomic (STEAM_0:0:145671660): /y oh boy
+Sat Oct 13 16:19:58 2018	Atomic (STEAM_0:0:145671660): /y That sounds fun!
+Sat Oct 13 16:20:00 2018	Atomic (STEAM_0:0:145671660): /y yay
+Sat Oct 13 16:20:02 2018	Atomic (STEAM_0:0:145671660): /y yay
+Sat Oct 13 16:20:04 2018	Atomic (STEAM_0:0:145671660): /y yay!
+Sat Oct 13 16:20:13 2018	Atomic (STEAM_0:0:145671660): /y Lets have fun!
+Sat Oct 13 16:20:32 2018	Atomic (STEAM_0:0:145671660): /y Okay!
+Sat Oct 13 16:21:37 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:21:52 2018	Atomic (STEAM_0:0:145671660): /y I WANNA HAVE FUN
+Sat Oct 13 16:21:55 2018	Atomic (STEAM_0:0:145671660): /Y HEY
+Sat Oct 13 16:21:59 2018	Atomic (STEAM_0:0:145671660): /advert test
+Sat Oct 13 16:22:04 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975) has joined the game
+Sat Oct 13 16:22:04 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975) spawned
+Sat Oct 13 16:22:04 2018	Atomic (STEAM_0:0:145671660): /advert Hello,
+Sat Oct 13 16:22:10 2018	Fallenturtle (STEAM_0:1:62867403): /advert hi
+Sat Oct 13 16:22:10 2018	Atomic (STEAM_0:0:145671660): /advert Is this thing on
+Sat Oct 13 16:22:30 2018	Atomic (STEAM_0:0:145671660): /advert Let me out of here.
+Sat Oct 13 16:22:43 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:22:51 2018	Atomic (STEAM_0:0:145671660): // wrong button
+Sat Oct 13 16:22:56 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:23:00 2018	Atomic (STEAM_0:0:145671660): /y Open up
+Sat Oct 13 16:23:05 2018	Atomic (STEAM_0:0:145671660): /ADVERT Open up
+Sat Oct 13 16:23:15 2018	Atomic (STEAM_0:0:145671660): 
+Sat Oct 13 16:23:15 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975) spawned
+Sat Oct 13 16:23:33 2018	Fallenturtle (STEAM_0:1:62867403): /JOB mister handy
+Sat Oct 13 16:23:38 2018	Atomic (STEAM_0:0:145671660): Okay
+Sat Oct 13 16:24:01 2018	Fallenturtle (STEAM_0:1:62867403): take the tram
+Sat Oct 13 16:24:08 2018	Fallenturtle (STEAM_0:1:62867403): till you see this big red ball
+Sat Oct 13 16:24:21 2018	Atomic (STEAM_0:0:145671660): Hmmm.
+Sat Oct 13 16:24:24 2018	Fallenturtle (STEAM_0:1:62867403): well your already in the plant btw
+Sat Oct 13 16:24:41 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:25:32 2018	Fallenturtle was killed by Adam Klein with a weapon_sillyzombieclaw_v2
+Sat Oct 13 16:25:41 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:25:47 2018	Atomic (STEAM_0:0:145671660): WE MUST MELT DOWN
+Sat Oct 13 16:25:52 2018	Atomic (STEAM_0:0:145671660): WHERE IS THE REACTOR
+Sat Oct 13 16:26:11 2018	Fallenturtle (STEAM_0:1:62867403): /advert 049 has excaped 
+Sat Oct 13 16:26:15 2018	Atomic (STEAM_0:0:145671660): /y Open up!
+Sat Oct 13 16:26:17 2018	Atomic (STEAM_0:0:145671660): /y We don't bite
+Sat Oct 13 16:26:38 2018	Adam Klein was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:26:40 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:26:57 2018	Atomic (STEAM_0:0:145671660): /y Friend?
+Sat Oct 13 16:27:07 2018	Atomic (STEAM_0:0:145671660): // did i kill you with that?
+Sat Oct 13 16:27:19 2018	Adam Klein (STEAM_0:1:116765028): // I drowned 
+Sat Oct 13 16:27:22 2018	Atomic (STEAM_0:0:145671660): // ahhh
+Sat Oct 13 16:27:24 2018	Atomic (STEAM_0:0:145671660): // hmmmm
+Sat Oct 13 16:27:25 2018	Atomic (STEAM_0:0:145671660): // hmmm
+Sat Oct 13 16:27:39 2018	Atomic (STEAM_0:0:145671660): // i have a sweet serving of 'imfucked'
+Sat Oct 13 16:28:01 2018	Atomic (STEAM_0:0:145671660): // if you fall in can you swim back up or nah
+Sat Oct 13 16:28:18 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /ooc where is the internal core room
+Sat Oct 13 16:28:46 2018	chiken (STEAM_0:0:143719653) has joined the game
+Sat Oct 13 16:28:46 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:29:01 2018	Atomic (STEAM_0:0:145671660): /advert Open up...
+Sat Oct 13 16:29:14 2018	Atomic (STEAM_0:0:145671660): /ad I have important business.
+Sat Oct 13 16:29:23 2018	Atomic (STEAM_0:0:145671660): /advert I have something important to die.
+Sat Oct 13 16:29:28 2018	Atomic (STEAM_0:0:145671660): /advert I meand ooo
+Sat Oct 13 16:29:33 2018	Atomic (STEAM_0:0:145671660): /advert Doo
+Sat Oct 13 16:29:38 2018	Atomic (STEAM_0:0:145671660): /advert Nobody is dying, I swear
+Sat Oct 13 16:29:41 2018	chiken (STEAM_0:0:143719653): !motd
+Sat Oct 13 16:29:43 2018	Atomic (STEAM_0:0:145671660): /advert I am not killing people.
+Sat Oct 13 16:29:55 2018	Atomic (STEAM_0:0:145671660): /advert But your coolant may or may not be a bit high.
+Sat Oct 13 16:30:01 2018	Atomic (STEAM_0:0:145671660): /advert How unfortunate
+Sat Oct 13 16:30:04 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:30:12 2018	Atomic (STEAM_0:0:145671660): /advert Maybe you should try opening the doors up
+Sat Oct 13 16:30:19 2018	Atomic (STEAM_0:0:145671660): /advert And open the coolant door.
+Sat Oct 13 16:30:20 2018	chiken (STEAM_0:0:143719653): /hitprice 1000
+Sat Oct 13 16:30:27 2018	Fallenturtle (STEAM_0:1:62867403): /advert lol
+Sat Oct 13 16:30:32 2018	Atomic (STEAM_0:0:145671660): /advert After all... nobody wants to die from the extreme heat :)
+Sat Oct 13 16:30:40 2018	Atomic (STEAM_0:0:145671660): /y Help me.
+Sat Oct 13 16:30:43 2018	Atomic (STEAM_0:0:145671660): /y It's cold.
+Sat Oct 13 16:30:47 2018	Atomic (STEAM_0:0:145671660): /y I have the sniffles
+Sat Oct 13 16:30:53 2018	Atomic (STEAM_0:0:145671660): /y I have the sniffles
+Sat Oct 13 16:30:56 2018	Atomic (STEAM_0:0:145671660): /y I'm gonna have
+Sat Oct 13 16:30:58 2018	Atomic (STEAM_0:0:145671660): /y Help
+Sat Oct 13 16:31:01 2018	Atomic (STEAM_0:0:145671660): /y I need water
+Sat Oct 13 16:31:05 2018	Fallenturtle (STEAM_0:1:62867403): /advert 049 is in the coolant room
+Sat Oct 13 16:31:05 2018	Atomic (STEAM_0:0:145671660): /y Can I at least have a bucket?
+Sat Oct 13 16:31:08 2018	Atomic (STEAM_0:0:145671660): /y To piss in?
+Sat Oct 13 16:31:11 2018	Atomic (STEAM_0:0:145671660): /y Awww
+Sat Oct 13 16:31:15 2018	Atomic (STEAM_0:0:145671660): /advert THis is cruelty
+Sat Oct 13 16:31:22 2018	Atomic (STEAM_0:0:145671660): /advert You don't even give me a piss bucket?
+Sat Oct 13 16:31:30 2018	Atomic (STEAM_0:0:145671660): /y Yes
+Sat Oct 13 16:31:37 2018	Atomic (STEAM_0:0:145671660): There we go
+Sat Oct 13 16:31:42 2018	Atomic (STEAM_0:0:145671660): /me urinates in it
+Sat Oct 13 16:31:44 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): the pumps are up and running and the fan is in optimal condition
+Sat Oct 13 16:31:47 2018	Atomic (STEAM_0:0:145671660): /y OH GOD THERE'S BLOOD
+Sat Oct 13 16:31:49 2018	Atomic (STEAM_0:0:145671660): /Y OH GOD
+Sat Oct 13 16:31:51 2018	Atomic (STEAM_0:0:145671660): /Y AAAAAAHHHHHHHHH
+Sat Oct 13 16:31:55 2018	Atomic (STEAM_0:0:145671660): /Y AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Sat Oct 13 16:31:59 2018	Atomic (STEAM_0:0:145671660): /Y HELP
+Sat Oct 13 16:32:01 2018	Atomic (STEAM_0:0:145671660): /y Oh LOrd
+Sat Oct 13 16:32:11 2018	Atomic (STEAM_0:0:145671660): /y fuck you
+Sat Oct 13 16:32:17 2018	Atomic (STEAM_0:0:145671660): /y no dont
+Sat Oct 13 16:32:19 2018	Atomic (STEAM_0:0:145671660): yes please
+Sat Oct 13 16:32:28 2018	Atomic (STEAM_0:0:145671660): hang on
+Sat Oct 13 16:32:31 2018	Atomic (STEAM_0:0:145671660): what do you have
+Sat Oct 13 16:32:33 2018	Atomic (STEAM_0:0:145671660): on your arms
+Sat Oct 13 16:32:41 2018	Atomic (STEAM_0:0:145671660): lemme see ur arms
+Sat Oct 13 16:32:49 2018	Atomic (STEAM_0:0:145671660): is that ur arms
+Sat Oct 13 16:32:56 2018	Atomic (STEAM_0:0:145671660): cool
+Sat Oct 13 16:33:09 2018	Atomic (STEAM_0:0:145671660): I think the blood is still coming out
+Sat Oct 13 16:33:10 2018	Atomic (STEAM_0:0:145671660): Oh, yep
+Sat Oct 13 16:33:14 2018	Atomic (STEAM_0:0:145671660): /y IT'S IN THE COOLANTS
+Sat Oct 13 16:33:14 2018	Adam Klein was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 16:33:16 2018	Atomic (STEAM_0:0:145671660): /Y OH GOD
+Sat Oct 13 16:33:16 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:33:25 2018	Atomic (STEAM_0:0:145671660): /Y OH GOOD GOD IM LEAKING BLOOD INTO THE COOLANTS
+Sat Oct 13 16:33:32 2018	Atomic (STEAM_0:0:145671660): /Y I SWEAR IM GONNA DROWN IN MY OWN BLOOD
+Sat Oct 13 16:33:48 2018	Atomic (STEAM_0:0:145671660): /me gurgles
+Sat Oct 13 16:33:49 2018	Atomic (STEAM_0:0:145671660): /y Oh gOD
+Sat Oct 13 16:33:54 2018	Atomic (STEAM_0:0:145671660): /y HELP
+Sat Oct 13 16:33:58 2018	Atomic (STEAM_0:0:145671660): /Y IM DROWNING IN MY OWN BLOOD
+Sat Oct 13 16:34:03 2018	Atomic (STEAM_0:0:145671660): /y OH GOOOD
+Sat Oct 13 16:34:11 2018	Atomic (STEAM_0:0:145671660): /y HELP
+Sat Oct 13 16:34:21 2018	Atomic (STEAM_0:0:145671660): /y I have a proposition
+Sat Oct 13 16:34:25 2018	Atomic (STEAM_0:0:145671660): /y I'll turn the coolants back on
+Sat Oct 13 16:34:37 2018	Atomic (STEAM_0:0:145671660): /y Help
+Sat Oct 13 16:34:43 2018	Atomic (STEAM_0:0:145671660): /y you need vip
+Sat Oct 13 16:34:45 2018	Atomic (STEAM_0:0:145671660): /y and whitelist
+Sat Oct 13 16:35:08 2018	Atomic (STEAM_0:0:145671660): /y kill me
+Sat Oct 13 16:35:11 2018	chiken was killed by Fallenturtle with a cw_deagle
+Sat Oct 13 16:35:12 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:35:13 2018	Atomic (STEAM_0:0:145671660): /y there's too much blood
+Sat Oct 13 16:35:21 2018	Atomic (STEAM_0:0:145671660): /y kill meeee
+Sat Oct 13 16:35:22 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:35:23 2018	Atomic (STEAM_0:0:145671660): /y KiiLLL mEEE
+Sat Oct 13 16:35:28 2018	Atomic (STEAM_0:0:145671660): /y I WANT TO fUCKing DIE
+Sat Oct 13 16:35:36 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:35:43 2018	Atomic (STEAM_0:0:145671660): oh yeah?
+Sat Oct 13 16:35:55 2018	Atomic (STEAM_0:0:145671660): crouch
+Sat Oct 13 16:35:58 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:35:59 2018	Enviro (STEAM_0:0:80115103): // nonono
+Sat Oct 13 16:36:10 2018	Enviro (STEAM_0:0:80115103): // You 
+Sat Oct 13 16:36:15 2018	Atomic (STEAM_0:0:145671660): how?
+Sat Oct 13 16:36:17 2018	Atomic (STEAM_0:0:145671660): i got through
+Sat Oct 13 16:36:19 2018	Enviro (STEAM_0:0:80115103): // you cant be corrupt
+Sat Oct 13 16:36:23 2018	Atomic (STEAM_0:0:145671660): So?
+Sat Oct 13 16:36:31 2018	Atomic (STEAM_0:0:145671660): I can run
+Sat Oct 13 16:36:42 2018	chiken (STEAM_0:0:143719653): 
+Sat Oct 13 16:36:47 2018	chiken (STEAM_0:0:143719653): !motd
+Sat Oct 13 16:37:09 2018	chiken (STEAM_0:0:143719653): !motd
+Sat Oct 13 16:37:15 2018	Atomic (STEAM_0:0:145671660): Let's just nuke the facility
+Sat Oct 13 16:37:20 2018	Atomic (STEAM_0:0:145671660): /y Adam
+Sat Oct 13 16:37:21 2018	Atomic (STEAM_0:0:145671660): lets go
+Sat Oct 13 16:37:27 2018	Atomic (STEAM_0:0:145671660): we're melting this facility
+Sat Oct 13 16:37:37 2018	Adam Klein was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:37:38 2018	Fallenturtle was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:37:39 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:37:39 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:37:43 2018	Atomic was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:37:49 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:37:55 2018	Atomic (STEAM_0:0:145671660): // Vote yes i'm not gonna terror attack
+Sat Oct 13 16:38:00 2018	Atomic (STEAM_0:0:145671660): // im not an asshat
+Sat Oct 13 16:38:10 2018	Fallenturtle (STEAM_0:1:62867403): // mhmmmm
+Sat Oct 13 16:38:10 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:38:12 2018	chiken (STEAM_0:0:143719653): !motd
+Sat Oct 13 16:38:22 2018	Enviro (STEAM_0:0:80115103): /advert New automatic alarms have been installed at all vent areas.
+Sat Oct 13 16:38:45 2018	chiken (STEAM_0:0:143719653): /advert We are rebranding to SpaceX
+Sat Oct 13 16:38:54 2018	chiken (STEAM_0:0:143719653): /advert So we have to blow this facility up
+Sat Oct 13 16:38:59 2018	Enviro (STEAM_0:0:80115103): // Seriously, stop
+Sat Oct 13 16:38:59 2018	chiken (STEAM_0:0:143719653): /advert And go to space
+Sat Oct 13 16:39:00 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /ooc all these offices are useless
+Sat Oct 13 16:39:01 2018	Enviro (STEAM_0:0:80115103): !motd
+Sat Oct 13 16:39:10 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /advert YES i am already getting to work on that
+Sat Oct 13 16:39:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:39:35 2018	Atomic (STEAM_0:0:145671660): // >hacks keypad
+Sat Oct 13 16:39:39 2018	Atomic (STEAM_0:0:145671660): // >NOthing happens
+Sat Oct 13 16:39:41 2018	Atomic (STEAM_0:0:145671660): // >stuck forever
+Sat Oct 13 16:39:42 2018	Fallenturtle (STEAM_0:1:62867403): // lol
+Sat Oct 13 16:39:43 2018	Atomic (STEAM_0:0:145671660): // >F
+Sat Oct 13 16:39:45 2018	Atomic (STEAM_0:0:145671660): // >F
+Sat Oct 13 16:39:46 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:39:46 2018	Enviro (STEAM_0:0:80115103): // something does happen
+Sat Oct 13 16:39:50 2018	Atomic (STEAM_0:0:145671660): // what
+Sat Oct 13 16:40:24 2018	Atomic (STEAM_0:0:145671660): // what happens?
+Sat Oct 13 16:40:34 2018	Atomic (STEAM_0:0:145671660): // oh i broke your alarms
+Sat Oct 13 16:40:37 2018	Atomic (STEAM_0:0:145671660): // but im stuck
+Sat Oct 13 16:40:41 2018	Enviro (STEAM_0:0:80115103): // lol
+Sat Oct 13 16:40:45 2018	Enviro (STEAM_0:0:80115103): // hang on
+Sat Oct 13 16:40:51 2018	Atomic (STEAM_0:0:145671660): // omg propblock!!111!
+Sat Oct 13 16:41:00 2018	Atomic (STEAM_0:0:145671660): // im calLAing THE oWNewr!!11
+Sat Oct 13 16:41:10 2018	Atomic (STEAM_0:0:145671660): // gARRY's My DaD yOu'RE BeiNG baNNEDED
+Sat Oct 13 16:41:22 2018	Enviro (STEAM_0:0:80115103): // try the keycard scanner
+Sat Oct 13 16:41:24 2018	Enviro (STEAM_0:0:80115103): // i wanna see
+Sat Oct 13 16:41:25 2018	Atomic (STEAM_0:0:145671660): // i cant
+Sat Oct 13 16:41:28 2018	Atomic (STEAM_0:0:145671660): // its jammed up
+Sat Oct 13 16:41:33 2018	Enviro (STEAM_0:0:80115103): // oh shit really lol
+Sat Oct 13 16:41:39 2018	Atomic (STEAM_0:0:145671660): // oh i can
+Sat Oct 13 16:41:40 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 16:41:41 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 16:41:44 2018	Atomic (STEAM_0:0:145671660): // but it denies it
+Sat Oct 13 16:41:57 2018	Enviro (STEAM_0:0:80115103): // keypad crack it boi
+Sat Oct 13 16:42:02 2018	Atomic (STEAM_0:0:145671660): // i already did
+Sat Oct 13 16:42:09 2018	Atomic (STEAM_0:0:145671660): // thats why its all jammed up
+Sat Oct 13 16:42:23 2018	Enviro (STEAM_0:0:80115103): this 
+Sat Oct 13 16:42:25 2018	Enviro (STEAM_0:0:80115103): planet director
+Sat Oct 13 16:42:27 2018	Enviro (STEAM_0:0:80115103): is so dumb
+Sat Oct 13 16:42:29 2018	Enviro (STEAM_0:0:80115103): hes blowing shit up
+Sat Oct 13 16:42:34 2018	Atomic (STEAM_0:0:145671660): yeah im gonna blow HIM up
+Sat Oct 13 16:42:36 2018	Atomic (STEAM_0:0:145671660): /y im gonna
+Sat Oct 13 16:42:39 2018	Atomic (STEAM_0:0:145671660): /y kill him
+Sat Oct 13 16:42:41 2018	Enviro (STEAM_0:0:80115103): lets get em hes breaking rules
+Sat Oct 13 16:42:41 2018	Atomic (STEAM_0:0:145671660): is that okay?
+Sat Oct 13 16:42:49 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /ooc at what temp does the core blow up
+Sat Oct 13 16:42:53 2018	Enviro (STEAM_0:0:80115103): // 5000
+Sat Oct 13 16:42:59 2018	Atomic (STEAM_0:0:145671660): // oh
+Sat Oct 13 16:43:03 2018	Enviro (STEAM_0:0:80115103): /demote chiken rogue
+Sat Oct 13 16:43:03 2018	Enviro(STEAM_0:0:80115103)[Head of Security] has started a vote for the demotion of chiken(STEAM_0:0:143719653)[Plant Director] for rogue
+Sat Oct 13 16:43:04 2018	Atomic (STEAM_0:0:145671660): // F
+Sat Oct 13 16:43:06 2018	chiken (STEAM_0:0:143719653): // But you can launch at 4500
+Sat Oct 13 16:43:09 2018	chiken (STEAM_0:0:143719653): // im pretty sure
+Sat Oct 13 16:43:11 2018	Enviro (STEAM_0:0:80115103): // nope
+Sat Oct 13 16:43:23 2018	Enviro (STEAM_0:0:80115103): look
+Sat Oct 13 16:43:39 2018	Enviro (STEAM_0:0:80115103): good alarms
+Sat Oct 13 16:43:43 2018	Enviro (STEAM_0:0:80115103): this one uses triggr instead of ranger
+Sat Oct 13 16:43:55 2018	Enviro (STEAM_0:0:80115103): but advdupe is being retared
+Sat Oct 13 16:44:02 2018	Atomic (STEAM_0:0:145671660): wait
+Sat Oct 13 16:44:04 2018	Enviro (STEAM_0:0:80115103): ?
+Sat Oct 13 16:44:04 2018	Atomic (STEAM_0:0:145671660): what is this?
+Sat Oct 13 16:44:06 2018	Atomic (STEAM_0:0:145671660): a shelter?
+Sat Oct 13 16:44:09 2018	Atomic (STEAM_0:0:145671660): an elevator?
+Sat Oct 13 16:44:09 2018	Enviro (STEAM_0:0:80115103): Core
+Sat Oct 13 16:44:20 2018	Enviro (STEAM_0:0:80115103): we gotta turn off lasers
+Sat Oct 13 16:44:24 2018	Enviro (STEAM_0:0:80115103): we'll die in the core but eh
+Sat Oct 13 16:44:32 2018	Enviro (STEAM_0:0:80115103): you go forward, ill go right.
+Sat Oct 13 16:45:10 2018	Enviro was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:45:12 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 16:45:16 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /advert GET TO THE ROCKET!!!
+Sat Oct 13 16:45:18 2018	Atomic was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:45:20 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:45:25 2018	Atomic (STEAM_0:0:145671660): // i couldn't boost them
+Sat Oct 13 16:45:35 2018	Enviro (STEAM_0:0:80115103): //thats ko
+Sat Oct 13 16:45:39 2018	chiken was killed by Adam Klein with a cw_shorty
+Sat Oct 13 16:45:39 2018	Enviro (STEAM_0:0:80115103): // thtas ok
+Sat Oct 13 16:45:40 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:45:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct 13 16:45:49 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 13 16:46:06 2018	Enviro (STEAM_0:0:80115103): // YES! COOLING DOWN!
+Sat Oct 13 16:46:07 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:46:15 2018	Fallenturtle (STEAM_0:1:62867403): // yep i did thwat
+Sat Oct 13 16:46:21 2018	Enviro (STEAM_0:0:80115103): // no
+Sat Oct 13 16:46:32 2018	Fallenturtle (STEAM_0:1:62867403): // ya the coolant was off
+Sat Oct 13 16:46:35 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 16:46:39 2018	Fallenturtle (STEAM_0:1:62867403): // in the coolant mantience
+Sat Oct 13 16:46:41 2018	Enviro (STEAM_0:0:80115103): // Yeah, and I went in and turned off all the boosters
+Sat Oct 13 16:46:47 2018	Atomic (STEAM_0:0:145671660): // same
+Sat Oct 13 16:46:53 2018	Fallenturtle (STEAM_0:1:62867403): // btw director adam was the one who killed you
+Sat Oct 13 16:46:57 2018	Atomic (STEAM_0:0:145671660): /advert Oh thank god.
+Sat Oct 13 16:47:02 2018	Fallenturtle (STEAM_0:1:62867403): // we then we bolth fixed it
+Sat Oct 13 16:47:08 2018	Atomic (STEAM_0:0:145671660): /advert Finally, an excuse to do terror attacks.
+Sat Oct 13 16:47:24 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:47:26 2018	Atomic (STEAM_0:0:145671660): /y i have shit aiim
+Sat Oct 13 16:47:28 2018	Atomic was killed by Himself with a suicide trick
+Sat Oct 13 16:47:34 2018	wD.ELFBIPAPI13 was killed by Fallenturtle with a cw_deagle
+Sat Oct 13 16:47:35 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:47:35 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975) spawned
+Sat Oct 13 16:47:35 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:47:41 2018	chiken (STEAM_0:0:143719653): // alright
+Sat Oct 13 16:47:43 2018	Enviro (STEAM_0:0:80115103): // SHIT ITS HEATING UP
+Sat Oct 13 16:47:52 2018	Atomic (STEAM_0:0:145671660): /y we must sabotage
+Sat Oct 13 16:47:55 2018	Fallenturtle (STEAM_0:1:62867403): /demote elfbipapi trying to blow up the facility
+Sat Oct 13 16:48:05 2018	Enviro (STEAM_0:0:80115103): // NONONONO
+Sat Oct 13 16:48:07 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /OOC why do we have all these useless offices
+Sat Oct 13 16:48:08 2018	Fallenturtle (STEAM_0:1:62867403): // ya the wd guy is doeing it
+Sat Oct 13 16:48:17 2018	Enviro (STEAM_0:0:80115103): 4198
+Sat Oct 13 16:48:34 2018	pablo escobar (STEAM_0:1:204422185) has joined the game
+Sat Oct 13 16:48:34 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 16:48:37 2018	chiken was killed by Atomic with a fas2_thrown_m67
+Sat Oct 13 16:48:40 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:48:59 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 13 16:49:21 2018	Atomic (STEAM_0:0:145671660): psst
+Sat Oct 13 16:49:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sat Oct 13 16:49:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 16:49:33 2018	Atomic (STEAM_0:0:145671660): lmao
+Sat Oct 13 16:49:38 2018	Atomic (STEAM_0:0:145671660): dw
+Sat Oct 13 16:49:41 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct 13 16:49:48 2018	Atomic was killed by Himself with a suicide trick
+Sat Oct 13 16:49:51 2018	Enviro (STEAM_0:0:80115103): // LOL
+Sat Oct 13 16:49:51 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:49:54 2018	Atomic (STEAM_0:0:145671660): // yeah its shit
+Sat Oct 13 16:50:26 2018	chiken was killed by Fallenturtle with a cw_deagle
+Sat Oct 13 16:50:27 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:50:28 2018	Atomic (STEAM_0:0:145671660): /advert SAYONARA
+Sat Oct 13 16:50:44 2018	Atomic was killed by Himself with a suicide trick
+Sat Oct 13 16:50:46 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:50:46 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 16:51:03 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct 13 16:51:16 2018	:( (STEAM_0:0:178698597) has joined the game
+Sat Oct 13 16:51:16 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 16:51:58 2018	wolfhugger 3000 (STEAM_0:1:42591216): /motd
+Sat Oct 13 16:52:16 2018	wolfhugger 3000 (STEAM_0:1:42591216): // anyone have the mod list for the server?
+Sat Oct 13 16:52:35 2018	chiken was killed by Enviro with a fas2_thrown_m67
+Sat Oct 13 16:52:36 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:52:36 2018	wolfhugger 3000 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 16:52:38 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 16:52:49 2018	Enviro was killed by Atomic with a cw_scarh
+Sat Oct 13 16:52:53 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 16:52:54 2018	Atomic (STEAM_0:0:145671660): // ikr
+Sat Oct 13 16:52:57 2018	Atomic (STEAM_0:0:145671660): // so bs
+Sat Oct 13 16:53:00 2018	chiken (STEAM_0:0:143719653): // FINALLY
+Sat Oct 13 16:53:06 2018	wolfhugger 3000 (STEAM_0:1:42591216): // 
+Sat Oct 13 16:53:14 2018	wolfhugger 3000 (STEAM_0:1:42591216): // can anyone give me the mod list
+Sat Oct 13 16:53:20 2018	Lukyn Red (STEAM_0:0:81441026): // ?
+Sat Oct 13 16:53:22 2018	Atomic (STEAM_0:0:145671660): // waht does adam have to say
+Sat Oct 13 16:53:23 2018	Fallenturtle (STEAM_0:1:62867403): // Its in the discord
+Sat Oct 13 16:53:26 2018	Lukyn Red (STEAM_0:0:81441026): // you mean workshop
+Sat Oct 13 16:53:27 2018	Fallenturtle (STEAM_0:1:62867403): // let me get it
+Sat Oct 13 16:53:32 2018	wolfhugger 3000 (STEAM_0:1:42591216): // ya
+Sat Oct 13 16:53:34 2018	wolfhugger 3000 (STEAM_0:1:42591216): // thx
+Sat Oct 13 16:53:37 2018	Atomic (STEAM_0:0:145671660): /advert I DIE WITH THIS FACILITY!
+Sat Oct 13 16:53:40 2018	Fallenturtle (STEAM_0:1:62867403): // https://steamcommunity.com/sharedfiles/filedetails/?id=1261751029
+Sat Oct 13 16:53:42 2018	Atomic (STEAM_0:0:145671660): /ADVERT MY DEATH WITH BE A MARTYR!
+Sat Oct 13 16:53:44 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:53:47 2018	Fallenturtle (STEAM_0:1:62867403): // There you go
+Sat Oct 13 16:53:51 2018	Atomic (STEAM_0:0:145671660): /ADVERT YOU WILL REGRET MESSING WITH US!
+Sat Oct 13 16:53:53 2018	Atomic (STEAM_0:0:145671660): /ADVERT AHAHAHAH
+Sat Oct 13 16:53:55 2018	Enviro (STEAM_0:0:80115103): // YES!
+Sat Oct 13 16:53:58 2018	Fallenturtle (STEAM_0:1:62867403): // btw we turned on the e coolant
+Sat Oct 13 16:53:58 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /ADVERT WHO
+Sat Oct 13 16:54:00 2018	Atomic (STEAM_0:0:145671660): /advert NO!
+Sat Oct 13 16:54:00 2018	Enviro (STEAM_0:0:80115103): // E-COOLANT! THANK GOD!
+Sat Oct 13 16:54:02 2018	Fallenturtle (STEAM_0:1:62867403): // so suck my dick
+Sat Oct 13 16:54:06 2018	Atomic (STEAM_0:0:145671660): /ADVERT NO NO!
+Sat Oct 13 16:54:08 2018	Enviro (STEAM_0:0:80115103): /advert WE HAVE A CHANCE! QUICKY!
+Sat Oct 13 16:54:11 2018	Atomic (STEAM_0:0:145671660): /advert IMPOSSIBLE
+Sat Oct 13 16:54:21 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:54:30 2018	Enviro (STEAM_0:0:80115103): /advert REQUESTING SWAT UNITS INTO THE FACILITY.
+Sat Oct 13 16:54:35 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:54:43 2018	Atomic (STEAM_0:0:145671660): /advert ...Fuck.
+Sat Oct 13 16:54:59 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975): /ADVERT shit the rocket launched
+Sat Oct 13 16:55:09 2018	Lukyn Red (STEAM_0:0:81441026): /advert We are leaving with the Director. 
+Sat Oct 13 16:55:16 2018	Atomic (STEAM_0:0:145671660): /y ok
+Sat Oct 13 16:55:17 2018	Atomic (STEAM_0:0:145671660): /y i heal u
+Sat Oct 13 16:55:18 2018	Lukyn Red (STEAM_0:0:81441026): but
+Sat Oct 13 16:55:23 2018	Atomic was killed by Enviro with a cw_g36c
+Sat Oct 13 16:55:25 2018	Atomic (STEAM_0:0:145671660): /y gg
+Sat Oct 13 16:55:29 2018	Lukyn Red (STEAM_0:0:81441026): /y the facility is alright
+Sat Oct 13 16:55:57 2018	Lukyn Red (STEAM_0:0:81441026): /y It's cooling down Director
+Sat Oct 13 16:56:02 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:56:16 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975) spawned
+Sat Oct 13 16:56:29 2018	Atomic (STEAM_0:0:145671660): /advert PIZZA DAY?
+Sat Oct 13 16:56:34 2018	Fallenturtle (STEAM_0:1:62867403): // yep
+Sat Oct 13 16:56:36 2018	Enviro (STEAM_0:0:80115103): // pizza time
+Sat Oct 13 16:56:38 2018	Fallenturtle (STEAM_0:1:62867403): // i make pizza
+Sat Oct 13 16:56:39 2018	wD.ELFBIPAPI13 (STEAM_0:0:61447975) disconnected
+Sat Oct 13 16:56:52 2018	Adam Klein (STEAM_0:1:116765028): /advert Pizza Day is postponed for life
+Sat Oct 13 16:56:57 2018	chiken was killed by Enviro with a cw_g36c
+Sat Oct 13 16:56:58 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:56:58 2018	Atomic (STEAM_0:0:145671660): /advert NOOOO!
+Sat Oct 13 16:57:04 2018	Atomic (STEAM_0:0:145671660): /ADVERT Now you've crossed the line.
+Sat Oct 13 16:57:05 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 16:57:07 2018	Fallenturtle (STEAM_0:1:62867403): // bitch i make pizza
+Sat Oct 13 16:57:13 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Oct 13 16:57:13 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) spawned
+Sat Oct 13 16:58:48 2018	chiken (STEAM_0:0:143719653): /advert Don't forget today is pizza day! So come down to the cafeteria and grab yourself a hot slice!
+Sat Oct 13 16:58:50 2018	Atomic (STEAM_0:0:145671660): /y Heyyy
+Sat Oct 13 16:59:04 2018	wolfhugger 3000 was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct 13 16:59:06 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 16:59:12 2018	wolfhugger 3000 (STEAM_0:1:42591216) disconnected
+Sat Oct 13 16:59:17 2018	Atomic (STEAM_0:0:145671660): We have to nuke the place
+Sat Oct 13 16:59:22 2018	Atomic (STEAM_0:0:145671660): He postponed pizza day
+Sat Oct 13 16:59:22 2018	Atomic was killed by Fallenturtle with a cw_deagle
+Sat Oct 13 16:59:27 2018	Atomic (STEAM_0:0:145671660): /y MADNESSSSS
+Sat Oct 13 16:59:29 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 16:59:29 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) has joined the game
+Sat Oct 13 16:59:29 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 13 16:59:31 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) spawned
+Sat Oct 13 16:59:38 2018	Vix Archaser [Opi] (STEAM_0:0:143859663): /name Mark
+Sat Oct 13 16:59:39 2018	Atomic (STEAM_0:0:145671660): // oMmggg aRR dEE aYTM
+Sat Oct 13 16:59:41 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 16:59:55 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 16:59:57 2018	Lukyn Red (STEAM_0:0:81441026): It doesnt work
+Sat Oct 13 17:00:00 2018	Lukyn Red (STEAM_0:0:81441026): or Idk
+Sat Oct 13 17:00:16 2018	Lukyn Red (STEAM_0:0:81441026): set it up yourself
+Sat Oct 13 17:00:25 2018	wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sat Oct 13 17:00:25 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:00:38 2018	Atomic (STEAM_0:0:145671660): .// hey
+Sat Oct 13 17:01:01 2018	Atomic (STEAM_0:0:145671660): // did somebody hear a train?
+Sat Oct 13 17:01:07 2018	Lukyn Red (STEAM_0:0:81441026): // There are 2 trains
+Sat Oct 13 17:01:13 2018	pablo escobar was killed by Enviro with a cw_g36c
+Sat Oct 13 17:01:16 2018	Atomic (STEAM_0:0:145671660): /looc test
+Sat Oct 13 17:01:19 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 17:01:19 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct 13 17:01:23 2018	Atomic (STEAM_0:0:145671660): /looc would it be rdm to kill u if im corrupt
+Sat Oct 13 17:01:26 2018	Lukyn Red (STEAM_0:0:81441026): But yoi set it on
+Sat Oct 13 17:01:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): hi
+Sat Oct 13 17:01:40 2018	pablo escobar was killed by Himself with a suicide trick
+Sat Oct 13 17:01:40 2018	:( was killed by pablo escobar with a env_explosion
+Sat Oct 13 17:01:43 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 17:01:44 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 17:01:47 2018	Atomic (STEAM_0:0:145671660): /advert Did you hear that the Director said there wouldn't ever be a pizza day again?
+Sat Oct 13 17:01:48 2018	wolfhugger 3000 (STEAM_0:1:42591216): oh shi
+Sat Oct 13 17:01:56 2018	wolfhugger 3000 (STEAM_0:1:42591216): /y TO THE BLASET SHELLTER
+Sat Oct 13 17:01:58 2018	Atomic (STEAM_0:0:145671660): /advert Bollox, my ass he would do that.
+Sat Oct 13 17:02:08 2018	Atomic (STEAM_0:0:145671660): We have to get pizza day back
+Sat Oct 13 17:02:11 2018	chiken (STEAM_0:0:143719653): /advert WELL TODAY IS THE LAST DAY JUST COME ON DOWN AND GRAB YOURSELF A HOT SLICE
+Sat Oct 13 17:02:14 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert OH GOD THE POWERPLANT GONNA GO CHERNOBLY
+Sat Oct 13 17:02:21 2018	Atomic (STEAM_0:0:145671660): /advert Oh please, it's fine
+Sat Oct 13 17:02:28 2018	Atomic (STEAM_0:0:145671660): /advert It's only like... what... 4k kelvin?
+Sat Oct 13 17:02:32 2018	Atomic (STEAM_0:0:145671660): /advert It'll be FIIIINE
+Sat Oct 13 17:02:38 2018	pablo escobar was killed by Himself with a suicide trick
+Sat Oct 13 17:02:39 2018	chiken (STEAM_0:0:143719653): // ITS FIIIIIIIIIIIIIIIINE
+Sat Oct 13 17:02:40 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 17:02:44 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert well you re the professional if you say so sir
+Sat Oct 13 17:02:48 2018	chiken (STEAM_0:0:143719653): // We dont even have a rocket
+Sat Oct 13 17:02:51 2018	wolfhugger 3000 (STEAM_0:1:42591216): hi
+Sat Oct 13 17:03:02 2018	| Scxxr | (STEAM_0:1:105875194) has joined the game
+Sat Oct 13 17:03:02 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:03:04 2018	Lukyn Red (STEAM_0:0:81441026): // 4000°K is only 3 726.85°C
+Sat Oct 13 17:03:08 2018	Atomic (STEAM_0:0:145671660): /y its just cs:s
+Sat Oct 13 17:03:15 2018	Atomic (STEAM_0:0:145671660): /y you need cs:s for the playermodel
+Sat Oct 13 17:03:19 2018	Atomic (STEAM_0:0:145671660): /y its the hostage playermodel
+Sat Oct 13 17:03:21 2018	chiken (STEAM_0:0:143719653): // quick maffs
+Sat Oct 13 17:03:24 2018	Atomic (STEAM_0:0:145671660): yeah
+Sat Oct 13 17:03:27 2018	Atomic (STEAM_0:0:145671660): its a medical condition
+Sat Oct 13 17:03:27 2018	wolfhugger 3000 (STEAM_0:1:42591216): what
+Sat Oct 13 17:03:30 2018	wolfhugger 3000 (STEAM_0:1:42591216): i do
+Sat Oct 13 17:03:40 2018	Atomic (STEAM_0:0:145671660): jackass
+Sat Oct 13 17:03:40 2018	chiken (STEAM_0:0:143719653): // Btw what does the weapon synthesiser do?
+Sat Oct 13 17:03:46 2018	Enviro (STEAM_0:0:80115103): // makes weapons
+Sat Oct 13 17:03:46 2018	Atomic (STEAM_0:0:145671660): Where do we go
+Sat Oct 13 17:03:48 2018	Atomic (STEAM_0:0:145671660): To escape
+Sat Oct 13 17:03:51 2018	Lukyn Red (STEAM_0:0:81441026): // If there is an meltdown you can create weapons
+Sat Oct 13 17:03:51 2018	Enviro (STEAM_0:0:80115103): // during meltdown
+Sat Oct 13 17:03:52 2018	Atomic (STEAM_0:0:145671660): from the coolant
+Sat Oct 13 17:03:54 2018	wolfhugger 3000 (STEAM_0:1:42591216): idfk
+Sat Oct 13 17:03:59 2018	Lukyn Red (STEAM_0:0:81441026): mine
+Sat Oct 13 17:04:14 2018	Lukyn Red (STEAM_0:0:81441026): try now
+Sat Oct 13 17:04:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:04:51 2018	Atomic (STEAM_0:0:145671660): /job Coolant Maintenance
+Sat Oct 13 17:05:10 2018	Atomic (STEAM_0:0:145671660): /advert Coolant maintenance, please leave the perimeter
+Sat Oct 13 17:05:17 2018	:( was killed by Enviro with a fas2_thrown_m67
+Sat Oct 13 17:05:17 2018	pablo escobar was killed by Enviro with a fas2_thrown_m67
+Sat Oct 13 17:05:22 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 17:05:32 2018	Atomic (STEAM_0:0:145671660): /advert Security, please leave.
+Sat Oct 13 17:05:37 2018	Atomic (STEAM_0:0:145671660): /advert I am doing maintenance on the Coolant
+Sat Oct 13 17:05:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 13 17:05:48 2018	Enviro (STEAM_0:0:80115103): /advert Negative. Terrorists still in the area.
+Sat Oct 13 17:05:49 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 17:05:50 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:05:54 2018	Atomic (STEAM_0:0:145671660): /y I have to do this
+Sat Oct 13 17:06:04 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 13 17:06:07 2018	Atomic (STEAM_0:0:145671660): /pm mark set a hit
+Sat Oct 13 17:06:14 2018	Adam Klein was killed by Lukyn Red with a weapon_hlof_pipewrench
+Sat Oct 13 17:06:16 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:06:51 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:06:52 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:07:21 2018	Lukyn Red (STEAM_0:0:81441026): /advert Status of the facility: Core: Heating / Rocket: Launched / E-Coolant: Used / Calculting outcome... Facility will be
+Sat Oct 13 17:07:23 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert enroute to repair the plant
+Sat Oct 13 17:07:24 2018	Lukyn Red (STEAM_0:0:81441026): // Destroyed
+Sat Oct 13 17:07:33 2018	Atomic (STEAM_0:0:145671660): Hello..
+Sat Oct 13 17:07:39 2018	Atomic (STEAM_0:0:145671660): What are we going to do...
+Sat Oct 13 17:07:43 2018	Atomic (STEAM_0:0:145671660): The rocket is gone...
+Sat Oct 13 17:07:45 2018	Fallenturtle (STEAM_0:1:62867403): cool the reactor
+Sat Oct 13 17:07:46 2018	pablo escobar was killed by Himself with a suicide trick
+Sat Oct 13 17:07:46 2018	:( was killed by Entity [5368][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sat Oct 13 17:07:48 2018	Atomic (STEAM_0:0:145671660): The E-Coolant is used.
+Sat Oct 13 17:07:48 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 17:07:49 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 17:07:52 2018	Atomic (STEAM_0:0:145671660): We're doome.d..
+Sat Oct 13 17:07:55 2018	Fallenturtle (STEAM_0:1:62867403): its easy to cool 
+Sat Oct 13 17:07:57 2018	Fallenturtle (STEAM_0:1:62867403): naaa
+Sat Oct 13 17:08:04 2018	Atomic (STEAM_0:0:145671660): /advert Forget about coolant, it's too far.
+Sat Oct 13 17:08:14 2018	Atomic (STEAM_0:0:145671660): /advert All personnel report to the Blast Shelter.
+Sat Oct 13 17:08:17 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert IM GOING TO DO A MANUEL SHUT DOWN
+Sat Oct 13 17:08:19 2018	Fallenturtle (STEAM_0:1:62867403): /advert no its not are you retarded i have a teleporter
+Sat Oct 13 17:08:20 2018	wolfhugger 3000 (STEAM_0:1:42591216): // i am at the collant what do i do
+Sat Oct 13 17:08:27 2018	Fallenturtle (STEAM_0:1:62867403): // turn it on
+Sat Oct 13 17:08:28 2018	Lukyn Red (STEAM_0:0:81441026): /advert I can't report to the blast shelter
+Sat Oct 13 17:08:32 2018	Fallenturtle (STEAM_0:1:62867403): // put the gates upwards
+Sat Oct 13 17:08:32 2018	wolfhugger 3000 (STEAM_0:1:42591216): // how
+Sat Oct 13 17:08:33 2018	Lukyn Red (STEAM_0:0:81441026): /advert I am trapped in here
+Sat Oct 13 17:08:37 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Oct 13 17:08:40 2018	Fallenturtle (STEAM_0:1:62867403): // the gates should be up
+Sat Oct 13 17:08:44 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 17:08:58 2018	Atomic (STEAM_0:0:145671660): // oh y e s
+Sat Oct 13 17:08:59 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Oct 13 17:09:11 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 17:09:35 2018	Atomic (STEAM_0:0:145671660): I am an idiot
+Sat Oct 13 17:09:36 2018	wolfhugger 3000 (STEAM_0:1:42591216): @ someone is prop blocking
+Sat Oct 13 17:09:48 2018	Atomic (STEAM_0:0:145671660): /advert This robot guy is a total jackass
+Sat Oct 13 17:09:49 2018	wolfhugger 3000 (STEAM_0:1:42591216): @ nvm
+Sat Oct 13 17:09:59 2018	Enviro (STEAM_0:0:80115103): cool?
+Sat Oct 13 17:09:59 2018	wolfhugger 3000 (STEAM_0:1:42591216): ya
+Sat Oct 13 17:10:01 2018	Fallenturtle (STEAM_0:1:62867403): /advert fuck you master
+Sat Oct 13 17:10:14 2018	Atomic (STEAM_0:0:145671660): /advert You're lucky I didn't turn you into a Sex Robot
+Sat Oct 13 17:10:16 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 13 17:10:20 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:10:22 2018	Atomic (STEAM_0:0:145671660): /advert So far you're pushing it.
+Sat Oct 13 17:10:30 2018	Fallenturtle (STEAM_0:1:62867403): /advert im codsworth i dont have a ass or anything else
+Sat Oct 13 17:10:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:10:43 2018	Atomic (STEAM_0:0:145671660): /advert Wanna see that change?
+Sat Oct 13 17:10:47 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:10:50 2018	:( (STEAM_0:0:178698597) spawned
+Sat Oct 13 17:10:52 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc cappppp
+Sat Oct 13 17:11:02 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:11:23 2018	Atomic (STEAM_0:0:145671660): /advert Codsworth, more like Codsworthless
+Sat Oct 13 17:11:30 2018	Capsond (STEAM_0:1:32985483) has joined the game
+Sat Oct 13 17:11:30 2018	Capsond (STEAM_0:1:32985483) spawned
+Sat Oct 13 17:11:38 2018	wolfhugger 3000 (STEAM_0:1:42591216): hi
+Sat Oct 13 17:11:49 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc cappppp
+Sat Oct 13 17:12:02 2018	Capsond (STEAM_0:1:32985483): /name Hoben
+Sat Oct 13 17:12:03 2018	Atomic (STEAM_0:0:145671660): soon you'll have genetelia too
+Sat Oct 13 17:12:10 2018	Hoben (STEAM_0:1:32985483): /OOC yea? 
+Sat Oct 13 17:12:15 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc hoben become a researcher
+Sat Oct 13 17:12:28 2018	chiken (STEAM_0:0:143719653): // any bajs forsen1?
+Sat Oct 13 17:12:31 2018	Hoben (STEAM_0:1:32985483) spawned
+Sat Oct 13 17:12:31 2018	Lukyn Red (STEAM_0:0:81441026): /radio test
+Sat Oct 13 17:12:46 2018	Atomic (STEAM_0:0:145671660): /radio Testing
+Sat Oct 13 17:12:53 2018	Hoben (STEAM_0:1:32985483): /OOC ok i am one XD
+Sat Oct 13 17:12:59 2018	Enviro (STEAM_0:0:80115103): /radio 10-4
+Sat Oct 13 17:13:07 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc ok come meet me outside
+Sat Oct 13 17:13:13 2018	Lukyn Red was killed by Mark with a cw_g36c
+Sat Oct 13 17:13:14 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 13 17:13:17 2018	Hoben (STEAM_0:1:32985483): /OOC ive no idea where that is XD
+Sat Oct 13 17:13:23 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc big bulk door
+Sat Oct 13 17:13:41 2018	| Scxxr | was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 17:13:43 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:13:43 2018	wolfhugger 3000 (STEAM_0:1:42591216): // XD
+Sat Oct 13 17:14:09 2018	wolfhugger 3000 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 17:14:11 2018	| Scxxr | (STEAM_0:1:105875194): // lol
+Sat Oct 13 17:14:15 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:14:23 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc describe to me your location hoben
+Sat Oct 13 17:14:24 2018	wolfhugger 3000 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 17:14:25 2018	Lukyn Red was killed by Adam Klein with a cw_g36c
+Sat Oct 13 17:14:25 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:14:27 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 13 17:14:40 2018	Hoben (STEAM_0:1:32985483): /OOC ehhhh big ass room with a rotating thingy
+Sat Oct 13 17:14:50 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc ok hang tight
+Sat Oct 13 17:15:04 2018	Lukyn Red (STEAM_0:0:81441026): yep
+Sat Oct 13 17:15:23 2018	Enviro was killed by Adam Klein with a fas2_m67
+Sat Oct 13 17:15:23 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct 13 17:15:27 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:15:28 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 17:15:30 2018	Atomic was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Oct 13 17:15:32 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:15:32 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct 13 17:15:33 2018	Enviro (STEAM_0:0:80115103): // adam.. why?
+Sat Oct 13 17:15:44 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:15:51 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc hoben just become a plant worker i cant find you lol
+Sat Oct 13 17:15:59 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:16:04 2018	Mark was killed by Himself with a suicide trick
+Sat Oct 13 17:16:17 2018	[NWA]Dank Memes Reho was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 17:16:18 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 13 17:16:19 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct 13 17:16:22 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:16:22 2018	Hoben (STEAM_0:1:32985483): /OOC well i cant describe it better sorry , its like a huge room with a big ventilator
+Sat Oct 13 17:16:29 2018	Atomic (STEAM_0:0:145671660): // the fan?
+Sat Oct 13 17:16:32 2018	Lukyn Red (STEAM_0:0:81441026): look up
+Sat Oct 13 17:16:38 2018	Lukyn Red (STEAM_0:0:81441026): the core
+Sat Oct 13 17:16:59 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc turn on your radio and right clickj to facility all
+Sat Oct 13 17:17:30 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct 13 17:17:31 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:17:35 2018	Atomic (STEAM_0:0:145671660): Let us move.
+Sat Oct 13 17:17:45 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:17:52 2018	| Scxxr | (STEAM_0:1:105875194): // wolf where are you dood
+Sat Oct 13 17:17:53 2018	Atomic (STEAM_0:0:145671660): WHO ARE YOU
+Sat Oct 13 17:17:58 2018	wolfhugger 3000 (STEAM_0:1:42591216): // idk
+Sat Oct 13 17:18:00 2018	Atomic (STEAM_0:0:145671660): /advert WE HAVE HOBEN
+Sat Oct 13 17:18:05 2018	Atomic (STEAM_0:0:145671660): /advert HE'S OURS
+Sat Oct 13 17:18:09 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert LET HOBEN GO\
+Sat Oct 13 17:18:09 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) has joined the game
+Sat Oct 13 17:18:09 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Sat Oct 13 17:18:09 2018	Atomic (STEAM_0:0:145671660): FOLLOW ME
+Sat Oct 13 17:18:11 2018	Enviro (STEAM_0:0:80115103): /advert REQUESTING ALL AVAILABLE SWAT UNITS.
+Sat Oct 13 17:18:13 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ADVERT THAT IS MY SON
+Sat Oct 13 17:18:19 2018	Enviro (STEAM_0:0:80115103): /request WE NEED AS MANY SWAT AS WE CAN GET INSIDE THE FACILITY.
+Sat Oct 13 17:18:26 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:18:27 2018	Atomic (STEAM_0:0:145671660): /ADVERT IF ANY UNITS COME HE'LL BE YOUR SOON FILLED WITH LEAD
+Sat Oct 13 17:18:28 2018	Enviro (STEAM_0:0:80115103): /advert WE NEED AS MANY SWAT AS WE CAN GET INSIDE THE FACIITYT.
+Sat Oct 13 17:18:40 2018	Atomic (STEAM_0:0:145671660): /advert son*
+Sat Oct 13 17:18:40 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Sat Oct 13 17:18:47 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert dont hurt hoben he just graduated high school!
+Sat Oct 13 17:18:48 2018	Atomic (STEAM_0:0:145671660): /y OPEN UP WE HAVE A HOSTAGE
+Sat Oct 13 17:19:04 2018	Atomic (STEAM_0:0:145671660): It's director only.
+Sat Oct 13 17:19:10 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:19:14 2018	Atomic (STEAM_0:0:145671660): /y OPEN UP
+Sat Oct 13 17:19:17 2018	wolfhugger 3000 was killed by Lukyn Red with a cw_l85a2
+Sat Oct 13 17:19:18 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Sat Oct 13 17:19:21 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 13 17:19:23 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct 13 17:19:23 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 13 17:19:32 2018	Hoben was killed by Atomic with a fas2_thrown_m67
+Sat Oct 13 17:19:32 2018	Lukyn Red was killed by Atomic with a fas2_thrown_m67
+Sat Oct 13 17:19:35 2018	Hoben (STEAM_0:1:32985483) spawned
+Sat Oct 13 17:19:41 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 13 17:19:51 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert HOBEN IM HEADING TO THE MAIN POWER PLANT CORE
+Sat Oct 13 17:20:01 2018	Fallenturtle was killed by Atomic with a fas2_thrown_m67
+Sat Oct 13 17:20:01 2018	Atomic was killed by Himself with a suicide trick
+Sat Oct 13 17:20:01 2018	chiken was killed by Atomic with a fas2_thrown_m67
+Sat Oct 13 17:20:02 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 17:20:02 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 17:20:05 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:20:09 2018	Hoben (STEAM_0:1:32985483): /OOC ive no idea where that is , i dont know this map XD
+Sat Oct 13 17:20:12 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ADVERT REMEMBER WHAT I TAUGHT YOU WHAT WE DO TO TERRORIST SON
+Sat Oct 13 17:20:19 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:20:21 2018	wolfhugger 3000 (STEAM_0:1:42591216) disconnected
+Sat Oct 13 17:20:24 2018	Atomic was killed by Himself with a suicide trick
+Sat Oct 13 17:20:30 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:20:31 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct 13 17:20:31 2018	chiken was killed by Adam Klein with a env_explosion
+Sat Oct 13 17:20:32 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 17:20:33 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:20:35 2018	Not_A_Holiday_Heretek was killed by Fallenturtle with a fas2_dv2
+Sat Oct 13 17:20:36 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Sat Oct 13 17:20:38 2018	chiken (STEAM_0:0:143719653) spawned
+Sat Oct 13 17:20:56 2018	Lukyn Red (STEAM_0:0:81441026): He is up
+Sat Oct 13 17:20:58 2018	Lukyn Red (STEAM_0:0:81441026): but
+Sat Oct 13 17:21:01 2018	Lukyn Red (STEAM_0:0:81441026): he is dead
+Sat Oct 13 17:21:09 2018	Valien (STEAM_0:1:41660292): // Mr. I have a low voice on the intercom
+Sat Oct 13 17:21:10 2018	Lukyn Red (STEAM_0:0:81441026): no
+Sat Oct 13 17:21:11 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert THEY KILLED MY SON
+Sat Oct 13 17:21:11 2018	| Scxxr | was killed by Fallenturtle with a cw_deagle
+Sat Oct 13 17:21:15 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:21:17 2018	Lukyn Red (STEAM_0:0:81441026): The codsworth did
+Sat Oct 13 17:21:17 2018	:( (STEAM_0:0:178698597) disconnected
+Sat Oct 13 17:21:21 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ADVERT MURDER THESE ANIMALS
+Sat Oct 13 17:21:22 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 13 17:21:30 2018	Valien (STEAM_0:1:41660292): !goto dank_memes
+Sat Oct 13 17:21:36 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct 13 17:21:38 2018	pablo escobar was killed by Enviro with a cw_g36c
+Sat Oct 13 17:21:39 2018	pablo escobar (STEAM_0:1:204422185) spawned
+Sat Oct 13 17:21:44 2018	[NWA]Dank Memes Reho was killed by Lukyn Red with a cw_shorty
+Sat Oct 13 17:22:06 2018	| Scxxr | was killed by Fallenturtle with a cw_deagle
+Sat Oct 13 17:22:09 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:22:15 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert bleh* son...son can you hear me? They shot me...cough* i dont think im going to make it on...i...i.....i love you
+Sat Oct 13 17:22:17 2018	| Scxxr | was killed by chiken with a cw_g36c
+Sat Oct 13 17:22:18 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:22:25 2018	Fallenturtle (STEAM_0:1:62867403): /demote scxxr mingew
+Sat Oct 13 17:22:27 2018	Valien (STEAM_0:1:41660292): // Relax on the Adverts
+Sat Oct 13 17:22:27 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 13 17:22:31 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 13 17:22:37 2018	Enviro was killed by Lukyn Red with a cw_l85a2
+Sat Oct 13 17:22:38 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 17:22:45 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc hoben please report your location
+Sat Oct 13 17:22:52 2018	Lukyn Red (STEAM_0:0:81441026): // ours again
+Sat Oct 13 17:22:55 2018	Atomic (STEAM_0:0:145671660): /y same team
+Sat Oct 13 17:22:59 2018	Atomic (STEAM_0:0:145671660): /advert same team
+Sat Oct 13 17:23:05 2018	Lukyn Red (STEAM_0:0:81441026): you will die
+Sat Oct 13 17:23:14 2018	Hoben was killed by Lukyn Red with a fas2_machete
+Sat Oct 13 17:23:14 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct 13 17:23:17 2018	Hoben (STEAM_0:1:32985483) spawned
+Sat Oct 13 17:23:33 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Sat Oct 13 17:23:49 2018	Hoben (STEAM_0:1:32985483): /OOC just died XD
+Sat Oct 13 17:24:09 2018	chiken (STEAM_0:0:143719653): // PUT THE WATER DAM THINGS UP
+Sat Oct 13 17:24:15 2018	Enviro (STEAM_0:0:80115103): // they should be
+Sat Oct 13 17:24:16 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc im looking for you near lab
+Sat Oct 13 17:24:37 2018	Atomic (STEAM_0:0:145671660): /y NO!
+Sat Oct 13 17:24:41 2018	Atomic (STEAM_0:0:145671660): /y BROTHER!
+Sat Oct 13 17:24:41 2018	pablo escobar (STEAM_0:1:204422185) disconnected
+Sat Oct 13 17:24:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 13 17:24:53 2018	Atomic (STEAM_0:0:145671660): They shall pay
+Sat Oct 13 17:24:55 2018	Atomic (STEAM_0:0:145671660): With their blood
+Sat Oct 13 17:25:10 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 13 17:25:11 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Sat Oct 13 17:25:12 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc try to find your wy to the lab near where the portal is follow the signs
+Sat Oct 13 17:25:42 2018	Atomic (STEAM_0:0:145671660): SHIT
+Sat Oct 13 17:25:46 2018	| Scxxr | was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct 13 17:25:47 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:25:48 2018	Atomic (STEAM_0:0:145671660): /Y failnade
+Sat Oct 13 17:25:55 2018	| Scxxr | (STEAM_0:1:105875194) spawned
+Sat Oct 13 17:26:01 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct 13 17:26:21 2018	Atomic was killed by Himself with a suicide trick
+Sat Oct 13 17:26:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 13 17:26:24 2018	Atomic (STEAM_0:0:145671660): /y GO
+Sat Oct 13 17:26:31 2018	Adam Klein was killed by Enviro with a cw_g36c
+Sat Oct 13 17:26:32 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 13 17:26:47 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:26:48 2018	Enviro (STEAM_0:0:80115103): // FUCK MY LIFE
+Sat Oct 13 17:26:52 2018	Valien (STEAM_0:1:41660292): !goto Fallen
+Sat Oct 13 17:26:54 2018	Atomic (STEAM_0:0:145671660) spawned
+Sat Oct 13 17:27:48 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 13 17:27:51 2018	chiken (STEAM_0:0:143719653): // You need to put the things up
+Sat Oct 13 17:28:03 2018	chiken (STEAM_0:0:143719653): // The dams or whatever
+Sat Oct 13 17:28:04 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc hoben kos urself :)
+Sat Oct 13 17:28:11 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert scp 049 has arrived
+Sat Oct 13 17:28:11 2018	Valien (STEAM_0:1:41660292): // Tjat
+Sat Oct 13 17:28:15 2018	Hoben (STEAM_0:1:32985483): /OOc alright dad
+Sat Oct 13 17:28:24 2018	Not_A_Holiday_Heretek was killed by Atomic with a cw_scarh
+Sat Oct 13 17:28:24 2018	Enviro was killed by Entity [2435][func_movelinear] with a func_movelinear
+Sat Oct 13 17:28:30 2018	chiken (STEAM_0:0:143719653): // fuck
+Sat Oct 13 17:28:33 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 13 17:28:39 2018	chiken (STEAM_0:0:143719653): // HOW?
+Sat Oct 13 17:28:43 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc AYYY CRITICAL MELTDOWNNN
+Sat Oct 13 17:28:44 2018	chiken (STEAM_0:0:143719653): // Did you get to the core?
+Sat Oct 13 17:28:50 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc HOBEN YOU MUST SURVIVE
+Sat Oct 13 17:28:51 2018	Hoben (STEAM_0:1:32985483) spawned
+Sat Oct 13 17:29:01 2018	Atomic (STEAM_0:0:145671660): // >meltdown in progress
+Sat Oct 13 17:29:07 2018	Lukyn Red was killed by chiken with a cw_g36c
+Sat Oct 13 17:29:09 2018	Atomic (STEAM_0:0:145671660): // >gives security code instead of alerting everyone
+Sat Oct 13 17:29:17 2018	Lukyn Red (STEAM_0:0:81441026): // that's important
+Sat Oct 13 17:29:18 2018	Hoben (STEAM_0:1:32985483): /OOC rip
+Sat Oct 13 17:29:22 2018	chiken (STEAM_0:0:143719653): // Did you get in the core room?

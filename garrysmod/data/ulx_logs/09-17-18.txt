@@ -1,0 +1,115 @@
+[05:05:59] New map: rp_powerplant_v2b2
+[18:28:12] Client "[Opi] Fat Gay" connected.
+[18:31:14] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 182 seconds).
+
+
+
+[18:33:02] New map: rp_powerplant_v2b2
+[18:34:32] Client "[Opi] Fat Gay" connected.
+[18:35:39] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 67 seconds).
+[19:09:00] Client "Bot01" connected.
+[19:09:00] Client "Bot01" spawned in server <BOT> (took 2222 seconds).
+[19:11:36] Fat Gay: !menu
+[19:14:30] Fat Gay suicided!
+[19:17:35] Fat Gay<STEAM_0:1:218173703> spawned sent animprop_spawntank
+[19:17:37] Fat Gay<STEAM_0:1:218173703> spawned sent animprop_spawntank_moving
+[19:17:55] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[19:18:07] Fat Gay<STEAM_0:1:218173703> spawned sent bm_alarm1
+[19:18:26] Fat Gay<STEAM_0:1:218173703> spawned sent scp_alarm
+[19:18:32] Fat Gay<STEAM_0:1:218173703> spawned sent hl1_alarm1
+[19:18:39] Fat Gay<STEAM_0:1:218173703> spawned sent fo_alarmf
+[19:20:02] Fat Gay<STEAM_0:1:218173703> spawned sent hl1_alarm1
+[19:20:04] Fat Gay<STEAM_0:1:218173703> spawned sent hl1_alarm2
+[19:20:07] Fat Gay<STEAM_0:1:218173703> spawned sent hl1_alarm3
+[19:20:10] Fat Gay<STEAM_0:1:218173703> spawned sent hl1_alarm4
+[19:20:16] Fat Gay<STEAM_0:1:218173703> spawned sent bm_alarm1
+[19:20:20] Fat Gay<STEAM_0:1:218173703> spawned sent bm_alarm13
+[19:20:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m14
+[19:21:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l115
+[19:21:25] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m14
+[19:21:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m249_official
+[19:21:29] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m1911
+[19:21:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mr96
+[19:21:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mac11
+[19:22:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ak74
+[19:22:45] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_fiveseven
+[19:23:29] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mr96
+[19:23:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l115
+[19:23:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ump45
+[19:23:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m249_official
+[19:24:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g36c
+[19:24:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g36c
+[19:24:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g36c
+[19:24:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g3a3
+[19:24:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[19:24:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ar15
+[19:24:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ar15
+[19:24:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_deagle
+
+
+
+[19:27:28] New map: rp_powerplant_v2b2
+[19:27:50] Client "[Opi] Fat Gay" connected.
+[19:29:08] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 78 seconds).
+
+
+
+[19:31:57] New map: rp_powerplant_v2b2
+[19:32:19] Client "[Opi] Fat Gay" connected.
+[19:33:17] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+[20:06:32] Client "Bot01" connected.
+[20:06:32] Client "Bot01" spawned in server <BOT> (took 2137 seconds).
+[20:12:02] Fat Gay suicided!
+[20:21:12] Fat Gay: !motd
+[20:51:12] Fat Gay suicided!
+[21:30:22] Fat Gay suicided!
+[22:09:42] Fat Gay suicided!
+[22:41:43] Fat Gay: !donate
+[22:49:02] Fat Gay suicided!
+
+
+
+[22:50:39] New map: rp_powerplant_v2b2
+[22:50:40] Client "[Opi] Fat Gay" connected.
+[22:51:58] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 78 seconds).
+[22:54:49] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:54:49] Client "[Opi] Fat Gay" connected.
+[22:55:46] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 57 seconds).
+[22:56:12] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:56:12] Client "[Opi] Fat Gay" connected.
+[22:57:10] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+
+
+
+[23:19:59] New map: rp_powerplant_v2b2
+[23:20:03] Client "[Opi] Fat Gay" connected.
+[23:21:02] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+
+
+
+[23:24:08] New map: rp_powerplant_v2b2
+[23:24:12] Client "[Opi] Fat Gay" connected.
+[23:35:52] Client "[Opi] Fat Gay" connected.
+[23:37:29] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 97 seconds).
+[23:38:12] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[23:41:05] Client "[Opi] Fat Gay" connected.
+[23:43:09] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 124 seconds).
+
+
+
+[23:46:08] New map: rp_powerplant_v2b2
+[23:46:47] Client "[Opi] Fat Gay" connected.
+[23:47:59] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 72 seconds).
+[23:50:37] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[23:50:37] Client "[Opi] Fat Gay" connected.
+[23:51:32] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 55 seconds).
+
+
+
+[23:53:49] New map: rp_powerplant_v2b2
+[23:53:52] Client "[Opi] Fat Gay" connected.
+[23:54:52] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 60 seconds).
+
+
+
+[23:56:43] New map: rp_powerplant_v2b2

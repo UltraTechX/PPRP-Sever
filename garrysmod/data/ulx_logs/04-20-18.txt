@@ -1,0 +1,26 @@
+<Logging continued from "data/ulx_logs/04-19-18.txt">
+[17:39:20] Client "Valien" connected.
+[17:39:26] Client "Valien" connected.
+[17:40:44] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 78 seconds).
+[18:02:53] Emmett suicided!
+[18:18:06] Emmett was killed by trigger_hurt
+[18:29:09] Emmett was killed by trigger_hurt
+[19:09:08] Emmett suicided!
+[19:38:58] Client "AP0THECARI0N" connected.
+[19:44:32] Client "AP0THECARI0N" spawned in server <STEAM_0:0:67105367> (took 334 seconds).
+[20:06:39] AP0THECARI0N suicided!
+[20:24:18] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[20:32:18] Dropped "AP0THECARI0N" from server<STEAM_0:0:67105367>
+[21:57:54] Client "Valien" connected.
+[21:58:31] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 37 seconds).
+[22:10:42] Emmett: /dropweapon
+[22:10:48] Emmett: /dropweapon
+[22:14:15] Emmett: Radio 
+[22:15:05] Emmett: Did
+[22:15:07] Emmett: u
+[22:15:08] Emmett: know
+[22:15:11] Emmett: ur mom gay
+[22:19:48] Emmett: !god
+[22:19:48] Emmett granted god mode upon Themself
+[22:40:15] Dropped "Emmett" from server<STEAM_0:1:41660292>
+<Logging continued in "data/ulx_logs/04-21-18.txt">

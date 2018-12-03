@@ -1,0 +1,5 @@
+[15:28:26] New map: rp_powerplant_v2b3
+[16:08:52] Client "[Opi] Fat Gay" connected.
+[16:11:21] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 149 seconds).
+[17:27:34] Fat Gay suicided!
+[18:29:05] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

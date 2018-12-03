@@ -1,0 +1,73 @@
+Sat Sep 22 18:56:24 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Sep 22 18:56:24 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:00:00 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 19:00:00 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 19:01:21 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 19:01:29 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:01:32 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sat Sep 22 19:01:34 2018	Emmett (STEAM_0:1:41660292): !goto m
+Sat Sep 22 19:01:37 2018	Emmett (STEAM_0:1:41660292): !goto Mark
+Sat Sep 22 19:02:05 2018	Emmett (STEAM_0:1:41660292): !bring Mark
+Sat Sep 22 19:05:52 2018	Emmett (STEAM_0:1:41660292): !goto mark
+Sat Sep 22 19:17:21 2018	Emmett (STEAM_0:1:41660292): /dropmoney 10000
+Sat Sep 22 19:17:22 2018	Emmett (STEAM_0:1:41660292) has dropped $10,000
+Sat Sep 22 19:27:18 2018	Emmett was killed by Entity [2405][trigger_hurt] with a trigger_hurt
+Sat Sep 22 19:27:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:27:32 2018	Emmett was killed by Entity [476][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sat Sep 22 19:27:34 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:32:10 2018	Emmett (STEAM_0:1:41660292): !bring mark
+Sat Sep 22 19:33:17 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:17 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:17 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:33:19 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:15 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:15 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:15 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:15 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:15 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:15 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:16 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:16 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:16 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:16 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:16 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:16 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:34:18 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_methdropoff
+Sat Sep 22 19:34:32 2018	Bot01 (BOT) has joined the game
+Sat Sep 22 19:34:32 2018	Bot01 (BOT) spawned
+Sat Sep 22 19:35:46 2018	Emmett (STEAM_0:1:41660292): !bring mark
+Sat Sep 22 19:36:06 2018	Emmett (STEAM_0:1:41660292): !slay mark
+Sat Sep 22 19:36:06 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 19:36:09 2018	Emmett (STEAM_0:1:41660292): !bring mark
+Sat Sep 22 19:37:26 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:37:26 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:37:27 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:37:27 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:37:27 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:37:27 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:38:44 2018	Emmett (STEAM_0:1:41660292): !bring mark
+Sat Sep 22 19:39:36 2018	Emmett was killed by Entity [3000][func_rotating] with a func_rotating
+Sat Sep 22 19:39:36 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:40:26 2018	Emmett (STEAM_0:1:41660292): !bring marjk
+Sat Sep 22 19:40:29 2018	Emmett (STEAM_0:1:41660292): !bring mark
+Sat Sep 22 19:40:37 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 19:40:38 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:47:30 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 19:48:06 2018	Emmett was killed by Entity [2405][trigger_hurt] with a trigger_hurt
+Sat Sep 22 19:48:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 19:55:36 2018	Mark was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 19:55:40 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 20:04:44 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 20:10:25 2018	Mark was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 20:10:26 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 20:17:49 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Sep 22 20:17:49 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 20:20:02 2018	Mark (STEAM_0:0:143859663): Flood Warning
+Sat Sep 22 20:21:51 2018	Emmett was killed by Entity [5048][trigger_hurt] with a trigger_hurt
+Sat Sep 22 20:21:51 2018	guny Pwnd was killed by Entity [5055][trigger_hurt] with a trigger_hurt

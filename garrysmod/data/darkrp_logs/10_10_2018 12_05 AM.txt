@@ -1,0 +1,368 @@
+Wed Oct 10 00:05:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Oct 10 00:05:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 00:06:30 2018	Sinbad (STEAM_0:0:88069895) has joined the game
+Wed Oct 10 00:06:30 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:06:36 2018	fallenturtle (STEAM_0:1:62867403) has joined the game
+Wed Oct 10 00:06:36 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 00:06:45 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Wed Oct 10 00:06:45 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 00:07:23 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 00:07:32 2018	fallenturtle (STEAM_0:1:62867403): // can we continue the tour
+Wed Oct 10 00:07:33 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:09:45 2018	Bulldog (STEAM_0:0:180224455) has joined the game
+Wed Oct 10 00:09:45 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:11:17 2018	Zerrakoth was killed by fallenturtle with a cw_deagle
+Wed Oct 10 00:11:20 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 00:11:23 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 10 00:11:23 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:12:36 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:13:33 2018	Zerrakoth was killed by fallenturtle with a cw_deagle
+Wed Oct 10 00:13:35 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 00:14:22 2018	fallenturtle (STEAM_0:1:62867403): im stuck in the pc
+Wed Oct 10 00:14:22 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:14:24 2018	fallenturtle (STEAM_0:1:62867403): help
+Wed Oct 10 00:14:33 2018	fallenturtle (STEAM_0:1:62867403): i cant move
+Wed Oct 10 00:15:49 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_iodevice
+Wed Oct 10 00:17:03 2018	Sinbad was killed by Himself with a suicide trick
+Wed Oct 10 00:17:03 2018	[W-G] Chicken 136 was killed by Sinbad with a env_explosion
+Wed Oct 10 00:17:12 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:17:15 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:18:49 2018	[W-G] Chicken 136 was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 00:18:51 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:19:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc how are you guys liking the server?
+Wed Oct 10 00:19:29 2018	Sinbad (STEAM_0:0:88069895): /ooc Its something new
+Wed Oct 10 00:19:37 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /ooc its cool so far
+Wed Oct 10 00:19:50 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /ooc its kinda beter than SCPRP
+Wed Oct 10 00:20:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im adding whitelists soon
+Wed Oct 10 00:20:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc more rp less meltdowns and deathmatch
+Wed Oct 10 00:20:24 2018	Zerrakoth (STEAM_0:1:44006700): /ooc hmmm
+Wed Oct 10 00:20:40 2018	Sinbad (STEAM_0:0:88069895): /ooc The meltdowns are cool the first time
+Wed Oct 10 00:20:46 2018	Bulldog (STEAM_0:0:180224455): @ can you come to me
+Wed Oct 10 00:21:05 2018	Sinbad was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:21:06 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:22:42 2018	Sinbad was killed by Entity [2889][func_rotating] with a func_rotating
+Wed Oct 10 00:22:43 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:23:03 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:23:31 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:24:10 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:25:36 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:25:55 2018	Bulldog (STEAM_0:0:180224455): @ you shod let me out
+Wed Oct 10 00:26:05 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:26:19 2018	CaptnObvious (STEAM_0:0:64513062) has joined the game
+Wed Oct 10 00:26:19 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 00:26:34 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:26:46 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:26:56 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:27:01 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 00:27:30 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Wed Oct 10 00:27:30 2018	Slim Hetero (STEAM_0:0:63800005) spawned
+Wed Oct 10 00:27:43 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:28:29 2018	Slim Hetero (STEAM_0:0:63800005) spawned
+Wed Oct 10 00:28:43 2018	Slim Hetero was killed by Himself with a suicide trick
+Wed Oct 10 00:28:43 2018	Sinbad (STEAM_0:0:88069895): /advert I would like to speak to the manager of this plant
+Wed Oct 10 00:28:44 2018	Slim Hetero (STEAM_0:0:63800005) spawned
+Wed Oct 10 00:29:06 2018	fallenturtle (STEAM_0:1:62867403): /advert director or manager
+Wed Oct 10 00:29:26 2018	Sinbad (STEAM_0:0:88069895): /advert Director 
+Wed Oct 10 00:29:42 2018	Slim Hetero (STEAM_0:0:63800005): /name Yazeed Al Kawalim
+Wed Oct 10 00:29:42 2018	fallenturtle (STEAM_0:1:62867403): /advert want me to go to you or you to me
+Wed Oct 10 00:29:52 2018	Sinbad (STEAM_0:0:88069895): /advert To me
+Wed Oct 10 00:30:11 2018	Lazlo Tart (STEAM_0:0:64513062): /announce We're in the lobby.
+Wed Oct 10 00:32:18 2018	Sinbad (STEAM_0:0:88069895): /advert I would like to speak to the leader of Boko Haram
+Wed Oct 10 00:32:18 2018	Alen (STEAM_0:0:120134659) has joined the game
+Wed Oct 10 00:32:18 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 00:32:21 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Director, please meet us in the lobby.
+Wed Oct 10 00:33:00 2018	fallenturtle (STEAM_0:1:62867403): /advert what do you want
+Wed Oct 10 00:33:10 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 00:33:12 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Emergency Procedure Tango-2
+Wed Oct 10 00:33:12 2018	fallenturtle (STEAM_0:1:62867403): /advert 10k
+Wed Oct 10 00:33:24 2018	fallenturtle (STEAM_0:1:62867403): /advert we dont have monsters
+Wed Oct 10 00:33:28 2018	Alen (STEAM_0:0:120134659): /job Master Chef
+Wed Oct 10 00:33:44 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /advert (HM) I'll give you 10K just calm down
+Wed Oct 10 00:34:05 2018	Alen (STEAM_0:0:120134659): // Do we have to sign up for PAC3?
+Wed Oct 10 00:34:08 2018	Lazlo Tart (STEAM_0:0:64513062): // idk
+Wed Oct 10 00:34:13 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /ooc nope
+Wed Oct 10 00:34:14 2018	Lazlo Tart (STEAM_0:0:64513062): // dont think so
+Wed Oct 10 00:34:16 2018	Alen (STEAM_0:0:120134659): // Only one way to find
+Wed Oct 10 00:34:47 2018	Lazlo Tart (STEAM_0:0:64513062): All security personnel. This is an emergency, any unathorized personnel are to be arrested.
+Wed Oct 10 00:34:59 2018	Lazlo Tart (STEAM_0:0:64513062): If unable to arrest, shoot them immediately.
+Wed Oct 10 00:35:12 2018	fallenturtle (STEAM_0:1:62867403): /advert the inspector is are nagotiator
+Wed Oct 10 00:36:23 2018	Bulldog was killed by Himself with a suicide trick
+Wed Oct 10 00:36:23 2018	fallenturtle was killed by Bulldog with a env_explosion
+Wed Oct 10 00:36:28 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 00:36:33 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /pm Bull I have already begun procedure to destroy the core.
+Wed Oct 10 00:36:41 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:36:42 2018	Zerrakoth was killed by Himself with a suicide trick
+Wed Oct 10 00:36:44 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 00:37:08 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 00:37:39 2018	Lazlo Tart was killed by Yazeed Al Kawalim with a cw_l85a2
+Wed Oct 10 00:37:40 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 00:38:10 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 00:38:47 2018	Bulldog (STEAM_0:0:180224455): /advert met in lobey
+Wed Oct 10 00:38:58 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Operation personnel, please enter cooling procedure.
+Wed Oct 10 00:39:39 2018	[W-G] Chicken 136 was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 00:39:42 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:39:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:43 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:44 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:44 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:46 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:47 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:47 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:48 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:48 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:49 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_ball
+Wed Oct 10 00:39:50 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 00:41:03 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /pm Bulldog Secure the Admin Office.
+Wed Oct 10 00:41:52 2018	fallenturtle (STEAM_0:1:62867403): /advert we need all avialible swat to go to the reactor core
+Wed Oct 10 00:42:30 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT item_suit
+Wed Oct 10 00:42:34 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT item_suitcharger
+Wed Oct 10 00:42:36 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT item_suitcharger
+Wed Oct 10 00:42:37 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT item_suitcharger
+Wed Oct 10 00:42:38 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT item_suitcharger
+Wed Oct 10 00:42:38 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT item_suitcharger
+Wed Oct 10 00:42:48 2018	Bulldog (STEAM_0:0:180224455): /advert brang it swat
+Wed Oct 10 00:43:23 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert We want the entire country of Greece and 4 scooters and we will leave the facility peacefully
+Wed Oct 10 00:44:21 2018	Ragpan (STEAM_0:1:155698467) has joined the game
+Wed Oct 10 00:44:21 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 00:44:29 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): 814
+Wed Oct 10 00:44:40 2018	Bulldog (STEAM_0:0:180224455): /advert we are unarmd
+Wed Oct 10 00:44:40 2018	Alen (STEAM_0:0:120134659): // oh shit ragpan
+Wed Oct 10 00:44:44 2018	Alen (STEAM_0:0:120134659): // whats up
+Wed Oct 10 00:45:29 2018	Ragpan (STEAM_0:1:155698467): /ooc hey alen 
+Wed Oct 10 00:45:39 2018	Alen (STEAM_0:0:120134659): // howd you find this server
+Wed Oct 10 00:45:41 2018	[W-G] Chicken 136 was killed by Lazlo Tart with a fas2_thrown_m67
+Wed Oct 10 00:45:42 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:45:45 2018	Ragpan (STEAM_0:1:155698467): /advert Come to Rag's Fresh Pizza, the best pizza on Mars.
+Wed Oct 10 00:45:47 2018	Alen (STEAM_0:0:120134659): // i mean first caboose
+Wed Oct 10 00:45:51 2018	Ragpan (STEAM_0:1:155698467): /ooc old bind
+Wed Oct 10 00:45:51 2018	Alen (STEAM_0:0:120134659): // then sinbad
+Wed Oct 10 00:45:58 2018	Alen (STEAM_0:0:120134659): // me then you
+Wed Oct 10 00:46:00 2018	[W-G] Chicken 136 was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:46:00 2018	Lazlo Tart was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:46:01 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:46:01 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 00:46:06 2018	Ragpan (STEAM_0:1:155698467): /ooc idk
+Wed Oct 10 00:46:09 2018	Ragpan (STEAM_0:1:155698467): /ooc seemed cool
+Wed Oct 10 00:46:34 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 00:48:54 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT fas2_att_suppressor
+Wed Oct 10 00:48:56 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT fas2_att_suppressor
+Wed Oct 10 00:48:57 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT fas2_att_suppressor
+Wed Oct 10 00:49:26 2018	[W-G] Chicken 136 was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:49:28 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:49:45 2018	Ragpan was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:49:46 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 00:51:06 2018	Bulldog was killed by Himself with a suicide trick
+Wed Oct 10 00:51:06 2018	Alen was killed by Bulldog with a env_explosion
+Wed Oct 10 00:51:08 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:51:09 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 00:51:09 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /pm Bull Where are you pal?
+Wed Oct 10 00:53:23 2018	Yazeed Al Kawalim was killed by Sinbad with a fas2_g36c
+Wed Oct 10 00:53:35 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 00:53:37 2018	Sinbad was killed by Alen with a cw_l85a2
+Wed Oct 10 00:54:00 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:54:26 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): Brother
+Wed Oct 10 00:54:35 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): I disabled them
+Wed Oct 10 00:54:43 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): They will blow up soon
+Wed Oct 10 00:54:49 2018	Lazlo Tart (STEAM_0:0:64513062): /looc brb
+Wed Oct 10 00:54:50 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): Did you kill Sinbad?
+Wed Oct 10 00:55:04 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): I will stay here
+Wed Oct 10 00:55:26 2018	Bulldog was killed by Zerrakoth with a fas2_g36c
+Wed Oct 10 00:55:32 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:56:04 2018	Ragpan was killed by Yazeed Al Kawalim with a cw_l85a2
+Wed Oct 10 00:56:06 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 00:56:22 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): I killed a rogue plant worker
+Wed Oct 10 00:56:29 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): I stay here brother
+Wed Oct 10 00:56:34 2018	fallenturtle (STEAM_0:1:62867403): 
+Wed Oct 10 00:56:55 2018	Ragpan (STEAM_0:1:155698467): /ad fuck
+Wed Oct 10 00:57:04 2018	Alen (STEAM_0:0:120134659): ono
+Wed Oct 10 00:57:05 2018	Alen was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:57:10 2018	Alen (STEAM_0:0:120134659): // i fell
+Wed Oct 10 00:57:11 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 00:57:12 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Please don't raise their HP without raising ours dude
+Wed Oct 10 00:57:17 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // It's not fair
+Wed Oct 10 00:57:25 2018	Alen (STEAM_0:0:120134659): // Yazz imma go sniper
+Wed Oct 10 00:57:32 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 00:57:44 2018	Bulldog was killed by fallenturtle with a fas2_g36c
+Wed Oct 10 00:57:49 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:58:01 2018	[W-G] Chicken 136 was killed by Sinbad with a fas2_g36c
+Wed Oct 10 00:58:04 2018	Ragpan (STEAM_0:1:155698467): /announce How much longer until it blows?
+Wed Oct 10 00:58:12 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:58:12 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): shit
+Wed Oct 10 00:58:16 2018	Ragpan (STEAM_0:1:155698467): /advert how much longer until it blows?
+Wed Oct 10 00:58:17 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): The infedels are coming
+Wed Oct 10 00:58:25 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Unknown.
+Wed Oct 10 00:58:29 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert The infedels are coming!
+Wed Oct 10 00:58:34 2018	Ragpan (STEAM_0:1:155698467): /advert fuck
+Wed Oct 10 00:58:50 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): In a minute
+Wed Oct 10 00:58:51 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 00:58:59 2018	Lazlo Tart (STEAM_0:0:64513062): /advert This is a level two evacuation
+Wed Oct 10 00:59:10 2018	fallenturtle (STEAM_0:1:62867403): /advert activate emergency coolant
+Wed Oct 10 00:59:21 2018	Ragpan (STEAM_0:1:155698467): /advert Activating coolant
+Wed Oct 10 00:59:35 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /y allahu akbar!
+Wed Oct 10 00:59:38 2018	Bulldog was killed by Himself with a suicide trick
+Wed Oct 10 00:59:43 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:00:00 2018	Alen was killed by Himself with a suicide trick
+Wed Oct 10 01:00:01 2018	Toaster (STEAM_0:0:111119859) has joined the game
+Wed Oct 10 01:00:01 2018	Toaster (STEAM_0:0:111119859) spawned
+Wed Oct 10 01:00:03 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 01:00:09 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert BROTHER! THE INFEDELS ARE HERE!
+Wed Oct 10 01:00:25 2018	Ragpan was killed by Yazeed Al Kawalim with a fas2_thrown_m67
+Wed Oct 10 01:00:27 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:00:45 2018	Yazeed Al Kawalim was killed by Lazlo Tart with a cw_g36c
+Wed Oct 10 01:00:47 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:00:52 2018	Zerrakoth (STEAM_0:1:44006700): xxxxxxxxxxxxxxxxxx
+Wed Oct 10 01:01:20 2018	Lazlo Tart (STEAM_0:0:64513062): /advert The fan won't start
+Wed Oct 10 01:01:43 2018	Lazlo Tart (STEAM_0:0:64513062): // yazeed thats propblock
+Wed Oct 10 01:01:51 2018	Lazlo Tart was killed by Yazeed Al Kawalim with a cw_l85a2
+Wed Oct 10 01:01:52 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 01:02:00 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // You guys got 1000HP, though.
+Wed Oct 10 01:02:03 2018	Bulldog was killed by Himself with a suicide trick
+Wed Oct 10 01:02:03 2018	Alen was killed by Bulldog with a env_explosion
+Wed Oct 10 01:02:05 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:02:05 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 01:02:08 2018	Alen (STEAM_0:0:120134659): // yee
+Wed Oct 10 01:02:12 2018	Lazlo Tart (STEAM_0:0:64513062): // not my fault
+Wed Oct 10 01:02:14 2018	Alen (STEAM_0:0:120134659): // see ya im off for night
+Wed Oct 10 01:02:16 2018	Alen (STEAM_0:0:120134659) disconnected
+Wed Oct 10 01:02:17 2018	Lazlo Tart (STEAM_0:0:64513062): // l8er
+Wed Oct 10 01:02:21 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert Osama come here
+Wed Oct 10 01:02:31 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert We held off the infedels for now
+Wed Oct 10 01:02:33 2018	Lazlo Tart (STEAM_0:0:64513062): w
+Wed Oct 10 01:02:56 2018	Toaster (STEAM_0:0:111119859) spawned
+Wed Oct 10 01:03:11 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): Down there
+Wed Oct 10 01:03:24 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): Not now
+Wed Oct 10 01:03:41 2018	Ragpan (STEAM_0:1:155698467): /advert When will the core blow?
+Wed Oct 10 01:03:43 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert Stay away from the Reactor, please.
+Wed Oct 10 01:03:46 2018	Lazlo Tart (STEAM_0:0:64513062): /advert This situation is in a dire state, all personnel please evacuate.
+Wed Oct 10 01:03:47 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert We are going to repair it.
+Wed Oct 10 01:04:04 2018	Lazlo Tart (STEAM_0:0:64513062): /advert That means you too, guy in lobby.
+Wed Oct 10 01:04:11 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert If you try to make any stupid moves, you'll endanger yourself and the reactor. Just stay quiet.
+Wed Oct 10 01:05:09 2018	Yazeed Al Kawalim was killed by fallenturtle with a cw_deagle
+Wed Oct 10 01:05:10 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:05:28 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /pm bulldog come back to reactor
+Wed Oct 10 01:05:35 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /pm bull they are here
+Wed Oct 10 01:06:19 2018	Yazeed Al Kawalim was killed by Himself with a suicide trick
+Wed Oct 10 01:06:21 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:07:16 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): yo
+Wed Oct 10 01:07:17 2018	Yazeed Al Kawalim was killed by fallenturtle with a fas2_g36c
+Wed Oct 10 01:07:18 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): quit 1000hp
+Wed Oct 10 01:07:20 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): Fuck off
+Wed Oct 10 01:07:22 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): that's bullshit
+Wed Oct 10 01:07:25 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:07:36 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // I won't remove my props until you go back to 100hp.
+Wed Oct 10 01:07:42 2018	Bulldog was killed by Himself with a suicide trick
+Wed Oct 10 01:07:44 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Kind of unfair.
+Wed Oct 10 01:07:45 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:07:46 2018	Zerrakoth (STEAM_0:1:44006700): /ooc then youre gonna get kicked
+Wed Oct 10 01:07:51 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Dude, that's not fair.
+Wed Oct 10 01:07:52 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:07:58 2018	fallenturtle (STEAM_0:1:62867403): // neighter is prop block
+Wed Oct 10 01:08:02 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // I will definetely remove them if you go back to 100HP.
+Wed Oct 10 01:08:17 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:08:17 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Or give us 1000hp
+Wed Oct 10 01:08:18 2018	Lazlo Tart (STEAM_0:0:64513062): // dude head of sec spawns at 200hp
+Wed Oct 10 01:08:31 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Yeah but the inspector got 1000hp
+Wed Oct 10 01:08:38 2018	Zerrakoth (STEAM_0:1:44006700): !warn Yazeed Al Kawalim Not listening to staff, propblocking buttons
+Wed Oct 10 01:08:47 2018	Zerrakoth (STEAM_0:1:44006700): /ooc Remove your buttons, NOW
+Wed Oct 10 01:08:54 2018	Yazeed Al Kawalim was killed by fallenturtle with a fas2_g36c
+Wed Oct 10 01:08:55 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Zerrakoth can we talk
+Wed Oct 10 01:08:55 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:09:01 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // You guys managed to get 1000hp
+Wed Oct 10 01:09:07 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Can we at least also get 1000hp
+Wed Oct 10 01:09:15 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // If so I will remove them immediately
+Wed Oct 10 01:09:59 2018	Yazeed Al Kawalim was killed by fallenturtle with a cw_deagle
+Wed Oct 10 01:10:00 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:10:08 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): @ Give us 1000hp please.
+Wed Oct 10 01:10:16 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): @ I saw the administrator with 833 hp.
+Wed Oct 10 01:10:43 2018	Ragpan was killed by Entity [2745][func_rotating] with a func_rotating
+Wed Oct 10 01:10:45 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:10:51 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:10:59 2018	fallenturtle (STEAM_0:1:62867403): /advert its on
+Wed Oct 10 01:11:29 2018	Sinbad was killed by Entity [2889][func_rotating] with a func_rotating
+Wed Oct 10 01:11:30 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 01:11:50 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert Allah has chosen you to die with us.
+Wed Oct 10 01:11:50 2018	Lazlo Tart (STEAM_0:0:64513062): // what5s the code
+Wed Oct 10 01:12:03 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert May God bless us everlasting.
+Wed Oct 10 01:12:15 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert ALLAHU AKBAR
+Wed Oct 10 01:12:44 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:12:57 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:13:07 2018	Sinbad was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 01:13:08 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 01:13:13 2018	Lazlo Tart (STEAM_0:0:64513062): // is it over?
+Wed Oct 10 01:13:19 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Where is boomy part?w
+Wed Oct 10 01:13:27 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:13:32 2018	Lazlo Tart (STEAM_0:0:64513062): /advert good job boys.
+Wed Oct 10 01:13:41 2018	Ragpan (STEAM_0:1:155698467): /advert Temp is rising
+Wed Oct 10 01:14:02 2018	Ragpan (STEAM_0:1:155698467): good
+Wed Oct 10 01:14:03 2018	Lazlo Tart (STEAM_0:0:64513062): /a test
+Wed Oct 10 01:14:20 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Alright, let's get th temperature down.
+Wed Oct 10 01:14:23 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 01:14:28 2018	Yazeed Al Kawalim was killed by fallenturtle with a fas2_g36c
+Wed Oct 10 01:14:29 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:14:39 2018	Ragpan (STEAM_0:1:155698467): pizza day
+Wed Oct 10 01:14:50 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // What's with the admins helping the facility manager by giving him 1000hp and shit
+Wed Oct 10 01:14:56 2018	Lazlo Tart (STEAM_0:0:64513062): // idk
+Wed Oct 10 01:14:59 2018	Zerrakoth (STEAM_0:1:44006700): /ooc he doesnt have 1k hp
+Wed Oct 10 01:15:02 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // He did
+Wed Oct 10 01:15:06 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // I saw like 833hp
+Wed Oct 10 01:15:06 2018	fallenturtle (STEAM_0:1:62867403): /advert lazo turn off the trams
+Wed Oct 10 01:15:20 2018	Yazeed Al Kawalim was killed by Himself with a suicide trick
+Wed Oct 10 01:15:20 2018	Zerrakoth was killed by Yazeed Al Kawalim with a env_explosion
+Wed Oct 10 01:15:20 2018	fallenturtle was killed by Yazeed Al Kawalim with a env_explosion
+Wed Oct 10 01:15:22 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:15:22 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:15:22 2018	Sinbad (STEAM_0:0:88069895): /advert No
+Wed Oct 10 01:15:23 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 01:15:36 2018	Ragpan (STEAM_0:1:155698467): you did
+Wed Oct 10 01:15:48 2018	Ragpan (STEAM_0:1:155698467): you killed them
+Wed Oct 10 01:15:53 2018	Lazlo Tart was killed by Entity [2889][func_rotating] with a func_rotating
+Wed Oct 10 01:15:55 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 01:16:44 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): 
+Wed Oct 10 01:17:02 2018	Lazlo Tart (STEAM_0:0:64513062): // yeah i have no idea how to turn it off
+Wed Oct 10 01:17:56 2018	Zerrakoth (STEAM_0:1:44006700): !warn Yazeed Al Kawalim propblocking 2
+Wed Oct 10 01:18:01 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Wed Oct 10 01:18:38 2018	Zerrakoth (STEAM_0:1:44006700): /ooc you cant do that even with keypads on the buttons of the core
+Wed Oct 10 01:18:49 2018	Ragpan (STEAM_0:1:155698467): WE MAY BE FUCKED ALSO
+Wed Oct 10 01:18:51 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // If you want just ban me after the meltdown dude
+Wed Oct 10 01:18:58 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Can I just escape in the rocket
+Wed Oct 10 01:19:04 2018	fallenturtle (STEAM_0:1:62867403): !addons
+Wed Oct 10 01:19:06 2018	fallenturtle (STEAM_0:1:62867403): /addons
+Wed Oct 10 01:19:08 2018	fallenturtle (STEAM_0:1:62867403): !motd
+Wed Oct 10 01:19:10 2018	Ragpan (STEAM_0:1:155698467): we may make it
+Wed Oct 10 01:19:13 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /y ALLAH
+Wed Oct 10 01:19:21 2018	Ragpan (STEAM_0:1:155698467): just hope
+Wed Oct 10 01:19:21 2018	Zerrakoth (STEAM_0:1:44006700): /ooc why would I ban you
+Wed Oct 10 01:19:25 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): // Idk
+Wed Oct 10 01:19:29 2018	Ragpan (STEAM_0:1:155698467): fuck
+Wed Oct 10 01:19:35 2018	Zerrakoth (STEAM_0:1:44006700): /ooc im just giving you a warn
+Wed Oct 10 01:19:36 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /y YOU ALL DIE
+Wed Oct 10 01:19:45 2018	Leonardthehero (STEAM_0:1:58933920) has joined the game
+Wed Oct 10 01:19:45 2018	Leonardthehero (STEAM_0:1:58933920) spawned
+Wed Oct 10 01:20:01 2018	Ragpan was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:20:03 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:20:07 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /ADVERT ALLAHU AKBAR
+Wed Oct 10 01:20:25 2018	Ragpan (STEAM_0:1:155698467): /advert COME ON SINBAD WE CAN DO IT
+Wed Oct 10 01:20:37 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 01:20:50 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /JOB Muslim Dude
+Wed Oct 10 01:21:06 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /y lmao
+Wed Oct 10 01:21:16 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /y Die, infedels!
+Wed Oct 10 01:21:20 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /advert ALLAHU AKBAR
+Wed Oct 10 01:21:33 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /ADVERT GO SEE 72 VIRGINS
+Wed Oct 10 01:21:36 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 10 01:21:36 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:21:52 2018	[W-G] Chicken 136 was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:21:52 2018	Toaster was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:21:52 2018	Ragpan was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:21:52 2018	Sinbad was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:21:55 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:21:57 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 01:21:59 2018	Toaster (STEAM_0:0:111119859) spawned
+Wed Oct 10 01:22:00 2018	Ragpan was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:22:01 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:22:02 2018	Sinbad was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:22:03 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 01:22:04 2018	Toaster was killed by Entity [4933][trigger_hurt] with a trigger_hurt

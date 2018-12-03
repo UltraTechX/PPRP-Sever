@@ -1,0 +1,7 @@
+Mon Oct 22 12:37:24 2018	Big Bill (STEAM_0:0:45838915) has joined the game
+Mon Oct 22 12:37:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Mon Oct 22 12:40:42 2018	Papa Joel (STEAM_0:0:50791607) has joined the game
+Mon Oct 22 12:41:47 2018	[prof delaventure] (STEAM_0:1:94964109) has joined the game
+Mon Oct 22 12:47:22 2018	Big Bill (STEAM_0:0:45838915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 12:47:31 2018	Big Bill (STEAM_0:0:45838915) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 22 12:51:39 2018	[RN] Zed (STEAM_0:0:424407058) has joined the game

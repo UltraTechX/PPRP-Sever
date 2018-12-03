@@ -1,0 +1,34 @@
+[05:33:32] New map: rp_powerplant_v2b3
+[05:33:37] Client "[Opi] Fat Gay" connected.
+
+
+
+[06:09:53] New map: rp_powerplant_v2b3
+[06:10:26] Client "[Opi] Fat Gay" connected.
+
+
+
+[06:22:00] New map: rp_powerplant_v2b3
+[06:24:08] Client "[Opi] Fat Gay" connected.
+
+
+
+[07:09:38] New map: rp_powerplant_v2b3
+[07:10:10] Client "[Opi] Fat Gay" connected.
+
+
+
+[08:49:13] New map: rp_powerplant_v2b3
+[08:49:17] Client "[Opi] Fat Gay" connected.
+
+
+
+[08:55:03] New map: rp_powerplant_v2b3
+[08:55:18] Client "[Opi] Fat Gay" connected.
+
+
+
+[19:31:28] New map: rp_powerplant_v2b3
+[19:31:29] Client "wD.ELFBIPAPI13" connected.
+[19:31:29] Client "stush4" connected.
+[19:31:29] Client "[Opi] Fat Gay" connected.

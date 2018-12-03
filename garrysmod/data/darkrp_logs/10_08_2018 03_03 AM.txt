@@ -1,0 +1,174 @@
+Mon Oct  8 03:03:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 03:03:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:03:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:06:49 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 03:06:49 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 03:07:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !donate
+Mon Oct  8 03:11:04 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 03:11:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:19:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Mon Oct  8 03:19:45 2018	Mike (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct  8 03:20:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !buyfilter_zmlab
+Mon Oct  8 03:20:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /buyfilter_zmlab
+Mon Oct  8 03:32:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /buyfruitslicer
+Mon Oct  8 03:32:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zfs_shop
+Mon Oct  8 03:32:47 2018	Mike was killed by Entity [65][zfs_shop] with a zfs_shop
+Mon Oct  8 03:32:49 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 03:33:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 03:37:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /buycombiner_zmlab
+Mon Oct  8 03:37:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Oct  8 03:38:19 2018	Mike was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Mon Oct  8 03:38:20 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 03:38:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 03:38:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:38:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:39:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Mon Oct  8 03:42:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slap ^ 5
+Mon Oct  8 03:43:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:44:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:44:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 03:46:16 2018	Ⓜ Brents (STEAM_0:0:90134039) has joined the game
+Mon Oct  8 03:46:16 2018	Ⓜ Brents (STEAM_0:0:90134039) spawned
+Mon Oct  8 03:46:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto br
+Mon Oct  8 03:46:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring brent
+Mon Oct  8 03:47:48 2018	Ⓜ Brents (STEAM_0:0:90134039) disconnected
+Mon Oct  8 03:50:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Mon Oct  8 03:53:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn VISITOR
+Mon Oct  8 03:54:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TOURIST
+Mon Oct  8 03:57:49 2018	Mike was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 03:57:51 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 03:59:06 2018	Mike (STEAM_0:1:41660292) spawned SENT cw_ammo_762x51
+Mon Oct  8 03:59:23 2018	Mike (STEAM_0:1:41660292) spawned SENT cw_ammo_556x45
+Mon Oct  8 03:59:32 2018	Mike (STEAM_0:1:41660292) spawned SENT cw_ammo_556x45
+Mon Oct  8 03:59:49 2018	Mike (STEAM_0:1:41660292) spawned SENT cw_attpack_ak74_barrels
+Mon Oct  8 04:00:26 2018	Mike (STEAM_0:1:41660292) spawned SENT cw_attpack_ar15_stocks
+Mon Oct  8 04:01:59 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Mon Oct  8 04:02:23 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:51 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:51 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:51 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:51 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:52 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:02:52 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:03:05 2018	hardiman.unclejoe (STEAM_0:1:449447317) has joined the game
+Mon Oct  8 04:03:05 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:03:22 2018	Dough (STEAM_0:1:107176310) has joined the game
+Mon Oct  8 04:03:22 2018	Dough (STEAM_0:1:107176310) spawned
+Mon Oct  8 04:03:24 2018	[TW] Church (STEAM_0:0:59600974) has joined the game
+Mon Oct  8 04:03:24 2018	[TW] Church (STEAM_0:0:59600974) spawned
+Mon Oct  8 04:04:17 2018	VietnamFlashbacks (STEAM_0:0:80420240) has joined the game
+Mon Oct  8 04:04:17 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 04:04:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 04:04:31 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:04:32 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:04:34 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:04:36 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:04:37 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:04:43 2018	[Opi] Fat Gay was killed by NPC [4970][npc_metropolice] with a npc_metropolice
+Mon Oct  8 04:04:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 04:04:49 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:04:50 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_metropolice
+Mon Oct  8 04:05:34 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:05:36 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:05:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 04:06:37 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:06:41 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:06:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 04:06:53 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:06:55 2018	[TW] Church (STEAM_0:0:59600974) spawned
+Mon Oct  8 04:07:00 2018	hardiman.unclejoe (STEAM_0:1:449447317) disconnected
+Mon Oct  8 04:07:01 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:07:04 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:07:08 2018	[TW] Church (STEAM_0:0:59600974): /NAME Inspector Church
+Mon Oct  8 04:07:25 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:07:26 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:07:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto churc
+Mon Oct  8 04:08:26 2018	Dough (STEAM_0:1:107176310) disconnected
+Mon Oct  8 04:08:41 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:08:43 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:08:46 2018	Mike (STEAM_0:1:41660292): !goto F
+Mon Oct  8 04:08:47 2018	hardiman.unclejoe (STEAM_0:1:449447317) has joined the game
+Mon Oct  8 04:08:47 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:08:50 2018	Mike (STEAM_0:1:41660292): !goto Fat
+Mon Oct  8 04:09:01 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:09:04 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:09:09 2018	Mike (STEAM_0:1:41660292): !goto fat
+Mon Oct  8 04:09:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring crush
+Mon Oct  8 04:09:16 2018	Mike (STEAM_0:1:41660292): !goto f
+Mon Oct  8 04:09:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring inspec
+Mon Oct  8 04:09:18 2018	Mike (STEAM_0:1:41660292): !goto Fa
+Mon Oct  8 04:10:18 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:10:22 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:11:09 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 04:11:11 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:12:07 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:13:17 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:13:32 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:13:39 2018	Mike (STEAM_0:1:41660292): !goto Fat
+Mon Oct  8 04:15:41 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:16:03 2018	Mike (STEAM_0:1:41660292): !goto Fat
+Mon Oct  8 04:16:09 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:16:23 2018	Dough (STEAM_0:1:107176310) has joined the game
+Mon Oct  8 04:16:23 2018	Dough (STEAM_0:1:107176310) spawned
+Mon Oct  8 04:16:32 2018	VietnamFlashbacks (STEAM_0:0:80420240): /job Cretin
+Mon Oct  8 04:16:36 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:16:45 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:17:13 2018	Dough (STEAM_0:1:107176310) disconnected
+Mon Oct  8 04:18:13 2018	VietnamFlashbacks was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:18:14 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 04:18:19 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:18:30 2018	Mike was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 04:18:32 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 04:18:35 2018	Mike (STEAM_0:1:41660292): 
+Mon Oct  8 04:18:55 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:19:30 2018	Mike (STEAM_0:1:41660292): 
+Mon Oct  8 04:20:04 2018	Mike (STEAM_0:1:41660292): // Thank you
+Mon Oct  8 04:20:12 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:20:18 2018	Mike (STEAM_0:1:41660292): 
+Mon Oct  8 04:20:39 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:20:53 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:21:31 2018	hardiman.unclejoe was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 04:21:32 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:22:14 2018	Inspector Church (STEAM_0:0:59600974) spawned
+Mon Oct  8 04:22:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring chur
+Mon Oct  8 04:22:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !god
+Mon Oct  8 04:22:44 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Mon Oct  8 04:22:46 2018	Inspector Church (STEAM_0:0:59600974) spawned
+Mon Oct  8 04:22:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring chur
+Mon Oct  8 04:22:53 2018	Dough (STEAM_0:1:107176310) has joined the game
+Mon Oct  8 04:22:53 2018	Dough (STEAM_0:1:107176310) spawned
+Mon Oct  8 04:22:53 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 04:23:02 2018	hardiman.unclejoe was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:23:03 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:23:28 2018	VietnamFlashbacks was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:23:30 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 04:23:35 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:23:44 2018	Dough (STEAM_0:1:107176310) disconnected
+Mon Oct  8 04:23:51 2018	Inspector Church (STEAM_0:0:59600974) spawned
+Mon Oct  8 04:23:51 2018	VietnamFlashbacks was killed by Entity [3477][env_fire] with a env_fire
+Mon Oct  8 04:23:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring churc
+Mon Oct  8 04:23:53 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 04:23:56 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 04:24:25 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god
+Mon Oct  8 04:26:05 2018	Mike (STEAM_0:1:41660292) spawned SENT gmt_instrument_piano
+Mon Oct  8 04:28:02 2018	Mike (STEAM_0:1:41660292): !goto Fat
+Mon Oct  8 04:28:43 2018	Tamer (STEAM_0:1:33479450) has joined the game
+Mon Oct  8 04:28:43 2018	Tamer (STEAM_0:1:33479450) spawned
+Mon Oct  8 04:28:44 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:29:40 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:30:33 2018	Dough (STEAM_0:1:107176310) has joined the game
+Mon Oct  8 04:30:33 2018	Dough (STEAM_0:1:107176310) spawned
+Mon Oct  8 04:31:19 2018	Dough (STEAM_0:1:107176310) disconnected
+Mon Oct  8 04:31:32 2018	hardiman.unclejoe was killed by Entity [4917][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:31:35 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:31:53 2018	hardiman.unclejoe was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:31:54 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:31:57 2018	Tamer was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:31:59 2018	Tamer (STEAM_0:1:33479450) spawned
+Mon Oct  8 04:32:00 2018	hardiman.unclejoe was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:32:02 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned
+Mon Oct  8 04:32:04 2018	Tamer was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:32:05 2018	Tamer (STEAM_0:1:33479450) spawned
+Mon Oct  8 04:32:07 2018	hardiman.unclejoe was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 04:32:08 2018	hardiman.unclejoe (STEAM_0:1:449447317) spawned

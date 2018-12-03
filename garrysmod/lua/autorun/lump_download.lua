@@ -1,0 +1,1 @@
+resource.AddFile ("maps/rp_powerplant_v2b3_l_0.lmp")

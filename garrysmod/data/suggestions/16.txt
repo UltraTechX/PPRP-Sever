@@ -1,0 +1,1 @@
+{"Suggestion":{"Title":" Title ","Text":"dont make this server"},"ID":16.0,"VoteNo":[],"Status":"Denied","Player":{"SteamID":"STEAM_0:1:84483760","Name":"Chef Boyardee"},"Approved":{"Name":"","Is":false,"SteamID":""},"VoteYes":["STEAM_0:1:42591216","STEAM_0:0:197000190","STEAM_0:1:93237308"]}

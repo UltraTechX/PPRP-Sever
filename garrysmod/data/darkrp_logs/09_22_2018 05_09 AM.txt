@@ -1,0 +1,147 @@
+Sat Sep 22 05:09:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 05:09:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 05:11:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT gmod_wire_ramcard_default128
+Sat Sep 22 05:12:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fs_sodamachine
+Sat Sep 22 05:12:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fs_sodamachine
+Sat Sep 22 05:12:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ff_frybasket
+Sat Sep 22 05:13:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Sep 22 05:13:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Sep 22 05:13:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Sep 22 05:13:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fb_egriddle
+Sat Sep 22 05:13:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fb_egriddle
+Sat Sep 22 05:13:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT fb_egriddle
+Sat Sep 22 05:13:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ff_fryer
+Sat Sep 22 05:14:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ff_fryer
+Sat Sep 22 05:14:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT ff_fryer
+Sat Sep 22 05:16:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sat Sep 22 05:16:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sat Sep 22 05:16:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sat Sep 22 05:16:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sat Sep 22 05:16:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sat Sep 22 05:18:06 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sat Sep 22 05:18:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sat Sep 22 05:19:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sat Sep 22 05:19:04 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sat Sep 22 05:19:11 2018	Fat Gay (STEAM_0:1:218173703): !savepizzamaker
+Sat Sep 22 05:20:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sat Sep 22 05:20:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sat Sep 22 05:20:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sat Sep 22 05:20:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller_vis
+Sat Sep 22 05:20:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sat Sep 22 05:20:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller_vis
+Sat Sep 22 05:20:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller_vis
+Sat Sep 22 05:21:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_projector
+Sat Sep 22 05:42:47 2018	Bot01 (BOT) has joined the game
+Sat Sep 22 05:42:47 2018	Bot01 (BOT) spawned
+Sat Sep 22 05:47:57 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 05:48:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 06:27:07 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 06:27:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 07:06:17 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 07:06:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 07:45:27 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 07:45:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 08:24:37 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 08:25:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 09:03:47 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 09:04:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 09:42:57 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 09:43:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 10:22:08 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 10:22:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 11:01:18 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 11:01:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 11:40:28 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 11:40:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 11:47:56 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 11:47:56 2018	Fat Gay (STEAM_0:1:218173703): !explode ^
+Sat Sep 22 11:47:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 11:48:01 2018	Fat Gay (STEAM_0:1:218173703): !utime
+Sat Sep 22 11:48:04 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sat Sep 22 12:26:38 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 12:27:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 13:05:58 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 13:06:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 13:45:18 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 13:45:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 14:24:38 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 14:25:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 14:38:26 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sat Sep 22 14:43:42 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 14:44:58 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 15:03:10 2018	Fat Gay (STEAM_0:1:218173703): !food 100
+Sat Sep 22 15:03:12 2018	Fat Gay (STEAM_0:1:218173703): !hp 100
+Sat Sep 22 15:03:16 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 100
+Sat Sep 22 15:03:21 2018	Fat Gay (STEAM_0:1:218173703): !hunger ^ 100
+Sat Sep 22 15:08:35 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 100
+Sat Sep 22 15:13:38 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 100
+Sat Sep 22 15:17:31 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 100\
+Sat Sep 22 15:17:35 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 100
+Sat Sep 22 15:21:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT gmt_instrument_piano
+Sat Sep 22 15:22:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT gmt_instrument_piano
+Sat Sep 22 15:22:12 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 15:22:12 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sat Sep 22 15:22:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT gmt_instrument_piano
+Sat Sep 22 15:23:08 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 100
+Sat Sep 22 15:24:08 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sat Sep 22 15:24:13 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sat Sep 22 15:24:25 2018	Fat Gay (STEAM_0:1:218173703): /ooc engineer is more for rp
+Sat Sep 22 15:24:32 2018	Fat Gay (STEAM_0:1:218173703): /ooc like inspect machines
+Sat Sep 22 15:24:36 2018	Vix Archaser (STEAM_0:0:143859663): i like enginners those
+Sat Sep 22 15:24:48 2018	Fat Gay (STEAM_0:1:218173703): /ooc call them broken, rp with sparks and cover the button while you "fix" it
+Sat Sep 22 15:24:48 2018	Vix Archaser (STEAM_0:0:143859663): /name Mark
+Sat Sep 22 15:25:23 2018	Mark (STEAM_0:0:143859663): 2 pack of batteries left
+Sat Sep 22 15:25:45 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 15:25:45 2018	Fat Gay (STEAM_0:1:218173703): !explode ^
+Sat Sep 22 15:25:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 15:25:54 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sat Sep 22 15:25:58 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 15:26:19 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sat Sep 22 15:26:54 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 15:27:40 2018	Mark (STEAM_0:0:143859663): i found something
+Sat Sep 22 15:27:45 2018	Fat Gay (STEAM_0:1:218173703): /ooc ?
+Sat Sep 22 15:28:30 2018	Fat Gay (STEAM_0:1:218173703): /ooc wtf thats just that one sign
+Sat Sep 22 15:28:33 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 15:33:01 2018	Mark (STEAM_0:0:143859663): another one
+Sat Sep 22 15:33:14 2018	Mark (STEAM_0:0:143859663): sign broke
+Sat Sep 22 15:36:16 2018	Mark (STEAM_0:0:143859663): where do i find the sound for alarm 4
+Sat Sep 22 15:46:09 2018	Mark (STEAM_0:0:143859663) disconnected
+Sat Sep 22 15:49:08 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 15:49:31 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Sep 22 15:49:31 2018	Bot01 (BOT) disconnected
+Sat Sep 22 15:52:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 15:52:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 15:53:15 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 15:53:15 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 15:53:36 2018	Fat Gay (STEAM_0:1:218173703): !bring mark
+Sat Sep 22 15:56:06 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 15:56:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:00:55 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:02:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_computer
+Sat Sep 22 16:06:40 2018	Fat Gay (STEAM_0:1:218173703): /setspawn
+Sat Sep 22 16:06:43 2018	Fat Gay (STEAM_0:1:218173703): /setspawn visiot
+Sat Sep 22 16:06:49 2018	Fat Gay (STEAM_0:1:218173703): /setspawn visitor
+Sat Sep 22 16:06:54 2018	Fat Gay (STEAM_0:1:218173703): /setspawn tourist
+Sat Sep 22 16:07:42 2018	Fat Gay (STEAM_0:1:218173703): /setspawn TEAM_DIRECTOR
+Sat Sep 22 16:07:46 2018	Fat Gay (STEAM_0:1:218173703): /setspawn Director
+Sat Sep 22 16:08:38 2018	Fat Gay (STEAM_0:1:218173703): /setspawn DIRECTOR
+Sat Sep 22 16:08:54 2018	Fat Gay (STEAM_0:1:218173703): !ws ^ 30
+Sat Sep 22 16:09:16 2018	Fat Gay (STEAM_0:1:218173703): /setspawn DIRECTOR
+Sat Sep 22 16:09:42 2018	Fat Gay (STEAM_0:1:218173703): /setspawn HEADSECURITY
+Sat Sep 22 16:09:51 2018	Fat Gay (STEAM_0:1:218173703): /setspawn SECURITY
+Sat Sep 22 16:09:58 2018	Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYMEDIC
+Sat Sep 22 16:10:09 2018	Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYTRAINEE
+Sat Sep 22 16:11:18 2018	Fat Gay (STEAM_0:1:218173703): /setspawn HEADTERRORIST
+Sat Sep 22 16:11:26 2018	Fat Gay (STEAM_0:1:218173703): /setspawn TERRORIST
+Sat Sep 22 16:11:37 2018	Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTMEDIC
+Sat Sep 22 16:11:45 2018	Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTJUGGERNAUT
+Sat Sep 22 16:11:53 2018	Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTTRAINEE
+Sat Sep 22 16:14:39 2018	Mark was killed by Entity [5032][trigger_hurt] with a trigger_hurt
+Sat Sep 22 16:14:39 2018	Fat Gay was killed by Entity [5032][trigger_hurt] with a trigger_hurt
+Sat Sep 22 16:14:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:15:04 2018	Fat Gay was killed by Entity [5055][trigger_hurt] with a trigger_hurt
+Sat Sep 22 16:15:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:15:09 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:15:12 2018	Fat Gay was killed by Entity [5056][trigger_hurt] with a trigger_hurt
+Sat Sep 22 16:15:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:15:14 2018	Mark was killed by Entity [5056][trigger_hurt] with a trigger_hurt

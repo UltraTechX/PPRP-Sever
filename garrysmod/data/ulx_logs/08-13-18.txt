@@ -1,0 +1,32 @@
+[05:07:49] New map: rp_powerplant_v2b2
+
+
+
+[19:21:58] New map: rp_powerplant_v2b2
+
+
+
+[21:05:35] New map: rp_powerplant_v2b2
+[21:05:40] Client "[Opi] Fat Gay" connected.
+[21:07:28] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 108 seconds).
+[21:08:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[21:08:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[21:08:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_gman
+[21:08:22] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barney
+[21:08:28] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[21:09:03] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:20:27] Client "TheDooberdude" connected.
+[21:32:20] Client "TheDooberdude" spawned in server <STEAM_0:1:67358067> (took 713 seconds).
+[21:32:20] (Console) added TheDooberdude to group PACUser
+[21:49:24] Dropped "TheDooberdude" from server<STEAM_0:1:67358067>
+[22:08:24] Client "TheDooberdude" connected.
+[22:13:47] Client "TheDooberdude" spawned in server <STEAM_0:1:67358067> (took 323 seconds).
+[22:23:34] TheDooberdude was killed by trigger_hurt
+[22:23:55] TheDooberdude<STEAM_0:1:67358067> spawned model models/props_c17/fence02a.mdl
+[22:24:02] TheDooberdude<STEAM_0:1:67358067> spawned ragdoll models/props_junk/cardboard_box003a_gib01.mdl
+[22:24:05] TheDooberdude<STEAM_0:1:67358067> spawned model models/props_wasteland/wheel01.mdl
+[22:24:09] TheDooberdude<STEAM_0:1:67358067> spawned model models/hunter/blocks/cube075x3x025.mdl
+[22:24:14] TheDooberdude<STEAM_0:1:67358067> spawned model models/mechanics/gears/gear24x12_small.mdl
+[22:24:16] TheDooberdude<STEAM_0:1:67358067> spawned model models/mechanics/gears2/pinion_20t3.mdl
+[22:24:49] TheDooberdude<STEAM_0:1:67358067> spawned ragdoll models/humans/group01/female_02.mdl
+[22:27:29] Dropped "TheDooberdude" from server<STEAM_0:1:67358067>

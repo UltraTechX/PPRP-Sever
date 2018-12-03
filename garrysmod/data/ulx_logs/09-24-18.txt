@@ -1,0 +1,45 @@
+<Logging continued from "data/ulx_logs/09-23-18.txt">
+[17:44:34] Client "[Opi] Fat Gay" connected.
+[17:46:57] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 143 seconds).
+[17:53:24] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[18:20:17] Client "Bot01" connected.
+[18:20:17] Client "Bot01" spawned in server <BOT> (took 83866 seconds).
+[18:25:47] Fat Gay suicided!
+[18:42:49] Fat Gay was killed by trigger_hurt
+[18:42:56] Fat Gay was killed by trigger_hurt
+[18:42:57] Server is shutting down/changing levels.
+
+
+
+[18:43:52] New map: rp_powerplant_v2b3
+[18:45:20] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 123 seconds).
+[18:50:20] Fat Gay: /screenshot
+[18:50:22] Fat Gay: !sc
+[18:50:25] Fat Gay: /sc
+[18:50:27] Fat Gay: !sc
+[18:52:46] Fat Gay was killed by trigger_hurt
+[18:54:06] Fat Gay was killed by trigger_hurt
+[18:54:24] Fat Gay was killed by trigger_hurt
+
+
+
+[19:11:54] New map: rp_powerplant_v2b3
+[19:11:59] Client "[Opi] Fat Gay" connected.
+[19:13:16] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 77 seconds).
+[19:15:09] Fat Gay was killed by trigger_hurt
+[19:15:49] Fat Gay was killed by trigger_hurt
+
+
+
+[19:24:02] New map: rp_powerplant_v2b3
+[19:24:22] Client "[Opi] Fat Gay" connected.
+[19:25:26] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 64 seconds).
+
+
+
+[20:27:57] New map: rp_powerplant_v2b3
+
+
+
+[20:52:10] New map: rp_powerplant_v2b3
+<Logging continued in "data/ulx_logs/09-25-18.txt">

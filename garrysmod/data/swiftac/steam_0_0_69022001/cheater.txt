@@ -1,0 +1,5 @@
+Sat Oct 20 16:37:45 2018 - Nick: Bob Bobsson | IP: 217.210.7.23 | SteamID: STEAM_0:0:69022001.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sat Oct 20 17:21:59 2018 - Nick: Bob Bobsson | IP: 217.210.7.23 | SteamID: STEAM_0:0:69022001.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

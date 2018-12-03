@@ -1,0 +1,5 @@
+Sun Oct 21 00:50:40 2018 - Nick: Jeep™ | IP: 223.205.31.116 | SteamID: STEAM_0:0:77324839.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:16:32 2018 - Nick: Jeep™ | IP: 223.205.31.116 | SteamID: STEAM_0:0:77324839.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

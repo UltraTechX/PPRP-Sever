@@ -1,0 +1,271 @@
+Mon Oct  8 01:14:54 2018	Thatguy (STEAM_0:1:116482800) has joined the game
+Mon Oct  8 01:14:54 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:14:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 01:14:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:15:13 2018	Doodle (STEAM_0:1:61991548) has joined the game
+Mon Oct  8 01:15:13 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:15:23 2018	Knight (STEAM_0:0:24467799) has joined the game
+Mon Oct  8 01:15:23 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:15:30 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:15:39 2018	Poontang (STEAM_0:0:128103662) has joined the game
+Mon Oct  8 01:15:39 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:15:40 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:15:50 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 01:15:50 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:15:52 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Mon Oct  8 01:15:52 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 01:16:04 2018	|Zulu| Chris (STEAM_0:0:113353663) has joined the game
+Mon Oct  8 01:16:04 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:16:14 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:16:30 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Mon Oct  8 01:16:32 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Mon Oct  8 01:16:32 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:16:38 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:16:38 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:16:40 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:16:49 2018	Sammy Boom (STEAM_0:0:91181601): // ey it's John Mercy
+Mon Oct  8 01:16:50 2018	Doodle was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:16:51 2018	Doodle (STEAM_0:1:61991548) spawned
+Mon Oct  8 01:16:52 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 01:16:55 2018	Knight (STEAM_0:0:24467799): .
+Mon Oct  8 01:16:58 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Mon Oct  8 01:16:58 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:17:09 2018	Knight (STEAM_0:0:24467799): !motd
+Mon Oct  8 01:17:17 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:17:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT d3d_sign
+Mon Oct  8 01:17:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT d3d_sign
+Mon Oct  8 01:17:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT d3d_sign
+Mon Oct  8 01:17:44 2018	|Zulu| Chris (STEAM_0:0:113353663) spawned
+Mon Oct  8 01:17:56 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 01:18:20 2018	Sammy Boom (STEAM_0:0:91181601) disconnected
+Mon Oct  8 01:18:37 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:18:43 2018	Doodle (STEAM_0:1:61991548): // where's the rocket
+Mon Oct  8 01:18:50 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:18:51 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:18:54 2018	|Zulu| Chris (STEAM_0:0:113353663): // Fat you forgot to unfreeze me
+Mon Oct  8 01:18:56 2018	|Zulu| Chris (STEAM_0:0:113353663): // I can't respawn
+Mon Oct  8 01:18:57 2018	|Zulu| Chris (STEAM_0:0:113353663): // LOL
+Mon Oct  8 01:19:00 2018	|Zulu| Chris (STEAM_0:0:113353663): // LOL
+Mon Oct  8 01:19:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto zulu
+Mon Oct  8 01:19:03 2018	TempusBilBoJo (STEAM_0:0:204382926): 4198
+Mon Oct  8 01:19:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !unfreeze zulu
+Mon Oct  8 01:19:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc work?
+Mon Oct  8 01:19:12 2018	|Zulu| Chris (STEAM_0:0:113353663): // it dont work
+Mon Oct  8 01:19:16 2018	Doodle (STEAM_0:1:61991548): // where is the rocket?
+Mon Oct  8 01:19:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 01:19:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay chris
+Mon Oct  8 01:19:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu'
+Mon Oct  8 01:19:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 01:19:39 2018	|Zulu| Chris (STEAM_0:0:113353663): // ill rejoin hold on
+Mon Oct  8 01:19:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok
+Mon Oct  8 01:19:56 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:19:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:20:14 2018	Pizza Crust (STEAM_0:0:127633732) has joined the game
+Mon Oct  8 01:20:14 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:20:23 2018	Doodle (STEAM_0:1:61991548): !motd
+Mon Oct  8 01:20:27 2018	John Mercy (STEAM_0:0:86025114): // Are the computers in the addon fixed?
+Mon Oct  8 01:20:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:20:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Mon Oct  8 01:20:46 2018	John Mercy (STEAM_0:0:86025114): // The terminals
+Mon Oct  8 01:20:56 2018	Mike (STEAM_0:1:41660292): // SUCK DICK SATURDAY
+Mon Oct  8 01:21:00 2018	TempusBilBoJo (STEAM_0:0:204382926): // Squid Saturday
+Mon Oct  8 01:21:04 2018	Mike (STEAM_0:1:41660292): // Just walk away
+Mon Oct  8 01:21:13 2018	Tello (STEAM_0:0:74320577) has joined the game
+Mon Oct  8 01:21:13 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:21:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto val
+Mon Oct  8 01:21:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto val
+Mon Oct  8 01:21:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Mon Oct  8 01:21:37 2018	Sid (STEAM_0:0:178121022) has joined the game
+Mon Oct  8 01:21:37 2018	Sid (STEAM_0:0:178121022) spawned
+Mon Oct  8 01:22:07 2018	Knight (STEAM_0:0:24467799): /advert Security to fans please.
+Mon Oct  8 01:22:20 2018	John Mercy (STEAM_0:0:86025114): /advert Oh God! He just shot him! Security to fans!
+Mon Oct  8 01:22:34 2018	John Mercy (STEAM_0:0:86025114): /advert GOOD GOD HELP!
+Mon Oct  8 01:22:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto merc
+Mon Oct  8 01:22:45 2018	John Mercy was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:22:47 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:22:51 2018	John Mercy (STEAM_0:0:86025114): // Damnit fat! You scared me
+Mon Oct  8 01:22:53 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:23:22 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:23:24 2018	Poontang (STEAM_0:0:128103662): /rpname Dr. Johnson
+Mon Oct  8 01:23:30 2018	Sid (STEAM_0:0:178121022) spawned
+Mon Oct  8 01:23:48 2018	John Mercy (STEAM_0:0:86025114): // Is TODAY the day that we have no security!?
+Mon Oct  8 01:23:56 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:24:09 2018	Doodle (STEAM_0:1:61991548) disconnected
+Mon Oct  8 01:24:14 2018	Tello (STEAM_0:0:74320577): @ admin top me pelase
+Mon Oct  8 01:24:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:24:39 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:24:47 2018	Knight was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:24:49 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:25:00 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:25:01 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:25:13 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:25:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:25:17 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:25:31 2018	Tello (STEAM_0:0:74320577): @admin to me
+Mon Oct  8 01:25:36 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:25:37 2018	John Mercy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:25:37 2018	John Mercy (STEAM_0:0:86025114): // Wtf
+Mon Oct  8 01:25:43 2018	John Mercy (STEAM_0:0:86025114): // Thats BS./
+Mon Oct  8 01:25:44 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:25:53 2018	Gerald was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:26:01 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:26:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 01:26:17 2018	Tello (STEAM_0:0:74320577): // cool server
+Mon Oct  8 01:26:33 2018	Thatguy (STEAM_0:1:116482800): hello
+Mon Oct  8 01:26:44 2018	Knight was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:26:44 2018	Gerald (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:26:45 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:27:00 2018	Knight (STEAM_0:0:24467799): // Reminder that sand nigerian is the best class
+Mon Oct  8 01:27:01 2018	Gerald (STEAM_0:0:127633732): 
+Mon Oct  8 01:27:08 2018	TempusBilBoJo (STEAM_0:0:204382926): // Obviously
+Mon Oct  8 01:27:15 2018	Gerald (STEAM_0:0:127633732): 
+Mon Oct  8 01:27:37 2018	Gerald (STEAM_0:0:127633732): /name Chef BOI RD
+Mon Oct  8 01:27:37 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:28:21 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:28:26 2018	John Mercy was killed by Tello with a cw_m249_official
+Mon Oct  8 01:28:27 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:28:29 2018	Thatguy (STEAM_0:1:116482800) disconnected
+Mon Oct  8 01:28:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:28:40 2018	John Mercy (STEAM_0:0:86025114): // Fuckin got to do shit MY way then
+Mon Oct  8 01:28:54 2018	John Mercy (STEAM_0:0:86025114): // Cant play as a worker, so got to play as a stunbitch
+Mon Oct  8 01:29:05 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:29:07 2018	Knight (STEAM_0:0:24467799): /drop 500
+Mon Oct  8 01:29:14 2018	John Mercy (STEAM_0:0:86025114) spawned
+Mon Oct  8 01:29:57 2018	Mike (STEAM_0:1:41660292): // technically thats prop blocking
+Mon Oct  8 01:30:09 2018	TempusBilBoJo (STEAM_0:0:204382926): // what is
+Mon Oct  8 01:30:22 2018	Thatguy (STEAM_0:1:116482800) has joined the game
+Mon Oct  8 01:30:22 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:30:37 2018	TempusBilBoJo was killed by Tello with a cw_m249_official
+Mon Oct  8 01:30:41 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:30:44 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:30:45 2018	Sid (STEAM_0:0:178121022) spawned
+Mon Oct  8 01:30:51 2018	|Zulu| Chris (STEAM_0:0:113353663) disconnected
+Mon Oct  8 01:30:59 2018	Poontang was killed by Tello with a cw_m3super90
+Mon Oct  8 01:31:03 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:31:07 2018	Thatguy (STEAM_0:1:116482800): follow me
+Mon Oct  8 01:31:09 2018	Mike was killed by Tello with a cw_m3super90
+Mon Oct  8 01:31:15 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:31:17 2018	Chef BOI RD was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:31:19 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:31:24 2018	Knight was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:31:25 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:31:28 2018	John Mercy (STEAM_0:0:86025114) disconnected
+Mon Oct  8 01:31:31 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:31:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring temp
+Mon Oct  8 01:31:57 2018	Tello (STEAM_0:0:74320577): @ admin to me
+Mon Oct  8 01:34:03 2018	Sid (STEAM_0:0:178121022): @ admin to me
+Mon Oct  8 01:34:54 2018	Tello (STEAM_0:0:74320577): @ okay im done now what
+Mon Oct  8 01:35:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 01:35:49 2018	TempusBilBoJo (STEAM_0:0:204382926): // I am the lorax I speak for the trees and the trees say "Could you fucking not trigger my metldown PTSD"
+Mon Oct  8 01:35:52 2018	Thatguy (STEAM_0:1:116482800): no idea
+Mon Oct  8 01:35:53 2018	Mike was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:35:54 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:37:02 2018	Mike (STEAM_0:1:41660292): // What did i Fucking say ultra
+Mon Oct  8 01:37:09 2018	Mike (STEAM_0:1:41660292): // They fucking did that
+Mon Oct  8 01:37:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Mon Oct  8 01:37:23 2018	Knight was killed by Tello with a cw_m249_official
+Mon Oct  8 01:37:30 2018	Knight (STEAM_0:0:24467799) spawned
+Mon Oct  8 01:37:44 2018	Mike was killed by Thatguy with a cw_scarh
+Mon Oct  8 01:37:46 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:37:59 2018	TempusBilBoJo was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:38:01 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:38:01 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:38:50 2018	Knight was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:38:55 2018	Knight (STEAM_0:0:24467799) disconnected
+Mon Oct  8 01:39:03 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:39:05 2018	Tello (STEAM_0:0:74320577): @im i doin g it right
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:39:36 2018	Chef BOI RD was killed by Himself with a suicide trick
+Mon Oct  8 01:39:43 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:39:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring boi
+Mon Oct  8 01:40:25 2018	Poontang (STEAM_0:0:128103662): /ooc whats the security code?
+Mon Oct  8 01:40:30 2018	[Opi] Fat Gay was killed by Tello with a cw_m249_official
+Mon Oct  8 01:40:36 2018	Chef BOI RD was killed by Tello with a cw_m249_official
+Mon Oct  8 01:40:37 2018	Poontang was killed by Thatguy with a cw_scarh
+Mon Oct  8 01:40:41 2018	Poontang (STEAM_0:0:128103662) spawned
+Mon Oct  8 01:40:42 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:40:47 2018	Poontang (STEAM_0:0:128103662) disconnected
+Mon Oct  8 01:40:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc noo
+Mon Oct  8 01:40:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:41:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Mon Oct  8 01:41:57 2018	Chef BOI RD was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:41:58 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:42:03 2018	Mike (STEAM_0:1:41660292): // u couldve just asked for a goodnight kiss
+Mon Oct  8 01:42:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:10 2018	Tello (STEAM_0:0:74320577): // ik :(
+Mon Oct  8 01:42:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_palette
+Mon Oct  8 01:42:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_collectcrate
+Mon Oct  8 01:42:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Mon Oct  8 01:42:37 2018	Chef BOI RD (STEAM_0:0:127633732): /ooc I'm going in boys
+Mon Oct  8 01:42:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc youre not, trust me lo
+Mon Oct  8 01:42:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /oco lol
+Mon Oct  8 01:42:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // lol
+Mon Oct  8 01:42:45 2018	Chef BOI RD (STEAM_0:0:127633732): // CHEF BOI RD TO THE RESCUE
+Mon Oct  8 01:42:57 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Mon Oct  8 01:43:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:44:50 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 01:44:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:45:07 2018	TempusBilBoJo (STEAM_0:0:204382926): // DAMNIT THE DUBSTEP BLACK HOLE WILL START
+Mon Oct  8 01:45:28 2018	Chef BOI RD was killed by Entity [2750][func_rotating] with a func_rotating
+Mon Oct  8 01:45:29 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:45:46 2018	Thatguy (STEAM_0:1:116482800): praise allah
+Mon Oct  8 01:46:08 2018	Thatguy (STEAM_0:1:116482800): we got time
+Mon Oct  8 01:46:23 2018	Thatguy (STEAM_0:1:116482800): if the tram comes
+Mon Oct  8 01:46:29 2018	TempusBilBoJo was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:46:30 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:47:20 2018	TempusBilBoJo (STEAM_0:0:204382926): // This shit is giving me PTSD
+Mon Oct  8 01:48:27 2018	Sid was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:48:27 2018	Thatguy was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:48:27 2018	Tello was killed by Entity [4913][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:48:31 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:48:31 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:48:34 2018	Sid (STEAM_0:0:178121022) spawned
+Mon Oct  8 01:48:40 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:48:52 2018	Thatguy was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:48:52 2018	Sid was killed by Himself with a suicide trick
+Mon Oct  8 01:48:54 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:48:54 2018	Sid (STEAM_0:0:178121022) spawned
+Mon Oct  8 01:48:58 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:48:59 2018	Thatguy was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:48:59 2018	Sid was killed by Himself with a suicide trick
+Mon Oct  8 01:49:00 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:49:00 2018	Sid (STEAM_0:0:178121022) spawned
+Mon Oct  8 01:49:03 2018	Tello was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:49:04 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:49:05 2018	Thatguy was killed by Entity [4933][trigger_hurt] with a trigger_hurt

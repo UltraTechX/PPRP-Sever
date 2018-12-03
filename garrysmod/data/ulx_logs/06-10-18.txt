@@ -1,0 +1,93 @@
+[13:20:48] New map: rp_powerplant_v2b2
+[13:57:14] Client "Fat Gay" connected.
+[13:58:23] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 69 seconds).
+
+
+
+[14:31:21] New map: rp_powerplant_v2b2
+
+
+
+[14:33:05] New map: rp_powerplant_v2b2
+[14:33:54] Client "Fat Gay" connected.
+[14:34:40] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+[14:40:15] Fat Gay: !MENU
+[14:56:46] Fat Gay suicided!
+[15:16:31] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[15:31:08] New map: rp_powerplant_v2b2
+[15:32:01] Client "Fat Gay" connected.
+[15:33:09] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 68 seconds).
+[15:33:40] Fat Gay: !blogs
+
+
+
+[15:49:28] New map: rp_powerplant_v2b2
+[15:49:50] Client "Fat Gay" connected.
+[15:50:30] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[15:54:44] Fat Gay: !blogs
+[15:55:08] Fat Gay: !blogs
+[16:01:30] Fat Gay: !blogs
+
+
+
+[16:02:36] New map: rp_powerplant_v2b2
+[16:02:57] Client "Fat Gay" connected.
+[16:03:29] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+[16:03:47] Fat Gay: !blogs
+
+
+
+[16:10:51] New map: rp_powerplant_v2b2
+[16:11:04] Client "Fat Gay" connected.
+[16:11:34] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+[16:12:56] Fat Gay: !blogs
+[16:13:44] Fat Gay: /advert test
+[16:33:36] Fat Gay suicided!
+
+
+
+[21:19:22] New map: rp_powerplant_v2b2
+[21:19:45] Client "Fat Gay" connected.
+[21:20:32] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 47 seconds).
+[21:22:13] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[21:22:23] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[21:22:25] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[21:22:49] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[21:22:54] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[21:22:59] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[21:23:08] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[21:23:13] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[21:23:17] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[21:23:26] Fat Gay: /chesssave
+[21:42:38] Fat Gay suicided!
+[21:44:27] Fat Gay: !men
+[21:44:29] Fat Gay: !menu
+
+
+
+[21:46:09] New map: rp_powerplant_v2b2
+[21:46:17] Client "Fat Gay" connected.
+[21:46:57] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[21:54:40] Fat Gay: !blogs
+
+
+
+[22:02:43] New map: rp_powerplant_v2b2
+[22:02:49] Client "Fat Gay" connected.
+[22:03:21] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+[22:04:46] Fat Gay: !blogs
+
+
+
+[22:07:47] New map: rp_powerplant_v2b2
+[22:08:01] Client "Fat Gay" connected.
+[22:08:32] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 31 seconds).
+[22:09:27] Fat Gay: !blogs
+
+
+
+[22:32:10] New map: rp_powerplant_v2b2
+<Logging continued in "data/ulx_logs/06-11-18.txt">

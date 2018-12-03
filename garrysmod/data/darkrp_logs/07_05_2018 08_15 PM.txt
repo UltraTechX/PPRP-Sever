@@ -1,0 +1,634 @@
+Thu Jul  5 20:15:23 2018	Valien (STEAM_0:1:41660292) has joined the game
+Thu Jul  5 20:15:23 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 20:46:37 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Thu Jul  5 20:46:38 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 21:12:45 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Jul  5 21:12:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Thu Jul  5 21:13:55 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Thu Jul  5 21:14:18 2018	Bot01 (BOT) has joined the game
+Thu Jul  5 21:14:18 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:14:18 2018	Emmett was killed by Fat Gay with a cw_ak74
+Thu Jul  5 21:14:18 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:14:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 21:14:48 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:15:46 2018	Emmett (STEAM_0:1:41660292): //
+Thu Jul  5 21:15:54 2018	5D-77 | Vix Archaser (STEAM_0:0:143859663) has joined the game
+Thu Jul  5 21:15:54 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Thu Jul  5 21:17:13 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 21:17:18 2018	Emmett (STEAM_0:1:41660292): !goto f
+Thu Jul  5 21:17:31 2018	Emmett (STEAM_0:1:41660292): !goto f
+Thu Jul  5 21:17:36 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Thu Jul  5 21:24:41 2018	Emmett (STEAM_0:1:41660292): !ban
+Thu Jul  5 21:26:41 2018	Fat Gay (STEAM_0:1:218173703): /ooc im out of here for the night
+Thu Jul  5 21:26:45 2018	Fat Gay (STEAM_0:1:218173703): /ooc see ya
+Thu Jul  5 21:26:52 2018	Hey FURFAG (STEAM_0:0:143859663) disconnected
+Thu Jul  5 21:27:01 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Thu Jul  5 21:27:12 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Thu Jul  5 21:27:24 2018	Emmett (STEAM_0:1:41660292): !dance sexy
+Thu Jul  5 21:27:34 2018	Fat Gay (STEAM_0:1:218173703): !fmuscle *
+Thu Jul  5 21:27:53 2018	Emmett (STEAM_0:1:41660292): !fmuscle
+Thu Jul  5 21:27:55 2018	Fat Gay (STEAM_0:1:218173703): !frobot *
+Thu Jul  5 21:28:06 2018	Emmett (STEAM_0:1:41660292): !frobot *
+Thu Jul  5 21:28:15 2018	Emmett (STEAM_0:1:41660292): !fmuscle *
+Thu Jul  5 21:28:45 2018	Fat Gay was killed by Himself with a suicide trick
+Thu Jul  5 21:28:45 2018	Fat Gay (STEAM_0:1:218173703): !explode ^
+Thu Jul  5 21:28:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:28:46 2018	Emmett (STEAM_0:1:41660292): !fmuscle
+Thu Jul  5 21:28:53 2018	Emmett (STEAM_0:1:41660292): !fmuscle *
+Thu Jul  5 21:29:00 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Thu Jul  5 21:29:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:29:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:29:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:29:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:30:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:30:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:30:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:30:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:31:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:31:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:31:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:31:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:32:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:32:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:32:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:32:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:33:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:33:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:33:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:33:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:34:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:34:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:34:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:34:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:35:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:35:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:35:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:35:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:36:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:36:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:36:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:36:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:37:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:37:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:37:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:37:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:38:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:38:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:38:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:38:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:39:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:39:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:39:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:39:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:40:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:40:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:40:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:40:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:41:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:41:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:41:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:41:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:42:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:42:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:42:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:42:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:43:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:43:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:43:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:43:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:44:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:44:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:44:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:44:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:45:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:45:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:45:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:45:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:46:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:46:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:46:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:46:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:47:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:47:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:47:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:47:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:48:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:48:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:48:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:48:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:49:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:49:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:49:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:49:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:50:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:50:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:50:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:50:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:50:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:50:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:50:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:50:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:50:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:50:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:51:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:51:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:51:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:51:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:51:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:51:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:51:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:51:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:51:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:51:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:51:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:51:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:52:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:52:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:52:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:52:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:52:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:52:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:52:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:52:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:52:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:52:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:52:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:52:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:53:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:53:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:53:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:53:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:53:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:53:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:53:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:53:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:53:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:53:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:53:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:53:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:54:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:54:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:54:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:54:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:54:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:54:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:54:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:54:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:54:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:54:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:54:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:54:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:55:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:55:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:55:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:55:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:55:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:55:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:55:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:55:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:55:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:55:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:55:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:55:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:56:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:56:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:56:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:56:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:56:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:56:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:56:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:56:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:56:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:56:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:56:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:56:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:57:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:57:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:57:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:57:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:57:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:57:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:57:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:57:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:57:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:57:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:57:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:57:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:58:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:58:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:58:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:58:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:58:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:58:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:58:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:58:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:58:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:58:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:58:54 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:58:54 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:59:04 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:59:04 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:59:14 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:59:14 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:59:24 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:59:24 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:59:34 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:59:34 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:59:44 2018	Bot01 (BOT) spawned
+Thu Jul  5 21:59:44 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 21:59:46 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 22:00:02 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 22:00:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:00:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:00:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:00:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:01:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:01:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:01:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:01:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:02:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:02:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:02:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:02:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:03:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:03:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:03:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:03:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:04:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:04:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:04:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:04:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:05:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:05:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:05:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:05:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:06:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:06:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:06:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:06:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:07:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:07:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:07:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:07:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:08:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:08:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:08:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:08:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:09:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:09:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:09:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:09:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:10:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:10:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:10:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:10:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:11:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:11:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:11:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:11:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:12:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:12:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:12:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:12:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:13:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:13:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:13:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:13:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:14:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:14:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:14:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:14:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:15:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:15:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:15:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:15:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:16:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:16:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:16:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:16:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:17:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:17:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:17:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:17:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:18:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:18:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:18:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:18:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:19:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:19:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:19:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:19:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:20:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:20:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:20:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:20:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:21:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:21:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:21:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:21:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:22:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:22:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:22:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:22:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:23:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:23:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:23:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:23:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:24:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:24:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:24:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:24:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:25:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:25:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:25:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:25:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:26:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:26:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:26:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:26:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:27:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:27:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:27:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:27:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:28:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:28:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:28:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:28:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:29:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:29:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:29:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:29:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:30:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:30:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:30:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:30:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:31:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:31:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:31:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:31:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:32:16 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:32:16 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:32:46 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:32:46 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:33:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:33:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:33:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:33:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:33:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:33:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:33:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:33:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:33:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:33:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:34:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:34:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:34:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:34:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:34:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:34:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:34:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:34:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:34:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:34:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:34:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:34:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:35:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:35:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:35:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:35:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:35:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:35:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:35:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:35:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:35:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:35:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:35:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:35:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:36:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:36:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:36:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:36:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:36:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:36:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:36:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:36:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:36:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:36:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:36:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:36:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:37:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:37:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:37:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:37:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:37:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:37:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:37:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:37:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:37:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:37:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:37:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:37:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:38:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:38:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:38:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:38:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:38:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:38:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:38:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:38:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:38:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:38:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:38:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:38:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:39:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:39:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:39:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:39:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:39:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:39:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:39:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:39:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:39:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:39:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:39:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:39:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:40:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:40:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:40:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:40:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:40:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:40:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:40:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:40:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:40:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:40:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:40:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:40:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:41:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:41:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:41:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:41:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:41:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:41:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:41:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:41:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:41:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:41:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:41:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:41:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:42:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:42:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:42:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:42:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:42:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:42:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:42:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:42:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:42:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:42:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:42:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:42:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:43:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:43:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:43:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:43:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:43:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:43:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:43:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:43:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:43:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:43:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:43:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:43:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:44:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:44:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:44:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:44:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:44:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:44:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:44:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:44:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:44:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:44:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:44:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:44:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:45:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:45:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:45:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:45:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:45:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:45:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:45:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:45:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:45:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:45:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:45:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:45:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:46:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:46:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:46:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:46:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:46:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:46:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:46:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:46:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:46:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:46:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:46:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:46:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:47:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:47:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:47:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:47:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:47:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:47:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:47:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:47:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:47:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:47:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:47:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:47:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:48:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:48:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:48:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:48:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:48:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:48:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:48:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:48:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:48:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:48:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:48:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:48:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:49:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:49:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:49:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:49:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:49:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:49:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:49:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:49:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:49:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:49:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:49:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:49:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:50:05 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:50:05 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:50:15 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:50:15 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:50:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:50:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:50:35 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:50:35 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:50:45 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:50:45 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:50:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:50:55 2018	Emmett was killed by Himself with a suicide trick
+Thu Jul  5 22:50:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:51:00 2018	Emmett (STEAM_0:1:41660292) spawned
+Thu Jul  5 22:51:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:51:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:51:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:51:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:52:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:52:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:52:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:52:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:53:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:53:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:53:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:53:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:54:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:54:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:54:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:54:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:55:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:55:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:55:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:55:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:56:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:56:25 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:56:55 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:56:55 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:57:25 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:57:26 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:57:56 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:57:56 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:58:26 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:58:26 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:58:56 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:58:56 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:59:26 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:59:26 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 22:59:56 2018	Bot01 (BOT) spawned
+Thu Jul  5 22:59:56 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 23:00:26 2018	Bot01 (BOT) spawned
+Thu Jul  5 23:00:26 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 23:00:56 2018	Bot01 (BOT) spawned
+Thu Jul  5 23:00:56 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 23:01:26 2018	Bot01 (BOT) spawned
+Thu Jul  5 23:01:26 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 23:01:56 2018	Bot01 (BOT) spawned
+Thu Jul  5 23:01:56 2018	Bot01 was killed by Himself with a suicide trick
+Thu Jul  5 23:02:14 2018	Emmett (STEAM_0:1:41660292) disconnected
+Thu Jul  5 23:02:14 2018	Bot01 (BOT) disconnected

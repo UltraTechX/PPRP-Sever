@@ -1,0 +1,33 @@
+Sun Oct 21 02:36:04 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sun Oct 21 02:36:04 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 21 02:36:47 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sun Oct 21 02:36:47 2018	Specialist Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Oct 21 02:36:53 2018	Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Sun Oct 21 02:36:53 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 02:37:06 2018	CobraCommando (STEAM_0:0:81016063) has joined the game
+Sun Oct 21 02:37:06 2018	Johnny Ragnarok (STEAM_0:0:81016063) spawned
+Sun Oct 21 02:37:10 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) has joined the game
+Sun Oct 21 02:37:10 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sun Oct 21 02:37:13 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct 21 02:37:13 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 02:37:24 2018	󠀡=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sun Oct 21 02:37:25 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 02:37:29 2018	Specialist Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Oct 21 02:37:41 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Sun Oct 21 02:37:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 21 02:37:46 2018	Johnny Ragnarok (STEAM_0:0:81016063): // why did we crash the server?
+Sun Oct 21 02:37:47 2018	Kilroy was killed by Specialist Vix Archaser with a cw_shorty
+Sun Oct 21 02:37:49 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 21 02:37:54 2018	jayops10 (STEAM_0:0:94779637) has joined the game
+Sun Oct 21 02:37:54 2018	jayops10 (STEAM_0:0:94779637) spawned
+Sun Oct 21 02:37:55 2018	mllyons2002 (STEAM_0:0:446804304) has joined the game
+Sun Oct 21 02:37:56 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 02:37:56 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Sun Oct 21 02:37:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 21 02:37:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 21 02:38:21 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 02:38:23 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Sun Oct 21 02:38:23 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 02:38:30 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 02:38:31 2018	Johnny Ragnarok (STEAM_0:0:81016063) spawned
+Sun Oct 21 02:38:52 2018	Apostrophe_11 (STEAM_0:1:448155602) disconnected

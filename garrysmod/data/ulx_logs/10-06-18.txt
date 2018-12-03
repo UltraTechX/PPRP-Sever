@@ -1,0 +1,58 @@
+[03:21:52] New map: rp_powerplant_v2b3
+[03:22:14] Client "[Opi] Fat Gay" connected.
+
+
+
+[03:40:40] New map: rp_powerplant_v2b3
+[03:43:32] Client "[Opi] Fat Gay" connected.
+
+
+
+[03:44:54] New map: rp_powerplant_v2b3
+
+
+
+[06:01:30] New map: rp_powerplant_v2b3
+[06:18:48] Server is shutting down/changing levels.
+
+
+
+[06:19:51] New map: rp_powerplant_v2b3
+[06:26:14] Client "[Opi] Fat Gay" connected.
+
+
+
+[16:12:50] New map: rp_powerplant_v2b3
+
+
+
+[18:24:58] New map: rp_powerplant_v2b3
+
+
+
+[18:26:01] New map: rp_powerplant_v2b3
+[18:28:03] Client "Valien" connected.
+
+
+
+[19:38:49] New map: rp_powerplant_v2b3
+
+
+
+[21:00:57] New map: rp_powerplant_v2b3
+
+
+
+[22:00:18] New map: rp_powerplant_v2b3
+
+
+
+[22:09:45] New map: rp_powerplant_v2b3
+
+
+
+[23:31:20] New map: rp_powerplant_v2b3
+
+
+
+[23:35:30] New map: rp_powerplant_v2b3

@@ -1,0 +1,66 @@
+Sat Sep 22 16:45:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 16:45:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:45:35 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 16:45:35 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:47:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:47:12 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:47:25 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 16:47:26 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 16:47:27 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 16:47:28 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 16:47:29 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Sep 22 16:47:47 2018	Fat Gay was killed by Entity [3523][trigger_hurt] with a trigger_hurt
+Sat Sep 22 16:47:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:50:44 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:54:23 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:54:47 2018	Fat Gay was killed by Entity [2404][trigger_hurt] with a trigger_hurt
+Sat Sep 22 16:54:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:55:25 2018	Bot01 (BOT) has joined the game
+Sat Sep 22 16:55:25 2018	Bot01 (BOT) spawned
+Sat Sep 22 16:55:35 2018	Mark was killed by Fat Gay with a cw_ak74
+Sat Sep 22 16:55:39 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:55:44 2018	Fat Gay (STEAM_0:1:218173703): !bring mark
+Sat Sep 22 16:55:53 2018	Mark was killed by Fat Gay with a cw_ak74
+Sat Sep 22 16:55:57 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:56:09 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:56:11 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:57:52 2018	Fat Gay was killed by Entity [495][sent_elegant_printer] with a sent_elegant_printer
+Sat Sep 22 16:57:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:58:01 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:59:01 2018	Mark was killed by Fat Gay with a csgo_bayonet
+Sat Sep 22 16:59:03 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:59:15 2018	Mark was killed by Fat Gay with a csgo_butterfly_bluesteel
+Sat Sep 22 16:59:17 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:59:31 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 16:59:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 16:59:38 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 16:59:44 2018	Mark was killed by Fat Gay with a csgo_butterfly_bluesteel
+Sat Sep 22 16:59:46 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 16:59:50 2018	Fat Gay (STEAM_0:1:218173703): !goto mark
+Sat Sep 22 17:00:03 2018	Mark was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 17:00:06 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:00:30 2018	Mark was killed by Entity [2405][trigger_hurt] with a trigger_hurt
+Sat Sep 22 17:00:40 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:00:51 2018	Mark was killed by Fat Gay with a csgo_butterfly_bluesteel
+Sat Sep 22 17:00:59 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:05:59 2018	Fat Gay (STEAM_0:1:218173703): /setmoney mark 0
+Sat Sep 22 17:05:59 2018	Fat Gay (STEAM_0:1:218173703) set Vix Archaser [Opi]'s money to $0
+Sat Sep 22 17:06:03 2018	Mark was killed by Fat Gay with a csgo_butterfly_bluesteel
+Sat Sep 22 17:06:03 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:06:06 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 17:06:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 17:06:17 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:06:28 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:06:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 17:06:49 2018	Fat Gay was killed by Entity [3591][env_fire] with a env_fire
+Sat Sep 22 17:06:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 17:06:52 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:08:21 2018	Mark was killed by Fat Gay with a ls_sniper
+Sat Sep 22 17:08:21 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:08:26 2018	Mark was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 17:08:34 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:08:40 2018	Mark was killed by Entity [2929][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sat Sep 22 17:08:40 2018	Fat Gay was killed by Entity [2929][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sat Sep 22 17:08:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 17:08:45 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 17:09:55 2018	Mark was killed by Entity [5056][trigger_hurt] with a trigger_hurt

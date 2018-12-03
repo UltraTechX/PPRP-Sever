@@ -1,0 +1,1 @@
+[{"Data":{"Amount":10.0,"Ammo":-10.0,"Class":"weapon_cuff_elastic","Model":"models/weapons/w_toolgun.mdl","Clip2":0.0},"Class":"spawned_weapon"}]

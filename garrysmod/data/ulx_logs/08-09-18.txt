@@ -1,0 +1,108 @@
+<Logging continued from "data/ulx_logs/08-08-18.txt">
+[00:49:23] Fat Gay suicided!
+[01:40:53] Fat Gay suicided!
+[02:32:23] Fat Gay suicided!
+[03:23:53] Fat Gay suicided!
+[04:15:23] Fat Gay suicided!
+
+
+
+[05:05:14] New map: rp_powerplant_v2b2
+[05:05:37] Client "[Opi] Fat Gay" connected.
+[05:06:30] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+[05:39:50] Client "Bot01" connected.
+[05:39:50] Client "Bot01" spawned in server <BOT> (took 2144 seconds).
+[05:45:20] Fat Gay suicided!
+[06:24:30] Fat Gay suicided!
+[07:03:40] Fat Gay suicided!
+[07:08:48] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[07:08:48] Dropped "Bot01" from server<BOT>
+
+
+
+[19:13:07] New map: rp_powerplant_v2b2
+
+
+
+[19:22:20] New map: rp_powerplant_v2b2
+[19:26:18] Client "[Opi] Fat Gay" connected.
+[19:29:31] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 193 seconds).
+[19:36:36] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[19:36:40] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[19:36:41] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[19:36:43] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[19:36:45] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[19:36:49] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on *216
+[19:36:55] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on *218
+[20:02:45] Client "Bot01" connected.
+[20:02:45] Client "Bot01" spawned in server <BOT> (took 2493 seconds).
+[20:04:23] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[20:04:24] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[20:04:26] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on models/props_wasteland/controlroom_monitor001b.mdl
+[20:04:26] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on models/dav0r/camera.mdl
+[20:04:26] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on models/dav0r/camera.mdl
+[20:04:27] Fat Gay<STEAM_0:1:218173703> used the tool prtcamera on maps/rp_powerplant_v2b2.bsp
+[20:08:15] Fat Gay suicided!
+
+
+
+[20:23:28] New map: rp_powerplant_v2b2
+[20:23:52] Client "[Opi] Fat Gay" connected.
+[20:25:42] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 110 seconds).
+[20:30:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_ak472
+[20:30:48] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/zerochain/fruitslicerjob/fs_shop.mdl
+
+
+
+[20:35:37] New map: rp_powerplant_v2b2
+[20:35:43] Server is shutting down/changing levels.
+
+
+
+[20:36:24] New map: rp_powerplant_v2b2
+[20:36:48] Client "[Opi] Fat Gay" connected.
+[20:38:57] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 129 seconds).
+[20:44:28] Client "Bot01" connected.
+[20:44:28] Client "Bot01" spawned in server <BOT> (took 511 seconds).
+[20:49:58] Fat Gay suicided!
+[21:01:28] Fat Gay suicided!
+[21:13:08] Fat Gay suicided!
+[21:20:13] Fat Gay: !config_cookingmod
+[21:20:27] Fat Gay: !config_cookingmod
+[21:24:38] Fat Gay suicided!
+
+
+
+[21:33:12] New map: rp_powerplant_v2b2
+[21:33:27] Client "[Opi] Fat Gay" connected.
+[21:34:31] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 64 seconds).
+
+
+
+[21:38:07] New map: rp_powerplant_v2b2
+[21:38:24] Client "[Opi] Fat Gay" connected.
+[21:39:14] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+
+
+
+[21:43:08] New map: rp_powerplant_v2b2
+[21:43:30] Client "[Opi] Fat Gay" connected.
+[21:44:19] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+
+
+
+[22:42:59] New map: rp_powerplant_v2b2
+[22:43:22] Client "[Opi] Fat Gay" connected.
+[22:44:14] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 52 seconds).
+
+
+
+[22:48:57] New map: rp_powerplant_v2b2
+[22:49:20] Client "[Opi] Fat Gay" connected.
+[22:50:09] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[22:52:16] Fat Gay: !fbtop
+[22:52:19] Fat Gay: /fbtop
+[23:24:02] Client "Bot01" connected.
+[23:24:02] Client "Bot01" spawned in server <BOT> (took 2170 seconds).
+[23:29:32] Fat Gay suicided!
+<Logging continued in "data/ulx_logs/08-10-18.txt">

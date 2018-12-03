@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Ammo":30.0,"Model":"models/weapons/w_rif_ak47.mdl","Class":"cw_ak74"},"Class":"spawned_weapon"}]

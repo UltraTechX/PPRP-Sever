@@ -1,0 +1,8 @@
+Sat Oct 20 05:52:55 2018 - Nick: Tier | IP: 73.76.3.1 | SteamID: STEAM_0:1:33589770.txt | Cheating Infraction: Invalid source: hook.Add@addons/_blogs-remastered-20/lua/vgui/blogs.lua;
+
+
+Sat Oct 20 05:55:55 2018 - Nick: Tier | IP: 73.76.3.1 | SteamID: STEAM_0:1:33589770.txt | Cheating Infraction: Invalid source: hook.Add@addons/_blogs-remastered-20/lua/vgui/blogs.lua;
+
+
+Sat Oct 20 06:04:22 2018 - Nick: Tier | IP: 73.76.3.1 | SteamID: STEAM_0:1:33589770.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

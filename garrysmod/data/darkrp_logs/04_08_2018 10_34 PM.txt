@@ -1,0 +1,176 @@
+Sun Apr  8 22:34:42 2018	LedogGaming (STEAM_0:0:162738784) has joined the game
+Sun Apr  8 22:34:42 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:36:08 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Apr  8 22:36:08 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr  8 22:36:22 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:36:39 2018	Security BRocha06 (STEAM_0:1:100921529): /ooc dead
+Sun Apr  8 22:37:04 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr  8 22:37:32 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:38:03 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:39:18 2018	ellis3246 (STEAM_0:0:170430038) has joined the game
+Sun Apr  8 22:39:18 2018	ellis3246 (STEAM_0:0:170430038) spawned
+Sun Apr  8 22:43:07 2018	tiga123abc (STEAM_0:0:231121167) has joined the game
+Sun Apr  8 22:43:07 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 22:45:17 2018	ellis3246 (STEAM_0:0:170430038): !motd
+Sun Apr  8 22:47:55 2018	LedogGaming was killed by Entity [0][worldspawn] with a unknown
+Sun Apr  8 22:47:56 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:48:13 2018	LedogGaming was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sun Apr  8 22:48:14 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:49:13 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr  8 22:49:57 2018	Security BRocha06 was killed by Entity [1677][trigger_hurt] with a trigger_hurt
+Sun Apr  8 22:50:01 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr  8 22:50:12 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr  8 22:50:36 2018	ellis3246 (STEAM_0:0:170430038) disconnected
+Sun Apr  8 22:53:38 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:53:52 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:57:02 2018	LedogGaming was killed by Entity [0][worldspawn] with a unknown
+Sun Apr  8 22:57:04 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:57:10 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:57:35 2018	westtd (STEAM_0:0:181744379) has joined the game
+Sun Apr  8 22:57:35 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 22:57:53 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 22:59:04 2018	westtd was killed by Entity [0][worldspawn] with a unknown
+Sun Apr  8 22:59:05 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 22:59:09 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 22:59:30 2018	Grant (STEAM_0:0:231121167): /ooc Anyone want a Cheap Hit?
+Sun Apr  8 22:59:32 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:00:09 2018	Grant (STEAM_0:0:231121167): /ooc GUCCI GANG!
+Sun Apr  8 23:00:14 2018	Grant (STEAM_0:0:231121167): low pump
+Sun Apr  8 23:00:24 2018	Grant (STEAM_0:0:231121167): GUCCI GANG!
+Sun Apr  8 23:00:30 2018	Grant (STEAM_0:0:231121167): OFFER GANG
+Sun Apr  8 23:00:45 2018	Grant (STEAM_0:0:231121167): GUCCI GANG
+Sun Apr  8 23:00:59 2018	Grant (STEAM_0:0:231121167): Want a hit?
+Sun Apr  8 23:01:05 2018	Grant (STEAM_0:0:231121167): Cheap?
+Sun Apr  8 23:01:17 2018	Grant (STEAM_0:0:231121167): hello?
+Sun Apr  8 23:01:34 2018	Grant (STEAM_0:0:231121167): Hello?
+Sun Apr  8 23:02:31 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:03:18 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:03:20 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:03:31 2018	Security BRocha06 (STEAM_0:1:100921529) disconnected
+Sun Apr  8 23:03:34 2018	JKH GAMING(LaptopScreenBroken) (STEAM_0:0:106890685) has joined the game
+Sun Apr  8 23:03:34 2018	JKH GAMING(LaptopScreenBroken) (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:05:16 2018	JKH GAMING(LaptopScreenBroken) (STEAM_0:0:106890685): /name Homer Simpson
+Sun Apr  8 23:05:25 2018	Grant (STEAM_0:0:231121167): Hi
+Sun Apr  8 23:05:35 2018	LedogGaming was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sun Apr  8 23:05:36 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:05:45 2018	Grant (STEAM_0:0:231121167): HELL YA
+Sun Apr  8 23:06:14 2018	Grant (STEAM_0:0:231121167): BACK UP!
+Sun Apr  8 23:06:23 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:06:33 2018	Homer Simpson (STEAM_0:0:106890685): /advert ALLAH ACKBAR
+Sun Apr  8 23:06:41 2018	Homer Simpson (STEAM_0:0:106890685): /comms ALLAH ACKBAG
+Sun Apr  8 23:06:49 2018	Homer Simpson was killed by Entity [0][worldspawn] with a unknown
+Sun Apr  8 23:06:50 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:07:20 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:09:51 2018	LedogGaming was killed by Entity [1946][trigger_hurt] with a trigger_hurt
+Sun Apr  8 23:09:53 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:10:09 2018	Grant (STEAM_0:0:231121167): /ooc EVERYONE GET TO THE ROCKET, ITS GONNA BLOW!
+Sun Apr  8 23:10:35 2018	westtd was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr  8 23:10:36 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:11:03 2018	Grant (STEAM_0:0:231121167): /ooc EVERYONE REPORT TO THE ROCKET NOW!
+Sun Apr  8 23:11:35 2018	Grant (STEAM_0:0:231121167): /ooc WHO TOOK THE ROCKET!
+Sun Apr  8 23:11:54 2018	Grant (STEAM_0:0:231121167): 
+Sun Apr  8 23:12:12 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:12:22 2018	Homer Simpson was killed by Himself with a suicide trick
+Sun Apr  8 23:12:23 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:12:28 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:12:42 2018	LedogGaming was killed by Himself with a suicide trick
+Sun Apr  8 23:12:42 2018	Homer Simpson was killed by LedogGaming with a env_explosion
+Sun Apr  8 23:12:43 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:12:44 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:12:57 2018	LedogGaming was killed by Himself with a suicide trick
+Sun Apr  8 23:12:58 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:13:00 2018	Homer Simpson was killed by Himself with a suicide trick
+Sun Apr  8 23:13:01 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:13:08 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:13:11 2018	Homer Simpson was killed by Himself with a suicide trick
+Sun Apr  8 23:13:12 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:13:15 2018	LedogGaming was killed by Homer Simpson with a cw_l85a2
+Sun Apr  8 23:13:16 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:13:24 2018	westtd was killed by Himself with a suicide trick
+Sun Apr  8 23:13:24 2018	Homer Simpson was killed by westtd with a env_explosion
+Sun Apr  8 23:13:25 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:13:25 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:13:30 2018	Homer Simpson was killed by Himself with a suicide trick
+Sun Apr  8 23:13:30 2018	LedogGaming was killed by Homer Simpson with a env_explosion
+Sun Apr  8 23:13:31 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:13:32 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:13:43 2018	Homer Simpson was killed by westtd with a fas2_thrown_m67
+Sun Apr  8 23:13:44 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:13:47 2018	westtd was killed by Homer Simpson with a cw_m1911
+Sun Apr  8 23:13:48 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:13:50 2018	LedogGaming was killed by westtd with a fas2_thrown_m67
+Sun Apr  8 23:13:51 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:13:57 2018	Homer Simpson was killed by Himself with a suicide trick
+Sun Apr  8 23:13:57 2018	LedogGaming was killed by Homer Simpson with a env_explosion
+Sun Apr  8 23:13:57 2018	westtd was killed by Homer Simpson with a env_explosion
+Sun Apr  8 23:13:58 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:13:58 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:13:58 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:14:33 2018	Grant (STEAM_0:0:231121167): /ooc GO THROUGH THE PORTAL!
+Sun Apr  8 23:14:41 2018	LedogGaming (STEAM_0:0:162738784): /OOC NO
+Sun Apr  8 23:14:48 2018	Grant (STEAM_0:0:231121167): /ooc Ok
+Sun Apr  8 23:14:58 2018	Homer Simpson was killed by westtd with a fas2_thrown_m67
+Sun Apr  8 23:15:05 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:15:06 2018	Grant (STEAM_0:0:231121167): 
+Sun Apr  8 23:15:15 2018	Homer Simpson (STEAM_0:0:106890685): // can you blow up map?
+Sun Apr  8 23:15:17 2018	Grant (STEAM_0:0:231121167): 
+Sun Apr  8 23:15:30 2018	LedogGaming (STEAM_0:0:162738784): /ooc we r u
+Sun Apr  8 23:15:37 2018	Homer Simpson (STEAM_0:0:106890685): // Ur Mum
+Sun Apr  8 23:15:45 2018	westtd was killed by Himself with a suicide trick
+Sun Apr  8 23:15:46 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:15:49 2018	LedogGaming (STEAM_0:0:162738784): /ooc grant were r u
+Sun Apr  8 23:15:58 2018	Grant (STEAM_0:0:231121167): /ooc Portal
+Sun Apr  8 23:16:13 2018	LedogGaming (STEAM_0:0:162738784): /ooc did u go threw
+Sun Apr  8 23:16:19 2018	Grant (STEAM_0:0:231121167): /ooc Mhm
+Sun Apr  8 23:16:50 2018	LedogGaming was killed by Himself with a suicide trick
+Sun Apr  8 23:16:50 2018	Grant was killed by LedogGaming with a env_explosion
+Sun Apr  8 23:16:52 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:16:52 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:16:57 2018	LedogGaming (STEAM_0:0:162738784): /ooc i win
+Sun Apr  8 23:17:31 2018	Grant (STEAM_0:0:231121167): /ooc Any Cheap Hits?
+Sun Apr  8 23:17:32 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:17:40 2018	LedogGaming was killed by Himself with a suicide trick
+Sun Apr  8 23:17:44 2018	westtd (STEAM_0:0:181744379): // What do you do when people are actually rping
+Sun Apr  8 23:17:48 2018	Homer Simpson (STEAM_0:0:106890685): // how the fuck do I get to the surface
+Sun Apr  8 23:17:50 2018	Grant (STEAM_0:0:231121167): /ooc Anyone want A hit?
+Sun Apr  8 23:17:57 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:18:07 2018	Grant (STEAM_0:0:231121167): /ooc Hitman for Hire!
+Sun Apr  8 23:18:47 2018	Grant (STEAM_0:0:231121167): /ooc Anyone?
+Sun Apr  8 23:19:01 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:20:15 2018	Grant was killed by Homer Simpson with a cw_shorty
+Sun Apr  8 23:20:16 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:20:54 2018	Grant was killed by Homer Simpson with a fas2_thrown_m67
+Sun Apr  8 23:20:55 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:21:02 2018	Grant (STEAM_0:0:231121167): /ooc LOL!
+Sun Apr  8 23:21:06 2018	Grant was killed by Homer Simpson with a fas2_thrown_m67
+Sun Apr  8 23:21:07 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:21:27 2018	westtd was killed by Entity [0][worldspawn] with a unknown
+Sun Apr  8 23:21:29 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:21:38 2018	LedogGaming was killed by Entity [0][worldspawn] with a unknown
+Sun Apr  8 23:21:39 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:21:54 2018	Homer Simpson was killed by Himself with a suicide trick
+Sun Apr  8 23:21:54 2018	Grant was killed by Homer Simpson with a env_explosion
+Sun Apr  8 23:21:55 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:21:56 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:22:02 2018	westtd was killed by LedogGaming with a cw_shorty
+Sun Apr  8 23:22:03 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:22:27 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:22:45 2018	Grant (STEAM_0:0:231121167): /ooc I am opening a SHOP!
+Sun Apr  8 23:23:18 2018	LedogGaming was killed by Grant with a cw_p99
+Sun Apr  8 23:23:19 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:23:48 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:24:07 2018	Grant (STEAM_0:0:231121167): Events
+Sun Apr  8 23:24:08 2018	LedogGaming (STEAM_0:0:162738784) spawned
+Sun Apr  8 23:24:12 2018	westtd (STEAM_0:0:181744379): /invholster 
+Sun Apr  8 23:24:14 2018	westtd (STEAM_0:0:181744379): /invholster 
+Sun Apr  8 23:24:42 2018	Grant was killed by westtd with a cw_deagle
+Sun Apr  8 23:24:44 2018	Grant (STEAM_0:0:231121167) spawned
+Sun Apr  8 23:25:23 2018	LedogGaming (STEAM_0:0:162738784): /ooc yo y didnt it blow up
+Sun Apr  8 23:25:57 2018	Homer Simpson (STEAM_0:0:106890685) spawned
+Sun Apr  8 23:27:05 2018	westtd was killed by Grant with a fas2_thrown_m67
+Sun Apr  8 23:27:06 2018	westtd (STEAM_0:0:181744379) spawned
+Sun Apr  8 23:27:17 2018	westtd (STEAM_0:0:181744379) disconnected
+Sun Apr  8 23:27:21 2018	LedogGaming (STEAM_0:0:162738784) disconnected
+Sun Apr  8 23:27:30 2018	Homer Simpson (STEAM_0:0:106890685): // by nice meeting u
+Sun Apr  8 23:27:32 2018	Homer Simpson (STEAM_0:0:106890685) disconnected
+Sun Apr  8 23:29:56 2018	Grant (STEAM_0:0:231121167) disconnected

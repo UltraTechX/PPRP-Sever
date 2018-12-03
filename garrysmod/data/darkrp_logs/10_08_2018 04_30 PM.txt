@@ -1,0 +1,333 @@
+Mon Oct  8 16:30:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 16:30:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 16:30:30 2018	Tigroon (STEAM_0:0:40127246) has joined the game
+Mon Oct  8 16:30:30 2018	Tigroon (STEAM_0:0:40127246) spawned
+Mon Oct  8 16:31:01 2018	Tigroon (STEAM_0:0:40127246) disconnected
+Mon Oct  8 16:31:20 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 16:31:20 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 16:31:32 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct  8 16:31:32 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 16:32:00 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 16:34:03 2018	Enviro (STEAM_0:0:80115103): // I love having all this extra spaceeee
+Mon Oct  8 16:34:09 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 16:34:20 2018	Enviro (STEAM_0:0:80115103): // especailly in the tram area
+Mon Oct  8 16:34:29 2018	Mike (STEAM_0:1:41660292): // thx
+Mon Oct  8 16:36:14 2018	Baxton (STEAM_0:0:14937030) has joined the game
+Mon Oct  8 16:36:14 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 16:37:24 2018	Mike (STEAM_0:1:41660292): // F9 to report / F10 to suggest
+Mon Oct  8 16:37:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yay chat tags are back!
+Mon Oct  8 16:38:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i mean gone!
+Mon Oct  8 16:38:01 2018	Mike (STEAM_0:1:41660292): // You can count on the server to have a meltdown
+Mon Oct  8 16:38:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok
+Mon Oct  8 16:38:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /looc test
+Mon Oct  8 16:38:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert test
+Mon Oct  8 16:38:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /y test
+Mon Oct  8 16:38:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /w test
+Mon Oct  8 16:38:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc test
+Mon Oct  8 16:38:25 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 16:38:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /announce test
+Mon Oct  8 16:38:31 2018	Enviro (STEAM_0:0:80115103): // holy shit WTF
+Mon Oct  8 16:38:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hm?
+Mon Oct  8 16:38:40 2018	Mike (STEAM_0:1:41660292): /ad uhhh
+Mon Oct  8 16:38:47 2018	Mike (STEAM_0:1:41660292): !advert test
+Mon Oct  8 16:38:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto env
+Mon Oct  8 16:39:00 2018	Enviro (STEAM_0:0:80115103): // when i sapwn any adv dupe it just spams me with i've reached the SENT limit
+Mon Oct  8 16:39:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 16:39:47 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 16:40:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 16:40:07 2018	Enviro (STEAM_0:0:80115103): https://gyazo.com/dd6b6019b57f368a72291ef2fb66a6ab
+Mon Oct  8 16:40:09 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 16:40:25 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 16:40:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 16:42:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): Enviro<STEAM_0:0:80115103> spawned model models/hunter/plates/plate075x1.mdlAdvanced Duplicator 2: Creation rejected for clas
+Mon Oct  8 16:43:47 2018	Baxton (STEAM_0:0:14937030) disconnected
+Mon Oct  8 16:45:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc get over here mike
+Mon Oct  8 16:45:55 2018	Enviro (STEAM_0:0:80115103): aA
+Mon Oct  8 16:56:00 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Mon Oct  8 16:56:00 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 16:56:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc @realDonaldTrump lol
+Mon Oct  8 16:56:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc welcome donald
+Mon Oct  8 16:56:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): can i just fucking draw
+Mon Oct  8 16:56:42 2018	Enviro (STEAM_0:0:80115103): no
+Mon Oct  8 16:56:51 2018	Major Favier (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:01:40 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Mon Oct  8 17:01:40 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 17:02:43 2018	Major Favier (STEAM_0:0:63800005): /name Donald Trump
+Mon Oct  8 17:03:01 2018	Lukyn Red (STEAM_0:0:81441026): /pm fat Can you fix the numbers of rules of Researchers
+Mon Oct  8 17:03:15 2018	Donald Trump (STEAM_0:0:63800005): // Remember the meltdown yesterday lol
+Mon Oct  8 17:03:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah lemme finish this chess match
+Mon Oct  8 17:03:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc which one, it happens every hour or 2, it seems
+Mon Oct  8 17:03:33 2018	Donald Trump (STEAM_0:0:63800005): // One around 8 pm
+Mon Oct  8 17:03:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc uh
+Mon Oct  8 17:03:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i think?
+Mon Oct  8 17:03:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk
+Mon Oct  8 17:03:54 2018	Donald Trump (STEAM_0:0:63800005): // Regardless, meltdowns are cool on this gamemode
+Mon Oct  8 17:04:00 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 17:04:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah i really like them
+Mon Oct  8 17:04:03 2018	Donald Trump (STEAM_0:0:63800005): /
+Mon Oct  8 17:04:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its a core part of pprp, someone sent it as a bug report actually
+Mon Oct  8 17:04:27 2018	Lukyn Red (STEAM_0:0:81441026): // What is this slope at the lobby?
+Mon Oct  8 17:04:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc which slope? the stairs?
+Mon Oct  8 17:04:44 2018	Enviro (STEAM_0:0:80115103): your lighting design is 10/10 on this map
+Mon Oct  8 17:04:44 2018	Lukyn Red (STEAM_0:0:81441026): // this slope by the railings
+Mon Oct  8 17:04:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc uh
+Mon Oct  8 17:05:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i think eviro placed some props, if thats what you mean
+Mon Oct  8 17:05:14 2018	Lukyn Red (STEAM_0:0:81441026): // yeah that's it. 
+Mon Oct  8 17:05:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc if you look at a prop and its part of the map itself it will say "world"
+Mon Oct  8 17:05:44 2018	Donald Trump (STEAM_0:0:63800005): // Do the evacuation shelters save you during a meltdown?
+Mon Oct  8 17:05:44 2018	Lukyn Red (STEAM_0:0:81441026): // or of it's an elevator
+Mon Oct  8 17:05:50 2018	Lukyn Red (STEAM_0:0:81441026): // yes
+Mon Oct  8 17:05:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Mon Oct  8 17:05:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc shelters and rocket
+Mon Oct  8 17:06:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and portal
+Mon Oct  8 17:06:10 2018	Donald Trump (STEAM_0:0:63800005): // nice
+Mon Oct  8 17:06:30 2018	Donald Trump (STEAM_0:0:63800005): WAIT
+Mon Oct  8 17:06:41 2018	Donald Trump (STEAM_0:0:63800005): sorry fam
+Mon Oct  8 17:06:42 2018	Donald Trump (STEAM_0:0:63800005): you scared me
+Mon Oct  8 17:06:51 2018	Lukyn Red (STEAM_0:0:81441026): Well you me too
+Mon Oct  8 17:06:53 2018	Donald Trump (STEAM_0:0:63800005): i am trying to destroy the core
+Mon Oct  8 17:07:01 2018	Donald Trump (STEAM_0:0:63800005): dont worry you will get workers comp
+Mon Oct  8 17:07:07 2018	Lukyn Red (STEAM_0:0:81441026): I should call the security
+Mon Oct  8 17:07:09 2018	Donald Trump (STEAM_0:0:63800005): wait
+Mon Oct  8 17:07:10 2018	Lukyn Red (STEAM_0:0:81441026): but there is none
+Mon Oct  8 17:07:17 2018	Donald Trump (STEAM_0:0:63800005): dont security
+Mon Oct  8 17:07:27 2018	Donald Trump (STEAM_0:0:63800005): here follow me
+Mon Oct  8 17:07:31 2018	Donald Trump (STEAM_0:0:63800005): this is just a office prank
+Mon Oct  8 17:07:44 2018	Donald Trump (STEAM_0:0:63800005): the new guy comes today
+Mon Oct  8 17:07:48 2018	Donald Trump (STEAM_0:0:63800005): right
+Mon Oct  8 17:08:00 2018	Donald Trump (STEAM_0:0:63800005): sir
+Mon Oct  8 17:08:05 2018	Donald Trump (STEAM_0:0:63800005): thanks for turning the power on btw
+Mon Oct  8 17:08:09 2018	Donald Trump (STEAM_0:0:63800005): i couldnt see anything
+Mon Oct  8 17:08:18 2018	Lukyn Red (STEAM_0:0:81441026): just light
+Mon Oct  8 17:08:20 2018	Donald Trump (STEAM_0:0:63800005): i would suggest you get to a shelter or something fam
+Mon Oct  8 17:08:31 2018	Donald Trump (STEAM_0:0:63800005): before i blow the core up
+Mon Oct  8 17:08:43 2018	Lukyn Red (STEAM_0:0:81441026): I would rather save the core
+Mon Oct  8 17:08:44 2018	Donald Trump (STEAM_0:0:63800005): dont worry today it's columbus day, no one is here today
+Mon Oct  8 17:08:50 2018	Lukyn Red (STEAM_0:0:81441026): but you have more firepower
+Mon Oct  8 17:08:54 2018	Donald Trump (STEAM_0:0:63800005): ye
+Mon Oct  8 17:09:09 2018	Donald Trump (STEAM_0:0:63800005): Fam
+Mon Oct  8 17:09:25 2018	Donald Trump (STEAM_0:0:63800005): No security today yes?
+Mon Oct  8 17:09:30 2018	Lukyn Red (STEAM_0:0:81441026): Sadly
+Mon Oct  8 17:09:36 2018	Donald Trump (STEAM_0:0:63800005): have you seen captain philips?
+Mon Oct  8 17:09:41 2018	Lukyn Red (STEAM_0:0:81441026): No
+Mon Oct  8 17:09:45 2018	Donald Trump (STEAM_0:0:63800005): Oh, good movie.
+Mon Oct  8 17:09:49 2018	Lukyn Red (STEAM_0:0:81441026): Only 2 guys having a chess game
+Mon Oct  8 17:09:56 2018	Donald Trump (STEAM_0:0:63800005): Yeah, but they dont know about this yet
+Mon Oct  8 17:10:01 2018	Donald Trump (STEAM_0:0:63800005): You should join them
+Mon Oct  8 17:10:09 2018	Lukyn Red (STEAM_0:0:81441026): Do you know chess is for 2 people?
+Mon Oct  8 17:10:16 2018	Donald Trump (STEAM_0:0:63800005): There is another guy on I mean
+Mon Oct  8 17:10:20 2018	Donald Trump (STEAM_0:0:63800005): Mike or something
+Mon Oct  8 17:10:26 2018	Lukyn Red (STEAM_0:0:81441026): He is flying around
+Mon Oct  8 17:10:29 2018	Donald Trump (STEAM_0:0:63800005): oh
+Mon Oct  8 17:10:31 2018	Lukyn Red (STEAM_0:0:81441026): literally
+Mon Oct  8 17:10:51 2018	Donald Trump (STEAM_0:0:63800005): Well
+Mon Oct  8 17:11:01 2018	Donald Trump (STEAM_0:0:63800005): Just follow me for a sec
+Mon Oct  8 17:11:11 2018	Donald Trump (STEAM_0:0:63800005): So this is the coolant maintenance area yes?
+Mon Oct  8 17:11:15 2018	Lukyn Red (STEAM_0:0:81441026): Well
+Mon Oct  8 17:11:22 2018	Lukyn Red (STEAM_0:0:81441026): this is coolant pool
+Mon Oct  8 17:11:24 2018	Lukyn Red (STEAM_0:0:81441026): with pumps
+Mon Oct  8 17:11:28 2018	Donald Trump (STEAM_0:0:63800005): Yes
+Mon Oct  8 17:11:28 2018	Lukyn Red (STEAM_0:0:81441026): to cool down the core
+Mon Oct  8 17:11:37 2018	Donald Trump (STEAM_0:0:63800005): Why are rotators spinning when I shut down the coolant?
+Mon Oct  8 17:11:48 2018	Lukyn Red (STEAM_0:0:81441026): They keep the coolant moving
+Mon Oct  8 17:11:54 2018	Lukyn Red (STEAM_0:0:81441026): the pumps are not on
+Mon Oct  8 17:11:57 2018	Donald Trump (STEAM_0:0:63800005): Today is pizza day, yes?
+Mon Oct  8 17:12:03 2018	Lukyn Red (STEAM_0:0:81441026): Everyday is pizza
+Mon Oct  8 17:12:09 2018	Lukyn Red (STEAM_0:0:81441026): I hate pizza
+Mon Oct  8 17:12:12 2018	Lukyn Red (STEAM_0:0:81441026): everyday
+Mon Oct  8 17:12:13 2018	Donald Trump (STEAM_0:0:63800005): You are yankee, yes?
+Mon Oct  8 17:12:19 2018	Lukyn Red (STEAM_0:0:81441026): No
+Mon Oct  8 17:12:30 2018	Donald Trump (STEAM_0:0:63800005): You Irish?
+Mon Oct  8 17:12:34 2018	Lukyn Red (STEAM_0:0:81441026): No
+Mon Oct  8 17:12:38 2018	Donald Trump (STEAM_0:0:63800005): British?
+Mon Oct  8 17:12:40 2018	Lukyn Red (STEAM_0:0:81441026): Czech
+Mon Oct  8 17:12:49 2018	Donald Trump (STEAM_0:0:63800005): Czech, is this a czech power plant?
+Mon Oct  8 17:12:54 2018	Donald Trump (STEAM_0:0:63800005): I dont know the story behind this
+Mon Oct  8 17:12:54 2018	Lukyn Red (STEAM_0:0:81441026): No
+Mon Oct  8 17:13:02 2018	Lukyn Red (STEAM_0:0:81441026): We are in USA (server hosting)
+Mon Oct  8 17:13:03 2018	Donald Trump (STEAM_0:0:63800005): Or this is America?
+Mon Oct  8 17:13:05 2018	Donald Trump (STEAM_0:0:63800005): Nice
+Mon Oct  8 17:13:14 2018	Donald Trump (STEAM_0:0:63800005): How many people work today?
+Mon Oct  8 17:13:19 2018	Lukyn Red (STEAM_0:0:81441026): I don't know
+Mon Oct  8 17:13:19 2018	Donald Trump (STEAM_0:0:63800005): How many people work at plant today?
+Mon Oct  8 17:13:27 2018	Donald Trump (STEAM_0:0:63800005): 4?
+Mon Oct  8 17:13:31 2018	Donald Trump (STEAM_0:0:63800005): 3
+Mon Oct  8 17:13:32 2018	Lukyn Red (STEAM_0:0:81441026): Manager might know it
+Mon Oct  8 17:13:38 2018	Lukyn Red (STEAM_0:0:81441026): I have no idea
+Mon Oct  8 17:13:39 2018	Donald Trump (STEAM_0:0:63800005): You are not manage?
+Mon Oct  8 17:13:48 2018	Lukyn Red (STEAM_0:0:81441026): I am just a worker
+Mon Oct  8 17:14:02 2018	Donald Trump (STEAM_0:0:63800005): When does meltdown occur?
+Mon Oct  8 17:14:07 2018	Donald Trump (STEAM_0:0:63800005): In temperature?
+Mon Oct  8 17:14:14 2018	Lukyn Red (STEAM_0:0:81441026): Critical temperature is at 5000°K
+Mon Oct  8 17:14:25 2018	Donald Trump (STEAM_0:0:63800005): I see
+Mon Oct  8 17:14:26 2018	Lukyn Red (STEAM_0:0:81441026): 4198
+Mon Oct  8 17:14:32 2018	Donald Trump (STEAM_0:0:63800005): 4198 is the security code, yes?
+Mon Oct  8 17:14:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:14:40 2018	Donald Trump (STEAM_0:0:63800005): Give me your radio
+Mon Oct  8 17:14:40 2018	Lukyn Red (STEAM_0:0:81441026): But for only one thing
+Mon Oct  8 17:14:47 2018	Lukyn Red (STEAM_0:0:81441026): /drop
+Mon Oct  8 17:14:54 2018	Lukyn Red (STEAM_0:0:81441026): doesn't work
+Mon Oct  8 17:14:56 2018	Donald Trump (STEAM_0:0:63800005): ok
+Mon Oct  8 17:14:56 2018	Lukyn Red (STEAM_0:0:81441026): why?
+Mon Oct  8 17:14:58 2018	Donald Trump (STEAM_0:0:63800005): turn it on
+Mon Oct  8 17:15:13 2018	Donald Trump (STEAM_0:0:63800005): say "Everything is absolutely normal in here."
+Mon Oct  8 17:15:14 2018	Lukyn Red (STEAM_0:0:81441026): Plant workers freq only
+Mon Oct  8 17:15:24 2018	Donald Trump (STEAM_0:0:63800005): Ok good
+Mon Oct  8 17:15:26 2018	Enviro (STEAM_0:0:80115103): sir
+Mon Oct  8 17:15:29 2018	Lukyn Red (STEAM_0:0:81441026): wait
+Mon Oct  8 17:15:41 2018	Lukyn Red (STEAM_0:0:81441026): /advert Everything is normal in here
+Mon Oct  8 17:15:43 2018	Donald Trump (STEAM_0:0:63800005): I try to destroy pumps, maybe-
+Mon Oct  8 17:15:47 2018	Donald Trump (STEAM_0:0:63800005): oh shit
+Mon Oct  8 17:15:48 2018	Donald Trump (STEAM_0:0:63800005): shh
+Mon Oct  8 17:15:52 2018	Lukyn Red (STEAM_0:0:81441026): warning only
+Mon Oct  8 17:15:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert ok
+Mon Oct  8 17:15:59 2018	Donald Trump (STEAM_0:0:63800005): You are hostage, Czech.
+Mon Oct  8 17:16:07 2018	Donald Trump (STEAM_0:0:63800005): I call you Czech for now on, yes?
+Mon Oct  8 17:16:23 2018	Donald Trump (STEAM_0:0:63800005): Is that offensive?
+Mon Oct  8 17:16:28 2018	Lukyn Red (STEAM_0:0:81441026): The train?
+Mon Oct  8 17:16:30 2018	Donald Trump (STEAM_0:0:63800005): No
+Mon Oct  8 17:16:36 2018	Donald Trump (STEAM_0:0:63800005): Your new nickname, Czech.
+Mon Oct  8 17:16:45 2018	Lukyn Red (STEAM_0:0:81441026): If I so no you can shoot me
+Mon Oct  8 17:16:50 2018	Lukyn Red (STEAM_0:0:81441026): Call me as you want
+Mon Oct  8 17:16:53 2018	Donald Trump (STEAM_0:0:63800005): Thanks fam
+Mon Oct  8 17:17:00 2018	Donald Trump (STEAM_0:0:63800005): So how to disable the power now?
+Mon Oct  8 17:17:04 2018	Donald Trump (STEAM_0:0:63800005): I want to disorient them
+Mon Oct  8 17:17:17 2018	Lukyn Red (STEAM_0:0:81441026): The light switch is at the other side of this floor
+Mon Oct  8 17:17:19 2018	Donald Trump (STEAM_0:0:63800005): He is our hostage
+Mon Oct  8 17:17:28 2018	Donald Trump (STEAM_0:0:63800005): Lead me there, Czech
+Mon Oct  8 17:17:59 2018	Lukyn Red (STEAM_0:0:81441026): the core
+Mon Oct  8 17:18:04 2018	Lukyn Red (STEAM_0:0:81441026): i heating up
+Mon Oct  8 17:18:05 2018	Donald Trump (STEAM_0:0:63800005): Keep walking, Yankee.
+Mon Oct  8 17:18:06 2018	Lukyn Red (STEAM_0:0:81441026): once
+Mon Oct  8 17:18:12 2018	Lukyn Red (STEAM_0:0:81441026): it will be too hot for anyone to be there
+Mon Oct  8 17:18:28 2018	Donald Trump (STEAM_0:0:63800005): We bomb cor
+Mon Oct  8 17:18:35 2018	Donald Trump (STEAM_0:0:63800005): You escape
+Mon Oct  8 17:18:47 2018	Lukyn Red (STEAM_0:0:81441026): here
+Mon Oct  8 17:18:54 2018	Donald Trump (STEAM_0:0:63800005): Ok, Czech
+Mon Oct  8 17:18:55 2018	Donald Trump (STEAM_0:0:63800005): We escape now.
+Mon Oct  8 17:19:01 2018	Donald Trump (STEAM_0:0:63800005): We go to elevator.
+Mon Oct  8 17:19:09 2018	Donald Trump (STEAM_0:0:63800005): Walk me there
+Mon Oct  8 17:19:10 2018	Lukyn Red (STEAM_0:0:81441026): Which one?
+Mon Oct  8 17:19:15 2018	Lukyn Red (STEAM_0:0:81441026): There are 3 elevators
+Mon Oct  8 17:19:17 2018	Donald Trump (STEAM_0:0:63800005): Where pumps are
+Mon Oct  8 17:19:19 2018	Lukyn Red (STEAM_0:0:81441026): and a teleporter
+Mon Oct  8 17:19:25 2018	Donald Trump (STEAM_0:0:63800005): Go
+Mon Oct  8 17:19:28 2018	Lukyn Red (STEAM_0:0:81441026): There is a faster way
+Mon Oct  8 17:19:31 2018	Donald Trump (STEAM_0:0:63800005): No we go there
+Mon Oct  8 17:19:34 2018	Donald Trump (STEAM_0:0:63800005): wAIT
+Mon Oct  8 17:19:38 2018	Donald Trump (STEAM_0:0:63800005): No games, Czech.
+Mon Oct  8 17:19:42 2018	Donald Trump (STEAM_0:0:63800005): We go now
+Mon Oct  8 17:19:47 2018	Lukyn Red (STEAM_0:0:81441026): At the other side
+Mon Oct  8 17:19:50 2018	Donald Trump (STEAM_0:0:63800005): Hurry up
+Mon Oct  8 17:19:52 2018	Donald Trump (STEAM_0:0:63800005): We need to go now
+Mon Oct  8 17:19:53 2018	Lukyn Red (STEAM_0:0:81441026): is the elevator
+Mon Oct  8 17:19:55 2018	Lukyn Red (STEAM_0:0:81441026): to the lab
+Mon Oct  8 17:19:56 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Mon Oct  8 17:19:56 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:19:58 2018	Donald Trump (STEAM_0:0:63800005): WE GO NOW
+Mon Oct  8 17:20:01 2018	Lukyn Red (STEAM_0:0:81441026): there is an escape
+Mon Oct  8 17:20:09 2018	Donald Trump (STEAM_0:0:63800005): HOSTAGE
+Mon Oct  8 17:20:14 2018	Donald Trump (STEAM_0:0:63800005): OH
+Mon Oct  8 17:20:16 2018	Donald Trump (STEAM_0:0:63800005): ok
+Mon Oct  8 17:20:19 2018	Donald Trump (STEAM_0:0:63800005): we go
+Mon Oct  8 17:20:21 2018	Donald Trump (STEAM_0:0:63800005): he does
+Mon Oct  8 17:20:23 2018	Donald Trump (STEAM_0:0:63800005): h
+Mon Oct  8 17:20:41 2018	Lukyn Red (STEAM_0:0:81441026): just
+Mon Oct  8 17:20:42 2018	Donald Trump (STEAM_0:0:63800005): keep walking Irish
+Mon Oct  8 17:20:52 2018	Donald Trump (STEAM_0:0:63800005): LETS GO
+Mon Oct  8 17:20:52 2018	Lukyn Red (STEAM_0:0:81441026): if we need more power to launch the rocket
+Mon Oct  8 17:21:17 2018	Enviro was killed by Entity [2442][func_movelinear] with a func_movelinear
+Mon Oct  8 17:21:19 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:21:23 2018	Donald Trump (STEAM_0:0:63800005): IRSIH
+Mon Oct  8 17:21:27 2018	Donald Trump (STEAM_0:0:63800005): YOU KILL MY MAN
+Mon Oct  8 17:21:37 2018	Lukyn Red (STEAM_0:0:81441026): oh no
+Mon Oct  8 17:21:38 2018	Donald Trump (STEAM_0:0:63800005): NO GAMES
+Mon Oct  8 17:21:40 2018	Donald Trump (STEAM_0:0:63800005): FOLLOW ME 
+Mon Oct  8 17:21:41 2018	Donald Trump (STEAM_0:0:63800005): OR DEATH
+Mon Oct  8 17:21:43 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:21:43 2018	Lukyn Red (STEAM_0:0:81441026): I am not palying
+Mon Oct  8 17:21:48 2018	Donald Trump (STEAM_0:0:63800005): YOU FOLLOW NOW
+Mon Oct  8 17:21:51 2018	Dave Letcher (STEAM_0:1:52038966): // well it's finally red
+Mon Oct  8 17:22:07 2018	Donald Trump (STEAM_0:0:63800005): /Y IN
+Mon Oct  8 17:22:12 2018	Donald Trump (STEAM_0:0:63800005): NO GAMES
+Mon Oct  8 17:22:12 2018	Dave Letcher (STEAM_0:1:52038966): // still uses CT models
+Mon Oct  8 17:22:20 2018	Donald Trump (STEAM_0:0:63800005): WE GO NOW
+Mon Oct  8 17:22:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh right
+Mon Oct  8 17:22:24 2018	Dave Letcher (STEAM_0:1:52038966): /Me Holds his breath
+Mon Oct  8 17:22:28 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 17:22:29 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:22:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc can I bring you?
+Mon Oct  8 17:22:37 2018	Dave Letcher (STEAM_0:1:52038966): // sure fam
+Mon Oct  8 17:22:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring dave
+Mon Oct  8 17:22:43 2018	Donald Trump (STEAM_0:0:63800005): Too slow czech
+Mon Oct  8 17:22:59 2018	Donald Trump (STEAM_0:0:63800005): turn this on
+Mon Oct  8 17:23:02 2018	Donald Trump (STEAM_0:0:63800005): n ogames
+Mon Oct  8 17:23:09 2018	Lukyn Red (STEAM_0:0:81441026): well
+Mon Oct  8 17:23:12 2018	Donald Trump (STEAM_0:0:63800005): on now czech
+Mon Oct  8 17:23:13 2018	Lukyn Red (STEAM_0:0:81441026): I am not a scientist
+Mon Oct  8 17:23:15 2018	Lukyn Red (STEAM_0:0:81441026): I can try
+Mon Oct  8 17:23:18 2018	Lukyn Red (STEAM_0:0:81441026): oh
+Mon Oct  8 17:23:20 2018	Lukyn Red (STEAM_0:0:81441026): ok then
+Mon Oct  8 17:23:24 2018	Donald Trump (STEAM_0:0:63800005): /y come
+Mon Oct  8 17:23:30 2018	Donald Trump (STEAM_0:0:63800005): you first
+Mon Oct  8 17:23:46 2018	Donald Trump (STEAM_0:0:63800005): what the fuck is this
+Mon Oct  8 17:24:10 2018	Lukyn Red was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:24:15 2018	Donald Trump was killed by Himself with a suicide trick
+Mon Oct  8 17:24:16 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:24:19 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct  8 17:24:19 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:24:20 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 17:24:27 2018	Donald Trump (STEAM_0:0:63800005): // czech
+Mon Oct  8 17:24:29 2018	Donald Trump (STEAM_0:0:63800005): // you escape now
+Mon Oct  8 17:25:12 2018	Lukyn Red (STEAM_0:0:81441026): meltdown
+Mon Oct  8 17:25:36 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Mon Oct  8 17:25:38 2018	Lukyn Red (STEAM_0:0:81441026): now
+Mon Oct  8 17:25:48 2018	Lukyn Red (STEAM_0:0:81441026): but this is for core explosion
+Mon Oct  8 17:25:59 2018	Lukyn Red (STEAM_0:0:81441026): rocket launches too
+Mon Oct  8 17:26:03 2018	Lukyn Red (STEAM_0:0:81441026): maybe too alte
+Mon Oct  8 17:26:07 2018	Lukyn Red (STEAM_0:0:81441026): late*
+Mon Oct  8 17:26:10 2018	Donald Trump (STEAM_0:0:63800005): // czech
+Mon Oct  8 17:26:13 2018	Donald Trump (STEAM_0:0:63800005): // you escaped?
+Mon Oct  8 17:26:16 2018	[Opi] Fat Gay was killed by Dave Letcher with a cw_l115
+Mon Oct  8 17:26:16 2018	Donald Trump was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:16 2018	Dave Letcher was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:16 2018	Enviro was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:16 2018	Lukyn Red (STEAM_0:0:81441026): // yep
+Mon Oct  8 17:26:17 2018	Mike was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:17 2018	Enviro (STEAM_0:0:80115103): // I MADE IT OUT
+Mon Oct  8 17:26:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:26:19 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:26:19 2018	Enviro (STEAM_0:0:80115103): // WTF I DIED
+Mon Oct  8 17:26:20 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:26:22 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:26:29 2018	Donald Trump was killed by Himself with a suicide trick
+Mon Oct  8 17:26:29 2018	Dave Letcher was killed by Donald Trump with a env_explosion
+Mon Oct  8 17:26:30 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:26:32 2018	Lukyn Red (STEAM_0:0:81441026): // you aren't at the blast shelter
+Mon Oct  8 17:26:32 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 17:26:34 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:26:34 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:26:38 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 17:26:39 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:26:39 2018	Dave Letcher was killed by Himself with a suicide trick
+Mon Oct  8 17:26:40 2018	Donald Trump (STEAM_0:0:63800005): // We died, czech
+Mon Oct  8 17:26:40 2018	Lukyn Red (STEAM_0:0:81441026): // and the rocket left late
+Mon Oct  8 17:26:41 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:26:43 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 17:26:44 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:26:45 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:46 2018	Dave Letcher was killed by Himself with a suicide trick
+Mon Oct  8 17:26:46 2018	Craftygarrett was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:46 2018	Lukyn Red was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:26:47 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:26:48 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 17:26:48 2018	Donald Trump was killed by Enviro with a env_explosion
+Mon Oct  8 17:26:49 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:26:49 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:26:50 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:26:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:26:51 2018	Dave Letcher was killed by Himself with a suicide trick
+Mon Oct  8 17:26:53 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:26:53 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 17:26:53 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 17:26:54 2018	Enviro (STEAM_0:0:80115103) spawned

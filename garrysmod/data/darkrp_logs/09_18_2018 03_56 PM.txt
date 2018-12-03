@@ -1,0 +1,193 @@
+Tue Sep 18 15:56:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Sep 18 15:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 15:59:20 2018	Fat Gay (STEAM_0:1:218173703): !motd
+Tue Sep 18 16:07:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:07:37 2018	Dots (STEAM_0:1:72014148) has joined the game
+Tue Sep 18 16:07:38 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:07:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT phone_box
+Tue Sep 18 16:07:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_iodevice
+Tue Sep 18 16:07:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT sent_computer
+Tue Sep 18 16:08:25 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:08:35 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:08:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT widget_discord
+Tue Sep 18 16:09:09 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Tue Sep 18 16:09:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT widget_discord
+Tue Sep 18 16:09:51 2018	Fat Gay (STEAM_0:1:218173703): !bring dot
+Tue Sep 18 16:10:35 2018	Bot01 (BOT) has joined the game
+Tue Sep 18 16:10:35 2018	Bot01 (BOT) spawned
+Tue Sep 18 16:10:35 2018	Fat Gay was killed by CBRN COL Dots with a fas2_pp19
+Tue Sep 18 16:11:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:11:08 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT animprop_spawnentrance_blue3
+Tue Sep 18 16:11:12 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT animprop_spawnentrance_blue3
+Tue Sep 18 16:11:13 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT animprop_spawnentrance_blue
+Tue Sep 18 16:11:15 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT animprop_spawnexit_blue
+Tue Sep 18 16:11:18 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT animprop_spawnexit_blue3
+Tue Sep 18 16:11:36 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT animprop_spawnentrance_blue
+Tue Sep 18 16:11:58 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT gmt_instrument_piano
+Tue Sep 18 16:13:42 2018	Bot02 (BOT) has joined the game
+Tue Sep 18 16:13:42 2018	Bot02 (BOT) spawned
+Tue Sep 18 16:13:58 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT ent_draughts_board
+Tue Sep 18 16:13:58 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Tue Sep 18 16:14:12 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT gmod_wire_ramcard_default024
+Tue Sep 18 16:14:47 2018	Bot02 was killed by CBRN COL Dots with a fas2_pp19
+Tue Sep 18 16:15:05 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT rp_radio_microphone
+Tue Sep 18 16:15:10 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT rp_radio
+Tue Sep 18 16:15:17 2018	Bot02 (BOT) spawned
+Tue Sep 18 16:15:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Sep 18 16:15:54 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:16:23 2018	Fat Gay (STEAM_0:1:218173703): /ooc i can hear you
+Tue Sep 18 16:16:30 2018	Fat Gay (STEAM_0:1:218173703): /advert i can hear you gay
+Tue Sep 18 16:16:41 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT d3d_sign
+Tue Sep 18 16:16:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:16:48 2018	Fat Gay (STEAM_0:1:218173703): !goto dot
+Tue Sep 18 16:16:58 2018	Bot02 (BOT) disconnected
+Tue Sep 18 16:17:32 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT d3d_sign
+Tue Sep 18 16:21:15 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fx_openbag
+Tue Sep 18 16:21:16 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fx_openbag
+Tue Sep 18 16:21:19 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_bunbottom
+Tue Sep 18 16:21:20 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_buntop
+Tue Sep 18 16:21:24 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_burger
+Tue Sep 18 16:21:34 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_closedburgerbox
+Tue Sep 18 16:21:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:21:37 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fx_closedbag
+Tue Sep 18 16:21:39 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fz_closedpizzabox
+Tue Sep 18 16:21:40 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_egriddle
+Tue Sep 18 16:21:48 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_openburgerbox
+Tue Sep 18 16:21:50 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT ff_npc
+Tue Sep 18 16:21:52 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT ff_friespack
+Tue Sep 18 16:21:54 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT ff_frybasket
+Tue Sep 18 16:21:57 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_lettuce
+Tue Sep 18 16:22:02 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_onion
+Tue Sep 18 16:22:08 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fz_openpizzabox
+Tue Sep 18 16:22:10 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fz_pizza
+Tue Sep 18 16:22:14 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fz_pizzaoven
+Tue Sep 18 16:22:16 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fz_pizzaraw
+Tue Sep 18 16:22:18 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fs_sodacup
+Tue Sep 18 16:22:23 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fs_sodatop
+Tue Sep 18 16:22:25 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fb_tomato
+Tue Sep 18 16:22:30 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT fx_tray
+Tue Sep 18 16:22:39 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT ff_friespack
+Tue Sep 18 16:23:32 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT zpizmak_customertable
+Tue Sep 18 16:23:36 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT zpizmak_fridge
+Tue Sep 18 16:23:40 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT sent_computer
+Tue Sep 18 16:23:44 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT phone_box
+Tue Sep 18 16:23:57 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned SENT ent_metal_detector_large
+Tue Sep 18 16:24:09 2018	Fat Gay (STEAM_0:1:218173703): !strip dot
+Tue Sep 18 16:25:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:25:25 2018	CBRN COL Dots was killed by Fat Gay with a eoti_raven_swep
+Tue Sep 18 16:25:27 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:25:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:25:41 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:25:53 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:26:03 2018	Fat Gay (STEAM_0:1:218173703): !goto dot
+Tue Sep 18 16:26:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:26:26 2018	Fat Gay (STEAM_0:1:218173703): !goto dots
+Tue Sep 18 16:26:31 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:26:34 2018	Fat Gay (STEAM_0:1:218173703): !bring dots
+Tue Sep 18 16:27:05 2018	Bot03 (BOT) has joined the game
+Tue Sep 18 16:27:05 2018	Bot03 (BOT) spawned
+Tue Sep 18 16:27:05 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 16:27:06 2018	Bot04 (BOT) has joined the game
+Tue Sep 18 16:27:06 2018	Bot04 (BOT) spawned
+Tue Sep 18 16:27:06 2018	Bot05 (BOT) has joined the game
+Tue Sep 18 16:27:06 2018	Bot05 (BOT) spawned
+Tue Sep 18 16:27:06 2018	Bot06 (BOT) has joined the game
+Tue Sep 18 16:27:06 2018	Bot06 (BOT) spawned
+Tue Sep 18 16:27:06 2018	Bot07 (BOT) has joined the game
+Tue Sep 18 16:27:06 2018	Bot07 (BOT) spawned
+Tue Sep 18 16:27:07 2018	Bot08 (BOT) has joined the game
+Tue Sep 18 16:27:07 2018	Bot08 (BOT) spawned
+Tue Sep 18 16:27:07 2018	Bot09 (BOT) has joined the game
+Tue Sep 18 16:27:07 2018	Bot09 (BOT) spawned
+Tue Sep 18 16:27:07 2018	Bot10 (BOT) has joined the game
+Tue Sep 18 16:27:07 2018	Bot10 (BOT) spawned
+Tue Sep 18 16:27:07 2018	Bot11 (BOT) has joined the game
+Tue Sep 18 16:27:07 2018	Bot11 (BOT) spawned
+Tue Sep 18 16:27:08 2018	Bot12 (BOT) has joined the game
+Tue Sep 18 16:27:08 2018	Bot12 (BOT) spawned
+Tue Sep 18 16:27:08 2018	Bot13 (BOT) has joined the game
+Tue Sep 18 16:27:08 2018	Bot13 (BOT) spawned
+Tue Sep 18 16:27:08 2018	Bot14 (BOT) has joined the game
+Tue Sep 18 16:27:08 2018	Bot14 (BOT) spawned
+Tue Sep 18 16:27:09 2018	Bot15 (BOT) has joined the game
+Tue Sep 18 16:27:09 2018	Bot15 (BOT) spawned
+Tue Sep 18 16:27:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:27:20 2018	Bot11 was killed by CBRN COL Dots with a cw_deagle
+Tue Sep 18 16:27:22 2018	Fat Gay (STEAM_0:1:218173703): !goto dot
+Tue Sep 18 16:27:34 2018	Bot05 was killed by CBRN COL Dots with a cw_g3a3
+Tue Sep 18 16:27:50 2018	Bot11 (BOT) spawned
+Tue Sep 18 16:27:58 2018	Bot08 was killed by CBRN COL Dots with a fas2_mp5k
+Tue Sep 18 16:28:04 2018	Bot05 (BOT) spawned
+Tue Sep 18 16:28:11 2018	Bot04 was killed by CBRN COL Dots with a fas2_mp5k
+Tue Sep 18 16:28:28 2018	Bot08 (BOT) spawned
+Tue Sep 18 16:28:32 2018	Fat Gay (STEAM_0:1:218173703): /checkphone
+Tue Sep 18 16:28:34 2018	Fat Gay (STEAM_0:1:218173703): /phone
+Tue Sep 18 16:28:38 2018	Fat Gay (STEAM_0:1:218173703): /phone
+Tue Sep 18 16:28:41 2018	Bot04 (BOT) spawned
+Tue Sep 18 16:28:45 2018	Bot05 was killed by Fat Gay with a cw_fiveseven
+Tue Sep 18 16:28:55 2018	Bot09 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:29:02 2018	Bot08 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:29:03 2018	Bot06 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:29:14 2018	Bot13 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:29:15 2018	Bot05 (BOT) spawned
+Tue Sep 18 16:29:22 2018	Bot05 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:29:25 2018	Bot09 (BOT) spawned
+Tue Sep 18 16:29:31 2018	Bot11 (BOT) disconnected
+Tue Sep 18 16:29:32 2018	Bot09 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:29:32 2018	Bot08 (BOT) spawned
+Tue Sep 18 16:29:33 2018	Bot06 (BOT) spawned
+Tue Sep 18 16:29:44 2018	Bot13 (BOT) spawned
+Tue Sep 18 16:29:45 2018	Bot05 (BOT) disconnected
+Tue Sep 18 16:29:52 2018	Bot08 was killed by Fat Gay with a cw_fiveseven
+Tue Sep 18 16:30:02 2018	Bot09 (BOT) spawned
+Tue Sep 18 16:30:02 2018	Bot12 was killed by CBRN COL Dots with a fas2_m24
+Tue Sep 18 16:30:09 2018	Bot08 (BOT) disconnected
+Tue Sep 18 16:30:10 2018	Bot06 was killed by CBRN COL Dots with a fas2_m24
+Tue Sep 18 16:30:23 2018	Bot04 (BOT) disconnected
+Tue Sep 18 16:30:32 2018	Bot12 (BOT) spawned
+Tue Sep 18 16:30:39 2018	Bot14 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:30:40 2018	Bot06 (BOT) spawned
+Tue Sep 18 16:30:45 2018	Bot07 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:30:53 2018	Bot13 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:30:57 2018	Bot10 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:31:03 2018	Bot06 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:31:06 2018	Bot09 (BOT) disconnected
+Tue Sep 18 16:31:09 2018	Bot14 (BOT) spawned
+Tue Sep 18 16:31:13 2018	Bot12 was killed by CBRN COL Dots with a fas2_ragingbull
+Tue Sep 18 16:31:13 2018	Bot06 (BOT) disconnected
+Tue Sep 18 16:31:15 2018	Bot07 (BOT) spawned
+Tue Sep 18 16:31:23 2018	Bot13 (BOT) spawned
+Tue Sep 18 16:31:24 2018	Bot13 (BOT) disconnected
+Tue Sep 18 16:31:27 2018	Bot10 (BOT) spawned
+Tue Sep 18 16:31:28 2018	Bot15 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:31:43 2018	Bot12 (BOT) spawned
+Tue Sep 18 16:31:50 2018	Bot03 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:31:55 2018	Bot12 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:31:58 2018	Bot15 (BOT) spawned
+Tue Sep 18 16:32:03 2018	Fat Gay was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Tue Sep 18 16:32:03 2018	Bot14 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:32:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:32:06 2018	Fat Gay (STEAM_0:1:218173703): !goto dot
+Tue Sep 18 16:32:13 2018	Bot12 (BOT) disconnected
+Tue Sep 18 16:32:19 2018	Bot10 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:32:20 2018	Bot03 (BOT) spawned
+Tue Sep 18 16:32:30 2018	Bot07 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:32:33 2018	Bot14 (BOT) spawned
+Tue Sep 18 16:32:35 2018	Bot15 was killed by CBRN COL Dots with a fas2_m4a1
+Tue Sep 18 16:32:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:32:49 2018	Bot10 (BOT) spawned
+Tue Sep 18 16:32:50 2018	Bot14 (BOT) disconnected
+Tue Sep 18 16:32:55 2018	Bot07 (BOT) disconnected
+Tue Sep 18 16:33:05 2018	Bot15 (BOT) spawned
+Tue Sep 18 16:33:08 2018	Bot10 (BOT) disconnected
+Tue Sep 18 16:33:39 2018	Bot15 (BOT) disconnected
+Tue Sep 18 16:34:01 2018	Bot03 (BOT) disconnected
+Tue Sep 18 16:48:52 2018	Fat Gay was killed by CBRN COL Dots with a weapon_crowbar
+Tue Sep 18 16:48:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 16:52:39 2018	Fat Gay was killed by CBRN COL Dots with a weapon_crowbar
+Tue Sep 18 16:53:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 17:02:18 2018	Fat Gay (STEAM_0:1:218173703): !goto dots
+Tue Sep 18 17:02:22 2018	CBRN COL Dots was killed by Fat Gay with a weapon_crowbar
+Tue Sep 18 17:02:52 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 17:12:22 2018	Fat Gay was killed by CBRN COL Dots with a cw_deagle
+Tue Sep 18 17:12:52 2018	Fat Gay (STEAM_0:1:218173703) spawned

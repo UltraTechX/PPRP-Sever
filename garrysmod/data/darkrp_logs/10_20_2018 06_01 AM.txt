@@ -1,0 +1,130 @@
+Sat Oct 20 06:01:38 2018	captain mactavish call of duty (STEAM_0:0:61418543) has joined the game
+Sat Oct 20 06:01:38 2018	Thomas Ridder (STEAM_0:0:61418543) spawned
+Sat Oct 20 06:02:13 2018	Thomas Ridder (STEAM_0:0:61418543) disconnected
+Sat Oct 20 06:03:17 2018	[Opi] Tello (STEAM_0:0:74320577) has joined the game
+Sat Oct 20 06:03:17 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 06:03:55 2018	Drevon (STEAM_0:1:214428450) has joined the game
+Sat Oct 20 06:03:55 2018	Drevon (STEAM_0:1:214428450) spawned
+Sat Oct 20 06:03:59 2018	Tier (STEAM_0:1:33589770) has joined the game
+Sat Oct 20 06:03:59 2018	Tier (STEAM_0:1:33589770) spawned
+Sat Oct 20 06:04:13 2018	MasterBlaster (STEAM_0:1:43735932) has joined the game
+Sat Oct 20 06:04:13 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:04:22 2018	Tier (STEAM_0:1:33589770) disconnected
+Sat Oct 20 06:04:27 2018	Drevon (STEAM_0:1:214428450) disconnected
+Sat Oct 20 06:04:35 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 06:04:43 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:05:21 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Sat Oct 20 06:05:21 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 06:05:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 20 06:05:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 06:05:56 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): !datasave
+Sat Oct 20 06:06:15 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 06:06:17 2018	Drevon (STEAM_0:1:214428450) has joined the game
+Sat Oct 20 06:06:17 2018	Drevon (STEAM_0:1:214428450) spawned
+Sat Oct 20 06:06:29 2018	captain mactavish call of duty (STEAM_0:0:61418543) has joined the game
+Sat Oct 20 06:06:29 2018	Thomas Ridder (STEAM_0:0:61418543) spawned
+Sat Oct 20 06:06:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !mlogs
+Sat Oct 20 06:06:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !logs
+Sat Oct 20 06:06:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /mlogs
+Sat Oct 20 06:06:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 06:06:47 2018	Drevon (STEAM_0:1:214428450) disconnected
+Sat Oct 20 06:06:58 2018	wtf is an zephyr (STEAM_0:0:15681047) has joined the game
+Sat Oct 20 06:06:58 2018	Alfred (STEAM_0:0:15681047) spawned
+Sat Oct 20 06:07:06 2018	Thomas Ridder was killed by Himself with a suicide trick
+Sat Oct 20 06:07:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay thomas
+Sat Oct 20 06:07:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 06:08:33 2018	Alfred (STEAM_0:0:15681047): yo stop touching your pp
+Sat Oct 20 06:08:54 2018	Alfred (STEAM_0:0:15681047) spawned
+Sat Oct 20 06:09:04 2018	Alfred (STEAM_0:0:15681047): /rpname Alfredo Cheesy Pasta (TM)
+Sat Oct 20 06:09:14 2018	Alfred (STEAM_0:0:15681047): /rpname Alfredo Cheesy Pasta TM
+Sat Oct 20 06:09:21 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): // let me out and you get free pasta
+Sat Oct 20 06:09:43 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // that would be metagame my guy
+Sat Oct 20 06:09:50 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): // no it wouldn't shut up >:(
+Sat Oct 20 06:10:49 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047) spawned
+Sat Oct 20 06:11:00 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): 
+Sat Oct 20 06:11:12 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): yo who want pasta
+Sat Oct 20 06:12:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto pasta
+Sat Oct 20 06:12:22 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): youch
+Sat Oct 20 06:12:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn alfredo ATT RDM
+Sat Oct 20 06:12:29 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): i was being a big goof
+Sat Oct 20 06:12:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 06:13:14 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047) spawned
+Sat Oct 20 06:13:44 2018	Alfredo Cheesy Pasta TM was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 06:13:51 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047) spawned
+Sat Oct 20 06:14:02 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // this is not epic
+Sat Oct 20 06:14:07 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): // now THIS isn't epic.
+Sat Oct 20 06:14:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): //?
+Sat Oct 20 06:14:10 2018	Tello (STEAM_0:0:74320577): NO
+Sat Oct 20 06:14:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ?
+Sat Oct 20 06:14:29 2018	Thomas Ridder (STEAM_0:0:61418543) spawned
+Sat Oct 20 06:14:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 06:14:39 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): /rpname Markiplier Mark Zuckerburg E E E
+Sat Oct 20 06:14:46 2018	Alfredo Cheesy Pasta TM (STEAM_0:0:15681047): /rpname Markiplier Zuckerberg
+Sat Oct 20 06:15:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 06:15:47 2018	Markiplier Zuckerberg (STEAM_0:0:15681047): // HOLY SHIT TODAY'S PIZZA DAY
+Sat Oct 20 06:16:05 2018	Markiplier Zuckerberg (STEAM_0:0:15681047): fite me skrub (ง ⚆ ͜ʖ ⚆ )ง
+Sat Oct 20 06:16:08 2018	Markiplier Zuckerberg (STEAM_0:0:15681047): .// void
+Sat Oct 20 06:16:32 2018	Markiplier Zuckerberg (STEAM_0:0:15681047): // oh nice now that i was warned whenever i press k to kill it says 'don't be a skrub' thats cool
+Sat Oct 20 06:16:47 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // yes\
+Sat Oct 20 06:16:51 2018	Markiplier Zuckerberg (STEAM_0:0:15681047): 
+Sat Oct 20 06:16:54 2018	Markiplier Zuckerberg (STEAM_0:0:15681047): 
+Sat Oct 20 06:17:08 2018	Markiplier Zuckerberg (STEAM_0:0:15681047) disconnected
+Sat Oct 20 06:19:11 2018	MasterBlaster (STEAM_0:1:43735932): /dance
+Sat Oct 20 06:19:25 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // yo where is everyone?
+Sat Oct 20 06:19:39 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 06:19:41 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 06:20:59 2018	Tello was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 06:21:01 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 06:21:16 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 06:21:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tello
+Sat Oct 20 06:21:25 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 20 06:21:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Sat Oct 20 06:21:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 06:21:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 06:21:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 06:22:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !GOTO TELL
+Sat Oct 20 06:23:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !noclip tello
+Sat Oct 20 06:23:29 2018	Tello was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Sat Oct 20 06:23:32 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 06:23:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tell
+Sat Oct 20 06:23:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !noclip tello
+Sat Oct 20 06:24:09 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 06:26:29 2018	Thomas Ridder was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 06:26:30 2018	Thomas Ridder (STEAM_0:0:61418543) spawned
+Sat Oct 20 06:26:39 2018	Thomas Ridder (STEAM_0:0:61418543) spawned
+Sat Oct 20 06:26:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !god tell
+Sat Oct 20 06:26:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !gotot ell
+Sat Oct 20 06:27:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tell
+Sat Oct 20 06:27:55 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Oct 20 06:27:56 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 06:29:53 2018	MasterBlaster was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a eoti_raven_swep
+Sat Oct 20 06:29:59 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:32:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tell
+Sat Oct 20 06:33:42 2018	MasterBlaster was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a eoti_raven_swep
+Sat Oct 20 06:33:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tell
+Sat Oct 20 06:33:45 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:34:38 2018	MasterBlaster was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 06:34:43 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:37:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tell
+Sat Oct 20 06:38:44 2018	Tello (STEAM_0:0:74320577): // 1
+Sat Oct 20 06:38:46 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // 0.5
+Sat Oct 20 06:38:48 2018	MasterBlaster (STEAM_0:1:43735932): // press 1
+Sat Oct 20 06:41:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tell
+Sat Oct 20 06:41:37 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Sat Oct 20 06:41:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 06:43:29 2018	MasterBlaster was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a eoti_raven_swep
+Sat Oct 20 06:43:32 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:43:58 2018	MasterBlaster (STEAM_0:1:43735932): /radio status red
+Sat Oct 20 06:46:13 2018	MasterBlaster was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a eoti_raven_swep
+Sat Oct 20 06:46:38 2018	MasterBlaster (STEAM_0:1:43735932) spawned
+Sat Oct 20 06:52:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // I hate to do this, but I have the time based whitelist ready to go
+Sat Oct 20 06:52:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // can I restart?
+Sat Oct 20 06:52:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // then you can AFK all night and get F R E E X P before everyone else
+Sat Oct 20 06:52:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so faster access to jobs
+Sat Oct 20 06:53:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // if noone says anything im restarting in 15 seconds
+Sat Oct 20 06:53:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 06:53:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ok im restarting
+Sat Oct 20 06:53:44 2018	MasterBlaster was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a eoti_raven_swep
+Sat Oct 20 06:53:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // restarting now
+Sat Oct 20 06:53:59 2018	Thomas Ridder was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 06:54:00 2018	Thomas Ridder (STEAM_0:0:61418543) spawned

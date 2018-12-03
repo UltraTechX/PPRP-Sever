@@ -1,0 +1,70 @@
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________
+		http.Fetch("http://ip-api.com/json/" .. user.ip, function(json) - severe
+
+___________

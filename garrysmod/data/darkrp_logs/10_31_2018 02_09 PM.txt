@@ -1,0 +1,935 @@
+Wed Oct 31 14:09:38 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 31 14:09:38 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 14:10:33 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 14:26:55 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 31 14:31:00 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 31 14:31:00 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 14:32:17 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 14:37:23 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 14:44:53 2018	Johnny K Bronk (STEAM_0:1:167614500): /job E-ll Unit
+Wed Oct 31 14:45:06 2018	Johnny K Bronk (STEAM_0:1:167614500): /job E-11 Unit
+Wed Oct 31 14:47:32 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 31 15:25:34 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 31 15:25:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 15:29:59 2018	[Opi] Big Nuts (STEAM_0:1:107242126) has joined the game
+Wed Oct 31 15:29:59 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126) spawned
+Wed Oct 31 15:31:09 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 15:32:21 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126) spawned
+Wed Oct 31 15:32:36 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 15:32:44 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): /job Elite Mercenary
+Wed Oct 31 15:38:30 2018	Colonel Bobby Sawyer was killed by Johnny K Bronk with a cw_shorty
+Wed Oct 31 15:38:31 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126) spawned
+Wed Oct 31 15:39:02 2018	Johnny K Bronk was killed by Colonel Bobby Sawyer with a fas2_thrown_m67
+Wed Oct 31 15:39:04 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 15:40:20 2018	Johnny K Bronk (STEAM_0:1:167614500): /job dickhead Nipple man
+Wed Oct 31 15:40:48 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed Oct 31 15:40:48 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 15:44:52 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): @ cmere
+Wed Oct 31 15:48:11 2018	Johnny K Bronk was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 31 15:48:12 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 15:50:37 2018	Valien was killed by Johnny K Bronk with a fas2_dv2
+Wed Oct 31 15:50:42 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 15:50:49 2018	Colonel Bobby Sawyer was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 15:50:50 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126) spawned
+Wed Oct 31 15:51:13 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 15:57:38 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 16:07:24 2018	Johnny K Bronk was killed by Colonel Bobby Sawyer with a cw_m3super90
+Wed Oct 31 16:07:28 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 16:07:32 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 31 16:13:11 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Wed Oct 31 16:13:11 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Wed Oct 31 16:18:52 2018	Atomic (STEAM_0:0:145671660) has joined the game
+Wed Oct 31 16:18:52 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Wed Oct 31 16:19:47 2018	Flap Flap (STEAM_0:1:419151052): /ooc omg
+Wed Oct 31 16:19:50 2018	Andrew Blackery (STEAM_0:0:145671660): // when they remove the whitelist
+Wed Oct 31 16:19:51 2018	Flap Flap (STEAM_0:1:419151052): /ooc are you okay?
+Wed Oct 31 16:19:54 2018	Andrew Blackery (STEAM_0:0:145671660): // *N U T*
+Wed Oct 31 16:20:44 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Wed Oct 31 16:21:24 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Wed Oct 31 16:21:55 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 16:22:50 2018	Andrew Blackery (STEAM_0:0:145671660): 
+Wed Oct 31 16:23:01 2018	Andrew Blackery (STEAM_0:0:145671660): !steam
+Wed Oct 31 16:26:16 2018	Andrew Blackery was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 16:26:17 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Wed Oct 31 16:27:36 2018	Flap Flap (STEAM_0:1:419151052): /ooc rejoining real quick
+Wed Oct 31 16:27:43 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Wed Oct 31 16:27:59 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): @cmere
+Wed Oct 31 16:29:14 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): @ can you join general chat in discord?
+Wed Oct 31 16:29:38 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Wed Oct 31 16:29:38 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Wed Oct 31 16:31:00 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): 
+Wed Oct 31 16:31:10 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): 
+Wed Oct 31 16:31:30 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 16:31:30 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): !awarn
+Wed Oct 31 16:31:33 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): !warns
+Wed Oct 31 16:31:38 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 16:33:41 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Wed Oct 31 16:34:12 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Wed Oct 31 16:34:24 2018	Andrew Blackery (STEAM_0:0:145671660): fUCK OFF
+Wed Oct 31 16:34:56 2018	Andrew Blackery (STEAM_0:0:145671660): /job Plant Worker
+Wed Oct 31 16:35:28 2018	Andrew Blackery (STEAM_0:0:145671660): wanna dip?
+Wed Oct 31 16:35:35 2018	Andrew Blackery (STEAM_0:0:145671660): come on
+Wed Oct 31 16:35:37 2018	Andrew Blackery (STEAM_0:0:145671660): its free
+Wed Oct 31 16:35:40 2018	Andrew Blackery (STEAM_0:0:145671660): ok
+Wed Oct 31 16:35:41 2018	Andrew Blackery (STEAM_0:0:145671660): :(
+Wed Oct 31 16:35:52 2018	Andrew Blackery (STEAM_0:0:145671660): its open for you
+Wed Oct 31 16:35:52 2018	Flap Flap (STEAM_0:1:419151052): Doesnt look like a pool
+Wed Oct 31 16:35:58 2018	Andrew Blackery (STEAM_0:0:145671660): its a pool dont worry
+Wed Oct 31 16:36:03 2018	Andrew Blackery (STEAM_0:0:145671660): plus we drain the water
+Wed Oct 31 16:36:03 2018	Flap Flap (STEAM_0:1:419151052): Look's more like a trap
+Wed Oct 31 16:36:05 2018	Andrew Blackery (STEAM_0:0:145671660): in emergencies
+Wed Oct 31 16:36:12 2018	Andrew Blackery (STEAM_0:0:145671660): we have an emergency water drainer
+Wed Oct 31 16:36:16 2018	Flap Flap (STEAM_0:1:419151052): /y HET
+Wed Oct 31 16:36:21 2018	Andrew Blackery (STEAM_0:0:145671660): are you stuck?
+Wed Oct 31 16:36:23 2018	Andrew Blackery (STEAM_0:0:145671660): jump
+Wed Oct 31 16:36:26 2018	Andrew Blackery (STEAM_0:0:145671660): come on in
+Wed Oct 31 16:36:30 2018	Andrew Blackery (STEAM_0:0:145671660): How is it?
+Wed Oct 31 16:36:39 2018	Flap Flap (STEAM_0:1:419151052): Freezing
+Wed Oct 31 16:36:49 2018	Flap Flap (STEAM_0:1:419151052): Has this water been warmed?
+Wed Oct 31 16:36:54 2018	Flap Flap (STEAM_0:1:419151052): Put it under flames
+Wed Oct 31 16:37:05 2018	Andrew Blackery (STEAM_0:0:145671660): :
+Wed Oct 31 16:37:06 2018	Andrew Blackery (STEAM_0:0:145671660): )
+Wed Oct 31 16:37:10 2018	Andrew Blackery (STEAM_0:0:145671660): :-)
+Wed Oct 31 16:37:14 2018	Andrew Blackery (STEAM_0:0:145671660): d r o w n
+Wed Oct 31 16:37:21 2018	Flap Flap (STEAM_0:1:419151052): /me Breaks glass
+Wed Oct 31 16:37:39 2018	Andrew Blackery (STEAM_0:0:145671660): /advert COme on up to topside for a great adventure in the death po- I mean the free relaxing skinny dip pool!
+Wed Oct 31 16:37:49 2018	Flap Flap (STEAM_0:1:419151052): /advert DONT LISTEN TO HIM
+Wed Oct 31 16:37:58 2018	Flap Flap (STEAM_0:1:419151052): /ADVERT IT'S A DEATH POOL
+Wed Oct 31 16:38:01 2018	Flap Flap (STEAM_0:1:419151052): /ADVERT YOU WILL DROWN]
+Wed Oct 31 16:38:23 2018	Andrew Blackery (STEAM_0:0:145671660): Thank you
+Wed Oct 31 16:38:27 2018	Andrew Blackery (STEAM_0:0:145671660): How would you rate
+Wed Oct 31 16:38:31 2018	Andrew Blackery (STEAM_0:0:145671660): Your experience?
+Wed Oct 31 16:38:31 2018	Flap Flap (STEAM_0:1:419151052): 0/10
+Wed Oct 31 16:38:33 2018	Andrew Blackery (STEAM_0:0:145671660): Aww
+Wed Oct 31 16:38:37 2018	Andrew Blackery (STEAM_0:0:145671660): Maybe if we add heating?
+Wed Oct 31 16:38:42 2018	Flap Flap (STEAM_0:1:419151052): You tried to drown me
+Wed Oct 31 16:38:48 2018	Andrew Blackery (STEAM_0:0:145671660): That's apart of the experience
+Wed Oct 31 16:39:36 2018	Andrew Blackery (STEAM_0:0:145671660): // rmd
+Wed Oct 31 16:39:37 2018	Andrew Blackery (STEAM_0:0:145671660): // rdm
+Wed Oct 31 16:39:59 2018	Andrew Blackery was killed by Flap Flap with a cw_deagle
+Wed Oct 31 16:40:03 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Wed Oct 31 16:40:07 2018	Andrew Blackery (STEAM_0:0:145671660): // why did you kill me flap?
+Wed Oct 31 16:40:11 2018	Andrew Blackery (STEAM_0:0:145671660): // in the first place
+Wed Oct 31 16:40:18 2018	Flap Flap (STEAM_0:1:419151052): /OOC You tried to drown me
+Wed Oct 31 16:40:22 2018	Flap Flap (STEAM_0:1:419151052): /ooc In Rp
+Wed Oct 31 16:40:22 2018	Andrew Blackery (STEAM_0:0:145671660): // you cant drown
+Wed Oct 31 16:40:24 2018	Andrew Blackery (STEAM_0:0:145671660): // so no
+Wed Oct 31 16:40:28 2018	Andrew Blackery (STEAM_0:0:145671660): // i didnt try to
+Wed Oct 31 16:40:28 2018	Flap Flap (STEAM_0:1:419151052): /ooc IN RP
+Wed Oct 31 16:40:34 2018	Andrew Blackery (STEAM_0:0:145671660): // flap are you retarded?
+Wed Oct 31 16:40:37 2018	Flap Flap (STEAM_0:1:419151052): /ooc Then you started shooting at me
+Wed Oct 31 16:40:39 2018	Andrew Blackery (STEAM_0:0:145671660): // you didnt drown
+Wed Oct 31 16:40:42 2018	Andrew Blackery (STEAM_0:0:145671660): // because you shot me
+Wed Oct 31 16:40:54 2018	Flap Flap (STEAM_0:1:419151052): /ooc Now you're trying to RDM me
+Wed Oct 31 16:40:54 2018	Andrew Blackery (STEAM_0:0:145671660): // :)
+Wed Oct 31 16:40:58 2018	Flap Flap (STEAM_0:1:419151052): /ooc * Triggered *
+Wed Oct 31 16:40:59 2018	Andrew Blackery (STEAM_0:0:145671660): // justice
+Wed Oct 31 16:41:29 2018	Flap Flap (STEAM_0:1:419151052): Why do you have a can in your head
+Wed Oct 31 16:41:40 2018	Flap Flap (STEAM_0:1:419151052): /ooc I do
+Wed Oct 31 16:41:44 2018	Flap Flap (STEAM_0:1:419151052): /ooc I have CSS
+Wed Oct 31 16:41:58 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // do you have CS:GO Mounted?
+Wed Oct 31 16:42:02 2018	Flap Flap (STEAM_0:1:419151052): /ooc Yeah.
+Wed Oct 31 16:42:07 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // -_-
+Wed Oct 31 16:42:11 2018	Andrew Blackery (STEAM_0:0:145671660): // you're lame flap
+Wed Oct 31 16:42:16 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // not CSS, CSGO
+Wed Oct 31 16:42:18 2018	Andrew Blackery (STEAM_0:0:145671660) disconnected
+Wed Oct 31 16:42:20 2018	Flap Flap (STEAM_0:1:419151052): /ooc YES.
+Wed Oct 31 16:42:37 2018	Flap Flap (STEAM_0:1:419151052): /ooc No.
+Wed Oct 31 16:45:32 2018	Flap Flap (STEAM_0:1:419151052): /advert The Power system is... Overheating!
+Wed Oct 31 16:48:26 2018	Flap Flap (STEAM_0:1:419151052): /advert RUN AWAY FROM THE FACILITY POWER SYSTEM, THE PARTICLE EMITTERS ARE OVERRIDING IT'S MAX OBLITTERATION RATE
+Wed Oct 31 16:58:52 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 16:58:58 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 16:59:00 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 16:59:03 2018	Valien (STEAM_0:1:41660292): !goto bobb
+Wed Oct 31 16:59:38 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 17:01:20 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 17:01:44 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 17:01:45 2018	Flap Flap (STEAM_0:1:419151052): /advert I finished the tracks, specimen of Project B.E.A.M
+Wed Oct 31 17:06:55 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 17:07:35 2018	Valien (STEAM_0:1:41660292) spawned NPC npc_citizen
+Wed Oct 31 17:18:16 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 17:20:12 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 17:20:13 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Wed Oct 31 17:20:36 2018	Valien (STEAM_0:1:41660292) spawned SENT gmt_instrument_piano
+Wed Oct 31 17:24:08 2018	Valien (STEAM_0:1:41660292) spawned SENT gmt_instrument_piano
+Wed Oct 31 17:24:51 2018	Valien (STEAM_0:1:41660292) spawned SENT gmt_instrument_piano
+Wed Oct 31 17:27:08 2018	Valien (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Wed Oct 31 17:29:06 2018	Valien (STEAM_0:1:41660292) disconnected
+Wed Oct 31 18:00:53 2018	RonPD (STEAM_0:1:197136708) has joined the game
+Wed Oct 31 18:00:53 2018	Ron PD (STEAM_0:1:197136708) spawned
+Wed Oct 31 18:02:28 2018	Ron PD (STEAM_0:1:197136708) spawned
+Wed Oct 31 18:03:13 2018	Ron PD (STEAM_0:1:197136708) spawned
+Wed Oct 31 18:04:50 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // you cant blow up the map unless there are at least 8 people on
+Wed Oct 31 18:05:51 2018	Ron PD (STEAM_0:1:197136708): /ooc mhm i didnt realize 2 people means Anytpye of role play i had talk to Fat Gay as well
+Wed Oct 31 18:06:09 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // dont fucking blow up the map
+Wed Oct 31 18:06:11 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // ffs
+Wed Oct 31 18:06:16 2018	Ron PD (STEAM_0:1:197136708): fine
+Wed Oct 31 18:08:35 2018	Ron PD was killed by Colonel Bobby Sawyer with a cw_m3super90
+Wed Oct 31 18:08:45 2018	Ron PD (STEAM_0:1:197136708) spawned
+Wed Oct 31 18:10:06 2018	Ron PD was killed by Colonel Bobby Sawyer with a cw_g36c
+Wed Oct 31 18:10:12 2018	Ron PD (STEAM_0:1:197136708) spawned
+Wed Oct 31 18:12:25 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): 
+Wed Oct 31 18:16:31 2018	Ron PD (STEAM_0:1:197136708) disconnected
+Wed Oct 31 19:04:48 2018	Malotroth (STEAM_0:0:90780827) has joined the game
+Wed Oct 31 19:04:48 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 19:05:32 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 31 19:05:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 19:06:23 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // Colt join discord
+Wed Oct 31 19:09:56 2018	Colt Masterson (STEAM_0:0:90780827): // didnt they say they removed the whitelist
+Wed Oct 31 19:10:07 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): // get in discord
+Wed Oct 31 19:11:20 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 19:13:01 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Wed Oct 31 19:13:01 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 19:14:50 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 19:14:54 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 19:17:26 2018	Colt Masterson (STEAM_0:0:90780827): /job Genome Soldier
+Wed Oct 31 19:17:49 2018	Bob Burbanks (STEAM_0:0:20004733): Hi
+Wed Oct 31 19:17:53 2018	Johnny K Bronk (STEAM_0:1:167614500): hello
+Wed Oct 31 19:17:56 2018	Johnny K Bronk (STEAM_0:1:167614500): good doctor
+Wed Oct 31 19:22:47 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Wed Oct 31 19:22:47 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Wed Oct 31 19:23:16 2018	Johnny K Bronk (STEAM_0:1:167614500): /job O5-5
+Wed Oct 31 19:23:33 2018	Bob Burbanks (STEAM_0:0:20004733): // People can open it from the outside
+Wed Oct 31 19:24:53 2018	Colonel Bobby Sawyer (STEAM_0:1:107242126): /name A1 Colonel Bobby Sawyer
+Wed Oct 31 19:25:34 2018	A1 Colonel Bobby Sawyer (STEAM_0:1:107242126): /job Alpha 1 Operative
+Wed Oct 31 19:30:07 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed Oct 31 19:30:07 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 19:31:11 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 19:32:54 2018	Valien (STEAM_0:1:41660292): // Bobby the things at the core are technically a prop block
+Wed Oct 31 19:33:07 2018	Colt Masterson (STEAM_0:0:90780827): // we're in discord
+Wed Oct 31 19:33:08 2018	Bob Burbanks (STEAM_0:0:20004733): // Core?
+Wed Oct 31 19:33:34 2018	Bob Burbanks (STEAM_0:0:20004733): // I only got props in the lab
+Wed Oct 31 19:33:40 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 31 19:33:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 31 19:33:45 2018	Valien (STEAM_0:1:41660292): // bobby sawyer
+Wed Oct 31 19:34:22 2018	Johnny K Bronk (STEAM_0:1:167614500): /job O5-2
+Wed Oct 31 19:35:30 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 19:37:34 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 31 19:38:35 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 19:40:22 2018	Johnny K Bronk was killed by A1 Colonel Bobby Sawyer with a cw_m3super90
+Wed Oct 31 19:40:25 2018	Colt Masterson (STEAM_0:0:90780827): /job Texas Red
+Wed Oct 31 19:40:28 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 19:40:57 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 19:41:33 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 19:41:46 2018	Colt Masterson was killed by Bob Burbanks with a cw_deagle
+Wed Oct 31 19:41:51 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 19:43:23 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 19:43:23 2018	Bob Burbanks was killed by Colt Masterson with a cw_mr96
+Wed Oct 31 19:43:35 2018	Johnny K Bronk (STEAM_0:1:167614500): /job E-11 Unit
+Wed Oct 31 19:43:38 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 19:44:18 2018	Flap Flap (STEAM_0:1:419151052): /ooc What do you do.
+Wed Oct 31 19:44:26 2018	Valien (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Wed Oct 31 19:44:55 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Wed Oct 31 19:48:32 2018	Johnny K Bronk (STEAM_0:1:167614500): /advert (All-Site) Ntf has entered the Site, all remaining surviors please exit the site
+Wed Oct 31 19:49:45 2018	Valien (STEAM_0:1:41660292): /temp 1200
+Wed Oct 31 19:49:54 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 19:50:19 2018	Johnny K Bronk (STEAM_0:1:167614500): (All-Site) Ntf has entered the Site, all remaining surviors please exit the site
+Wed Oct 31 19:50:30 2018	Johnny K Bronk (STEAM_0:1:167614500): /advert (All-Site) Ntf has entered the Site, all remaining surviors please exit the site
+Wed Oct 31 19:51:14 2018	Enviro (STEAM_0:0:80115103): /advert REQUESTING ASSISTANCE AT CORE, OSAMA IS HERE
+Wed Oct 31 19:52:20 2018	Valien was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Wed Oct 31 19:52:22 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 19:54:40 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 19:54:46 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 19:55:10 2018	Enviro (STEAM_0:0:80115103) disconnected
+Wed Oct 31 19:56:19 2018	Johnny K Bronk was killed by Colt Masterson with a cw_mr96
+Wed Oct 31 19:56:20 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 19:57:11 2018	Valien (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Wed Oct 31 19:57:33 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 19:58:23 2018	Colt Masterson was killed by A1 Colonel Bobby Sawyer with a cw_m3super90
+Wed Oct 31 19:58:26 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 19:58:29 2018	Bob Burbanks (STEAM_0:0:20004733) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 20:00:47 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:00:59 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 20:01:04 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:03:34 2018	Colt Masterson was killed by A1 Colonel Bobby Sawyer with a cw_g36c
+Wed Oct 31 20:03:43 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:05:22 2018	Colt Masterson was killed by A1 Colonel Bobby Sawyer with a cw_g36c
+Wed Oct 31 20:05:26 2018	Valien was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 31 20:05:27 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:05:28 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 20:06:08 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 20:06:11 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 20:06:16 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 20:06:17 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 20:06:17 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:06:19 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 20:06:40 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:06:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 20:06:52 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 20:06:55 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 20:07:15 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 20:07:57 2018	Colt Masterson (STEAM_0:0:90780827): // god bless iraq
+Wed Oct 31 20:08:12 2018	Valien (STEAM_0:1:41660292): // ^
+Wed Oct 31 20:08:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 20:08:45 2018	'[kek]Lucy (STEAM_0:1:148876808) has joined the game
+Wed Oct 31 20:08:45 2018	'[kek]Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:08:56 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Epic Game
+Wed Oct 31 20:09:06 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Epic Gamer
+Wed Oct 31 20:09:16 2018	Valien (STEAM_0:1:41660292): /job Okay, this is epic!
+Wed Oct 31 20:09:33 2018	Valien (STEAM_0:1:41660292): /job Gay admin
+Wed Oct 31 20:09:34 2018	'[kek]Lucy was killed by Johnny K Bronk with a cw_ak74
+Wed Oct 31 20:09:35 2018	'[kek]Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:09:47 2018	'[kek]Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:09:47 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:09:50 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:10:13 2018	Colt Masterson was killed by A1 Colonel Bobby Sawyer with a cw_m1911
+Wed Oct 31 20:10:22 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:11:05 2018	'[kek]Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:15:01 2018	Bob Burbanks (STEAM_0:0:20004733) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 20:16:22 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:16:26 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:16:46 2018	A1 Colonel Bobby Sawyer was killed by '[kek]Lucy with a cw_l85a2
+Wed Oct 31 20:16:47 2018	A1 Colonel Bobby Sawyer (STEAM_0:1:107242126) spawned
+Wed Oct 31 20:17:55 2018	Johnny K Bronk (STEAM_0:1:167614500): jezz
+Wed Oct 31 20:17:58 2018	Johnny K Bronk (STEAM_0:1:167614500): wtf
+Wed Oct 31 20:18:04 2018	Johnny K Bronk (STEAM_0:1:167614500): is wrong with bob
+Wed Oct 31 20:18:09 2018	Valien (STEAM_0:1:41660292): !kick
+Wed Oct 31 20:18:34 2018	Valien (STEAM_0:1:41660292): !kick bobby
+Wed Oct 31 20:18:34 2018	A1 Colonel Bobby Sawyer (STEAM_0:1:107242126) disconnected
+Wed Oct 31 20:19:46 2018	Valien (STEAM_0:1:41660292): !ban
+Wed Oct 31 20:19:51 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:23:08 2018	[Opi] Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Wed Oct 31 20:23:09 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:24:10 2018	'[kek]Lucy (STEAM_0:1:148876808): /name Blazing Hot
+Wed Oct 31 20:24:19 2018	Blazing Hot (STEAM_0:1:148876808): /name Lucy
+Wed Oct 31 20:24:26 2018	Lucy (STEAM_0:1:148876808): /job Blazing Hot
+Wed Oct 31 20:24:32 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:24:44 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:25:26 2018	Apostrophe (STEAM_0:1:448155602): // hello
+Wed Oct 31 20:25:30 2018	Lucy (STEAM_0:1:148876808): // Hi
+Wed Oct 31 20:25:47 2018	Apostrophe (STEAM_0:1:448155602): // I finally have my good wifi back xd
+Wed Oct 31 20:26:30 2018	MoistNeXus_ (STEAM_0:1:62842914) has joined the game
+Wed Oct 31 20:26:30 2018	Chinese Worker At Apple (STEAM_0:1:62842914) spawned
+Wed Oct 31 20:26:40 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 20:27:10 2018	Bob Burbanks was killed by Colt Masterson with a cw_scarh
+Wed Oct 31 20:27:17 2018	Chinese Worker At Apple (STEAM_0:1:62842914): /name Terry Moist
+Wed Oct 31 20:27:40 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 20:27:41 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:28:14 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 20:28:32 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 20:28:35 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 20:28:41 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 20:28:44 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 20:29:43 2018	Bob Burbanks (STEAM_0:0:20004733): // How do i open the emergency coolant keypad?
+Wed Oct 31 20:29:54 2018	Colt Masterson (STEAM_0:0:90780827): // its already used
+Wed Oct 31 20:30:01 2018	Bob Burbanks (STEAM_0:0:20004733): // Ded
+Wed Oct 31 20:30:02 2018	Nice Friendly Max (STEAM_0:0:169248915) has joined the game
+Wed Oct 31 20:30:02 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:30:03 2018	Terry Moist was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:30:05 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 31 20:30:08 2018	Colt Masterson (STEAM_0:0:90780827): // i used it
+Wed Oct 31 20:31:33 2018	Chinese Worker at Apple (STEAM_0:0:169248915): /me Salutes with great honour
+Wed Oct 31 20:32:09 2018	Chinese Worker at Apple was killed by Johnny K Bronk with a cw_ak74
+Wed Oct 31 20:32:11 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:32:46 2018	Bob Burbanks was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:32:47 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:32:48 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 20:33:30 2018	Apostrophe was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 20:33:30 2018	Bob Burbanks was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 20:33:31 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 20:33:31 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:33:36 2018	Bob Burbanks was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 20:34:01 2018	Valien (STEAM_0:1:41660292): !warn 
+Wed Oct 31 20:34:07 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Apostrophe was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Bob Burbanks was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Lucy was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Chinese Worker at Apple was killed by Himself with a suicide trick
+Wed Oct 31 20:34:07 2018	Terry Moist was killed by Himself with a suicide trick
+Wed Oct 31 20:34:09 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:34:10 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 20:34:10 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 31 20:34:10 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:34:11 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 20:34:11 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:34:11 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:34:12 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 20:34:16 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:34:45 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:34:46 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Epic Gamer
+Wed Oct 31 20:34:46 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:34:54 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 20:34:54 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:34:58 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 31 20:34:59 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:35:04 2018	Colt Masterson was killed by Chinese Worker at Apple with a cw_ump45
+Wed Oct 31 20:35:11 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:35:20 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:35:21 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:36:22 2018	Valien (STEAM_0:1:41660292): !warn 
+Wed Oct 31 20:36:23 2018	Lucy was killed by Himself with a suicide trick
+Wed Oct 31 20:36:24 2018	Chinese Worker at Apple was killed by Lucy with a fas2_thrown_m67
+Wed Oct 31 20:36:27 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:36:27 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 20:36:29 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:37:22 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:37:24 2018	Apostrophe (STEAM_0:1:448155602): /name Snake
+Wed Oct 31 20:37:33 2018	Apostrophe (STEAM_0:1:448155602): /name Naked Snake
+Wed Oct 31 20:37:52 2018	Bob Burbanks (STEAM_0:0:20004733): // What a thrill~
+Wed Oct 31 20:38:13 2018	Naked Snake (STEAM_0:1:448155602): // im searching and im melting to youuuu
+Wed Oct 31 20:38:24 2018	Naked Snake (STEAM_0:1:448155602): // what a fear in my heartttt
+Wed Oct 31 20:38:28 2018	Terry Moist was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:38:29 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 31 20:38:45 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:38:47 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Wed Oct 31 20:38:47 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Wed Oct 31 20:38:55 2018	Bob Burbanks (STEAM_0:0:20004733): There's no scp go away
+Wed Oct 31 20:38:58 2018	Colt Masterson was killed by Chinese Worker at Apple with a cw_ump45
+Wed Oct 31 20:39:00 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 20:39:10 2018	Chinese Worker at Apple was killed by Lucy with a cw_g36c
+Wed Oct 31 20:39:12 2018	Chinese Worker at Apple (STEAM_0:0:169248915) spawned
+Wed Oct 31 20:39:31 2018	DixBFloppin (STEAM_0:1:86800123): // oof
+Wed Oct 31 20:40:07 2018	Valien (STEAM_0:1:41660292): !motd
+Wed Oct 31 20:40:18 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:41:21 2018	Chinese Worker at Apple (STEAM_0:0:169248915): // now thats just false
+Wed Oct 31 20:41:28 2018	Chinese Worker at Apple (STEAM_0:0:169248915): // bc already got warned
+Wed Oct 31 20:41:31 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:41:37 2018	Colt Masterson (STEAM_0:0:90780827): // actually no
+Wed Oct 31 20:41:50 2018	Chinese Worker at Apple (STEAM_0:0:169248915): // actually im monkey
+Wed Oct 31 20:42:14 2018	Valien (STEAM_0:1:41660292): !motd
+Wed Oct 31 20:42:21 2018	[Opi] owo (STEAM_0:1:35610035) has joined the game
+Wed Oct 31 20:42:21 2018	owo (STEAM_0:1:35610035) spawned
+Wed Oct 31 20:42:22 2018	Colt Masterson was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 31 20:42:25 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:43:05 2018	owo (STEAM_0:1:35610035): // valien
+Wed Oct 31 20:43:08 2018	owo (STEAM_0:1:35610035): // are you alive
+Wed Oct 31 20:43:09 2018	Valien (STEAM_0:1:41660292): // wasup
+Wed Oct 31 20:43:12 2018	owo (STEAM_0:1:35610035): // good
+Wed Oct 31 20:43:17 2018	owo (STEAM_0:1:35610035): // pelase hold on a minute
+Wed Oct 31 20:43:36 2018	Naked Snake was killed by Terry Moist with a cw_shorty
+Wed Oct 31 20:43:39 2018	Naked Snake (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:43:59 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:44:10 2018	Naked Snake (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:44:12 2018	owo (STEAM_0:1:35610035): // ugh hold on
+Wed Oct 31 20:44:20 2018	Valien (STEAM_0:1:41660292): // Visitors can't RDM it's the second rule
+Wed Oct 31 20:44:22 2018	Terry Moist was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:44:23 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 31 20:44:53 2018	Bob Burbanks (STEAM_0:0:20004733) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 20:44:53 2018	Naked Snake (STEAM_0:1:448155602): /name
+Wed Oct 31 20:44:54 2018	Bob Burbanks (STEAM_0:0:20004733) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 20:44:58 2018	Naked Snake (STEAM_0:1:448155602): /name Apostrophe
+Wed Oct 31 20:45:32 2018	Valien (STEAM_0:1:41660292): // Don't micspam max
+Wed Oct 31 20:46:13 2018	owo (STEAM_0:1:35610035): // ree
+Wed Oct 31 20:46:18 2018	owo (STEAM_0:1:35610035): // website is down
+Wed Oct 31 20:46:20 2018	Lucy (STEAM_0:1:148876808): /anted apostrophe
+Wed Oct 31 20:46:29 2018	Lucy (STEAM_0:1:148876808): /wanted aposthrophe
+Wed Oct 31 20:46:56 2018	Lucy (STEAM_0:1:148876808): /wanted apos in security room
+Wed Oct 31 20:46:56 2018	Lucy has made Apostrophe wanted, reason: in security room
+Wed Oct 31 20:47:05 2018	Apostrophe is no longer wanted by the Police. Revoked by: Lucy
+Wed Oct 31 20:47:05 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:47:05 2018	Lucy (STEAM_0:1:148876808) arrested Apostrophe
+Wed Oct 31 20:47:48 2018	DixBFloppin (STEAM_0:1:86800123) has dropped $600,000
+Wed Oct 31 20:48:03 2018	DixBFloppin was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:48:05 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Wed Oct 31 20:48:07 2018	DixBFloppin (STEAM_0:1:86800123): !goto max
+Wed Oct 31 20:48:09 2018	owo (STEAM_0:1:35610035): // happy halloween folks
+Wed Oct 31 20:48:15 2018	Apostrophe was killed by Lucy with a cw_g36c
+Wed Oct 31 20:48:15 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc nibba
+Wed Oct 31 20:48:17 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:48:24 2018	DixBFloppin (STEAM_0:1:86800123): !goto chin
+Wed Oct 31 20:48:27 2018	owo (STEAM_0:1:35610035): // epic gamer
+Wed Oct 31 20:49:12 2018	owo (STEAM_0:1:35610035): /job Epic Gamer
+Wed Oct 31 20:49:24 2018	Bob Burbanks (STEAM_0:0:20004733): /advert Need someone for assistance in the Laboratory
+Wed Oct 31 20:50:29 2018	owo (STEAM_0:1:35610035): // have you heard of lgbtq+ im the G and im and im a gamer
+Wed Oct 31 20:50:31 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 31 20:50:31 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 31 20:50:39 2018	DixBFloppin (STEAM_0:1:86800123): // All I want is a big titty goth bitch
+Wed Oct 31 20:50:39 2018	Valien (STEAM_0:1:41660292): !bring johnny
+Wed Oct 31 20:50:44 2018	Chinese Worker at Apple was killed by Johnny K Bronk with a cw_ak74
+Wed Oct 31 20:50:46 2018	Chinese Worker at Apple (STEAM_0:0:169248915) disconnected
+Wed Oct 31 20:51:05 2018	owo (STEAM_0:1:35610035): // can we fix youtube
+Wed Oct 31 20:51:05 2018	DixBFloppin was killed by Terry Moist with a cw_ump45
+Wed Oct 31 20:51:11 2018	DixBFloppin (STEAM_0:1:86800123): // you killed me
+Wed Oct 31 20:51:11 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 20:51:18 2018	Johnny K Bronk was killed by Terry Moist with a cw_ump45
+Wed Oct 31 20:51:22 2018	Valien (STEAM_0:1:41660292): // I allowed him to rdm max chill
+Wed Oct 31 20:51:28 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Wed Oct 31 20:51:28 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Wed Oct 31 20:51:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 20:51:38 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Wed Oct 31 20:52:07 2018	owo (STEAM_0:1:35610035): this isnt an epic gamer moment
+Wed Oct 31 20:52:21 2018	Apostrophe (STEAM_0:1:448155602): /name Chief
+Wed Oct 31 20:52:26 2018	owo (STEAM_0:1:35610035): epicly battle royaled
+Wed Oct 31 20:52:58 2018	Chief was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:52:59 2018	Chief (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:53:00 2018	DixBFloppin (STEAM_0:1:86800123) disconnected
+Wed Oct 31 20:53:00 2018	Terry Moist (STEAM_0:1:62842914): /ooc you know you guys just banned like a quarter of your playerbase
+Wed Oct 31 20:53:09 2018	Valien (STEAM_0:1:41660292): !donate
+Wed Oct 31 20:53:20 2018	Lucy (STEAM_0:1:148876808): /come out
+Wed Oct 31 20:53:21 2018	Chief (STEAM_0:1:448155602): // this is so sad
+Wed Oct 31 20:53:28 2018	Valien (STEAM_0:1:41660292): !vip
+Wed Oct 31 20:53:36 2018	Valien (STEAM_0:1:41660292): !donate
+Wed Oct 31 20:54:14 2018	Enviro (STEAM_0:0:80115103) disconnected
+Wed Oct 31 20:54:39 2018	Coat (STEAM_0:1:32582326) has joined the game
+Wed Oct 31 20:54:39 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 20:55:22 2018	owo (STEAM_0:1:35610035): /invholster
+Wed Oct 31 20:55:26 2018	Terry Moist (STEAM_0:1:62842914) disconnected
+Wed Oct 31 20:55:42 2018	Chief was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 20:55:43 2018	Chief (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:55:46 2018	Security Chief Coat (STEAM_0:1:32582326) disconnected
+Wed Oct 31 20:56:06 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Wed Oct 31 20:56:13 2018	Chief (STEAM_0:1:448155602) spawned
+Wed Oct 31 20:56:30 2018	Bob Burbanks (STEAM_0:0:20004733): /advert Anyone wants to give a lil helperino in the laboratory?
+Wed Oct 31 20:56:37 2018	Colt Masterson (STEAM_0:0:90780827): /job Genome Soldier
+Wed Oct 31 20:56:47 2018	Chief (STEAM_0:1:448155602): 
+Wed Oct 31 20:57:08 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 20:58:09 2018	Valien (STEAM_0:1:41660292): !motd
+Wed Oct 31 20:58:45 2018	Coat (STEAM_0:1:32582326) has joined the game
+Wed Oct 31 20:58:45 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 20:59:22 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 20:59:39 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Birb Gamer
+Wed Oct 31 20:59:50 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 31 20:59:50 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 31 21:00:04 2018	Security Chief Coat (STEAM_0:1:32582326): /name AFK Coat
+Wed Oct 31 21:00:08 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc LEMME OUT
+Wed Oct 31 21:00:13 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 21:00:22 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc BIRB GAMERS ARE GAMERS TOO!!
+Wed Oct 31 21:00:25 2018	Lucy (STEAM_0:1:148876808): @ admin tp
+Wed Oct 31 21:00:35 2018	Chief (STEAM_0:1:448155602) spawned
+Wed Oct 31 21:00:50 2018	Enviro (STEAM_0:0:80115103) disconnected
+Wed Oct 31 21:01:01 2018	Lucy (STEAM_0:1:148876808): @ SOMEONE TP!
+Wed Oct 31 21:01:05 2018	Lucy (STEAM_0:1:148876808): @ VAI
+Wed Oct 31 21:01:31 2018	Lucy (STEAM_0:1:148876808): @ Need a admin to tp
+Wed Oct 31 21:01:32 2018	Chief (STEAM_0:1:448155602) spawned
+Wed Oct 31 21:01:38 2018	Lucy (STEAM_0:1:148876808): // someone tpd
+Wed Oct 31 21:02:01 2018	Lucy (STEAM_0:1:148876808): // someone tp
+Wed Oct 31 21:02:48 2018	Colt Masterson (STEAM_0:0:90780827): 
+Wed Oct 31 21:03:02 2018	Chief was killed by Lucy with a fas2_thrown_m67
+Wed Oct 31 21:03:05 2018	Chief (STEAM_0:1:448155602) spawned
+Wed Oct 31 21:03:08 2018	Bob Burbanks (STEAM_0:0:20004733): /advert Can I get some security in the lab? The bird just escaped and one of the door is stuck open
+Wed Oct 31 21:03:15 2018	Lucy was killed by Johnny K Bronk with a eoti_raven_swep
+Wed Oct 31 21:03:22 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 21:03:32 2018	Papa Plankuh (STEAM_0:0:47204272) has joined the game
+Wed Oct 31 21:03:32 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:03:43 2018	Big Poppa (STEAM_0:1:87428101) has joined the game
+Wed Oct 31 21:03:43 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:03:58 2018	Chief (STEAM_0:1:448155602) disconnected
+Wed Oct 31 21:04:10 2018	Colt Masterson (STEAM_0:0:90780827): /job Plant Worker
+Wed Oct 31 21:04:40 2018	Big Poppa (STEAM_0:1:87428101): // can i say the n word :)
+Wed Oct 31 21:04:49 2018	Valien (STEAM_0:1:41660292): // venmo me first
+Wed Oct 31 21:05:02 2018	Big Poppa (STEAM_0:1:87428101): // how abt paypal
+Wed Oct 31 21:05:09 2018	Valien (STEAM_0:1:41660292): // thatll work
+Wed Oct 31 21:05:19 2018	Big Poppa (STEAM_0:1:87428101): Wat ur paypal
+Wed Oct 31 21:05:23 2018	Big Poppa (STEAM_0:1:87428101): // paypal?
+Wed Oct 31 21:05:28 2018	Valien (STEAM_0:1:41660292): // ye
+Wed Oct 31 21:05:35 2018	Valien (STEAM_0:1:41660292): !donate
+Wed Oct 31 21:05:36 2018	Big Poppa (STEAM_0:1:87428101): // what is it...
+Wed Oct 31 21:05:54 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:06:16 2018	AFK Coat (STEAM_0:1:32582326): /name Security Chief Coat
+Wed Oct 31 21:06:19 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 21:06:21 2018	Bob Burbanks (STEAM_0:0:20004733): /y Burb
+Wed Oct 31 21:06:24 2018	Security Chief Coat (STEAM_0:1:32582326): /JOB Security Chief
+Wed Oct 31 21:06:29 2018	Bob Burbanks was killed by Johnny K Bronk with a eoti_raven_swep
+Wed Oct 31 21:06:29 2018	Bob Burbanks (STEAM_0:0:20004733): That's not very kind
+Wed Oct 31 21:06:32 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 21:06:33 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 21:06:50 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc the pizza is a lie
+Wed Oct 31 21:06:52 2018	Big Poppa (STEAM_0:1:87428101): // how the fuck do i play this game
+Wed Oct 31 21:06:53 2018	Bob Burbanks (STEAM_0:0:20004733): /911 Bitch get over here
+Wed Oct 31 21:07:02 2018	Big Poppa (STEAM_0:1:87428101): // im trapped inna room
+Wed Oct 31 21:07:17 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc You should switch to a job that isnt SWAT, CBRN Or Terrorist
+Wed Oct 31 21:07:27 2018	Big Poppa (STEAM_0:1:87428101): // if u suck my cock
+Wed Oct 31 21:07:30 2018	Big Poppa (STEAM_0:1:87428101): // bitch
+Wed Oct 31 21:07:37 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Then have fun in the lobby.
+Wed Oct 31 21:07:40 2018	Mr Skidadable was killed by Big Poppa with a cw_g36c
+Wed Oct 31 21:07:53 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:07:55 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 21:07:59 2018	Big Poppa (STEAM_0:1:87428101): // cant argue with that
+Wed Oct 31 21:08:09 2018	Valien (STEAM_0:1:41660292): // Activity idea: legally say the n word together
+Wed Oct 31 21:08:26 2018	Security Chief Coat (STEAM_0:1:32582326): what the fuck do you want
+Wed Oct 31 21:08:31 2018	Big Poppa (STEAM_0:1:87428101): sexual relations
+Wed Oct 31 21:08:35 2018	Security Chief Coat (STEAM_0:1:32582326): Fuck Off 
+Wed Oct 31 21:08:41 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:09:00 2018	Big Poppa (STEAM_0:1:87428101): fuck me with this
+Wed Oct 31 21:09:06 2018	Security Chief Coat (STEAM_0:1:32582326): fuck off.
+Wed Oct 31 21:09:09 2018	Big Poppa (STEAM_0:1:87428101): no
+Wed Oct 31 21:09:17 2018	Mr Skidadable (STEAM_0:0:47204272): // Big Poppa, tell me: WHY were i killed by you while i was afk in the Parking?
+Wed Oct 31 21:09:20 2018	Big Poppa was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:09:25 2018	Big Poppa (STEAM_0:1:87428101): // because i rdmed you
+Wed Oct 31 21:09:25 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:09:25 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Yeah i watched that
+Wed Oct 31 21:09:29 2018	Colt Masterson (STEAM_0:0:90780827): // probably a hit
+Wed Oct 31 21:09:32 2018	Big Poppa (STEAM_0:1:87428101): // if you complain you're a pussy
+Wed Oct 31 21:09:39 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc No he did it as SWAT Leader
+Wed Oct 31 21:09:47 2018	Valien (STEAM_0:1:41660292): !goto big poppa
+Wed Oct 31 21:09:48 2018	Big Poppa (STEAM_0:1:87428101): literally just said i rdmed him
+Wed Oct 31 21:09:53 2018	Mr Skidadable (STEAM_0:0:47204272): // Poppa, youre in trouble
+Wed Oct 31 21:09:57 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 21:09:58 2018	Mr Skidadable (STEAM_0:0:47204272): // Big Poppa killed Mr Skidadable using cw_g36c IN CONSOLE
+Wed Oct 31 21:09:58 2018	Big Poppa (STEAM_0:1:87428101): // no u
+Wed Oct 31 21:10:09 2018	Valien (STEAM_0:1:41660292): // Hits will be anounced when they're completed
+Wed Oct 31 21:10:19 2018	Big Poppa (STEAM_0:1:87428101): // skid why u coming wit logs and shit i have already said i rdmed u
+Wed Oct 31 21:10:28 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:10:37 2018	Mr Skidadable (STEAM_0:0:47204272): // No Hits were seen there Valien btw
+Wed Oct 31 21:10:44 2018	Valien (STEAM_0:1:41660292): // I noticed
+Wed Oct 31 21:10:53 2018	Mr Skidadable (STEAM_0:0:47204272): // hmm
+Wed Oct 31 21:10:53 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Also as a Heads Up Poppa, you cant leave your spawn
+Wed Oct 31 21:10:59 2018	Big Poppa (STEAM_0:1:87428101): // :(
+Wed Oct 31 21:11:02 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:11:03 2018	Security Chief Coat (STEAM_0:1:32582326): Tiny Super Admin
+Wed Oct 31 21:11:06 2018	Valien (STEAM_0:1:41660292): Ues
+Wed Oct 31 21:11:35 2018	Valien (STEAM_0:1:41660292): !goto colt
+Wed Oct 31 21:11:48 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:12:20 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 21:12:30 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 21:12:54 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 21:14:11 2018	Johnny K Bronk was killed by Mr Skidadable with a cw_shorty
+Wed Oct 31 21:14:16 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 21:14:21 2018	Security Chief Coat (STEAM_0:1:32582326): No your not getting a raise
+Wed Oct 31 21:14:29 2018	Security Chief Coat (STEAM_0:1:32582326): wAIT WHAT
+Wed Oct 31 21:14:32 2018	Security Chief Coat (STEAM_0:1:32582326): THE CORE IS AT WARNING
+Wed Oct 31 21:14:37 2018	Security Chief Coat (STEAM_0:1:32582326): SHIEEEEEEEEEEEE
+Wed Oct 31 21:15:02 2018	Security Chief Coat (STEAM_0:1:32582326): /OOC Why is the core at Warning Status?
+Wed Oct 31 21:15:06 2018	Big Poppa (STEAM_0:1:87428101): // no reason
+Wed Oct 31 21:15:08 2018	Valien (STEAM_0:1:41660292): // Cuz terrorists
+Wed Oct 31 21:15:11 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc ah fuck
+Wed Oct 31 21:15:15 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Welp
+Wed Oct 31 21:15:21 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Time to bust heads
+Wed Oct 31 21:15:34 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc I dont need to Call for SWAT just yet
+Wed Oct 31 21:15:54 2018	Colt Masterson (STEAM_0:0:90780827): /request
+Wed Oct 31 21:15:58 2018	Colt Masterson (STEAM_0:0:90780827): 
+Wed Oct 31 21:16:03 2018	Security Chief Coat (STEAM_0:1:32582326): /advert All Fucking Security to the Core right fucking NOW
+Wed Oct 31 21:16:10 2018	Mr Skidadable (STEAM_0:0:47204272): /advert On it
+Wed Oct 31 21:16:21 2018	Bob Burbanks (STEAM_0:0:20004733): @ Someone died while opening cell 2 and now the door to the gate controls is stuck
+Wed Oct 31 21:16:21 2018	Security Chief Coat (STEAM_0:1:32582326): /ADVERT Pack your best guns too
+Wed Oct 31 21:16:28 2018	Big Poppa (STEAM_0:1:87428101): // do it pus
+Wed Oct 31 21:16:28 2018	Security Chief Coat (STEAM_0:1:32582326): /advert I want these fuckers DEAD
+Wed Oct 31 21:16:59 2018	Bob Burbanks (STEAM_0:0:20004733): I can't open it
+Wed Oct 31 21:17:19 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 21:17:21 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:17:36 2018	Security Chief Coat (STEAM_0:1:32582326): /ADVERT WE CANT FUCKING HEAR YOU
+Wed Oct 31 21:18:37 2018	Security Chief Coat was killed by Big Poppa with a cw_l85a2
+Wed Oct 31 21:18:39 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 21:18:54 2018	Security Chief Coat (STEAM_0:1:32582326): /OOC Do i just advert for SWAT
+Wed Oct 31 21:19:06 2018	Valien (STEAM_0:1:41660292): // You don't have to but yeah
+Wed Oct 31 21:19:26 2018	Lucy was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 21:19:27 2018	Big Poppa was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 21:19:27 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 21:19:30 2018	Security Chief Coat (STEAM_0:1:32582326): /ADVERT I request SWAT Support at once to the Plant's Core, Osama Bin Laden and a Grunt have been confirmed to be there.
+Wed Oct 31 21:19:47 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:20:18 2018	Security Chief Coat (STEAM_0:1:32582326): /advert Or let the Bastards blow up with the core.
+Wed Oct 31 21:21:49 2018	Johnny K Bronk was killed by Mr Skidadable with a cw_shorty
+Wed Oct 31 21:22:00 2018	Big Poppa was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:00 2018	Lucy was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:02 2018	Security Chief Coat (STEAM_0:1:32582326): yeah i guess
+Wed Oct 31 21:22:02 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 21:22:04 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:22:05 2018	Security Chief Coat (STEAM_0:1:32582326): /dropmoney 5
+Wed Oct 31 21:22:05 2018	Security Chief Coat (STEAM_0:1:32582326) has dropped $5
+Wed Oct 31 21:22:08 2018	Security Chief Coat (STEAM_0:1:32582326): thats your raise
+Wed Oct 31 21:22:16 2018	Security Chief Coat (STEAM_0:1:32582326): And were the only survivors
+Wed Oct 31 21:22:17 2018	Bob Burbanks (STEAM_0:0:20004733): /advert I'm in space :D
+Wed Oct 31 21:22:19 2018	Security Chief Coat (STEAM_0:1:32582326): wonderful
+Wed Oct 31 21:22:25 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 21:22:25 2018	owo was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:25 2018	Colt Masterson was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:28 2018	Security Chief Coat (STEAM_0:1:32582326): yeah we're the only survivors
+Wed Oct 31 21:22:28 2018	Valien was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:30 2018	Johnny K Bronk was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:30 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 21:22:31 2018	Big Poppa (STEAM_0:1:87428101): // The space in between my buttcheeks u fag
+Wed Oct 31 21:22:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 21:22:36 2018	Valien was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:37 2018	Johnny K Bronk was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 21:22:37 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Bob Burbanks was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Lucy was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Security Chief Coat was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Mr Skidadable was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	owo was killed by Himself with a suicide trick
+Wed Oct 31 21:22:37 2018	Big Poppa was killed by Himself with a suicide trick
+Wed Oct 31 21:22:40 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:22:41 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 21:22:41 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 21:22:41 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:22:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 21:22:43 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 21:22:46 2018	Bob Burbanks (STEAM_0:0:20004733): // Oh yeah gimme the sugar baby
+Wed Oct 31 21:22:47 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 21:22:54 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 21:22:54 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 21:22:56 2018	Lucy (STEAM_0:1:148876808) disconnected
+Wed Oct 31 21:22:57 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 21:22:57 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 31 21:23:09 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Why the hell is the ground still shaking for me
+Wed Oct 31 21:23:09 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 21:23:17 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc no wait it calmed down
+Wed Oct 31 21:23:23 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:23:43 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Wed Oct 31 21:24:15 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Now he is the Bird Thing Man
+Wed Oct 31 21:24:28 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc I still cant hear Intercom People
+Wed Oct 31 21:24:28 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Fat nibba gamer
+Wed Oct 31 21:24:36 2018	Valien (STEAM_0:1:41660292): // good
+Wed Oct 31 21:24:37 2018	Bob Burbanks (STEAM_0:0:20004733): No
+Wed Oct 31 21:24:41 2018	Colt Masterson (STEAM_0:0:90780827): // thats normal
+Wed Oct 31 21:24:41 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc whats he sayin
+Wed Oct 31 21:24:47 2018	Big Poppa (STEAM_0:1:87428101): // picture me just yelling racial obcenities
+Wed Oct 31 21:24:52 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc ah
+Wed Oct 31 21:24:58 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc your a good director
+Wed Oct 31 21:25:17 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc P I Z Z A    D  A   Y
+Wed Oct 31 21:25:28 2018	Security Chief Coat (STEAM_0:1:32582326): /JOB Security Chief
+Wed Oct 31 21:25:29 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 21:25:32 2018	Big Poppa (STEAM_0:1:87428101): // everydaypiizaday
+Wed Oct 31 21:25:36 2018	Security Chief Coat (STEAM_0:1:32582326): /job Security Chief
+Wed Oct 31 21:25:40 2018	Mr Skidadable (STEAM_0:0:47204272): // Its every day bruh
+Wed Oct 31 21:25:51 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc i will have you executed for treason
+Wed Oct 31 21:26:00 2018	Big Poppa (STEAM_0:1:87428101): // can admins hear intercom
+Wed Oct 31 21:26:03 2018	Mr Skidadable (STEAM_0:0:47204272): // No
+Wed Oct 31 21:26:05 2018	Colt Masterson (STEAM_0:0:90780827): // nope
+Wed Oct 31 21:26:06 2018	Big Poppa (STEAM_0:1:87428101): // good
+Wed Oct 31 21:26:07 2018	Valien (STEAM_0:1:41660292): // nope
+Wed Oct 31 21:26:07 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc People used to hear it
+Wed Oct 31 21:26:13 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc Now nobody can
+Wed Oct 31 21:26:18 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc rest in pasta
+Wed Oct 31 21:26:18 2018	Big Poppa (STEAM_0:1:87428101): // what happened to it :(
+Wed Oct 31 21:26:18 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 21:26:23 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc i dunno
+Wed Oct 31 21:26:30 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc There used to be levels
+Wed Oct 31 21:26:33 2018	Big Poppa (STEAM_0:1:87428101): // intercom spam time
+Wed Oct 31 21:26:34 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc not anymore
+Wed Oct 31 21:26:37 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc thats a good thing
+Wed Oct 31 21:26:47 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc fire nibba is in ooc center
+Wed Oct 31 21:27:07 2018	Colt Masterson (STEAM_0:0:90780827): /job Plant Worker
+Wed Oct 31 21:27:08 2018	Big Poppa (STEAM_0:1:87428101): // all negros hereby banished from the plant
+Wed Oct 31 21:27:17 2018	Big Poppa (STEAM_0:1:87428101): // mr swat man come keep me company
+Wed Oct 31 21:27:25 2018	Security Chief Coat (STEAM_0:1:32582326): /OOC Im not SWAT.
+Wed Oct 31 21:27:30 2018	Big Poppa (STEAM_0:1:87428101): // whatever
+Wed Oct 31 21:27:32 2018	Big Poppa (STEAM_0:1:87428101): /come here
+Wed Oct 31 21:27:37 2018	Big Poppa (STEAM_0:1:87428101): // come here
+Wed Oct 31 21:27:38 2018	Security Chief Coat (STEAM_0:1:32582326): /OOC I also have some uhhhhh
+Wed Oct 31 21:27:43 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc paperwork on my desk to fill out
+Wed Oct 31 21:27:45 2018	Colt Masterson (STEAM_0:0:90780827): /advert fire guy is loose in the offices
+Wed Oct 31 21:27:51 2018	Security Chief Coat (STEAM_0:1:32582326): /advert oH FUCK NO
+Wed Oct 31 21:28:06 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:28:16 2018	Security Chief Coat (STEAM_0:1:32582326): /OOC That counts as "Paperwork"
+Wed Oct 31 21:28:24 2018	Bob Burbanks (STEAM_0:0:20004733): // Yeah except scps can't get out before 10 minutes and the door to cell 3 is stuck open again
+Wed Oct 31 21:28:39 2018	Big Poppa was killed by Security Chief Coat with a cw_g36c
+Wed Oct 31 21:28:42 2018	Security Chief Coat (STEAM_0:1:32582326): bitch
+Wed Oct 31 21:28:45 2018	Security Chief Coat (STEAM_0:1:32582326): dontchu rdm me
+Wed Oct 31 21:28:52 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:28:53 2018	Security Chief Coat was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 21:28:53 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc fu 
+Wed Oct 31 21:28:58 2018	Security Chief Coat (STEAM_0:1:32582326) spawned
+Wed Oct 31 21:28:59 2018	Big Poppa (STEAM_0:1:87428101): // yo valien
+Wed Oct 31 21:29:03 2018	Mr Skidadable (STEAM_0:0:47204272): // Be 049 instead
+Wed Oct 31 21:29:14 2018	Big Poppa (STEAM_0:1:87428101): // ill paypal u a penny for terrorist sniper B)
+Wed Oct 31 21:29:21 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc We need 16 People for 049
+Wed Oct 31 21:29:28 2018	Big Poppa was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 21:29:30 2018	Mr Skidadable (STEAM_0:0:47204272): // Its VIp to
+Wed Oct 31 21:29:38 2018	Bob Burbanks (STEAM_0:0:20004733): @ Door to Cell 3 gate controls is closed and I cannot close the gate
+Wed Oct 31 21:29:38 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:29:44 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc then again the guy can fucking make zombies
+Wed Oct 31 21:29:47 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc understandable
+Wed Oct 31 21:29:47 2018	Big Poppa (STEAM_0:1:87428101) spawned
+Wed Oct 31 21:29:51 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc theres two bird men
+Wed Oct 31 21:29:59 2018	Bob Burbanks (STEAM_0:0:20004733): The door
+Wed Oct 31 21:30:01 2018	Mr Skidadable (STEAM_0:0:47204272): // 2? I am the only 1 here
+Wed Oct 31 21:30:08 2018	Mr Skidadable (STEAM_0:0:47204272): // And the burning slave
+Wed Oct 31 21:30:14 2018	Colt Masterson (STEAM_0:0:90780827): 
+Wed Oct 31 21:30:15 2018	Security Chief Coat (STEAM_0:1:32582326): /ooc I meant as in jobs in total
+Wed Oct 31 21:30:29 2018	Mr Skidadable (STEAM_0:0:47204272): // oooh
+Wed Oct 31 21:30:30 2018	Security Chief Coat (STEAM_0:1:32582326) disconnected
+Wed Oct 31 21:30:46 2018	Big Poppa (STEAM_0:1:87428101): // how do i use grenade launcher
+Wed Oct 31 21:31:19 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc boys come party with the fire boy
+Wed Oct 31 21:31:25 2018	Big Poppa (STEAM_0:1:87428101): // how do i get there
+Wed Oct 31 21:31:41 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc im in the ooc center
+Wed Oct 31 21:31:42 2018	owo (STEAM_0:1:35610035) spawned
+Wed Oct 31 21:31:49 2018	Big Poppa (STEAM_0:1:87428101): // idk how to get there
+Wed Oct 31 21:32:37 2018	owo (STEAM_0:1:35610035) disconnected
+Wed Oct 31 21:32:52 2018	Bob Burbanks (STEAM_0:0:20004733): Nibba you escaped before 10 minutes
+Wed Oct 31 21:33:00 2018	Bob Burbanks (STEAM_0:0:20004733): You can't do that shit
+Wed Oct 31 21:34:01 2018	Mr Skidadable (STEAM_0:0:47204272) disconnected
+Wed Oct 31 21:35:30 2018	Big Poppa (STEAM_0:1:87428101): // how i blow up
+Wed Oct 31 21:35:34 2018	Valien (STEAM_0:1:41660292): // wait
+Wed Oct 31 21:36:00 2018	Big Poppa (STEAM_0:1:87428101): // hey iuuhmmm
+Wed Oct 31 21:36:08 2018	Big Poppa (STEAM_0:1:87428101): // can i be teleported to people.... bery lonely
+Wed Oct 31 21:36:21 2018	Valien (STEAM_0:1:41660292): // come to the OOC/debrief
+Wed Oct 31 21:36:27 2018	Big Poppa (STEAM_0:1:87428101): // no fucking clue what that is
+Wed Oct 31 21:36:42 2018	Valien (STEAM_0:1:41660292): // first stop after the core on the tram
+Wed Oct 31 21:36:51 2018	Big Poppa (STEAM_0:1:87428101): // just tp me cutie ;)
+Wed Oct 31 21:37:40 2018	Big Poppa (STEAM_0:1:87428101): // teleport me mr obaam,
+Wed Oct 31 21:39:43 2018	Big Poppa (STEAM_0:1:87428101): // yall ever just shit ur pants :)_
+Wed Oct 31 21:39:52 2018	Colt Masterson (STEAM_0:0:90780827): /pm valien so what are the four parts that you can buy for printers
+Wed Oct 31 21:40:02 2018	Colt Masterson (STEAM_0:0:90780827): /pm valien one is repair and one is ink?
+Wed Oct 31 21:40:04 2018	Big Poppa (STEAM_0:1:87428101): //  laem s4ertvert
+Wed Oct 31 21:40:06 2018	Big Poppa (STEAM_0:1:87428101) disconnected
+Wed Oct 31 21:42:23 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc come join the party nibbas
+Wed Oct 31 21:43:21 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Wed Oct 31 21:43:21 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Wed Oct 31 21:43:31 2018	Colt Masterson (STEAM_0:0:90780827): !motd
+Wed Oct 31 21:44:35 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 21:44:55 2018	Bob Burbanks (STEAM_0:0:20004733) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 31 21:45:51 2018	DixBFloppin (STEAM_0:1:86800123): !goto val
+Wed Oct 31 21:49:08 2018	Valien (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Wed Oct 31 21:50:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Oct 31 21:50:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 31 21:51:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 31 21:51:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto fix
+Wed Oct 31 21:51:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dix
+Wed Oct 31 21:55:35 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Wed Oct 31 21:57:11 2018	DixBFloppin (STEAM_0:1:86800123): !menu
+Wed Oct 31 22:00:19 2018	DixBFloppin (STEAM_0:1:86800123): !menu
+Wed Oct 31 22:00:32 2018	DixBFloppin (STEAM_0:1:86800123): !menu
+Wed Oct 31 22:00:45 2018	DixBFloppin (STEAM_0:1:86800123): !menu
+Wed Oct 31 22:00:51 2018	DixBFloppin (STEAM_0:1:86800123): !menu
+Wed Oct 31 22:02:23 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 31 22:02:23 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 31 22:07:40 2018	DixBFloppin (STEAM_0:1:86800123) disconnected
+Wed Oct 31 22:11:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 1000
+Wed Oct 31 22:14:46 2018	'[kek]Lucy (STEAM_0:1:148876808) has joined the game
+Wed Oct 31 22:14:46 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 22:16:02 2018	Lucy (STEAM_0:1:148876808): !steam
+Wed Oct 31 22:16:15 2018	Enviro (STEAM_0:0:80115103): hi
+Wed Oct 31 22:18:28 2018	Enviro (STEAM_0:0:80115103): why are we going to the core
+Wed Oct 31 22:18:35 2018	Enviro (STEAM_0:0:80115103): no
+Wed Oct 31 22:18:46 2018	Enviro (STEAM_0:0:80115103) disconnected
+Wed Oct 31 22:25:26 2018	Lucy (STEAM_0:1:148876808): /advert I am (enroute)
+Wed Oct 31 22:27:41 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc im back
+Wed Oct 31 22:27:47 2018	Lucy (STEAM_0:1:148876808): // k
+Wed Oct 31 22:28:27 2018	Lucy (STEAM_0:1:148876808): /advert I am (enroute)
+Wed Oct 31 22:31:04 2018	Valien (STEAM_0:1:41660292): // I spiked my orange juice
+Wed Oct 31 22:31:12 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc oof
+Wed Oct 31 22:32:46 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 22:33:26 2018	[Opi] Fat Gay was killed by Entity [4913][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:26 2018	Lucy was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:26 2018	Johnny K Bronk was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:26 2018	Valien was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:29 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 22:33:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 22:33:32 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 22:33:37 2018	Johnny K Bronk was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:39 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 22:33:44 2018	Johnny K Bronk was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:51 2018	Lucy was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:51 2018	Valien was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:52 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 22:33:57 2018	Lucy was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:33:58 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 22:34:02 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 22:34:03 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Wed Oct 31 22:34:03 2018	Lucy was killed by Himself with a suicide trick
+Wed Oct 31 22:34:03 2018	Colt Masterson was killed by Himself with a suicide trick
+Wed Oct 31 22:34:03 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Wed Oct 31 22:34:03 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 31 22:34:06 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 22:34:23 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 22:34:40 2018	Lucy (STEAM_0:1:148876808) spawned
+Wed Oct 31 22:34:53 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 22:35:31 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Epic gamer
+Wed Oct 31 22:38:22 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 22:38:26 2018	Valien (STEAM_0:1:41660292): /tram
+Wed Oct 31 22:39:37 2018	Lucy (STEAM_0:1:148876808) disconnected
+Wed Oct 31 22:40:30 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 22:41:04 2018	Valien was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Wed Oct 31 22:41:06 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 22:41:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 31 22:42:11 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Wed Oct 31 22:42:15 2018	Colt Masterson (STEAM_0:0:90780827) disconnected
+Wed Oct 31 22:43:19 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 22:54:32 2018	Litto (STEAM_0:1:59154257) has joined the game
+Wed Oct 31 22:54:32 2018	Litto (STEAM_0:1:59154257) spawned
+Wed Oct 31 22:55:56 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Wed Oct 31 22:59:39 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 31 23:01:02 2018	Valien (STEAM_0:1:41660292): !banip
+Wed Oct 31 23:05:23 2018	Johnny K Bronk (STEAM_0:1:167614500): !warns
+Wed Oct 31 23:05:30 2018	Valien (STEAM_0:1:41660292): 
+Wed Oct 31 23:08:14 2018	Johnny K Bronk (STEAM_0:1:167614500): !warns
+Wed Oct 31 23:08:30 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 31 23:08:31 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 31 23:09:48 2018	Litto (STEAM_0:1:59154257) disconnected
+Wed Oct 31 23:18:53 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 31 23:39:52 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 31 23:39:53 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 31 23:45:11 2018	Valien (STEAM_0:1:41660292): !warns
+Thu Nov  1 00:15:12 2018	[Opi] owo (STEAM_0:1:35610035) has joined the game
+Thu Nov  1 00:15:12 2018	owo (STEAM_0:1:35610035) spawned
+Thu Nov  1 00:15:54 2018	owo (STEAM_0:1:35610035): // hey
+Thu Nov  1 00:16:01 2018	owo (STEAM_0:1:35610035): 
+Thu Nov  1 00:16:16 2018	owo (STEAM_0:1:35610035): // fat gay
+Thu Nov  1 00:16:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hm
+Thu Nov  1 00:16:25 2018	owo (STEAM_0:1:35610035): // open website
+Thu Nov  1 00:16:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // he wont
+Thu Nov  1 00:16:29 2018	owo (STEAM_0:1:35610035): // or else big gay
+Thu Nov  1 00:16:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // respond
+Thu Nov  1 00:16:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // to my texts
+Thu Nov  1 00:16:40 2018	owo (STEAM_0:1:35610035): // i need to send you money
+Thu Nov  1 00:16:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im afraid it wont be up until friday afternoon
+Thu Nov  1 00:16:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // :(
+Thu Nov  1 00:16:57 2018	owo (STEAM_0:1:35610035): // are you keeping the sale?
+Thu Nov  1 00:17:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yes im extending it
+Thu Nov  1 00:17:09 2018	owo (STEAM_0:1:35610035): // goodie
+Thu Nov  1 00:17:41 2018	owo (STEAM_0:1:35610035): // gimme vip 
+Thu Nov  1 00:17:45 2018	owo (STEAM_0:1:35610035): // or i will spook you
+Thu Nov  1 00:17:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // oh 
+Thu Nov  1 00:18:26 2018	owo (STEAM_0:1:35610035): // got you there didnt it
+Thu Nov  1 00:18:29 2018	owo (STEAM_0:1:35610035): // i*
+Thu Nov  1 00:18:35 2018	owo was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 00:18:36 2018	owo (STEAM_0:1:35610035) spawned
+Thu Nov  1 00:20:13 2018	owo (STEAM_0:1:35610035): // rip gat fay
+Thu Nov  1 00:26:54 2018	Crunkle (STEAM_0:0:223274924) has joined the game
+Thu Nov  1 00:26:54 2018	Crunkle (STEAM_0:0:223274924) spawned
+Thu Nov  1 00:30:44 2018	Crunkle (STEAM_0:0:223274924) spawned
+Thu Nov  1 00:32:51 2018	Crunkle (STEAM_0:0:223274924) spawned
+Thu Nov  1 00:33:17 2018	Crunkle (STEAM_0:0:223274924) disconnected
+Thu Nov  1 00:33:20 2018	owo (STEAM_0:1:35610035) disconnected
+Thu Nov  1 00:39:55 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Thu Nov  1 00:39:55 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Thu Nov  1 00:54:46 2018	Valien (STEAM_0:1:41660292): 
+Thu Nov  1 00:55:20 2018	'[kek]Lucy (STEAM_0:1:148876808) has joined the game
+Thu Nov  1 00:55:20 2018	Lucy (STEAM_0:1:148876808) spawned
+Thu Nov  1 00:58:06 2018	Valien (STEAM_0:1:41660292): /tram
+Thu Nov  1 01:01:07 2018	Valien (STEAM_0:1:41660292) disconnected
+Thu Nov  1 01:01:14 2018	Lucy (STEAM_0:1:148876808) disconnected
+Thu Nov  1 01:10:30 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 01:10:45 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Thu Nov  1 01:12:27 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Thu Nov  1 01:31:23 2018	Hugh Jass (STEAM_0:1:84348098) has joined the game
+Thu Nov  1 01:31:23 2018	Andrew Jackson (STEAM_0:1:84348098) spawned
+Thu Nov  1 01:33:20 2018	Andrew Jackson (STEAM_0:1:84348098) spawned
+Thu Nov  1 01:43:20 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) disconnected
+Thu Nov  1 01:46:36 2018	Andrew Jackson (STEAM_0:1:84348098) spawned
+Thu Nov  1 01:47:08 2018	Andrew Jackson (STEAM_0:1:84348098) disconnected
+Thu Nov  1 01:51:39 2018	Valien (STEAM_0:1:41660292) has joined the game
+Thu Nov  1 01:51:39 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 01:52:09 2018	Valien (STEAM_0:1:41660292): // ah classic playerbase
+Thu Nov  1 01:54:55 2018	Valien (STEAM_0:1:41660292): /temp 1000
+Thu Nov  1 01:58:36 2018	Valien (STEAM_0:1:41660292): /tram
+Thu Nov  1 02:35:41 2018	Valien (STEAM_0:1:41660292): /temp 1000
+Thu Nov  1 02:50:43 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Thu Nov  1 02:50:43 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Nov  1 02:58:58 2018	Valien was killed by Himself with a suicide trick
+Thu Nov  1 02:59:00 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 03:11:05 2018	Valien (STEAM_0:1:41660292): /temp 1000
+Thu Nov  1 03:22:21 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Thu Nov  1 03:23:00 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 03:23:02 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 03:26:13 2018	Valien was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Nov  1 03:26:15 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 03:32:10 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 03:32:12 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 03:32:48 2018	Valien (STEAM_0:1:41660292): 
+Thu Nov  1 03:45:12 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Thu Nov  1 03:45:14 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 03:45:21 2018	Valien (STEAM_0:1:41660292) spawned
+Thu Nov  1 03:45:52 2018	Valien (STEAM_0:1:41660292): 
+Thu Nov  1 03:58:14 2018	smart water (STEAM_0:0:118821733) has joined the game
+Thu Nov  1 03:58:14 2018	smart water (STEAM_0:0:118821733) spawned
+Thu Nov  1 04:00:02 2018	smart water (STEAM_0:0:118821733) spawned
+Thu Nov  1 04:03:54 2018	smart water (STEAM_0:0:118821733): // ware do i apply for staff
+Thu Nov  1 04:12:59 2018	smart water (STEAM_0:0:118821733): !donate
+Thu Nov  1 04:15:01 2018	smart water (STEAM_0:0:118821733): !steam
+Thu Nov  1 04:17:53 2018	smart water (STEAM_0:0:118821733): !menu
+Thu Nov  1 04:18:17 2018	smart water (STEAM_0:0:118821733) disconnected
+Thu Nov  1 04:23:23 2018	Valien (STEAM_0:1:41660292): /temp 1000
+Thu Nov  1 04:47:38 2018	John (STEAM_0:0:54471722) has joined the game
+Thu Nov  1 04:47:38 2018	John (STEAM_0:0:54471722) spawned
+Thu Nov  1 04:51:33 2018	John (STEAM_0:0:54471722): wudup
+Thu Nov  1 04:55:51 2018	John (STEAM_0:0:54471722): // how do i make money
+Thu Nov  1 04:56:59 2018	John (STEAM_0:0:54471722) spawned
+Thu Nov  1 05:03:11 2018	John (STEAM_0:0:54471722) disconnected
+Thu Nov  1 05:25:19 2018	Valien was killed by Himself with a suicide trick
+Thu Nov  1 05:25:19 2018	[Opi] Fat Gay was killed by Himself with a suicide trick

@@ -1,0 +1,3 @@
+Thu Oct 11 08:00:49 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Thu Oct 11 08:00:49 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Thu Oct 11 08:00:55 2018	Pootis Bird (STEAM_0:0:22086175) disconnected

@@ -1,0 +1,109 @@
+[00:25:11] New map: rp_powerplant_v2b3
+[00:25:13] Client "Doodle" connected.
+[00:25:14] Client "Pizza Crust" connected.
+
+
+
+[01:13:51] New map: rp_powerplant_v2b3
+
+
+
+[01:49:34] New map: rp_powerplant_v2b3
+
+
+
+[03:01:57] New map: rp_powerplant_v2b3
+[03:02:05] Client "[Opi] Fat Gay" connected.
+
+
+
+[04:32:39] New map: rp_powerplant_v2b3
+
+
+
+[05:23:32] New map: rp_powerplant_v2b3
+
+
+
+[07:27:09] New map: rp_powerplant_v2b3
+
+
+
+[08:31:41] New map: rp_powerplant_v2b3
+
+
+
+[08:39:22] New map: rp_powerplant_v2b3
+[08:40:25] Client "[Opi] Fat Gay" connected.
+
+
+
+[08:46:30] New map: rp_powerplant_v2b3
+[08:46:32] Client "[Opi] Fat Gay" connected.
+
+
+
+[08:49:33] New map: rp_powerplant_v2b3
+[08:51:41] Server is shutting down/changing levels.
+
+
+
+[08:52:44] New map: rp_powerplant_v2b3
+[08:54:07] Client "[Opi] Fat Gay" connected.
+
+
+
+[09:04:51] New map: rp_powerplant_v2b3
+[09:04:53] Client "[Opi] Fat Gay" connected.
+
+
+
+[09:13:13] New map: rp_powerplant_v2b3
+[09:13:16] Client "[Opi] Fat Gay" connected.
+
+
+
+[09:16:53] New map: rp_powerplant_v2b3
+[09:16:55] Client "[Opi] Fat Gay" connected.
+
+
+
+[09:23:41] New map: rp_powerplant_v2b3
+[09:23:46] Client "[Opi] Fat Gay" connected.
+
+
+
+[15:40:15] New map: rp_powerplant_v2b3
+
+
+
+[16:29:16] New map: rp_powerplant_v2b3
+
+
+
+[17:27:23] New map: rp_powerplant_v2b3
+
+
+
+[18:29:01] New map: rp_powerplant_v2b3
+
+
+
+[19:12:56] New map: rp_powerplant_v2b3
+
+
+
+[20:30:48] New map: rp_powerplant_v2b3
+
+
+
+[21:27:54] New map: rp_powerplant_v2b3
+
+
+
+[22:07:47] New map: rp_powerplant_v2b3
+[22:07:52] Client "VietnamFlashbacks" connected.
+
+
+
+[23:07:52] New map: rp_powerplant_v2b3

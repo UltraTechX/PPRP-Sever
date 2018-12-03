@@ -1,0 +1,88 @@
+[00:09:20] New map: rp_powerplant_v2b3
+
+
+
+[02:00:52] New map: rp_powerplant_v2b3
+
+
+
+[03:33:54] New map: rp_powerplant_v2b3
+
+
+
+[04:00:17] New map: rp_powerplant_v2b3
+
+
+
+[04:10:59] New map: rp_powerplant_v2b3
+[04:11:11] Client "Spicy Wing" connected.
+
+
+
+[04:22:04] New map: rp_powerplant_v2b3
+[05:50:18] Client "Snellyc" connected.
+
+
+
+[08:01:23] New map: rp_powerplant_v2b3
+
+
+
+[14:19:05] New map: rp_powerplant_v2b3
+
+
+
+[16:06:10] New map: rp_powerplant_v2b3
+[16:17:16] Client "[Opi] Fat Gay" connected.
+
+
+
+[17:43:35] New map: rp_powerplant_v2b3
+
+
+
+[19:11:08] New map: rp_powerplant_v2b3
+
+
+
+[21:01:00] New map: rp_powerplant_v2b3
+
+
+
+[23:04:46] New map: rp_powerplant_v2b3
+
+
+
+[23:44:23] New map: rp_powerplant_v2b3
+[23:44:28] Client "Opi fallenturtle" connected.
+
+
+
+[23:47:39] New map: rp_powerplant_v2b3
+[23:47:39] Client "[HN]LightShade" connected.
+[23:47:39] Client "[HN]LightShade" connected.
+[23:47:39] Client "[HN]LightShade" connected.
+[23:47:39] Client "[HN]LightShade" connected.
+[23:47:39] Client "[HN]LightShade" connected.
+[23:47:39] Client "[HN]LightShade" connected.
+[03:00:53] Fallenturtle killed Frosty using fas2_thrown_m67
+[03:01:09] Frosty<STEAM_0:1:33589770> spawned model models/props_c17/fence03a.mdl
+[03:01:13] Frosty<STEAM_0:1:33589770> spawned model models/props_c17/fence02b.mdl
+[03:01:21] Frosty<STEAM_0:1:33589770> spawned model models/props_c17/fence02b.mdl
+[03:01:43] Frosty<STEAM_0:1:33589770> used the tool colour on models/props_c17/fence03a.mdl
+[03:01:44] Frosty<STEAM_0:1:33589770> used the tool colour on models/props_c17/fence03a.mdl
+[03:01:44] Frosty<STEAM_0:1:33589770> used the tool colour on models/props_c17/fence02b.mdl
+[03:01:45] Frosty<STEAM_0:1:33589770> used the tool colour on models/props_c17/fence02b.mdl
+[03:02:02] Fallenturtle suicided!
+[03:02:07] Fallenturtle killed Frosty using cw_g36c
+[03:02:15] Frosty<STEAM_0:1:33589770> spawned model models/props_junk/plasticcrate01a.mdl
+[03:02:18] Fallenturtle (Head of SWAT) [STEAM_0:1:62867403]: he deserved it
+[03:02:45] Client "Picklefrits" connected.
+[03:03:01] Fallenturtle killed Frosty using cw_m3super90
+[03:03:09] Johnny K Bronk<STEAM_0:1:167614500> used the tool advmat on maps/rp_powerplant_v2b3.bsp
+[03:04:35] Fallenturtle killed Johnny K Bronk using fas2_thrown_m67
+[03:05:29] Johnny K Bronk<STEAM_0:1:167614500> spawned model models/props_wasteland/interior_fence002d.mdl
+[03:05:36] Fallenturtle (Head of SWAT) [STEAM_0:1:62867403]: /advert gernade battle royal at bunker come if you want to die
+[03:05:39] Fallenturtle<STEAM_0:1:62867403> spawned model models/props_lab/blastdoor001c.mdl
+[03:05:41] Fallenturtle<STEAM_0:1:62867403> spawned model models/props_c17/fence03a.mdl
+[03:05:44] Fallenturtle<STEAM_0:1:62867403> spawned model models/props_c17/fence03a.mdl

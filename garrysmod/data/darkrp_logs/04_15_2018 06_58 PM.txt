@@ -1,0 +1,441 @@
+Sun Apr 15 18:58:43 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 15 18:58:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 18:59:18 2018	VietnamFlashbacks (STEAM_0:0:80420240) has joined the game
+Sun Apr 15 18:59:18 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 18:59:36 2018	VietnamFlashbacks (STEAM_0:0:80420240): !donate
+Sun Apr 15 18:59:54 2018	VietnamFlashbacks was killed by Fat Gay with a heretic_cw2_m27
+Sun Apr 15 18:59:55 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:00:30 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:00:32 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:00:37 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:00:39 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:00:45 2018	VietnamFlashbacks (STEAM_0:0:80420240): !ban ultra 1
+Sun Apr 15 19:00:49 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:00:50 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:00:56 2018	VietnamFlashbacks (STEAM_0:0:80420240): !
+Sun Apr 15 19:01:23 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Apr 15 19:01:23 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:01:29 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:01:30 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:01:40 2018	Jamie Oliver was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:01:44 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:01:45 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:01:52 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:02:00 2018	Jamie Oliver was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:02:03 2018	Jamie Oliver (STEAM_0:1:100921529): wot
+Sun Apr 15 19:02:06 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:02:07 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:02:12 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:02:13 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:02:15 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:02:23 2018	Jamie Oliver was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:02:24 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:02:28 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:02:29 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:02:34 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:02:57 2018	Jamie Oliver was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:02:58 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:03:08 2018	Fat Gay was killed by Jamie Oliver with a cw_deagle
+Sun Apr 15 19:03:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:03:11 2018	VietnamFlashbacks was killed by Jamie Oliver with a cw_deagle
+Sun Apr 15 19:03:13 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:03:15 2018	Jamie Oliver was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:03:34 2018	Fat Gay (STEAM_0:1:218173703): !goto oli
+Sun Apr 15 19:03:41 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 19:03:42 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:04:07 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:04:09 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:04:18 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:04:20 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:04:31 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:04:32 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:04:33 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:04:36 2018	Jamie Oliver was killed by Himself with a suicide trick
+Sun Apr 15 19:05:37 2018	Fat Gay was killed by VietnamFlashbacks with a fas2_glock20
+Sun Apr 15 19:06:19 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:06:32 2018	Jamie Oliver was killed by Himself with a suicide trick
+Sun Apr 15 19:06:37 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:06:45 2018	Jamie Oliver (STEAM_0:1:100921529): /name i like books i think
+Sun Apr 15 19:06:51 2018	i like books i think (STEAM_0:1:100921529): k
+Sun Apr 15 19:06:58 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:07:25 2018	VietnamFlashbacks was killed by i like books i think with a cw_deagle
+Sun Apr 15 19:07:27 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:07:32 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:07:34 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:07:47 2018	i like books i think was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:07:49 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:07:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:07:54 2018	VietnamFlashbacks was killed by i like books i think with a cw_deagle
+Sun Apr 15 19:07:55 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:07:56 2018	Fat Gay was killed by i like books i think with a cw_deagle
+Sun Apr 15 19:07:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:08:02 2018	VietnamFlashbacks was killed by i like books i think with a cw_deagle
+Sun Apr 15 19:08:04 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:08:10 2018	i like books i think was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:08:11 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:08:16 2018	i like books i think was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:08:17 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:08:18 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:08:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:08:24 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:08:25 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:08:29 2018	i like books i think was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:08:31 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:08:36 2018	Fat Gay was killed by i like books i think with a cw_deagle
+Sun Apr 15 19:08:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:08:38 2018	i like books i think was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:08:39 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:08:42 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:08:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:08:46 2018	i like books i think was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:08:47 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:08:49 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:08:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:09:05 2018	i like books i think was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:09:06 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:09:10 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:09:10 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:09:11 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:09:11 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:09:31 2018	VietnamFlashbacks was killed by Fat Gay with a pill_wep_pro
+Sun Apr 15 19:09:33 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:09:34 2018	Fat Gay was killed by Entity [570][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Apr 15 19:09:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:09:38 2018	i like books i think was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:09:39 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:09:40 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:09:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:09:47 2018	i like books i think was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:09:52 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:09:54 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_smg_mp5
+Sun Apr 15 19:09:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:09:58 2018	VietnamFlashbacks was killed by i like books i think with a cw_deagle
+Sun Apr 15 19:09:59 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:10:04 2018	i like books i think was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:10:08 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:10:09 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:10:09 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:10:15 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:10:16 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:10:20 2018	i like books i think was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:10:21 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:10:27 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_pistol_dual
+Sun Apr 15 19:10:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:10:35 2018	VietnamFlashbacks was killed by i like books i think with a cw_g36c
+Sun Apr 15 19:10:36 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:10:38 2018	i like books i think was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:10:40 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:10:43 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:10:44 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:11:04 2018	i like books i think (STEAM_0:1:100921529): kms
+Sun Apr 15 19:11:09 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:10 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:11:15 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:16 2018	i like books i think was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:17 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:11:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:11:22 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:23 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:11:30 2018	i like books i think was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:31 2018	i like books i think (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:11:37 2018	Fat Gay was killed by i like books i think with a cw_m3super90
+Sun Apr 15 19:11:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:11:44 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:11:49 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:11:50 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:11:58 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Sun Apr 15 19:12:04 2018	Fat Gay (STEAM_0:1:218173703): !ungod &
+Sun Apr 15 19:12:04 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:12:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:12:11 2018	Fat Gay (STEAM_0:1:218173703): !ungod vie
+Sun Apr 15 19:12:14 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:12:14 2018	Fat Gay (STEAM_0:1:218173703): !slay vi
+Sun Apr 15 19:12:16 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:12:26 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:12:27 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:12:33 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:12:34 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:12:51 2018	Fat Gay (STEAM_0:1:218173703): /ooc ok im restarting one more time
+Sun Apr 15 19:12:51 2018	i like books i think (STEAM_0:1:100921529): /name die
+Sun Apr 15 19:12:55 2018	die (STEAM_0:1:100921529): /ooc y
+Sun Apr 15 19:12:56 2018	die was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:12:58 2018	VietnamFlashbacks (STEAM_0:0:80420240): // not yet
+Sun Apr 15 19:12:59 2018	die (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:13:03 2018	VietnamFlashbacks (STEAM_0:0:80420240): // it can wait
+Sun Apr 15 19:13:11 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:13:13 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:13:14 2018	die was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:13:15 2018	die (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:13:49 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:13:51 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:13:52 2018	die (STEAM_0:1:100921529): /name Nick Crompton
+Sun Apr 15 19:13:53 2018	Nick Crompton (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:13:59 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:14:00 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:14:12 2018	Nick Crompton (STEAM_0:1:100921529): /sgdf
+Sun Apr 15 19:14:13 2018	Nick Crompton (STEAM_0:1:100921529): ydr\ftyi
+Sun Apr 15 19:14:14 2018	Nick Crompton (STEAM_0:1:100921529): sr/tyd
+Sun Apr 15 19:14:18 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:14:19 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:14:26 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:14:27 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:14:39 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:14:39 2018	Fat Gay (STEAM_0:1:218173703): !slay vi
+Sun Apr 15 19:14:41 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:14:54 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:14:55 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:15:07 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:15:08 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:15:17 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:15:18 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:15:20 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:15:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:15:25 2018	Nick Crompton (STEAM_0:1:100921529): /ooc i found a new way to get on the train without getting inside it xd
+Sun Apr 15 19:15:29 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:15:30 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:15:34 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:15:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:15:41 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:15:42 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:15:46 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:15:47 2018	Nick Crompton (STEAM_0:1:100921529): help.
+Sun Apr 15 19:15:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:15:55 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:15:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:16:03 2018	Nick Crompton (STEAM_0:1:100921529): /ooc fdsy
+Sun Apr 15 19:16:03 2018	Nick Crompton was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 19:16:03 2018	Nick Crompton (STEAM_0:1:100921529): T
+Sun Apr 15 19:16:05 2018	Nick Crompton (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:16:05 2018	VietnamFlashbacks (STEAM_0:0:80420240): !hp ^ 100
+Sun Apr 15 19:16:12 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:16:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:16:21 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:16:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:16:27 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_katana
+Sun Apr 15 19:16:29 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:16:35 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:16:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:16:48 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:16:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:16:55 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:16:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:17:00 2018	Nick Crompton (STEAM_0:1:100921529): /ooc what're you guys even doing
+Sun Apr 15 19:17:03 2018	Fat Gay was killed by VietnamFlashbacks with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:17:03 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:17:03 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:17:04 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:17:09 2018	VietnamFlashbacks was killed by Fat Gay with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:17:09 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 19:17:10 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:17:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:17:17 2018	Fat Gay (STEAM_0:1:218173703): !goto nic
+Sun Apr 15 19:17:20 2018	Fat Gay (STEAM_0:1:218173703): !goto cr
+Sun Apr 15 19:17:23 2018	Fat Gay (STEAM_0:1:218173703): !goto nic
+Sun Apr 15 19:17:26 2018	Nick Crompton was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 15 19:17:26 2018	Nick Crompton (STEAM_0:1:100921529): /OOC WHYU
+Sun Apr 15 19:17:30 2018	Nick Crompton (STEAM_0:1:100921529): /OOC YOU PUSHED ME
+Sun Apr 15 19:17:33 2018	Nick Crompton (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:17:33 2018	Fat Gay (STEAM_0:1:218173703): !bring nic
+Sun Apr 15 19:17:40 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 19:17:40 2018	Nick Crompton was killed by Fat Gay with a ent_l4d2_grenade_launcher_grenade
+Sun Apr 15 19:17:41 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:17:41 2018	Nick Crompton (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:17:44 2018	Fat Gay (STEAM_0:1:218173703): !goto nic
+Sun Apr 15 19:17:47 2018	Fat Gay (STEAM_0:1:218173703): !goto nic
+Sun Apr 15 19:17:51 2018	Nick Crompton (STEAM_0:1:100921529): /name Ultra Is Gay
+Sun Apr 15 19:17:52 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_katana
+Sun Apr 15 19:17:53 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:18:00 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:18:02 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:18:10 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:18:11 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:18:34 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:18:35 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:18:55 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:18:56 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:19:01 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:19:02 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:19:02 2018	VietnamFlashbacks (STEAM_0:0:80420240): /hlogs
+Sun Apr 15 19:19:05 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:06 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:19:10 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Sun Apr 15 19:19:22 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:23 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:19:24 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_pumpshotgun
+Sun Apr 15 19:19:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:19:28 2018	Fat Gay (STEAM_0:1:218173703): !goto vie
+Sun Apr 15 19:19:31 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:34 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:35 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:19:35 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:19:42 2018	Ultra Is Gay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:43 2018	Ultra Is Gay (STEAM_0:1:100921529): /name Fat Gay.
+Sun Apr 15 19:19:44 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:19:47 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat 
+Sun Apr 15 19:19:50 2018	Ultra Is Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:51 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:19:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:19:54 2018	Ultra Is Gay (STEAM_0:1:100921529): /name Fat_Gay
+Sun Apr 15 19:19:54 2018	Ultra Is Gay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:19:58 2018	Fat Gay (STEAM_0:1:218173703): !GOTO BIE
+Sun Apr 15 19:19:59 2018	Ultra Is Gay (STEAM_0:1:100921529): /name FatGay
+Sun Apr 15 19:20:01 2018	Fat Gay (STEAM_0:1:218173703): 1goto vie
+Sun Apr 15 19:20:04 2018	FatGay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:04 2018	Fat Gay (STEAM_0:1:218173703): !goto vie
+Sun Apr 15 19:20:05 2018	FatGay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:20:06 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:20:09 2018	Fat Gay (STEAM_0:1:218173703): !goto vie
+Sun Apr 15 19:20:17 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:18 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:20:18 2018	FatGay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:19 2018	FatGay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:20:29 2018	FatGay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:29 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Sun Apr 15 19:20:30 2018	FatGay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:20:40 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fatg
+Sun Apr 15 19:20:40 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:42 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:20:46 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fatg
+Sun Apr 15 19:20:49 2018	FatGay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:20:50 2018	FatGay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:20:59 2018	FatGay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:21:00 2018	FatGay (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:21:06 2018	Fat Gay was killed by FatGay with a weapon_l4d2_frying_pan
+Sun Apr 15 19:21:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:21:22 2018	Fat Gay (STEAM_0:1:218173703): !goto fat
+Sun Apr 15 19:21:25 2018	Fat Gay (STEAM_0:1:218173703): !goto gay
+Sun Apr 15 19:21:28 2018	Fat Gay (STEAM_0:1:218173703): !goto fatgay
+Sun Apr 15 19:21:29 2018	FatGay was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:21:33 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:21:34 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:21:35 2018	FatGay (STEAM_0:1:100921529): /name VietnamFIashbacks
+Sun Apr 15 19:21:36 2018	VietnamFIashbacks (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:21:39 2018	VietnamFlashbacks (STEAM_0:0:80420240): !hp ^ 100000000
+Sun Apr 15 19:21:43 2018	VietnamFIashbacks (STEAM_0:1:100921529): /ooc k
+Sun Apr 15 19:21:50 2018	VietnamFIashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:21:51 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Sun Apr 15 19:21:51 2018	VietnamFIashbacks (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:21:56 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:21:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:22:01 2018	Fat Gay (STEAM_0:1:218173703): !goto vi
+Sun Apr 15 19:22:11 2018	Fat Gay (STEAM_0:1:218173703): !goto FI
+Sun Apr 15 19:22:14 2018	VietnamFIashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:22:16 2018	VietnamFIashbacks (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:22:33 2018	VietnamFIashbacks (STEAM_0:1:100921529): /NAME VIET
+Sun Apr 15 19:22:33 2018	VIET was killed by Fat Gay with a weapon_l4d2_electric_guitar
+Sun Apr 15 19:22:34 2018	VIET (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:23:01 2018	VIET was killed by Entity [1677][trigger_hurt] with a trigger_hurt
+Sun Apr 15 19:23:02 2018	VIET (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:23:11 2018	Fat Gay was killed by VIET with a weapon_l4d2_frying_pan
+Sun Apr 15 19:23:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:23:30 2018	Fat Gay (STEAM_0:1:218173703): !goto vie
+Sun Apr 15 19:23:34 2018	VIET (STEAM_0:1:100921529): /name RiceGum
+Sun Apr 15 19:23:35 2018	Fat Gay (STEAM_0:1:218173703): !goto VIET
+Sun Apr 15 19:23:46 2018	Fat Gay (STEAM_0:1:218173703): explode VIET
+Sun Apr 15 19:23:49 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:23:50 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:23:50 2018	Fat Gay (STEAM_0:1:218173703): !explode VIET
+Sun Apr 15 19:23:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:23:51 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:23:57 2018	RiceGum was killed by Himself with a suicide trick
+Sun Apr 15 19:23:57 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slay rice
+Sun Apr 15 19:23:57 2018	Fat Gay (STEAM_0:1:218173703): !goto vietnam
+Sun Apr 15 19:23:58 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:24:04 2018	Fat Gay was killed by VietnamFlashbacks with a weapon_l4d2_cricket_bat
+Sun Apr 15 19:24:04 2018	Fat Gay (STEAM_0:1:218173703): !goto ric
+Sun Apr 15 19:24:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:24:10 2018	Fat Gay (STEAM_0:1:218173703): !goto rice
+Sun Apr 15 19:24:17 2018	Fat Gay (STEAM_0:1:218173703): !goto rice
+Sun Apr 15 19:24:18 2018	RiceGum (STEAM_0:1:100921529): x
+Sun Apr 15 19:24:20 2018	RiceGum was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sun Apr 15 19:24:20 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto rice
+Sun Apr 15 19:24:21 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:24:24 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Sun Apr 15 19:24:34 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slap rice
+Sun Apr 15 19:24:43 2018	VietnamFlashbacks (STEAM_0:0:80420240): !whip rice 100
+Sun Apr 15 19:24:43 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:24:45 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:24:45 2018	RiceGum was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:24:46 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:24:50 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto rice
+Sun Apr 15 19:24:53 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:24:55 2018	RiceGum was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:24:56 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:24:57 2018	VietnamFlashbacks (STEAM_0:0:80420240): !whip rice 100
+Sun Apr 15 19:24:57 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:25:02 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto rice
+Sun Apr 15 19:25:19 2018	Fat Gay (STEAM_0:1:218173703): !slay vietme
+Sun Apr 15 19:25:22 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:25:22 2018	Fat Gay (STEAM_0:1:218173703): !explode viet
+Sun Apr 15 19:25:27 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:25:28 2018	Fat Gay (STEAM_0:1:218173703): !viet *
+Sun Apr 15 19:25:30 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Sun Apr 15 19:25:33 2018	Fat Gay (STEAM_0:1:218173703): explode *
+Sun Apr 15 19:25:34 2018	RiceGum was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 19:25:35 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:25:36 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:25:36 2018	RiceGum was killed by Himself with a suicide trick
+Sun Apr 15 19:25:36 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Apr 15 19:25:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:25:37 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:25:38 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:25:44 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Sun Apr 15 19:25:44 2018	RiceGum was killed by Himself with a suicide trick
+Sun Apr 15 19:25:44 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slay *
+Sun Apr 15 19:25:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:25:46 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:25:46 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:26:02 2018	RiceGum was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:26:03 2018	RiceGum (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:26:13 2018	RiceGum was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:26:18 2018	RiceGum (STEAM_0:1:100921529): /name Logan Paul
+Sun Apr 15 19:26:19 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:26:27 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:26:28 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:26:48 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:26:50 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:27:00 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:27:01 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:27:09 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:27:10 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:27:31 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:27:32 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:27:47 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:27:48 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:27:54 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:27:56 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:28:03 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:28:04 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:28:11 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:28:12 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:28:37 2018	Logan Paul was killed by Fat Gay with a weapon_l4d2_autoshotgun
+Sun Apr 15 19:28:38 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:29:10 2018	Fat Gay (STEAM_0:1:218173703): !slay fat
+Sun Apr 15 19:29:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:29:19 2018	Fat Gay (STEAM_0:1:218173703): !hp * 100
+Sun Apr 15 19:29:33 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:29:34 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:30:06 2018	Logan Paul was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 19:30:07 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:30:09 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:30:10 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:30:24 2018	VietnamFlashbacks was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Apr 15 19:30:25 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Sun Apr 15 19:30:28 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slap fat
+Sun Apr 15 19:30:33 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 19:30:33 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slap fat 100
+Sun Apr 15 19:30:35 2018	Logan Paul (STEAM_0:1:100921529): /ooc slap me 9999 times
+Sun Apr 15 19:30:41 2018	Logan Paul (STEAM_0:1:100921529): /ooc xd
+Sun Apr 15 19:30:44 2018	VietnamFlashbacks (STEAM_0:0:80420240): !whip logan 100
+Sun Apr 15 19:30:45 2018	Fat Gay (STEAM_0:1:218173703): !whip logan 999999999 0
+Sun Apr 15 19:30:51 2018	Logan Paul was killed by Himself with a suicide trick
+Sun Apr 15 19:30:51 2018	Fat Gay (STEAM_0:1:218173703): !slap logan 99999 0
+Sun Apr 15 19:30:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 19:30:55 2018	Logan Paul (STEAM_0:1:100921529) spawned
+Sun Apr 15 19:30:59 2018	Logan Paul (STEAM_0:1:100921529): /ooc aww
+Sun Apr 15 19:31:05 2018	Fat Gay (STEAM_0:1:218173703): !whip logan 100 0
+Sun Apr 15 19:31:07 2018	Fat Gay (STEAM_0:1:218173703): !whip logan 100 0
+Sun Apr 15 19:31:09 2018	Fat Gay (STEAM_0:1:218173703): !goto log
+Sun Apr 15 19:31:23 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto log

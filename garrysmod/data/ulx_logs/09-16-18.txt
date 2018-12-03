@@ -1,0 +1,31 @@
+[05:05:20] New map: rp_powerplant_v2b2
+
+
+
+[14:22:50] New map: rp_powerplant_v2b2
+
+
+
+[19:27:02] New map: rp_powerplant_v2b2
+
+
+
+[20:10:38] New map: rp_powerplant_v2b2
+[20:11:02] Client "[Opi] Fat Gay" connected.
+[20:12:47] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 105 seconds).
+[20:13:14] Fat Gay<STEAM_0:1:218173703> spawned sent animprop_spawntank_deploy
+[20:13:20] Fat Gay<STEAM_0:1:218173703> spawned sent animprop_spawnentrance_blue
+[20:13:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet_fade
+[20:13:43] Fat Gay<STEAM_0:1:218173703> spawned sent d3d_sign
+[20:15:20] Fat Gay<STEAM_0:1:218173703> spawned sent d3d_sign
+
+
+
+[20:18:07] New map: rp_powerplant_v2b2
+[20:18:37] Client "[Opi] Fat Gay" connected.
+[20:19:28] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 51 seconds).
+[20:23:44] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[23:03:14] New map: rp_powerplant_v2b2

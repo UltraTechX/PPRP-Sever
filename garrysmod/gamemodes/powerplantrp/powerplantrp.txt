@@ -1,0 +1,15 @@
+"darkrp"
+{
+	"base"		"darkrp"
+    "title"  "Power Plant RP"
+    "version"   "1.0.0"
+    "menusystem"	"1"
+
+    "author_name"   "The Opifex Network"
+    "author_email"  "support@opifex.ddns.net"
+    "author_url"    "http://opifex.ddns.net"
+
+    "icon"  ""
+    "info"  ""
+    "hide"  "0"
+}

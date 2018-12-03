@@ -1,0 +1,169 @@
+Sun Oct 28 05:31:59 2018	Big Nuts (STEAM_0:1:107242126) has joined the game
+Sun Oct 28 05:31:59 2018	Birb Man (STEAM_0:1:107242126) spawned
+Sun Oct 28 05:33:14 2018	Birb Man (STEAM_0:1:107242126): /name Bobby
+Sun Oct 28 05:33:31 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 05:35:09 2018	Bobby (STEAM_0:1:107242126): 
+Sun Oct 28 05:35:54 2018	Bobby (STEAM_0:1:107242126): /name CBRN SGT Bobby
+Sun Oct 28 06:22:27 2018	Spetz_20 (STEAM_0:0:83293903) has joined the game
+Sun Oct 28 06:22:27 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 06:26:30 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 06:28:30 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // hi
+Sun Oct 28 06:28:36 2018	Spetz_20 (STEAM_0:0:83293903): hello
+Sun Oct 28 06:30:21 2018	Spetz_20 (STEAM_0:0:83293903): wya?
+Sun Oct 28 06:33:58 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // hell ya PIZZA DAY!!!
+Sun Oct 28 06:34:25 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // lmao
+Sun Oct 28 06:34:33 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // come to the lobby
+Sun Oct 28 06:35:51 2018	CBRN SGT Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 06:35:52 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 06:36:42 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // are you cumming?
+Sun Oct 28 06:37:01 2018	Spetz_20 (STEAM_0:0:83293903): not that cumming lol
+Sun Oct 28 06:38:24 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 06:38:40 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // lets just chill out
+Sun Oct 28 06:40:12 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // dont blow up the place i worked hard  on this place
+Sun Oct 28 06:40:29 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // god fuckin dammit
+Sun Oct 28 06:44:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 28 06:44:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 06:44:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 06:44:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 06:44:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 06:44:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 06:46:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 1400
+Sun Oct 28 06:46:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 1400
+Sun Oct 28 06:47:24 2018	CBRN SGT Bobby was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sun Oct 28 06:47:25 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 06:48:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 1000
+Sun Oct 28 06:48:27 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // lmao
+Sun Oct 28 06:48:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // just testing some new event commands for mods
+Sun Oct 28 06:48:40 2018	Spetz_20 (STEAM_0:0:83293903): /00c nooooooo
+Sun Oct 28 06:48:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 5000
+Sun Oct 28 06:48:43 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // nice
+Sun Oct 28 06:49:01 2018	Spetz_20 (STEAM_0:0:83293903): nvm
+Sun Oct 28 06:49:02 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // do you have event managers/gamemasters?
+Sun Oct 28 06:49:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // no
+Sun Oct 28 06:49:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // my staff handle that
+Sun Oct 28 06:49:18 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // k
+Sun Oct 28 06:50:27 2018	Spetz_20 (STEAM_0:0:83293903): /ooc now fun time
+Sun Oct 28 06:53:40 2018	CBRN SGT Bobby was killed by Himself with a suicide trick
+Sun Oct 28 06:53:40 2018	Spetz_20 was killed by Himself with a suicide trick
+Sun Oct 28 06:53:40 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sun Oct 28 06:53:42 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 06:53:48 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 06:53:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp six
+Sun Oct 28 06:53:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 06:53:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 1500
+Sun Oct 28 06:54:01 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 06:54:24 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 06:54:36 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 06:55:08 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 06:55:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp test
+Sun Oct 28 06:58:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 500
+Sun Oct 28 06:59:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp test
+Sun Oct 28 07:00:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp test
+Sun Oct 28 07:00:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 4500
+Sun Oct 28 07:00:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 5000
+Sun Oct 28 07:01:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 9999
+Sun Oct 28 07:14:33 2018	Spetz_20 (STEAM_0:0:83293903): 
+Sun Oct 28 07:14:46 2018	Spetz_20 (STEAM_0:0:83293903): @ i need you real qwick
+Sun Oct 28 07:15:14 2018	CBRN SGT Bobby (STEAM_0:1:107242126): dik
+Sun Oct 28 07:15:19 2018	CBRN SGT Bobby (STEAM_0:1:107242126): dicc
+Sun Oct 28 07:15:21 2018	Spetz_20 (STEAM_0:0:83293903): dicc
+Sun Oct 28 07:15:26 2018	CBRN SGT Bobby (STEAM_0:1:107242126): dike
+Sun Oct 28 07:16:34 2018	Spetz_20 (STEAM_0:0:83293903) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:16:44 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:16:48 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_airboat
+Sun Oct 28 07:16:50 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_jeep
+Sun Oct 28 07:16:52 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:16:54 2018	Spetz_20 (STEAM_0:0:83293903) spawned Vehicle prop_vehicle_jeep
+Sun Oct 28 07:16:56 2018	Spetz_20 (STEAM_0:0:83293903) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:17:01 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:17:11 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:17:16 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 07:17:29 2018	CBRN SGT Bobby (STEAM_0:1:107242126): /afk
+Sun Oct 28 07:18:15 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // you should make CBRN a closed squad
+Sun Oct 28 07:18:26 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // like only through training you can get in
+Sun Oct 28 07:18:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i mean
+Sun Oct 28 07:18:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // it does require training
+Sun Oct 28 07:18:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i only opened unit
+Sun Oct 28 07:18:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so people can in RP fight against SCPs
+Sun Oct 28 07:19:01 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // noice
+Sun Oct 28 07:19:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // if you want to go higher you need to ask Dots the superadmin
+Sun Oct 28 07:19:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hes on the discord
+Sun Oct 28 07:19:20 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // yee
+Sun Oct 28 07:19:41 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // yall need devs?
+Sun Oct 28 07:19:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // were good for now, thanks
+Sun Oct 28 07:19:57 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // k
+Sun Oct 28 07:20:07 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 07:20:29 2018	☭✠Tynneside✠☭[Opi] (STEAM_0:0:89038456) has joined the game
+Sun Oct 28 07:20:29 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sun Oct 28 07:20:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 07:21:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 1000
+Sun Oct 28 07:22:06 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sun Oct 28 07:22:35 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) disconnected
+Sun Oct 28 07:22:55 2018	Spetz_20 (STEAM_0:0:83293903) spawned Vehicle prop_vehicle_airboat
+Sun Oct 28 07:24:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // get ready for another test
+Sun Oct 28 07:24:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 07:24:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 07:24:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // epic?
+Sun Oct 28 07:24:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 07:24:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 07:24:51 2018	CBRN SGT Bobby (STEAM_0:1:107242126): // yos
+Sun Oct 28 07:24:55 2018	Spetz_20 (STEAM_0:0:83293903): /ooc how doi get a vape?
+Sun Oct 28 07:25:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // do !donate
+Sun Oct 28 07:25:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // cosmetic
+Sun Oct 28 07:25:10 2018	Spetz_20 (STEAM_0:0:83293903): ahh
+Sun Oct 28 07:25:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // you can just search "vape"
+Sun Oct 28 07:25:37 2018	Spetz_20 (STEAM_0:0:83293903): /ooc im homeless 
+Sun Oct 28 07:25:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // rip
+Sun Oct 28 07:25:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // well if it makes it any better
+Sun Oct 28 07:26:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // all store items are 33% off right now
+Sun Oct 28 07:26:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and not many people know this
+Sun Oct 28 07:26:29 2018	Spetz_20 (STEAM_0:0:83293903): /ooc okay thanks bby
+Sun Oct 28 07:26:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // but I offer a free 2 week trial for VIP on the store
+Sun Oct 28 07:26:41 2018	CBRN SGT Bobby (STEAM_0:1:107242126): !donate
+Sun Oct 28 07:26:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // np
+Sun Oct 28 07:26:50 2018	Spetz_20 (STEAM_0:0:83293903): !donate
+Sun Oct 28 07:28:07 2018	Spetz_20 (STEAM_0:0:83293903): /ooc the store won't load rip
+Sun Oct 28 07:28:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ?
+Sun Oct 28 07:28:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !donate
+Sun Oct 28 07:28:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // its loading fine for me
+Sun Oct 28 07:28:44 2018	Spetz_20 (STEAM_0:0:83293903): /ooc rip
+Sun Oct 28 07:28:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !donate
+Sun Oct 28 07:29:03 2018	Spetz_20 (STEAM_0:0:83293903): /ooc nvm it just did lol
+Sun Oct 28 07:29:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // lol
+Sun Oct 28 07:33:44 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 07:34:03 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 07:34:20 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 07:34:27 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:34:32 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 07:34:46 2018	CBRN SGT Bobby was killed by Spetz_20 with a cw_g36c
+Sun Oct 28 07:34:51 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:35:06 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:35:17 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:35:27 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 07:35:43 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:35:58 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:37:08 2018	CBRN SGT Bobby (STEAM_0:1:107242126): /name CBRN COL Bobby
+Sun Oct 28 07:37:12 2018	CBRN COL Bobby (STEAM_0:1:107242126): // lmao
+Sun Oct 28 07:37:21 2018	CBRN COL Bobby (STEAM_0:1:107242126): /name CBRN SGT Bobby
+Sun Oct 28 07:37:33 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:45:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 07:45:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 07:45:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct 28 07:46:32 2018	CBRN SGT Bobby (STEAM_0:1:107242126): 
+Sun Oct 28 07:51:43 2018	CBRN SGT Bobby was killed by Spetz_20 with a weapon_l4d2_frying_pan
+Sun Oct 28 07:52:37 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 07:53:36 2018	CBRN SGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:53:49 2018	CBRN SGT Bobby (STEAM_0:1:107242126): /name Bobby
+Sun Oct 28 07:54:16 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 07:58:36 2018	Spetz_20 (STEAM_0:0:83293903): /ooc i haven't gained any xp
+Sun Oct 28 07:59:48 2018	Bobby (STEAM_0:1:107242126): 'Tony shoud be promoted, Honestly He is wasted as a CT' - Capoooa
+Sun Oct 28 07:59:58 2018	Bobby (STEAM_0:1:107242126): 'Tony shoud be promoted, Honestly He is wasted as a CT' - Capoooa
+Sun Oct 28 07:59:59 2018	Bobby (STEAM_0:1:107242126): /me Binds and Strips of All Weapons and Comms
+Sun Oct 28 08:00:05 2018	Bobby (STEAM_0:1:107242126): <hsv>Pee Is Stored Is Stored In The Balls</hsv>
+Sun Oct 28 08:00:20 2018	Bobby (STEAM_0:1:107242126): <hsv>Pee Is Stored Is Stored In The Balls</hsv>
+Sun Oct 28 08:00:21 2018	Bobby (STEAM_0:1:107242126): <hsv>Pee Is Stored Is Stored In The Balls</hsv>
+Sun Oct 28 08:00:22 2018	Bobby (STEAM_0:1:107242126): <hsv>Pee Is Stored Is Stored In The Balls</hsv>
+Sun Oct 28 08:00:23 2018	Bobby (STEAM_0:1:107242126): <hsv>Pee Is Stored Is Stored In The Balls</hsv>
+Sun Oct 28 08:00:25 2018	Bobby (STEAM_0:1:107242126): /me Binds and Strips of All Weapons and Comms
+Sun Oct 28 08:00:28 2018	Bobby (STEAM_0:1:107242126): /me Salutes to the Commanding Officer(s) with Honor and Integrity
+Sun Oct 28 08:00:29 2018	Bobby (STEAM_0:1:107242126): /me Salutes to the Commanding Officer(s) with Honor and Integrity

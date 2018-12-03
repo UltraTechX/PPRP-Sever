@@ -1,0 +1,159 @@
+Sun Oct  7 16:03:09 2018	HellBoy9000 (STEAM_0:0:200061148) has joined the game
+Sun Oct  7 16:03:09 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:03:21 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct  7 16:03:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:03:21 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 16:03:21 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 16:03:51 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 16:03:51 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 16:03:54 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:04:10 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 16:04:10 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:04:12 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:04:59 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 16:06:45 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 16:06:45 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:07:25 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:07:41 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:08:36 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:09:36 2018	mr bean (STEAM_0:0:23292214) has joined the game
+Sun Oct  7 16:09:36 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:10:13 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 16:11:15 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:11:34 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:13:33 2018	ohsobasic (STEAM_0:0:156828607) has joined the game
+Sun Oct  7 16:13:33 2018	ohsobasic (STEAM_0:0:156828607) spawned
+Sun Oct  7 16:13:35 2018	HellBoy9000 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:13:36 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:14:20 2018	ohsobasic (STEAM_0:0:156828607) disconnected
+Sun Oct  7 16:14:36 2018	mr bean was killed by HellBoy9000 with a eoti_raven_swep
+Sun Oct  7 16:14:38 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:14:46 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:15:26 2018	The Kettle (STEAM_0:0:86812760): // hey mike how do you feel that i betrayed you
+Sun Oct  7 16:15:36 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:16:10 2018	The Kettle (STEAM_0:0:86812760): totally not corrupt
+Sun Oct  7 16:16:54 2018	mr bean was killed by Entity [4907][entityflame] with a entityflame
+Sun Oct  7 16:17:04 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:17:33 2018	Riptilian (STEAM_0:0:44493491) has joined the game
+Sun Oct  7 16:17:33 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:17:35 2018	The Kettle (STEAM_0:0:86812760): give me money now
+Sun Oct  7 16:17:35 2018	GMan (STEAM_0:1:444450075): /advry come to dorms for a team buling activbity if you dont i will find you
+Sun Oct  7 16:17:50 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:17:50 2018	GMan (STEAM_0:1:444450075): /advert come to dorms for a team buling activbity if you dont i will find you
+Sun Oct  7 16:18:01 2018	The Kettle (STEAM_0:0:86812760): // and he will kill you
+Sun Oct  7 16:18:13 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:18:15 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:18:30 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:18:30 2018	The Kettle (STEAM_0:0:86812760): you have no friends
+Sun Oct  7 16:18:58 2018	GMan (STEAM_0:1:444450075) disconnected
+Sun Oct  7 16:20:50 2018	The Kettle (STEAM_0:0:86812760): 
+Sun Oct  7 16:21:27 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:22:05 2018	Enfys (STEAM_0:1:86985962) has joined the game
+Sun Oct  7 16:22:05 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:22:12 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:22:13 2018	The Kettle was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:22:14 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:22:43 2018	The Kettle (STEAM_0:0:86812760): // come to dorms he says team building exersize he says, IM AT THE DORMS
+Sun Oct  7 16:23:43 2018	The Kettle was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:23:45 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:24:10 2018	mr bean (STEAM_0:0:23292214) disconnected
+Sun Oct  7 16:24:55 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:24:58 2018	Riptilian was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:25:20 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:25:22 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:27:50 2018	The Kettle (STEAM_0:0:86812760): YOU HAVE THE BIG GAY
+Sun Oct  7 16:28:01 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:28:20 2018	Enfys (STEAM_0:1:86985962): hey
+Sun Oct  7 16:28:44 2018	Riptilian was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 16:28:45 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:28:49 2018	The Kettle (STEAM_0:0:86812760): !motd
+Sun Oct  7 16:29:01 2018	The Kettle (STEAM_0:0:86812760): !motd
+Sun Oct  7 16:29:13 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:29:19 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 16:29:20 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:29:40 2018	Enfys (STEAM_0:1:86985962): kek
+Sun Oct  7 16:29:47 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:31:15 2018	HellBoy9000 was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:31:16 2018	Dave Letcher (STEAM_0:1:52038966): // Out of all things, I cannot spawn buttons
+Sun Oct  7 16:31:16 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:32:25 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 16:32:25 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:35:07 2018	Mapapis (STEAM_0:1:108406755) has joined the game
+Sun Oct  7 16:35:07 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:35:11 2018	Lukyn Red (STEAM_0:0:81441026) disconnected
+Sun Oct  7 16:35:25 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:35:55 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:37:25 2018	Mapapis (STEAM_0:1:108406755) disconnected
+Sun Oct  7 16:37:39 2018	Adam Klein was killed by HellBoy9000 with a cw_mr96
+Sun Oct  7 16:37:50 2018	Dave Letcher (STEAM_0:1:52038966): // Don't nuke the place
+Sun Oct  7 16:37:51 2018	The Kettle (STEAM_0:0:86812760): A TERRORRIST HAS BEEN SPOTTED
+Sun Oct  7 16:37:55 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:37:55 2018	The Kettle (STEAM_0:0:86812760): I REPEAT
+Sun Oct  7 16:37:57 2018	The Kettle (STEAM_0:0:86812760): A TERRORRIST HAS BEEN SPOTTED
+Sun Oct  7 16:38:44 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 16:38:44 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:39:11 2018	Dave Letcher (STEAM_0:1:52038966): /Me Holds his breath
+Sun Oct  7 16:39:15 2018	Dave Letcher was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:39:16 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:39:25 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:39:34 2018	Enfys (STEAM_0:1:86985962): @ stuck
+Sun Oct  7 16:39:46 2018	Mapapis (STEAM_0:1:108406755) has joined the game
+Sun Oct  7 16:39:46 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:40:19 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:40:38 2018	The Kettle (STEAM_0:0:86812760): if the temperature gets past 4500 evacuate
+Sun Oct  7 16:40:40 2018	Adam Klein was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 16:40:41 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:40:47 2018	Dave Letcher (STEAM_0:1:52038966): // where is the intercom?
+Sun Oct  7 16:40:54 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:40:57 2018	The Kettle was killed by HellBoy9000 with a cw_scarh
+Sun Oct  7 16:40:59 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:41:25 2018	Riptilian was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:41:32 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:42:01 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:42:05 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:42:18 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:42:49 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:42:50 2018	HellBoy9000 was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:42:51 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:42:54 2018	Mapapis (STEAM_0:1:108406755): !motd
+Sun Oct  7 16:43:08 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:43:15 2018	Dave Letcher (STEAM_0:1:52038966): // WHATS THE CODE?
+Sun Oct  7 16:43:34 2018	Mapapis (STEAM_0:1:108406755): /ooc guys what do i need to remove the missing texture?
+Sun Oct  7 16:43:40 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:43:47 2018	Lukyn Red (STEAM_0:0:81441026): // CS:S
+Sun Oct  7 16:43:52 2018	Adam Klein was killed by Lukyn Red with a weapon_sillyzombieclaw_v2
+Sun Oct  7 16:43:54 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:44:22 2018	Lukyn Red (STEAM_0:0:81441026): // 4189 or something like that
+Sun Oct  7 16:44:30 2018	Mapapis (STEAM_0:1:108406755): /ooc is there a way to download the sorce?
+Sun Oct  7 16:44:36 2018	Lukyn Red (STEAM_0:0:81441026): // buy the game
+Sun Oct  7 16:44:42 2018	Mapapis (STEAM_0:1:108406755): /ooc i hve no money
+Sun Oct  7 16:44:43 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:44:48 2018	Lukyn Red (STEAM_0:0:81441026): // or find the materials somewhere on the internet
+Sun Oct  7 16:44:48 2018	Mapapis (STEAM_0:1:108406755): /ooc not atm atlist
+Sun Oct  7 16:44:56 2018	Enfys was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:44:57 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:45:15 2018	Riptilian (STEAM_0:0:44493491): rip
+Sun Oct  7 16:45:20 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:45:22 2018	Riptilian (STEAM_0:0:44493491): // rip
+Sun Oct  7 16:46:03 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:46:07 2018	The Kettle was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:46:09 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:46:20 2018	The Kettle was killed by Himself with a suicide trick
+Sun Oct  7 16:46:22 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:46:30 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:46:30 2018	Enfys (STEAM_0:1:86985962): https://www.youtube.com/watch?v=FscIgtDJFXg
+Sun Oct  7 16:46:37 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:47:11 2018	Enfys was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:47:11 2018	The Kettle was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:47:11 2018	Riptilian was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:47:13 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:47:15 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 16:47:16 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:47:16 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:47:25 2018	Mapapis (STEAM_0:1:108406755): /ooc hardstyle ? :O
+Sun Oct  7 16:47:36 2018	Mapapis was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:47:37 2018	Mike was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:47:44 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:47:48 2018	Riptilian (STEAM_0:0:44493491): // the fucks going on
+Sun Oct  7 16:47:49 2018	The Kettle was killed by HellBoy9000 with a cw_mr96
+Sun Oct  7 16:47:49 2018	Mapapis was killed by Entity [4920][trigger_hurt] with a trigger_hurt

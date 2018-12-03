@@ -1,0 +1,131 @@
+<Logging continued from "data/ulx_logs/09-18-18.txt">
+[00:07:20] Client "Bot01" connected.
+[00:07:20] Client "Bot01" spawned in server <BOT> (took 2144 seconds).
+[00:12:50] Fat Gay suicided!
+[00:52:00] Fat Gay suicided!
+[01:31:10] Fat Gay suicided!
+[02:10:20] Fat Gay suicided!
+[02:49:30] Fat Gay suicided!
+[03:28:40] Fat Gay suicided!
+[04:07:50] Fat Gay suicided!
+[04:47:00] Fat Gay suicided!
+
+
+
+[05:05:00] New map: rp_powerplant_v2b2
+[05:05:22] Client "[Opi] Fat Gay" connected.
+[05:06:22] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 60 seconds).
+[05:39:53] Client "Bot01" connected.
+[05:39:53] Client "Bot01" spawned in server <BOT> (took 2170 seconds).
+[05:45:23] Fat Gay suicided!
+[06:24:47] Fat Gay suicided!
+[07:03:57] Fat Gay suicided!
+[07:43:07] Fat Gay suicided!
+[08:22:17] Fat Gay suicided!
+[08:57:57] Fat Gay suicided!
+[08:58:15] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[08:58:15] Dropped "Bot01" from server<BOT>
+[11:29:08] Client "[Opi] Fat Gay" connected.
+[11:30:10] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 62 seconds).
+[12:03:28] Client "Bot02" connected.
+[12:03:28] Client "Bot02" spawned in server <BOT> (took 25185 seconds).
+[12:08:58] Fat Gay suicided!
+[12:48:08] Fat Gay suicided!
+[13:27:18] Fat Gay suicided!
+[13:41:13] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[13:41:13] Dropped "Bot02" from server<BOT>
+[14:49:39] Client "Valien" connected.
+[14:52:45] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 186 seconds).
+[14:58:07] Client "[Opi] Fat Gay" connected.
+[15:02:48] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 281 seconds).
+[15:04:40] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[15:04:56] Emmett suicided!
+[15:04:57] Emmett killed Fat Gay using env_explosion
+[15:05:05] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[15:05:15] Emmett suicided!
+[15:07:37] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_deagle
+[15:10:08] Client "Bot03" connected.
+[15:10:08] Client "Bot03" spawned in server <BOT> (took 36385 seconds).
+[15:10:08] Emmett killed Fat Gay using cw_deagle
+[15:10:58] Fat Gay: /radio shutup faggot
+[15:11:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep alydus_fortificationbuildertablet
+[15:12:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep swep_disguise_briefcase
+[15:12:29] Fat Gay<STEAM_0:1:218173703> changed their name to Emmett
+[15:12:47] Emmett<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[15:12:50] Emmett<STEAM_0:1:218173703> changed their name to Fat Gay
+[15:13:05] Emmett: !goto ultra
+[15:13:08] Emmett: !goto fat
+[15:13:08] Emmett teleported to Fat Gay
+[15:13:33] Emmett killed Fat Gay using cw_shorty
+[15:15:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep alydus_fortificationbuildertablet
+[15:16:43] Fat Gay: !goto va
+[15:16:45] Fat Gay: !goto em
+[15:16:45] Fat Gay teleported to Emmett
+[15:20:52] Fat Gay: !goto em
+[15:20:52] Fat Gay teleported to Emmett
+[15:21:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[15:22:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[15:22:52] Fat Gay was killed by sent_elegant_printer
+[15:23:25] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[15:23:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[15:23:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_deagle
+
+
+
+[15:32:39] New map: rp_powerplant_v2b2
+[15:33:02] Client "[Opi] Fat Gay" connected.
+[15:33:49] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 47 seconds).
+[15:33:57] Client "Valien" connected.
+[15:35:37] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 100 seconds).
+[15:36:15] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[15:36:33] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[15:37:12] Fat Gay: /comms no
+[15:37:25] Fat Gay: /advert emmett is a niggerian
+[15:37:31] Emmett: !goto fa
+[15:37:31] Emmett teleported to Fat Gay
+[15:37:38] Client "Bot01" connected.
+[15:37:38] Client "Bot01" spawned in server <BOT> (took 368 seconds).
+[15:37:39] Fat Gay killed Emmett using cw_mr96
+[15:37:46] Emmett: !goto f
+[15:37:46] Emmett teleported to Fat Gay
+[15:38:08] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[15:38:11] Emmett suicided!
+[15:38:16] Emmett: !goto f
+[15:38:16] Emmett teleported to Fat Gay
+[15:39:05] Emmett: !goto fo
+[15:39:08] Emmett: !goto f
+[15:39:08] Emmett teleported to Fat Gay
+[15:46:21] Fat Gay: !actmuscle *
+[15:46:28] Fat Gay: !fmuscle *
+[15:46:28] Fat Gay forced Everyone to perform the 'Muscle' act command.
+[15:55:00] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[15:56:25] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:56:25] Dropped "Bot01" from server<BOT>
+[16:23:04] Client "Valien" connected.
+[16:23:17] Client "[Opi] Fat Gay" connected.
+[16:24:06] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[16:24:53] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 109 seconds).
+[16:26:56] Fat Gay: /job nigger
+[16:27:13] Fat Gay: /job niglet
+[16:57:17] Client "Bot02" connected.
+[16:57:17] Client "Bot02" spawned in server <BOT> (took 5147 seconds).
+[17:02:47] Fat Gay suicided!
+[17:03:37] Emmett suicided!
+[17:24:31] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:42:47] Emmett suicided!
+[18:21:57] Emmett suicided!
+[19:01:07] Emmett suicided!
+[19:40:17] Emmett suicided!
+[20:19:27] Emmett suicided!
+[20:58:37] Emmett suicided!
+[21:37:57] Emmett suicided!
+[22:17:07] Emmett suicided!
+[22:45:33] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[22:45:33] Dropped "Bot02" from server<BOT>
+[22:45:34] Client "Valien" connected.
+[22:47:02] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 88 seconds).
+[23:17:24] Client "Bot03" connected.
+[23:17:24] Client "Bot03" spawned in server <BOT> (took 27954 seconds).
+[23:21:54] Emmett was killed by trigger_hurt
+[23:22:12] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[23:22:12] Dropped "Bot03" from server<BOT>

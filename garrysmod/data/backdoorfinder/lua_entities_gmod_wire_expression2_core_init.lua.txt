@@ -1,0 +1,841 @@
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________
+		ok, ret = pcall(callback, ...) - severe
+
+___________

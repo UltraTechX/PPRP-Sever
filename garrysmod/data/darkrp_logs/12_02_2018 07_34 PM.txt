@@ -1,0 +1,14 @@
+Sun Dec  2 19:34:29 2018	Number one cheater (STEAM_0:0:143719653) has joined the game
+Sun Dec  2 19:34:29 2018	chiken (STEAM_0:0:143719653) spawned
+Sun Dec  2 19:36:33 2018	chiken (STEAM_0:0:143719653) disconnected
+Sun Dec  2 19:37:46 2018	Number one cheater (STEAM_0:0:143719653) has joined the game
+Sun Dec  2 19:37:46 2018	chiken (STEAM_0:0:143719653) spawned
+Sun Dec  2 19:40:37 2018	chiken (STEAM_0:0:143719653) disconnected
+Sun Dec  2 21:41:15 2018	Pidge (STEAM_0:0:90645080) has joined the game
+Sun Dec  2 21:41:15 2018	Pidge (STEAM_0:0:90645080) spawned
+Sun Dec  2 21:42:00 2018	Pidge (STEAM_0:0:90645080) spawned
+Sun Dec  2 21:43:57 2018	[Opi] Simon (STEAM_0:1:84422693) has joined the game
+Sun Dec  2 21:43:57 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sun Dec  2 21:47:10 2018	Pidge (STEAM_0:0:90645080) disconnected
+Sun Dec  2 22:12:06 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sun Dec  2 23:00:12 2018	Spooky Simon (STEAM_0:1:84422693) disconnected

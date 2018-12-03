@@ -1,0 +1,9 @@
+Sat Oct  6 03:58:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 03:58:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 03:59:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sat Oct  6 04:00:26 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 04:00:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 04:13:36 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 04:14:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 05:26:14 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 05:26:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned

@@ -1,0 +1,18 @@
+Sat Jun 30 14:10:31 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 30 14:10:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 14:11:16 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Jun 30 14:11:16 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 14:12:02 2018	Emmett was killed by Fat Gay with a weapon_ak472
+Sat Jun 30 14:12:03 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 14:12:08 2018	Fat Gay was killed by Emmett with a fas2_ks23
+Sat Jun 30 14:12:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 14:12:26 2018	Emmett was killed by Himself with a suicide trick
+Sat Jun 30 14:12:27 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 14:12:34 2018	Emmett was killed by Himself with a suicide trick
+Sat Jun 30 14:12:35 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 14:12:41 2018	Fat Gay was killed by Emmett with a fas2_thrown_m67
+Sat Jun 30 14:12:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 30 14:12:47 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sat Jun 30 14:12:52 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 30 14:14:11 2018	Emmett was killed by Fat Gay with a ls_sniper
+Sat Jun 30 14:14:13 2018	Emmett (STEAM_0:1:41660292) spawned

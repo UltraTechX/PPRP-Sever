@@ -1,0 +1,118 @@
+<Logging continued from "data/ulx_logs/05-22-18.txt">
+[13:01:22] Client "Fat Gay" connected.
+[13:02:28] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 66 seconds).
+[13:04:14] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:20] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:21] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:21] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:21] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:21] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:22] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:23] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:04:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/cw2/rifles/w_scarh.mdl
+[13:04:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/cw2/rifles/w_scarh.mdl
+[13:04:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:04:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:04:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_scarh
+[13:05:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:05:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[13:06:27] Fat Gay<STEAM_0:1:218173703> spawned model models/cw2/rifles/w_scarh.mdl
+[13:11:37] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[14:15:12] New map: rp_powerplant_v2b2
+[14:15:34] Client "Fat Gay" connected.
+[14:16:31] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 57 seconds).
+
+
+
+[14:19:21] New map: rp_powerplant_v2b2
+[14:19:44] Client "Fat Gay" connected.
+[14:20:15] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 31 seconds).
+[14:38:07] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[14:38:08] Client "Fat Gay" connected.
+[14:38:39] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 31 seconds).
+
+
+
+[14:40:30] New map: rp_powerplant_v2b2
+[14:40:35] Client "Fat Gay" connected.
+[14:41:06] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 31 seconds).
+[15:00:30] Fat Gay: !slay fat
+[15:00:30] Fat Gay suicided!
+[15:00:30] Fat Gay slayed Themself
+
+
+
+[15:03:12] New map: rp_powerplant_v2b2
+[15:05:33] Client "Fat Gay" connected.
+[15:06:11] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 38 seconds).
+[15:28:14] Fat Gay suicided!
+[16:27:54] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:41:09] Client "Fat Gay" connected.
+[17:41:59] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+
+
+
+[18:04:09] New map: rp_powerplant_v2b2
+[18:04:31] Client "Fat Gay" connected.
+[18:05:12] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 41 seconds).
+[18:07:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:15] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[18:07:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_policeshield
+[18:08:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_cricket_bat
+[18:08:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_charger_claw
+[18:09:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pistol_dual
+[18:09:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_frying_pan
+[18:09:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:09:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_smg_silenced
+[18:09:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_chrome
+[18:10:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_sg552
+[18:13:41] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[18:18:20] New map: rp_powerplant_v2b2
+[18:19:14] Client "Fat Gay" connected.
+[18:20:55] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 101 seconds).
+[18:24:00] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

@@ -1,0 +1,1 @@
+{"Suggestion":{"Title":"Give cooks more HP","Text":""},"ID":17.0,"VoteNo":[],"Status":"Denied","Player":{"SteamID":"STEAM_0:1:33589770","Name":"Tier"},"Approved":{"Is":false,"SteamID":"","Name":""},"VoteYes":["STEAM_0:1:42591216","STEAM_0:1:93237308"]}

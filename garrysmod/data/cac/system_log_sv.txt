@@ -1,0 +1,38 @@
+﻿[CAC] 00:00.000 !cake Anti-Cheat version 2017-07-10
+[CAC] 00:00.000 	2018-07-01 13:44:09
+[CAC] 00:00.082 Registered check "FluidExchange".
+[CAC] 00:00.084 Registered check "SystemInformation".
+[CAC] 00:00.085 Registered check "AdditionalSystemInformation".
+[CAC] 00:00.087 Registered check "RconPasswordTheft".
+[CAC] 00:00.089 Registered check "GarbageCount".
+[CAC] 00:00.091 Registered check "QACBypassCheck".
+[CAC] 00:00.093 Registered check "SysTime".
+[CAC] 00:00.095 Registered check "DebugLibraryCheck".
+[CAC] 00:00.098 Registered check "AdditionalLibraryChecks".
+[CAC] 00:00.100 Registered check "Hooks".
+[CAC] 00:00.102 Registered check "ConsoleCommands".
+[CAC] 00:00.104 Registered check "Timers".
+[CAC] 00:00.105 Registered check "Detours".
+[CAC] 00:00.106 Registered check "ConVarBlacklist".
+[CAC] 00:00.108 Registered check "ConVarMonitor".
+[CAC] 00:00.110 Registered check "Aimbot".
+[CAC] 00:00.111 Registered check "ScreenshotBlocker".
+[CAC] 00:00.113 Registered check "FluidExchange2".
+[CAC] 00:00.277 Loading server workshop information...
+[CAC] 00:00.279 No existing server workshop information found!
+[CAC] 00:00.280 Scanning workshop addons for changes...
+[CAC] 00:00.283    0 workshop addons found.
+[CAC] 00:00.284 No workshop addon changes detected.
+[CAC] 00:00.284 Loading server lua information...
+[CAC] 00:00.367 Loaded server lua information.
+[CAC] 00:44.276 Skipped plugin "GLibAccelerator".
+[CAC] 00:44.278 Skipped plugin "LeyACCompatibility".
+[CAC] 00:44.278 Skipped plugin "ARCLoadAccelerator".
+[CAC] 00:44.279 Skipped plugin "QACCompatibility".
+[CAC] 00:48.442 Update checker : Retrieving versions page...
+[CAC] 00:48.756 Update checker : Received versions page!
+[CAC] 00:48.757 Update checker : CAC is up to date.
+[CAC] 01:19.988 Building admin UI lua pack...
+[CAC] 01:20.634 Built admin UI lua pack.
+[CAC] 230:33.971 Disabling verification for file entities/ent_metal_detector_large/shared.lua
+[CAC] 235:04.046 Disabling verification for file entities/ent_metal_detector_small/shared.lua

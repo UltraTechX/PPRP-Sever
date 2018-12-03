@@ -1,0 +1,47 @@
+[05:05:48] New map: rp_powerplant_v2b3
+[16:07:39] Client "[Opi] Fat Gay" connected.
+[16:09:32] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 113 seconds).
+[16:27:26] Server is shutting down/changing levels.
+
+
+
+[16:28:19] New map: rp_powerplant_v2b3
+[16:29:43] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 117 seconds).
+[16:29:43] [Opi] Fat Gay was killed by trigger_hurt
+
+
+
+[16:42:23] New map: rp_powerplant_v2b3
+[16:42:23] Client "[Opi] Fat Gay" connected.
+[16:42:23] Client "[Opi] Fat Gay" connected.
+[16:42:23] Client "[Opi] Fat Gay" connected.
+[16:42:23] Client "[Opi] Fat Gay" connected.
+[16:42:23] Client "[Opi] Fat Gay" connected.
+[16:42:23] Client "[Opi] Fat Gay" connected.
+[16:43:23] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 60 seconds).
+[16:44:48] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[22:16:30] New map: rp_powerplant_v2b3
+[22:17:21] Client "[Opi] Fat Gay" connected.
+[22:19:13] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 112 seconds).
+[22:19:18] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:19:19] Server is shutting down/changing levels.
+
+
+
+[22:20:09] New map: rp_powerplant_v2b3
+[22:20:16] Client "[Opi] Fat Gay" connected.
+[22:21:15] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+
+
+
+[22:31:22] New map: rp_powerplant_v2b3
+[22:31:25] Client "[Opi] Fat Gay" connected.
+[22:32:55] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 90 seconds).
+[22:42:57] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[22:49:31] New map: rp_powerplant_v2b3

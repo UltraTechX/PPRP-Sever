@@ -1,0 +1,144 @@
+[00:31:32] New map: rp_powerplant_v2b2
+[00:41:29] Client "[Opi] Fat Gay" connected.
+[00:43:13] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 104 seconds).
+[00:43:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_shotgun
+[00:43:54] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_sniperrifle
+[00:43:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_hlof_pipewrench
+[00:44:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep alydus_fortificationbuildertablet
+
+
+
+[00:48:59] New map: rp_powerplant_v2b2
+[00:48:59] Client "[Opi] Fat Gay" connected.
+[00:48:59] Client "[Opi] Fat Gay" connected.
+[00:48:59] Client "[Opi] Fat Gay" connected.
+[00:48:59] Client "[Opi] Fat Gay" connected.
+[00:48:59] Client "[Opi] Fat Gay" connected.
+[00:49:52] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+[01:25:04] Client "Bot01" connected.
+[01:25:04] Client "Bot01" spawned in server <BOT> (took 2229 seconds).
+[01:30:34] Fat Gay suicided!
+[02:09:54] Fat Gay suicided!
+[02:49:04] Fat Gay suicided!
+[03:28:24] Fat Gay suicided!
+[04:07:34] Fat Gay suicided!
+[04:46:44] Fat Gay suicided!
+
+
+
+[05:05:40] New map: rp_powerplant_v2b2
+[05:06:03] Client "[Opi] Fat Gay" connected.
+[05:07:16] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 73 seconds).
+[05:40:37] Client "Bot01" connected.
+[05:40:37] Client "Bot01" spawned in server <BOT> (took 2175 seconds).
+[05:46:07] Fat Gay suicided!
+[06:25:17] Fat Gay suicided!
+[07:04:27] Fat Gay suicided!
+[07:43:37] Fat Gay suicided!
+[08:22:47] Fat Gay suicided!
+[08:54:45] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[08:54:45] Dropped "Bot01" from server<BOT>
+
+
+
+[10:41:44] New map: rp_powerplant_v2b2
+[14:26:43] Client "[Opi] Fat Gay" connected.
+[14:28:15] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 92 seconds).
+[14:28:47] Fat Gay: !ca
+[14:28:59] Fat Gay: !simplax
+[14:29:02] Fat Gay: !simplac
+[14:33:14] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:15] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:15] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:16] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:16] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:16] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:16] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:16] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:17] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:23] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:25] Fat Gay<STEAM_0:1:218173703> used the tool energyball on *197
+[14:33:26] Fat Gay<STEAM_0:1:218173703> used the tool energyball on *198
+[14:33:27] Fat Gay<STEAM_0:1:218173703> used the tool energyball on *198
+[14:33:27] Fat Gay<STEAM_0:1:218173703> used the tool energyball on *198
+[14:33:27] Fat Gay<STEAM_0:1:218173703> used the tool energyball on *198
+[14:33:32] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:33] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:35] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:36] Fat Gay<STEAM_0:1:218173703> used the tool energyball on maps/rp_powerplant_v2b2.bsp
+[14:33:44] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:48] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:51] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:51] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:51] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:51] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:52] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:52] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:33:52] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:34:02] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:34:06] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:34:06] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:34:07] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:34:10] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b2.bsp
+[14:34:16] Fat Gay<STEAM_0:1:218173703> used the tool glow on maps/rp_powerplant_v2b2.bsp
+[14:34:35] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:34:46] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:34:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:34:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:34:51] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:01] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:01] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:01] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:01] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:01] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:02] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:02] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:02] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:02] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:02] Fat Gay<STEAM_0:1:218173703> used the tool smoke_trail on maps/rp_powerplant_v2b2.bsp
+[14:35:11] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:13] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:13] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:13] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:13] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:19] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:22] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:32] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:40] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:40] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:41] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:41] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:41] Fat Gay<STEAM_0:1:218173703> used the tool sparks on maps/rp_powerplant_v2b2.bsp
+[14:35:46] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:48] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:48] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:51] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:51] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:51] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:52] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:52] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:52] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:53] Fat Gay<STEAM_0:1:218173703> used the tool steam on maps/rp_powerplant_v2b2.bsp
+[14:35:55] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:36:01] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:36:01] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:36:01] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:36:01] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:37:52] Fat Gay<STEAM_0:1:218173703> used the tool tesla on *75
+[14:37:53] Fat Gay<STEAM_0:1:218173703> used the tool tesla on *75
+[14:37:53] Fat Gay<STEAM_0:1:218173703> used the tool tesla on *75
+[14:37:53] Fat Gay<STEAM_0:1:218173703> used the tool tesla on *75
+[14:38:07] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:38:07] Fat Gay<STEAM_0:1:218173703> used the tool tesla on models/nova/chair_plastic01.mdl
+[14:38:07] Fat Gay<STEAM_0:1:218173703> used the tool tesla on maps/rp_powerplant_v2b2.bsp
+[14:38:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:38:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:38:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:38:12] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props_phx/games/chess/board.mdl
+[14:38:24] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props_phx/games/chess/board.mdl
+[14:38:27] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:38:29] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:38:34] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props_phx/games/chess/board.mdl
+[14:38:35] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:38:37] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/props/de_tides/restaurant_table.mdl
+[14:39:04] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

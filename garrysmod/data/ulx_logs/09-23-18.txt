@@ -1,0 +1,991 @@
+<Logging continued from "data/ulx_logs/09-22-18.txt">
+[00:00:15] guny Pwnd killed LethalDumpster using weapon_l4d2_frying_pan
+[00:00:20] guny Pwnd killed Emmett using weapon_l4d2_frying_pan
+[00:00:22] guny Pwnd killed Fat Gay using weapon_l4d2_frying_pan
+[00:00:27] Emmett killed guny Pwnd using weapon_l4d2_frying_pan
+[00:00:38] Fat Gay: !goto let
+[00:00:38] Fat Gay teleported to LethalDumpster
+[00:00:40] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on *136
+[00:00:41] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on *136
+[00:00:41] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on *136
+[00:00:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on *136
+[00:00:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on *136
+[00:00:43] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b3.bsp
+[00:00:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b3.bsp
+[00:00:57] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[00:00:59] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[00:00:59] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/clock01.mdl
+[00:00:59] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/clock01.mdl
+[00:01:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[00:01:23] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:33] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:33] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:33] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/crow.mdl
+[00:01:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/buggy.mdl
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/buggy.mdl
+[00:01:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/crow.mdl
+[00:01:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/crow.mdl
+[00:01:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/crow.mdl
+[00:01:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:41] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:41] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on *136
+[00:01:41] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:01:58] Fat Gay was killed by prop_vehicle_jeep
+[00:02:02] Fat Gay: !goto let
+[00:02:02] Fat Gay teleported to LethalDumpster
+[00:02:08] Emmett<STEAM_0:1:41660292> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[00:02:35] guny Pwnd killed Emmett using weapon_l4d2_frying_pan
+[00:02:59] Emmett granted god mode upon Themself
+[00:03:03] LethalDumpster was killed by trigger_hurt
+[00:03:03] guny Pwnd was killed by trigger_hurt
+[00:03:03] Fat Gay was killed by trigger_hurt
+[00:03:11] guny Pwnd was killed by trigger_hurt
+[00:03:14] Fat Gay was killed by trigger_hurt
+[00:03:15] LethalDumpster was killed by trigger_hurt
+[00:03:17] guny Pwnd was killed by trigger_hurt
+[00:03:22] Fat Gay was killed by trigger_hurt
+[00:03:22] LethalDumpster was killed by trigger_hurt
+[00:03:25] guny Pwnd was killed by trigger_hurt
+[00:03:28] LethalDumpster was killed by trigger_hurt
+[00:03:29] Fat Gay was killed by trigger_hurt
+[00:03:31] guny Pwnd was killed by trigger_hurt
+[00:03:34] LethalDumpster was killed by trigger_hurt
+[00:03:35] Fat Gay was killed by trigger_hurt
+[00:03:38] guny Pwnd was killed by trigger_hurt
+[00:03:40] LethalDumpster was killed by trigger_hurt
+[00:03:40] Server is shutting down/changing levels.
+
+
+
+[00:04:29] New map: rp_powerplant_v2b3
+[00:05:26] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 91 seconds).
+[00:05:39] Client "guny Pwnd" spawned in server <STEAM_0:0:173118977> (took 104 seconds).
+[00:06:01] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[00:06:01] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 126 seconds).
+[00:06:15] Client "[Opi] Fat Gay" connected.
+[00:06:21] Client "LethalDumpster" spawned in server <STEAM_0:1:101135062> (took 146 seconds).
+[00:07:39] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 84 seconds).
+[00:07:49] Client "♕Weingott♕" connected.
+[00:09:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[00:09:12] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_crow
+[00:09:22] Fat Gay: !bring *
+[00:09:22] Fat Gay brought Emmett,LethalDumpster,guny Pwnd
+[00:09:39] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_tower on maps/rp_powerplant_v2b3.bsp
+[00:09:43] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_monitor on models/rp_powerplant/desk.mdl
+[00:09:46] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_keyboard on models/rp_powerplant/desk.mdl
+[00:10:13] Fat Gay: !bring let
+[00:10:13] Fat Gay brought LethalDumpster
+[00:10:36] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:10:38] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/computer01_keyboard.mdl
+[00:10:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/computer01_keyboard.mdl
+[00:10:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:10:40] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:10:41] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[00:10:41] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[00:10:42] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:10:43] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:11:10] Fat Gay<STEAM_0:1:218173703> used the tool pc_sweps on models/props/cs_office/computer_monitor.mdl
+[00:11:54] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ar15
+[00:11:56] Client "Bot04" connected.
+[00:11:56] Client "Bot04" spawned in server <BOT> (took 481 seconds).
+[00:12:09] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_tower on maps/rp_powerplant_v2b3.bsp
+[00:12:14] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_monitor on models/rp_powerplant/desk.mdl
+[00:12:18] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_keyboard on models/rp_powerplant/desk.mdl
+[00:12:59] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_tower on maps/rp_powerplant_v2b3.bsp
+[00:13:15] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_monitor on models/rp_powerplant/desk.mdl
+[00:13:20] Emmett banned guny Pwnd permanently (Minge)
+[00:13:23] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_monitor on models/rp_powerplant/desk.mdl
+[00:13:29] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_keyboard on models/rp_powerplant/desk.mdl
+[00:13:33] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:13:35] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[00:13:35] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_monitor.mdl
+[00:13:36] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:13:36] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:13:37] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/computer01_keyboard.mdl
+[00:13:38] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/computer01_keyboard.mdl
+[00:13:38] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:13:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:14:29] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on models/rp_powerplant/desk.mdl
+[00:14:31] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on models/rp_powerplant/desk.mdl
+[00:14:33] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on models/rp_powerplant/desk.mdl
+[00:14:58] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_printer on maps/rp_powerplant_v2b3.bsp
+[00:15:12] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_brouter on maps/rp_powerplant_v2b3.bsp
+[00:15:15] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_router on maps/rp_powerplant_v2b3.bsp
+[00:15:20] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b3.bsp
+[00:15:23] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_router on maps/rp_powerplant_v2b3.bsp
+[00:15:24] Fat Gay<STEAM_0:1:218173703> used the tool pcspawn_router on maps/rp_powerplant_v2b3.bsp
+[00:15:25] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b3.bsp
+[00:15:26] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b3.bsp
+[00:15:29] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:15:31] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b3.bsp
+[00:15:31] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:15:32] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:15:33] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:15:35] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:15:36] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:15:37] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:15:37] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:15:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:15:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:15:43] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:15:43] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:15:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[00:16:16] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[00:16:17] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[00:16:19] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/reciever01a.mdl
+[00:16:21] LethalDumpster was killed by trigger_hurt
+[00:16:21] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:16:26] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on maps/rp_powerplant_v2b3.bsp
+[00:16:26] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:16:29] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:16:31] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[00:16:32] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/kopierer.mdl
+[00:16:39] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:16:40] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props/cs_office/computer_case.mdl
+[00:16:42] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:16:44] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:16:47] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:16:49] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:16:51] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:16:51] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:17:01] Emmett was killed by env_fire
+[00:18:03] Emmett: !goto f
+[00:18:03] Emmett teleported to Fat Gay
+[00:18:14] Emmett<STEAM_0:1:41660292> used the tool pcspawn_laptop on models/rp_powerplant/desk.mdl
+[00:20:10] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/eeepc.mdl
+[00:20:11] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/eeepc.mdl
+[00:20:20] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:20:22] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/pcmod/wrt54g.mdl
+[00:20:30] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[00:20:37] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[00:21:18] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/fence03a.mdl
+[00:21:19] Fat Gay<STEAM_0:1:218173703> used the tool pcwire on models/props_c17/fence03a.mdl
+[00:21:49] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/props_c17/fence03a.mdl
+[00:21:55] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on models/props_c17/fence03a.mdl
+[00:22:01] Emmett<STEAM_0:1:41660292> used the tool pcspawn_iodevice on models/rp_powerplant/desk.mdl
+[00:22:05] Emmett<STEAM_0:1:41660292> used the tool pcspawn_speaker on models/rp_powerplant/desk.mdl
+[00:22:06] Emmett<STEAM_0:1:41660292> used the tool pcspawn_speaker on models/rp_powerplant/desk.mdl
+[00:22:16] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/cheeze/wires/speaker.mdl
+[00:22:16] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/chipstiks_pcmod_models/speakers/standardspeakermetal.mdl
+[00:22:17] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/chipstiks_pcmod_models/speakers/standardspeakermetal.mdl
+[00:22:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[00:22:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[00:22:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/clock01.mdl
+[00:22:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/clock01.mdl
+[00:22:22] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:22:22] guny Pwnd suicided!
+[00:22:23] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:22:25] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[00:22:27] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:22:28] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:22:29] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/harddrive02.mdl
+[00:22:30] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/chipstiks_pcmod_models/speakers/standardspeakermetal.mdl
+[00:22:31] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/chipstiks_pcmod_models/speakers/standardspeakermetal.mdl
+[00:22:34] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[00:22:36] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[00:22:37] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[00:22:38] Emmett<STEAM_0:1:41660292> used the tool pcwire on models/props_lab/reciever01d.mdl
+[00:22:50] Emmett<STEAM_0:1:41660292> used the tool pcwire on maps/rp_powerplant_v2b3.bsp
+[00:23:07] Emmett granted god mode upon Themself
+[00:23:59] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[00:24:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[00:24:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_metropolice
+[00:24:22] Fat Gay was killed by npc_metropolice
+[00:24:26] Server is shutting down/changing levels.
+
+
+
+[00:25:15] New map: rp_powerplant_v2b3
+[00:26:13] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 92 seconds).
+[00:26:26] Client "guny Pwnd" spawned in server <STEAM_0:0:173118977> (took 105 seconds).
+[00:26:56] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 135 seconds).
+[00:27:06] Client "LethalDumpster" spawned in server <STEAM_0:1:101135062> (took 145 seconds).
+[00:28:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[00:28:32] Emmett suicided!
+[00:28:32] Emmett killed Fat Gay using env_explosion
+[00:28:32] Emmett killed LethalDumpster using env_explosion
+[00:28:32] Emmett killed guny Pwnd using env_explosion
+[00:29:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep ls_sniper
+[00:29:44] Emmett<STEAM_0:1:41660292> spawned/gave himself swep csgo_bowie
+[00:29:49] guny Pwnd killed Emmett using fas2_thrown_m67
+[00:29:49] Client "Bot05" connected.
+[00:29:49] Client "Bot05" spawned in server <BOT> (took 308 seconds).
+[00:30:04] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[00:30:07] Emmett suicided!
+[00:30:07] Emmett killed guny Pwnd using env_explosion
+[00:30:22] Fat Gay: !GOTO LET
+[00:30:22] Fat Gay teleported to LethalDumpster
+[00:30:23] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[00:30:25] Fat Gay: !goto em
+[00:30:25] Fat Gay teleported to Emmett
+[00:30:57] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[00:30:59] guny Pwnd killed Fat Gay using fas2_thrown_m67
+[00:31:18] guny Pwnd killed Emmett using fas2_thrown_m67
+[00:31:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ots33
+[00:31:35] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[00:31:37] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[00:31:37] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[00:31:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[00:31:41] Emmett killed LethalDumpster using fas2_m3s90
+[00:31:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[00:31:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[00:31:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[00:32:22] Emmett suicided!
+[00:32:22] Emmett suicided!
+[00:32:27] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[00:32:47] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m21
+[00:32:48] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m21
+[00:32:57] Emmett killed LethalDumpster using fas2_m21
+[00:33:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[00:33:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[00:33:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[00:33:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[00:33:34] Emmett killed LethalDumpster using fas2_m21
+[00:33:45] Emmett killed LethalDumpster using fas2_m21
+[00:33:57] Client "♕Weingott♕" connected.
+[00:33:57] guny Pwnd killed Emmett using fas2_thrown_m67
+[00:34:18] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_m249_official
+[00:34:26] guny Pwnd killed Emmett using fas2_thrown_m67
+[00:34:29] guny Pwnd killed LethalDumpster using fas2_thrown_m67
+[00:34:32] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_p99
+[00:34:38] Emmett killed guny Pwnd using cw_p99
+[00:34:55] Emmett suicided!
+[00:34:55] Emmett exploded Themself
+[00:35:05] Emmett suicided!
+[00:35:05] Emmett exploded Themself
+[00:35:07] guny Pwnd killed LethalDumpster using fas2_thrown_m67
+[00:36:31] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[00:36:43] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[00:36:49] Emmett<STEAM_0:1:41660292> spawned sent ent_draughts_board
+[00:36:52] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:36:58] Emmett<STEAM_0:1:41660292> spawned sent ent_draughts_board
+[00:37:04] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:37:05] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:37:09] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:37:10] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:37:12] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:37:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weaponchecker
+[00:37:15] Fat Gay<STEAM_0:1:218173703> spawned sent ent_chess_board
+[00:37:25] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[00:37:26] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props_phx/games/chess/board.mdl
+[00:37:26] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/nova/chair_plastic01.mdl
+[00:37:26] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b3.bsp
+[00:37:29] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[00:37:34] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[00:37:36] Fat Gay<STEAM_0:1:218173703> spawned sent ent_draughts_board
+[00:37:43] Fat Gay: /savedraughts
+[00:38:26] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 269 seconds).
+[00:38:27] Fat Gay: !bring let
+[00:38:27] Fat Gay brought LethalDumpster
+[00:38:31] Fat Gay: !bring guy
+[00:38:35] Fat Gay: !bring gun
+[00:38:35] Fat Gay brought guny Pwnd
+[00:38:58] Emmett was killed by func_rotating
+[00:39:26] Emmett: /dropweapon
+[00:40:42] Emmett<STEAM_0:1:41660292> spawned sent fz_pizzaoven
+[00:40:45] Emmett<STEAM_0:1:41660292> spawned sent zpizmak_oven
+[00:40:53] Emmett<STEAM_0:1:41660292> spawned sent zpizmak_fridge
+[00:41:16] Fat Gay: !goto em
+[00:41:16] Fat Gay teleported to Emmett
+[00:41:26] Fat Gay: !savepizzamaker
+[00:41:35] Fat Gay: !goto let
+[00:41:35] Fat Gay teleported to LethalDumpster
+[00:41:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:48] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:49] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:49] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:49] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:49] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:49] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:41:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:41:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:42:19] Fat Gay: !spectate
+[00:43:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:43:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[00:43:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthvial
+[00:43:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_suitcharger
+[00:44:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:44:03] Emmett<STEAM_0:1:41660292> spawned sent cw_ammo_crate_unlimited
+[00:44:12] Fat Gay: !bring let
+[00:44:12] Fat Gay brought LethalDumpster
+[00:44:21] Emmett: !goto Wein
+[00:44:21] Emmett teleported to ♕Weingott♕
+[00:44:25] Fat Gay: !bring let
+[00:44:25] Fat Gay brought LethalDumpster
+[00:44:39] LethalDumpster was killed by trigger_hurt
+[00:44:51] Fat Gay: !bring let
+[00:44:51] Fat Gay brought LethalDumpster
+[00:45:37] ♕Weingott♕ killed Emmett using cw_m249_official
+[00:45:46] LethalDumpster killed guny Pwnd using cw_shorty
+[00:45:59] Emmett: !goto wein
+[00:45:59] Emmett teleported to ♕Weingott♕
+[00:46:01] ♕Weingott♕ killed Fat Gay using cw_m249_official
+[00:46:15] ♕Weingott♕ killed LethalDumpster using cw_m249_official
+[00:46:57] Fat Gay: !bring em
+[00:46:57] Fat Gay brought Emmett
+[00:47:02] Fat Gay killed Emmett using cw_g36c
+[00:47:10] Emmett: !goto F
+[00:47:10] Emmett teleported to Fat Gay
+[00:47:25] Fat Gay: !explode em
+[00:47:25] Emmett suicided!
+[00:47:25] Fat Gay exploded Emmett
+[00:47:42] Emmett: !goto wein
+[00:47:42] Emmett teleported to ♕Weingott♕
+[00:48:03] Fat Gay: !bring em
+[00:48:03] Fat Gay brought Emmett
+[00:48:53] Emmett: !goto wein
+[00:48:53] Emmett teleported to ♕Weingott♕
+[00:48:58] guny Pwnd: /job sexy bitch/hoe
+[00:49:25] ♕Weingott♕ killed Emmett using cw_m249_official
+[00:49:33] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/props_c17/concrete_barrier001a.mdl
+[00:49:57] Fat Gay: !slay ^
+[00:49:57] Fat Gay suicided!
+[00:49:57] Fat Gay slayed Themself
+[00:50:01] ♕Weingott♕ killed guny Pwnd using cw_m249_official
+[00:50:13] ♕Weingott♕ killed guny Pwnd using cw_m249_official
+[00:50:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:21] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[00:50:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthcharger
+[00:50:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthcharger
+[00:50:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthcharger
+[00:50:56] ♕Weingott♕ killed Emmett using cw_l115
+[00:51:06] ♕Weingott♕ killed Emmett using cw_m1911
+[00:51:10] Emmett killed ♕Weingott♕ using cw_l115
+[00:51:36] Emmett: !goto wein
+[00:51:36] Emmett teleported to ♕Weingott♕
+[00:52:25] ♕Weingott♕ killed guny Pwnd using cw_l115
+[00:52:49] ♕Weingott♕ killed guny Pwnd using cw_l115
+[00:52:55] Emmett: !goto wein
+[00:52:55] Emmett teleported to ♕Weingott♕
+[00:53:01] ♕Weingott♕ killed guny Pwnd using cw_l115
+[00:53:17] Emmett killed guny Pwnd using cw_g3a3
+[00:53:55] Fat Gay: !spectate wei
+[00:54:24] Emmett: !goto wein
+[00:54:24] Emmett teleported to ♕Weingott♕
+[00:54:49] Fat Gay: !spectate we
+[00:55:19] Emmett: !goto lethal
+[00:55:19] Emmett teleported to LethalDumpster
+[00:56:19] Fat Gay: !spectate gun
+[00:57:48] Fat Gay: !bring gun
+[00:57:48] Fat Gay brought guny Pwnd
+[00:57:54] Fat Gay: !bring let
+[00:57:54] Fat Gay brought LethalDumpster
+[00:58:50] (TEAM) Fat Gay: !bring let
+[00:58:50] Fat Gay brought LethalDumpster
+[00:58:53] Fat Gay: !bring gun
+[00:58:58] Fat Gay: !bring gun
+[00:58:58] Fat Gay brought guny Pwnd
+[01:01:29] LethalDumpster killed ♕Weingott♕ using cw_l115
+[01:02:50] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:02:50] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:02:50] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:02:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:02:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:02:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:02:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:04:04] guny Pwnd killed ♕Weingott♕ using cw_deagle
+[01:04:17] Fat Gay: !spectate wei
+[01:05:28] Emmett killed ♕Weingott♕ using cw_deagle
+[01:06:04] ♕Weingott♕ killed Emmett using cw_m1911
+[01:06:04] guny Pwnd killed ♕Weingott♕ using cw_deagle
+[01:06:36] Fat Gay: !spectate we
+[01:06:57] Emmett: !goto f
+[01:06:58] Emmett teleported to Fat Gay
+[01:07:37] guny Pwnd was killed by func_rotating
+[01:07:56] ♕Weingott♕ killed Emmett using cw_scarh
+[01:07:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:07:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:07:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:08:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:08:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:08:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:08:05] Emmett: !goto f
+[01:08:05] Emmett teleported to Fat Gay
+[01:08:16] Fat Gay was killed by func_rotating
+[01:08:22] Emmett was killed by trigger_hurt
+[01:08:39] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep cw_ak74
+[01:08:44] Fat Gay: !bring let
+[01:08:44] Fat Gay brought LethalDumpster
+[01:08:46] Emmett: !goto lethal
+[01:08:46] Emmett teleported to LethalDumpster
+[01:09:37] Emmett: !goto f
+[01:09:37] Emmett teleported to Fat Gay
+[01:11:18] LethalDumpster was killed by trigger_hurt
+[01:11:34] ♕Weingott♕ killed Emmett using cw_scarh
+[01:11:40] Fat Gay killed ♕Weingott♕ using cw_g36c
+[01:11:43] Fat Gay: !bring let
+[01:11:43] Fat Gay brought LethalDumpster
+[01:11:48] Fat Gay: !bring em
+[01:11:48] Fat Gay brought Emmett
+[01:11:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:11:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:11:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:11:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:11:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:11:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:11:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:11:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:12:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:12:19] Emmett: !stript
+[01:12:24] Emmett: !strip
+[01:12:30] Emmett: !strip emmett
+[01:12:30] Emmett stripped weapons from Themself
+[01:12:35] LethalDumpster: !stripnakedyoufatcunt
+[01:12:41] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep heretic_cw2_m27
+[01:12:47] Fat Gay: !bring gun
+[01:12:47] Fat Gay brought guny Pwnd
+[01:12:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bkeycard
+[01:12:52] Fat Gay killed guny Pwnd using cw_g36c
+[01:12:54] Emmett<STEAM_0:1:41660292> spawned/gave himself swep pocket
+[01:14:46] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep fas2_sr25
+[01:14:50] Fat Gay: !bring gun
+[01:14:50] Fat Gay brought guny Pwnd
+[01:15:17] ♕Weingott♕ killed guny Pwnd using cw_scarh
+[01:15:29] ♕Weingott♕ suicided!
+[01:15:29] ♕Weingott♕ killed Fat Gay using env_explosion
+[01:15:37] Fat Gay: !goto em
+[01:15:37] Fat Gay teleported to Emmett
+[01:15:38] Fat Gay: !bring gun
+[01:15:38] Fat Gay brought guny Pwnd
+[01:15:55] Emmett: /sethealth 100
+[01:16:04] Emmett: !sethealth 100
+[01:16:13] Emmett: /sethealth emmett 100
+[01:18:02] Fat Gay: /quickwant
+[01:18:03] Fat Gay: /quickwant
+[01:18:04] guny Pwnd was killed by trigger_hurt
+[01:18:05] Fat Gay: /quickwant
+[01:18:05] Fat Gay: /quickwant
+[01:18:08] Fat Gay: /quickwant
+[01:18:09] Fat Gay: /quickwant
+[01:18:10] Fat Gay: /quickwant
+[01:18:11] Fat Gay: /quickwant
+[01:18:12] Fat Gay: /quickwant
+[01:18:13] Fat Gay: /quickwant
+[01:18:13] ♕Weingott♕ killed LethalDumpster using cw_m249_official
+[01:18:14] Fat Gay: /quickwant
+[01:18:15] Fat Gay: /quickwant
+[01:19:14] Fat Gay: /addjailpos
+[01:19:22] Fat Gay: /addjailpos
+[01:19:44] Fat Gay: !bring em
+[01:19:44] Fat Gay brought Emmett
+[01:19:46] Fat Gay: !bring gun
+[01:19:46] Fat Gay brought guny Pwnd
+[01:19:49] Fat Gay: !bring let
+[01:19:49] Fat Gay brought LethalDumpster
+[01:20:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthvial
+[01:20:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthvial
+[01:20:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthvial
+[01:20:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:19] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:20] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:20] Emmett: /want wein
+[01:20:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:22] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:25] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:33] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:34] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:35] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:36] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:37] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:37] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:38] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:39] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:40] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:43] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:43] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:20:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:20:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:21:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:21:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:21:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:21:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:22:34] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/hunter/plates/plate1x8.mdl
+[01:22:39] Emmett: // /time set day
+[01:22:59] ♕Weingott♕: /ooc /setgamemode 1
+[01:24:38] ♕Weingott♕ killed LethalDumpster using cw_m3super90
+[01:25:01] Fat Gay: !bring gun
+[01:25:01] Fat Gay brought guny Pwnd
+[01:25:10] Fat Gay: !bring t
+[01:25:10] Fat Gay brought Bot05,Emmett,LethalDumpster,♕Weingott♕
+[01:25:16] Fat Gay: !return t
+[01:25:22] Fat Gay: !return em
+[01:25:22] Fat Gay returned Emmett to their original position
+[01:25:40] ♕Weingott♕ killed LethalDumpster using cw_m3super90
+[01:25:52] ♕Weingott♕ killed Fat Gay using cw_m3super90
+[01:26:14] ♕Weingott♕ was killed by trigger_hurt
+[01:26:26] Fat Gay: !Bring let
+[01:26:26] Fat Gay brought LethalDumpster
+[01:27:26] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:27:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:27:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:27:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:27:27] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:27:28] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:27:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:29] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:30] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:27:54] ♕Weingott♕ killed LethalDumpster using cw_m249_official
+[01:28:08] ♕Weingott♕ killed Fat Gay using fas2_thrown_m67
+[01:28:55] ♕Weingott♕ killed guny Pwnd using cw_m3super90
+[01:29:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:29:24] Fat Gay: !bring let
+[01:29:24] Fat Gay brought LethalDumpster
+[01:29:41] LethalDumpster was killed by entityflame
+[01:29:41] Fat Gay: !bring gun
+[01:29:41] Fat Gay brought guny Pwnd
+[01:29:47] Emmett: /spectate fa
+[01:29:47] Fat Gay: !bring let
+[01:29:47] Fat Gay brought LethalDumpster
+[01:29:59] Fat Gay: !bring em
+[01:29:59] Fat Gay brought Emmett
+[01:30:02] guny Pwnd killed Emmett using fas2_thrown_m67
+[01:30:02] guny Pwnd killed Fat Gay using fas2_thrown_m67
+[01:30:02] guny Pwnd killed LethalDumpster using fas2_thrown_m67
+[01:30:15] Fat Gay: !goto gun
+[01:30:15] Fat Gay teleported to guny Pwnd
+[01:30:16] ♕Weingott♕ was killed by trigger_hurt
+[01:30:23] Fat Gay: !bring tel
+[01:30:25] Fat Gay: !bring let
+[01:30:25] Fat Gay brought LethalDumpster
+[01:30:28] Fat Gay: !bring em
+[01:30:28] Fat Gay brought Emmett
+[01:30:45] Emmett: !goto f
+[01:30:45] Emmett teleported to Fat Gay
+[01:31:09] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/hunter/plates/plate7x7.mdl
+[01:31:12] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/hunter/plates/plate6x7.mdl
+[01:31:14] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/hunter/plates/plate5x7.mdl
+[01:31:27] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/hunter/plates/plate5x7.mdl
+[01:31:30] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/hunter/plates/plate5x7.mdl
+[01:31:57] ♕Weingott♕ was killed by env_fire
+[01:32:07] Fat Gay: !spectate we
+[01:33:30] Fat Gay was killed by trigger_hurt
+[01:33:50] Fat Gay was killed by env_fire
+[01:33:55] Fat Gay: !goto let
+[01:33:55] Fat Gay teleported to LethalDumpster
+[01:34:03] Fat Gay: !bring gun
+[01:34:03] Fat Gay brought guny Pwnd
+[01:34:15] Fat Gay: !spectate wei
+[01:34:48] ♕Weingott♕ killed guny Pwnd using fas2_thrown_m67
+[01:35:11] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube6x6x6.mdl
+[01:35:13] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube6x6x6.mdl
+[01:35:19] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube6x6x6.mdl
+[01:35:31] guny Pwnd: /pm f tp me
+[01:35:46] Fat Gay: !bring gun
+[01:35:46] Fat Gay brought guny Pwnd
+[01:35:56] Fat Gay: !bring em
+[01:35:56] Fat Gay brought Emmett
+[01:36:07] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube8x8x8.mdl
+[01:36:18] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/blocks/cube8x8x8.mdl
+[01:36:21] ♕Weingott♕ was killed by env_fire
+[01:36:43] Fat Gay: !return em
+[01:36:43] Fat Gay returned Emmett to their original position
+[01:36:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:51] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:36:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[01:37:04] Fat Gay: !bring gun
+[01:37:04] Fat Gay brought guny Pwnd
+[01:37:04] Emmett: /spectate wein
+[01:37:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:06] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:37:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_battery
+[01:38:07] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:07] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:07] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:08] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:08] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:08] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:08] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:08] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/hunter/plates/plate5x7.mdl
+[01:38:10] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:13] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/rp_powerplant/core_plat3.mdl
+[01:38:13] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/rp_powerplant/core_plat3.mdl
+[01:38:14] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/rp_powerplant/core_plat3.mdl
+[01:38:14] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/rp_powerplant/core_plat3.mdl
+[01:38:14] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/rp_powerplant/core_plat3.mdl
+[01:38:15] Fat Gay<STEAM_0:1:218173703> used the tool fire on *520
+[01:38:15] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:16] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:16] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:16] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:16] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:17] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:17] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:17] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:17] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:17] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:23] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:23] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:24] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:24] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:24] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:24] Fat Gay<STEAM_0:1:218173703> used the tool fire on models/dxn/cod_ghosts/hazmat_pm.mdl
+[01:38:25] Fat Gay<STEAM_0:1:218173703> used the tool fire on maps/rp_powerplant_v2b3.bsp
+[01:38:33] ♕Weingott♕ was killed by trigger_hurt
+[01:38:40] Fat Gay: !spectate we
+[01:38:49] Fat Gay was killed by env_fire
+[01:38:55] Fat Gay: !goto let
+[01:38:55] Fat Gay teleported to LethalDumpster
+[01:39:20] LethalDumpster was killed by env_fire
+[01:39:45] Fat Gay: !spectate we
+[01:40:22] Fat Gay: !spectate let
+[01:40:56] Emmett: !spectate wein
+[01:41:14] ♕Weingott♕ was killed by trigger_hurt
+[01:41:32] ♕Weingott♕ was killed by trigger_hurt
+[01:41:51] ♕Weingott♕ was killed by env_fire
+[01:41:53] Fat Gay: !goto e
+[01:41:56] Fat Gay: !goto we
+[01:41:56] Fat Gay teleported to ♕Weingott♕
+[01:42:01] Fat Gay: /quickwant
+[01:42:02] Fat Gay: /quickwant
+[01:42:04] Fat Gay: /quickwant
+[01:42:04] Fat Gay: /quickwant
+[01:42:06] Fat Gay: /quickwant
+[01:42:07] Fat Gay: /quickwant
+[01:42:08] Fat Gay: /quickwant
+[01:42:08] Fat Gay: /quickwant
+[01:42:09] Fat Gay: /quickwant
+[01:42:10] ♕Weingott♕ killed Fat Gay using cw_m1911
+[01:42:14] (TEAM) Fat Gay: !goto we
+[01:42:14] Fat Gay teleported to ♕Weingott♕
+[01:42:49] Fat Gay: !goto let
+[01:42:49] Fat Gay teleported to LethalDumpster
+[01:42:58] ♕Weingott♕ was killed by trigger_hurt
+[01:43:11] Emmett: 4198
+[01:43:13] ♕Weingott♕ was killed by env_fire
+[01:43:42] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[01:43:49] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[01:43:56] Emmett<STEAM_0:1:41660292> used the tool keypad_willox on maps/rp_powerplant_v2b3.bsp
+[01:43:58] Emmett<STEAM_0:1:41660292> used the tool keypad_willox on maps/rp_powerplant_v2b3.bsp
+[01:44:10] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on maps/rp_powerplant_v2b3.bsp
+[01:44:14] Dropped "guny Pwnd" from server<STEAM_0:0:173118977>
+[01:44:26] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on maps/rp_powerplant_v2b3.bsp
+[01:44:28] Fat Gay<STEAM_0:1:218173703> spawned model models/props_lab/filecabinet02.mdl
+[01:44:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_lab/blastdoor001c.mdl
+[01:44:44] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[01:44:45] Fat Gay<STEAM_0:1:218173703> used the tool bkeycardscanner on maps/rp_powerplant_v2b3.bsp
+[01:44:46] Fat Gay<STEAM_0:1:218173703> used the tool bkeycardscanner on maps/rp_powerplant_v2b3.bsp
+[01:45:00] Fat Gay<STEAM_0:1:218173703> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[01:45:31] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on maps/rp_powerplant_v2b3.bsp
+[01:45:58] Emmett<STEAM_0:1:41660292> used the tool bkeycardscanner on maps/rp_powerplant_v2b3.bsp
+[01:46:08] Emmett: lamo
+[01:46:11] Emmett: lmao
+[01:46:19] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[01:46:49] Emmett: /spectate fa
+[01:47:31] Fat Gay: !explode we
+[01:47:31] ♕Weingott♕ suicided!
+[01:47:31] Fat Gay exploded ♕Weingott♕
+[01:47:43] Dropped "♕Weingott♕" from server<STEAM_0:1:86800123>
+[01:47:44] Fat Gay: !bring em
+[01:47:44] Fat Gay brought Emmett
+[01:47:46] Fat Gay: !bring let
+[01:47:46] Fat Gay brought LethalDumpster
+[01:49:51] LethalDumpster killed Emmett using fas2_dv2
+[01:50:02] LethalDumpster was killed by func_rotating
+[01:50:32] Emmett: !goto f
+[01:50:32] Emmett teleported to Fat Gay
+[01:50:37] Emmett killed Fat Gay using cw_deagle
+[01:50:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[01:51:31] Emmett killed Fat Gay using cw_deagle
+[01:51:49] Emmett killed Fat Gay using fas2_dv2
+[01:52:24] Emmett killed Fat Gay using cw_g36c
+[01:53:38] Emmett killed Fat Gay using cw_g36c
+[01:53:54] Fat Gay was killed by trigger_hurt
+[01:54:00] Emmett was killed by trigger_hurt
+[01:54:05] Emmett: !goto f
+[01:54:53] Emmett<STEAM_0:1:41660292> used the tool dynamite on maps/rp_powerplant_v2b3.bsp
+[01:54:53] LethalDumpster<STEAM_0:1:101135062> spawned model models/hunter/blocks/cube2x4x05.mdl
+[01:55:05] LethalDumpster<STEAM_0:1:101135062> spawned model models/hunter/blocks/cube2x4x05.mdl
+[01:55:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_american
+[01:55:22] LethalDumpster<STEAM_0:1:101135062> spawned model models/hunter/blocks/cube2x4x05.mdl
+[01:55:33] LethalDumpster<STEAM_0:1:101135062> spawned model models/hunter/blocks/cube2x4x05.mdl
+[01:58:46] Emmett was killed by trigger_hurt
+[01:59:11] Fat Gay was killed by trigger_hurt
+[01:59:22] Emmett was killed by trigger_hurt
+[01:59:24] LethalDumpster was killed by point_hurt
+[01:59:24] Server is shutting down/changing levels.
+
+
+
+[02:00:14] New map: rp_powerplant_v2b3
+[02:01:16] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 97 seconds).
+[02:01:50] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 131 seconds).
+[02:02:18] Client "LethalDumpster" spawned in server <STEAM_0:1:101135062> (took 159 seconds).
+[02:04:31] LethalDumpster suicided!
+[02:06:03] LethalDumpster killed Emmett using cw_l115
+[02:06:03] Client "Bot06" connected.
+[02:06:03] Client "Bot06" spawned in server <BOT> (took 384 seconds).
+[02:06:05] LethalDumpster killed Fat Gay using cw_l115
+[02:06:16] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[02:06:18] LethalDumpster killed Emmett using cw_l115
+[02:06:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[02:06:21] Emmett killed LethalDumpster using player
+[02:06:24] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[02:08:49] LethalDumpster was killed by trigger_hurt
+[02:13:55] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[02:19:58] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_borealis/bluebarrel001.mdl
+[02:20:45] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/lampshade001a.mdl
+[02:21:47] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/lampshade001a.mdl
+[02:22:27] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_borealis/bluebarrel001.mdl
+[02:22:45] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/lampshade001a.mdl
+[02:28:39] Dropped "LethalDumpster" from server<STEAM_0:1:101135062>
+[02:28:39] Dropped "Bot06" from server<BOT>
+
+
+
+[05:05:40] New map: rp_powerplant_v2b3
+
+
+
+[15:05:07] New map: rp_powerplant_v2b3
+[15:09:54] Client "[Opi] Fat Gay" connected.
+[15:11:23] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 89 seconds).
+[15:15:18] Fat Gay: !explode ^
+[15:15:18] Fat Gay suicided!
+[15:15:18] Fat Gay exploded Themself
+[15:15:26] Fat Gay: !donate
+[15:22:57] Fat Gay: !donate
+[15:23:03] Client "Bot01" connected.
+[15:23:03] Client "Bot01" spawned in server <BOT> (took 1153 seconds).
+[15:25:55] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:25:55] Dropped "Bot01" from server<BOT>
+[15:26:10] Client "[Opi] Fat Gay" connected.
+[15:27:00] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+[15:29:23] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[15:31:45] New map: rp_powerplant_v2b3
+[15:32:50] Client "[Opi] Fat Gay" connected.
+[15:33:38] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[15:33:49] Client "VietnamFlashbacks" connected.
+[15:35:01] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[15:53:10] New map: rp_powerplant_v2b3
+[15:53:34] Client "[Opi] Fat Gay" connected.
+[15:54:25] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 51 seconds).
+[15:54:30] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:54:31] Server is shutting down/changing levels.
+
+
+
+[15:55:21] New map: rp_powerplant_v2b3
+[16:00:57] Client "[Opi] Fat Gay" connected.
+[16:02:26] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 89 seconds).
+[16:28:34] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:28:44] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:29:40] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_kit_small
+[16:29:41] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:29:42] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:29:57] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:29:58] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:30:16] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:30:22] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:30:28] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:30:29] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:31:15] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:31:26] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:31:34] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:31:47] Fat Gay<STEAM_0:1:218173703> spawned sent cw_ammo_crate_unlimited
+[16:31:58] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[16:32:06] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/items/ammocrate_smg1.mdl
+[17:06:23] Client "Bot01" connected.
+[17:06:23] Client "Bot01" spawned in server <BOT> (took 4297 seconds).
+[17:07:56] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:07:56] Dropped "Bot01" from server<BOT>
+[17:07:57] Client "[Opi] Fat Gay" connected.
+[17:08:48] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 51 seconds).
+[17:42:05] Client "Bot02" connected.
+[17:42:05] Client "Bot02" spawned in server <BOT> (took 6439 seconds).
+[17:47:35] Fat Gay suicided!
+[17:48:41] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:48:41] Dropped "Bot02" from server<BOT>
+
+
+
+[19:03:53] New map: rp_powerplant_v2b3
+<Logging continued in "data/ulx_logs/09-24-18.txt">

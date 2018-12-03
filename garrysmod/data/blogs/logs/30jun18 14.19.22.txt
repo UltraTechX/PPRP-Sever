@@ -1,0 +1,679 @@
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Surrender (surrender)
+[Sat Jun 30 14:19:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Flip (flip)
+[Sat Jun 30 14:19:23 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 14:19:23 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Dab (dab)
+[Sat Jun 30 14:19:23 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Facepunch (facepunch)
+[Sat Jun 30 14:19:23 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Salute (salute)
+[Sat Jun 30 14:19:23 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:19:23 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:19:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:19:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:19:40 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % bought custom entity "Large Metal Detector" for $7,500
+[Sat Jun 30 14:19:40 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: /buylargedetector
+[Sat Jun 30 14:19:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:19:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:19:49 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % bought custom entity "Small Metal Detector" for $5,000
+[Sat Jun 30 14:19:49 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) %: /buysmalldetector
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:19:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:19:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:19:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:20:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:20:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:20:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:20:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:20:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:20:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:20:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:20:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:20:39 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (zmlab_extractor) (Visitor) %: /dropweapon
+[Sat Jun 30 14:20:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:20:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:20:43 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % changed job from Visitor
+[Sat Jun 30 14:20:43 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Admin on Duty) %: /aod
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Pocket (pocket)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a MR's Tazer (realrbn_tazer_mr)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a weapon_physcannon
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a weapon_physgun
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Scripted Weapon (bn_defib_admin)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:20:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:20:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:20:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:21:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:21:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:21:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:21:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:21:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:21:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:21:28 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (realrbn_tazer_mr) (Plant Worker) % changed job from Admin on Duty
+[Sat Jun 30 14:21:28 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Plant Worker) %: /worker
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a weapon_physcannon
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Pocket (pocket)
+[Sat Jun 30 14:21:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a weapon_physgun
+[Sat Jun 30 14:21:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Worker) % picked up a Scripted Weapon (swep_radiodevice)
+[Sat Jun 30 14:21:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:21:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:21:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:21:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:21:46 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % changed job from Plant Worker
+[Sat Jun 30 14:21:46 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (CBRN Unit) %: /cbrnunit
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (cw_flash_grenade)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a weapon_physgun
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (cw_g36c)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (cw_deagle)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Pocket (pocket)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a weapon_physcannon
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (fas2_ifak)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (swep_radiodevice)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (cw_smoke_grenade)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (fas2_dv2)
+[Sat Jun 30 14:21:46 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (CBRN Unit) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:21:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:21:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:22:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:06 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (CBRN Unit) %: /votedirector
+[Sat Jun 30 14:22:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:22:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:22:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:26 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % changed job from CBRN Unit
+[Sat Jun 30 14:22:26 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (cw_deagle)
+[Sat Jun 30 14:22:26 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:22:26 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (unarrest_stick)
+[Sat Jun 30 14:22:26 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a weapon_physgun
+[Sat Jun 30 14:22:26 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:22:26 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (arrest_stick)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (stunstick)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a weapon_physcannon
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (door_ram)
+[Sat Jun 30 14:22:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Plant Director) % picked up a Pocket (pocket)
+[Sat Jun 30 14:22:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:22:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:22:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Plant Director) % picked up a Scripted Weapon (fas2_m3s90)
+[Sat Jun 30 14:22:47 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % picked up a Scripted Weapon (heretic_cw2_m27)
+[Sat Jun 30 14:22:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:22:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:22:58 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % was damaged for 56 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % was damaged for 31 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % was damaged for 62 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % was damaged for 62 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (cw_deagle) (Plant Director) % was damaged for 31 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Plant Director) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:00 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % changed job from Plant Director
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:23:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:23:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:23:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:23:09 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % picked up a Scripted Weapon (fas2_m3s90)
+[Sat Jun 30 14:23:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:23:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:23:15 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % ran ULX command "ulx slay ^"
+[Sat Jun 30 14:23:15 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % killed themself
+[Sat Jun 30 14:23:15 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) %: !slay ^
+[Sat Jun 30 14:23:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:23:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % picked up a Scripted Weapon (bn_defib_admin)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Flip (flip)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Salute (salute)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Facepunch (facepunch)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Dab (dab)
+[Sat Jun 30 14:23:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Surrender (surrender)
+[Sat Jun 30 14:23:29 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % picked up a Scripted Weapon (heretic_cw2_m27)
+[Sat Jun 30 14:23:30 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:30 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:30 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 31 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:32 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 4 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:23:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:23:34 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:35 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:37 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_m3s90) (Visitor) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:37 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:23:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:23:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:23:44 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % picked up a weapon_rpg
+[Sat Jun 30 14:23:44 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_shotgun) (Visitor) % picked up a weapon_shotgun
+[Sat Jun 30 14:23:52 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_policeshield) (Visitor) % picked up a Police Shield (weapon_policeshield)
+[Sat Jun 30 14:23:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:23:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:23:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (bn_defib_admin) (Visitor) % picked up a Scripted Weapon (bn_defib_admin)
+[Sat Jun 30 14:24:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:24:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:24:06 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (bn_defib_admin) (Visitor) % picked up a Police Shield (weapon_policeshield)
+[Sat Jun 30 14:24:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:24:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:24:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:24:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:24:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:24:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:24:08 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:24:08 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:24:08 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:24:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:24:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:24:16 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % was damaged for 8 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:24:17 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % was damaged for 31 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:24:17 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % was damaged for 31 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:24:17 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (heretic_cw2_m27) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:24:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:24:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:24:23 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:24:28 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % was damaged for 40 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_shotgun) (Visitor) % with a weapon_shotgun
+[Sat Jun 30 14:24:29 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % was damaged for 25 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_shotgun) (Visitor) % with a weapon_shotgun
+[Sat Jun 30 14:24:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:24:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:24:36 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % picked up a Scripted Weapon (weapon_ak472)
+[Sat Jun 30 14:24:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:24:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:24:45 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:24:50 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:24:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:24:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:24:56 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:25:01 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:25:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:25:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:25:06 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_ak472) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:25:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:25:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:25:19 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:25:19 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % ran ULX command "ulx sslay $3770081666"
+[Sat Jun 30 14:25:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:25:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:25:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:25:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:25:36 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (bn_defib_admin) (Sand Nigerian) % changed job from Visitor
+[Sat Jun 30 14:25:36 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Sand Nigerian) %: /scpheadcrab
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a weapon_physgun
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Dab (dab)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Flip (flip)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Surrender (surrender)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Facepunch (facepunch)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a weapon_physcannon
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a weapon_crowbar
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Pocket (pocket)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Salute (salute)
+[Sat Jun 30 14:25:37 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Sand Nigerian) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 14:25:37 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % ran ULX command "ulx sslay $3770081666"
+[Sat Jun 30 14:25:37 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % ran ULX command "ulx sslay $3770081666"
+[Sat Jun 30 14:25:41 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % ran ULX command "ulx slap $3770081666 0.00"
+[Sat Jun 30 14:25:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:25:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:25:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:25:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:25:56 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % changed job from Sand Nigerian
+[Sat Jun 30 14:25:56 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Osama Bin Laden) %: /headterrorist
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a weapon_physcannon
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (pro_lockpick)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Salute (salute)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (weapon_jihadbomb)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Surrender (surrender)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_ammobox)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Dab (dab)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Pocket (pocket)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_ifak)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_m67)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Facepunch (facepunch)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_mr96)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_smoke_grenade)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Flip (flip)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_scarh)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_machete)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_flash_grenade)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (prokeypadcracker)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 14:25:56 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a weapon_physgun
+[Sat Jun 30 14:26:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:26:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:26:10 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % ran ULX command "ulx slay emm"
+[Sat Jun 30 14:26:10 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) %: !slay emm
+[Sat Jun 30 14:26:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:26:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:26:14 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) %: !menu
+[Sat Jun 30 14:26:15 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) %: // help
+[Sat Jun 30 14:26:18 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % ran ULX command "ulx actbecon"
+[Sat Jun 30 14:26:20 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:26:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:26:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:26:26 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % ran ULX command "ulx ignite $3770081666 300.00"
+[Sat Jun 30 14:26:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:26:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:26:36 2018] Connects/Disconnects: Valien (STEAM_0:1:41660292) disconnected (Disconnect by user.)
+[Sat Jun 30 14:26:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:26:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:26:48 2018] Connects/Disconnects: Valien (STEAM_0:1:41660292) connected from a:24:{s:17:"geoplugin_request";s:12:"108.2.221.98";s:16:"geoplugin_status";i:200;s:15:"geoplugin_delay";s:3:"2ms";s:16:"geoplugin_credit";s:145:"Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\'http://www.maxmind.com\'>http://www.maxmind.com</a>.";s:14:"geoplugin_city";s:12:"Collegeville";s:16:"geoplugin_region";s:12:"Pennsylvania";s:20:"geoplugin_regionCode";s:2:"PA";s:20:"geoplugin_regionName";s:12:"Pennsylvania";s:18:"geoplugin_areaCode";s:0:"";s:17:"geoplugin_dmaCode";s:3:"504";s:21:"geoplugin_countryCode";s:2:"US";s:21:"geoplugin_countryName";s:13:"United States";s:14:"geoplugin_inEU";i:0;s:19:"geoplugin_euVATrate";b:0;s:23:"geoplugin_continentCode";s:2:"NA";s:23:"geoplugin_continentName";s:13:"North America";s:18:"geoplugin_latitude";s:7:"40.1879";s:19:"geoplugin_longitude";s:8:"-75.4254";s:32:"geoplugin_locationAccuracyRadius";s:1:"5";s:18:"geoplugin_timezone";s:16:"America/New_York";s:22:"geoplugin_currencyCode";s:3:"USD";s:24:"geoplugin_currencySymbol";s:5:"&#36;";s:29:"geoplugin_currencySymbol_UTF8";s:1:"$";s:27:"geoplugin_currencyConverter";s:1:"1";}
+[Sat Jun 30 14:26:51 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % ran ULX command "ulx resetmap"
+[Sat Jun 30 14:26:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:26:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:26:53 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % ran ULX command "ulx resetmap"
+[Sat Jun 30 14:26:56 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % ran ULX command "ulx blogs"
+[Sat Jun 30 14:27:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:27:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:27:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:27:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:27:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:27:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:27:23 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % bought custom entity "Large Metal Detector" for $7,500
+[Sat Jun 30 14:27:23 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) %: /buylargedetector
+[Sat Jun 30 14:27:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:27:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:27:38 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:27:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:27:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:27:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:27:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:02 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:28:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:28:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:28:03 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:28:10 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (breachingcharge) (Visitor) % picked up a Scripted Weapon (breachingcharge)
+[Sat Jun 30 14:28:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:28:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:28:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:28:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:37 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (breachingcharge) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:28:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:28:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:51 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_p2282) (Visitor) % picked up a Scripted Weapon (weapon_p2282)
+[Sat Jun 30 14:28:52 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) %: /requestlicense
+[Sat Jun 30 14:28:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:28:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:28:55 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_p2282) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:29:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:29:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:29:06 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_deagle) (Visitor) % picked up a Scripted Weapon (fas2_deagle)
+[Sat Jun 30 14:29:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:29:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:29:13 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % was damaged for 110 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_deagle) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:29:15 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % was damaged for 110 damage by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_deagle) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:29:16 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Osama Bin Laden) % was killed by %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_deagle) (Visitor) % with a Scripted Weapon
+[Sat Jun 30 14:29:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (fas2_deagle) (Visitor) % picked up a Scripted Weapon (bn_defib_admin)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_smoke_grenade)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_flash_grenade)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Flip (flip)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_machete)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a weapon_physcannon
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_ifak)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Pocket (pocket)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (pro_lockpick)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_mr96)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Salute (salute)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (weapon_jihadbomb)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Facepunch (facepunch)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Surrender (surrender)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_ammobox)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Dab (dab)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (prokeypadcracker)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (cw_scarh)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a Scripted Weapon (fas2_m67)
+[Sat Jun 30 14:29:22 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Osama Bin Laden) % picked up a weapon_physgun
+[Sat Jun 30 14:29:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:29:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:29:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:29:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:29:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:29:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:29:52 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:29:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:29:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:29:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:29:54 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (bn_defib_admin) (Visitor) % picked up a Scripted Weapon (bn_defib_admin)
+[Sat Jun 30 14:29:59 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:30:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:30:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:30:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:30:05 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % bought custom entity "Small Metal Detector" for $5,000
+[Sat Jun 30 14:30:05 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) %: /buysmalldetector
+[Sat Jun 30 14:30:11 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:30:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:30:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:30:13 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:30:16 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:30:17 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_medicinal) (Visitor) % picked up a Medicinal Vape (weapon_vape_medicinal)
+[Sat Jun 30 14:30:18 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_medicinal) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:30:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_juicy) (Visitor) % picked up a Juicy Vape (weapon_vape_juicy)
+[Sat Jun 30 14:30:20 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_juicy) (Visitor) % was damaged for 13 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:30:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:30:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:30:26 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:30:30 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:30:32 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_medicinal) (Visitor) % picked up a Medicinal Vape (weapon_vape_medicinal)
+[Sat Jun 30 14:30:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:30:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:30:33 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:30:42 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:30:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:30:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:30:47 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:30:48 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:30:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:30:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:30:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_mr96) (Osama Bin Laden) % picked up a Scripted Weapon (weapon_m42)
+[Sat Jun 30 14:31:00 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Osama Bin Laden) % picked up a Scripted Weapon (ls_sniper)
+[Sat Jun 30 14:31:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:31:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:31:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:31:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:31:18 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:31:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:31:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:31:24 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:31:25 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:31:30 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % was damaged for 25 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:31:31 2018] Player Damage: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % was damaged for 25 damage by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:31:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:31:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:31:35 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:31:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:31:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:31:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:31:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:31:53 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:31:59 2018] FAdmin: Emmett (STEAM_0:1:41660292) Cleaned up the map
+[Sat Jun 30 14:32:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:32:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:32:07 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:32:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:32:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:32:17 2018] Player Kills: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % was killed by %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Osama Bin Laden) % with a Scripted Weapon
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:32:20 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:32:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:32:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:32:28 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:32:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:32:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:32:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:32:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:32:52 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (ls_sniper) (Head of SWAT) % changed job from Osama Bin Laden
+[Sat Jun 30 14:32:52 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Head of SWAT) %: /headswat
+[Sat Jun 30 14:32:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:32:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:32:54 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Head of SWAT) % picked up a Scripted Weapon (swep_radiodevice)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (cw_m1911)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Facepunch (facepunch)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a weapon_physcannon
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (fas2_ammobox)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Flip (flip)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (stunstick)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (cw_m3super90)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Middle-Finger (middlefinger)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (door_ram)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (unarrest_stick)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (cw_smoke_grenade)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (cw_g36c)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Surrender (surrender)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (cw_flash_grenade)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a weapon_physgun
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Dab (dab)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Pocket (pocket)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (keys)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (fas2_ifak)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (arrest_stick)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (fas2_m67)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (swep_radiodevice)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Salute (salute)
+[Sat Jun 30 14:32:57 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % picked up a Scripted Weapon (fas2_dv2)
+[Sat Jun 30 14:33:00 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) % bought custom entity "Small Metal Detector" for $5,000
+[Sat Jun 30 14:33:00 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Head of SWAT) %: /buysmalldetector
+[Sat Jun 30 14:33:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:33:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:33:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:33:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:33:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:33:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:33:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:33:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:33:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_deagle2) (Head of SWAT) % picked up a Scripted Weapon (weapon_deagle2)
+[Sat Jun 30 14:33:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:33:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:33:44 2018] Buys: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_deagle2) (Head of SWAT) % bought custom entity "Large Metal Detector" for $7,500
+[Sat Jun 30 14:33:44 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_deagle2) (Head of SWAT) %: /buylargedetector
+[Sat Jun 30 14:33:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:33:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:34:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:34:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:34:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:34:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:34:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:34:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:34:22 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator" on entity "ent_metal_detector_small" (models/heracles421/metal_detector/metal_detector_small.mdl)
+[Sat Jun 30 14:34:23 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator" on entity "ent_metal_detector_small" (models/heracles421/metal_detector/metal_detector_small.mdl)
+[Sat Jun 30 14:34:23 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:23 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:27 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Head of SWAT) % picked up a Scripted Weapon (ls_sniper)
+[Sat Jun 30 14:34:31 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator" on entity "ent_metal_detector_small" (models/heracles421/metal_detector/metal_detector_small.mdl)
+[Sat Jun 30 14:34:31 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:31 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:32 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Scripted Weapon (ls_sniper)
+[Sat Jun 30 14:34:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:34:32 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:34:33 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:33 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:34 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:34 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:36 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:36 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:37 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:34:38 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:41 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:41 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:41 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:42 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:42 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:42 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:42 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:34:42 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:34:42 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % attempted to use tool "creator"
+[Sat Jun 30 14:34:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Head of SWAT) % spawned SWEP "Scripted Weapon"
+[Sat Jun 30 14:34:44 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (ls_sniper) (Visitor) % picked up a Scripted Weapon (ls_sniper)
+[Sat Jun 30 14:34:49 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (ls_sniper) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:34:50 2018] ULX: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Visitor) % ran ULX command "ulx strip $3770081666"
+[Sat Jun 30 14:34:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:34:52 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:35:00 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_vape_mega) (Visitor) % picked up a Mega Vape (weapon_vape_mega)
+[Sat Jun 30 14:35:01 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_vape_american) (Head of SWAT) % picked up a American Vape (weapon_vape_american)
+[Sat Jun 30 14:35:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:35:02 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:35:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:35:12 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Sat Jun 30 14:35:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Sat Jun 30 14:35:22 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"

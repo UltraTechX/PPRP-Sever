@@ -1,0 +1,8 @@
+<Logging continued from "data/ulx_logs/05-09-18.txt">
+[17:10:09] Client "Fat Gay" connected.
+[17:11:27] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 78 seconds).
+[17:13:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep heretic_cw2_m27
+[17:14:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_ak47
+[17:33:32] Fat Gay suicided!
+[18:05:02] Fat Gay suicided!
+[18:10:54] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

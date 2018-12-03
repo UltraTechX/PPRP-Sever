@@ -1,0 +1,880 @@
+Thu Oct 11 21:02:10 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Thu Oct 11 21:02:10 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:02:21 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Thu Oct 11 21:02:21 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:02:27 2018	Cpt. Wobbels (STEAM_0:1:36901211) has joined the game
+Thu Oct 11 21:02:27 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:02:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 21:02:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 21:02:51 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:03:01 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:03:02 2018	Valien (STEAM_0:1:41660292) has joined the game
+Thu Oct 11 21:03:02 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 21:03:03 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Thu Oct 11 21:03:03 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:03:05 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Thu Oct 11 21:03:05 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:03:08 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:03:42 2018	Michael J Caboose (STEAM_0:1:184775407): !motd
+Thu Oct 11 21:03:43 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Thu Oct 11 21:03:43 2018	Enviro (STEAM_0:0:80115103) spawned
+Thu Oct 11 21:03:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc guys
+Thu Oct 11 21:03:51 2018	Director Dimension (STEAM_0:1:111567013): // WHAT
+Thu Oct 11 21:03:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc can I test a command for psuedo-restart?
+Thu Oct 11 21:04:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc youre all gonna die
+Thu Oct 11 21:04:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill make you director again tho
+Thu Oct 11 21:04:09 2018	Director Dimension (STEAM_0:1:111567013): // Thats gfine
+Thu Oct 11 21:04:09 2018	Nacho (STEAM_0:1:72833401) has joined the game
+Thu Oct 11 21:04:09 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:04:14 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Thu Oct 11 21:04:14 2018	Fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Director Dimension was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Mike was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Cpt. Wobbels was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Dave Letcher was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Enviro was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Nacho was killed by Himself with a suicide trick
+Thu Oct 11 21:04:15 2018	Michael J Caboose was killed by Himself with a suicide trick
+Thu Oct 11 21:04:16 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:04:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 21:04:18 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:04:18 2018	Mike (STEAM_0:1:41660292): // yeey
+Thu Oct 11 21:04:18 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:04:19 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 21:04:22 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:04:28 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 21:04:28 2018	HOS Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 21:04:30 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:04:31 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:04:41 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:04:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc test over, psuedo restart is complete! just need to upload it to the workshop
+Thu Oct 11 21:04:45 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:04:50 2018	GAMBLING OPI (STEAM_0:1:232345223) has joined the game
+Thu Oct 11 21:04:50 2018	Gambling (STEAM_0:1:232345223) spawned
+Thu Oct 11 21:05:01 2018	Enviro (STEAM_0:0:80115103) spawned
+Thu Oct 11 21:05:13 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 21:05:13 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:05:20 2018	Mike was killed by Fallenturtle with a fas2_thrown_m67
+Thu Oct 11 21:05:23 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 21:05:27 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:05:28 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 21:05:31 2018	Mike (STEAM_0:1:41660292): !goto fallen
+Thu Oct 11 21:05:31 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Thu Oct 11 21:06:14 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:06:25 2018	Imperial_Germany (STEAM_0:0:115652713) has joined the game
+Thu Oct 11 21:06:25 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:06:28 2018	HOS Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 21:06:41 2018	HOS Light (STEAM_0:1:59756947): /name birman
+Thu Oct 11 21:06:50 2018	Nacho (STEAM_0:1:72833401): // epic boredom
+Thu Oct 11 21:06:55 2018	Enviro (STEAM_0:0:80115103) spawned
+Thu Oct 11 21:07:28 2018	Nacho (STEAM_0:1:72833401): // core status: yeet
+Thu Oct 11 21:07:38 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:07:40 2018	Somebody (STEAM_0:0:58278368): yeah
+Thu Oct 11 21:07:55 2018	Nacho (STEAM_0:1:72833401): // So basically, terrorists go inside of the building and mass rdm everyone in it?
+Thu Oct 11 21:08:02 2018	Fallenturtle (STEAM_0:1:62867403): // yep
+Thu Oct 11 21:08:42 2018	Michael J Caboose (STEAM_0:1:184775407): // um fat you should change that they can do that because how you think a lot of people are going to join
+Thu Oct 11 21:08:53 2018	Michael J Caboose (STEAM_0:1:184775407): // terrorists
+Thu Oct 11 21:09:01 2018	Cpt. Wobbels was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Thu Oct 11 21:09:08 2018	Mike (STEAM_0:1:41660292): // Rule 1 of Raiding/Mugging/etc: You may only do one of these actions every ten minutes
+Thu Oct 11 21:09:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // pushing psuedo restart to shutdown now
+Thu Oct 11 21:09:18 2018	Nacho (STEAM_0:1:72833401): // I've never raided so ye
+Thu Oct 11 21:09:20 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:09:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // to server***
+Thu Oct 11 21:09:23 2018	John Schaefer (STEAM_0:0:115652713): // What
+Thu Oct 11 21:09:27 2018	Cpt. Wobbels (STEAM_0:1:36901211): 
+Thu Oct 11 21:09:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc psuedo restart
+Thu Oct 11 21:09:31 2018	Cpt. Wobbels (STEAM_0:1:36901211): @ why did I die?
+Thu Oct 11 21:09:34 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:09:36 2018	Nacho (STEAM_0:1:72833401): // Do I have to advert raid?
+Thu Oct 11 21:09:37 2018	John Schaefer (STEAM_0:0:115652713): // Damn
+Thu Oct 11 21:10:05 2018	Michael J Caboose (STEAM_0:1:184775407): // i know but if we do get a lot of people and see they can kos they would stay that job and people will be mad
+Thu Oct 11 21:10:40 2018	Michael J Caboose (STEAM_0:1:184775407): // by dying all the time by terrorists
+Thu Oct 11 21:10:48 2018	Enviro (STEAM_0:0:80115103) spawned
+Thu Oct 11 21:10:55 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:10:57 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:11:04 2018	Somebody (STEAM_0:0:58278368): hi
+Thu Oct 11 21:11:35 2018	Nacho (STEAM_0:1:72833401): // Who's the voice of the "a reminder" dude
+Thu Oct 11 21:11:39 2018	Gambling (STEAM_0:1:232345223) disconnected
+Thu Oct 11 21:11:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc mike
+Thu Oct 11 21:11:40 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:11:42 2018	Enviro (STEAM_0:0:80115103): // mike
+Thu Oct 11 21:11:42 2018	Fallenturtle (STEAM_0:1:62867403): // mike
+Thu Oct 11 21:11:42 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:11:50 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Thu Oct 11 21:11:50 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:11:54 2018	Michael J Caboose (STEAM_0:1:184775407): // lol
+Thu Oct 11 21:12:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc can I restart the server to make psuedo restart take effect?
+Thu Oct 11 21:12:07 2018	Enviro (STEAM_0:0:80115103): // what that, and no 
+Thu Oct 11 21:12:09 2018	Fallenturtle (STEAM_0:1:62867403): // can we mass rdm before it
+Thu Oct 11 21:12:09 2018	Nacho (STEAM_0:1:72833401): On the ground fagget
+Thu Oct 11 21:12:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you dont have to d/c I have acrashscreen
+Thu Oct 11 21:12:12 2018	Enviro (STEAM_0:0:80115103): // jk idc
+Thu Oct 11 21:12:13 2018	Michael J Caboose (STEAM_0:1:184775407): // ok
+Thu Oct 11 21:12:15 2018	Fallenturtle (STEAM_0:1:62867403): // thats the big question
+Thu Oct 11 21:12:18 2018	Nacho (STEAM_0:1:72833401): // no
+Thu Oct 11 21:12:20 2018	Director Dimension was killed by Nacho with a cw_shorty
+Thu Oct 11 21:12:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc theres a thing that comes up saying it crashed
+Thu Oct 11 21:12:26 2018	Nacho (STEAM_0:1:72833401): // boom, director rekt
+Thu Oct 11 21:12:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i can still send messages to everyone
+Thu Oct 11 21:12:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and say when its back up
+Thu Oct 11 21:12:43 2018	Nacho (STEAM_0:1:72833401): // no
+Thu Oct 11 21:12:44 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:12:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc why not
+Thu Oct 11 21:12:48 2018	Nacho (STEAM_0:1:72833401): // don't, I'm killing webuls
+Thu Oct 11 21:12:50 2018	Enviro (STEAM_0:0:80115103): // because
+Thu Oct 11 21:12:53 2018	Enviro (STEAM_0:0:80115103): // we're RPING
+Thu Oct 11 21:12:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i need to go eat dinner in a minute
+Thu Oct 11 21:13:01 2018	Fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 21:13:02 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:13:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fine
+Thu Oct 11 21:13:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill do the restart later
+Thu Oct 11 21:13:11 2018	Nacho (STEAM_0:1:72833401): // then restart when you come back xd!
+Thu Oct 11 21:13:13 2018	Fallenturtle (STEAM_0:1:62867403): // do it now
+Thu Oct 11 21:13:15 2018	Cpt. Wobbels (STEAM_0:1:36901211): !motd
+Thu Oct 11 21:13:22 2018	Nacho (STEAM_0:1:72833401): // no
+Thu Oct 11 21:13:24 2018	Dave Letcher (STEAM_0:1:52038966): // crashed
+Thu Oct 11 21:13:38 2018	Dave Letcher (STEAM_0:1:52038966): // why are terorrist here
+Thu Oct 11 21:13:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fine ill restart in 2 hours when i get back
+Thu Oct 11 21:13:41 2018	Dave Letcher (STEAM_0:1:52038966): // It hasn';t been 15 minutes
+Thu Oct 11 21:13:49 2018	Enviro (STEAM_0:0:80115103): // lmao wait it hasnt?
+Thu Oct 11 21:13:49 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:13:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its failrp but i need to go eat dinne
+Thu Oct 11 21:14:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no lol its been like 5-10
+Thu Oct 11 21:14:01 2018	Dave Letcher (STEAM_0:1:52038966): // Not even fucking close
+Thu Oct 11 21:14:06 2018	John Schaefer (STEAM_0:0:115652713): // Well im just gonna leave the lights off
+Thu Oct 11 21:14:11 2018	John Schaefer was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 21:14:12 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:14:21 2018	Fallenturtle was killed by Entity [5102][point_hurt] with a point_hurt
+Thu Oct 11 21:14:22 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:14:24 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:14:29 2018	Dave Letcher (STEAM_0:1:52038966): // Jump do your death please
+Thu Oct 11 21:14:36 2018	Nacho (STEAM_0:1:72833401): /Advert Yeaaahh faggots let's fuck shit up
+Thu Oct 11 21:14:36 2018	Fallenturtle (STEAM_0:1:62867403): // will do 
+Thu Oct 11 21:14:37 2018	Dave Letcher (STEAM_0:1:52038966): // undo what you did as T
+Thu Oct 11 21:14:41 2018	Dave Letcher (STEAM_0:1:52038966): //
+Thu Oct 11 21:14:45 2018	Dave Letcher (STEAM_0:1:52038966): // No it hasn't been 10 minutes
+Thu Oct 11 21:14:48 2018	Dave Letcher (STEAM_0:1:52038966): // No Terorrists allowed
+Thu Oct 11 21:14:51 2018	John Schaefer (STEAM_0:0:115652713): // I only turned off the lights
+Thu Oct 11 21:14:55 2018	Nacho (STEAM_0:1:72833401): // u suck
+Thu Oct 11 21:14:55 2018	Dave Letcher (STEAM_0:1:52038966): // Enviro
+Thu Oct 11 21:14:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you need to wait 15
+Thu Oct 11 21:15:07 2018	Dave Letcher (STEAM_0:1:52038966): // who in gods name
+Thu Oct 11 21:15:08 2018	Nacho (STEAM_0:1:72833401): // I'll wait 5 mins then come back to massacre every1
+Thu Oct 11 21:15:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok bye mike take over although you really already did
+Thu Oct 11 21:15:16 2018	Dave Letcher (STEAM_0:1:52038966): // is checkpointing the fucking lobby elevator
+Thu Oct 11 21:15:23 2018	Enviro (STEAM_0:0:80115103) disconnected
+Thu Oct 11 21:15:24 2018	birman (STEAM_0:1:59756947): /job the darker knight
+Thu Oct 11 21:15:41 2018	Dave Letcher (STEAM_0:1:52038966): // has it been TEN minutes
+Thu Oct 11 21:15:45 2018	Dave Letcher (STEAM_0:1:52038966): // cause the SCP is fucking out
+Thu Oct 11 21:15:45 2018	birman (STEAM_0:1:59756947): /ooc i havnt died 
+Thu Oct 11 21:15:47 2018	Dave Letcher (STEAM_0:1:52038966): // did terorrists do that
+Thu Oct 11 21:15:53 2018	Nacho (STEAM_0:1:72833401): // na
+Thu Oct 11 21:15:57 2018	Nacho (STEAM_0:1:72833401): // at least not me
+Thu Oct 11 21:16:12 2018	Somebody (STEAM_0:0:58278368): hi
+Thu Oct 11 21:16:22 2018	Cpt. Wobbels (STEAM_0:1:36901211): !motd
+Thu Oct 11 21:16:25 2018	birman (STEAM_0:1:59756947): /ooc I AM BIRMAN PROTECTOR OF GO-TUM AND THE CORE
+Thu Oct 11 21:16:38 2018	John Schaefer (STEAM_0:0:115652713) disconnected
+Thu Oct 11 21:16:38 2018	Nacho (STEAM_0:1:72833401): // Nibba I was blasting the core off
+Thu Oct 11 21:16:59 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:17:24 2018	Somebody was killed by Cpt. Wobbels with a cw_l85a2
+Thu Oct 11 21:17:27 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:17:45 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:17:48 2018	Somebody (STEAM_0:0:58278368): terrorists have activate the rocket
+Thu Oct 11 21:17:50 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:18:08 2018	Somebody (STEAM_0:0:58278368): someone needs to turn it down
+Thu Oct 11 21:18:14 2018	birman (STEAM_0:1:59756947): /name Director Birdman
+Thu Oct 11 21:18:20 2018	Somebody (STEAM_0:0:58278368): hi
+Thu Oct 11 21:18:20 2018	Imperial_Germany (STEAM_0:0:115652713) has joined the game
+Thu Oct 11 21:18:20 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:18:26 2018	Somebody was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 21:18:31 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:18:49 2018	Nacho (STEAM_0:1:72833401): // alright 5 minutes passed
+Thu Oct 11 21:18:51 2018	Director Dimension (STEAM_0:1:111567013): /pm Michael Add SWAT to the keycard scanner
+Thu Oct 11 21:19:06 2018	Dave Letcher (STEAM_0:1:52038966): /advert Director, lower lights are off
+Thu Oct 11 21:19:17 2018	Michael J Caboose (STEAM_0:1:184775407): // i will
+Thu Oct 11 21:19:18 2018	Fallenturtle (STEAM_0:1:62867403): /ADVERT sas team is goeing in
+Thu Oct 11 21:19:20 2018	Fallenturtle (STEAM_0:1:62867403): /job SAS
+Thu Oct 11 21:19:29 2018	Fallenturtle (STEAM_0:1:62867403): /job SAS Officer
+Thu Oct 11 21:19:35 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:19:36 2018	Fallenturtle (STEAM_0:1:62867403): /job SAS Officer
+Thu Oct 11 21:19:48 2018	Dave Letcher (STEAM_0:1:52038966): /advert Pumps are on
+Thu Oct 11 21:19:49 2018	Somebody (STEAM_0:0:58278368): /y gee thanks
+Thu Oct 11 21:19:49 2018	Nacho (STEAM_0:1:72833401): /Y cunt open up, it's the uhh... SAS
+Thu Oct 11 21:19:55 2018	Dave Letcher (STEAM_0:1:52038966): /advert were I should say
+Thu Oct 11 21:19:57 2018	Somebody (STEAM_0:0:58278368): k
+Thu Oct 11 21:20:14 2018	Dave Letcher (STEAM_0:1:52038966): /advert So is  the fan, and somone else turned hte lights on
+Thu Oct 11 21:20:22 2018	Dave Letcher (STEAM_0:1:52038966): /advert Off again
+Thu Oct 11 21:20:34 2018	Mike (STEAM_0:1:41660292): // Caboose turned them on
+Thu Oct 11 21:20:34 2018	Somebody (STEAM_0:0:58278368): /a someone needs to turn the core down
+Thu Oct 11 21:20:47 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:20:52 2018	Somebody (STEAM_0:0:58278368): /a the core is powered all the way up i thinl
+Thu Oct 11 21:20:57 2018	Director Dimension (STEAM_0:1:111567013): SWAT preparing to breach admin room. Need asssistance.
+Thu Oct 11 21:20:57 2018	Somebody (STEAM_0:0:58278368): /a think
+Thu Oct 11 21:20:58 2018	Dave Letcher (STEAM_0:1:52038966): /advert Im setting up checkpoints in the basment
+Thu Oct 11 21:21:24 2018	Michael J Caboose was killed by Nacho with a cw_scarh
+Thu Oct 11 21:21:36 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:22:12 2018	Cpt. Wobbels was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Thu Oct 11 21:22:13 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:22:23 2018	Dave Letcher was killed by Nacho with a cw_scarh
+Thu Oct 11 21:22:25 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Thu Oct 11 21:22:28 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:22:30 2018	Director Dimension (STEAM_0:1:111567013): // What?
+Thu Oct 11 21:22:39 2018	Somebody (STEAM_0:0:58278368): /a wut
+Thu Oct 11 21:22:57 2018	Director Dimension (STEAM_0:1:111567013) disconnected
+Thu Oct 11 21:23:07 2018	Michael J Caboose (STEAM_0:1:184775407): /drop
+Thu Oct 11 21:23:48 2018	Nacho was killed by Director Birdman with a eoti_raven_swep
+Thu Oct 11 21:23:58 2018	Nacho (STEAM_0:1:72833401): // Jesus how much HP do you have
+Thu Oct 11 21:24:07 2018	Cpt. Wobbels was killed by Fallenturtle with a cw_g3a3
+Thu Oct 11 21:24:07 2018	Director Birdman (STEAM_0:1:59756947): /ooc 720 rn
+Thu Oct 11 21:24:12 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:24:13 2018	Nacho (STEAM_0:1:72833401): // oh, that makes sense
+Thu Oct 11 21:24:13 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:24:15 2018	Somebody (STEAM_0:0:58278368): /a scps have a lot of health
+Thu Oct 11 21:24:24 2018	Nacho (STEAM_0:1:72833401): // ye, I see
+Thu Oct 11 21:24:25 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:24:30 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:24:33 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:24:39 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:24:56 2018	John Schaefer (STEAM_0:0:115652713): 
+Thu Oct 11 21:25:19 2018	Nacho (STEAM_0:1:72833401): Let's move in, boss
+Thu Oct 11 21:26:30 2018	John Schaefer (STEAM_0:0:115652713): /advert Unauthorized use of any buttons that have shit to do with the core will result in violent rape
+Thu Oct 11 21:27:06 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 21:27:06 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 21:27:08 2018	Fallenturtle (STEAM_0:1:62867403): /advert the director wants you on executives radio
+Thu Oct 11 21:27:19 2018	John Schaefer (STEAM_0:0:115652713): /advert Me?
+Thu Oct 11 21:27:31 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Thu Oct 11 21:27:31 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:28:00 2018	Nacho (STEAM_0:1:72833401): /first warning
+Thu Oct 11 21:28:19 2018	Cpt. Wobbels was killed by Michael J Caboose with a fas2_thrown_m67
+Thu Oct 11 21:28:20 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:28:21 2018	Nacho was killed by Michael J Caboose with a fas2_thrown_m67
+Thu Oct 11 21:28:44 2018	Nacho (STEAM_0:1:72833401): /advert *Cough cough* Osama?! I'm dying
+Thu Oct 11 21:28:53 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:29:05 2018	Nacho was killed by Himself with a suicide trick
+Thu Oct 11 21:29:06 2018	Nacho (STEAM_0:1:72833401) spawned
+Thu Oct 11 21:29:16 2018	Nacho (STEAM_0:1:72833401) disconnected
+Thu Oct 11 21:29:26 2018	Somebody was killed by Entity [5488][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Thu Oct 11 21:29:43 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:30:39 2018	Michael J Caboose was killed by Cpt. Wobbels with a cw_scarh
+Thu Oct 11 21:30:44 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:31:04 2018	John Schaefer was killed by Cpt. Wobbels with a cw_mr96
+Thu Oct 11 21:31:07 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:31:11 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:31:54 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:32:19 2018	Mike (STEAM_0:1:41660292) disconnected
+Thu Oct 11 21:33:00 2018	Cpt. Wobbels was killed by Director Birdman with a eoti_raven_swep
+Thu Oct 11 21:33:09 2018	John Schaefer (STEAM_0:0:115652713): // Had to replace my batteries
+Thu Oct 11 21:33:15 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:33:17 2018	Director Birdman (STEAM_0:1:59756947): /ooc my core binladin
+Thu Oct 11 21:33:23 2018	Fallenturtle (STEAM_0:1:62867403): // o well the director needs you at the core
+Thu Oct 11 21:33:26 2018	Cpt. Wobbels (STEAM_0:1:36901211): // 30000012930ß7198237918723 hp or what?
+Thu Oct 11 21:33:33 2018	Cpt. Wobbels (STEAM_0:1:36901211): // emptied 10 mags on you
+Thu Oct 11 21:33:33 2018	John Schaefer (STEAM_0:0:115652713): // Don't worry I repaced them
+Thu Oct 11 21:33:35 2018	Dave Letcher (STEAM_0:1:52038966): // SCPs really need a nerf
+Thu Oct 11 21:33:43 2018	Dave Letcher (STEAM_0:1:52038966): // luckily birdman isn;t being a fucking cuck
+Thu Oct 11 21:33:46 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:33:57 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 21:34:41 2018	Spicy (STEAM_0:0:176415266) disconnected
+Thu Oct 11 21:34:57 2018	Dave Letcher (STEAM_0:1:52038966): // fuck
+Thu Oct 11 21:35:00 2018	Dave Letcher (STEAM_0:1:52038966): // scanner limit
+Thu Oct 11 21:35:57 2018	Cpt. Wobbels was killed by Michael J Caboose with a fas2_thrown_m67
+Thu Oct 11 21:36:00 2018	John Schaefer was killed by Michael J Caboose with a fas2_thrown_m67
+Thu Oct 11 21:36:02 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 21:36:05 2018	John Schaefer (STEAM_0:0:115652713): // HOLY SHIT
+Thu Oct 11 21:36:06 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:36:09 2018	John Schaefer (STEAM_0:0:115652713): // SO MANY GRENADES
+Thu Oct 11 21:36:16 2018	Cpt. Wobbels (STEAM_0:1:36901211): // ikr
+Thu Oct 11 21:36:23 2018	John Schaefer (STEAM_0:0:115652713): // Shit was funny
+Thu Oct 11 21:37:04 2018	Fallenturtle (STEAM_0:1:62867403): /name Assistant Director Fallenturtle
+Thu Oct 11 21:37:06 2018	Michael J Caboose was killed by Cpt. Wobbels with a cw_scarh
+Thu Oct 11 21:37:09 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:37:12 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 21:37:12 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 21:37:42 2018	John Schaefer (STEAM_0:0:115652713): /advert We're gonna rape him
+Thu Oct 11 21:37:54 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 21:38:01 2018	Spicy (STEAM_0:0:176415266): /name DoS Spice
+Thu Oct 11 21:38:51 2018	DoS Spice (STEAM_0:0:176415266): /job Director of Swat
+Thu Oct 11 21:38:58 2018	Dave Letcher (STEAM_0:1:52038966): // Director of SWAT
+Thu Oct 11 21:39:03 2018	DoS Spice (STEAM_0:0:176415266): /ooc Wot
+Thu Oct 11 21:39:04 2018	Dave Letcher (STEAM_0:1:52038966): // 'scuze me what the fuck?
+Thu Oct 11 21:39:05 2018	Director Birdman (STEAM_0:1:59756947): /ooc director of swat
+Thu Oct 11 21:39:11 2018	DoS Spice (STEAM_0:0:176415266): /ooc There is a real one
+Thu Oct 11 21:39:16 2018	Dave Letcher (STEAM_0:1:52038966): // Yeah
+Thu Oct 11 21:39:16 2018	Fallenturtle (STEAM_0:1:62867403): /name ADirector Fallenturtle
+Thu Oct 11 21:39:18 2018	Dave Letcher (STEAM_0:1:52038966): // A fucking desk job
+Thu Oct 11 21:39:21 2018	Director Birdman (STEAM_0:1:59756947): /ooc true
+Thu Oct 11 21:39:33 2018	DoS Spice (STEAM_0:0:176415266): /ooc His name is Clark Johnson
+Thu Oct 11 21:39:35 2018	Director Birdman (STEAM_0:1:59756947): /job true plant director
+Thu Oct 11 21:39:36 2018	ADirector Fallenturtle (STEAM_0:1:62867403): /name Fallenturtle
+Thu Oct 11 21:39:37 2018	Dave Letcher (STEAM_0:1:52038966): // it's like the Comissioner dealing with a bank robbery
+Thu Oct 11 21:39:42 2018	John Schaefer (STEAM_0:0:115652713): // Osama and I just yeet grenades
+Thu Oct 11 21:40:02 2018	Dave Letcher (STEAM_0:1:52038966): // Like a fucking military general leading a charge
+Thu Oct 11 21:40:11 2018	John Schaefer (STEAM_0:0:115652713): // It's like the Mayor in a Squad Car
+Thu Oct 11 21:40:18 2018	Director Birdman was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 21:40:19 2018	John Schaefer (STEAM_0:0:115652713): // Arresting people
+Thu Oct 11 21:40:19 2018	Director Birdman (STEAM_0:1:59756947) spawned
+Thu Oct 11 21:40:57 2018	John Schaefer (STEAM_0:0:115652713): /advert Osama's in the basement again
+Thu Oct 11 21:41:09 2018	DoS Spice (STEAM_0:0:176415266): /advert Grab the shotgun and get him out.
+Thu Oct 11 21:41:21 2018	Dave Letcher was killed by Cpt. Wobbels with a fas2_thrown_m67
+Thu Oct 11 21:41:24 2018	Dave Letcher (STEAM_0:1:52038966): // Osama what the fuck
+Thu Oct 11 21:41:26 2018	Cpt. Wobbels was killed by Himself with a suicide trick
+Thu Oct 11 21:41:33 2018	Dave Letcher (STEAM_0:1:52038966): // theres a guy witha geniun flamethrower and you target me
+Thu Oct 11 21:41:33 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:41:41 2018	Fallenturtle (STEAM_0:1:62867403): // osamas dead
+Thu Oct 11 21:41:44 2018	Cpt. Wobbels (STEAM_0:1:36901211): // :(
+Thu Oct 11 21:41:46 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:41:54 2018	Cpt. Wobbels (STEAM_0:1:36901211): // I didnt like your mooosic
+Thu Oct 11 21:42:00 2018	Director Birdman (STEAM_0:1:59756947): /advert caboose,sombody and spice go get osama 
+Thu Oct 11 21:42:11 2018	Director Birdman (STEAM_0:1:59756947): /advert john go to core room protect it
+Thu Oct 11 21:43:24 2018	Dave Letcher (STEAM_0:1:52038966): // I really don't get this radio, but Imo all the others are trash
+Thu Oct 11 21:43:33 2018	Dave Letcher (STEAM_0:1:52038966): // It doeesn't focus on 1 or a few genres is literally anything it wants
+Thu Oct 11 21:44:11 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:44:24 2018	John Schaefer (STEAM_0:0:115652713): // Im playing some Osama music and he just runs away
+Thu Oct 11 21:44:27 2018	Somebody was killed by Cpt. Wobbels with a cw_scarh
+Thu Oct 11 21:44:28 2018	John Schaefer (STEAM_0:0:115652713): // I found his weakness
+Thu Oct 11 21:44:33 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:44:55 2018	Cpt. Wobbels (STEAM_0:1:36901211): // didnt hear lol
+Thu Oct 11 21:45:05 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:45:08 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:45:15 2018	John Schaefer (STEAM_0:0:115652713): // im just gonna leave it near the elevators
+Thu Oct 11 21:45:17 2018	DoS Spice (STEAM_0:0:176415266): /dropmoney 150
+Thu Oct 11 21:45:18 2018	DoS Spice (STEAM_0:0:176415266) has dropped $150
+Thu Oct 11 21:45:21 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 21:45:28 2018	Fallenturtle (STEAM_0:1:62867403): /dropmoney 1000
+Thu Oct 11 21:45:29 2018	Fallenturtle (STEAM_0:1:62867403) has dropped $1,000
+Thu Oct 11 21:46:34 2018	John Schaefer (STEAM_0:0:115652713): /advert Osama come to the top of the elevators to hear some of your good music
+Thu Oct 11 21:47:45 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:47:48 2018	Cpt. Wobbels was killed by John Schaefer with a cw_shorty
+Thu Oct 11 21:47:51 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:48:01 2018	John Schaefer (STEAM_0:0:115652713): /advert I got Osama
+Thu Oct 11 21:48:04 2018	Michael J Caboose (STEAM_0:1:184775407) disconnected
+Thu Oct 11 21:48:11 2018	John Schaefer (STEAM_0:0:115652713): /advert The music worked
+Thu Oct 11 21:49:30 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:49:49 2018	Cpt. Wobbels was killed by Himself with a suicide trick
+Thu Oct 11 21:50:06 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:50:43 2018	Director Birdman (STEAM_0:1:59756947): /ooc time to kill him
+Thu Oct 11 21:50:51 2018	DoS Spice (STEAM_0:0:176415266): /ooc Hey whoa whoa
+Thu Oct 11 21:50:55 2018	John Schaefer (STEAM_0:0:115652713): // Have you been smoking for 45 years
+Thu Oct 11 21:50:58 2018	Dave Letcher (STEAM_0:1:52038966): /advert Double check core systems
+Thu Oct 11 21:51:48 2018	Dots (STEAM_0:1:72014148) has joined the game
+Thu Oct 11 21:51:48 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Thu Oct 11 21:52:47 2018	DoS Spice was killed by Cpt. Wobbels with a cw_scarh
+Thu Oct 11 21:52:51 2018	Director Dimension was killed by Cpt. Wobbels with a cw_mr96
+Thu Oct 11 21:52:53 2018	DoS Spice (STEAM_0:0:176415266) spawned
+Thu Oct 11 21:52:54 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:52:56 2018	John Schaefer (STEAM_0:0:115652713): /advert I doing core security things
+Thu Oct 11 21:53:08 2018	Director Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 21:53:17 2018	DoS Spice (STEAM_0:0:176415266): /pm John the Plant Director just died cause of you. And now he's going to blow the place up.
+Thu Oct 11 21:53:19 2018	Director Dimension (STEAM_0:1:111567013): /nick SWAT Soldier Dimension
+Thu Oct 11 21:53:34 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 21:53:35 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Thu Oct 11 21:53:46 2018	Fallenturtle was killed by Dave Letcher with a weapon_l4d2_frying_pan
+Thu Oct 11 21:53:47 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 21:53:56 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 21:54:11 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Thu Oct 11 21:54:11 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:54:31 2018	John Schaefer (STEAM_0:0:115652713): // Who's crashing a car into somthing at the core
+Thu Oct 11 21:54:35 2018	John Schaefer (STEAM_0:0:115652713): // Like knock it off
+Thu Oct 11 21:54:51 2018	Cpt. Wobbels was killed by Himself with a suicide trick
+Thu Oct 11 21:54:54 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 21:55:26 2018	John Schaefer (STEAM_0:0:115652713): // WHO KEEPS FUCKING CRASHING SHT INTO THE FUCKING WALL
+Thu Oct 11 21:55:29 2018	3than (STEAM_0:1:243479104) has joined the game
+Thu Oct 11 21:55:29 2018	3than (STEAM_0:1:243479104) spawned
+Thu Oct 11 21:55:33 2018	John Schaefer (STEAM_0:0:115652713): // JUST BANG BANG BANG
+Thu Oct 11 21:55:45 2018	John Schaefer (STEAM_0:0:115652713): // It's lagging shit too
+Thu Oct 11 21:56:20 2018	Michael J Caboose (STEAM_0:1:184775407): // nut
+Thu Oct 11 21:56:27 2018	Dave Letcher (STEAM_0:1:52038966): // Smashing it like I smash loli ass
+Thu Oct 11 21:56:48 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 21:56:51 2018	Cpt. Wobbels (STEAM_0:1:36901211): // Im sure he will
+Thu Oct 11 21:57:12 2018	John Schaefer (STEAM_0:0:115652713): // THAT'S WHAT IT WAS
+Thu Oct 11 21:57:31 2018	John Schaefer (STEAM_0:0:115652713): // It's lagging so hard
+Thu Oct 11 21:57:41 2018	Fallenturtle (STEAM_0:1:62867403): // your a admin fix it
+Thu Oct 11 21:57:42 2018	John Schaefer (STEAM_0:0:115652713): /advert We might have to fish it out with something
+Thu Oct 11 21:57:43 2018	Director Birdman (STEAM_0:1:59756947): /ooc whos doing it i will find out 
+Thu Oct 11 21:57:44 2018	Cpt. Wobbels (STEAM_0:1:36901211): @ Am I allowed to turn off the pumps?
+Thu Oct 11 21:57:44 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): // Because of the car
+Thu Oct 11 21:57:45 2018	Fallenturtle (STEAM_0:1:62867403): // fots pls fix
+Thu Oct 11 21:57:58 2018	Fallenturtle (STEAM_0:1:62867403): //dot pls fix
+Thu Oct 11 21:58:16 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): // I see them
+Thu Oct 11 21:58:18 2018	Michael J Caboose (STEAM_0:1:184775407): // dots bring me there
+Thu Oct 11 21:58:37 2018	Head of CBRN Dots was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 21:58:41 2018	Head of CBRN Dots (STEAM_0:1:72014148):  
+Thu Oct 11 21:58:41 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Thu Oct 11 21:58:42 2018	Dave Letcher (STEAM_0:1:52038966): // use admin chat
+Thu Oct 11 21:58:47 2018	Bulldog (STEAM_0:0:180224455) has joined the game
+Thu Oct 11 21:58:47 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 21:58:47 2018	3than (STEAM_0:1:243479104) spawned
+Thu Oct 11 21:58:47 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto cab
+Thu Oct 11 21:58:49 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): Sure
+Thu Oct 11 21:58:55 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): /pm Michael OMW
+Thu Oct 11 21:58:59 2018	John Schaefer (STEAM_0:0:115652713): @ Stop this shit with the car please
+Thu Oct 11 21:59:01 2018	Head of CBRN Dots (STEAM_0:1:72014148): !bring caboose
+Thu Oct 11 21:59:01 2018	DoS Spice was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 21:59:03 2018	DoS Spice (STEAM_0:0:176415266) spawned
+Thu Oct 11 21:59:06 2018	Director Birdman was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 21:59:07 2018	Director Birdman (STEAM_0:1:59756947) spawned
+Thu Oct 11 21:59:11 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): // Fat
+Thu Oct 11 21:59:19 2018	3than (STEAM_0:1:243479104) spawned
+Thu Oct 11 21:59:32 2018	Head of CBRN Dots (STEAM_0:1:72014148): /advert SERVER CLEANUP
+Thu Oct 11 21:59:45 2018	John Schaefer (STEAM_0:0:115652713): // Can we rape him violently too
+Thu Oct 11 21:59:45 2018	3than (STEAM_0:1:243479104): /name SWAT Sniper Ethan
+Thu Oct 11 21:59:52 2018	Director Birdman (STEAM_0:1:59756947): /ooc what he said
+Thu Oct 11 21:59:54 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): // Clean up the server
+Thu Oct 11 22:00:25 2018	John Schaefer was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 22:00:26 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Thu Oct 11 22:00:32 2018	John Schaefer (STEAM_0:0:115652713): // Damn
+Thu Oct 11 22:00:35 2018	Director Birdman (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:00:36 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): @ Staff to me
+Thu Oct 11 22:00:42 2018	John Schaefer (STEAM_0:0:115652713): // You like yeeted me across the fan room
+Thu Oct 11 22:00:50 2018	Dave Letcher (STEAM_0:1:52038966): /advet The Fast Food restrautent is open and does deliveries, advert your location and you're order
+Thu Oct 11 22:00:57 2018	Dave Letcher (STEAM_0:1:52038966): /advert The Fast Food restrautent is open and does deliveries, advert your location and you're order
+Thu Oct 11 22:01:11 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): /pm Dots Both of them
+Thu Oct 11 22:01:13 2018	John Schaefer (STEAM_0:0:115652713): /advert We might have to build a giant fence around the fan
+Thu Oct 11 22:01:20 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): /pm I mean just the terorris
+Thu Oct 11 22:01:38 2018	John Schaefer (STEAM_0:0:115652713): // Can we rape them and then ban them
+Thu Oct 11 22:01:40 2018	Cpt. Wobbels was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 22:01:44 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:01:45 2018	Head of CBRN Dots (STEAM_0:1:72014148): /ooc Yes
+Thu Oct 11 22:01:49 2018	John Schaefer (STEAM_0:0:115652713): // Sweet
+Thu Oct 11 22:02:01 2018	Director Birdman (STEAM_0:1:59756947): /job JUST A NORMAL GUY
+Thu Oct 11 22:02:13 2018	Director Birdman (STEAM_0:1:59756947): /name David jone
+Thu Oct 11 22:02:32 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:02:38 2018	Fallenturtle (STEAM_0:1:62867403): /advert the cafiteria is serving food and drinks get it while its hot
+Thu Oct 11 22:02:43 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:02:51 2018	MrNetworks (STEAM_0:0:97407434) has joined the game
+Thu Oct 11 22:02:51 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:02:56 2018	David jone was killed by Michael J Caboose with a cw_deagle
+Thu Oct 11 22:02:58 2018	David jone (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:02:59 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:03:05 2018	David jone (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:03:13 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:03:19 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:03:23 2018	DoS Spice was killed by Himself with a suicide trick
+Thu Oct 11 22:03:26 2018	DoS Spice (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:03:32 2018	DoS Spice (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:03:33 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:03:55 2018	SWAT Sniper Ethan was killed by Cpt. Wobbels with a weapon_crowbar
+Thu Oct 11 22:03:56 2018	SWAT Sniper Ethan (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:04:02 2018	SWAT Soldier Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:04:07 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): /pm Spice RELEASEEE ME
+Thu Oct 11 22:04:08 2018	Fallenturtle (STEAM_0:1:62867403): /advert director go on radio please
+Thu Oct 11 22:04:17 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:04:17 2018	SWAT Sniper Ethan (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:04:18 2018	Fallenturtle (STEAM_0:1:62867403): /advert facility all
+Thu Oct 11 22:04:26 2018	Bulldog was killed by SWAT Sniper Ethan with a cw_g36c
+Thu Oct 11 22:04:41 2018	Bulldog (STEAM_0:0:180224455): @ i got rdm
+Thu Oct 11 22:04:42 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:05:17 2018	SWAT Sniper Ethan was killed by Bulldog with a cw_shorty
+Thu Oct 11 22:05:18 2018	SWAT Sniper Ethan (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:05:21 2018	Bulldog was killed by SWAT Sniper Ethan with a cw_g36c
+Thu Oct 11 22:05:30 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:05:36 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Thu Oct 11 22:05:44 2018	Cpt. Wobbels was killed by Entity [5151][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Thu Oct 11 22:05:49 2018	Bulldog was killed by SWAT Sniper Ethan with a fas2_thrown_m67
+Thu Oct 11 22:05:51 2018	Cpt. Wobbels (STEAM_0:1:36901211) spawned
+Thu Oct 11 22:05:51 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): /pm Spice Don't you wanna research me?!
+Thu Oct 11 22:05:53 2018	Cpt. Wobbels (STEAM_0:1:36901211) disconnected
+Thu Oct 11 22:05:57 2018	Bulldog (STEAM_0:0:180224455): @ help me
+Thu Oct 11 22:05:58 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:05:58 2018	SWAT Soldier Dimension (STEAM_0:1:111567013): /nick 049
+Thu Oct 11 22:06:13 2018	Bulldog was killed by SWAT Sniper Ethan with a cw_g36c
+Thu Oct 11 22:06:14 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:06:48 2018	Kale (STEAM_0:1:46222072) has joined the game
+Thu Oct 11 22:06:48 2018	Kale (STEAM_0:1:46222072) spawned
+Thu Oct 11 22:06:49 2018	049 (STEAM_0:1:111567013): I have some interesting research for you spice the researcher.
+Thu Oct 11 22:07:27 2018	SWAT Sniper Ethan (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:07:58 2018	DoS Spice (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:07:58 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:07:59 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:08:04 2018	SWAT Sniper Ethan (STEAM_0:1:243479104): // do you have to advert terror?
+Thu Oct 11 22:08:11 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:08:18 2018	049 (STEAM_0:1:111567013): /pm mr Releaseee me
+Thu Oct 11 22:08:31 2018	Head of CBRN Dots (STEAM_0:1:72014148): /ooc Yes
+Thu Oct 11 22:08:34 2018	049 (STEAM_0:1:111567013): /pm Mr Closest cell to the window. Don't you want to research ,e
+Thu Oct 11 22:08:35 2018	DoS Spice (STEAM_0:0:176415266): /name DoS
+Thu Oct 11 22:08:36 2018	Dave Letcher (STEAM_0:1:52038966): // No
+Thu Oct 11 22:08:42 2018	DoS (STEAM_0:0:176415266): /name DoS Spicy
+Thu Oct 11 22:08:43 2018	SWAT Sniper Ethan (STEAM_0:1:243479104): /name mom gay lol
+Thu Oct 11 22:08:51 2018	MrNetworks (STEAM_0:0:97407434): /pm 049 Im not dumb child..
+Thu Oct 11 22:08:56 2018	049 (STEAM_0:1:111567013): /pm Mr I promise I won't hurt you. If you don't hurt me.
+Thu Oct 11 22:09:15 2018	049 (STEAM_0:1:111567013): /pm Mr Just open my cell, but lock the door to the other part so that I have more room.
+Thu Oct 11 22:09:15 2018	MrNetworks (STEAM_0:0:97407434): /pm 049 Like I said Im not fucking dumb
+Thu Oct 11 22:09:29 2018	mom gay lol was killed by Himself with a suicide trick
+Thu Oct 11 22:09:32 2018	mom gay lol (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:09:42 2018	mom gay lol (STEAM_0:1:243479104): // can i jihad bomb the fan
+Thu Oct 11 22:09:42 2018	MrNetworks (STEAM_0:0:97407434): // when 049 trys to get out by asking you
+Thu Oct 11 22:09:47 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto fat
+Thu Oct 11 22:09:51 2018	049 (STEAM_0:1:111567013): // Hush child
+Thu Oct 11 22:09:53 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto fat gay
+Thu Oct 11 22:09:56 2018	Kale (STEAM_0:1:46222072) spawned
+Thu Oct 11 22:10:02 2018	mom gay lol was killed by Himself with a suicide trick
+Thu Oct 11 22:10:03 2018	John Schaefer (STEAM_0:0:115652713): // You two chefs are fucking crazy
+Thu Oct 11 22:10:05 2018	DoS Spicy (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 22:10:08 2018	mom gay lol (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:10:18 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto cab
+Thu Oct 11 22:10:29 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:10:30 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:10:32 2018	Kale (STEAM_0:1:46222072) disconnected
+Thu Oct 11 22:10:32 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:10:33 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:10:33 2018	Dave Letcher (STEAM_0:1:52038966): // wait we spawn here
+Thu Oct 11 22:10:35 2018	MrNetworks (STEAM_0:0:97407434): // Why does the Plant Director sound like he has Down Simdom
+Thu Oct 11 22:10:38 2018	049 (STEAM_0:1:111567013): // Im bored.
+Thu Oct 11 22:10:42 2018	MrNetworks (STEAM_0:0:97407434): // I dont think thats safe for him to be runing this place
+Thu Oct 11 22:10:51 2018	Michael J Caboose (STEAM_0:1:184775407): // dick
+Thu Oct 11 22:10:52 2018	mom gay lol (STEAM_0:1:243479104): // what if he actually does
+Thu Oct 11 22:10:56 2018	Dave Letcher (STEAM_0:1:52038966): u
+Thu Oct 11 22:11:05 2018	Dave Letcher (STEAM_0:1:52038966): /advert HOT AND FRESH COMING THROUGHJ
+Thu Oct 11 22:11:05 2018	MrNetworks (STEAM_0:0:97407434): // When he does not understand what Im saying.
+Thu Oct 11 22:11:07 2018	John Schaefer (STEAM_0:0:115652713): // I think he does
+Thu Oct 11 22:11:09 2018	mom gay lol (STEAM_0:1:243479104): // and you're just being an asshole to someone with a disability
+Thu Oct 11 22:11:18 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto dave
+Thu Oct 11 22:11:20 2018	MrNetworks (STEAM_0:0:97407434): // I dont think you get the joke SJW..
+Thu Oct 11 22:11:21 2018	John Schaefer (STEAM_0:0:115652713): // Making fun of disabled people is funny
+Thu Oct 11 22:11:33 2018	mom gay lol (STEAM_0:1:243479104): // im not an sjw 
+Thu Oct 11 22:11:42 2018	MrNetworks (STEAM_0:0:97407434): // You sure about that?
+Thu Oct 11 22:11:51 2018	Dave Letcher (STEAM_0:1:52038966): // Pretty funny ngl imo btw
+Thu Oct 11 22:11:56 2018	mom gay lol (STEAM_0:1:243479104): // just because im saying someone might actually have down syndrome does not mean im an sjw 
+Thu Oct 11 22:11:59 2018	MrNetworks (STEAM_0:0:97407434): // You sure do sound like a SJW
+Thu Oct 11 22:12:11 2018	049 (STEAM_0:1:111567013): /pm Mr Don't you want to see how I decorated my cell?
+Thu Oct 11 22:12:12 2018	MrNetworks (STEAM_0:0:97407434): // Michael,Im not talking about you could you shut up?
+Thu Oct 11 22:12:16 2018	mom gay lol (STEAM_0:1:243479104): // SJWS TALK LIKE THIS 
+Thu Oct 11 22:12:16 2018	John Schaefer was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 22:12:16 2018	John Schaefer (STEAM_0:0:115652713) disconnected
+Thu Oct 11 22:12:22 2018	mom gay lol (STEAM_0:1:243479104): // sorry but im talking like this rn
+Thu Oct 11 22:12:26 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:12:27 2018	MrNetworks (STEAM_0:0:97407434): // Im talking about Mom...
+Thu Oct 11 22:12:27 2018	Fallenturtle was killed by Entity [2889][func_rotating] with a func_rotating
+Thu Oct 11 22:12:27 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:12:28 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:12:33 2018	MrNetworks (STEAM_0:0:97407434): // Not you Micheal
+Thu Oct 11 22:12:37 2018	049 (STEAM_0:1:111567013): /pm Michael Im being mistreated by researchers!
+Thu Oct 11 22:12:44 2018	David jone (STEAM_0:1:59756947): /name The 10 tailed
+Thu Oct 11 22:12:53 2018	049 (STEAM_0:1:111567013): /pm Michael Harassment
+Thu Oct 11 22:13:01 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Thu Oct 11 22:13:12 2018	Michael J Caboose (STEAM_0:1:184775407): /pm 049 that how it happens
+Thu Oct 11 22:13:21 2018	mom gay lol (STEAM_0:1:243479104): /advert aidhfasdf terror adjfhasdjkf
+Thu Oct 11 22:13:29 2018	049 (STEAM_0:1:111567013): /pm Michael They aren't even taking me out to research me reee
+Thu Oct 11 22:13:48 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Thu Oct 11 22:13:59 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:14:00 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:14:03 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:14:09 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:14:16 2018	Dave Letcher (STEAM_0:1:52038966): /advert DO I HEAR HOT AND FREASH
+Thu Oct 11 22:14:26 2018	mom gay lol was killed by Himself with a suicide trick
+Thu Oct 11 22:14:26 2018	Bulldog was killed by mom gay lol with a env_explosion
+Thu Oct 11 22:14:26 2018	MrNetworks was killed by mom gay lol with a env_explosion
+Thu Oct 11 22:14:27 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:14:28 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:14:29 2018	mom gay lol (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:14:35 2018	mom gay lol (STEAM_0:1:243479104): /advert over
+Thu Oct 11 22:14:40 2018	The 10 tailed (STEAM_0:1:59756947): /advert you wont need food
+Thu Oct 11 22:14:43 2018	Michael J Caboose (STEAM_0:1:184775407): !motd
+Thu Oct 11 22:14:47 2018	MrNetworks (STEAM_0:0:97407434): // Fuck I need to kill him before I die of Adis
+Thu Oct 11 22:14:51 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:15:05 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:15:07 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:15:15 2018	049 (STEAM_0:1:111567013): /pm Mr If you research me I won't be bored. Less bored = less agressive. I won't break out I promise!
+Thu Oct 11 22:15:17 2018	DoS Spicy was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:15:37 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:15:41 2018	Fallenturtle (STEAM_0:1:62867403): /advert if you want food advert your location hot and freash are ready to go
+Thu Oct 11 22:16:06 2018	The 10 tailed was killed by Michael J Caboose with a cw_deagle
+Thu Oct 11 22:16:07 2018	The 10 tailed (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:16:42 2018	Fallenturtle (STEAM_0:1:62867403): /advert are pizza heals were comeing
+Thu Oct 11 22:17:11 2018	049 (STEAM_0:1:111567013): /pm Michael Tell them to release me and I will help you kill the threats.
+Thu Oct 11 22:17:56 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:18:11 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:18:18 2018	049 (STEAM_0:1:111567013): /advert SWAT en-route
+Thu Oct 11 22:19:07 2018	049 was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:19:13 2018	Michael J Caboose was killed by The 10 tailed with a cw_scarh
+Thu Oct 11 22:19:16 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 22:19:16 2018	049 (STEAM_0:1:111567013): // sOMEONE THROWING STUFF IN DE FAN AGAIN?
+Thu Oct 11 22:19:17 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:19:22 2018	Michael J Caboose (STEAM_0:1:184775407): !motd
+Thu Oct 11 22:19:44 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Thu Oct 11 22:19:46 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 22:19:57 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:20:03 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:20:12 2018	Fallenturtle was killed by The 10 tailed with a cw_scarh
+Thu Oct 11 22:20:12 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:20:13 2018	049 (STEAM_0:1:111567013) disconnected
+Thu Oct 11 22:20:13 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:20:16 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:20:17 2018	DoS Spicy was killed by Himself with a suicide trick
+Thu Oct 11 22:20:24 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:20:27 2018	The 10 tailed was killed by MrNetworks with a cw_deagle
+Thu Oct 11 22:20:29 2018	The 10 tailed (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:20:32 2018	mom gay lol (STEAM_0:1:243479104): /advert aidhfasdf terror adjfhasdjkf
+Thu Oct 11 22:20:36 2018	The 10 tailed (STEAM_0:1:59756947): /ooc the fuck you just spawned
+Thu Oct 11 22:20:37 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto spicy
+Thu Oct 11 22:20:39 2018	Bulldog was killed by mom gay lol with a cw_l85a2
+Thu Oct 11 22:20:45 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:20:47 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto dave
+Thu Oct 11 22:20:49 2018	MrNetworks (STEAM_0:0:97407434): // I have been spawed
+Thu Oct 11 22:20:53 2018	Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:21:02 2018	Michael J Caboose (STEAM_0:1:184775407): /advert hello
+Thu Oct 11 22:21:10 2018	Michael J Caboose (STEAM_0:1:184775407): // wow
+Thu Oct 11 22:21:22 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Thu Oct 11 22:21:22 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:21:29 2018	Michael J Caboose (STEAM_0:1:184775407): /advert of what
+Thu Oct 11 22:21:40 2018	DoS Spicy (STEAM_0:0:176415266): /ooc Holy shit is that liberty prime?
+Thu Oct 11 22:21:57 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Thu Oct 11 22:21:58 2018	Michael J Caboose (STEAM_0:1:184775407): // waht you me liberty prime?
+Thu Oct 11 22:22:02 2018	mom gay lol was killed by Himself with a suicide trick
+Thu Oct 11 22:22:02 2018	MrNetworks was killed by mom gay lol with a env_explosion
+Thu Oct 11 22:22:04 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:22:04 2018	mom gay lol (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:22:09 2018	mom gay lol (STEAM_0:1:243479104): /advert over
+Thu Oct 11 22:22:24 2018	MrNetworks (STEAM_0:0:97407434): // fix your god dam server Handcuffs are broke as hell
+Thu Oct 11 22:22:45 2018	Michael J Caboose (STEAM_0:1:184775407): /pm dots im at the core look for me you WONT miss me
+Thu Oct 11 22:22:48 2018	Fallenturtle (STEAM_0:1:62867403): // your droped it
+Thu Oct 11 22:22:56 2018	Fallenturtle (STEAM_0:1:62867403): // you halft to run you cant fly sadly
+Thu Oct 11 22:23:12 2018	Fallenturtle was killed by Entity [5048][fz_pizzaraw] with a fz_pizzaraw
+Thu Oct 11 22:23:13 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto dave
+Thu Oct 11 22:23:13 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:23:17 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:23:33 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 22:23:33 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 22:23:45 2018	mom gay lol (STEAM_0:1:243479104): // is it possilbe to bomb the reactor so everyone dies
+Thu Oct 11 22:24:04 2018	Fallenturtle was killed by Entity [5197][fz_pizzaraw] with a fz_pizzaraw
+Thu Oct 11 22:24:05 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:24:20 2018	The 10 tailed (STEAM_0:1:59756947): /advert all terrorist to base
+Thu Oct 11 22:24:22 2018	The 10 tailed (STEAM_0:1:59756947): /me bow with great honor
+Thu Oct 11 22:24:28 2018	The 10 tailed (STEAM_0:1:59756947): /ooc aka kill urself
+Thu Oct 11 22:24:34 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:25:01 2018	mom gay lol was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:25:02 2018	mom gay lol (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:25:08 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 22:25:54 2018	Sammy Boom (STEAM_0:0:91181601): /job Sealion 7
+Thu Oct 11 22:26:14 2018	Michael J Caboose (STEAM_0:1:184775407): /name Liberty Prime
+Thu Oct 11 22:26:16 2018	DoS Spicy (STEAM_0:0:176415266): /ooc LIBERTY PRIME ONLINE
+Thu Oct 11 22:26:26 2018	Liberty Prime (STEAM_0:1:184775407): /advert LIBERTY PRIME ONLINE
+Thu Oct 11 22:26:29 2018	DoS Spicy (STEAM_0:0:176415266): /ooc Hell yeaH!
+Thu Oct 11 22:26:41 2018	Sammy Boom (STEAM_0:0:91181601): !party
+Thu Oct 11 22:26:44 2018	Sammy Boom (STEAM_0:0:91181601): !group
+Thu Oct 11 22:26:48 2018	Bulldog (STEAM_0:0:180224455): /name Head of S.W.A.T Bulldog
+Thu Oct 11 22:27:03 2018	The 10 tailed (STEAM_0:1:59756947): tailed (number)(name)
+Thu Oct 11 22:27:13 2018	The 10 tailed (STEAM_0:1:59756947): /name Tailed 9 light
+Thu Oct 11 22:27:34 2018	Bulldog (STEAM_0:0:180224455): /name Head of SWAT Bulldog
+Thu Oct 11 22:27:38 2018	mom gay lol (STEAM_0:1:243479104): /name Tailed 12 Ethan
+Thu Oct 11 22:27:45 2018	MrNetworks (STEAM_0:0:97407434): /name Tailed 10 NiggerRain
+Thu Oct 11 22:27:58 2018	Tailed 9 light (STEAM_0:1:59756947): /name Tailed 0 Light
+Thu Oct 11 22:29:39 2018	Fallenturtle was killed by Dave Letcher with a weapon_l4d2_frying_pan
+Thu Oct 11 22:29:40 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:29:44 2018	Dave Letcher was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:29:45 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:29:45 2018	Tailed 12 Ethan was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:29:50 2018	Tailed 12 Ethan (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:30:12 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto dave
+Thu Oct 11 22:30:20 2018	Tailed 10 NiggerRain was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:30:21 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:30:26 2018	Tailed 0 Light was killed by Dave Letcher with a weapon_l4d2_frying_pan
+Thu Oct 11 22:30:27 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:30:32 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434): // fucking speedy bitchys
+Thu Oct 11 22:30:38 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434): // worse then pay to win servers
+Thu Oct 11 22:30:42 2018	Tailed 0 Light (STEAM_0:1:59756947): /advert JOIN THE TERRORIST WE ARE THE BEST
+Thu Oct 11 22:31:42 2018	Tailed 12 Ethan (STEAM_0:1:243479104): /advert aidhfasdf terror adjfhasdjkf
+Thu Oct 11 22:31:46 2018	Tailed 10 NiggerRain was killed by Himself with a suicide trick
+Thu Oct 11 22:31:48 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:31:54 2018	Sammy Boom was killed by Tailed 12 Ethan with a fas2_thrown_m67
+Thu Oct 11 22:32:04 2018	Liberty Prime (STEAM_0:1:184775407): https://pastebin.com/1DxKGCCX
+Thu Oct 11 22:32:16 2018	Liberty Prime (STEAM_0:1:184775407): https://pastebin.com/1DxKGCCX
+Thu Oct 11 22:32:47 2018	Tailed 0 Light (STEAM_0:1:59756947): /invholster
+Thu Oct 11 22:32:51 2018	049 (STEAM_0:1:111567013) spawned
+Thu Oct 11 22:32:57 2018	049 (STEAM_0:1:111567013): /nick Director Dimension
+Thu Oct 11 22:33:32 2018	Tailed 0 Light (STEAM_0:1:59756947): /invholster
+Thu Oct 11 22:33:54 2018	Tailed 0 Light (STEAM_0:1:59756947): /roll
+Thu Oct 11 22:34:07 2018	Tailed 0 Light (STEAM_0:1:59756947): 
+Thu Oct 11 22:34:09 2018	Tailed 0 Light (STEAM_0:1:59756947): /invholster
+Thu Oct 11 22:34:15 2018	Dave Letcher was killed by Tailed 10 NiggerRain with a cw_l85a2
+Thu Oct 11 22:34:15 2018	Director Dimension (STEAM_0:1:111567013): @ Uhh are these people sussposed to be able to turn into giant robots?
+Thu Oct 11 22:34:16 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:34:28 2018	Dave Letcher was killed by Tailed 0 Light with a cw_scarh
+Thu Oct 11 22:34:29 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:34:34 2018	Tailed 10 NiggerRain was killed by Dave Letcher with a weapon_l4d2_frying_pan
+Thu Oct 11 22:34:36 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:34:41 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434): // fucking hell
+Thu Oct 11 22:34:43 2018	Fallenturtle was killed by Tailed 0 Light with a fas2_thrown_m67
+Thu Oct 11 22:34:44 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:34:49 2018	Dave Letcher was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:34:49 2018	Tailed 0 Light was killed by Himself with a suicide trick
+Thu Oct 11 22:34:50 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:34:50 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:34:50 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:34:54 2018	Tailed 10 NiggerRain (STEAM_0:0:97407434): /name MrNetworks
+Thu Oct 11 22:35:04 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 22:35:18 2018	Tailed 0 Light (STEAM_0:1:59756947): 
+Thu Oct 11 22:35:44 2018	Head of SWAT Bulldog (STEAM_0:0:180224455): @ come to me
+Thu Oct 11 22:36:54 2018	Director Dimension (STEAM_0:1:111567013): // How do you turn into a giant robot? lol
+Thu Oct 11 22:37:01 2018	Head of SWAT Bulldog (STEAM_0:0:180224455): /ooc is fat afk
+Thu Oct 11 22:37:07 2018	Liberty Prime (STEAM_0:1:184775407): // fat are you still working
+Thu Oct 11 22:37:09 2018	Dave Letcher (STEAM_0:1:52038966): // few hours
+Thu Oct 11 22:37:12 2018	MrNetworks (STEAM_0:0:97407434): // He is fat soo
+Thu Oct 11 22:37:50 2018	Fallenturtle (STEAM_0:1:62867403): /advert dots hurry up its about to only be fresh
+Thu Oct 11 22:38:07 2018	Head of SWAT Bulldog (STEAM_0:0:180224455): @ come to me plz
+Thu Oct 11 22:38:55 2018	Liberty Prime (STEAM_0:1:184775407): /advert come to the core
+Thu Oct 11 22:39:02 2018	Tailed 12 Ethan was killed by Entity [2745][func_rotating] with a func_rotating
+Thu Oct 11 22:39:03 2018	Tailed 12 Ethan (STEAM_0:1:243479104) spawned
+Thu Oct 11 22:39:10 2018	Dave Letcher was killed by Entity [2744][func_rotating] with a func_rotating
+Thu Oct 11 22:39:11 2018	Tailed 12 Ethan (STEAM_0:1:243479104): // these niggers are so annoying
+Thu Oct 11 22:39:11 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:39:20 2018	Fallenturtle (STEAM_0:1:62867403): models/player/pmc_4/pmc__03.mdl
+Thu Oct 11 22:39:21 2018	Dave Letcher (STEAM_0:1:52038966): // It's pronouced "Faggot"
+Thu Oct 11 22:39:25 2018	Fallenturtle (STEAM_0:1:62867403): !motd
+Thu Oct 11 22:39:26 2018	Tailed 12 Ethan (STEAM_0:1:243479104): // nah nigger
+Thu Oct 11 22:39:29 2018	Tailed 12 Ethan (STEAM_0:1:243479104) disconnected
+Thu Oct 11 22:39:33 2018	Fallenturtle (STEAM_0:1:62867403): // 4. No EXCESSIVE Racism or Bigotry if its a joke, if its attacking someone, then you will be punished immidiately
+Thu Oct 11 22:39:33 2018	Liberty Prime (STEAM_0:1:184775407): // l9l
+Thu Oct 11 22:39:35 2018	Fallenturtle was killed by Entity [2750][func_rotating] with a func_rotating
+Thu Oct 11 22:39:36 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:39:43 2018	DoS Spicy (STEAM_0:0:176415266): /name Liberty Prime V2
+Thu Oct 11 22:39:47 2018	MrNetworks (STEAM_0:0:97407434): // Shut up childed
+Thu Oct 11 22:39:55 2018	Fallenturtle (STEAM_0:1:62867403): // it would be child
+Thu Oct 11 22:40:01 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:40:04 2018	Liberty Prime V2 (STEAM_0:0:176415266): /name Liberty Prime
+Thu Oct 11 22:40:18 2018	Tailed 0 Light (STEAM_0:1:59756947): d@@
+Thu Oct 11 22:40:18 2018	MrNetworks (STEAM_0:0:97407434): // Your a Child,Your playing on this becuse you cant play other Gmod servers right?
+Thu Oct 11 22:40:22 2018	Liberty Prime V2 (STEAM_0:0:176415266): /name Liberty  Prime
+Thu Oct 11 22:40:27 2018	Tailed 0 Light (STEAM_0:1:59756947): ta@@
+Thu Oct 11 22:40:27 2018	Dave Letcher (STEAM_0:1:52038966): // he left fuckos
+Thu Oct 11 22:41:19 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 22:41:19 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 22:41:25 2018	Dave Letcher (STEAM_0:1:52038966): /advert TURN THE CORE HOT AND FRESH
+Thu Oct 11 22:41:33 2018	Director Dimension (STEAM_0:1:111567013) disconnected
+Thu Oct 11 22:42:01 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:42:03 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:42:24 2018	Liberty Prime was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:42:28 2018	Liberty Prime (STEAM_0:1:184775407) spawned
+Thu Oct 11 22:42:35 2018	Fallenturtle (STEAM_0:1:62867403): // wasint me
+Thu Oct 11 22:42:40 2018	Fallenturtle (STEAM_0:1:62867403): // it was my manager
+Thu Oct 11 22:42:45 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:42:46 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:42:47 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:42:56 2018	Liberty Prime (STEAM_0:1:184775407): // are you sure and why are you tyring to over heat the core you cnat do hat
+Thu Oct 11 22:42:56 2018	Fallenturtle (STEAM_0:1:62867403): // dots where the fuck are you
+Thu Oct 11 22:42:59 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 22:43:03 2018	Fallenturtle (STEAM_0:1:62867403): // we need more hot and fresh deliverys
+Thu Oct 11 22:43:10 2018	Liberty Prime (STEAM_0:1:184775407): // still cant do it
+Thu Oct 11 22:43:26 2018	MrNetworks (STEAM_0:0:97407434): // they be right the Rp kids will try to fight you over it
+Thu Oct 11 22:43:26 2018	Tailed 0 Light (STEAM_0:1:59756947): poket
+Thu Oct 11 22:43:34 2018	Tailed 0 Light (STEAM_0:1:59756947): pocket
+Thu Oct 11 22:43:49 2018	Liberty Prime was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:43:53 2018	Tailed 0 Light (STEAM_0:1:59756947): pocket
+Thu Oct 11 22:43:54 2018	Liberty Prime (STEAM_0:1:184775407) spawned
+Thu Oct 11 22:44:11 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 22:44:48 2018	Fallenturtle (STEAM_0:1:62867403): /advert make the core cold and fresh its a special order
+Thu Oct 11 22:45:17 2018	Tailed 0 Light (STEAM_0:1:59756947): pocket
+Thu Oct 11 22:45:32 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 22:46:28 2018	Fallenturtle was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 22:46:29 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:46:46 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:47:39 2018	Plankster (STEAM_0:1:52116782) has joined the game
+Thu Oct 11 22:47:39 2018	Plankster (STEAM_0:1:52116782) spawned
+Thu Oct 11 22:47:43 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:47:48 2018	Tailed 0 Light (STEAM_0:1:59756947): /name DJ
+Thu Oct 11 22:48:25 2018	Liberty Prime (STEAM_0:1:184775407): // dots did you see me
+Thu Oct 11 22:49:02 2018	Liberty  Prime was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:49:07 2018	Liberty  Prime (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:49:11 2018	Dave Letcher (STEAM_0:1:52038966): // No commies allowed
+Thu Oct 11 22:49:20 2018	Fallenturtle (STEAM_0:1:62867403): // no cummies alloud
+Thu Oct 11 22:49:22 2018	Liberty  Prime (STEAM_0:0:176415266): /ooc Liberty Prime is not communist.
+Thu Oct 11 22:49:23 2018	Fallenturtle (STEAM_0:1:62867403): // allowed
+Thu Oct 11 22:49:30 2018	Dave Letcher (STEAM_0:1:52038966): // Closet Commie
+Thu Oct 11 22:50:29 2018	Dave Letcher (STEAM_0:1:52038966): /advert Hot
+Thu Oct 11 22:50:31 2018	Dave Letcher (STEAM_0:1:52038966): /advert and
+Thu Oct 11 22:50:33 2018	Dave Letcher (STEAM_0:1:52038966): /advert and
+Thu Oct 11 22:50:43 2018	Liberty  Prime (STEAM_0:0:176415266): /advert Libery Prime : Online, Weapons : HOT.
+Thu Oct 11 22:50:46 2018	MrNetworks was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 22:50:47 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 22:50:57 2018	MrNetworks (STEAM_0:0:97407434): // fucking hell to Speed is to god dam op
+Thu Oct 11 22:50:58 2018	Dave Letcher (STEAM_0:1:52038966): /and fresh
+Thu Oct 11 22:51:04 2018	MrNetworks (STEAM_0:0:97407434): // Not even fucking pay to win shit is the powerful
+Thu Oct 11 22:51:17 2018	Dave Letcher (STEAM_0:1:52038966): // Ima use this as anti-terorrist
+Thu Oct 11 22:51:28 2018	MrNetworks (STEAM_0:0:97407434): // Its going to kill the fucking server...
+Thu Oct 11 22:51:30 2018	MrNetworks (STEAM_0:0:97407434): // Is to op
+Thu Oct 11 22:51:33 2018	MrNetworks (STEAM_0:0:97407434): // Like trump
+Thu Oct 11 22:52:50 2018	MrNetworks (STEAM_0:0:97407434): // Well Im go play on servers with out little kids that fucked killed Garrys mod
+Thu Oct 11 22:52:59 2018	Dave Letcher (STEAM_0:1:52038966): // mad
+Thu Oct 11 22:53:09 2018	MrNetworks (STEAM_0:0:97407434): // No,Little kids killed garrys mod
+Thu Oct 11 22:53:10 2018	Dave Letcher (STEAM_0:1:52038966): // That time of the month
+Thu Oct 11 22:53:17 2018	MrNetworks (STEAM_0:0:97407434): // and You guys have the Op speed
+Thu Oct 11 22:53:22 2018	MrNetworks (STEAM_0:0:97407434): // No,It was dead all summer
+Thu Oct 11 22:53:31 2018	Fallenturtle was killed by Dave Letcher with a weapon_l4d2_frying_pan
+Thu Oct 11 22:53:32 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:53:34 2018	MrNetworks (STEAM_0:0:97407434): // Fucking Forntie took people form all games
+Thu Oct 11 22:53:37 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:53:58 2018	Fallenturtle was killed by Head of SWAT Bulldog with a cw_m3super90
+Thu Oct 11 22:53:59 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 22:54:01 2018	MrNetworks (STEAM_0:0:97407434): // Thats all you hear little kids talk about Fornite Fornite fornite is the best game every
+Thu Oct 11 22:54:06 2018	Head of SWAT Bulldog was killed by Dave Letcher with a weapon_l4d2_frying_pan
+Thu Oct 11 22:54:10 2018	Dave Letcher (STEAM_0:1:52038966): // what?
+Thu Oct 11 22:54:10 2018	Head of SWAT Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 22:54:11 2018	Liberty  Prime (STEAM_0:0:176415266): /ooc Its sad.
+Thu Oct 11 22:54:17 2018	Plankster (STEAM_0:1:52116782): // just leave the server holy shit get some sleep bud
+Thu Oct 11 22:54:36 2018	MrNetworks (STEAM_0:0:97407434): // Plankster is a Fornite fuck boy
+Thu Oct 11 22:54:41 2018	MrNetworks (STEAM_0:0:97407434): // As you can see
+Thu Oct 11 22:54:48 2018	Plankster (STEAM_0:1:52116782): // ive never played fortnite lmao
+Thu Oct 11 22:55:03 2018	MrNetworks (STEAM_0:0:97407434): // That is what a fornite player will say if they be trying to get builed
+Thu Oct 11 22:55:05 2018	Liberty  Prime was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 22:55:08 2018	Liberty  Prime (STEAM_0:0:176415266) spawned
+Thu Oct 11 22:55:13 2018	Tailed 0 Light (STEAM_0:1:59756947): Sharingan
+Thu Oct 11 22:55:16 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Message] ALERT! The owner of this device is in danger, get to saftey and aware for any threats
+Thu Oct 11 22:55:24 2018	Plankster (STEAM_0:1:52116782): // jesus christ kid get some sleep
+Thu Oct 11 22:55:30 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 22:55:30 2018	Plankster (STEAM_0:1:52116782): // youre in a bad mood we get it
+Thu Oct 11 22:55:32 2018	Tailed 0 Light (STEAM_0:1:59756947): Sharingan
+Thu Oct 11 22:55:38 2018	MrNetworks (STEAM_0:0:97407434): // Shut the fuck up fornite player
+Thu Oct 11 22:55:48 2018	Dave Letcher (STEAM_0:1:52038966): // Nigga you high or something?
+Thu Oct 11 22:55:49 2018	Plankster (STEAM_0:1:52116782): // lmao alright mister fortnite player
+Thu Oct 11 22:55:52 2018	MrNetworks (STEAM_0:0:97407434) disconnected
+Thu Oct 11 22:55:57 2018	Plankster (STEAM_0:1:52116782): // what a pussy
+Thu Oct 11 22:56:05 2018	Tailed 0 Light (STEAM_0:1:59756947): Sharingan@@
+Thu Oct 11 22:56:09 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Thu Oct 11 22:56:09 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 22:56:14 2018	Tailed 0 Light (STEAM_0:1:59756947): shadow
+Thu Oct 11 22:56:21 2018	Fallenturtle (STEAM_0:1:62867403): // dots stop being afk
+Thu Oct 11 22:56:24 2018	Plankster (STEAM_0:1:52116782): /rpname knee grro
+Thu Oct 11 22:56:31 2018	Tailed 0 Light (STEAM_0:1:59756947): Sharingan
+Thu Oct 11 22:57:11 2018	Robert California (STEAM_0:0:63800005): // ok
+Thu Oct 11 22:57:14 2018	Tailed 0 Light (STEAM_0:1:59756947): rinnegan
+Thu Oct 11 22:57:40 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 22:58:05 2018	Robert California (STEAM_0:0:63800005): // i identify as an italian man
+Thu Oct 11 22:58:20 2018	knee grro (STEAM_0:1:52116782): // i wanna be a backpack
+Thu Oct 11 22:58:22 2018	Tailed 0 Light (STEAM_0:1:59756947): rinnegan
+Thu Oct 11 22:59:10 2018	Dave Letcher was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 22:59:11 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 22:59:24 2018	Tailed 0 Light (STEAM_0:1:59756947): sharingan@@1e+17
+Thu Oct 11 22:59:25 2018	Robert California (STEAM_0:0:63800005): /advert Happy Halloween
+Thu Oct 11 22:59:31 2018	Tailed 0 Light (STEAM_0:1:59756947): sharingan
+Thu Oct 11 23:00:10 2018	Robert California (STEAM_0:0:63800005): oh no
+Thu Oct 11 23:00:31 2018	Robert California (STEAM_0:0:63800005): i am an italian man
+Thu Oct 11 23:00:35 2018	Head of SWAT Bulldog has made Dave Letcher wanted, reason: Wanted
+Thu Oct 11 23:00:37 2018	Robert California (STEAM_0:0:63800005): thx
+Thu Oct 11 23:00:40 2018	Liberty  Prime (STEAM_0:0:176415266): /ooc Oh boy hopefully I make it
+Thu Oct 11 23:00:45 2018	Fallenturtle (STEAM_0:1:62867403): // dave its launching
+Thu Oct 11 23:00:47 2018	Fallenturtle (STEAM_0:1:62867403): // hurry
+Thu Oct 11 23:00:47 2018	Robert California (STEAM_0:0:63800005): we are going to space
+Thu Oct 11 23:01:04 2018	Liberty  Prime (STEAM_0:0:176415266): /name Spicy
+Thu Oct 11 23:01:06 2018	Sammy Boom (STEAM_0:0:91181601): // I just finished eating what happened
+Thu Oct 11 23:01:26 2018	Dave Letcher is no longer wanted by the Police. Revoked by: Head of SWAT Bulldog
+Thu Oct 11 23:01:26 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Thu Oct 11 23:01:26 2018	Head of SWAT Bulldog (STEAM_0:0:180224455) arrested Dave Letcher
+Thu Oct 11 23:01:28 2018	Robert California (STEAM_0:0:63800005): oof
+Thu Oct 11 23:01:29 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Thu Oct 11 23:01:30 2018	Head of SWAT Bulldog was killed by Fallenturtle with a weapon_l4d2_frying_pan
+Thu Oct 11 23:01:35 2018	Head of SWAT Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 23:01:40 2018	Robert California (STEAM_0:0:63800005): we going to space nibba
+Thu Oct 11 23:01:50 2018	Robert California was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 23:01:50 2018	Spicy (STEAM_0:0:176415266): '
+Thu Oct 11 23:01:51 2018	Robert California (STEAM_0:0:63800005) spawned
+Thu Oct 11 23:02:02 2018	knee grro was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 23:02:03 2018	Spicy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 23:02:04 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 23:02:06 2018	knee grro (STEAM_0:1:52116782) spawned
+Thu Oct 11 23:02:09 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 23:03:40 2018	Head of CBRN Dots was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Thu Oct 11 23:03:40 2018	Liberty Prime was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 23:03:40 2018	Sammy Boom was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Thu Oct 11 23:03:41 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 23:04:05 2018	Sammy Boom was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 23:04:05 2018	Sammy Boom (STEAM_0:0:91181601): /y here it comes

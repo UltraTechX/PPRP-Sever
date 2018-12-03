@@ -1,0 +1,788 @@
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (unarrest_stick)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (stunstick)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (door_ram)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (weaponchecker)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (arrest_stick)
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Tue Jun 12 22:10:21 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Tue Jun 12 22:10:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:10:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:10:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:10:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:10:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:10:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:10:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:10:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:11:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:11:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:11:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:11:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:11:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:11:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:11:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:11:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:11:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:11:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:11:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:11:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:12:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:12:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:12:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:12:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:12:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:12:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:12:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:12:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:12:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:12:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:12:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:12:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:13:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:13:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:13:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:13:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:13:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:13:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:13:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:13:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:13:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:13:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:13:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:13:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:14:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:14:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:14:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:14:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:14:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:14:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:14:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:14:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:14:37 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx findUser fat"
+[Tue Jun 12 22:14:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:14:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:14:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:14:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:15:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:15:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:15:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:15:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:15:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:15:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:15:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:15:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:15:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:15:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:15:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:15:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:16:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:16:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:16:16 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:16:16 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:16:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:16:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:16:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:16:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:16:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:16:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:16:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:16:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:17:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:17:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:17:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:17:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:17:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:17:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:17:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:17:34 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:17:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:17:44 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:17:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:17:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:18:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:18:04 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:18:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:18:14 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:18:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:18:24 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:22:41 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx Players"
+[Tue Jun 12 22:22:56 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx gplayers"
+[Tue Jun 12 22:24:01 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx getlayers"
+[Tue Jun 12 22:24:06 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx getlayers"
+[Tue Jun 12 22:24:20 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx screen STEAM_0:1:218173703"
+[Tue Jun 12 22:24:54 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx getlayers"
+[Tue Jun 12 22:24:58 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:24:58 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:25:08 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:25:08 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:25:10 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "textscreen"
+[Tue Jun 12 22:25:18 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:25:18 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:25:20 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "textscreen"
+[Tue Jun 12 22:25:21 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "textscreen" on entity "func_brush" (*212)
+[Tue Jun 12 22:25:23 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % attempted to use tool "textscreen" on entity "func_brush" (*212)
+[Tue Jun 12 22:25:28 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:25:28 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:25:38 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:25:38 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:25:42 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx screen STEAM_0:1:218173703"
+[Tue Jun 12 22:25:48 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:25:49 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:25:58 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:25:58 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:26:08 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:26:08 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:26:18 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 22:26:18 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 22:26:54 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (stunstick) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:27:04 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (stunstick) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:27:14 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (stunstick) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:27:24 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (stunstick) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:27:34 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (stunstick) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:27:44 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (stunstick) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:27:54 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:28:04 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:28:14 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:28:24 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:28:34 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:28:44 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:28:54 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:29:04 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:29:14 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:29:24 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:29:34 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:29:44 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:29:54 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:30:04 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:30:14 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:30:24 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:30:34 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:30:44 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:30:54 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:31:04 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:31:14 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:31:24 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:31:34 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:31:44 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:31:54 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:32:04 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:32:14 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 22:32:24 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Visitor) % killed themself
+[Tue Jun 12 22:32:24 2018] Starvation: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % died of starvation.
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (unarrest_stick)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (stunstick)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (door_ram)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (weaponchecker)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (arrest_stick)
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Tue Jun 12 22:35:43 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Tue Jun 12 22:39:47 2018] Connects/Disconnects: Fat Gay (STEAM_0:1:218173703) disconnected (Disconnect by user.)
+[Wed Jun 13 12:08:51 2018] Connects/Disconnects: Fat Gay (STEAM_0:1:218173703) connected from a:24:{s:17:"geoplugin_request";s:12:"108.2.221.98";s:16:"geoplugin_status";i:200;s:15:"geoplugin_delay";s:3:"1ms";s:16:"geoplugin_credit";s:145:"Some of the returned data includes GeoLite data created by MaxMind, available from <a href=\'http://www.maxmind.com\'>http://www.maxmind.com</a>.";s:14:"geoplugin_city";s:12:"Collegeville";s:16:"geoplugin_region";s:12:"Pennsylvania";s:20:"geoplugin_regionCode";s:2:"PA";s:20:"geoplugin_regionName";s:12:"Pennsylvania";s:18:"geoplugin_areaCode";s:0:"";s:17:"geoplugin_dmaCode";s:3:"504";s:21:"geoplugin_countryCode";s:2:"US";s:21:"geoplugin_countryName";s:13:"United States";s:14:"geoplugin_inEU";i:0;s:19:"geoplugin_euVATrate";b:0;s:23:"geoplugin_continentCode";s:2:"NA";s:23:"geoplugin_continentName";s:13:"North America";s:18:"geoplugin_latitude";s:7:"40.1879";s:19:"geoplugin_longitude";s:8:"-75.4254";s:32:"geoplugin_locationAccuracyRadius";s:1:"5";s:18:"geoplugin_timezone";s:16:"America/New_York";s:22:"geoplugin_currencyCode";s:3:"USD";s:24:"geoplugin_currencySymbol";s:5:"&#36;";s:29:"geoplugin_currencySymbol_UTF8";s:1:"$";s:27:"geoplugin_currencyConverter";s:1:"1";}
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (unarrest_stick)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (stunstick)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (door_ram)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (weaponchecker)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (arrest_stick)
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Wed Jun 13 12:09:55 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Wed Jun 13 12:11:56 2018] Job changes: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % changed job from Visitor
+[Wed Jun 13 12:11:56 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Plant Director) %: /votedirector
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (swep_radiodevice) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physgun
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (stunstick)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (arrest_stick)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (weaponchecker)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tool Gun (gmod_tool)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (keys)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (door_ram)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Pocket (pocket)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (unarrest_stick)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physcannon
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Inventory Pickup (itemstore_pickup)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (cw_deagle)
+[Wed Jun 13 12:11:58 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a #GMOD_Camera (gmod_camera)
+[Wed Jun 13 12:12:20 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /lockdown
+[Wed Jun 13 12:12:25 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /lockdown
+[Wed Jun 13 12:12:44 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /lockdown
+[Wed Jun 13 12:13:00 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /stoplockdown
+[Wed Jun 13 12:13:04 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /lockdown
+[Wed Jun 13 12:13:08 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /endlockdown
+[Wed Jun 13 12:13:41 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /unlockdown
+[Wed Jun 13 12:13:57 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: /requestlicense
+[Wed Jun 13 12:18:10 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) %: /lockdown
+[Wed Jun 13 12:18:15 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) %: /unlockdown
+[Wed Jun 13 12:20:23 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) %: /lockdown
+[Wed Jun 13 12:20:26 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) %: /lockdown
+[Wed Jun 13 12:20:32 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) %: /lockdown
+[Wed Jun 13 12:22:34 2018] Connects/Disconnects: Scrimmy Bingus attempted to connect with the incorrect password ""
+[Wed Jun 13 12:28:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:28:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:28:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:28:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:29:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:29:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:29:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:29:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:29:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:29:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:30:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:30:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:30:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:30:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:30:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:30:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:31:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:31:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:31:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:31:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:31:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:31:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:32:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:32:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:32:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:32:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:32:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:32:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:33:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:33:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:33:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:33:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:33:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:33:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:34:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:34:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:34:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:34:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:34:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:34:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:35:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:35:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:35:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:35:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:35:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:35:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:36:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:36:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:36:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:36:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:36:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:36:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:37:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:37:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:37:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:37:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:37:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:37:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:38:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:38:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:38:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:38:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:38:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:38:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:39:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:39:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:39:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:39:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:39:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:39:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:40:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:40:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:40:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 12:40:39 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Plant Director) % killed themself
+[Wed Jun 13 12:40:39 2018] Starvation: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % died of starvation.
+[Wed Jun 13 13:04:58 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Plant Director) %: !menu
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (stunstick)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (unarrest_stick)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tool Gun (gmod_tool)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (door_ram)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physcannon
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (keys)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Inventory Pickup (itemstore_pickup)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Pocket (pocket)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (arrest_stick)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physgun
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (weaponchecker)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a #GMOD_Camera (gmod_camera)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (cw_deagle)
+[Wed Jun 13 13:05:51 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Wed Jun 13 13:09:21 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: !menu
+[Wed Jun 13 13:09:53 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc Owner 99999"
+[Wed Jun 13 13:09:56 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc superadmin 99999"
+[Wed Jun 13 13:09:58 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc admin 99999"
+[Wed Jun 13 13:10:04 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc Moderator 99999"
+[Wed Jun 13 13:10:09 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc TrialModerator 10"
+[Wed Jun 13 13:10:14 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc VIPPACUser 0"
+[Wed Jun 13 13:10:16 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc VIP 0"
+[Wed Jun 13 13:10:17 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc PACUser 0"
+[Wed Jun 13 13:10:19 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc user 0"
+[Wed Jun 13 13:10:45 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle Owner 99999"
+[Wed Jun 13 13:10:48 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle superadmin 99999"
+[Wed Jun 13 13:10:50 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle admin 99999"
+[Wed Jun 13 13:11:02 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle Moderator 0"
+[Wed Jun 13 13:11:04 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle TrialModerator 0"
+[Wed Jun 13 13:11:06 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle VIPPACUser 0"
+[Wed Jun 13 13:11:09 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle VIP 0"
+[Wed Jun 13 13:11:10 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle PACUser 0"
+[Wed Jun 13 13:11:12 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle user 0"
+[Wed Jun 13 13:11:17 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned vehicle "prop_vehicle_prisoner_pod"
+[Wed Jun 13 13:11:19 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned vehicle "prop_vehicle_airboat"
+[Wed Jun 13 13:15:38 2018] Chat: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) %: !menu
+[Wed Jun 13 13:16:00 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect Owner 999999"
+[Wed Jun 13 13:16:06 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect superadmin 20"
+[Wed Jun 13 13:16:07 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect admin 20"
+[Wed Jun 13 13:16:09 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect admin 20"
+[Wed Jun 13 13:16:11 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect Moderator 20"
+[Wed Jun 13 13:16:12 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect TrialModerator 20"
+[Wed Jun 13 13:16:14 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect VIPPACUser 20"
+[Wed Jun 13 13:16:16 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect VIP 20"
+[Wed Jun 13 13:16:18 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect PACUser 20"
+[Wed Jun 13 13:16:20 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect user 20"
+[Wed Jun 13 13:16:26 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit effect noaccess 0"
+[Wed Jun 13 13:16:31 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit npc noaccess 0"
+[Wed Jun 13 13:16:34 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit prop noaccess 0"
+[Wed Jun 13 13:16:36 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit vehicle noaccess 0"
+[Wed Jun 13 13:16:43 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll Owner 99999999"
+[Wed Jun 13 13:16:46 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll superadmin 99999999"
+[Wed Jun 13 13:16:47 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll admin 99999999"
+[Wed Jun 13 13:16:53 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll Moderator 20"
+[Wed Jun 13 13:16:56 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll TrialModerator 20"
+[Wed Jun 13 13:17:03 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll VIPPACUser 10"
+[Wed Jun 13 13:17:06 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll VIP 10"
+[Wed Jun 13 13:17:07 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll PACUser 10"
+[Wed Jun 13 13:17:09 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll user 10"
+[Wed Jun 13 13:17:15 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll noaccess 0"
+[Wed Jun 13 13:17:24 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit ragdoll admin 50"
+[Wed Jun 13 13:17:59 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent Owner 9999999"
+[Wed Jun 13 13:18:00 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent superadmin 9999999"
+[Wed Jun 13 13:18:05 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent admin 10"
+[Wed Jun 13 13:18:11 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent Moderator 0"
+[Wed Jun 13 13:18:12 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent noaccess 0"
+[Wed Jun 13 13:18:14 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent TrialModerator 0"
+[Wed Jun 13 13:18:16 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent VIPPACUser 0"
+[Wed Jun 13 13:18:18 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent VIP 0"
+[Wed Jun 13 13:18:19 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent PACUser 0"
+[Wed Jun 13 13:18:21 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent user 0"
+[Wed Jun 13 13:18:34 2018] ULX: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % ran ULX command "ulx setlimit sent admin 999999"
+[Wed Jun 13 13:22:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:22:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:22:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:22:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:23:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:23:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:23:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:23:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:23:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:23:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:24:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:24:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:24:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:24:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:24:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:24:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:25:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:25:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:25:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:25:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:25:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:25:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:26:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:26:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:26:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:26:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:26:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:26:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:27:01 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:01 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:01 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:01 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:01 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:02 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:02 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:02 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:02 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:03 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "balloon"
+[Wed Jun 13 13:27:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:27:10 2018] Connects/Disconnects: TheOldRanger attempted to connect with the incorrect password ""
+[Wed Jun 13 13:27:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:27:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:27:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:27:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:27:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:28:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:28:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:28:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:28:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:28:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:28:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:29:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:29:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:29:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:29:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:29:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:29:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:30:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:30:14 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "creator"
+[Wed Jun 13 13:30:15 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "creator"
+[Wed Jun 13 13:30:15 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "creator"
+[Wed Jun 13 13:30:17 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/door02_double.mdl"
+[Wed Jun 13 13:30:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:30:20 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/FurnitureBoiler001a.mdl"
+[Wed Jun 13 13:30:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/fountain_01.mdl"
+[Wed Jun 13 13:30:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:30:33 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/GasPipes006a.mdl"
+[Wed Jun 13 13:30:37 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/FurnitureToilet001a.mdl"
+[Wed Jun 13 13:30:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:30:45 2018] Toolgun: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % attempted to use tool "creator"
+[Wed Jun 13 13:30:49 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_canal/bridge_pillar02.mdl"
+[Wed Jun 13 13:30:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:30:58 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_canal/canal_bridge04.mdl"
+[Wed Jun 13 13:30:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:31:05 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_docks/dock01_pole01a_128.mdl"
+[Wed Jun 13 13:31:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:31:09 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_docks/dock01_cleat01a.mdl"
+[Wed Jun 13 13:31:11 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_docks/channelmarker_gib04.mdl"
+[Wed Jun 13 13:31:16 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_combine/headcrabcannister01a.mdl"
+[Wed Jun 13 13:31:18 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_combine/weaponstripper.mdl"
+[Wed Jun 13 13:31:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:31:21 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_combine/combine_window001.mdl"
+[Wed Jun 13 13:31:23 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_combine/combine_fence01b.mdl"
+[Wed Jun 13 13:31:27 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/utilitypole03a.mdl"
+[Wed Jun 13 13:31:28 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/utilitypole02b.mdl"
+[Wed Jun 13 13:31:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:31:29 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/utilitypole01d.mdl"
+[Wed Jun 13 13:31:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/utilitypole01b.mdl"
+[Wed Jun 13 13:31:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/utilitypole01a.mdl"
+[Wed Jun 13 13:31:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:31:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:31:50 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_c17/signpole001.mdl"
+[Wed Jun 13 13:31:55 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_foliage/tree_poplar_01.mdl"
+[Wed Jun 13 13:31:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:32:01 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_trainstation/Ceiling_Arch001a.mdl"
+[Wed Jun 13 13:32:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:32:12 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (gmod_tool) (Plant Director) % spawned prop "models/props_trainstation/trainstation_column001.mdl"
+[Wed Jun 13 13:32:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:32:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:32:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:32:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:32:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:33:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:33:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:33:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:33:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:33:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:33:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:34:04 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_trainstation/trainstation_clock001.mdl"
+[Wed Jun 13 13:34:09 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_trainstation/pole_448Connection001a.mdl"
+[Wed Jun 13 13:34:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:34:18 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_trainstation/pole_448Connection002b.mdl"
+[Wed Jun 13 13:34:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:34:23 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_trainstation/TrackSign01.mdl"
+[Wed Jun 13 13:34:26 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_trainstation/mount_connection001a.mdl"
+[Wed Jun 13 13:34:28 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_trainstation/Column_Arch001a.mdl"
+[Wed Jun 13 13:34:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:34:36 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned prop "models/props_wasteland/cranemagnet01a.mdl"
+[Wed Jun 13 13:34:39 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Plant Director) % killed themself
+[Wed Jun 13 13:34:39 2018] Starvation: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % died of starvation.
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (stunstick)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (unarrest_stick)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tool Gun (gmod_tool)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (door_ram)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physcannon
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (keys)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Inventory Pickup (itemstore_pickup)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Pocket (pocket)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (arrest_stick)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physgun
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (weaponchecker)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a #GMOD_Camera (gmod_camera)
+[Wed Jun 13 13:34:40 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (cw_deagle)
+[Wed Jun 13 13:34:46 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/dockplank01b.mdl"
+[Wed Jun 13 13:34:49 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/gaspump001a.mdl"
+[Wed Jun 13 13:34:50 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/horizontalcoolingtank04.mdl"
+[Wed Jun 13 13:34:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/laundry_washer003.mdl"
+[Wed Jun 13 13:35:01 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:06 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/horizontalcoolingtank04.mdl"
+[Wed Jun 13 13:35:10 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:13 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:14 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:15 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:15 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:15 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_post01.mdl"
+[Wed Jun 13 13:35:19 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:26 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/panel_leverHandle001a.mdl"
+[Wed Jun 13 13:35:31 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/prison_bedframe001b.mdl"
+[Wed Jun 13 13:35:34 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/trainstation_ornament001.mdl"
+[Wed Jun 13 13:35:36 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/trainstation_ornament002.mdl"
+[Wed Jun 13 13:35:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_strut01.mdl"
+[Wed Jun 13 13:35:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_post01.mdl"
+[Wed Jun 13 13:35:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_post01.mdl"
+[Wed Jun 13 13:35:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_post01.mdl"
+[Wed Jun 13 13:35:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:35:50 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_wasteland/medbridge_base01.mdl"
+[Wed Jun 13 13:36:06 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/Gibs/helicopter_brokenpiece_05_tailfan.mdl"
+[Wed Jun 13 13:36:12 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/Gibs/helicopter_brokenpiece_06_body.mdl"
+[Wed Jun 13 13:36:16 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/combine_monitorbay.mdl"
+[Wed Jun 13 13:36:24 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models/props_lab/corkboard001.mdl"
+[Wed Jun 13 13:36:30 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_c17/TrapPropeller_Lever.mdl"
+[Wed Jun 13 13:36:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_lab/workspace003.mdl"
+[Wed Jun 13 13:37:10 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/mossman.mdl"
+[Wed Jun 13 13:37:11 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/mossman.mdl"
+[Wed Jun 13 13:37:11 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/mossman.mdl"
+[Wed Jun 13 13:37:11 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/mossman.mdl"
+[Wed Jun 13 13:37:12 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/mossman.mdl"
+[Wed Jun 13 13:37:19 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/manhack.mdl"
+[Wed Jun 13 13:37:36 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/Combine_Soldier.mdl"
+[Wed Jun 13 13:37:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_vehicles/car001b_hatchback.mdl"
+[Wed Jun 13 13:37:43 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/Combine_Helicopter.mdl"
+[Wed Jun 13 13:37:53 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/train002.mdl"
+[Wed Jun 13 13:37:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/combine_apc.mdl"
+[Wed Jun 13 13:38:00 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned ragdoll "models/Combine_dropship.mdl"
+[Wed Jun 13 13:38:20 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/combine_train02a.mdl"
+[Wed Jun 13 13:38:25 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/combine_train02b.mdl"
+[Wed Jun 13 13:38:27 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/CombineTrain01a.mdl"
+[Wed Jun 13 13:38:29 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/CombineTrain01a.mdl"
+[Wed Jun 13 13:38:29 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/CombineTrain01a.mdl"
+[Wed Jun 13 13:38:30 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_combine/CombineTrain01a.mdl"
+[Wed Jun 13 13:38:30 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/train005.mdl"
+[Wed Jun 13 13:38:32 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/train003.mdl"
+[Wed Jun 13 13:38:33 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/train002.mdl"
+[Wed Jun 13 13:38:33 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/train002.mdl"
+[Wed Jun 13 13:38:34 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_trainstation/train001.mdl"
+[Wed Jun 13 13:38:37 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_vehicles/truck001a.mdl"
+[Wed Jun 13 13:41:07 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned effect "models/Items/hevsuit.mdl"
+[Wed Jun 13 13:41:18 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % spawned effect "models/Items/BoxFlares.mdl"
+[Wed Jun 13 13:50:28 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % spawned ragdoll "models/player/t_phoenix.mdl"
+[Wed Jun 13 13:51:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:51:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:51:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:51:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:51:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:52:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:52:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:52:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:52:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:52:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:52:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:53:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:53:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:53:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:53:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:53:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:53:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:54:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:54:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:54:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:54:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:54:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:54:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:55:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:55:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:55:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:55:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:55:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:55:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:35 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % spawned prop "models/props/cs_assault/MoneyPallet02.mdl"
+[Wed Jun 13 13:56:35 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % spawned prop "models/props/cs_assault/MoneyPalletE.mdl"
+[Wed Jun 13 13:56:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % spawned prop "models/props/cs_assault/MoneyPalletE.mdl"
+[Wed Jun 13 13:56:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (cw_deagle) (Plant Director) % spawned prop "models/props/cs_assault/ACUnit01.mdl"
+[Wed Jun 13 13:56:49 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/ACUnit02.mdl"
+[Wed Jun 13 13:56:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:50 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/Billboard.mdl"
+[Wed Jun 13 13:56:52 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/Billboard.mdl"
+[Wed Jun 13 13:56:56 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:56:58 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:56:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:56:59 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:57:03 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack2.mdl"
+[Wed Jun 13 13:57:04 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:57:04 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:57:04 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:57:05 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/box_stack1.mdl"
+[Wed Jun 13 13:57:06 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/camera.mdl"
+[Wed Jun 13 13:57:06 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/ConsolePanelLoadingBay.mdl"
+[Wed Jun 13 13:57:09 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/dryer_box.mdl"
+[Wed Jun 13 13:57:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:57:11 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/FireHydrant.mdl"
+[Wed Jun 13 13:57:12 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/duct.mdl"
+[Wed Jun 13 13:57:14 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/FireHydrant.mdl"
+[Wed Jun 13 13:57:15 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/forklift.mdl"
+[Wed Jun 13 13:57:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:57:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models/props/cs_assault/TicketMachine.mdl"
+[Wed Jun 13 13:57:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:57:31 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/FenceWoodLog01_Short.mdl"
+[Wed Jun 13 13:57:32 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/boxes_frontroom.mdl"
+[Wed Jun 13 13:57:35 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/bathroomwallhole01_wood_broken.mdl"
+[Wed Jun 13 13:57:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:57:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/car_militia.mdl"
+[Wed Jun 13 13:57:43 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/couch.mdl"
+[Wed Jun 13 13:57:45 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/bridgelight.mdl"
+[Wed Jun 13 13:57:47 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/bridgelight.mdl"
+[Wed Jun 13 13:57:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:57:53 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/boxes_garage.mdl"
+[Wed Jun 13 13:57:58 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/boxes_frontroom.mdl"
+[Wed Jun 13 13:57:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:58:05 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/BoulderRing01.mdl"
+[Wed Jun 13 13:58:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:58:13 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/CoveredBridge01_Top.mdl"
+[Wed Jun 13 13:58:18 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/CoveredBridge01_Bottom.mdl"
+[Wed Jun 13 13:58:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:58:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/CoveredBridge01_Left.mdl"
+[Wed Jun 13 13:58:26 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/CoveredBridge01_Right.mdl"
+[Wed Jun 13 13:58:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:58:31 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/crate_stackmill.mdl"
+[Wed Jun 13 13:58:35 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/crate_extrasmallmill.mdl"
+[Wed Jun 13 13:58:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/fern01lg.mdl"
+[Wed Jun 13 13:58:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:58:41 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/fertilizer.mdl"
+[Wed Jun 13 13:58:43 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/FenceWoodLog02_Short.mdl"
+[Wed Jun 13 13:58:47 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/fireplace01.mdl"
+[Wed Jun 13 13:58:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:58:52 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/fireplacechimney01.mdl"
+[Wed Jun 13 13:58:54 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/food_stack.mdl"
+[Wed Jun 13 13:58:58 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/gun_cabinet.mdl"
+[Wed Jun 13 13:58:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:19 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/haybale_target_02.mdl"
+[Wed Jun 13 13:59:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:21 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/housefence_door.mdl"
+[Wed Jun 13 13:59:25 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/logpile2.mdl"
+[Wed Jun 13 13:59:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:32 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/logpile2.mdl"
+[Wed Jun 13 13:59:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/shelves_wood.mdl"
+[Wed Jun 13 13:59:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:40 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/tree_large_militia.mdl"
+[Wed Jun 13 13:59:44 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/trees3.mdl"
+[Wed Jun 13 13:59:47 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/trees2.mdl"
+[Wed Jun 13 13:59:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:51 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models\props/CS_militia/trees1.mdl"
+[Wed Jun 13 13:59:55 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/toothbrushset01.mdl"
+[Wed Jun 13 13:59:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/van_glass.mdl"
+[Wed Jun 13 13:59:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/van_glass.mdl"
+[Wed Jun 13 13:59:58 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/van.mdl"
+[Wed Jun 13 13:59:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 13:59:59 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/van.mdl"
+[Wed Jun 13 14:00:01 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/van.mdl"
+[Wed Jun 13 14:00:02 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/vent01.mdl"
+[Wed Jun 13 14:00:04 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/van.mdl"
+[Wed Jun 13 14:00:05 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/wndw01.mdl"
+[Wed Jun 13 14:00:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:00:09 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/roof_vent.mdl"
+[Wed Jun 13 14:00:12 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/reload_scale.mdl"
+[Wed Jun 13 14:00:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:00:20 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models\props/CS_militia/reloadingpress01.mdl"
+[Wed Jun 13 14:00:24 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned prop "models\props/CS_militia/rockpileramp01.mdl"
+[Wed Jun 13 14:00:29 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % spawned effect "models\props/CS_militia/rocks01.mdl"
+[Wed Jun 13 14:00:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physcannon) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:00:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:00:45 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/rocksteppingstones01.mdl"
+[Wed Jun 13 14:00:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:00:54 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/sheetrock_leaning.mdl"
+[Wed Jun 13 14:00:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/reload_bullet_tray.mdl"
+[Wed Jun 13 14:00:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/CS_militia/reload_scale.mdl"
+[Wed Jun 13 14:00:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:01:02 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/cs_office/address.mdl"
+[Wed Jun 13 14:01:09 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/cs_office/Crates_outdoor.mdl"
+[Wed Jun 13 14:01:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:01:15 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/cs_office/offpaintingd.mdl"
+[Wed Jun 13 14:01:18 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/cs_office/Snowman_body.mdl"
+[Wed Jun 13 14:01:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:01:21 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/cs_office/sofa.mdl"
+[Wed Jun 13 14:01:25 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models\props/cs_office/Vending_machine.mdl"
+[Wed Jun 13 14:01:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:01:35 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/clock.mdl"
+[Wed Jun 13 14:01:36 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/cinderblock_stack.mdl"
+[Wed Jun 13 14:01:38 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/crate_extrasmall.mdl"
+[Wed Jun 13 14:01:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:01:39 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/crate_small.mdl"
+[Wed Jun 13 14:01:42 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_tunnelb.mdl"
+[Wed Jun 13 14:01:47 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_tunnela.mdl"
+[Wed Jun 13 14:01:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:01:51 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_tspawnb.mdl"
+[Wed Jun 13 14:01:54 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_tspawna.mdl"
+[Wed Jun 13 14:01:59 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_ctspawnc.mdl"
+[Wed Jun 13 14:01:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:05 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_ctspawnb.mdl"
+[Wed Jun 13 14:02:07 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_ctspawnb.mdl"
+[Wed Jun 13 14:02:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:12 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_ctspawna.mdl"
+[Wed Jun 13 14:02:15 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_bombsite_d.mdl"
+[Wed Jun 13 14:02:16 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_bombsite_d.mdl"
+[Wed Jun 13 14:02:19 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:22 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_bombsitec.mdl"
+[Wed Jun 13 14:02:23 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models/props/de_nuke/ibeams_bombsiteb.mdl"
+[Wed Jun 13 14:02:29 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:31 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned effect "models/props/de_nuke/ibeams_bombsiteb.mdl"
+[Wed Jun 13 14:02:37 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_bombsitea.mdl"
+[Wed Jun 13 14:02:39 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:43 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/file_cabinet1_group.mdl"
+[Wed Jun 13 14:02:45 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/equipment1.mdl"
+[Wed Jun 13 14:02:49 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:49 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/ibeams_warehouseroof.mdl"
+[Wed Jun 13 14:02:54 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/NuclearContainerBoxClosed.mdl"
+[Wed Jun 13 14:02:57 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/NuclearTestCabinet.mdl"
+[Wed Jun 13 14:02:59 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:02:59 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/PowerPlantTank.mdl"
+[Wed Jun 13 14:03:01 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/pipeset.mdl"
+[Wed Jun 13 14:03:07 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/truck_nuke.mdl"
+[Wed Jun 13 14:03:09 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % damaged themself for 3 damage
+[Wed Jun 13 14:03:09 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/truck_nuke_glass.mdl"
+[Wed Jun 13 14:03:11 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/VentilationDuct02Large.mdl"
+[Wed Jun 13 14:03:13 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props/de_nuke/wall_light.mdl"
+[Wed Jun 13 14:03:18 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/hunter/blocks/cube8x8x8.mdl"
+[Wed Jun 13 14:03:19 2018] Player Kills: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (Plant Director) % killed themself
+[Wed Jun 13 14:03:19 2018] Starvation: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Plant Director) % died of starvation.
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tactical Restraint (weapon_cuff_tactical)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (weaponchecker)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Tool Gun (gmod_tool)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (swep_radiodevice)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (keys)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Pocket (pocket)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (arrest_stick)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (door_ram)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physgun
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (unarrest_stick)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a weapon_physcannon
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a #GMOD_Camera (gmod_camera)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Inventory Pickup (itemstore_pickup)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (stunstick)
+[Wed Jun 13 14:03:20 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % picked up a Scripted Weapon (cw_deagle)
+[Wed Jun 13 14:03:28 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/hunter/blocks/cube6x6x6.mdl"
+[Wed Jun 13 14:03:36 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/hunter/blocks/cube6x6x6.mdl"
+[Wed Jun 13 14:03:43 2018] Q Menu/Spawning: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Plant Director) % spawned prop "models/props_phx/construct/plastic/plastic_panel8x8.mdl"

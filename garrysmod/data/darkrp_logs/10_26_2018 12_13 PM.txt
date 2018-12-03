@@ -1,0 +1,1787 @@
+Fri Oct 26 12:13:58 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Fri Oct 26 12:13:58 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Oct 26 12:20:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Fri Oct 26 12:20:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Fri Oct 26 12:20:47 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Oct 26 12:22:13 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // hey jerm
+Fri Oct 26 12:22:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Fri Oct 26 12:22:36 2018	Jeroma (STEAM_0:0:121143569): // Hello Crim
+Fri Oct 26 12:22:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // come to lobby
+Fri Oct 26 12:22:52 2018	Jeroma (STEAM_0:0:121143569): // Im in the storage area
+Fri Oct 26 12:22:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // n o
+Fri Oct 26 12:23:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // are you good at building boats within 4 minutes
+Fri Oct 26 12:23:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // ill come over there
+Fri Oct 26 12:23:32 2018	Jeroma (STEAM_0:0:121143569): // No
+Fri Oct 26 12:23:37 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Oct 26 12:24:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // so ur bad at building boats and shit?
+Fri Oct 26 12:24:06 2018	Jeroma (STEAM_0:0:121143569): // Ye
+Fri Oct 26 12:24:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // are you willing to play flood with me tho
+Fri Oct 26 12:24:21 2018	Jeroma (STEAM_0:0:121143569): // Ye
+Fri Oct 26 12:24:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): theres a server called devinity 
+Fri Oct 26 12:24:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): devinity.org
+Fri Oct 26 12:24:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): flood eu
+Fri Oct 26 12:24:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): server 3
+Fri Oct 26 12:24:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): basically the only populated one on the flood gamemode
+Fri Oct 26 12:24:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): can u join it and we can team up
+Fri Oct 26 12:25:03 2018	Jeroma (STEAM_0:0:121143569): Ye
+Fri Oct 26 12:25:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): since all the good players are in teams already
+Fri Oct 26 12:25:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k man
+Fri Oct 26 12:25:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ill c u there
+Fri Oct 26 12:25:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its gonna be rly gay fighting the russians btw
+Fri Oct 26 12:25:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they dont speak shit worth english
+Fri Oct 26 12:25:31 2018	Jeroma (STEAM_0:0:121143569): Ok
+Fri Oct 26 12:25:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k c u there
+Fri Oct 26 12:25:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Fri Oct 26 12:25:36 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Fri Oct 26 14:45:51 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Fri Oct 26 14:45:51 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 14:47:07 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 14:48:02 2018	Papa Plankuh (STEAM_0:0:47204272) has joined the game
+Fri Oct 26 14:48:02 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 14:48:57 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 14:50:52 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 14:51:43 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 14:51:52 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 14:56:58 2018	Shadow OverLord (STEAM_0:0:25106303) has joined the game
+Fri Oct 26 14:56:58 2018	Shadow OverLord (STEAM_0:0:25106303) spawned
+Fri Oct 26 14:58:36 2018	Shadow OverLord (STEAM_0:0:25106303): 
+Fri Oct 26 14:59:35 2018	Shadow OverLord (STEAM_0:0:25106303) spawned
+Fri Oct 26 15:01:32 2018	Shadow OverLord (STEAM_0:0:25106303) disconnected
+Fri Oct 26 15:17:05 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 15:17:07 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 15:46:47 2018	Robotronik (STEAM_0:0:96515980) has joined the game
+Fri Oct 26 15:46:47 2018	Robotronik (STEAM_0:0:96515980) spawned
+Fri Oct 26 15:47:36 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc could we have a cook?
+Fri Oct 26 15:47:48 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc im very hungry
+Fri Oct 26 15:47:57 2018	Mr Skidadable (STEAM_0:0:47204272): // you can make your own pizza in the cafeteria without a chef
+Fri Oct 26 15:48:01 2018	Mr Skidadable (STEAM_0:0:47204272): // If you didnt know
+Fri Oct 26 15:48:33 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 15:48:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 15:53:16 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 15:54:42 2018	vlad4380 (STEAM_0:1:83147204) has joined the game
+Fri Oct 26 15:54:42 2018	vlad4380 (STEAM_0:1:83147204) spawned
+Fri Oct 26 15:55:25 2018	Mr Skidadable (STEAM_0:0:47204272): // Theres no way to upgrade the meth combiner?
+Fri Oct 26 15:55:34 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc nope
+Fri Oct 26 15:55:37 2018	Mr Skidadable (STEAM_0:0:47204272): // Hmmmm
+Fri Oct 26 15:55:45 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc i wish you could
+Fri Oct 26 15:55:53 2018	Mr Skidadable (STEAM_0:0:47204272): // God, can you help me so i can!?
+Fri Oct 26 15:56:03 2018	Mr Skidadable (STEAM_0:0:47204272): // Hope he heard it
+Fri Oct 26 15:57:49 2018	vlad4380 (STEAM_0:1:83147204) spawned
+Fri Oct 26 15:58:21 2018	Robotronik was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 15:58:23 2018	Robotronik (STEAM_0:0:96515980) spawned
+Fri Oct 26 15:58:34 2018	Robotronik (STEAM_0:0:96515980) spawned
+Fri Oct 26 15:59:34 2018	vlad4380 was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Fri Oct 26 15:59:36 2018	vlad4380 (STEAM_0:1:83147204) spawned
+Fri Oct 26 15:59:59 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 16:00:00 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 16:00:45 2018	Mr Skidadable (STEAM_0:0:47204272): // HO is messing with the reactor n stuff?
+Fri Oct 26 16:00:53 2018	Robotronik (STEAM_0:0:96515980) disconnected
+Fri Oct 26 16:00:57 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc goddamnit
+Fri Oct 26 16:02:18 2018	vlad4380 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Fri Oct 26 16:03:21 2018	vlad4380 (STEAM_0:1:83147204) spawned
+Fri Oct 26 16:04:40 2018	vlad4380 (STEAM_0:1:83147204) disconnected
+Fri Oct 26 16:20:34 2018	Mr Skidadable (STEAM_0:0:47204272): /advert (Sniffs meth powder) OHH MAAA GOOOOOOOOOD! Ughhhh... ohhh shet! left the radio on!
+Fri Oct 26 16:21:16 2018	Johnny K Bronk (STEAM_0:1:167614500): /advert (pprp) Could you not snort meth thur the radio
+Fri Oct 26 16:34:03 2018	Pane3Panellle (STEAM_0:1:114646812) has joined the game
+Fri Oct 26 16:34:03 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Fri Oct 26 16:35:10 2018	Pane3Panellle (STEAM_0:1:114646812): /ooc RIP good server
+Fri Oct 26 16:36:43 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 16:36:45 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 16:37:31 2018	Pane3Panellle (STEAM_0:1:114646812): Hello ?
+Fri Oct 26 16:37:37 2018	Pane3Panellle (STEAM_0:1:114646812): /ooc Hello ?
+Fri Oct 26 16:38:36 2018	Pane3Panellle (STEAM_0:1:114646812): /ooc Why no one play this good server
+Fri Oct 26 16:38:58 2018	Mr Skidadable (STEAM_0:0:47204272) disconnected
+Fri Oct 26 16:43:36 2018	Pane3Panellle was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 16:43:37 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Fri Oct 26 16:43:59 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Fri Oct 26 16:44:50 2018	Johnny K Bronk was killed by Pane3Panellle with a cw_deagle
+Fri Oct 26 16:45:39 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 16:46:13 2018	Pane3Panellle (STEAM_0:1:114646812) disconnected
+Fri Oct 26 16:51:39 2018	Gabe (STEAM_0:0:63436705) has joined the game
+Fri Oct 26 16:51:39 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 16:54:52 2018	British Cunt (STEAM_0:0:63436705) disconnected
+Fri Oct 26 16:58:41 2018	Johnny K Bronk was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Fri Oct 26 16:58:53 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Fri Oct 26 17:00:12 2018	Gabe (STEAM_0:0:63436705) has joined the game
+Fri Oct 26 17:00:12 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 17:03:31 2018	British Cunt (STEAM_0:0:63436705): // Hello sexy
+Fri Oct 26 17:05:53 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 17:17:06 2018	British Cunt (STEAM_0:0:63436705): w
+Fri Oct 26 17:19:32 2018	British Cunt was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 17:22:37 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 17:29:39 2018	British Cunt was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Fri Oct 26 17:29:44 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 17:29:49 2018	British Cunt was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Fri Oct 26 17:29:51 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 17:29:51 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Fri Oct 26 17:29:51 2018	British Cunt was killed by Himself with a suicide trick
+Fri Oct 26 17:29:56 2018	British Cunt (STEAM_0:0:63436705) spawned
+Fri Oct 26 17:31:19 2018	British Cunt (STEAM_0:0:63436705) disconnected
+Fri Oct 26 17:43:49 2018	James121op | (STEAM_0:1:168725074) has joined the game
+Fri Oct 26 17:43:49 2018	James121op | (STEAM_0:1:168725074) spawned
+Fri Oct 26 17:45:57 2018	James121op | (STEAM_0:1:168725074): // where you at
+Fri Oct 26 17:51:14 2018	James121op | (STEAM_0:1:168725074) disconnected
+Fri Oct 26 18:12:58 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 18:17:45 2018	Atomic (STEAM_0:0:145671660) has joined the game
+Fri Oct 26 18:17:45 2018	Andrew Blackery (STEAM_0:0:145671660) spawned
+Fri Oct 26 18:23:36 2018	Andrew Blackery (STEAM_0:0:145671660): psst
+Fri Oct 26 18:23:42 2018	Andrew Blackery (STEAM_0:0:145671660): i came in my pants
+Fri Oct 26 18:23:49 2018	Andrew Blackery (STEAM_0:0:145671660) disconnected
+Fri Oct 26 18:49:04 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Fri Oct 26 18:49:07 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 18:49:48 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 18:52:33 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Fri Oct 26 18:52:33 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Oct 26 18:56:12 2018	Jeroma (STEAM_0:0:121143569): // Hello
+Fri Oct 26 18:56:28 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Oct 26 18:56:42 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc the place was just bombed
+Fri Oct 26 18:56:49 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc you can't bomb it
+Fri Oct 26 18:57:53 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Oct 26 18:58:08 2018	Jeroma (STEAM_0:0:121143569): // where you at?
+Fri Oct 26 18:58:47 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc vistor spawn
+Fri Oct 26 18:59:22 2018	Jeroma (STEAM_0:0:121143569): // Well im in the lobby
+Fri Oct 26 19:00:39 2018	Jeroma (STEAM_0:0:121143569): // Where you at?
+Fri Oct 26 19:00:54 2018	Jeroma (STEAM_0:0:121143569): /Y Oh here
+Fri Oct 26 19:01:06 2018	Johnny K Bronk (STEAM_0:1:167614500): the code is 1995
+Fri Oct 26 19:01:07 2018	Jeroma (STEAM_0:0:121143569): How much money you got?
+Fri Oct 26 19:01:17 2018	Johnny K Bronk (STEAM_0:1:167614500): 1,127,773
+Fri Oct 26 19:01:25 2018	Johnny K Bronk (STEAM_0:1:167614500): im slightly poor
+Fri Oct 26 19:01:40 2018	Jeroma (STEAM_0:0:121143569): Im Im Very tiny poor
+Fri Oct 26 19:01:51 2018	Jeroma (STEAM_0:0:121143569): 3,075,673
+Fri Oct 26 19:01:55 2018	Johnny K Bronk (STEAM_0:1:167614500): ah
+Fri Oct 26 19:02:00 2018	Johnny K Bronk (STEAM_0:1:167614500): yeah im poor
+Fri Oct 26 19:02:07 2018	Jeroma (STEAM_0:0:121143569): You doing this wrong mate
+Fri Oct 26 19:02:17 2018	Jeroma (STEAM_0:0:121143569): You also print by the side
+Fri Oct 26 19:02:22 2018	Jeroma (STEAM_0:0:121143569): To get that extra 
+Fri Oct 26 19:02:26 2018	Jeroma (STEAM_0:0:121143569): IIt really helps
+Fri Oct 26 19:02:29 2018	Johnny K Bronk (STEAM_0:1:167614500): i really ddont like to print
+Fri Oct 26 19:02:34 2018	Jeroma (STEAM_0:0:121143569): But it helsp
+Fri Oct 26 19:02:37 2018	Jeroma (STEAM_0:0:121143569): Helps*
+Fri Oct 26 19:02:49 2018	Johnny K Bronk (STEAM_0:1:167614500): alright if you say so
+Fri Oct 26 19:03:09 2018	Jeroma (STEAM_0:0:121143569): thats gonna be your 60% of your income
+Fri Oct 26 19:03:23 2018	Johnny K Bronk (STEAM_0:1:167614500): wait wut?
+Fri Oct 26 19:03:33 2018	Jeroma (STEAM_0:0:121143569): thats how i got most of my money
+Fri Oct 26 19:03:39 2018	Johnny K Bronk (STEAM_0:1:167614500): hmm
+Fri Oct 26 19:03:54 2018	Jeroma (STEAM_0:0:121143569): Your thinking to low
+Fri Oct 26 19:04:00 2018	Jeroma (STEAM_0:0:121143569): Platinum
+Fri Oct 26 19:04:40 2018	Jeroma (STEAM_0:0:121143569): You have been 
+Fri Oct 26 19:04:46 2018	Jeroma (STEAM_0:0:121143569): Coocking meth
+Fri Oct 26 19:04:51 2018	Jeroma (STEAM_0:0:121143569): For 4 hours?
+Fri Oct 26 19:05:05 2018	Jeroma (STEAM_0:0:121143569): And you got how much?
+Fri Oct 26 19:05:13 2018	Johnny K Bronk (STEAM_0:1:167614500): around 5 mill
+Fri Oct 26 19:05:21 2018	Johnny K Bronk (STEAM_0:1:167614500): but then lost most of it
+Fri Oct 26 19:05:26 2018	Jeroma (STEAM_0:0:121143569): Why
+Fri Oct 26 19:05:37 2018	Johnny K Bronk (STEAM_0:1:167614500): weapns black markket shit
+Fri Oct 26 19:05:45 2018	Jeroma (STEAM_0:0:121143569): You bought everything?
+Fri Oct 26 19:05:50 2018	Johnny K Bronk (STEAM_0:1:167614500): not too much
+Fri Oct 26 19:06:01 2018	Jeroma (STEAM_0:0:121143569): You got a gun crate you dont want?
+Fri Oct 26 19:06:04 2018	Johnny K Bronk (STEAM_0:1:167614500): want a medic kit
+Fri Oct 26 19:06:15 2018	Jeroma (STEAM_0:0:121143569): Thanks
+Fri Oct 26 19:06:27 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Oct 26 19:06:49 2018	Johnny K Bronk (STEAM_0:1:167614500): want me to set you up on the other side?
+Fri Oct 26 19:06:55 2018	Jeroma (STEAM_0:0:121143569): Nah
+Fri Oct 26 19:06:59 2018	Johnny K Bronk (STEAM_0:1:167614500): you sure
+Fri Oct 26 19:07:09 2018	Jeroma (STEAM_0:0:121143569): Im all good
+Fri Oct 26 19:07:12 2018	Johnny K Bronk (STEAM_0:1:167614500): k
+Fri Oct 26 19:07:13 2018	Jeroma (STEAM_0:0:121143569): 3 mill is enough
+Fri Oct 26 19:07:46 2018	Jeroma (STEAM_0:0:121143569): What
+Fri Oct 26 19:07:51 2018	Johnny K Bronk (STEAM_0:1:167614500): ?
+Fri Oct 26 19:07:55 2018	Jeroma (STEAM_0:0:121143569): Do you think about this
+Fri Oct 26 19:07:58 2018	Jeroma (STEAM_0:0:121143569): Machine
+Fri Oct 26 19:08:07 2018	Johnny K Bronk (STEAM_0:1:167614500): spider man chai?
+Fri Oct 26 19:08:10 2018	Jeroma (STEAM_0:0:121143569): Ye
+Fri Oct 26 19:08:18 2018	Johnny K Bronk (STEAM_0:1:167614500): tis' okay
+Fri Oct 26 19:08:38 2018	Jeroma (STEAM_0:0:121143569): How many things did you buy?
+Fri Oct 26 19:08:46 2018	Johnny K Bronk (STEAM_0:1:167614500): not much
+Fri Oct 26 19:08:53 2018	Jeroma (STEAM_0:0:121143569): Literally full inv?
+Fri Oct 26 19:09:04 2018	Johnny K Bronk (STEAM_0:1:167614500): i hat to pay a dept
+Fri Oct 26 19:09:44 2018	Jeroma (STEAM_0:0:121143569): Who did you have to pay 
+Fri Oct 26 19:10:02 2018	Johnny K Bronk (STEAM_0:1:167614500): i'd rather not talk about it
+Fri Oct 26 19:10:11 2018	Jeroma (STEAM_0:0:121143569): Did you accidently ERP?
+Fri Oct 26 19:10:15 2018	Johnny K Bronk (STEAM_0:1:167614500): no
+Fri Oct 26 19:10:22 2018	Jeroma (STEAM_0:0:121143569): Why
+Fri Oct 26 19:10:24 2018	Jeroma (STEAM_0:0:121143569): And who
+Fri Oct 26 19:10:30 2018	Johnny K Bronk (STEAM_0:1:167614500): coral
+Fri Oct 26 19:10:34 2018	Johnny K Bronk (STEAM_0:1:167614500): but fagoot
+Fri Oct 26 19:10:46 2018	Jeroma (STEAM_0:0:121143569): why you say fagoot
+Fri Oct 26 19:10:53 2018	Johnny K Bronk (STEAM_0:1:167614500): cus thats hi name
+Fri Oct 26 19:10:56 2018	Johnny K Bronk (STEAM_0:1:167614500): his*
+Fri Oct 26 19:11:43 2018	Jeroma (STEAM_0:0:121143569): Oi
+Fri Oct 26 19:11:47 2018	Jeroma (STEAM_0:0:121143569): Why you aint upgrading them
+Fri Oct 26 19:11:58 2018	Johnny K Bronk (STEAM_0:1:167614500): dunno
+Fri Oct 26 19:12:31 2018	Jeroma (STEAM_0:0:121143569): Buy Repair kits
+Fri Oct 26 19:12:38 2018	Johnny K Bronk (STEAM_0:1:167614500): oof thanks
+Fri Oct 26 19:13:29 2018	Jeroma (STEAM_0:0:121143569): Buy Repair kits
+Fri Oct 26 19:13:44 2018	Johnny K Bronk (STEAM_0:1:167614500): wrong thing
+Fri Oct 26 19:13:45 2018	Jeroma (STEAM_0:0:121143569): Not that
+Fri Oct 26 19:14:38 2018	Jeroma (STEAM_0:0:121143569): Restocked
+Fri Oct 26 19:14:41 2018	Jeroma (STEAM_0:0:121143569): Your Printers
+Fri Oct 26 19:14:47 2018	Jeroma (STEAM_0:0:121143569): And Fully upgraded em
+Fri Oct 26 19:14:48 2018	Johnny K Bronk (STEAM_0:1:167614500): thanks 
+Fri Oct 26 19:14:56 2018	Jeroma (STEAM_0:0:121143569): Mate
+Fri Oct 26 19:14:59 2018	Jeroma (STEAM_0:0:121143569): Got an shipment
+Fri Oct 26 19:15:05 2018	Jeroma (STEAM_0:0:121143569): I can have?
+Fri Oct 26 19:15:14 2018	Jeroma (STEAM_0:0:121143569): No
+Fri Oct 26 19:15:18 2018	Jeroma (STEAM_0:0:121143569): Gun shipment
+Fri Oct 26 19:15:44 2018	Johnny K Bronk (STEAM_0:1:167614500): sadly i only have a shipment of one ak
+Fri Oct 26 19:15:55 2018	Johnny K Bronk (STEAM_0:1:167614500): you can take these
+Fri Oct 26 19:15:59 2018	Jeroma (STEAM_0:0:121143569): Nah
+Fri Oct 26 19:16:12 2018	Jeroma (STEAM_0:0:121143569): Thank you
+Fri Oct 26 19:16:15 2018	Jeroma (STEAM_0:0:121143569): And pick up your meth
+Fri Oct 26 19:17:20 2018	Jeroma (STEAM_0:0:121143569): I got 3 mill
+Fri Oct 26 19:17:28 2018	Johnny K Bronk (STEAM_0:1:167614500): you already said that
+Fri Oct 26 19:17:46 2018	Jeroma (STEAM_0:0:121143569): Should i buy something
+Fri Oct 26 19:18:02 2018	Johnny K Bronk (STEAM_0:1:167614500): theres no sellers on
+Fri Oct 26 19:18:10 2018	Jeroma (STEAM_0:0:121143569): You can become one quick
+Fri Oct 26 19:18:18 2018	Johnny K Bronk (STEAM_0:1:167614500): nah
+Fri Oct 26 19:18:58 2018	Jeroma (STEAM_0:0:121143569): This is boring
+Fri Oct 26 19:19:02 2018	Johnny K Bronk (STEAM_0:1:167614500): it is 
+Fri Oct 26 19:19:13 2018	Jeroma (STEAM_0:0:121143569): Can i have 11
+Fri Oct 26 19:19:14 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 19:20:31 2018	Jeroma (STEAM_0:0:121143569): Could you become a black market dealer
+Fri Oct 26 19:20:37 2018	Johnny K Bronk (STEAM_0:1:167614500): K Dad
+Fri Oct 26 19:20:42 2018	Jeroma (STEAM_0:0:121143569): Ty Son
+Fri Oct 26 19:20:44 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 19:21:59 2018	Jeroma (STEAM_0:0:121143569): Can i buy a Breaching charge shipment
+Fri Oct 26 19:22:04 2018	Johnny K Bronk (STEAM_0:1:167614500): K Dada
+Fri Oct 26 19:22:18 2018	Johnny K Bronk (STEAM_0:1:167614500): just single?
+Fri Oct 26 19:22:21 2018	Jeroma (STEAM_0:0:121143569): Shipment
+Fri Oct 26 19:22:44 2018	Jeroma (STEAM_0:0:121143569): Can i have another single one
+Fri Oct 26 19:22:49 2018	Johnny K Bronk (STEAM_0:1:167614500): sure
+Fri Oct 26 19:22:53 2018	Jeroma (STEAM_0:0:121143569): Ty
+Fri Oct 26 19:23:12 2018	Jeroma (STEAM_0:0:121143569): Open the door
+Fri Oct 26 19:23:26 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc the code is 1995
+Fri Oct 26 19:23:50 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 19:26:21 2018	Jeroma (STEAM_0:0:121143569): // Well im gonna head off
+Fri Oct 26 19:26:24 2018	Jeroma (STEAM_0:0:121143569): // So cya
+Fri Oct 26 19:26:28 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc cya
+Fri Oct 26 19:26:35 2018	Jeroma (STEAM_0:0:121143569): // <3
+Fri Oct 26 19:26:40 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc O O F
+Fri Oct 26 19:26:46 2018	Jeroma (STEAM_0:0:121143569): // XD
+Fri Oct 26 19:26:47 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Fri Oct 26 19:39:59 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 19:40:01 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 19:41:53 2018	Johnny K Bronk was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Fri Oct 26 19:41:54 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 19:48:15 2018	L4Z3R R4V3RZ (STEAM_0:0:42122041) has joined the game
+Fri Oct 26 19:48:15 2018	L4Z3R R4V3RZ (STEAM_0:0:42122041) spawned
+Fri Oct 26 19:51:04 2018	L4Z3R R4V3RZ was killed by Johnny K Bronk with a fas2_machete
+Fri Oct 26 19:54:24 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Fri Oct 26 19:54:24 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Fri Oct 26 19:56:14 2018	Sir Bobsson was killed by Johnny K Bronk with a fas2_machete
+Fri Oct 26 20:00:06 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Fri Oct 26 20:01:58 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Fri Oct 26 20:01:59 2018	L4Z3R R4V3RZ (STEAM_0:0:42122041) spawned
+Fri Oct 26 20:02:21 2018	L4Z3R R4V3RZ (STEAM_0:0:42122041) disconnected
+Fri Oct 26 20:02:38 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 20:04:17 2018	Sir Bobsson was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Fri Oct 26 20:04:19 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Fri Oct 26 20:04:24 2018	Sir Bobsson (STEAM_0:0:69022001) disconnected
+Fri Oct 26 20:04:38 2018	Johnny K Bronk was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Fri Oct 26 20:04:39 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 20:27:31 2018	Gamizard (STEAM_0:1:51961500) has joined the game
+Fri Oct 26 20:27:31 2018	Gamizard (STEAM_0:1:51961500) spawned
+Fri Oct 26 20:28:28 2018	Gamizard (STEAM_0:1:51961500) spawned
+Fri Oct 26 20:28:38 2018	Gamizard (STEAM_0:1:51961500): /ooc wow this server is dead
+Fri Oct 26 20:37:23 2018	Gamizard (STEAM_0:1:51961500) disconnected
+Fri Oct 26 20:38:56 2018	Gamizard (STEAM_0:1:51961500) has joined the game
+Fri Oct 26 20:38:56 2018	Gamizard (STEAM_0:1:51961500) spawned
+Fri Oct 26 20:39:22 2018	Gamizard (STEAM_0:1:51961500) spawned
+Fri Oct 26 20:50:18 2018	SUCCUBUSLAYER (STEAM_0:0:86671293) has joined the game
+Fri Oct 26 20:50:18 2018	SUCCUBUSLAYER (STEAM_0:0:86671293) spawned
+Fri Oct 26 21:02:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Fri Oct 26 21:02:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 21:03:17 2018	SUCCUBUSLAYER was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 21:03:19 2018	SUCCUBUSLAYER (STEAM_0:0:86671293) spawned
+Fri Oct 26 21:03:56 2018	SUCCUBUSLAYER (STEAM_0:0:86671293) disconnected
+Fri Oct 26 21:07:26 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 21:09:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 21:17:47 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Fri Oct 26 21:17:47 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Fri Oct 26 21:18:22 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Fri Oct 26 21:21:27 2018	Sir Bobsson (STEAM_0:0:69022001): wide
+Fri Oct 26 21:22:42 2018	Sir Bobsson was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 21:22:43 2018	Sir Bobsson (STEAM_0:0:69022001) disconnected
+Fri Oct 26 21:23:21 2018	War Diaz (STEAM_0:1:30808715) has joined the game
+Fri Oct 26 21:23:21 2018	War Diaz (STEAM_0:1:30808715) spawned
+Fri Oct 26 21:24:06 2018	War Diaz (STEAM_0:1:30808715): // hey how do I change my player model
+Fri Oct 26 21:24:10 2018	War Diaz (STEAM_0:1:30808715): // to be different sizes
+Fri Oct 26 21:24:11 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Fri Oct 26 21:24:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // you need to apply for PAC
+Fri Oct 26 21:24:27 2018	War Diaz (STEAM_0:1:30808715): // wtf is that
+Fri Oct 26 21:26:20 2018	War Diaz (STEAM_0:1:30808715) spawned
+Fri Oct 26 21:30:32 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Fri Oct 26 21:30:32 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 21:32:30 2018	Gamizard was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Fri Oct 26 21:32:30 2018	War Diaz was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Fri Oct 26 21:32:30 2018	Enviro was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Fri Oct 26 21:32:31 2018	War Diaz (STEAM_0:1:30808715) spawned
+Fri Oct 26 21:32:36 2018	War Diaz was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Fri Oct 26 21:32:36 2018	[Opi] Fat Gay was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Fri Oct 26 21:32:38 2018	War Diaz (STEAM_0:1:30808715) spawned
+Fri Oct 26 21:32:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 21:32:42 2018	Enviro was killed by Himself with a suicide trick
+Fri Oct 26 21:32:42 2018	Gamizard was killed by Himself with a suicide trick
+Fri Oct 26 21:32:42 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Fri Oct 26 21:32:42 2018	War Diaz was killed by Himself with a suicide trick
+Fri Oct 26 21:32:46 2018	War Diaz (STEAM_0:1:30808715) spawned
+Fri Oct 26 21:32:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 21:32:55 2018	War Diaz (STEAM_0:1:30808715) spawned
+Fri Oct 26 21:34:19 2018	War Diaz (STEAM_0:1:30808715) disconnected
+Fri Oct 26 21:44:54 2018	Gamizard (STEAM_0:1:51961500) spawned
+Fri Oct 26 21:47:32 2018	Gamizard (STEAM_0:1:51961500) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Oct 26 21:47:59 2018	Gamizard (STEAM_0:1:51961500) spawned
+Fri Oct 26 22:01:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 22:01:57 2018	Papa Plankuh (STEAM_0:0:47204272) has joined the game
+Fri Oct 26 22:01:57 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 22:02:05 2018	Enviro (STEAM_0:0:80115103): // hi
+Fri Oct 26 22:03:17 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 22:04:13 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 22:04:19 2018	Mr Skidadable (STEAM_0:0:47204272): // Where is all
+Fri Oct 26 22:04:22 2018	Gamizard (STEAM_0:1:51961500) disconnected
+Fri Oct 26 22:04:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im busy on some server work
+Fri Oct 26 22:04:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and fixing the damn webserver
+Fri Oct 26 22:04:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // again
+Fri Oct 26 22:05:12 2018	Mr Skidadable (STEAM_0:0:47204272): 
+Fri Oct 26 22:08:07 2018	Enviro (STEAM_0:0:80115103): // maybe we can do some kind of event to get ppl going
+Fri Oct 26 22:08:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ye
+Fri Oct 26 22:08:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // what are you thinking?
+Fri Oct 26 22:08:27 2018	Mr Skidadable (STEAM_0:0:47204272): // Lets have a tea time Enviro
+Fri Oct 26 22:08:32 2018	Enviro (STEAM_0:0:80115103): // any ideas fat? have one but it would take a while to do (like probably tomorrow/sunday)
+Fri Oct 26 22:08:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i mean, thats fine
+Fri Oct 26 22:12:40 2018	Mr Skidadable (STEAM_0:0:47204272): // !goto Enviro
+Fri Oct 26 22:12:42 2018	Mr Skidadable (STEAM_0:0:47204272): // >:c
+Fri Oct 26 22:14:58 2018	Mr Skidadable (STEAM_0:0:47204272): // There is like no way to facepose myself with pac3? or is there?
+Fri Oct 26 22:15:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // idk
+Fri Oct 26 22:15:46 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 22:15:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 22:27:20 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Fri Oct 26 22:27:20 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:29:25 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:29:50 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:29:55 2018	Kilroy (STEAM_0:0:138507625): @ fat come
+Fri Oct 26 22:31:27 2018	Kilroy was killed by [Opi] Fat Gay with a csgo_bayonet
+Fri Oct 26 22:31:29 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:31:45 2018	Kilroy was killed by [Opi] Fat Gay with a csgo_bayonet
+Fri Oct 26 22:31:46 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:31:54 2018	Kilroy was killed by [Opi] Fat Gay with a csgo_bayonet
+Fri Oct 26 22:31:55 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:32:17 2018	Kilroy (STEAM_0:0:138507625) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Oct 26 22:32:17 2018	Kilroy was killed by [Opi] Fat Gay with a ls_sniper
+Fri Oct 26 22:32:18 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:32:27 2018	Kilroy was killed by [Opi] Fat Gay with a ls_sniper
+Fri Oct 26 22:32:27 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:33:02 2018	Kilroy (STEAM_0:0:138507625) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Oct 26 22:33:26 2018	Kilroy was killed by [Opi] Fat Gay with a weapon_smg1
+Fri Oct 26 22:33:27 2018	Kilroy (STEAM_0:0:138507625) spawned
+Fri Oct 26 22:33:52 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 22:33:55 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Fri Oct 26 22:33:55 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 22:33:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 22:37:20 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Fri Oct 26 22:37:46 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 22:37:54 2018	ivanarpia (STEAM_0:1:198887705) has joined the game
+Fri Oct 26 22:37:54 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 22:39:27 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc where is everybody
+Fri Oct 26 22:40:11 2018	Mr Skidadable was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Fri Oct 26 22:40:12 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Fri Oct 26 22:41:54 2018	Mr Skidadable (STEAM_0:0:47204272) disconnected
+Fri Oct 26 22:43:12 2018	chiken (STEAM_0:0:143719653) has joined the game
+Fri Oct 26 22:43:12 2018	chiken (STEAM_0:0:143719653) spawned
+Fri Oct 26 22:44:46 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Fri Oct 26 22:44:50 2018	Johnny K Bronk (STEAM_0:1:167614500): @ Help
+Fri Oct 26 22:45:08 2018	Enviro (STEAM_0:0:80115103): What's going on?
+Fri Oct 26 22:45:16 2018	Enviro (STEAM_0:0:80115103): Okay
+Fri Oct 26 22:45:23 2018	Enviro (STEAM_0:0:80115103): yeah
+Fri Oct 26 22:45:29 2018	ivanarpia (STEAM_0:1:198887705): !steam
+Fri Oct 26 22:45:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp chik 100
+Fri Oct 26 22:46:53 2018	Enviro (STEAM_0:0:80115103): /tf
+Fri Oct 26 22:47:01 2018	Enviro (STEAM_0:0:80115103): /timefreeze
+Fri Oct 26 22:47:47 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 22:52:49 2018	Enviro (STEAM_0:0:80115103): !goto fat
+Fri Oct 26 22:53:25 2018	chiken (STEAM_0:0:143719653) spawned
+Fri Oct 26 22:53:33 2018	chiken (STEAM_0:0:143719653): /cheque chi 2
+Fri Oct 26 22:57:27 2018	chiken was killed by Himself with a suicide trick
+Fri Oct 26 22:57:35 2018	chiken (STEAM_0:0:143719653) spawned
+Fri Oct 26 22:58:19 2018	chiken (STEAM_0:0:143719653) disconnected
+Fri Oct 26 22:58:22 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 23:02:45 2018	Enviro was killed by Johnny K Bronk with a fas2_machete
+Fri Oct 26 23:02:45 2018	Enviro (STEAM_0:0:80115103): back from the dead
+Fri Oct 26 23:02:46 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 23:04:27 2018	Enviro (STEAM_0:0:80115103) disconnected
+Fri Oct 26 23:04:42 2018	ivanarpia (STEAM_0:1:198887705): !motd
+Fri Oct 26 23:05:22 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:06:35 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 23:06:38 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:06:38 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Fri Oct 26 23:06:38 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Fri Oct 26 23:10:45 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Fri Oct 26 23:10:50 2018	ivanarpia (STEAM_0:1:198887705): \
+Fri Oct 26 23:11:08 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:11:58 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:12:37 2018	Johnny K Bronk was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:12:38 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:12:52 2018	ivanarpia (STEAM_0:1:198887705): 
+Fri Oct 26 23:12:57 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Fri Oct 26 23:13:06 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:13:07 2018	ivanarpia was killed by WildToastyMop with a cw_fiveseven
+Fri Oct 26 23:13:08 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:13:13 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:13:15 2018	ivanarpia (STEAM_0:1:198887705): /ooc EDM?
+Fri Oct 26 23:13:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // mhm
+Fri Oct 26 23:13:23 2018	ivanarpia (STEAM_0:1:198887705): /ooc RDM
+Fri Oct 26 23:13:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // oh
+Fri Oct 26 23:13:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto ivan
+Fri Oct 26 23:13:59 2018	ivanarpia was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:13:59 2018	Johnny K Bronk was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:14:02 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:14:03 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:14:07 2018	Johnny K Bronk was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:14:08 2018	ivanarpia was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:14:09 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:14:11 2018	WildToastyMop was killed by Himself with a suicide trick
+Fri Oct 26 23:14:11 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Fri Oct 26 23:14:11 2018	ivanarpia was killed by Himself with a suicide trick
+Fri Oct 26 23:14:11 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Fri Oct 26 23:14:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Oct 26 23:14:15 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:14:16 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:14:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Fri Oct 26 23:14:53 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:14:55 2018	Johnny K Bronk (STEAM_0:1:167614500): /job CBRN Trainee
+Fri Oct 26 23:14:55 2018	ivanarpia (STEAM_0:1:198887705): 
+Fri Oct 26 23:15:00 2018	Johnny K Bronk (STEAM_0:1:167614500): /job CBRN Trainee
+Fri Oct 26 23:15:02 2018	ivanarpia (STEAM_0:1:198887705): 
+Fri Oct 26 23:15:04 2018	Johnny K Bronk (STEAM_0:1:167614500): /job CBRN Trainee
+Fri Oct 26 23:15:19 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Fri Oct 26 23:15:19 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 23:15:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn Toasty RDM
+Fri Oct 26 23:15:31 2018	ivanarpia (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:15:49 2018	ivanarpia (STEAM_0:1:198887705): !motd
+Fri Oct 26 23:17:05 2018	ivanarpia (STEAM_0:1:198887705): /ooc why have i reach the door limt with no doors?
+Fri Oct 26 23:17:07 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Fri Oct 26 23:17:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // thats a known bug, ill work on it
+Fri Oct 26 23:17:30 2018	ivanarpia (STEAM_0:1:198887705): /ooc k
+Fri Oct 26 23:17:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !EXPLODE ^
+Fri Oct 26 23:17:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Fri Oct 26 23:18:22 2018	ivanarpia (STEAM_0:1:198887705): /name navi
+Fri Oct 26 23:19:03 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc lol
+Fri Oct 26 23:20:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Fri Oct 26 23:21:05 2018	Johnny K Bronk (STEAM_0:1:167614500): /drop
+Fri Oct 26 23:21:11 2018	navi (STEAM_0:1:198887705): 
+Fri Oct 26 23:21:34 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Fri Oct 26 23:21:34 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Fri Oct 26 23:21:37 2018	navi (STEAM_0:1:198887705): /name Oip navi
+Fri Oct 26 23:21:45 2018	Oip navi (STEAM_0:1:198887705): 
+Fri Oct 26 23:21:50 2018	Oip navi (STEAM_0:1:198887705): rewards
+Fri Oct 26 23:21:57 2018	Oip navi (STEAM_0:1:198887705): 
+Fri Oct 26 23:22:25 2018	WildToastyMop was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 23:22:26 2018	Oip navi (STEAM_0:1:198887705): 
+Fri Oct 26 23:22:27 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Fri Oct 26 23:22:45 2018	Oip navi (STEAM_0:1:198887705): /name Opi navi
+Fri Oct 26 23:23:05 2018	Opi navi (STEAM_0:1:198887705): 
+Fri Oct 26 23:23:21 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Fri Oct 26 23:23:29 2018	Opi navi (STEAM_0:1:198887705): /name Opi
+Fri Oct 26 23:23:40 2018	Opi (STEAM_0:1:198887705): 
+Fri Oct 26 23:23:52 2018	Opi (STEAM_0:1:198887705): /name opi navi
+Fri Oct 26 23:24:32 2018	opi navi (STEAM_0:1:198887705): 
+Fri Oct 26 23:24:45 2018	opi navi (STEAM_0:1:198887705): /name OPI
+Fri Oct 26 23:24:51 2018	OPI (STEAM_0:1:198887705): 
+Fri Oct 26 23:25:04 2018	OPI (STEAM_0:1:198887705): /name Opi
+Fri Oct 26 23:25:15 2018	Opi (STEAM_0:1:198887705): 
+Fri Oct 26 23:25:23 2018	Opi (STEAM_0:1:198887705): 
+Fri Oct 26 23:25:30 2018	Opi (STEAM_0:1:198887705): /name navi1
+Fri Oct 26 23:25:41 2018	navi1 (STEAM_0:1:198887705): /name navi
+Fri Oct 26 23:26:55 2018	DixBFloppin was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:26:57 2018	DixBFloppin (STEAM_0:1:86800123) disconnected
+Fri Oct 26 23:26:59 2018	navi was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 23:27:00 2018	navi (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:27:17 2018	rubbishdounut (STEAM_0:1:116564047) has joined the game
+Fri Oct 26 23:27:17 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:27:35 2018	WildToastyMop (STEAM_0:0:93414166) disconnected
+Fri Oct 26 23:31:30 2018	Enviro was killed by Johnny K Bronk with a fas2_dv2
+Fri Oct 26 23:37:21 2018	rubbishdounut was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 23:37:22 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:38:33 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:38:51 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Fri Oct 26 23:39:26 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:41:35 2018	navi was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:41:36 2018	navi (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:42:33 2018	rubbishdounut was killed by Johnny K Bronk with a cw_g36c
+Fri Oct 26 23:42:35 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:48:34 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Fri Oct 26 23:48:36 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:48:48 2018	rubbishdounut was killed by Entity [4916][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:48:51 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:49:13 2018	navi was killed by Entity [4934][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:49:13 2018	rubbishdounut was killed by Entity [4942][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:49:13 2018	Johnny K Bronk was killed by Entity [4942][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:49:14 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:49:14 2018	navi (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:49:16 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:49:19 2018	Johnny K Bronk was killed by Entity [4942][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:49:19 2018	navi was killed by Entity [4934][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:49:21 2018	navi (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:49:21 2018	rubbishdounut was killed by Entity [4942][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:49:23 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:49:23 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:49:25 2018	Enviro was killed by Himself with a suicide trick
+Fri Oct 26 23:49:25 2018	rubbishdounut was killed by Himself with a suicide trick
+Fri Oct 26 23:49:25 2018	navi was killed by Himself with a suicide trick
+Fri Oct 26 23:49:25 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Fri Oct 26 23:49:28 2018	navi (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:49:29 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:49:31 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:50:07 2018	navi (STEAM_0:1:198887705) spawned
+Fri Oct 26 23:50:07 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:51:51 2018	rubbishdounut (STEAM_0:1:116564047) spawned
+Fri Oct 26 23:52:57 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Fri Oct 26 23:53:25 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Oct 26 23:54:45 2018	rubbishdounut (STEAM_0:1:116564047) disconnected
+Fri Oct 26 23:55:28 2018	Enviro (STEAM_0:0:80115103) disconnected
+Fri Oct 26 23:58:46 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Fri Oct 26 23:58:46 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Fri Oct 26 23:59:32 2018	navi was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Fri Oct 26 23:59:33 2018	navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 00:01:28 2018	Johnny K Bronk (STEAM_0:1:167614500): !warns
+Sat Oct 27 00:08:13 2018	Adam Klein was killed by Johnny K Bronk with a fas2_dv2
+Sat Oct 27 00:09:15 2018	[VG] Chair (STEAM_0:0:219807611) has joined the game
+Sat Oct 27 00:09:15 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) spawned
+Sat Oct 27 00:10:36 2018	navi was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Oct 27 00:10:37 2018	navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 00:11:48 2018	Johnny K Bronk was killed by Entity [4895][env_fire] with a env_fire
+Sat Oct 27 00:11:52 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:14:17 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) disconnected
+Sat Oct 27 00:14:47 2018	navi (STEAM_0:1:198887705) disconnected
+Sat Oct 27 00:16:02 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:17:39 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:18:49 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:25:16 2018	Busty Poncho (STEAM_0:1:62959570) has joined the game
+Sat Oct 27 00:25:16 2018	Busty Poncho (STEAM_0:1:62959570) spawned
+Sat Oct 27 00:25:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 27 00:25:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:26:54 2018	Busty Poncho (STEAM_0:1:62959570): what button to talk?
+Sat Oct 27 00:27:04 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 00:27:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:28:21 2018	[VG] Chair (STEAM_0:0:219807611) has joined the game
+Sat Oct 27 00:28:21 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) spawned
+Sat Oct 27 00:29:18 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:29:20 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:29:28 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:29:35 2018	ELITE Knife Stabber Jimmy was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:29:39 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:29:40 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:30:12 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:30:14 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:30:34 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:30:46 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:31:08 2018	Busty Poncho was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:31:18 2018	Busty Poncho (STEAM_0:1:62959570): 
+Sat Oct 27 00:31:29 2018	Busty Poncho (STEAM_0:1:62959570) spawned
+Sat Oct 27 00:31:31 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:31:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:31:55 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:33:20 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 00:33:22 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:33:24 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) disconnected
+Sat Oct 27 00:33:38 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 00:33:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:33:49 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 00:33:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:35:02 2018	[Opi] Fat Gay was killed by Johnny K Bronk with a cw_mac11
+Sat Oct 27 00:35:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:35:08 2018	Dusty Poncho (STEAM_0:1:63595633) has joined the game
+Sat Oct 27 00:35:08 2018	Dusty Poncho (STEAM_0:1:63595633) spawned
+Sat Oct 27 00:35:16 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a rpg_missile
+Sat Oct 27 00:35:19 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:36:52 2018	Busty Poncho (STEAM_0:1:62959570): /kill
+Sat Oct 27 00:37:06 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:37:08 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:37:22 2018	Busty Poncho (STEAM_0:1:62959570): 
+Sat Oct 27 00:37:31 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_ak74
+Sat Oct 27 00:37:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:38:10 2018	Busty Poncho (STEAM_0:1:62959570): 
+Sat Oct 27 00:38:24 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_mac11
+Sat Oct 27 00:38:28 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:38:50 2018	[Opi] Fat Gay was killed by Johnny K Bronk with a cw_deagle
+Sat Oct 27 00:38:51 2018	Busty Poncho (STEAM_0:1:62959570): 
+Sat Oct 27 00:38:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:39:15 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_mac11
+Sat Oct 27 00:39:17 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:39:30 2018	Busty Poncho (STEAM_0:1:62959570): /suicide
+Sat Oct 27 00:39:48 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_mac11
+Sat Oct 27 00:39:49 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:40:40 2018	Busty Poncho (STEAM_0:1:62959570): how do I kill myself
+Sat Oct 27 00:41:07 2018	Busty Poncho (STEAM_0:1:62959570): /killself
+Sat Oct 27 00:41:18 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:41:38 2018	Johnny K Bronk was killed by [Opi] Fat Gay with a cw_makarov
+Sat Oct 27 00:41:39 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:42:05 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:42:06 2018	Devv (STEAM_0:0:79043417) has joined the game
+Sat Oct 27 00:42:06 2018	Devv (STEAM_0:0:79043417) spawned
+Sat Oct 27 00:42:23 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:42:33 2018	[CCG] Delvin (STEAM_0:1:52647688) has joined the game
+Sat Oct 27 00:42:33 2018	[CCG] Delvin (STEAM_0:1:52647688) spawned
+Sat Oct 27 00:42:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 00:42:36 2018	[VG] Chair (STEAM_0:0:219807611) has joined the game
+Sat Oct 27 00:42:36 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) spawned
+Sat Oct 27 00:42:38 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:42:57 2018	Busty Poncho (STEAM_0:1:62959570): I just wanna die
+Sat Oct 27 00:43:00 2018	ivanarpia (STEAM_0:1:198887705) has joined the game
+Sat Oct 27 00:43:00 2018	navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 00:43:02 2018	Busty Poncho (STEAM_0:1:62959570): /death
+Sat Oct 27 00:43:46 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:43:51 2018	Busty Poncho (STEAM_0:1:62959570) disconnected
+Sat Oct 27 00:43:56 2018	Devv (STEAM_0:0:79043417): /name Oogabooga
+Sat Oct 27 00:44:29 2018	Dusty Poncho (STEAM_0:1:63595633) disconnected
+Sat Oct 27 00:45:02 2018	[Opi] Fat Gay was killed by Johnny K Bronk with a cw_mac11
+Sat Oct 27 00:45:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:45:42 2018	[CCG] Delvin (STEAM_0:1:52647688) disconnected
+Sat Oct 27 00:46:08 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 00:46:27 2018	navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 00:47:01 2018	Masked Dadledingo (STEAM_0:0:103500632) has joined the game
+Sat Oct 27 00:47:01 2018	Masked Dadledingo (STEAM_0:0:103500632) spawned
+Sat Oct 27 00:47:11 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct 27 00:47:11 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 00:47:13 2018	Oogabooga (STEAM_0:0:79043417): 
+Sat Oct 27 00:47:15 2018	Oogabooga (STEAM_0:0:79043417): !motd
+Sat Oct 27 00:47:34 2018	navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 00:47:35 2018	Oogabooga (STEAM_0:0:79043417): /ooc I cant check rules, what are the basics?
+Sat Oct 27 00:47:39 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) disconnected
+Sat Oct 27 00:48:00 2018	navi (STEAM_0:1:198887705): /reuests
+Sat Oct 27 00:48:09 2018	navi (STEAM_0:1:198887705): 
+Sat Oct 27 00:48:47 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 00:49:24 2018	Top Rascal (STEAM_0:0:44325124) has joined the game
+Sat Oct 27 00:49:24 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 00:49:47 2018	Adam Klein was killed by navi with a cw_fiveseven
+Sat Oct 27 00:49:59 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:50:03 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 00:50:30 2018	navi (STEAM_0:1:198887705): /name {opi}
+Sat Oct 27 00:50:58 2018	Top Rascal was killed by navi with a cw_fiveseven
+Sat Oct 27 00:51:09 2018	Valien (STEAM_0:1:41660292): /rpname opi
+Sat Oct 27 00:51:11 2018	Adam Klein (STEAM_0:1:116765028): /NAME OPI
+Sat Oct 27 00:51:17 2018	opi (STEAM_0:1:41660292): /rpname Mike
+Sat Oct 27 00:51:23 2018	Mike (STEAM_0:1:41660292): /nick Valien
+Sat Oct 27 00:51:27 2018	OPI (STEAM_0:1:116765028): /advert Join the OPI gand
+Sat Oct 27 00:51:32 2018	Valien (STEAM_0:1:41660292): // gand
+Sat Oct 27 00:51:35 2018	Valien (STEAM_0:1:41660292): // Ganoards
+Sat Oct 27 00:51:37 2018	navi (STEAM_0:1:198887705): /dropmoney 500
+Sat Oct 27 00:51:38 2018	navi (STEAM_0:1:198887705) has dropped $500
+Sat Oct 27 00:51:44 2018	Valien (STEAM_0:1:41660292): // Gonands
+Sat Oct 27 00:51:49 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 00:51:55 2018	Valien (STEAM_0:1:41660292): // my gonans hangle in the water
+Sat Oct 27 00:51:59 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 00:52:13 2018	OPI (STEAM_0:1:116765028): /advert OPI GANG OPI GANG OPI GANG OPI GANG OPI GANG OPI GANG OPI GANG OPI GANG OPI GANG 
+Sat Oct 27 00:52:32 2018	[VG] Chair (STEAM_0:0:219807611) has joined the game
+Sat Oct 27 00:52:32 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) spawned
+Sat Oct 27 00:53:00 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 00:53:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:53:15 2018	[Opi] Fat Gay was killed by navi with a cw_fiveseven
+Sat Oct 27 00:53:22 2018	OPI was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 00:53:23 2018	OPI (STEAM_0:1:116765028) spawned
+Sat Oct 27 00:53:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 00:54:27 2018	navi (STEAM_0:1:198887705): /name [opi]
+Sat Oct 27 00:54:58 2018	navi (STEAM_0:1:198887705): /name [opi] navi
+Sat Oct 27 00:55:03 2018	navi (STEAM_0:1:198887705): 
+Sat Oct 27 00:55:20 2018	OPI (STEAM_0:1:116765028) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 27 00:55:20 2018	OPI (STEAM_0:1:116765028) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 27 00:55:20 2018	OPI (STEAM_0:1:116765028) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 27 00:55:21 2018	Valien (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_jeep
+Sat Oct 27 00:55:23 2018	Valien (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_jeep
+Sat Oct 27 00:56:13 2018	navi was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 00:56:14 2018	navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 00:56:23 2018	navi (STEAM_0:1:198887705): !motd
+Sat Oct 27 00:56:45 2018	navi (STEAM_0:1:198887705): !
+Sat Oct 27 00:56:58 2018	OPI (STEAM_0:1:116765028) disconnected
+Sat Oct 27 00:57:05 2018	navi (STEAM_0:1:198887705): /name [Opi] navi
+Sat Oct 27 00:57:35 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) disconnected
+Sat Oct 27 00:57:39 2018	navi (STEAM_0:1:198887705): /name [Opi]navi
+Sat Oct 27 00:57:55 2018	navi (STEAM_0:1:198887705): /name [opi]navi
+Sat Oct 27 00:58:10 2018	navi (STEAM_0:1:198887705): /name [opi] navi
+Sat Oct 27 00:58:38 2018	navi (STEAM_0:1:198887705): !NAME [OPI] navi
+Sat Oct 27 00:58:46 2018	navi (STEAM_0:1:198887705): /name 
+Sat Oct 27 00:58:58 2018	navi (STEAM_0:1:198887705): /name Opi navi
+Sat Oct 27 00:59:11 2018	Top Rascal was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct 27 00:59:13 2018	Valien (STEAM_0:1:41660292): // ADIDAS
+Sat Oct 27 00:59:14 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:01:31 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:01:34 2018	Opi navi (STEAM_0:1:198887705): ]
+Sat Oct 27 01:01:41 2018	Opi navi was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:01:42 2018	Opi navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:02:04 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:02:13 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:02:14 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:02:38 2018	Spooky Table (STEAM_0:1:215843675) has joined the game
+Sat Oct 27 01:02:38 2018	Table (STEAM_0:1:215843675) spawned
+Sat Oct 27 01:02:40 2018	Opi navi (STEAM_0:1:198887705): /name [Opi] Fat Gay
+Sat Oct 27 01:02:59 2018	Opi navi (STEAM_0:1:198887705): 
+Sat Oct 27 01:03:04 2018	[Opi] Fat Gay was killed by Opi navi with a cw_fiveseven
+Sat Oct 27 01:04:29 2018	Table (STEAM_0:1:215843675) spawned
+Sat Oct 27 01:04:51 2018	[Opi] Zed (STEAM_0:0:424407058) has joined the game
+Sat Oct 27 01:04:51 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:05:02 2018	Valien (STEAM_0:1:41660292): !warn
+Sat Oct 27 01:05:29 2018	Table was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:05:31 2018	Table (STEAM_0:1:215843675) spawned
+Sat Oct 27 01:06:27 2018	Table was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:06:28 2018	Table (STEAM_0:1:215843675) spawned
+Sat Oct 27 01:06:45 2018	Opi navi was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:06:46 2018	Opi navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:07:24 2018	Table (STEAM_0:1:215843675) disconnected
+Sat Oct 27 01:07:27 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:07:45 2018	Johnny K Bronk was killed by Opi navi with a cw_fiveseven
+Sat Oct 27 01:07:47 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:09:34 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:09:58 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:12:31 2018	coldbolt25 (STEAM_0:0:59274331) has joined the game
+Sat Oct 27 01:12:31 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:14:05 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:14:21 2018	zed (STEAM_0:0:424407058): /ooc powerpuff go ten ten ten Lest go fight enemy!
+Sat Oct 27 01:14:40 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc xD
+Sat Oct 27 01:14:50 2018	zed (STEAM_0:0:424407058): /ooc wassup buddy
+Sat Oct 27 01:14:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 01:14:56 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc hi
+Sat Oct 27 01:15:01 2018	zed (STEAM_0:0:424407058): /ooc how your day?
+Sat Oct 27 01:15:08 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc good
+Sat Oct 27 01:15:13 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:15:19 2018	Opi navi (STEAM_0:1:198887705): /ooc im allowed to raid right?
+Sat Oct 27 01:15:26 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:15:34 2018	zed (STEAM_0:0:424407058): /ooc raid what?
+Sat Oct 27 01:15:38 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:15:40 2018	Opi navi (STEAM_0:1:198887705): /ooc bases
+Sat Oct 27 01:15:48 2018	zed (STEAM_0:0:424407058): /ooc not sure
+Sat Oct 27 01:16:17 2018	Opi navi (STEAM_0:1:198887705): /ooc or director office near core?
+Sat Oct 27 01:16:20 2018	zed (STEAM_0:0:424407058): opi navi need help
+Sat Oct 27 01:17:03 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Sat Oct 27 01:17:03 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sat Oct 27 01:17:25 2018	Valien (STEAM_0:1:41660292): !donate
+Sat Oct 27 01:17:43 2018	Valien (STEAM_0:1:41660292): !vip
+Sat Oct 27 01:17:51 2018	Opi navi was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:17:52 2018	Opi navi (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:18:01 2018	Opi navi (STEAM_0:1:198887705): /request
+Sat Oct 27 01:18:07 2018	Opi navi (STEAM_0:1:198887705): 
+Sat Oct 27 01:18:16 2018	Powerpuff Girl (STEAM_0:0:59274331): /request
+Sat Oct 27 01:18:38 2018	DixBFloppin (STEAM_0:1:86800123) disconnected
+Sat Oct 27 01:18:53 2018	zed (STEAM_0:0:424407058): /ooc save the coreeeeeeeeeeeeeee
+Sat Oct 27 01:19:06 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:20:30 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:21:06 2018	Opi navi (STEAM_0:1:198887705): /ooc valien come to me
+Sat Oct 27 01:21:13 2018	Valien (STEAM_0:1:41660292): !goto opi navi
+Sat Oct 27 01:21:16 2018	Valien (STEAM_0:1:41660292): !goto opi
+Sat Oct 27 01:21:23 2018	Valien (STEAM_0:1:41660292): !goto opi n
+Sat Oct 27 01:21:35 2018	Opi navi (STEAM_0:1:198887705): /ooc pls :(
+Sat Oct 27 01:21:41 2018	Powerpuff Girl (STEAM_0:0:59274331): ?
+Sat Oct 27 01:21:45 2018	Valien (STEAM_0:1:41660292): // Ur name is actually blocking me to teleport
+Sat Oct 27 01:21:55 2018	Opi navi (STEAM_0:1:198887705): /name lol
+Sat Oct 27 01:22:03 2018	Valien (STEAM_0:1:41660292): !goto navi
+Sat Oct 27 01:22:10 2018	Valien (STEAM_0:1:41660292): !goto Navi
+Sat Oct 27 01:22:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 27 01:22:33 2018	Oogabooga was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:22:36 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct 27 01:22:39 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:23:01 2018	Valien (STEAM_0:1:41660292): // Whats your name in the tab list
+Sat Oct 27 01:23:07 2018	lol (STEAM_0:1:198887705): /ooc lol
+Sat Oct 27 01:23:17 2018	lol (STEAM_0:1:198887705): /ooc is my name
+Sat Oct 27 01:23:24 2018	Valien was killed by lol with a cw_fiveseven
+Sat Oct 27 01:23:29 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc goteem
+Sat Oct 27 01:23:31 2018	zed was killed by Johnny K Bronk with a cw_ak74
+Sat Oct 27 01:23:31 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:23:35 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:23:49 2018	[Opi] Spooky Simon (STEAM_0:1:84422693) has joined the game
+Sat Oct 27 01:23:49 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 01:24:01 2018	lol (STEAM_0:1:198887705): /OOC that was way to hard
+Sat Oct 27 01:24:54 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc johnny with that op gun
+Sat Oct 27 01:24:55 2018	Powerpuff Girl was killed by Johnny K Bronk with a cw_ak74
+Sat Oct 27 01:25:00 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:25:38 2018	Oogabooga (STEAM_0:0:79043417): /ooc How do I use a radio?
+Sat Oct 27 01:25:40 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:25:50 2018	Valien (STEAM_0:1:41660292): // Press R
+Sat Oct 27 01:26:03 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:26:18 2018	lol (STEAM_0:1:198887705): /ooc press r then if you wanna chane to talk to everyone pres right mouse butten
+Sat Oct 27 01:26:41 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:27:34 2018	Johnny K Bronk was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 01:27:35 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:27:54 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:28:11 2018	Valien (STEAM_0:1:41660292): // Get your radio out and on
+Sat Oct 27 01:28:27 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc dont got one
+Sat Oct 27 01:28:29 2018	lol (STEAM_0:1:198887705): /dropmoney 10000
+Sat Oct 27 01:28:30 2018	lol (STEAM_0:1:198887705) has dropped $10,000
+Sat Oct 27 01:28:31 2018	Valien (STEAM_0:1:41660292): // tf
+Sat Oct 27 01:29:10 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:29:11 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:29:50 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:29:51 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:29:54 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:29:57 2018	Oogabooga was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:29:58 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:30:05 2018	Johnny K Bronk was killed by lol with a cw_fiveseven
+Sat Oct 27 01:30:07 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:30:17 2018	lol was killed by Johnny K Bronk with a cw_mac11
+Sat Oct 27 01:30:18 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:30:59 2018	Oogabooga was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:31:08 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:31:14 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:31:15 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:31:27 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:31:28 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:31:39 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:31:41 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:31:56 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:31:57 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:32:21 2018	Carbonak (STEAM_0:0:67227485) has joined the game
+Sat Oct 27 01:32:21 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:32:32 2018	Top Rascal was killed by lol with a cw_fiveseven
+Sat Oct 27 01:32:36 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:32:52 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:32:56 2018	lol (STEAM_0:1:198887705): /reaquest
+Sat Oct 27 01:32:59 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:33:01 2018	lol (STEAM_0:1:198887705): 
+Sat Oct 27 01:33:12 2018	lol was killed by Powerpuff Girl with a cw_shorty
+Sat Oct 27 01:33:13 2018	Oogabooga was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:33:14 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:33:14 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:33:19 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc goteem
+Sat Oct 27 01:33:42 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:33:43 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:33:50 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc killed hitman and shot janitor once before he jumped off the edge and suicided
+Sat Oct 27 01:34:58 2018	lol (STEAM_0:1:198887705): /ooc powerpuff someone RDM... me
+Sat Oct 27 01:35:04 2018	lol (STEAM_0:1:198887705): /ooc oh wait
+Sat Oct 27 01:35:13 2018	lol (STEAM_0:1:198887705): /ooc nvm
+Sat Oct 27 01:35:31 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:35:32 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:35:35 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:35:37 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:35:49 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:35:52 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:35:54 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:35:54 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:35:54 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:35:55 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:36:39 2018	Powerpuff Girl was killed by zed with a cw_l115
+Sat Oct 27 01:36:41 2018	Jacob Sarcancer (STEAM_0:0:95361555) has joined the game
+Sat Oct 27 01:36:41 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:36:42 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc wow
+Sat Oct 27 01:36:47 2018	Valien (STEAM_0:1:41660292): // sorry
+Sat Oct 27 01:36:48 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:36:50 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc i shot once with a pistol
+Sat Oct 27 01:36:52 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:36:52 2018	zed (STEAM_0:0:424407058): /ooc you shoot me first
+Sat Oct 27 01:36:58 2018	Oogabooga was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:36:59 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:37:06 2018	lol was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:37:07 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:37:17 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:37:18 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:37:34 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:37:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warns
+Sat Oct 27 01:37:43 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:38:03 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc coming for you zed
+Sat Oct 27 01:38:03 2018	Masked Dadledingo (STEAM_0:0:103500632): /name Ben Famen
+Sat Oct 27 01:38:19 2018	Valien (STEAM_0:1:41660292): // Dont fucking kill eachother ur on the same team
+Sat Oct 27 01:38:34 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc xD
+Sat Oct 27 01:38:37 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:38:38 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 01:39:07 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc goteeeeem
+Sat Oct 27 01:39:09 2018	Carbonak was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:39:10 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:39:13 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc didnt kill him
+Sat Oct 27 01:39:15 2018	Valien (STEAM_0:1:41660292): // MEET ME AT ROCKET
+Sat Oct 27 01:39:21 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc AHHHHHHH
+Sat Oct 27 01:39:51 2018	zed (STEAM_0:0:424407058): /ooc i am on the core this is my last Chat Allahuakbar my brother allah save us remember our leader and prohet muhammad
+Sat Oct 27 01:40:02 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) has joined the game
+Sat Oct 27 01:40:02 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 01:40:03 2018	Valien (STEAM_0:1:41660292): // OBAMA SNACKBAR
+Sat Oct 27 01:40:15 2018	zed (STEAM_0:0:424407058): /ooc dont play with my god  i am muslim
+Sat Oct 27 01:40:46 2018	Valien (STEAM_0:1:41660292): // Where are you powerpuff using code
+Sat Oct 27 01:40:53 2018	lol was killed by Top Rascal with a fas2_dv2
+Sat Oct 27 01:40:55 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:41:04 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc >
+Sat Oct 27 01:41:07 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): // what did I join into?
+Sat Oct 27 01:41:10 2018	Powerpuff Girl (STEAM_0:0:59274331): ?
+Sat Oct 27 01:41:11 2018	Valien (STEAM_0:1:41660292): // meltdown
+Sat Oct 27 01:41:13 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc a meltdown
+Sat Oct 27 01:41:19 2018	zed (STEAM_0:0:424407058): /ooc happy radioactive bitch
+Sat Oct 27 01:41:23 2018	Powerpuff Girl (STEAM_0:0:59274331): /oocbut that coutdown is rocket
+Sat Oct 27 01:41:24 2018	Top Rascal was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:41:29 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc that noise is rocket
+Sat Oct 27 01:41:31 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:41:33 2018	zed was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:33 2018	Johnny K Bronk was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:33 2018	Powerpuff Girl was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:33 2018	Valien was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:35 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:41:36 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:41:37 2018	Top Rascal was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:40 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:41:43 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc oof what happened to the music
+Sat Oct 27 01:41:43 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:41:48 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc that was bad
+Sat Oct 27 01:41:49 2018	Valien (STEAM_0:1:41660292): // rip the music
+Sat Oct 27 01:41:50 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:41:54 2018	zed (STEAM_0:0:424407058): /ooc well its kinda annoying 
+Sat Oct 27 01:41:58 2018	Top Rascal was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:58 2018	Johnny K Bronk was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:58 2018	Spooky Simon was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:58 2018	[Opi] Fat Gay was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:58 2018	☭✠Tynneside✠☭ was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:58 2018	Carbonak was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:58 2018	lol was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:41:59 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:42:00 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:42:01 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 01:42:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 01:42:04 2018	Carbonak was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:42:05 2018	Top Rascal was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:42:06 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:42:06 2018	☭✠Tynneside✠☭ was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:42:07 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:42:08 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 01:42:08 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:42:10 2018	Spooky Simon was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Powerpuff Girl was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	zed was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Ben Famen was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Oogabooga was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	lol was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Carbonak was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Jacob Sarcancer was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Top Rascal was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	Valien was killed by Himself with a suicide trick
+Sat Oct 27 01:42:10 2018	☭✠Tynneside✠☭ was killed by Himself with a suicide trick
+Sat Oct 27 01:42:13 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:42:13 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:42:14 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:42:14 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:42:14 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:42:14 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:42:15 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 01:42:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 01:42:16 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:42:16 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 01:42:17 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:42:23 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:42:27 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:42:27 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:42:29 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:42:29 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:42:31 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:42:40 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 01:42:47 2018	Ben Famen (STEAM_0:0:103500632): 
+Sat Oct 27 01:42:49 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 01:42:55 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:42:55 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 01:42:57 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:43:06 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:43:14 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:43:23 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 01:43:32 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:43:33 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:43:34 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:43:34 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:43:38 2018	Powerpuff Girl (STEAM_0:0:59274331): /request oogabooga
+Sat Oct 27 01:43:40 2018	Oogabooga was killed by Top Rascal with a fas2_dv2
+Sat Oct 27 01:43:41 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:43:50 2018	Powerpuff Girl (STEAM_0:0:59274331): /request Oogabooga
+Sat Oct 27 01:43:59 2018	Powerpuff Girl (STEAM_0:0:59274331): /request Oogabooga 1000
+Sat Oct 27 01:44:32 2018	Carbonak was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:44:33 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:44:43 2018	Oogabooga was killed by Ben Famen with a weapon_hlof_pipewrench
+Sat Oct 27 01:44:45 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:44:51 2018	[Opi] Fat Gay was killed by lol with a cw_mac11
+Sat Oct 27 01:45:02 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:45:04 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:45:22 2018	Carbonak was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:45:22 2018	zed (STEAM_0:0:424407058): /ooc ohhhh ohhhhhhhhhh he killing fat gay the biggest gay but he so cute but why you kill him you so dead
+Sat Oct 27 01:45:23 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:45:24 2018	lol (STEAM_0:1:198887705): /request
+Sat Oct 27 01:45:26 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:45:32 2018	Powerpuff Girl (STEAM_0:0:59274331): /request
+Sat Oct 27 01:45:34 2018	lol (STEAM_0:1:198887705): /requets
+Sat Oct 27 01:45:34 2018	Carbonak was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:45:36 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:45:36 2018	Powerpuff Girl (STEAM_0:0:59274331): 
+Sat Oct 27 01:45:41 2018	lol (STEAM_0:1:198887705): 
+Sat Oct 27 01:45:45 2018	Powerpuff Girl (STEAM_0:0:59274331): /request
+Sat Oct 27 01:45:49 2018	Top Rascal was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:45:50 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:45:54 2018	Carbonak was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:45:55 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:46:08 2018	lol (STEAM_0:1:198887705): /request Valien
+Sat Oct 27 01:46:29 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:46:32 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:46:37 2018	lol was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:46:38 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:47:23 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:47:47 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:47:55 2018	Powerpuff Girl (STEAM_0:0:59274331): 
+Sat Oct 27 01:48:00 2018	lol (STEAM_0:1:198887705): 
+Sat Oct 27 01:48:27 2018	Jacob Sarcancer was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:48:29 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:48:35 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:48:36 2018	Jacob Sarcancer was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:48:37 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:48:51 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): // 218491853 expires 03/27 pin 8791
+Sat Oct 27 01:48:55 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:48:56 2018	Valien (STEAM_0:1:41660292): // Thank u
+Sat Oct 27 01:49:06 2018	zed (STEAM_0:0:424407058): /ooc 9/11 AAAAAAAAAAAA
+Sat Oct 27 01:49:12 2018	lol was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:49:13 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:49:22 2018	lol was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:49:23 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:49:27 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc 19272 05/25/2023
+Sat Oct 27 01:49:31 2018	Oogabooga was killed by Jacob Sarcancer with a weapon_hlof_pipewrench
+Sat Oct 27 01:49:32 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 01:49:36 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:49:47 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc who rdmed?
+Sat Oct 27 01:49:52 2018	Powerpuff Girl (STEAM_0:0:59274331): 
+Sat Oct 27 01:49:53 2018	zed (STEAM_0:0:424407058): /ooc your mom
+Sat Oct 27 01:49:55 2018	Valien (STEAM_0:1:41660292): // its a meme
+Sat Oct 27 01:50:00 2018	Powerpuff Girl (STEAM_0:0:59274331): !goto zed
+Sat Oct 27 01:50:04 2018	Powerpuff Girl (STEAM_0:0:59274331): 
+Sat Oct 27 01:50:22 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:50:23 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:50:24 2018	Valien (STEAM_0:1:41660292): // @fat gay
+Sat Oct 27 01:50:28 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:50:29 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:50:40 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 01:50:55 2018	Carbonak was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:50:56 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:51:00 2018	Top Rascal was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:51:02 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:51:02 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:51:03 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:51:06 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 01:51:18 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:51:19 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:51:33 2018	Johnny K Bronk was killed by Powerpuff Girl with a cw_ak74
+Sat Oct 27 01:51:37 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:51:40 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:51:41 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 01:51:44 2018	Top Rascal was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:51:45 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:51:54 2018	Oogabooga was killed by Powerpuff Girl with a cw_ak74
+Sat Oct 27 01:51:55 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:52:12 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:52:14 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 01:52:14 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:52:16 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:52:21 2018	Top Rascal was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:52:24 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:52:37 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:52:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 01:52:50 2018	Ben Famen (STEAM_0:0:103500632): // is this just ss13 in gmod?
+Sat Oct 27 01:53:05 2018	Top Rascal was killed by Oogabooga with a fas2_dv2
+Sat Oct 27 01:53:05 2018	Carbonak was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:53:07 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:53:12 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:53:12 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:53:12 2018	Jacob Sarcancer (STEAM_0:0:95361555): // what is ss13?
+Sat Oct 27 01:53:13 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:53:15 2018	zed (STEAM_0:0:424407058): @admin problockkkkkkk
+Sat Oct 27 01:53:24 2018	Ben Famen (STEAM_0:0:103500632): // space station 13
+Sat Oct 27 01:54:19 2018	Top Rascal was killed by lol with a fas2_machete
+Sat Oct 27 01:54:29 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:54:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 01:55:00 2018	Gamerchef (STEAM_0:1:47616133) has joined the game
+Sat Oct 27 01:55:00 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 01:55:05 2018	lol was killed by Powerpuff Girl with a cw_ak74
+Sat Oct 27 01:55:06 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 01:55:32 2018	Top Rascal was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:55:34 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:55:50 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:55:53 2018	lol (STEAM_0:1:198887705): /dropmoney 500
+Sat Oct 27 01:55:54 2018	lol (STEAM_0:1:198887705) has dropped $500
+Sat Oct 27 01:55:58 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): @ help im stuck
+Sat Oct 27 01:56:01 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:56:25 2018	Ass Eater 9000 (STEAM_0:1:47616133): /y NOOOO
+Sat Oct 27 01:56:42 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 01:58:13 2018	Valien (STEAM_0:1:41660292): !goto zed
+Sat Oct 27 01:58:20 2018	Jacob Sarcancer was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:58:21 2018	Jacob Sarcancer (STEAM_0:0:95361555) spawned
+Sat Oct 27 01:58:23 2018	Valien (STEAM_0:1:41660292): // Dix what the fuck
+Sat Oct 27 01:58:23 2018	Carbonak was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:58:25 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 01:58:29 2018	Valien (STEAM_0:1:41660292): // Oh wait
+Sat Oct 27 01:58:38 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct 27 01:58:50 2018	Oogabooga was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:58:52 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:58:57 2018	Top Rascal was killed by Powerpuff Girl with a cw_ak74
+Sat Oct 27 01:58:59 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:59:07 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 01:59:08 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 01:59:36 2018	Top Rascal was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 01:59:38 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 01:59:54 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:00:01 2018	zed was killed by Valien with a cw_ump45
+Sat Oct 27 02:00:05 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 02:00:28 2018	Carbonak was killed by Oogabooga with a weapon_crowbar
+Sat Oct 27 02:00:29 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:00:44 2018	Valien was killed by Powerpuff Girl with a cw_ak74
+Sat Oct 27 02:00:59 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct 27 02:01:05 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:01:20 2018	Ben Famen was killed by Johnny K Bronk with a cw_mac11
+Sat Oct 27 02:01:24 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:01:24 2018	lol was killed by Johnny K Bronk with a cw_mac11
+Sat Oct 27 02:01:25 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:01:27 2018	☭✠Tynneside✠☭ was killed by Ass Eater 9000 with a weapon_l4d2_frying_pan
+Sat Oct 27 02:01:29 2018	Johnny K Bronk was killed by Powerpuff Girl with a cw_ak74
+Sat Oct 27 02:01:30 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:01:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 02:01:34 2018	Carbonak was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:01:39 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:01:43 2018	Top Rascal was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:01:46 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:01:58 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:02:15 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:02:16 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:02:34 2018	Ben Famen (STEAM_0:0:103500632): 
+Sat Oct 27 02:02:36 2018	Ben Famen (STEAM_0:0:103500632): !motd
+Sat Oct 27 02:02:48 2018	Top Rascal was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:02:49 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:02:52 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert NOT UNLESS I HAVE SOMETHING TO SAY ABOUT THAT CHEIF.
+Sat Oct 27 02:03:24 2018	Powerpuff Girl was killed by zed with a cw_l115
+Sat Oct 27 02:03:39 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 02:03:56 2018	lol (STEAM_0:1:198887705): 
+Sat Oct 27 02:04:11 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 02:04:16 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:04:37 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:04:50 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:04:58 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:05:06 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:05:08 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:05:19 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /invholster
+Sat Oct 27 02:05:26 2018	Valien was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:05:28 2018	Valien (STEAM_0:1:41660292) disconnected
+Sat Oct 27 02:05:28 2018	zed was killed by Ass Eater 9000 with a weapon_l4d2_frying_pan
+Sat Oct 27 02:05:29 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:05:30 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:05:46 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 02:05:52 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 02:06:01 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:06:02 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:06:13 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 700000
+Sat Oct 27 02:06:14 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $700,000
+Sat Oct 27 02:06:18 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:06:19 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:06:33 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:06:34 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:06:43 2018	Oogabooga was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:06:44 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:07:32 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:07:33 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:07:42 2018	Carbonak was killed by lol with a cw_shorty
+Sat Oct 27 02:07:43 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:07:44 2018	lol was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:07:46 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:07:47 2018	Top Rascal was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:07:52 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:07:55 2018	McWendys (STEAM_0:1:184332115) has joined the game
+Sat Oct 27 02:07:55 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:08:02 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:08:03 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:08:04 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:08:05 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:08:24 2018	Spooky Simon (STEAM_0:1:84422693): // i wont terrorize i just wanna cook meth
+Sat Oct 27 02:08:32 2018	Spooky Simon (STEAM_0:1:84422693): // well i mean i wont blow up the core
+Sat Oct 27 02:08:44 2018	Spooky Simon was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:08:47 2018	Spooky Simon (STEAM_0:1:84422693): // well some idiot restrained me
+Sat Oct 27 02:08:47 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:08:52 2018	Spooky Simon (STEAM_0:1:84422693): // sooo
+Sat Oct 27 02:08:54 2018	☭✠Tynneside✠☭ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:08:56 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:09:04 2018	Spooky Simon (STEAM_0:1:84422693): // i wont blow the core
+Sat Oct 27 02:09:05 2018	Oogabooga was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:09:06 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:09:08 2018	Top Rascal was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:09:09 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:09:13 2018	Jacob Sarcancer (STEAM_0:0:95361555) disconnected
+Sat Oct 27 02:09:15 2018	Spooky Simon was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:09:16 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:09:20 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:09:26 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:09:42 2018	Top Rascal was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:09:47 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:09:52 2018	Oogabooga was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:09:53 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:09:56 2018	Spooky Simon (STEAM_0:1:84422693): // i wont destroy core
+Sat Oct 27 02:10:00 2018	Spooky Simon (STEAM_0:1:84422693): // i just want the cool shit
+Sat Oct 27 02:10:03 2018	Spooky Simon (STEAM_0:1:84422693): // thank you
+Sat Oct 27 02:10:06 2018	Spooky Simon (STEAM_0:1:84422693): /job Nibba
+Sat Oct 27 02:10:07 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:10:10 2018	Spooky Simon (STEAM_0:1:84422693): /job nibba
+Sat Oct 27 02:10:12 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 02:10:13 2018	☭✠Tynneside✠☭ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:10:15 2018	McWendys (STEAM_0:1:184332115): /ooc how the fuck do i turn this music off
+Sat Oct 27 02:10:17 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:10:20 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:10:21 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:10:22 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:10:26 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:10:32 2018	☭✠Tynneside✠☭ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:10:33 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:10:37 2018	Spooky Simon (STEAM_0:1:84422693): dont blow up the core
+Sat Oct 27 02:10:43 2018	Spooky Simon (STEAM_0:1:84422693): we are going to COOK METH and EAT ASS
+Sat Oct 27 02:10:43 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:10:44 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:10:58 2018	Spooky Simon (STEAM_0:1:84422693): yah YEET
+Sat Oct 27 02:11:00 2018	☭✠Tynneside✠☭ was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:11:01 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:11:06 2018	Carbonak was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:11:06 2018	Top Rascal was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:11:08 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:11:08 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:11:12 2018	Oogabooga was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:11:14 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:11:15 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:11:16 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:11:39 2018	Top Rascal was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:11:42 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:11:50 2018	Oogabooga was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:11:52 2018	Spooky Simon (STEAM_0:1:84422693): /y add me to FPP
+Sat Oct 27 02:12:03 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:12:08 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:12:09 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:12:09 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:12:10 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:12:17 2018	Spooky Simon (STEAM_0:1:84422693): hello
+Sat Oct 27 02:12:22 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:12:25 2018	Carbonak was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:12:26 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:12:26 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:12:26 2018	Spooky Simon (STEAM_0:1:84422693): god
+Sat Oct 27 02:12:27 2018	Spooky Simon (STEAM_0:1:84422693): damnit
+Sat Oct 27 02:12:32 2018	Spooky Simon (STEAM_0:1:84422693): we gotta cool the core if it doesnt go down
+Sat Oct 27 02:12:39 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:12:40 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:12:42 2018	Spooky Simon (STEAM_0:1:84422693): SOON
+Sat Oct 27 02:12:43 2018	zed was killed by ☭✠Tynneside✠☭ with a cw_m1911
+Sat Oct 27 02:12:50 2018	Spooky Simon (STEAM_0:1:84422693): leave
+Sat Oct 27 02:12:52 2018	Spooky Simon (STEAM_0:1:84422693): leave
+Sat Oct 27 02:12:54 2018	Spooky Simon (STEAM_0:1:84422693): go like
+Sat Oct 27 02:12:58 2018	Spooky Simon (STEAM_0:1:84422693): anything but blow up the core
+Sat Oct 27 02:13:00 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /invholster
+Sat Oct 27 02:13:01 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 02:13:06 2018	Spooky Simon (STEAM_0:1:84422693): uh
+Sat Oct 27 02:13:09 2018	Spooky Simon (STEAM_0:1:84422693): yeah go raid people
+Sat Oct 27 02:13:12 2018	lol was killed by Johnny K Bronk with a fas2_machete
+Sat Oct 27 02:13:13 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:13:21 2018	lol was killed by Spooky Simon with a cw_scarh
+Sat Oct 27 02:13:25 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:13:33 2018	Spooky Simon (STEAM_0:1:84422693): // if terrorists blow the core they will be killed
+Sat Oct 27 02:13:44 2018	Spooky Simon (STEAM_0:1:84422693): // also can someone cool the core
+Sat Oct 27 02:13:51 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:13:56 2018	Spooky Simon (STEAM_0:1:84422693): // fuuuuck
+Sat Oct 27 02:13:57 2018	☭✠Tynneside✠☭ was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:13:59 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:14:06 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:14:07 2018	Top Rascal was killed by Oogabooga with a cw_makarov
+Sat Oct 27 02:14:09 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:14:11 2018	Spooky Simon (STEAM_0:1:84422693): half to you half to me
+Sat Oct 27 02:14:22 2018	Spooky Simon (STEAM_0:1:84422693): you get the first batch
+Sat Oct 27 02:14:35 2018	Spooky Simon (STEAM_0:1:84422693): ok
+Sat Oct 27 02:14:39 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Sat Oct 27 02:14:39 2018	Spooky Simon (STEAM_0:1:84422693): seeya
+Sat Oct 27 02:14:57 2018	Spooky Simon (STEAM_0:1:84422693): /job Protector of the Core
+Sat Oct 27 02:14:58 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:15:28 2018	lol was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:15:29 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:15:39 2018	lol was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:15:39 2018	Spooky Simon (STEAM_0:1:84422693): /advert Ben
+Sat Oct 27 02:15:43 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:15:48 2018	MrFinkleWinkle (STEAM_0:1:124358495) has joined the game
+Sat Oct 27 02:15:48 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:15:49 2018	Spooky Simon (STEAM_0:1:84422693): /advert Go into the core, and put the power setting on it's lowest
+Sat Oct 27 02:15:54 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /invholster
+Sat Oct 27 02:16:02 2018	zed (STEAM_0:0:424407058): /ooc there 3 button press 1
+Sat Oct 27 02:16:03 2018	lol was killed by Top Rascal with a cw_deagle
+Sat Oct 27 02:16:04 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:16:11 2018	☭✠Tynneside✠☭ was killed by lol with a cw_g36c
+Sat Oct 27 02:16:12 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:16:19 2018	Top Rascal was killed by lol with a cw_g36c
+Sat Oct 27 02:16:20 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:16:21 2018	Spooky Simon (STEAM_0:1:84422693): // whats the security code
+Sat Oct 27 02:16:30 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:16:31 2018	lol was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:16:32 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:16:43 2018	Oogabooga was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:16:44 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:16:46 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:16:47 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:16:49 2018	Carbonak was killed by lol with a cw_deagle
+Sat Oct 27 02:16:50 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:17:11 2018	zed was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:17:12 2018	zed (STEAM_0:0:424407058) spawned
+Sat Oct 27 02:17:14 2018	Spooky Simon (STEAM_0:1:84422693): // OK i reactivated everything in the fan room
+Sat Oct 27 02:17:17 2018	zed (STEAM_0:0:424407058) disconnected
+Sat Oct 27 02:17:20 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:17:28 2018	Spooky Simon (STEAM_0:1:84422693): /advert I AM FRIENDLY AND TRYING TO STOP THE CORE FROM EXPLODING, DONT SHOOT ME
+Sat Oct 27 02:17:33 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:17:35 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:17:40 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:17:42 2018	☭✠Tynneside✠☭ was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:17:43 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:17:46 2018	lol was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:17:47 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:17:50 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:18:02 2018	Carbonak was killed by lol with a cw_deagle
+Sat Oct 27 02:18:02 2018	lol was killed by Top Rascal with a cw_deagle
+Sat Oct 27 02:18:03 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:18:03 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:18:13 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:18:14 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:18:22 2018	MrFinkleWinkle was killed by Oogabooga with a weapon_hlof_pipewrench
+Sat Oct 27 02:18:28 2018	Spooky Simon (STEAM_0:1:84422693): /advert We did it!
+Sat Oct 27 02:18:29 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:18:30 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:18:49 2018	Spooky Simon (STEAM_0:1:84422693): 
+Sat Oct 27 02:19:00 2018	Spooky Simon (STEAM_0:1:84422693): // Nope
+Sat Oct 27 02:19:01 2018	lol was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:19:02 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:19:08 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:19:21 2018	Carbonak was killed by lol with a cw_g36c
+Sat Oct 27 02:19:22 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:19:30 2018	Oogabooga was killed by ☭✠Tynneside✠☭ with a weapon_l4d2_frying_pan
+Sat Oct 27 02:19:31 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:19:44 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:20:00 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Come to my Ass Eater cafe. Just located to the right of the bottom of lobby floor
+Sat Oct 27 02:20:04 2018	🌑 Eclipse (STEAM_0:0:6734375) has joined the game
+Sat Oct 27 02:20:05 2018	🌑 Eclipse (STEAM_0:0:6734375) spawned
+Sat Oct 27 02:20:06 2018	MrFinkleWinkle was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:20:08 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:20:37 2018	MrFinkleWinkle was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:20:38 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:20:39 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:20:44 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:20:58 2018	McWendys was killed by Ben Famen with a weapon_hlof_pipewrench
+Sat Oct 27 02:21:02 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:21:12 2018	lol was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:21:13 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:21:32 2018	Oogabooga was killed by lol with a cw_deagle
+Sat Oct 27 02:21:33 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:22:00 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:22:14 2018	Top Rascal was killed by lol with a cw_deagle
+Sat Oct 27 02:22:16 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:22:54 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:22:55 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:23:06 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:23:07 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:24:11 2018	lol was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:24:30 2018	Spooky Simon was killed by ☭✠Tynneside✠☭ with a weapon_l4d2_frying_pan
+Sat Oct 27 02:24:32 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:24:38 2018	Spooky Simon (STEAM_0:1:84422693): @Someone's being really mingey
+Sat Oct 27 02:25:49 2018	Spooky Simon (STEAM_0:1:84422693): // you aint allowed to do that
+Sat Oct 27 02:25:56 2018	Spooky Simon (STEAM_0:1:84422693): /tynwe
+Sat Oct 27 02:25:59 2018	Spooky Simon (STEAM_0:1:84422693): // tyne
+Sat Oct 27 02:26:36 2018	MrFinkleWinkle was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:26:37 2018	Spooky Simon (STEAM_0:1:84422693): // ben just fucking do it
+Sat Oct 27 02:26:44 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:26:49 2018	Spooky Simon (STEAM_0:1:84422693): // im coming to kill them
+Sat Oct 27 02:27:07 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Imma serve some hentai to ISIS at the core
+Sat Oct 27 02:27:14 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:27:17 2018	[Opi] // Not DJ (STEAM_0:0:95072396) has joined the game
+Sat Oct 27 02:27:17 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:27:26 2018	☭✠Tynneside✠☭ was killed by Spooky Simon with a fas2_machete
+Sat Oct 27 02:27:27 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:27:58 2018	Spooky Simon (STEAM_0:1:84422693): // ben im in the core
+Sat Oct 27 02:28:09 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert TIME TO SERVE HENTAI
+Sat Oct 27 02:28:10 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:28:27 2018	Spooky Simon was killed by Carbonak with a cw_deagle
+Sat Oct 27 02:28:29 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:28:29 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:29:08 2018	Carbonak (STEAM_0:0:67227485): !steam
+Sat Oct 27 02:29:28 2018	Spooky Simon (STEAM_0:1:84422693): // i called the owner
+Sat Oct 27 02:29:36 2018	Not DJ was killed by MrFinkleWinkle with a cw_makarov
+Sat Oct 27 02:29:37 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:29:39 2018	Spooky Simon (STEAM_0:1:84422693): // you arent allowed to blow the core as any job but a terrorist or corrupt
+Sat Oct 27 02:29:47 2018	Carbonak was killed by Ben Famen with a cw_deagle
+Sat Oct 27 02:29:54 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:30:00 2018	Ass Eater 9000 was killed by Spooky Simon with a cw_mr96
+Sat Oct 27 02:30:01 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:30:18 2018	Carbonak (STEAM_0:0:67227485): 
+Sat Oct 27 02:30:37 2018	McWendys was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:30:45 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:30:46 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:30:47 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:31:04 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): !group
+Sat Oct 27 02:31:08 2018	MrFinkleWinkle (STEAM_0:1:124358495): !group
+Sat Oct 27 02:31:09 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /group
+Sat Oct 27 02:31:13 2018	Spooky Simon was killed by Top Rascal with a cw_deagle
+Sat Oct 27 02:31:14 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:31:22 2018	MrFinkleWinkle (STEAM_0:1:124358495): !motd
+Sat Oct 27 02:31:28 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:31:29 2018	Top Rascal was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:31:32 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:31:36 2018	Ass Eater 9000 was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:31:37 2018	MrFinkleWinkle was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:31:39 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:31:40 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:32:01 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:32:03 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert Ben farmen...it's been an honor serving you...
+Sat Oct 27 02:32:40 2018	Oogabooga was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:32:41 2018	Spooky Simon (STEAM_0:1:84422693): /advert FUCKING DAMNIT
+Sat Oct 27 02:32:45 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:32:49 2018	Ass Eater 9000 was killed by Spooky Simon with a cw_scarh
+Sat Oct 27 02:32:56 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:32:58 2018	☭✠Tynneside✠☭ was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:33:01 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:33:03 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:33:16 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 02:33:23 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:33:43 2018	🌑 Eclipse (STEAM_0:0:6734375): !pay Carbonak 10000
+Sat Oct 27 02:33:44 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert My hentai cafe...will be turned into ruins
+Sat Oct 27 02:33:47 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:33:48 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:34:27 2018	MrFinkleWinkle (STEAM_0:1:124358495): /dropweapon
+Sat Oct 27 02:34:33 2018	Spooky Simon (STEAM_0:1:84422693): // well i just ran in and turned power down
+Sat Oct 27 02:34:35 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 02:34:53 2018	☭✠Tynneside✠☭ was killed by 🌑 Eclipse with a cw_ak74
+Sat Oct 27 02:34:54 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:35:16 2018	MrFinkleWinkle was killed by Spooky Simon with a cw_scarh
+Sat Oct 27 02:35:18 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:35:37 2018	☭✠Tynneside✠☭ was killed by Top Rascal with a cw_deagle
+Sat Oct 27 02:35:38 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:35:40 2018	Oogabooga was killed by Not DJ with a cw_shorty
+Sat Oct 27 02:35:41 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:35:42 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:35:44 2018	Not DJ was killed by 🌑 Eclipse with a cw_ak74
+Sat Oct 27 02:35:46 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:35:51 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:35:55 2018	☭✠Tynneside✠☭ was killed by Carbonak with a cw_m14
+Sat Oct 27 02:35:56 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:35:58 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:36:15 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:36:20 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:36:25 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:36:34 2018	☭✠Tynneside✠☭ was killed by Carbonak with a cw_m14
+Sat Oct 27 02:36:34 2018	🌑 Eclipse was killed by Carbonak with a cw_m14
+Sat Oct 27 02:36:35 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:36:38 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:36:42 2018	🌑 Eclipse (STEAM_0:0:6734375) spawned
+Sat Oct 27 02:36:42 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:36:45 2018	Ass Eater 9000 was killed by Carbonak with a cw_m14
+Sat Oct 27 02:36:47 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:36:58 2018	☭✠Tynneside✠☭ was killed by Carbonak with a cw_m14
+Sat Oct 27 02:36:59 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:37:08 2018	[Opi] Fat Gay was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:37:09 2018	Spooky Simon was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:37:12 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Oct 27 02:37:19 2018	Ass Eater 9000 was killed by Top Rascal with a cw_deagle
+Sat Oct 27 02:37:21 2018	Top Rascal was killed by ☭✠Tynneside✠☭ with a weapon_l4d2_frying_pan
+Sat Oct 27 02:37:23 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:37:23 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:37:25 2018	Powerpuff Girl (STEAM_0:0:59274331): !bring spooky
+Sat Oct 27 02:37:25 2018	☭✠Tynneside✠☭ was killed by Carbonak with a cw_m14
+Sat Oct 27 02:37:26 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:37:35 2018	Ben Famen (STEAM_0:0:103500632): /advert THERES PEOPLE AT THE ESCAPE ROCKET ATTACKING PEOPLE, WE MUST STOP THEM
+Sat Oct 27 02:37:44 2018	☭✠Tynneside✠☭ was killed by Carbonak with a cw_m14
+Sat Oct 27 02:37:45 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:37:46 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:37:46 2018	Carbonak was killed by Ass Eater 9000 with a weapon_l4d2_frying_pan
+Sat Oct 27 02:37:47 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:37:54 2018	lol was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:37:55 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:37:57 2018	Powerpuff Girl (STEAM_0:0:59274331): 
+Sat Oct 27 02:38:02 2018	Ben Famen (STEAM_0:0:103500632): /advert NEVER MIND WE KILLED THEM JUST GET TO THE ROCKET
+Sat Oct 27 02:38:06 2018	Spooky Simon (STEAM_0:1:84422693) disconnected
+Sat Oct 27 02:38:12 2018	Powerpuff Girl (STEAM_0:0:59274331): /pm spooky go to the rocket
+Sat Oct 27 02:38:16 2018	MrFinkleWinkle was killed by Oogabooga with a cw_deagle
+Sat Oct 27 02:38:20 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:38:37 2018	🌑 Eclipse (STEAM_0:0:6734375) spawned
+Sat Oct 27 02:38:56 2018	lol was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:38:57 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:39:02 2018	MrFinkleWinkle was killed by lol with a cw_g36c
+Sat Oct 27 02:39:09 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:39:18 2018	Oogabooga was killed by Ass Eater 9000 with a weapon_l4d2_frying_pan
+Sat Oct 27 02:39:19 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:39:27 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:39:33 2018	Ben Famen was killed by Ass Eater 9000 with a weapon_l4d2_frying_pan
+Sat Oct 27 02:39:35 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:39:43 2018	Ass Eater 9000 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:39:45 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:39:48 2018	lol was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:39:49 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:40:04 2018	Ass Eater 9000 was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:40:08 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:40:24 2018	MrFinkleWinkle was killed by lol with a cw_g36c
+Sat Oct 27 02:40:27 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /givemoney 8000
+Sat Oct 27 02:40:27 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:40:33 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /dropmoney 8000
+Sat Oct 27 02:40:34 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) has dropped $8,000
+Sat Oct 27 02:40:47 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /invholster
+Sat Oct 27 02:41:14 2018	Ass Eater 9000 (STEAM_0:1:47616133): /advert ILL SAVE US 
+Sat Oct 27 02:41:28 2018	lol was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:41:28 2018	McWendys was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:41:29 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:41:30 2018	Ben Famen was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:41:30 2018	Carbonak was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:41:30 2018	☭✠Tynneside✠☭ was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:41:31 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:41:31 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:41:32 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:41:33 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:41:47 2018	Top Rascal was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:41:49 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:41:58 2018	Powerpuff Girl was killed by ☭✠Tynneside✠☭ with a weapon_l4d2_frying_pan
+Sat Oct 27 02:42:00 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 02:42:07 2018	lol was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:42:20 2018	Ben Famen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:42:21 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:43:23 2018	Ass Eater 9000 was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:43:25 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:43:27 2018	☭✠Tynneside✠☭ was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:43:28 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:43:38 2018	🌑 Eclipse was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:43:39 2018	🌑 Eclipse (STEAM_0:0:6734375) spawned
+Sat Oct 27 02:43:44 2018	Top Rascal was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:43:46 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:43:57 2018	☭✠Tynneside✠☭ was killed by Powerpuff Girl with a cw_l85a2
+Sat Oct 27 02:43:58 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:44:09 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc omg that was frickign close
+Sat Oct 27 02:44:14 2018	Not DJ was killed by ☭✠Tynneside✠☭ with a weapon_l4d2_frying_pan
+Sat Oct 27 02:44:16 2018	Carbonak was killed by Ben Famen with a cw_deagle
+Sat Oct 27 02:44:17 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:44:21 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc noooo fellow terrorist 
+Sat Oct 27 02:44:23 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:44:27 2018	Not DJ (STEAM_0:0:95072396): // FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+Sat Oct 27 02:44:27 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc i will remember you!
+Sat Oct 27 02:44:37 2018	Powerpuff Girl (STEAM_0:0:59274331): /ooc why did you leave!
+Sat Oct 27 02:44:40 2018	Ass Eater 9000 was killed by Entity [4930][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:44:40 2018	☭✠Tynneside✠☭ was killed by Entity [4930][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:44:40 2018	Powerpuff Girl was killed by Entity [4947][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:44:41 2018	Oogabooga was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:44:42 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:44:42 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:44:43 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:44:46 2018	Not DJ (STEAM_0:0:95072396): // I died.
+Sat Oct 27 02:44:47 2018	Ass Eater 9000 was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:44:47 2018	☭✠Tynneside✠☭ was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:44:48 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:44:50 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 02:44:53 2018	☭✠Tynneside✠☭ was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:44:54 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:44:59 2018	☭✠Tynneside✠☭ was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:45:00 2018	MrFinkleWinkle was killed by Ben Famen with a cw_deagle
+Sat Oct 27 02:45:01 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:45:02 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:45:05 2018	🌑 Eclipse was killed by Entity [4959][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:45:06 2018	☭✠Tynneside✠☭ was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:45:07 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:45:07 2018	MrFinkleWinkle was killed by Entity [4951][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:45:09 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:45:12 2018	☭✠Tynneside✠☭ was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:45:13 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:45:14 2018	MrFinkleWinkle was killed by Entity [4951][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:45:17 2018	Powerpuff Girl was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	Not DJ was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	Ben Famen was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	Oogabooga was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	lol was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	Carbonak was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	Top Rascal was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	MrFinkleWinkle was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	☭✠Tynneside✠☭ was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	Ass Eater 9000 was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	McWendys was killed by Himself with a suicide trick
+Sat Oct 27 02:45:17 2018	🌑 Eclipse was killed by Himself with a suicide trick
+Sat Oct 27 02:45:20 2018	MrFinkleWinkle (STEAM_0:1:124358495): // MY FRIEND
+Sat Oct 27 02:45:20 2018	Powerpuff Girl (STEAM_0:0:59274331) spawned
+Sat Oct 27 02:45:20 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:45:21 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:45:21 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:45:21 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:45:24 2018	Oogabooga (STEAM_0:0:79043417) spawned
+Sat Oct 27 02:45:25 2018	McWendys (STEAM_0:1:184332115) spawned
+Sat Oct 27 02:45:25 2018	Oogabooga (STEAM_0:0:79043417) disconnected
+Sat Oct 27 02:45:26 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:45:33 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:45:34 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:45:40 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Sat Oct 27 02:45:40 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 02:45:41 2018	Ben Famen (STEAM_0:0:103500632) spawned
+Sat Oct 27 02:45:41 2018	Powerpuff Girl (STEAM_0:0:59274331) disconnected
+Sat Oct 27 02:45:51 2018	Top Rascal (STEAM_0:0:44325124) spawned
+Sat Oct 27 02:45:53 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:46:02 2018	McWendys (STEAM_0:1:184332115) disconnected
+Sat Oct 27 02:46:16 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:46:17 2018	🌑 Eclipse (STEAM_0:0:6734375) spawned
+Sat Oct 27 02:46:22 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:46:25 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 02:46:28 2018	🌑 Eclipse (STEAM_0:0:6734375) spawned
+Sat Oct 27 02:46:41 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:47:08 2018	Ass Eater 9000 (STEAM_0:1:47616133) spawned
+Sat Oct 27 02:47:14 2018	Ass Eater 9000 (STEAM_0:1:47616133) disconnected
+Sat Oct 27 02:47:25 2018	Not DJ was killed by ☭✠Tynneside✠☭ with a cw_deagle
+Sat Oct 27 02:47:26 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:47:34 2018	☭✠Tynneside✠☭ was killed by lol with a cw_deagle
+Sat Oct 27 02:47:35 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:47:51 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 02:47:53 2018	Top Rascal was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:47:57 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 02:47:58 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:48:03 2018	lol was killed by 🌑 Eclipse with a cw_deagle
+Sat Oct 27 02:48:04 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:48:04 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Oct 27 02:48:34 2018	Ben Famen (STEAM_0:0:103500632) disconnected
+Sat Oct 27 02:48:53 2018	Top Rascal (STEAM_0:0:44325124) disconnected
+Sat Oct 27 02:49:17 2018	🌑 Eclipse (STEAM_0:0:6734375) disconnected
+Sat Oct 27 02:49:32 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): !donater
+Sat Oct 27 02:49:34 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): !donate
+Sat Oct 27 02:51:53 2018	MrFinkleWinkle (STEAM_0:1:124358495): 
+Sat Oct 27 02:52:13 2018	MrFinkleWinkle (STEAM_0:1:124358495): /name [opi] AJHDLKAJHDkla
+Sat Oct 27 02:52:15 2018	Norman (STEAM_0:0:67105367) has joined the game
+Sat Oct 27 02:52:15 2018	birb (STEAM_0:0:67105367) spawned
+Sat Oct 27 02:52:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 02:52:18 2018	WildToastyMop was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:52:19 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 02:52:33 2018	Mathulhu (STEAM_0:0:69877104) has joined the game
+Sat Oct 27 02:52:33 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 02:52:50 2018	MrFinkleWinkle (STEAM_0:1:124358495): !steam
+Sat Oct 27 02:52:51 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): !steam
+Sat Oct 27 02:53:15 2018	☭✠Tynneside✠☭ was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:53:16 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 02:53:47 2018	birb (STEAM_0:0:67105367) spawned
+Sat Oct 27 02:53:51 2018	birb (STEAM_0:0:67105367): /name Norman
+Sat Oct 27 02:53:58 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): /advert Back off unless you want a dick in your ass ( ͡° ͜ʖ ͡°) (warning 1/2/3)
+Sat Oct 27 02:54:12 2018	WildToastyMop was killed by ☭✠Tynneside✠☭ with a cw_deagle
+Sat Oct 27 02:55:13 2018	[Opi] Fat Gay was killed by ☭✠Tynneside✠☭ with a cw_deagle
+Sat Oct 27 02:55:14 2018	Carbonak was killed by ☭✠Tynneside✠☭ with a cw_deagle
+Sat Oct 27 02:55:43 2018	Norman (STEAM_0:0:67105367) spawned
+Sat Oct 27 02:55:48 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 02:55:55 2018	Ham (STEAM_0:0:453484573) has joined the game
+Sat Oct 27 02:55:55 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 02:55:58 2018	Norman was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Sat Oct 27 02:55:59 2018	Norman (STEAM_0:0:67105367) spawned
+Sat Oct 27 02:56:00 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): // nobody fucking cares
+Sat Oct 27 02:56:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 27 02:56:28 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Sat Oct 27 02:56:28 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 02:56:28 2018	lol was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 02:56:29 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 02:57:18 2018	lol (STEAM_0:1:198887705): /ooc yeet
+Sat Oct 27 02:57:43 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 02:57:54 2018	Norman (STEAM_0:0:67105367) spawned
+Sat Oct 27 02:59:00 2018	Carbonak (STEAM_0:0:67227485) spawned
+Sat Oct 27 02:59:00 2018	Ham was killed by Johnny K Bronk with a cw_ak74
+Sat Oct 27 02:59:05 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 02:59:07 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 1000
+Sat Oct 27 02:59:08 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $1,000
+Sat Oct 27 02:59:10 2018	Not DJ (STEAM_0:0:95072396): 
+Sat Oct 27 02:59:13 2018	Carbonak (STEAM_0:0:67227485) disconnected
+Sat Oct 27 02:59:23 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sat Oct 27 02:59:54 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:01:01 2018	lol was killed by MrFinkleWinkle with a cw_deagle
+Sat Oct 27 03:01:02 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:01:02 2018	MrFinkleWinkle was killed by Johnny K Bronk with a cw_ak74
+Sat Oct 27 03:01:03 2018	MrFinkleWinkle (STEAM_0:1:124358495) spawned
+Sat Oct 27 03:01:07 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sat Oct 27 03:01:32 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sat Oct 27 03:01:36 2018	MrFinkleWinkle (STEAM_0:1:124358495) disconnected
+Sat Oct 27 03:01:43 2018	Ham was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:01:45 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:01:54 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sat Oct 27 03:02:06 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:02:06 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:02:09 2018	Norman was killed by Johnny K Bronk with a fas2_machete
+Sat Oct 27 03:02:18 2018	Mathulhu was killed by Johnny K Bronk with a fas2_machete
+Sat Oct 27 03:02:19 2018	Norman (STEAM_0:0:67105367) spawned
+Sat Oct 27 03:02:21 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 03:02:59 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Sat Oct 27 03:03:30 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:04:10 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sat Oct 27 03:04:47 2018	Norman (STEAM_0:0:67105367) spawned
+Sat Oct 27 03:04:53 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:05:07 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:06:05 2018	Ham was killed by lol with a cw_g36c
+Sat Oct 27 03:06:08 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:06:22 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:07:01 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:07:02 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:07:02 2018	Not DJ (STEAM_0:0:95072396): /warrant ham problock
+Sat Oct 27 03:07:03 2018	Norman (STEAM_0:0:67105367) disconnected
+Sat Oct 27 03:07:22 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:07:39 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:07:40 2018	Not DJ (STEAM_0:0:95072396) disconnected
+Sat Oct 27 03:08:15 2018	Ham was killed by lol with a cw_l115
+Sat Oct 27 03:08:18 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:08:33 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:08:50 2018	Mathulhu was killed by Entity [4959][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:08:55 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 03:09:02 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:09:15 2018	WildToastyMop was killed by Entity [4963][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:15 2018	[Opi] Fat Gay was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:15 2018	Ham was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:15 2018	Mathulhu was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:15 2018	lol was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:15 2018	Johnny K Bronk was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:16 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:09:16 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:09:18 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 03:09:21 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:09:21 2018	Ham was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:21 2018	lol was killed by Entity [4970][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:23 2018	Mathulhu was killed by Entity [4971][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:23 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:09:26 2018	Johnny K Bronk was killed by Entity [4963][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:09:26 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 03:09:27 2018	WildToastyMop was killed by Himself with a suicide trick
+Sat Oct 27 03:09:27 2018	Ham was killed by Himself with a suicide trick
+Sat Oct 27 03:09:27 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 03:09:27 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Sat Oct 27 03:09:27 2018	Mathulhu was killed by Himself with a suicide trick
+Sat Oct 27 03:09:27 2018	lol was killed by Himself with a suicide trick
+Sat Oct 27 03:09:27 2018	☭✠Tynneside✠☭ was killed by Himself with a suicide trick
+Sat Oct 27 03:09:30 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 03:09:30 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sat Oct 27 03:09:31 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:09:31 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:09:43 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:09:45 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:09:56 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:10:58 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:11:27 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 03:11:34 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:11:43 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 03:11:50 2018	WildToastyMop (STEAM_0:0:93414166): 
+Sat Oct 27 03:12:05 2018	WildToastyMop (STEAM_0:0:93414166) disconnected
+Sat Oct 27 03:12:28 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) disconnected
+Sat Oct 27 03:12:49 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:13:14 2018	Mathulhu was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:13:20 2018	Mathulhu (STEAM_0:0:69877104) spawned
+Sat Oct 27 03:13:59 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:14:10 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:14:27 2018	Ham was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 27 03:14:28 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:14:30 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:14:47 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:15:04 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:15:05 2018	StarCroc (STEAM_0:1:32645072) has joined the game
+Sat Oct 27 03:15:05 2018	StarCroc (STEAM_0:1:32645072) spawned
+Sat Oct 27 03:16:13 2018	Ham was killed by Johnny K Bronk with a cw_g36c
+Sat Oct 27 03:16:15 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:16:24 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:16:30 2018	Ham was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:16:38 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:17:00 2018	Ham was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:17:01 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:17:11 2018	Ham (STEAM_0:0:453484573) spawned
+Sat Oct 27 03:17:53 2018	StarCroc (STEAM_0:1:32645072) spawned
+Sat Oct 27 03:18:27 2018	lol was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 27 03:18:28 2018	lol (STEAM_0:1:198887705) spawned
+Sat Oct 27 03:18:45 2018	Ham (STEAM_0:0:453484573) disconnected
+Sat Oct 27 03:18:56 2018	lol (STEAM_0:1:198887705) disconnected
+Sat Oct 27 03:21:31 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Sat Oct 27 03:21:31 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 27 03:22:01 2018	WildToastyMop (STEAM_0:0:93414166) disconnected
+Sat Oct 27 03:25:31 2018	[VG] Chair (STEAM_0:0:219807611) has joined the game
+Sat Oct 27 03:25:31 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) spawned
+Sat Oct 27 03:26:05 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:26:28 2018	StarCroc (STEAM_0:1:32645072) disconnected
+Sat Oct 27 03:26:48 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sat Oct 27 03:29:20 2018	ELITE Knife Stabber Jimmy was killed by Johnny K Bronk with a weapon_l4d2_frying_pan
+Sat Oct 27 03:30:33 2018	ELITE Knife Stabber Jimmy (STEAM_0:0:219807611) disconnected
+Sat Oct 27 03:33:08 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Sat Oct 27 03:37:31 2018	Mathulhu (STEAM_0:0:69877104) disconnected
+Sat Oct 27 03:38:41 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 27 05:41:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned

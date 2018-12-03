@@ -1,0 +1,1164 @@
+<Logging continued from "data/ulx_logs/08-06-18.txt">
+[00:44:25] Dropped "Security Soal" from server<STEAM_0:0:86025114>
+[00:44:25] Dropped "Bot02" from server<BOT>
+
+
+
+[05:05:02] New map: rp_powerplant_v2b2
+[17:59:39] Client "[Opi] Fat Gay" connected.
+[18:00:52] Client "Webbchess" connected.
+[18:01:15] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 96 seconds).
+[18:04:09] Client "Webbchess" spawned in server <STEAM_0:1:432592418> (took 197 seconds).
+[18:04:42] Webbchess: there we go
+[18:04:46] Webbchess: uh
+[18:04:51] Webbchess: there a issue
+[18:04:59] Webbchess:  i cant put on my headphones
+[18:05:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[18:05:11] Webbchess: i have wet hair for reasons
+[18:05:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:05:17] Webbchess: ow
+[18:05:21] Webbchess: so
+[18:05:28] Webbchess: ill just put them on .-.
+[18:05:35] Webbchess: there
+[18:05:38] Webbchess: hi
+[18:05:52] Webbchess: ow
+[18:06:16] Webbchess: oops
+[18:06:26] Webbchess: sorry?
+[18:06:32] Webbchess: k
+[18:06:33] Fat Gay:  /ooc test
+[18:06:35] Fat Gay: /ooc test
+[18:06:36] Webbchess: k
+[18:06:45] Webbchess: /ooc hi
+[18:06:49] Webbchess: hey
+[18:06:51] Webbchess: uh
+[18:06:54] Webbchess: i got no ammo
+[18:06:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:06:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:06:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:06:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:06:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:06:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:06:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:06:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:06:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:06:57] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:02] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:04] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:04] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:04] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:04] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:22] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:22] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:23] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:23] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:24] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:24] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:24] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/props/de_tides/restaurant_table.mdl
+[18:07:24] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/props/de_tides/restaurant_table.mdl
+[18:07:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:26] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:26] Webbchess:  /ooc i got no ammo
+[18:07:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:28] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:28] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:30] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:30] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:35] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:36] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:38] Webbchess: /ooc i got no ammo
+[18:07:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:07:53] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:07:53] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:00] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:00] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:00] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:00] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:07] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:08:07] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:08:13] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:08:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlion
+[18:08:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:08:42] Webbchess: /ooc oh god alot of stuff is going on up there
+[18:08:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:08:54] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:54] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:54] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:54] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:57] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:57] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:58] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:58] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:58] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:58] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:08:59] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:08:59] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:02] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:05] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:07] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:07] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:08] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:08] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:12] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:13] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:13] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:13] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:13] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:26] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:26] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:26] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:36] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:09:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:52] Webbchess: !donate
+[18:09:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/zombie/classic.mdl
+[18:09:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:57] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:09:58] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:09:58] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:02] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:02] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:05] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/zombie/classic.mdl
+[18:10:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_zombie
+[18:10:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on *170
+[18:10:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on *170
+[18:10:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/barnacle.mdl
+[18:10:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:12] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:13] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:13] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:13] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/barnacle.mdl
+[18:10:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on *164
+[18:10:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on *164
+[18:10:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on *164
+[18:10:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on *164
+[18:10:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_barnacle
+[18:10:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:28] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:28] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:28] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:28] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:28] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:28] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:29] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:29] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:30] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:30] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:30] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:30] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:30] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/zombie/fast.mdl
+[18:10:30] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/zombie/fast.mdl
+[18:10:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/zombie/fast.mdl
+[18:10:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on *163
+[18:10:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:10:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:41] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:43] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on *177
+[18:10:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on *177
+[18:10:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on *177
+[18:10:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on *177
+[18:10:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on *171
+[18:10:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:48] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:48] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:48] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:48] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:48] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:52] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:54] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:54] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:54] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:54] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:54] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:54] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:54] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:54] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on *90
+[18:10:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:55] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:57] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:59] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:59] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:10:59] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:10:59] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:04] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:04] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:05] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:08] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:08] Fat Gay<STEAM_0:1:218173703> used the tool creator on *90
+[18:11:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:11:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:11:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:11:41] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:11:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:11:45] Client "Bot01" connected.
+[18:11:45] Client "Bot01" spawned in server <BOT> (took 47268 seconds).
+[18:11:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:11:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:49] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:50] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:51] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:52] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:52] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_poisonzombie
+[18:11:54] Webbchess: /ooc u
+[18:11:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:11:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:11:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:11:59] Webbchess: /ooc uh
+[18:12:00] Fat Gay: /ooc almost done
+[18:12:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:01] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:01] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:02] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:02] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:03] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:04] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:04] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:04] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:04] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:05] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:05] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:05] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:06] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:06] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:07] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:07] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:08] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/zombie/fast.mdl
+[18:12:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:09] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:10] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:15] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:15] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:15] Webbchess: /ooc the zombies are lagging very bad
+[18:12:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:16] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:18] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:19] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:22] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:23] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:24] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:24] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:24] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:24] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:25] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:26] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:26] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:27] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:30] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:30] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:31] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:32] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:33] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:33] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:33] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_fastzombie
+[18:12:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:41] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:43] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on *328
+[18:12:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on *328
+[18:12:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on *328
+[18:12:46] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on *328
+[18:12:47] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:52] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:52] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:53] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:53] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:53] Webbchess: /ooc everythings fine nothing happened
+[18:12:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:56] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:12:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:12:57] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:13:04] Fat Gay was killed by npc_antlionguard
+[18:13:14] Webbchess: /ooc uh
+[18:13:22] Webbchess: /ooc i need ammo
+[18:13:25] Webbchess: /ooc im out
+[18:13:32] Webbchess: /ooc thx
+[18:14:18] Webbchess: ...
+[18:14:30] Fat Gay: !goto web
+[18:14:30] Fat Gay teleported to Webbchess
+[18:15:03] Webbchess: /ooc k
+[18:15:09] Fat Gay: /dropmoney 100000
+[18:16:02] Webbchess killed Fat Gay using fas2_thrown_m67
+[18:16:07] Webbchess: !menu
+[18:16:12] Fat Gay: !goto web
+[18:16:12] Fat Gay teleported to Webbchess
+[18:16:40] Webbchess: !shop
+[18:16:44] Webbchess: !store
+[18:16:45] Webbchess: .
+[18:16:48] Webbchess: !menu
+[18:16:49] Fat Gay:  !donate
+[18:17:08] Webbchess: theres a issue
+[18:17:11] Webbchess: my f4
+[18:17:17] Webbchess: opens the menu
+[18:17:20] Webbchess: that Q
+[18:17:23] Webbchess: opens
+[18:17:26] Webbchess: yea
+[18:18:15] Webbchess: oops
+[18:18:18] Webbchess: uh
+[18:18:32] Webbchess: gmod menu?
+[18:19:22] Webbchess: we can mess with this later
+[18:19:30] Webbchess: i got this item
+[18:19:36] Webbchess: that has healing item
+[18:19:43] Webbchess: yea
+[18:19:54] Webbchess: k
+[18:20:18] Webbchess: lol l4d horde
+[18:20:18] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_antlionguard
+[18:20:23] Webbchess: ah
+[18:20:58] Webbchess: TAK
+[18:21:07] Webbchess: TAKE COVER
+[18:21:13] Webbchess: OH COME ON
+[18:21:21] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/player/urban.mdl
+[18:21:22] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/antlion_guard.mdl
+[18:21:42] Webbchess: oh no
+[18:21:46] Webbchess: this looks
+[18:21:57] Webbchess: this looks hard
+[18:22:10] Fat Gay was killed by npc_poisonzombie
+[18:22:16] Fat Gay: !goto web
+[18:22:16] Fat Gay teleported to Webbchess
+[18:22:17] Webbchess was killed by trigger_hurt
+[18:22:18] Webbchess: uh
+[18:22:20] Webbchess: .
+[18:22:24] Fat Gay: !bring web
+[18:22:27] Webbchess: iw
+[18:22:29] Webbchess: ow
+[18:22:29] Fat Gay: !bring web
+[18:22:29] Fat Gay brought Webbchess
+[18:22:36] Webbchess: i fell off some how
+[18:23:02] Webbchess: ik how we escape
+[18:23:07] Webbchess: no
+[18:23:13] Webbchess: was thinknig teleporter
+[18:23:20] Webbchess: and
+[18:23:22] Webbchess: i 
+[18:23:23] Webbchess: WHY
+[18:23:23] Webbchess was killed by trigger_hurt
+[18:23:29] Fat Gay: !bring web
+[18:23:29] Fat Gay brought Webbchess
+[18:23:31] Webbchess: i glitched out
+[18:23:44] Webbchess: just like i need ammo
+[18:24:34] Webbchess: wow
+[18:24:40] Webbchess: i dont got enough ammo still
+[18:24:48] Webbchess: GOD THATS BRIGHT
+[18:25:16] Webbchess: Im full
+[18:26:11] Webbchess: INCOMING
+[18:27:02] Webbchess: allright
+[18:27:39] Webbchess: this is epic
+[18:28:30] Webbchess: .
+[18:28:35] Webbchess: AAAAAAAAA
+[18:28:38] Fat Gay: !bring web
+[18:28:38] Fat Gay brought Webbchess
+[18:28:44] Webbchess: LOL
+[18:29:19] Webbchess: LOL
+[18:29:21] Webbchess: caps
+[18:29:23] Webbchess: srry
+[18:29:26] Webbchess: rlly?
+[18:29:43] Fat Gay was killed by npc_antlionguard
+[18:29:50] Fat Gay: !goto web
+[18:29:50] Fat Gay teleported to Webbchess
+[18:30:03] Webbchess: im out
+[18:31:11] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_strider
+[18:31:14] Webbchess: healing
+[18:31:17] Webbchess: OH GOD NO WHY
+[18:31:21] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[18:31:34] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_turret_floor
+[18:31:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_turret_floor
+[18:31:43] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_turret_floor
+[18:31:48] Webbchess: i just now noticed
+[18:31:52] Webbchess: its your voice
+[18:31:59] Webbchess: no?
+[18:32:01] Webbchess: oh
+[18:32:39] Webbchess killed Fat Gay using fas2_thrown_m67
+[18:32:45] Webbchess: wot
+[18:32:47] Webbchess: how?
+[18:32:52] Webbchess: IM STUCK
+[18:32:56] Webbchess: help
+[18:33:05] Fat Gay: !goto web
+[18:33:09] Fat Gay: !goto web
+[18:33:09] Fat Gay teleported to Webbchess
+[18:33:18] Webbchess: idk
+[18:33:29] Webbchess: rip
+[18:33:33] Webbchess was killed by trigger_hurt
+[18:33:38] Fat Gay: !Bring web
+[18:33:43] Fat Gay: !bring web
+[18:33:46] Fat Gay: !bring web
+[18:33:46] Fat Gay brought Webbchess
+[18:34:03] Webbchess: dont jump
+[18:34:17] Webbchess: uh
+[18:34:30] Webbchess: where are we
+[18:34:39] Webbchess: we escaped
+[18:34:40] Webbchess: yay
+[18:34:47] Webbchess: after my deaths
+[18:34:59] Webbchess: what?
+[18:35:18] Webbchess: hm
+[18:35:26] Webbchess: the time is fine
+[18:35:33] Webbchess: got to go fast fast fast
+[18:35:39] Webbchess: you got little time to run
+[18:35:42] Webbchess: its really
+[18:35:45] Webbchess: fun
+[18:36:02] Webbchess: whats this SP you talk of?
+[18:36:05] Webbchess: scp
+[18:36:15] Webbchess: cant you spawn it?
+[18:36:17] Fat Gay: !goto web
+[18:36:17] Fat Gay teleported to Webbchess
+[18:36:17] Webbchess: uh
+[18:36:41] Webbchess: O_o
+[18:36:43] Webbchess: k.
+[18:36:47] Webbchess: ouch
+[18:37:10] Webbchess: weee
+[18:37:13] Webbchess: ow
+[18:37:22] Webbchess: well
+[18:37:24] Webbchess: kinda
+[18:37:27] Webbchess: little tho
+[18:37:32] Webbchess: ow
+[18:37:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_metropolice
+[18:37:45] Webbchess: why
+[18:37:47] Webbchess: is the fire
+[18:37:49] Webbchess: in the sky
+[18:38:08] Webbchess: i wish to kill this man
+[18:38:12] Webbchess: he wont die
+[18:38:29] Webbchess: AAAAAA
+[18:38:55] Webbchess: he keeps shooting the sky
+[18:39:00] Fat Gay: !goto web
+[18:39:00] Fat Gay teleported to Webbchess
+[18:39:13] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_combine_s
+[18:39:22] Webbchess: what are you?
+[18:39:31] Webbchess: yea
+[18:39:40] Webbchess: with a missing texture in the sky
+[18:39:57] Webbchess: wot
+[18:40:16] Webbchess: how does one kill
+[18:40:20] Webbchess: OW
+[18:40:30] Webbchess: cant with these things
+[18:40:32] Webbchess: ow
+[18:40:46] Fat Gay killed Webbchess using player
+[18:40:50] Webbchess: oof
+[18:41:04] Webbchess: so uh
+[18:41:07] Webbchess: now what
+[18:41:16] Fat Gay: !GOTO WEB
+[18:41:16] Fat Gay teleported to Webbchess
+[18:41:25] Fat Gay killed Webbchess using player
+[18:41:28] Webbchess: now what...
+[18:41:51] Webbchess: ow
+[18:41:54] Webbchess: ow
+[18:41:57] Webbchess: ...
+[18:42:06] Webbchess: plz
+[18:42:14] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[18:42:17] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_citizen
+[18:42:18] Webbchess: so uh
+[18:42:20] Webbchess: AH
+[18:42:25] Webbchess: LOL
+[18:42:27] Webbchess: ITS A
+[18:42:30] Webbchess: wow
+[18:42:34] Webbchess: anyways
+[18:42:35] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_headcrab_black
+[18:42:41] Webbchess: want to do a deathmatch thing?
+[18:42:45] Fat Gay killed Webbchess using player
+[18:42:47] Webbchess: ow
+[18:43:36] (TEAM) Webbchess: uh
+[18:43:46] Fat Gay killed Webbchess using player
+[18:43:48] Webbchess: ow
+[18:44:07] Webbchess: im out .-.
+[18:44:25] Webbchess: ow
+[18:45:10] Fat Gay killed Webbchess using player
+[18:45:13] Webbchess: oww
+[18:45:27] Webbchess: /ooc k so i had no ammo the entire time really
+[18:45:46] Webbchess: /ooc k thx
+[18:46:02] Fat Gay: !FDANCE &
+[18:46:06] Fat Gay: !fdance *
+[18:46:06] Fat Gay forced Everyone to perform the 'Dance' act command.
+[18:46:25] Webbchess: k
+[18:46:27] Fat Gay: !hp * 100
+[18:46:27] Fat Gay set the hp for Everyone to 100
+[18:46:31] Webbchess: /ooc lets do this
+[18:46:33] Fat Gay: !armor * 100
+[18:46:33] Fat Gay set the armor for Everyone to 100
+[18:46:34] Webbchess: no wait
+[18:46:46] Webbchess: /ooc k now go
+[18:47:21] Fat Gay killed Webbchess using player
+[18:48:23] Fat Gay killed Webbchess using player
+[18:48:28] Webbchess: oof
+[18:48:36] Webbchess: /ooc this is wierdly fun on my part
+[18:49:21] Webbchess: /ooc k go
+[18:50:06] Webbchess killed Fat Gay using player
+[18:50:09] Webbchess: wow
+[18:50:11] Webbchess: gg
+[18:50:15] Webbchess: /ooc gg
+[18:50:25] Fat Gay killed Webbchess using player
+[18:50:40] Webbchess killed Fat Gay using player
+[18:50:42] Webbchess: wait
+[18:50:44] Webbchess: knife battle
+[18:50:46] Webbchess: lol
+[18:50:52] Webbchess: /ooc knife battle
+[18:51:25] Fat Gay: !bring web
+[18:51:25] Fat Gay brought Webbchess
+[18:51:31] Webbchess: k
+[18:51:48] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furniturechair001a.mdl
+[18:51:57] Webbchess<STEAM_0:1:432592418> spawned model models/props_borealis/mooring_cleat01.mdl
+[18:52:14] Webbchess<STEAM_0:1:432592418> spawned model models/props_combine/breenchair.mdl
+[18:52:20] Webbchess<STEAM_0:1:432592418> spawned model models/props_combine/weaponstripper.mdl
+[18:52:32] Webbchess<STEAM_0:1:432592418> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:52:37] Webbchess<STEAM_0:1:432592418> spawned model models/props_docks/dock01_cleat01a.mdl
+[18:52:46] Webbchess<STEAM_0:1:432592418> spawned model models/props_interiors/furniture_lamp01a.mdl
+[18:52:53] Webbchess<STEAM_0:1:432592418> spawned model models/props_interiors/furniture_lamp01a.mdl
+[18:52:56] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[18:52:57] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_small.mdl
+[18:53:20] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:53:33] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate1x3.mdl
+[18:53:35] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate4x4.mdl
+[18:53:38] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate3x3.mdl
+[18:53:42] Webbchess: /ooc song reminds me of fitz theme song
+[18:53:47] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:53:55] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:53:59] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:54:04] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:54:05] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate3x5.mdl
+[18:54:07] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate3x6.mdl
+[18:54:08] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:54:12] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/lockers001a.mdl
+[18:54:21] Fat Gay<STEAM_0:1:218173703> spawned model models/hunter/plates/plate3x7.mdl
+[18:54:39] Webbchess<STEAM_0:1:432592418> spawned model models/props_junk/meathook001a.mdl
+[18:54:41] Webbchess<STEAM_0:1:432592418> spawned model models/props_junk/meathook001a.mdl
+[18:54:44] Webbchess<STEAM_0:1:432592418> spawned model models/props_junk/meathook001a.mdl
+[18:54:46] Webbchess<STEAM_0:1:432592418> spawned model models/props_junk/meathook001a.mdl
+[18:54:49] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[18:54:49] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[18:54:49] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props_phx/games/chess/board.mdl
+[18:54:50] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[18:54:51] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[18:54:52] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[18:54:53] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props_phx/games/chess/board.mdl
+[18:54:54] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[18:54:55] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/nova/chair_plastic01.mdl
+[18:54:55] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[18:54:56] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[18:54:56] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/props/de_tides/restaurant_table.mdl
+[18:55:04] Webbchess<STEAM_0:1:432592418> spawned model models/props_canal/boat002b.mdl
+[18:55:42] Fat Gay<STEAM_0:1:218173703> used the tool precision on models/hunter/plates/plate3x7.mdl
+[18:55:42] Fat Gay<STEAM_0:1:218173703> used the tool precision on models/hunter/plates/plate3x7.mdl
+[18:55:43] Webbchess<STEAM_0:1:432592418> spawned model models/mechanics/robotics/xfoot.mdl
+[18:55:43] Fat Gay<STEAM_0:1:218173703> used the tool precision on models/hunter/plates/plate3x7.mdl
+[18:55:44] Fat Gay<STEAM_0:1:218173703> used the tool precision on models/hunter/plates/plate3x7.mdl
+[18:56:01] Fat Gay<STEAM_0:1:218173703> used the tool stacker on models/hunter/plates/plate3x7.mdl
+[18:56:03] Fat Gay<STEAM_0:1:218173703> used the tool stacker on models/hunter/plates/plate3x7.mdl
+[18:56:04] Webbchess<STEAM_0:1:432592418> spawned ragdoll models/gibs/strider_weapon.mdl
+[18:56:07] Fat Gay<STEAM_0:1:218173703> used the tool stacker on models/hunter/plates/plate3x7.mdl
+[18:56:09] Fat Gay<STEAM_0:1:218173703> used the tool stacker on models/hunter/plates/plate3x7.mdl
+[18:56:12] Fat Gay<STEAM_0:1:218173703> used the tool stacker on models/hunter/plates/plate3x7.mdl
+[18:56:15] Webbchess<STEAM_0:1:432592418> spawned ragdoll models/gibs/fast_zombie_legs.mdl
+[18:56:16] Fat Gay<STEAM_0:1:218173703> used the tool stacker on models/hunter/plates/plate3x7.mdl
+[18:56:28] Fat Gay<STEAM_0:1:218173703> used the tool material on models/hunter/plates/plate3x7.mdl
+[18:56:29] Webbchess<STEAM_0:1:432592418> spawned ragdoll models/gibs/fast_zombie_torso.mdl
+[18:56:29] Fat Gay<STEAM_0:1:218173703> used the tool material on models/hunter/plates/plate3x7.mdl
+[18:56:31] Fat Gay<STEAM_0:1:218173703> used the tool material on models/hunter/plates/plate3x7.mdl
+[18:56:32] Fat Gay<STEAM_0:1:218173703> used the tool material on models/hunter/plates/plate3x7.mdl
+[18:56:39] Fat Gay<STEAM_0:1:218173703> used the tool material on models/hunter/plates/plate3x7.mdl
+[18:57:00] Webbchess: /ooc brb
+[18:58:56] Webbchess<STEAM_0:1:432592418> spawned model models/props_junk/popcan01a.mdl
+[18:59:49] Webbchess<STEAM_0:1:432592418> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[19:00:26] Webbchess<STEAM_0:1:432592418> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[19:00:34] Webbchess<STEAM_0:1:432592418> spawned model models/props_trainstation/tracksign03.mdl
+[19:00:36] Webbchess<STEAM_0:1:432592418> spawned model models/props_trainstation/tracksign07.mdl
+[19:00:38] Webbchess<STEAM_0:1:432592418> spawned model models/props_trainstation/ceiling_arch001a.mdl
+[19:00:42] Webbchess<STEAM_0:1:432592418> spawned model models/props_trainstation/mount_connection001a.mdl
+[19:00:45] Webbchess<STEAM_0:1:432592418> spawned model models/props_lab/kennel_physics.mdl
+[19:00:49] Webbchess<STEAM_0:1:432592418> spawned model models/props_wasteland/cranemagnet01a.mdl
+[19:01:00] Webbchess: i think im done
+[19:01:07] Webbchess: /ooc i think im done
+[19:01:11] Fat Gay<STEAM_0:1:218173703> used the tool material on maps/rp_powerplant_v2b2.bsp
+[19:01:21] Fat Gay: i was gonna do wire but eh
+[19:01:31] Webbchess: ...
+[19:01:36] Webbchess: /ooc hi
+[19:01:37] Fat Gay<STEAM_0:1:218173703> used the tool advdupe2 on maps/rp_powerplant_v2b2.bsp
+[19:01:51] Webbchess: uh
+[19:02:00] Webbchess: /ooc i sell flex tape
+[19:02:16] Webbchess: /ooc with the power of flex tape i sawed this zombie in hald
+[19:02:20] Webbchess: /ooc half*
+[19:02:40] Webbchess: /ooc lol
+[19:03:32] Fat Gay: !steamgrouprewards
+[19:03:36] Fat Gay: !steam
+[19:03:56] Webbchess: /ooc its so perfect
+[19:04:26] Webbchess: ow
+[19:06:15] Fat Gay killed Webbchess using stunstick
+[19:06:17] Webbchess: aw
+[19:06:50] Fat Gay suicided!
+[19:06:56] Webbchess: /OOC LEL
+[19:07:05] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:07:29] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:07:29] Fat Gay suicided!
+[19:07:45] Fat Gay suicided!
+[19:07:54] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:08:08] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:08:17] Fat Gay suicided!
+[19:08:35] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:08:54] Fat Gay suicided!
+[19:09:02] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:09:08] Webbchess: /ooc how
+[19:09:21] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:09:29] Webbchess killed Fat Gay using fas2_thrown_m67
+[19:09:43] Webbchess suicided!
+[19:09:52] Webbchess killed Fat Gay using fas2_thrown_m67
+[19:09:58] Webbchess: /ooc rip
+[19:10:02] Webbchess suicided!
+[19:10:15] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:10:30] Fat Gay suicided!
+[19:10:30] Fat Gay suicided!
+[19:10:33] Webbchess suicided!
+[19:10:45] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:10:58] Fat Gay killed Webbchess using fas2_thrown_m67
+[19:10:58] Fat Gay suicided!
+[19:11:02] Webbchess: /OOC SUICIDE BOMBER
+[19:11:10] Webbchess suicided!
+[19:11:19] Webbchess suicided!
+[19:11:19] Webbchess killed Fat Gay using player
+[19:11:19] Webbchess suicided!
+[19:11:41] Webbchess: /ooc oh hi
+[19:11:49] Webbchess suicided!
+[19:11:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:12:03] Webbchess killed Fat Gay using player
+[19:12:03] Webbchess suicided!
+[19:12:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:12:15] Webbchess: /
+[19:12:16] Fat Gay suicided!
+[19:12:20] Webbchess: /ooc uh
+[19:12:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:12:28] Webbchess suicided!
+[19:12:38] Fat Gay suicided!
+[19:12:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:12:45] Webbchess suicided!
+[19:12:45] Webbchess suicided!
+[19:12:47] Fat Gay suicided!
+[19:12:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:12:57] Fat Gay suicided!
+[19:13:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:13:08] Fat Gay suicided!
+[19:13:08] Fat Gay killed Webbchess using env_explosion
+[19:13:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[19:13:16] Fat Gay suicided!
+[19:13:29] Webbchess killed Fat Gay using fas2_thrown_m67
+[19:13:33] Webbchess suicided!
+[19:13:37] Webbchess: uh
+[19:13:39] Fat Gay: /ooc i gotta work on the server ill see ya later
+[19:13:44] Webbchess: /ooc okay
+[19:14:17] Webbchess suicided!
+[19:15:08] Fat Gay: /ooc k bye
+[19:15:13] Webbchess: /ooc bye
+[19:15:22] Webbchess: /ooc what are you doing?
+[19:15:53] Webbchess killed Fat Gay using fas2_dv2
+[19:16:03] Webbchess: /ooc was u busy?
+[19:16:14] Webbchess: oh
+[19:17:04] Webbchess killed Fat Gay using fas2_dv2
+[19:17:56] Webbchess killed Fat Gay using fas2_dv2
+[19:18:40] Webbchess killed Fat Gay using fas2_dv2
+[19:19:03] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:06] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:08] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:10] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:13] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:15] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:16] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:19:17] Webbchess<STEAM_0:1:432592418> spawned model models/props_c17/furnituretable001a.mdl
+[19:20:42] Webbchess: /ooc im gonna go i might join back
+[19:20:49] Webbchess: /ooc bye
+[19:20:51] Dropped "Webbchess" from server<STEAM_0:1:432592418>
+[19:39:07] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[19:39:07] Dropped "Bot01" from server<BOT>
+[19:56:14] Client "[Opi] Fat Gay" connected.
+[19:58:08] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 114 seconds).
+[19:59:57] Fat Gay: !menu
+
+
+
+[20:12:40] New map: rp_powerplant_v2b2
+[20:13:04] Client "[Opi] Fat Gay" connected.
+[20:14:18] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 74 seconds).
+[20:14:49] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[20:15:00] Client "[Opi] Fat Gay" connected.
+[20:15:52] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 52 seconds).
+[20:16:12] Fat Gay: !warn fat thot
+[20:16:12] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[21:20:26] New map: rp_powerplant_v2b2
+[21:21:13] Client "[Opi] Fat Gay" connected.
+[21:22:16] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 63 seconds).
+[21:25:22] Dropped "[Opi] Fat Gay" from server<STEAM_0:1:218173703>
+[21:25:22] Client "[Opi] Fat Gay" connected.
+
+
+
+[21:27:24] New map: rp_powerplant_v2b2
+[21:27:34] Client "[Opi] Fat Gay" connected.
+[21:28:30] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+[21:31:56] [Opi] Fat Gay: !tasks
+[21:33:23] [Opi] Fat Gay: !tasks
+
+
+
+[21:36:35] New map: rp_powerplant_v2b2
+[21:36:58] Client "[Opi] Fat Gay" connected.
+[21:37:44] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+
+
+
+[22:07:44] New map: rp_powerplant_v2b2
+[22:08:06] Client "[Opi] Fat Gay" connected.
+[22:08:54] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[22:10:09] Fat Gay: !tasks
+[22:14:36] Fat Gay: !tasks
+[22:31:46] Client "VietnamFlashbacks" connected.
+[22:35:53] Client "VietnamFlashbacks" spawned in server <STEAM_0:0:80420240> (took 247 seconds).
+[22:38:32] VietnamFlashbacks<STEAM_0:0:80420240> spawned/gave himself swep cw_ak74
+[22:38:52] VietnamFlashbacks: !tasks
+[22:39:46] Fat Gay: !tasks
+[22:40:05] VietnamFlashbacks: !tasks
+[22:41:34] Dropped "VietnamFlashbacks" from server<STEAM_0:0:80420240>
+[22:42:10] Client "Bot01" connected.
+[22:42:10] Client "Bot01" spawned in server <BOT> (took 2120 seconds).
+[22:47:40] Fat Gay suicided!
+[23:26:50] Fat Gay suicided!
+<Logging continued in "data/ulx_logs/08-08-18.txt">

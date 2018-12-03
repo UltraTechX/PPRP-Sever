@@ -1,0 +1,173 @@
+<Logging continued from "data/ulx_logs/06-24-18.txt">
+[00:21:23] Xander Greene suicided!
+[00:44:23] Xander Greene was killed by trigger_hurt
+[00:45:33] Dropped "Xander Greene" from server<STEAM_0:1:214673060>
+[14:50:31] Client "Lastpayload244" connected.
+[14:52:32] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 121 seconds).
+[15:02:32] Connor Rk800<STEAM_0:0:48607723> spawned/gave himself swep weapon_sh_keypadcracker_deploy
+[15:07:22] Connor Rk800<STEAM_0:0:48607723> spawned/gave himself swep weapon_sh_keypadcracker_deploy
+[15:18:39] Client "Hello" connected.
+[15:20:42] Client "Hello" spawned in server <STEAM_0:0:80135497> (took 123 seconds).
+[15:20:42] (Console) added Hello to group PACUser
+[15:26:37] Hello<STEAM_0:0:80135497> spawned/gave himself swep weapon_vape_american
+[15:30:30] Connor Rk800 killed Hello using player
+[15:30:46] Connor Rk800<STEAM_0:0:48607723> spawned/gave himself swep middlefinger
+[15:33:05] Hello killed Connor Rk800 using player
+[15:33:35] Hello was killed by func_rotating
+[15:34:13] Connor Rk800 killed Hello using player
+[15:38:18] Hello suicided!
+[15:42:34] Hello<STEAM_0:0:80135497> spawned/gave himself swep realrbn_tazer_mr
+[15:44:15] Hello killed Connor Rk800 using player
+[15:45:23] Hello was killed by point_hurt
+[15:48:32] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/furniture_couch01a.mdl
+[15:48:40] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/furniture_couch02a.mdl
+[15:48:53] Hello<STEAM_0:0:80135497> spawned model models/props_c17/oildrum001.mdl
+[15:48:56] Hello<STEAM_0:0:80135497> spawned model models/props_c17/oildrum001.mdl
+[15:48:57] Hello<STEAM_0:0:80135497> spawned model models/props_c17/oildrum001.mdl
+[15:49:20] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/refrigerator01a.mdl
+[15:50:11] Connor Rk800 was killed by trigger_hurt
+[15:50:23] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[15:50:57] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/refrigeratordoor02a.mdl
+[15:51:56] Hello<STEAM_0:0:80135497> spawned model models/props_c17/lockers001a.mdl
+[15:52:09] Hello<STEAM_0:0:80135497> spawned model models/props_c17/lockers001a.mdl
+[15:52:16] Hello<STEAM_0:0:80135497> spawned model models/props_c17/lockers001a.mdl
+[15:52:30] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[15:52:41] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[15:52:55] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[15:52:58] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[15:53:07] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[15:53:14] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/pot02a.mdl
+[15:53:23] Hello<STEAM_0:0:80135497> spawned ragdoll models/props_junk/cardboard_box002a_gib01.mdl
+[15:53:29] Hello<STEAM_0:0:80135497> spawned model models/props_junk/cardboard_box002b.mdl
+[15:53:34] Hello<STEAM_0:0:80135497> spawned ragdoll models/props_junk/cardboard_box002a_gib01.mdl
+[15:53:38] Hello<STEAM_0:0:80135497> spawned model models/props_junk/cardboard_box002a.mdl
+[15:53:52] Hello<STEAM_0:0:80135497> spawned model models/props_junk/cardboard_box004a.mdl
+[15:53:56] Hello<STEAM_0:0:80135497> spawned ragdoll models/props_junk/cardboard_box002a_gib01.mdl
+[15:54:27] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/radiator01a.mdl
+[15:54:55] Hello<STEAM_0:0:80135497> spawned model models/props_lab/kennel_physics.mdl
+[15:56:19] Connor Rk800 suicided!
+[15:56:38] Dropped "Connor Rk800" from server<STEAM_0:0:48607723>
+[15:56:43] Client "Lastpayload244" connected.
+[15:57:30] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[15:57:31] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 48 seconds).
+[15:57:55] Hello<STEAM_0:0:80135497> spawned model models/props_c17/furniturefireplace001a.mdl
+[15:58:23] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/cranemagnet01a.mdl
+[15:58:32] Hello<STEAM_0:0:80135497> spawned model models/props_junk/propanecanister001a.mdl
+[15:58:39] Hello<STEAM_0:0:80135497> spawned model models/props_junk/popcan01a.mdl
+[15:58:39] Hello<STEAM_0:0:80135497> spawned model models/props_junk/popcan01a.mdl
+[15:58:57] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/pot02a.mdl
+[15:58:59] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/pot01a.mdl
+[16:01:38] Hello<STEAM_0:0:80135497> spawned model models/xqm/rails/trackball_1.mdl
+[16:01:41] Hello<STEAM_0:0:80135497> spawned model models/xqm/rails/gumball_1.mdl
+[16:01:53] Hello<STEAM_0:0:80135497> spawned model models/props_junk/popcan01a.mdl
+[16:02:05] Hello<STEAM_0:0:80135497> spawned model models/props_junk/popcan01a.mdl
+[16:02:12] Hello<STEAM_0:0:80135497> spawned model models/props_junk/popcan01a.mdl
+[16:02:22] Hello<STEAM_0:0:80135497> spawned model models/props_combine/breenchair.mdl
+[16:02:41] Hello<STEAM_0:0:80135497> spawned model models/props_wasteland/interior_fence002d.mdl
+[16:03:06] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_combine/breendesk.mdl
+[16:03:09] Hello<STEAM_0:0:80135497> spawned model models/props_vehicles/apc_tire001.mdl
+[16:03:19] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/furniture_shelf01a.mdl
+[16:03:25] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/furniture_shelf01a.mdl
+[16:03:29] Hello<STEAM_0:0:80135497> spawned model models/props_interiors/furniture_shelf01a.mdl
+[16:03:43] Hello<STEAM_0:0:80135497> spawned model models/gibs/hgibs.mdl
+[16:03:52] Hello<STEAM_0:0:80135497> spawned model models/props_combine/breenbust.mdl
+[16:04:39] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage128_composite001b.mdl
+[16:04:43] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage128_composite001c.mdl
+[16:04:49] Hello<STEAM_0:0:80135497> spawned model models/props_combine/breenclock.mdl
+[16:05:03] Connor Rk800<STEAM_0:0:48607723> spawned ragdoll models/hl1bar.mdl
+[16:05:17] Hello<STEAM_0:0:80135497> spawned model models/props_combine/breendesk.mdl
+[16:06:00] Hello<STEAM_0:0:80135497> spawned model models/props_lab/monitor01b.mdl
+[16:06:03] Connor Rk800<STEAM_0:0:48607723> spawned model models/xqm/coastertrain1.mdl
+[16:06:05] Hello<STEAM_0:0:80135497> spawned model models/props_lab/monitor02.mdl
+[16:06:33] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_glassbottle001a.mdl
+[16:06:40] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[16:06:49] Hello<STEAM_0:0:80135497> spawned model models/props_junk/glassbottle01a.mdl
+[16:06:58] Hello<STEAM_0:0:80135497> spawned model models/props_junk/glassbottle01a.mdl
+[16:06:59] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[16:07:18] Hello<STEAM_0:0:80135497> spawned model models/props_c17/computer01_keyboard.mdl
+[16:08:12] Hello<STEAM_0:0:80135497> spawned model models/props_lab/partsbin01.mdl
+[16:08:15] Hello<STEAM_0:0:80135497> spawned model models/props_lab/servers.mdl
+[16:08:19] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence03a.mdl
+[16:08:44] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02a.mdl
+[16:08:49] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence01a.mdl
+[16:08:52] Hello<STEAM_0:0:80135497> spawned effect models/props_lab/corkboard001.mdl
+[16:08:53] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02a.mdl
+[16:08:55] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02b.mdl
+[16:08:55] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02b.mdl
+[16:09:03] Hello<STEAM_0:0:80135497> spawned effect models/props_lab/eyescanner.mdl
+[16:09:19] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02b.mdl
+[16:09:37] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox_wire on models/props_c17/fence02b.mdl
+[16:09:45] Hello<STEAM_0:0:80135497> spawned model models/props_lab/plotter.mdl
+[16:09:58] Hello<STEAM_0:0:80135497> spawned model models/props_combine/breendesk.mdl
+[16:10:13] Hello<STEAM_0:0:80135497> spawned model models/props_junk/plasticcrate01a.mdl
+[16:10:17] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02a.mdl
+[16:10:22] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[16:10:23] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02b.mdl
+[16:10:38] Hello<STEAM_0:0:80135497> spawned model models/props_junk/shoe001a.mdl
+[16:10:38] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox_wire on models/props_c17/fence02a.mdl
+[16:10:39] Hello<STEAM_0:0:80135497> spawned model models/props_junk/shoe001a.mdl
+[16:10:39] Hello<STEAM_0:0:80135497> spawned model models/props_junk/shoe001a.mdl
+[16:10:39] Hello<STEAM_0:0:80135497> spawned model models/props_junk/shoe001a.mdl
+[16:11:13] Hello<STEAM_0:0:80135497> spawned model models/props_lab/harddrive02.mdl
+[16:11:29] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_newspaper001a.mdl
+[16:11:34] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_c17/fence02a.mdl
+[16:11:41] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_milkcarton002a.mdl
+[16:11:41] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_milkcarton002a.mdl
+[16:11:46] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_c17/fence02a.mdl
+[16:11:49] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_c17/fence02b.mdl
+[16:11:51] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_milkcarton002a.mdl
+[16:12:11] Hello<STEAM_0:0:80135497> spawned model models/props_lab/jar01a.mdl
+[16:12:27] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[16:12:37] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_metalcan001a.mdl
+[16:12:44] Hello<STEAM_0:0:80135497> spawned model models/props_junk/garbage_metalcan002a.mdl
+[16:12:46] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_c17/fence02b.mdl
+[16:12:53] Hello<STEAM_0:0:80135497> spawned model models/props_lab/binderbluelabel.mdl
+[16:12:54] Hello<STEAM_0:0:80135497> spawned model models/props_lab/binderblue.mdl
+[16:12:54] Hello<STEAM_0:0:80135497> spawned model models/props_lab/bindergraylabel01a.mdl
+[16:13:22] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/gate_door02a.mdl
+[16:13:32] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/gate_door01a.mdl
+[16:13:34] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_c17/door01_left.mdl
+[16:13:43] Hello<STEAM_0:0:80135497> spawned model models/props_lab/frame002a.mdl
+[16:13:46] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02a.mdl
+[16:13:56] Hello<STEAM_0:0:80135497> spawned model models/props_lab/citizenradio.mdl
+[16:14:08] Hello<STEAM_0:0:80135497> spawned model models/props_lab/crematorcase.mdl
+[16:14:08] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox_wire on models/props_c17/fence02a.mdl
+[16:14:13] Hello<STEAM_0:0:80135497> spawned model models/props_trainstation/traincar_seats001.mdl
+[16:14:26] Hello<STEAM_0:0:80135497> spawned model models/props_trainstation/payphone001a.mdl
+[16:14:41] Hello<STEAM_0:0:80135497> spawned model models/props_trainstation/payphone_reciever001a.mdl
+[16:14:59] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:00] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:01] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:01] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:01] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:02] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:02] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:02] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:02] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:03] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:03] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:03] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:05] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:07] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:08] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:08] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:08] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:08] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:08] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:09] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:15:15] Connor Rk800<STEAM_0:0:48607723> used the tool wire_gpulib_switcher on maps/rp_powerplant_v2b2.bsp
+[16:16:56] Connor Rk800<STEAM_0:0:48607723> used the tool wire_keypad on maps/rp_powerplant_v2b2.bsp
+[16:17:05] Connor Rk800<STEAM_0:0:48607723> used the tool wire_keypad on maps/rp_powerplant_v2b2.bsp
+[16:18:13] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:21] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:22] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:22] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:22] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:22] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:23] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/door01_left.mdl
+[16:18:30] Connor Rk800<STEAM_0:0:48607723> spawned model models/props_c17/fence02a.mdl
+[16:18:42] Connor Rk800<STEAM_0:0:48607723> used the tool fading_door on models/props_c17/fence02a.mdl
+[16:18:59] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_c17/fence02a.mdl
+[16:19:13] Connor Rk800<STEAM_0:0:48607723> used the tool keypad_willox on models/props_lab/kennel_physics.mdl
+[16:20:42] Dropped "Connor Rk800" from server<STEAM_0:0:48607723>
+[16:23:48] Dropped "Hello" from server<STEAM_0:0:80135497>

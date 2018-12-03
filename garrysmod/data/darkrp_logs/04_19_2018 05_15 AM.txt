@@ -1,0 +1,224 @@
+Thu Apr 19 05:15:37 2018	Darth Vader (STEAM_0:0:27531482) has joined the game
+Thu Apr 19 05:15:37 2018	Darth Vader (STEAM_0:0:27531482) spawned
+Thu Apr 19 05:17:34 2018	Darth Vader (STEAM_0:0:27531482) spawned
+Thu Apr 19 05:18:38 2018	Darth Vader (STEAM_0:0:27531482) spawned
+Thu Apr 19 05:20:16 2018	Darth Vader (STEAM_0:0:27531482) disconnected
+Fri Apr 20 17:40:44 2018	Valien (STEAM_0:1:41660292) has joined the game
+Fri Apr 20 17:40:44 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 18:02:53 2018	Emmett was killed by Himself with a suicide trick
+Fri Apr 20 18:03:45 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 18:18:06 2018	Emmett was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Fri Apr 20 18:18:07 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 18:29:09 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Fri Apr 20 18:29:12 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 18:46:31 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 20 18:46:56 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 19:09:08 2018	Emmett was killed by Himself with a suicide trick
+Fri Apr 20 19:44:32 2018	AP0THECARI0N (STEAM_0:0:67105367) has joined the game
+Fri Apr 20 19:44:32 2018	AP0THECARI0N (STEAM_0:0:67105367) spawned
+Fri Apr 20 20:06:39 2018	AP0THECARI0N was killed by Himself with a suicide trick
+Fri Apr 20 20:24:18 2018	Emmett (STEAM_0:1:41660292) disconnected
+Fri Apr 20 20:25:11 2018	AP0THECARI0N (STEAM_0:0:67105367) spawned
+Fri Apr 20 20:28:41 2018	AP0THECARI0N (STEAM_0:0:67105367) spawned
+Fri Apr 20 20:30:30 2018	AP0THECARI0N (STEAM_0:0:67105367) spawned
+Fri Apr 20 20:32:18 2018	AP0THECARI0N (STEAM_0:0:67105367) disconnected
+Fri Apr 20 21:58:31 2018	Valien (STEAM_0:1:41660292) has joined the game
+Fri Apr 20 21:58:31 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 21:59:45 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 22:10:42 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Fri Apr 20 22:10:48 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Fri Apr 20 22:11:07 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 22:14:03 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 22:14:15 2018	Emmett (STEAM_0:1:41660292): Radio 
+Fri Apr 20 22:15:05 2018	Emmett (STEAM_0:1:41660292): Did
+Fri Apr 20 22:15:07 2018	Emmett (STEAM_0:1:41660292): u
+Fri Apr 20 22:15:08 2018	Emmett (STEAM_0:1:41660292): know
+Fri Apr 20 22:15:11 2018	Emmett (STEAM_0:1:41660292): ur mom gay
+Fri Apr 20 22:15:18 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Fri Apr 20 22:15:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 22:19:48 2018	Emmett (STEAM_0:1:41660292): !god
+Fri Apr 20 22:21:54 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 22:37:09 2018	Emmett (STEAM_0:1:41660292) spawned
+Fri Apr 20 22:40:15 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sat Apr 21 11:14:53 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Apr 21 11:14:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:18:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:36:05 2018	Emmett was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 21 11:36:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:36:13 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:36:26 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 11:36:28 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:39:05 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 21 11:39:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:40:43 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 11:59:54 2018	Emmett was killed by Entity [1677][trigger_hurt] with a trigger_hurt
+Sat Apr 21 11:59:56 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 12:11:40 2018	wolvensheepclothing (STEAM_0:0:8997490) has joined the game
+Sat Apr 21 12:11:40 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 12:12:09 2018	Emmett (STEAM_0:1:41660292): !goto wol
+Sat Apr 21 12:13:31 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 12:20:19 2018	wolvensheepclothing was killed by Entity [0][worldspawn] with a unknown
+Sat Apr 21 12:21:19 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 12:53:40 2018	wolvensheepclothing (STEAM_0:0:8997490) disconnected
+Sat Apr 21 12:53:45 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 12:56:17 2018	wolvensheepclothing (STEAM_0:0:8997490) has joined the game
+Sat Apr 21 12:56:17 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 12:58:52 2018	Emmett (STEAM_0:1:41660292): !goto wol
+Sat Apr 21 12:59:02 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 12:59:44 2018	wolvensheepclothing was killed by Emmett with a cw_m3super90
+Sat Apr 21 13:00:19 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:01:56 2018	wolvensheepclothing was killed by Emmett with a cw_m3super90
+Sat Apr 21 13:02:08 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:03:52 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:04:33 2018	wolvensheepclothing was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:05:07 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:05:07 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:05:18 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:09:09 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 13:09:13 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:09:19 2018	Emmett (STEAM_0:1:41660292): !goto wol
+Sat Apr 21 13:09:30 2018	Emmett (STEAM_0:1:41660292): !goto wol
+Sat Apr 21 13:11:13 2018	wolvensheepclothing was killed by Emmett with a cw_m3super90
+Sat Apr 21 13:11:44 2018	Emmett was killed by Entity [1677][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:11:46 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:12:07 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:12:08 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:13:17 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:13:18 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:13:22 2018	Emmett (STEAM_0:1:41660292): !goto wol
+Sat Apr 21 13:13:25 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 13:13:56 2018	wolvensheepclothing was killed by Emmett with a cw_m3super90
+Sat Apr 21 13:14:30 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:14:30 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:14:51 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Sat Apr 21 13:15:50 2018	wolvensheepclothing was killed by Entity [554][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sat Apr 21 13:15:50 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 13:15:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:16:04 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 13:16:08 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 13:16:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:17:47 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:20:27 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 13:20:29 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:20:40 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 13:20:48 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 13:20:51 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:21:08 2018	wolvensheepclothing was killed by Emmett with a fas2_thrown_m67
+Sat Apr 21 13:25:07 2018	wolvensheepclothing (STEAM_0:0:8997490) disconnected
+Sat Apr 21 13:26:08 2018	Emmett (STEAM_0:1:41660292): !goto wo
+Sat Apr 21 13:26:19 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:26:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:26:29 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:26:39 2018	wolvensheepclothing (STEAM_0:0:8997490) has joined the game
+Sat Apr 21 13:26:39 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:29:26 2018	Emmett (STEAM_0:1:41660292): !goto wol
+Sat Apr 21 13:35:22 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:36:30 2018	wolvensheepclothing was killed by Himself with a suicide trick
+Sat Apr 21 13:36:34 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:36:36 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:36:57 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:37:23 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:37:30 2018	Emmett (STEAM_0:1:41660292): !bring wol
+Sat Apr 21 13:37:43 2018	Emmett (STEAM_0:1:41660292): !bring wo
+Sat Apr 21 13:38:12 2018	Emmett (STEAM_0:1:41660292): !bring wo
+Sat Apr 21 13:38:32 2018	Emmett (STEAM_0:1:41660292): !bring wo
+Sat Apr 21 13:40:02 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:40:23 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:40:34 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:40:40 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:40:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:41:09 2018	wolvensheepclothing was killed by Entity [0][worldspawn] with a unknown
+Sat Apr 21 13:41:11 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:41:13 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:46:30 2018	wolvensheepclothing was killed by Emmett with a cw_deagle
+Sat Apr 21 13:46:39 2018	Emmett (STEAM_0:1:41660292): !goto wo
+Sat Apr 21 13:46:43 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:46:44 2018	Emmett (STEAM_0:1:41660292): !goto wo
+Sat Apr 21 13:47:09 2018	Emmett (STEAM_0:1:41660292): !bring wo
+Sat Apr 21 13:47:56 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:48:09 2018	wolvensheepclothing was killed by Entity [1684][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:48:20 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:48:23 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:48:39 2018	wolvensheepclothing was killed by Entity [1335][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:48:46 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:49:03 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:50:42 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:50:46 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:53:06 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:53:13 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 13:53:41 2018	wolvensheepclothing was killed by Emmett with a cw_deagle
+Sat Apr 21 13:54:45 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 13:54:47 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 13:55:03 2018	Emmett was killed by wolvensheepclothing with a cw_p99
+Sat Apr 21 13:55:09 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 13:55:11 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 13:56:37 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 13:58:39 2018	Emmett (STEAM_0:1:41660292): !bring w
+Sat Apr 21 13:59:26 2018	Emmett (STEAM_0:1:41660292): !ungod
+Sat Apr 21 13:59:49 2018	Emmett was killed by wolvensheepclothing with a cw_mp5
+Sat Apr 21 13:59:53 2018	wolvensheepclothing was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 21 13:59:54 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:00:03 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:00:12 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 14:01:53 2018	wolvensheepclothing was killed by Emmett with a cw_deagle
+Sat Apr 21 14:02:00 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:02:43 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 14:02:50 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:02:53 2018	Emmett (STEAM_0:1:41660292): !goto
+Sat Apr 21 14:02:56 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 14:03:17 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:03:58 2018	Emmett was killed by wolvensheepclothing with a weapon_l4d2_frying_pan
+Sat Apr 21 14:04:15 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:04:18 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 14:04:37 2018	wolvensheepclothing was killed by Emmett with a cw_deagle
+Sat Apr 21 14:04:55 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:05:46 2018	Emmett was killed by wolvensheepclothing with a weapon_l4d2_frying_pan
+Sat Apr 21 14:06:03 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:06:08 2018	Emmett (STEAM_0:1:41660292): !goto
+Sat Apr 21 14:06:10 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 14:06:27 2018	wolvensheepclothing was killed by Emmett with a cw_deagle
+Sat Apr 21 14:11:03 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:11:37 2018	Emmett was killed by wolvensheepclothing with a weapon_l4d2_frying_pan
+Sat Apr 21 14:33:10 2018	wolvensheepclothing was killed by Himself with a suicide trick
+Sat Apr 21 14:35:22 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:49:47 2018	Emmett was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 21 14:49:49 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:50:09 2018	Emmett (STEAM_0:1:41660292): !goto w
+Sat Apr 21 14:50:27 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:50:53 2018	Emmett (STEAM_0:1:41660292): /dropmoney 20
+Sat Apr 21 14:50:54 2018	Emmett (STEAM_0:1:41660292) has dropped $20
+Sat Apr 21 14:51:03 2018	Emmett (STEAM_0:1:41660292): /dropmoney 10
+Sat Apr 21 14:51:04 2018	Emmett (STEAM_0:1:41660292) has dropped $10
+Sat Apr 21 14:51:57 2018	Emmett (STEAM_0:1:41660292): /dropmoney 100000
+Sat Apr 21 14:51:58 2018	Emmett (STEAM_0:1:41660292) has dropped $100,000
+Sat Apr 21 14:53:43 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:54:27 2018	wolvensheepclothing was killed by Emmett with a weapon_l4d2_frying_pan
+Sat Apr 21 14:54:30 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:54:37 2018	wolvensheepclothing was killed by Emmett with a weapon_l4d2_frying_pan
+Sat Apr 21 14:54:40 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:54:45 2018	Emmett was killed by wolvensheepclothing with a weapon_l4d2_frying_pan
+Sat Apr 21 14:56:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 14:57:05 2018	wolvensheepclothing was killed by Emmett with a weapon_l4d2_frying_pan
+Sat Apr 21 14:57:08 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:57:22 2018	wolvensheepclothing was killed by Emmett with a weapon_l4d2_frying_pan
+Sat Apr 21 14:57:31 2018	wolvensheepclothing (STEAM_0:0:8997490) spawned
+Sat Apr 21 14:57:39 2018	wolvensheepclothing (STEAM_0:0:8997490) disconnected
+Sat Apr 21 14:59:44 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 21 15:00:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 15:02:31 2018	Emmett was killed by Himself with a suicide trick
+Sat Apr 21 15:02:32 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Apr 21 15:03:02 2018	Emmett (STEAM_0:1:41660292): !god
+Sat Apr 21 15:03:38 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sun Apr 22 00:06:14 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Apr 22 00:06:14 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 22 00:20:45 2018	Emmett (STEAM_0:1:41660292): !god
+Sun Apr 22 01:09:21 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 22 01:25:05 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 22 01:25:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 22 01:25:09 2018	Emmett (STEAM_0:1:41660292): !god
+Sun Apr 22 01:25:15 2018	Emmett (STEAM_0:1:41660292): !back
+Sun Apr 22 01:25:45 2018	Emmett was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sun Apr 22 01:25:46 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 22 01:25:48 2018	Emmett (STEAM_0:1:41660292): !gpd
+Sun Apr 22 01:25:54 2018	Emmett (STEAM_0:1:41660292): !god
+Sun Apr 22 02:30:04 2018	Emmett (STEAM_0:1:41660292) disconnected

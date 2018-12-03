@@ -1,0 +1,90 @@
+Mon Oct  8 01:50:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 01:50:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:50:46 2018	Thatguy (STEAM_0:1:116482800) has joined the game
+Mon Oct  8 01:50:46 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:51:02 2018	Tello (STEAM_0:0:74320577) has joined the game
+Mon Oct  8 01:51:02 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:51:18 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:51:34 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 01:51:34 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:51:47 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Mon Oct  8 01:51:47 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:52:01 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:52:04 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:52:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 01:52:23 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 01:52:41 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:52:42 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 01:53:06 2018	Mike (STEAM_0:1:41660292): // Near the cafeteria
+Mon Oct  8 01:53:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its in the lab
+Mon Oct  8 01:53:29 2018	Tello (STEAM_0:0:74320577): @ admin to me
+Mon Oct  8 01:53:59 2018	Doctahclaw (STEAM_0:1:40193951) has joined the game
+Mon Oct  8 01:53:59 2018	Doctahclaw (STEAM_0:1:40193951) spawned
+Mon Oct  8 01:54:07 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 01:54:47 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_citizen
+Mon Oct  8 01:54:56 2018	Mike (STEAM_0:1:41660292) spawned NPC npc_breen
+Mon Oct  8 01:55:32 2018	Doctahclaw (STEAM_0:1:40193951) disconnected
+Mon Oct  8 01:56:32 2018	Pizza Crust (STEAM_0:0:127633732) has joined the game
+Mon Oct  8 01:56:32 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 01:57:32 2018	Thatguy was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Mon Oct  8 01:57:33 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 01:57:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring that
+Mon Oct  8 01:57:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tre
+Mon Oct  8 01:57:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tr
+Mon Oct  8 01:57:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring te
+Mon Oct  8 01:58:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 02:02:27 2018	Mike (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Mon Oct  8 02:02:39 2018	Mike (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Mon Oct  8 02:02:45 2018	Mike (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Mon Oct  8 02:03:32 2018	Tello (STEAM_0:0:74320577) disconnected
+Mon Oct  8 02:03:36 2018	Thatguy (STEAM_0:1:116482800) disconnected
+Mon Oct  8 02:05:18 2018	Mike (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Mon Oct  8 02:05:20 2018	Mike (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Mon Oct  8 02:06:41 2018	Mike (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Mon Oct  8 02:09:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring temp
+Mon Oct  8 02:13:03 2018	TempusBilBoJo (STEAM_0:0:204382926) disconnected
+Mon Oct  8 02:13:10 2018	Chef BOI RD (STEAM_0:0:127633732) spawned
+Mon Oct  8 02:13:39 2018	Mike (STEAM_0:1:41660292): !goto chef
+Mon Oct  8 02:15:32 2018	Mike (STEAM_0:1:41660292): 
+Mon Oct  8 02:20:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto bush
+Mon Oct  8 02:20:26 2018	BUSH WOOKIE was killed by Himself with a suicide trick
+Mon Oct  8 02:20:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay bush
+Mon Oct  8 02:22:14 2018	Mike was killed by [Opi] Fat Gay with a weapon_hlof_pipewrench
+Mon Oct  8 02:22:16 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 02:22:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mike
+Mon Oct  8 02:23:26 2018	BUSH WOOKIE (STEAM_0:1:73051733) spawned
+Mon Oct  8 02:23:54 2018	BUSH WOOKIE (STEAM_0:1:73051733): // hello
+Mon Oct  8 02:23:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc welcome!
+Mon Oct  8 02:24:09 2018	BUSH WOOKIE (STEAM_0:1:73051733): // wtf is this server about?
+Mon Oct  8 02:24:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc roleplaying in a power plant
+Mon Oct  8 02:24:37 2018	BUSH WOOKIE (STEAM_0:1:73051733): // SCPs?!
+Mon Oct  8 02:24:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you seem to be coming at a pretty dead hour, 3 hours ago we has 20
+Mon Oct  8 02:24:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yup
+Mon Oct  8 02:27:12 2018	[Opi] Fat Gay was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 02:27:32 2018	Mike was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 02:27:33 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 02:27:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 02:28:54 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 02:28:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 02:29:25 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 02:29:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 02:34:23 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 02:35:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 02:41:40 2018	Mike was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 02:46:55 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 02:47:05 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 02:47:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 02:47:10 2018	Mike was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 02:47:11 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 02:50:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 02:50:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /radio
+Mon Oct  8 02:50:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 02:50:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !aradio
+Mon Oct  8 02:52:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 02:56:29 2018	Mike was killed by Entity [3353][trigger_hurt] with a trigger_hurt
+Mon Oct  8 02:56:31 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 02:57:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !buy_combinerzmethlab
+Mon Oct  8 02:58:27 2018	[Opi] Fat Gay was killed by Mike with a cw_makarov
+Mon Oct  8 02:58:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 02:58:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !buycombiner_zmlab
+Mon Oct  8 02:58:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /buycombiner_zmlab

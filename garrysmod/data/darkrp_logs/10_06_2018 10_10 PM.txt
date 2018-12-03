@@ -1,0 +1,490 @@
+Sat Oct  6 22:10:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 22:10:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:10:46 2018	TheDanster_YT [DN] [OPI] (STEAM_0:1:425940591) has joined the game
+Sat Oct  6 22:10:46 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:11:15 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct  6 22:11:15 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:11:16 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:11:19 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Sat Oct  6 22:11:19 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 22:11:20 2018	Manager (STEAM_0:1:425940591): yea im second
+Sat Oct  6 22:11:38 2018	Summerlin (STEAM_0:0:50036617) has joined the game
+Sat Oct  6 22:11:38 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:12:48 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 22:12:58 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 22:13:20 2018	Manager (STEAM_0:1:425940591): i wanna noclip ,lmao
+Sat Oct  6 22:14:13 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:14:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc anyone want an event? Or maybe just a challenge between players?
+Sat Oct  6 22:14:31 2018	John Mercy (STEAM_0:0:86025114): // I was preparing for another outbreak
+Sat Oct  6 22:14:34 2018	Manager (STEAM_0:1:425940591): ya event
+Sat Oct  6 22:14:39 2018	Summerlin (STEAM_0:0:50036617): // have everyone go workers and try to work together
+Sat Oct  6 22:14:49 2018	Summerlin (STEAM_0:0:50036617): // wanna see how it works myself
+Sat Oct  6 22:14:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc HAH
+Sat Oct  6 22:14:54 2018	John Mercy (STEAM_0:0:86025114): // We want a challenge, not a crap fest
+Sat Oct  6 22:17:35 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:17:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:17:45 2018	John Mercy (STEAM_0:0:86025114): // Im going to make the reactor fkin fort knox
+Sat Oct  6 22:17:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok
+Sat Oct  6 22:17:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto r
+Sat Oct  6 22:18:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto ada
+Sat Oct  6 22:18:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto man
+Sat Oct  6 22:18:29 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:18:43 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:19:40 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:20:40 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Sat Oct  6 22:20:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:20:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc what event do you guys want?
+Sat Oct  6 22:20:56 2018	Manager (STEAM_0:1:425940591): FREEZEDOWN!
+Sat Oct  6 22:21:12 2018	Summerlin (STEAM_0:0:50036617): // what do i do as a engineer
+Sat Oct  6 22:21:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you could do "repairs"
+Sat Oct  6 22:21:30 2018	Summerlin (STEAM_0:0:50036617): // as in passive rp 
+Sat Oct  6 22:21:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc make things "break"
+Sat Oct  6 22:21:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah 
+Sat Oct  6 22:21:49 2018	John Mercy (STEAM_0:0:86025114): // The Engineer should be immune to the zombie
+Sat Oct  6 22:21:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc eh
+Sat Oct  6 22:22:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc with engineer you could do PMEs
+Sat Oct  6 22:22:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc if some lab test was being done
+Sat Oct  6 22:22:26 2018	Summerlin (STEAM_0:0:50036617): // brand new what
+Sat Oct  6 22:22:33 2018	Summerlin was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct  6 22:22:34 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:23:07 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:23:09 2018	Adam Klein was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct  6 22:23:10 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:23:32 2018	[Opi] Fat Gay was killed by Valien with a cw_g36c
+Sat Oct  6 22:23:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:23:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto em
+Sat Oct  6 22:23:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Sat Oct  6 22:23:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto va
+Sat Oct  6 22:23:55 2018	John Mercy (STEAM_0:0:86025114): // I cant change the keycard access granted key
+Sat Oct  6 22:23:56 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:24:11 2018	Valien (STEAM_0:1:41660292): // its changed you gotta close out and re open the mneu
+Sat Oct  6 22:24:18 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:24:43 2018	Valien (STEAM_0:1:41660292) spawned SENT ent_metal_detector_large
+Sat Oct  6 22:25:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:25:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mana
+Sat Oct  6 22:25:25 2018	Valien (STEAM_0:1:41660292) spawned SENT ent_metal_detector_large
+Sat Oct  6 22:25:34 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:26:24 2018	Manager was killed by Adam Klein with a fas2_thrown_m67
+Sat Oct  6 22:26:25 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:26:38 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct  6 22:26:42 2018	John Mercy was killed by [Opi] Fat Gay with a weapon_pumpshotgun2
+Sat Oct  6 22:26:42 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:26:45 2018	[Opi] Fat Gay was killed by Valien with a cw_deagle
+Sat Oct  6 22:26:48 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 22:26:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:26:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto john
+Sat Oct  6 22:27:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto manag
+Sat Oct  6 22:27:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto summ
+Sat Oct  6 22:27:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto val
+Sat Oct  6 22:27:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring man
+Sat Oct  6 22:27:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !Bring jog
+Sat Oct  6 22:27:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring jo
+Sat Oct  6 22:27:39 2018	Manager was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 22:27:42 2018	Manager (STEAM_0:1:425940591): lol
+Sat Oct  6 22:27:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mana
+Sat Oct  6 22:27:50 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:27:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !Bring man
+Sat Oct  6 22:27:53 2018	Valien (STEAM_0:1:41660292) spawned SENT ent_metal_detector_large
+Sat Oct  6 22:28:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /dropmoney 50000
+Sat Oct  6 22:28:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has dropped $50,000
+Sat Oct  6 22:28:30 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:28:41 2018	John Mercy (STEAM_0:0:86025114): /advert Terrorist going up elevator!
+Sat Oct  6 22:28:42 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:28:54 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct  6 22:28:54 2018	[Opi] Fat Gay was killed by Adam Klein with a fas2_thrown_m67
+Sat Oct  6 22:28:55 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 22:28:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:29:03 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:29:31 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:29:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:29:47 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:29:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:29:57 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct  6 22:29:57 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:30:06 2018	Adam Klein was killed by Himself with a suicide trick
+Sat Oct  6 22:30:09 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 22:30:21 2018	Summerlin (STEAM_0:0:50036617): help
+Sat Oct  6 22:31:30 2018	John Mercy (STEAM_0:0:86025114): // If all the stuff is on, how is it going up?
+Sat Oct  6 22:31:44 2018	Adam Klein (STEAM_0:1:116765028) disconnected
+Sat Oct  6 22:31:52 2018	Summerlin (STEAM_0:0:50036617) disconnected
+Sat Oct  6 22:31:57 2018	Manager (STEAM_0:1:425940591): /rpname swatty boi
+Sat Oct  6 22:32:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc coolant may be off
+Sat Oct  6 22:33:00 2018	swatty boi was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 22:33:01 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:33:21 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:33:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:34:03 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:34:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:34:31 2018	[Opi] Fat Gay was killed by Valien with a cw_deagle
+Sat Oct  6 22:34:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:35:12 2018	John Mercy (STEAM_0:0:86025114): // No terrorist? Ok. Want to keep my props, but I wont use them and I go terrorist?
+Sat Oct  6 22:35:40 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 22:35:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc use advdupe2
+Sat Oct  6 22:35:50 2018	John Mercy (STEAM_0:0:86025114): // I will
+Sat Oct  6 22:35:53 2018	swatty boi (STEAM_0:1:425940591): checking the coolant no
+Sat Oct  6 22:35:54 2018	swatty boi (STEAM_0:1:425940591): w
+Sat Oct  6 22:35:59 2018	swatty boi (STEAM_0:1:425940591): now*
+Sat Oct  6 22:36:01 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:36:10 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:36:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:36:13 2018	swatty boi (STEAM_0:1:425940591): BOTH ARE CLOSED! I REPEAT BOTH ARE CLOSED
+Sat Oct  6 22:36:27 2018	swatty boi (STEAM_0:1:425940591): "OOC" would it be failrp for me to fix them
+Sat Oct  6 22:37:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto va
+Sat Oct  6 22:38:22 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:38:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:38:48 2018	swatty boi (STEAM_0:1:425940591): ?
+Sat Oct  6 22:38:57 2018	swatty boi (STEAM_0:1:425940591): why did it just tell me crash prevented
+Sat Oct  6 22:39:34 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:39:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT animprop_spawnacarrier
+Sat Oct  6 22:39:40 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:39:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:39:45 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:40:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:41:22 2018	Valien (STEAM_0:1:41660292): // eat
+Sat Oct  6 22:41:25 2018	Valien (STEAM_0:1:41660292): // dik
+Sat Oct  6 22:41:32 2018	swatty boi (STEAM_0:1:425940591): no u
+Sat Oct  6 22:42:12 2018	swatty boi was killed by Valien with a cw_m3super90
+Sat Oct  6 22:42:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:42:18 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:42:27 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:42:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:42:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:42:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:42:53 2018	swatty boi was killed by Entity [525][pill_ent_phys] with a pill_ent_phys
+Sat Oct  6 22:42:56 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:43:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:43:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:43:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:43:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:44:05 2018	swatty boi was killed by Himself with a suicide trick
+Sat Oct  6 22:44:06 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:44:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:44:11 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 22:44:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:44:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:44:48 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:45:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:45:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:45:34 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:45:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto john
+Sat Oct  6 22:45:41 2018	Valien (STEAM_0:1:41660292): !goto f
+Sat Oct  6 22:45:47 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:45:53 2018	Valien (STEAM_0:1:41660292): !goto f
+Sat Oct  6 22:45:55 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:46:28 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:46:30 2018	swatty boi (STEAM_0:1:425940591): /warden
+Sat Oct  6 22:46:40 2018	swatty boi (STEAM_0:1:425940591): man i can't get it
+Sat Oct  6 22:46:57 2018	John Mercy was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct  6 22:46:58 2018	John Mercy (STEAM_0:0:86025114) disconnected
+Sat Oct  6 22:47:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring va
+Sat Oct  6 22:47:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 22:47:25 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct  6 22:47:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 22:47:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:47:40 2018	swatty boi was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 22:47:41 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:48:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:48:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 22:48:24 2018	Valien (STEAM_0:1:41660292): 
+Sat Oct  6 22:48:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 22:48:51 2018	swatty boi was killed by Valien with a cw_m3super90
+Sat Oct  6 22:49:04 2018	[Opi] Fat Gay was killed by Valien with a cw_m3super90
+Sat Oct  6 22:49:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:49:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !GOTO BSA
+Sat Oct  6 22:49:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto va
+Sat Oct  6 22:49:21 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:49:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:49:36 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:49:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:49:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:49:41 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:49:42 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:49:43 2018	Valien (STEAM_0:1:41660292): !goto f
+Sat Oct  6 22:49:46 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:49:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:49:56 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:50:04 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:50:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:50:07 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:50:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:50:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto va
+Sat Oct  6 22:50:16 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 22:50:25 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:50:26 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:50:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:50:40 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:50:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:50:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:50:51 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:50:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:50:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:51:00 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:51:00 2018	Valien (STEAM_0:1:41660292) disconnected
+Sat Oct  6 22:51:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:51:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:51:05 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:51:14 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:51:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:51:18 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:51:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:51:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:51:38 2018	[Opi] Fat Gay was killed by swatty boi with a pill_wep_pro
+Sat Oct  6 22:51:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:51:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swa
+Sat Oct  6 22:51:47 2018	[Opi] Fat Gay was killed by swatty boi with a pill_wep_pro
+Sat Oct  6 22:51:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:51:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:51:54 2018	[Opi] Fat Gay was killed by swatty boi with a pill_wep_pro
+Sat Oct  6 22:51:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:51:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:52:05 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:52:06 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:52:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:52:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:52:37 2018	[Opi] Fat Gay was killed by swatty boi with a pill_wep_pro
+Sat Oct  6 22:52:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:52:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:52:47 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:52:47 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:53:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:53:11 2018	[Opi] Fat Gay was killed by swatty boi with a pill_wep_pro
+Sat Oct  6 22:53:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:53:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:53:19 2018	[Opi] Fat Gay was killed by swatty boi with a pill_wep_pro
+Sat Oct  6 22:53:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:53:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:53:29 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:53:29 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:53:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:53:43 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:53:45 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:53:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:53:51 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:53:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:53:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:53:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 22:54:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:54:03 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:54:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:54:08 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:54:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:54:21 2018	swatty boi was killed by [Opi] Fat Gay with a pill_wep_pro
+Sat Oct  6 22:54:22 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:54:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:54:51 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:54:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:54:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:54:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:54:59 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:55:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:55:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto sww
+Sat Oct  6 22:55:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto sw
+Sat Oct  6 22:55:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:55:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:55:35 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:55:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:55:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:55:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:56:19 2018	swatty boi was killed by Himself with a suicide trick
+Sat Oct  6 22:56:21 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:56:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:57:11 2018	swatty boi was killed by Entity [2750][func_rotating] with a func_rotating
+Sat Oct  6 22:57:11 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 22:57:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 22:57:37 2018	[Opi] Fat Gay was killed by swatty boi with a cw_scarh
+Sat Oct  6 22:57:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:57:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:57:46 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:57:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:57:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:57:54 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 22:57:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:57:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:58:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:58:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:58:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:58:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:58:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:59:01 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 22:59:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:59:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 22:59:38 2018	[Opi] Fat Gay was killed by swatty boi with a fas2_machete
+Sat Oct  6 22:59:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 22:59:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 23:00:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:00:18 2018	[Opi] Fat Gay was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:00:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:00:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto wot
+Sat Oct  6 23:00:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 23:00:56 2018	swatty boi was killed by [Opi] Fat Gay with a unknown
+Sat Oct  6 23:00:58 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:01:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:01:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swa
+Sat Oct  6 23:01:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:01:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:01:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:02:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:02:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:02:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:02:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 23:02:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:02:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:03:31 2018	swatty boi was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:03:32 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:03:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 23:04:18 2018	swatty boi was killed by Himself with a suicide trick
+Sat Oct  6 23:04:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:04:30 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:04:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:04:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:04:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 23:04:55 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 23:04:55 2018	swatty boi was killed by [Opi] Fat Gay with a env_explosion
+Sat Oct  6 23:04:58 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:04:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:05:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swag
+Sat Oct  6 23:05:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swa
+Sat Oct  6 23:06:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:07:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:07:40 2018	swatty boi was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:07:41 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:07:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:07:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:07:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 23:08:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:08:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp & 1000
+Sat Oct  6 23:08:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp ^ 1000
+Sat Oct  6 23:09:52 2018	[Opi] Fat Gay was killed by swatty boi with a cw_scarh
+Sat Oct  6 23:09:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:10:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto swat
+Sat Oct  6 23:10:32 2018	Craftygarrett (STEAM_0:1:184775407): // hi
+Sat Oct  6 23:10:38 2018	Craftygarrett (STEAM_0:1:184775407): // hello
+Sat Oct  6 23:10:38 2018	swatty boi (STEAM_0:1:218173703): /ooc hi!
+Sat Oct  6 23:10:45 2018	Craftygarrett (STEAM_0:1:184775407): // ok i cant spawn
+Sat Oct  6 23:10:50 2018	swatty boi (STEAM_0:1:218173703): /ooc we are having a slight glitch
+Sat Oct  6 23:10:55 2018	Craftygarrett (STEAM_0:1:184775407): // ok
+Sat Oct  6 23:10:58 2018	swatty boi (STEAM_0:1:218173703): /ooc simply pick a job and jump into the pit
+Sat Oct  6 23:11:00 2018	swatty boi (STEAM_0:1:425940591): just press f4
+Sat Oct  6 23:11:04 2018	swatty boi (STEAM_0:1:218173703): /ooc then it fixes it
+Sat Oct  6 23:11:05 2018	swatty boi (STEAM_0:1:425940591): and pick a job
+Sat Oct  6 23:11:07 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:11:09 2018	[Opi] Fat Gay was killed by swatty boi with a cw_mr96
+Sat Oct  6 23:11:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:11:13 2018	Craftygarrett (STEAM_0:1:184775407): // good now
+Sat Oct  6 23:11:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc cool
+Sat Oct  6 23:11:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc sorry about that
+Sat Oct  6 23:11:24 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:11:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the medic defibrilator seems gltichy
+Sat Oct  6 23:11:47 2018	Craftygarrett (STEAM_0:1:184775407): // it does and im 049
+Sat Oct  6 23:11:47 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:12:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:12:11 2018	swatty boi (STEAM_0:1:425940591): im on fire
+Sat Oct  6 23:12:11 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:12:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc swatty boi go researcher
+Sat Oct  6 23:12:21 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:12:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc dont go cinema owner idk why thats tehre
+Sat Oct  6 23:12:30 2018	swatty boi (STEAM_0:1:425940591): chicken butt
+Sat Oct  6 23:12:35 2018	Craftygarrett (STEAM_0:1:184775407): // ooh  yay pizza
+Sat Oct  6 23:12:43 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:12:45 2018	swatty boi (STEAM_0:1:425940591): wait can you go -49 again?
+Sat Oct  6 23:12:49 2018	swatty boi (STEAM_0:1:425940591): 049
+Sat Oct  6 23:13:22 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:13:37 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:13:52 2018	[Opi] Fat Gay was killed by swatty boi with a weapon_sillyzombieclaw_v2
+Sat Oct  6 23:13:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:14:19 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:14:58 2018	Craftygarrett (STEAM_0:1:184775407): 4198
+Sat Oct  6 23:15:10 2018	Craftygarrett (STEAM_0:1:184775407): // so does that code really work
+Sat Oct  6 23:15:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yup
+Sat Oct  6 23:15:20 2018	Craftygarrett (STEAM_0:1:184775407): // nut
+Sat Oct  6 23:15:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc to save the core
+Sat Oct  6 23:15:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc more on that when that core temp gets to that ')
+Sat Oct  6 23:15:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ;)
+Sat Oct  6 23:15:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i was gonna say you guys hunt me down
+Sat Oct  6 23:15:50 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:16:19 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:16:34 2018	Craftygarrett (STEAM_0:1:184775407): // so
+Sat Oct  6 23:16:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swat
+Sat Oct  6 23:17:00 2018	swatty boi (STEAM_0:1:425940591): why was i forced as a scp
+Sat Oct  6 23:17:16 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:17:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sat Oct  6 23:20:05 2018	swatty boi was killed by Craftygarrett with a cw_deagle
+Sat Oct  6 23:20:06 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:20:16 2018	swatty boi (STEAM_0:1:425940591): still neither of you can turn it off
+Sat Oct  6 23:20:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring swa
+Sat Oct  6 23:21:41 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:22:01 2018	swatty boi (STEAM_0:1:425940591): SHUT THE F**K UP
+Sat Oct  6 23:22:14 2018	[Opi] Fat Gay was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:22:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:23:09 2018	swatty boi was killed by Himself with a suicide trick
+Sat Oct  6 23:23:09 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:23:11 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:23:27 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 23:23:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:23:28 2018	swatty boi (STEAM_0:1:425940591): is there nlr in this server?
+Sat Oct  6 23:23:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Sat Oct  6 23:25:02 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:25:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:25:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp * 200
+Sat Oct  6 23:26:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Sat Oct  6 23:27:24 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 23:27:31 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 23:27:39 2018	swatty boi was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:27:40 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:29:52 2018	swatty boi was killed by Himself with a suicide trick
+Sat Oct  6 23:29:52 2018	[Opi] Fat Gay was killed by swatty boi with a env_explosion
+Sat Oct  6 23:29:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:29:54 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:29:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gartr
+Sat Oct  6 23:30:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Sat Oct  6 23:30:13 2018	[Opi] Fat Gay was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:30:13 2018	swatty boi was killed by Entity [4930][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:30:13 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 23:30:13 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:15 2018	swatty boi (STEAM_0:1:425940591) spawned
+Sat Oct  6 23:30:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:30:19 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:21 2018	[Opi] Fat Gay was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:30:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc rip
+Sat Oct  6 23:30:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:30:24 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc we didnt make it out in time
+Sat Oct  6 23:30:28 2018	[Opi] Fat Gay was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:30:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 23:30:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:34 2018	[Opi] Fat Gay was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct  6 23:30:35 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:38 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 23:30:41 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:42 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:42 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:43 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:43 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:43 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:43 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:44 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 23:30:44 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:44 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:45 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:45 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:45 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:46 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:46 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:46 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:46 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:46 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Sat Oct  6 23:30:47 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:47 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:47 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:48 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:48 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:48 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:49 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:49 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:49 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:49 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:50 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:50 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:50 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:51 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sat Oct  6 23:30:51 2018	HellBoy9000 (STEAM_0:0:200061148) spawned

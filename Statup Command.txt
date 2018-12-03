@@ -1,0 +1,1 @@
+./srcds_run -game garrysmod -console -port 27015 -strictportbind -norestart +maxplayers 64 +gamemode powerplantrp +map rp_powerplant_v2b3 -tickrate 22 +rcon_password fuckoff +r_hunkalloclightmaps 0 -disableluarefresh

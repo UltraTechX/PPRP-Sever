@@ -1,0 +1,14 @@
+Tue Oct  9 13:10:55 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Tue Oct  9 13:10:55 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 13:11:54 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 13:12:20 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Tue Oct  9 13:12:33 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Tue Oct  9 14:35:42 2018	Nazeem (STEAM_0:0:69668875) has joined the game
+Tue Oct  9 14:35:42 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 14:37:25 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 14:50:23 2018	Nazeem was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Tue Oct  9 14:50:25 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 14:58:52 2018	Nazeem (STEAM_0:0:69668875): 4198
+Tue Oct  9 15:00:20 2018	Nazeem (STEAM_0:0:69668875) spawned
+Tue Oct  9 15:10:05 2018	Nazeem was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Tue Oct  9 15:10:07 2018	Nazeem (STEAM_0:0:69668875) spawned

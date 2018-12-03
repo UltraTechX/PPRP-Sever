@@ -1,0 +1,538 @@
+Sun Oct  7 19:34:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 19:34:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 19:35:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !cac
+Sun Oct  7 19:36:34 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct  7 19:36:34 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 19:36:54 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 19:36:54 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:37:15 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 19:37:15 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 19:37:53 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Sun Oct  7 19:37:53 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:38:20 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 19:38:21 2018	me The Overseer (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:38:34 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Sun Oct  7 19:38:34 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:38:35 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:38:45 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sun Oct  7 19:38:45 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 19:38:48 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 19:38:49 2018	[G.E.W.P] turkeyman (STEAM_0:0:65254791) has joined the game
+Sun Oct  7 19:38:49 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:39:10 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 19:39:16 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:39:25 2018	Sammy Boom (STEAM_0:0:91181601): !datasave
+Sun Oct  7 19:39:26 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:39:30 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 19:39:38 2018	Sammy Boom (STEAM_0:0:91181601): !datasave
+Sun Oct  7 19:40:06 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:40:16 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 19:40:16 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:40:28 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 19:40:48 2018	John Johnson (STEAM_0:0:65254791): // Backer
+Sun Oct  7 19:41:00 2018	Chickswithdicks (STEAM_0:1:86800123): // cressida dick
+Sun Oct  7 19:41:00 2018	Sammy Boom (STEAM_0:0:91181601): // Anyone wanna play chess with me?
+Sun Oct  7 19:41:01 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:41:09 2018	Chickswithdicks (STEAM_0:1:86800123): // no
+Sun Oct  7 19:41:12 2018	Sammy Boom (STEAM_0:0:91181601): // aw
+Sun Oct  7 19:41:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert SCP 049 TEST STARTING IN 10 MINS
+Sun Oct  7 19:41:25 2018	Lukyn Red (STEAM_0:0:81441026): !workshop
+Sun Oct  7 19:41:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 19:41:31 2018	John Johnson (STEAM_0:0:65254791): Well hello.
+Sun Oct  7 19:41:38 2018	me The Overseer (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:41:43 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:42:05 2018	Chickswithdicks (STEAM_0:1:86800123): // where tho
+Sun Oct  7 19:42:14 2018	Sammy Boom (STEAM_0:0:91181601): // Is there anything specific Engineer needs to do or do I just fix whatever's broken
+Sun Oct  7 19:42:24 2018	John Johnson (STEAM_0:0:65254791): /y Well.
+Sun Oct  7 19:42:28 2018	Sammy Boom (STEAM_0:0:91181601) disconnected
+Sun Oct  7 19:42:29 2018	John Johnson (STEAM_0:0:65254791): /y My oh my.
+Sun Oct  7 19:42:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc do passive rp "break" things and "fix" them
+Sun Oct  7 19:42:43 2018	John Johnson (STEAM_0:0:65254791): 3431
+Sun Oct  7 19:42:48 2018	John Johnson (STEAM_0:0:65254791): Move aside
+Sun Oct  7 19:42:52 2018	Chickswithdicks (STEAM_0:1:86800123): // where is the terrorist
+Sun Oct  7 19:43:05 2018	me The Overseer (STEAM_0:1:444450075): want a tour
+Sun Oct  7 19:43:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sun Oct  7 19:43:13 2018	Pootis Bird (STEAM_0:0:22086175): Sure why not.
+Sun Oct  7 19:43:25 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:43:26 2018	me The Overseer (STEAM_0:1:444450075): i will read you the rules
+Sun Oct  7 19:43:39 2018	me The Overseer (STEAM_0:1:444450075): Do not touch eny thing
+Sun Oct  7 19:43:52 2018	me The Overseer (STEAM_0:1:444450075): Do not go eny were with out me
+Sun Oct  7 19:44:13 2018	me The Overseer (STEAM_0:1:444450075): And last one Have fun
+Sun Oct  7 19:44:21 2018	Pootis Bird (STEAM_0:0:22086175): Nice, alright.
+Sun Oct  7 19:44:22 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:44:22 2018	John Johnson (STEAM_0:0:65254791): !Donate
+Sun Oct  7 19:44:23 2018	Dave Letcher (STEAM_0:1:52038966): // I need security
+Sun Oct  7 19:44:28 2018	Dave Letcher (STEAM_0:1:52038966): // or SWAT
+Sun Oct  7 19:44:28 2018	Chickswithdicks (STEAM_0:1:86800123): // He doesnt
+Sun Oct  7 19:44:29 2018	TempusBilBoJo (STEAM_0:0:204382926): // Where is thee cinema
+Sun Oct  7 19:44:35 2018	Lukyn Red (STEAM_0:0:81441026): // nowhere
+Sun Oct  7 19:44:41 2018	TempusBilBoJo (STEAM_0:0:204382926): // okay
+Sun Oct  7 19:44:43 2018	Adam Klein (STEAM_0:1:116765028): /pm chicks test
+Sun Oct  7 19:44:43 2018	Chickswithdicks (STEAM_0:1:86800123): // Its like right there ya know
+Sun Oct  7 19:44:47 2018	Lukyn Red (STEAM_0:0:81441026): // you can buy a screen in entities
+Sun Oct  7 19:44:48 2018	me The Overseer (STEAM_0:1:444450075): i am Mr barns i be your guide today
+Sun Oct  7 19:44:53 2018	me The Overseer (STEAM_0:1:444450075): /Name Mr Barns
+Sun Oct  7 19:44:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cinema owner was a oversight on my part + youtube still broken
+Sun Oct  7 19:45:00 2018	Sabers Lose Again (STEAM_0:1:43190488) has joined the game
+Sun Oct  7 19:45:00 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:45:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /pm adam testr
+Sun Oct  7 19:45:17 2018	John Johnson (STEAM_0:0:65254791): Oh dear.
+Sun Oct  7 19:45:20 2018	John Johnson (STEAM_0:0:65254791): Why so?
+Sun Oct  7 19:45:29 2018	John Johnson (STEAM_0:0:65254791): Ok.
+Sun Oct  7 19:45:35 2018	John Johnson (STEAM_0:0:65254791): I'll keep my eyes peeled.
+Sun Oct  7 19:45:43 2018	John Johnson (STEAM_0:0:65254791): Oh.
+Sun Oct  7 19:45:48 2018	John Johnson (STEAM_0:0:65254791): Well that changes things.
+Sun Oct  7 19:45:50 2018	Adam Klein (STEAM_0:1:116765028): /pm fat If you can see this, type one in the chat.
+Sun Oct  7 19:45:52 2018	John Johnson (STEAM_0:0:65254791): How can I help?
+Sun Oct  7 19:45:56 2018	Pootis Bird (STEAM_0:0:22086175): haha
+Sun Oct  7 19:45:58 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sun Oct  7 19:45:58 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 19:45:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 1
+Sun Oct  7 19:46:02 2018	John Johnson (STEAM_0:0:65254791): Oh right.
+Sun Oct  7 19:46:06 2018	Chickswithdicks (STEAM_0:1:86800123): /name DixBFloppin
+Sun Oct  7 19:46:09 2018	TempusBilBoJo (STEAM_0:0:204382926): Why hello FAT MANN
+Sun Oct  7 19:46:13 2018	Dave Letcher (STEAM_0:1:52038966): // I Need SWAT here and to the core
+Sun Oct  7 19:46:14 2018	John Johnson (STEAM_0:0:65254791): Well that makes sense. Wait a second.
+Sun Oct  7 19:46:17 2018	DixBFloppin (STEAM_0:1:86800123): // Lies
+Sun Oct  7 19:46:19 2018	Mr Barns (STEAM_0:1:444450075): first place will be the labs
+Sun Oct  7 19:46:26 2018	John Johnson (STEAM_0:0:65254791): /y Fat.
+Sun Oct  7 19:46:32 2018	John Johnson (STEAM_0:0:65254791): /y It's the Director.
+Sun Oct  7 19:46:33 2018	Sammy Boom (STEAM_0:0:91181601): // what
+Sun Oct  7 19:46:46 2018	Lukyn Red (STEAM_0:0:81441026): s
+Sun Oct  7 19:46:54 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 19:46:54 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:46:55 2018	Lukyn Red (STEAM_0:0:81441026): /name Lukyn Red
+Sun Oct  7 19:47:00 2018	Mr Barns (STEAM_0:1:444450075): not mucth here
+Sun Oct  7 19:47:17 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 19:47:17 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:47:21 2018	Dave Letcher (STEAM_0:1:52038966): // SWAT IS NEEDED NOW
+Sun Oct  7 19:47:46 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:47:46 2018	DixBFloppin (STEAM_0:1:86800123): // You know the song let it die?
+Sun Oct  7 19:47:54 2018	DixBFloppin (STEAM_0:1:86800123): // Just start singing that
+Sun Oct  7 19:47:56 2018	John Johnson (STEAM_0:0:65254791): Well then.
+Sun Oct  7 19:47:59 2018	Mike (STEAM_0:1:41660292): // we talking foo fighters?
+Sun Oct  7 19:48:00 2018	John Johnson (STEAM_0:0:65254791): This is unique.
+Sun Oct  7 19:48:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 049 TEST IN 3 MINS, IF YOU WANT A TP SAY SO
+Sun Oct  7 19:48:03 2018	Mike (STEAM_0:1:41660292): !goto f
+Sun Oct  7 19:48:04 2018	Adam Klein (STEAM_0:1:116765028): /pm dix Hey, I am trapped in the research lab, If you free me I will rise an army to help you Jehad.
+Sun Oct  7 19:48:04 2018	John Johnson (STEAM_0:0:65254791): All of you follow me.
+Sun Oct  7 19:48:07 2018	Mike (STEAM_0:1:41660292): !goto f
+Sun Oct  7 19:48:20 2018	DixBFloppin (STEAM_0:1:86800123): // How are you stuck lol
+Sun Oct  7 19:48:22 2018	Sammy Boom (STEAM_0:0:91181601): // whats that alarm for
+Sun Oct  7 19:48:26 2018	John Johnson (STEAM_0:0:65254791): Well.
+Sun Oct  7 19:48:29 2018	John Johnson (STEAM_0:0:65254791): Look around.
+Sun Oct  7 19:48:31 2018	DixBFloppin (STEAM_0:1:86800123): // Chicks with dicks
+Sun Oct  7 19:48:31 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 19:48:37 2018	DixBFloppin (STEAM_0:1:86800123): // Better run
+Sun Oct  7 19:48:37 2018	John Johnson (STEAM_0:0:65254791): This is your new testing area.
+Sun Oct  7 19:48:47 2018	DixBFloppin (STEAM_0:1:86800123): // it'll turn you gay
+Sun Oct  7 19:48:48 2018	Mr Barns (STEAM_0:1:444450075): she on a tour with me 
+Sun Oct  7 19:48:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc that was the portal alarm
+Sun Oct  7 19:48:55 2018	John Johnson (STEAM_0:0:65254791): Well.
+Sun Oct  7 19:49:08 2018	John Johnson (STEAM_0:0:65254791): I hate to do this.
+Sun Oct  7 19:49:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 049 TEST STARTING NOW
+Sun Oct  7 19:49:11 2018	Adam Klein (STEAM_0:1:116765028): /pm dix, I am stuck in my 049 cage right now. 
+Sun Oct  7 19:49:15 2018	Mr Barns (STEAM_0:1:444450075): let my tour person in here
+Sun Oct  7 19:49:15 2018	John Johnson (STEAM_0:0:65254791): But please retunr to your cell.
+Sun Oct  7 19:49:21 2018	TempusBilBoJo was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Sun Oct  7 19:49:21 2018	John Johnson (STEAM_0:0:65254791): And I'll let you out more.
+Sun Oct  7 19:49:22 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:49:32 2018	Lukyn Red (STEAM_0:0:81441026): !donate
+Sun Oct  7 19:49:39 2018	Mr Barns (STEAM_0:1:444450075): fuck him
+Sun Oct  7 19:49:42 2018	Lukyn Red (STEAM_0:0:81441026): /pm fat type !donate in chat
+Sun Oct  7 19:49:47 2018	Mr Barns (STEAM_0:1:444450075): THAT MY TOUR PERSON
+Sun Oct  7 19:50:00 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:50:03 2018	Mr Barns (STEAM_0:1:444450075): FUCK YOU GIVE EM BACK MY TOUR PERSON
+Sun Oct  7 19:50:10 2018	Pootis Bird (STEAM_0:0:22086175): Ill participate I guess
+Sun Oct  7 19:50:25 2018	John Johnson (STEAM_0:0:65254791): Ah, thanks.
+Sun Oct  7 19:50:38 2018	Mr Barns (STEAM_0:1:444450075): I swear if he dies i will suio you
+Sun Oct  7 19:50:44 2018	John Johnson (STEAM_0:0:65254791): I finished 3431's test area.
+Sun Oct  7 19:50:45 2018	TempusBilBoJo (STEAM_0:0:204382926): !MOTD
+Sun Oct  7 19:50:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring sam
+Sun Oct  7 19:50:48 2018	Mr Barns (STEAM_0:1:444450075): i will sue you if he died
+Sun Oct  7 19:51:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /pm sammy when i push the button place sparks on the button so its "broken"
+Sun Oct  7 19:51:18 2018	Sammy Boom (STEAM_0:0:91181601): Nice top-hat good sir
+Sun Oct  7 19:51:22 2018	John Johnson (STEAM_0:0:65254791): Thanks Chap.
+Sun Oct  7 19:51:29 2018	Sammy Boom (STEAM_0:0:91181601): "when I..."?
+Sun Oct  7 19:51:30 2018	TempusBilBoJo was killed by Entity [2443][func_movelinear] with a func_movelinear
+Sun Oct  7 19:51:33 2018	Mr Barns (STEAM_0:1:444450075): if my tour perosn dies i will not be happy
+Sun Oct  7 19:51:34 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:51:50 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 19:51:51 2018	Mr Barns (STEAM_0:1:444450075): stay away i wil BEAT YOU 049
+Sun Oct  7 19:51:57 2018	Lukyn Red (STEAM_0:0:81441026): // Someone might wanna look at the core
+Sun Oct  7 19:51:59 2018	Mr Barns (STEAM_0:1:444450075): I WILL FUCKING BEAT YOU
+Sun Oct  7 19:52:06 2018	Lukyn Red (STEAM_0:0:81441026): // it's heating up
+Sun Oct  7 19:52:12 2018	Mr Barns (STEAM_0:1:444450075): TURN HIM BACK
+Sun Oct  7 19:52:12 2018	John Johnson (STEAM_0:0:65254791): Dear god.
+Sun Oct  7 19:52:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 049 BREACHED
+Sun Oct  7 19:52:20 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:52:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert WE NEED SWAT AND CBRN ASAP
+Sun Oct  7 19:52:33 2018	DixBFloppin (STEAM_0:1:86800123): // Thats gay
+Sun Oct  7 19:52:36 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:52:37 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:52:41 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:52:47 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:52:50 2018	Mr Barns was killed by Pootis Bird with a weapon_sillyzombieclaw_v2
+Sun Oct  7 19:52:52 2018	John Johnson (STEAM_0:0:65254791): /a We need CBRN right now!
+Sun Oct  7 19:52:54 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:52:54 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:53:04 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:53:04 2018	Dave Letcher (STEAM_0:1:52038966): // CRBN AND SWAT ARE TO GET ON FACILITY NOW
+Sun Oct  7 19:53:09 2018	Sabers Lose Again (STEAM_0:1:43190488): Right, no clue what im doing
+Sun Oct  7 19:53:13 2018	Jardarn (STEAM_0:0:168631815) has joined the game
+Sun Oct  7 19:53:13 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 19:53:13 2018	Sabers Lose Again (STEAM_0:1:43190488): Lets go
+Sun Oct  7 19:53:19 2018	Dave Letcher (STEAM_0:1:52038966): // WE HAVE AN 049 BREACH AT THE CONTAINMENT CELLS
+Sun Oct  7 19:53:22 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:53:23 2018	DixBFloppin (STEAM_0:1:86800123): // Thats gay
+Sun Oct  7 19:53:27 2018	John Johnson was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 19:53:29 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:53:33 2018	Sabers Lose Again (STEAM_0:1:43190488): Hmm?
+Sun Oct  7 19:53:33 2018	John Johnson (STEAM_0:0:65254791): // Uh.
+Sun Oct  7 19:53:40 2018	Dave Letcher (STEAM_0:1:52038966): // PLANT WORKERS ARE TO SOLVE THE CORE ISSUE
+Sun Oct  7 19:53:48 2018	Sammy Boom (STEAM_0:0:91181601): I was about ot fix it
+Sun Oct  7 19:53:50 2018	Sammy Boom (STEAM_0:0:91181601): then I got brought here
+Sun Oct  7 19:53:59 2018	John Johnson was killed by TempusBilBoJo with a weapon_sillyzombieclaw_v2
+Sun Oct  7 19:53:59 2018	Sammy Boom (STEAM_0:0:91181601): // Can I be returned yet
+Sun Oct  7 19:54:00 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:54:10 2018	Sammy Boom (STEAM_0:0:91181601): I was fixing the core
+Sun Oct  7 19:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 19:54:16 2018	Mr Barns (STEAM_0:1:444450075): // TP ME i have some un finsih bussnis
+Sun Oct  7 19:54:20 2018	DixBFloppin (STEAM_0:1:86800123): // Honestly
+Sun Oct  7 19:54:25 2018	DixBFloppin (STEAM_0:1:86800123): // I have no Idea where it is
+Sun Oct  7 19:54:26 2018	Mr Barns (STEAM_0:1:444450075): \\ that may mean killing ppl
+Sun Oct  7 19:54:40 2018	Sammy Boom (STEAM_0:0:91181601): // oh well it looks like someone was trying to destroy the facility...
+Sun Oct  7 19:54:46 2018	DixBFloppin (STEAM_0:1:86800123): // That'd be me
+Sun Oct  7 19:54:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 049 AND 3431 HAS BREACHED!
+Sun Oct  7 19:54:53 2018	John Johnson (STEAM_0:0:65254791): Ah, 3431.
+Sun Oct  7 19:54:57 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:55:24 2018	John Johnson (STEAM_0:0:65254791): /a I am trapped in my office.
+Sun Oct  7 19:55:25 2018	Sammy Boom (STEAM_0:0:91181601): 
+Sun Oct  7 19:55:30 2018	Sammy Boom (STEAM_0:0:91181601): @ woops
+Sun Oct  7 19:55:33 2018	Dave Letcher (STEAM_0:1:52038966): // Engineer whats teh core situation
+Sun Oct  7 19:55:38 2018	Sammy Boom (STEAM_0:0:91181601): // Chickswithdicks,you forgot one major aspect of the core though
+Sun Oct  7 19:55:40 2018	John Johnson (STEAM_0:0:65254791): /a We need CBRN down here right now before I blow a fuse.
+Sun Oct  7 19:55:42 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 19:55:42 2018	Sammy Boom (STEAM_0:0:91181601): I accidentally sent that
+Sun Oct  7 19:55:46 2018	Sabers Lose Again was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 19:55:47 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:55:50 2018	DixBFloppin (STEAM_0:1:86800123): what
+Sun Oct  7 19:55:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 19:55:55 2018	Sammy Boom (STEAM_0:0:91181601): // It has coolant and a huge ass fan
+Sun Oct  7 19:55:56 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:56:08 2018	DixBFloppin (STEAM_0:1:86800123): ur gay
+Sun Oct  7 19:56:18 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:56:33 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:56:38 2018	DixBFloppin was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 19:56:39 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:56:45 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:57:16 2018	John Johnson (STEAM_0:0:65254791): /a Core Fan is online.
+Sun Oct  7 19:57:21 2018	DixBFloppin (STEAM_0:1:86800123): //How much hp does the SPC's have
+Sun Oct  7 19:57:32 2018	John Johnson was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 19:57:33 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:57:37 2018	Sabers Lose Again (STEAM_0:1:43190488): So
+Sun Oct  7 19:57:41 2018	Mr Barns (STEAM_0:1:444450075): // can i be let free
+Sun Oct  7 19:57:44 2018	DixBFloppin (STEAM_0:1:86800123): // no
+Sun Oct  7 19:57:47 2018	Sabers Lose Again (STEAM_0:1:43190488): SCP's are in a Nuclear Power Plant
+Sun Oct  7 19:57:49 2018	Sabers Lose Again (STEAM_0:1:43190488): What
+Sun Oct  7 19:57:53 2018	DixBFloppin (STEAM_0:1:86800123): no
+Sun Oct  7 19:57:56 2018	Jardarn was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 19:57:57 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 19:57:57 2018	DixBFloppin (STEAM_0:1:86800123): u gay
+Sun Oct  7 19:58:02 2018	Lukyn Red was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct  7 19:58:04 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:58:10 2018	John Johnson was killed by Lukyn Red with a eoti_raven_swep
+Sun Oct  7 19:58:13 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:58:15 2018	Sammy Boom (STEAM_0:0:91181601): /advert Core Temp has stabilized a bit
+Sun Oct  7 19:58:17 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:58:28 2018	Sabers Lose Again was killed by Lukyn Red with a eoti_raven_swep
+Sun Oct  7 19:58:29 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 19:58:32 2018	John Johnson (STEAM_0:0:65254791): /a Dear god can CBRN be any fucking slower?
+Sun Oct  7 19:58:34 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 19:58:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert COOLANT FLOOD GATES ARE NOW OPENING, FLOODING THE CORE WITH COOLANT!
+Sun Oct  7 19:58:38 2018	Dave Letcher (STEAM_0:1:52038966): // They're inally here
+Sun Oct  7 19:58:39 2018	A Random Commie (STEAM_0:0:75867497) has joined the game
+Sun Oct  7 19:58:39 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 19:58:40 2018	Jardarn (STEAM_0:0:168631815): hey
+Sun Oct  7 19:58:42 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 19:58:45 2018	DixBFloppin (STEAM_0:1:86800123): shut up
+Sun Oct  7 19:59:01 2018	DixBFloppin (STEAM_0:1:86800123): you looked like a monter
+Sun Oct  7 19:59:02 2018	Pootis Bird (STEAM_0:0:22086175): k
+Sun Oct  7 19:59:07 2018	Jardarn was killed by Entity [5134][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 19:59:07 2018	Sammy Boom (STEAM_0:0:91181601): // Does the generator lower or highten the core temp
+Sun Oct  7 19:59:08 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 19:59:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn dix att rdm
+Sun Oct  7 19:59:22 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 19:59:24 2018	A Random Commie (STEAM_0:0:75867497): // what
+Sun Oct  7 19:59:35 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 19:59:37 2018	DixBFloppin was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sun Oct  7 19:59:38 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 19:59:41 2018	A Random Commie (STEAM_0:0:75867497): yo
+Sun Oct  7 19:59:42 2018	A Random Commie (STEAM_0:0:75867497): dude
+Sun Oct  7 19:59:44 2018	Sabers Lose Again (STEAM_0:1:43190488): Ye
+Sun Oct  7 19:59:53 2018	[Opi] Fat Gay was killed by Lukyn Red with a eoti_raven_swep
+Sun Oct  7 19:59:56 2018	A Random Commie (STEAM_0:0:75867497): im new here can ya tell me like basics or some shit
+Sun Oct  7 20:00:02 2018	Sabers Lose Again (STEAM_0:1:43190488): So am I.
+Sun Oct  7 20:00:03 2018	DixBFloppin (STEAM_0:1:86800123): // Kill alot of people
+Sun Oct  7 20:00:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 20:00:10 2018	John Johnson (STEAM_0:0:65254791): Run.
+Sun Oct  7 20:00:10 2018	DixBFloppin (STEAM_0:1:86800123): // Basically
+Sun Oct  7 20:00:11 2018	John Johnson was killed by Mr Barns with a cw_fiveseven
+Sun Oct  7 20:00:13 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:00:15 2018	DixBFloppin (STEAM_0:1:86800123): // I'd go terrorist
+Sun Oct  7 20:00:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert ALL 3 SCP's HAVE BREACHED, RUN!
+Sun Oct  7 20:00:30 2018	Dave Letcher was killed by Entity [1375][prop_combine_ball] with a prop_combine_ball
+Sun Oct  7 20:00:31 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:00:35 2018	John Johnson (STEAM_0:0:65254791): Dear god.
+Sun Oct  7 20:00:42 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:00:43 2018	Mr Barns was killed by Lukyn Red with a eoti_raven_swep
+Sun Oct  7 20:00:44 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:00:50 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:00:57 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 20:01:03 2018	A Random Commie (STEAM_0:0:75867497): cpy
+Sun Oct  7 20:01:04 2018	Sabers Lose Again was killed by Entity [5143][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:01:04 2018	DixBFloppin was killed by Entity [5111][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:01:07 2018	DixBFloppin (STEAM_0:1:86800123): // Nice
+Sun Oct  7 20:01:08 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 20:01:15 2018	Mr Barns (STEAM_0:1:444450075): // allways works
+Sun Oct  7 20:01:21 2018	[Opi] Fat Gay was killed by Mike with a weapon_sillyzombieclaw_v2
+Sun Oct  7 20:01:22 2018	John Johnson was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 20:01:23 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:01:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 20:01:36 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 20:01:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring jo
+Sun Oct  7 20:01:43 2018	A Random Commie (STEAM_0:0:75867497): yo
+Sun Oct  7 20:01:44 2018	Lukyn Red (STEAM_0:0:81441026): you are dead
+Sun Oct  7 20:01:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 20:01:49 2018	A Random Commie (STEAM_0:0:75867497): you vape?
+Sun Oct  7 20:01:55 2018	Mr Barns was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:01:57 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 20:01:57 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:02:01 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:02:03 2018	Dave Letcher (STEAM_0:1:52038966): // where the fuck where youi
+Sun Oct  7 20:02:04 2018	John Johnson was killed by Pootis Bird with a weapon_sillyzombieclaw_v2
+Sun Oct  7 20:02:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 20:02:05 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:02:09 2018	Mr Barns (STEAM_0:1:444450075): i got a bombe
+Sun Oct  7 20:02:13 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 20:02:28 2018	Mr Barns was killed by DixBFloppin with a cw_g3a3
+Sun Oct  7 20:02:29 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:02:30 2018	Dave Letcher was killed by Lukyn Red with a eoti_raven_swep
+Sun Oct  7 20:02:32 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:02:36 2018	John Johnson (STEAM_0:0:65254791): Oh dear.
+Sun Oct  7 20:02:37 2018	Mr Barns was killed by Entity [5153][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:02:39 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:02:44 2018	A Random Commie (STEAM_0:0:75867497): wtf?
+Sun Oct  7 20:02:47 2018	Mr Barns was killed by A Random Commie with a cw_l115
+Sun Oct  7 20:02:48 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:02:55 2018	DixBFloppin (STEAM_0:1:86800123): // can you not
+Sun Oct  7 20:02:56 2018	Dave Letcher (STEAM_0:1:52038966): // SCPs shouldn't be able to fiddle with controlls
+Sun Oct  7 20:03:00 2018	Dave Letcher (STEAM_0:1:52038966): // cause they're fucking
+Sun Oct  7 20:03:03 2018	Dave Letcher (STEAM_0:1:52038966): // unbstobbable
+Sun Oct  7 20:03:08 2018	Mr Barns was killed by DixBFloppin with a cw_g3a3
+Sun Oct  7 20:03:09 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:03:11 2018	Sammy Boom was killed by Lukyn Red with a eoti_raven_swep
+Sun Oct  7 20:03:12 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 20:03:18 2018	Sammy Boom was killed by Entity [5075][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:03:18 2018	Mr Barns was killed by Entity [5075][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:03:20 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:03:22 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 20:03:33 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 20:03:33 2018	DixBFloppin was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:03:34 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 20:03:37 2018	Mr Barns was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:03:39 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:03:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert THIS CORE IS DONE FOR! EVACUATE!
+Sun Oct  7 20:03:51 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:03:53 2018	A Random Commie was killed by Entity [4896][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:03:53 2018	Dave Letcher was killed by Entity [510][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:03:55 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:03:55 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:03:55 2018	DixBFloppin (STEAM_0:1:86800123): // y dont u cool the core
+Sun Oct  7 20:03:55 2018	Jardarn (STEAM_0:0:168631815): hello
+Sun Oct  7 20:03:58 2018	Pootis Bird (STEAM_0:0:22086175): yes
+Sun Oct  7 20:04:04 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:04:04 2018	Mr Barns was killed by Sabers Lose Again with a cw_shorty
+Sun Oct  7 20:04:05 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:04:06 2018	Jardarn (STEAM_0:0:168631815): I have many birth defects
+Sun Oct  7 20:04:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc because thats where they are?
+Sun Oct  7 20:04:13 2018	John Johnson (STEAM_0:0:65254791): /a The god damn tram is taking too long!
+Sun Oct  7 20:04:15 2018	Mr Barns was killed by Sabers Lose Again with a cw_shorty
+Sun Oct  7 20:04:15 2018	DixBFloppin (STEAM_0:1:86800123): // Then kill them
+Sun Oct  7 20:04:16 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:04:22 2018	A Random Commie was killed by Entity [510][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:04:23 2018	Sabers Lose Again was killed by Mr Barns with a cw_fiveseven
+Sun Oct  7 20:04:23 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:04:24 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 20:04:24 2018	Mr Barns was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:04:25 2018	TempusBilBoJo (STEAM_0:0:204382926): // We are the superior race BOW BEFORE US
+Sun Oct  7 20:04:26 2018	Jardarn was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:04:27 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:04:27 2018	A Random Commie (STEAM_0:0:75867497): !motd
+Sun Oct  7 20:04:27 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:04:30 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 20:04:33 2018	John Johnson was killed by TempusBilBoJo with a weapon_sillyzombieclaw_v2
+Sun Oct  7 20:04:34 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:04:41 2018	Mr Barns was killed by DixBFloppin with a cw_g3a3
+Sun Oct  7 20:04:42 2018	Jardarn was killed by Dave Letcher with a cw_g36c
+Sun Oct  7 20:04:43 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:04:43 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:04:49 2018	Mr Barns was killed by Dave Letcher with a cw_g36c
+Sun Oct  7 20:04:50 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:04:51 2018	Jardarn was killed by Dave Letcher with a cw_g36c
+Sun Oct  7 20:04:52 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:04:52 2018	Lukyn Red (STEAM_0:0:81441026): // E-coolant?
+Sun Oct  7 20:04:53 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 20:04:54 2018	A Random Commie was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:04:55 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:04:56 2018	Mr Barns was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:04:58 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:04:58 2018	Jardarn was killed by Dave Letcher with a cw_m3super90
+Sun Oct  7 20:04:59 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:05:00 2018	John Johnson (STEAM_0:0:65254791): /a Wait for me at the evac rocket.
+Sun Oct  7 20:05:05 2018	Lukyn Red (STEAM_0:0:81441026): // Ok
+Sun Oct  7 20:05:07 2018	Dave Letcher was killed by Jardarn with a cw_fiveseven
+Sun Oct  7 20:05:08 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:05:13 2018	Jardarn was killed by Entity [4909][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:05:13 2018	Mr Barns was killed by Entity [4909][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:05:13 2018	A Random Commie was killed by Entity [5161][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:05:14 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:05:14 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:05:15 2018	Dave Letcher (STEAM_0:1:52038966): // Can you not just spawn and fucking Shoot me
+Sun Oct  7 20:05:18 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:05:33 2018	DixBFloppin (STEAM_0:1:86800123): // You shoud make some ground rules for corrupt worker
+Sun Oct  7 20:05:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc who is killing you turtle?
+Sun Oct  7 20:05:41 2018	Sammy Boom (STEAM_0:0:91181601): /advert No Monster is gonna get to this evac-shelter
+Sun Oct  7 20:05:46 2018	Dave Letcher (STEAM_0:1:52038966): // Corrupt workers are spawning and instrantly shooting me
+Sun Oct  7 20:05:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im coming to the blast shelter now
+Sun Oct  7 20:05:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc what is your job turtle
+Sun Oct  7 20:06:03 2018	Sabers Lose Again (STEAM_0:1:43190488): No need to prop block this
+Sun Oct  7 20:06:05 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 20:06:08 2018	John Johnson (STEAM_0:0:65254791): /a Who the fuck send all the elevators down
+Sun Oct  7 20:06:10 2018	Dave Letcher (STEAM_0:1:52038966): // Im coming to save you but Corrupt workers are just shootin mg
+Sun Oct  7 20:06:10 2018	Adam Klein (STEAM_0:1:116765028): THE ROCKET BELONGS TO THE 049'S
+Sun Oct  7 20:06:11 2018	John Johnson (STEAM_0:0:65254791): YOu've doomed us all!
+Sun Oct  7 20:06:11 2018	TempusBilBoJo (STEAM_0:0:204382926): // THE SUPERIOR RACE SHALL RULE
+Sun Oct  7 20:06:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc Turtle, whats your current job
+Sun Oct  7 20:06:24 2018	Jardarn (STEAM_0:0:168631815): // white people
+Sun Oct  7 20:06:25 2018	Mr Barns (STEAM_0:1:444450075): // WTF
+Sun Oct  7 20:06:30 2018	John Johnson was killed by TempusBilBoJo with a weapon_sillyzombieclaw_v2
+Sun Oct  7 20:06:32 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:06:42 2018	Mr Barns was killed by Entity [4239][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:06:42 2018	A Random Commie was killed by Entity [4239][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 20:06:43 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:06:43 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:06:50 2018	Mr Barns (STEAM_0:1:444450075): FUCK THIS JOB RUUUUUUUUUN
+Sun Oct  7 20:06:51 2018	Jardarn (STEAM_0:0:168631815): where is that
+Sun Oct  7 20:06:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc TURTLE WHAT IS YOUR JOB
+Sun Oct  7 20:06:52 2018	A Random Commie (STEAM_0:0:75867497): FUCK
+Sun Oct  7 20:06:54 2018	Jardarn (STEAM_0:0:168631815): I am new to this
+Sun Oct  7 20:06:55 2018	DixBFloppin was killed by Pootis Bird with a weapon_sillyzombieclaw_v2
+Sun Oct  7 20:06:55 2018	Sabers Lose Again (STEAM_0:1:43190488): No IDEA
+Sun Oct  7 20:06:59 2018	Sabers Lose Again (STEAM_0:1:43190488): Fuck me
+Sun Oct  7 20:07:03 2018	DixBFloppin (STEAM_0:1:86800123): // Dude the scps are too strong
+Sun Oct  7 20:07:04 2018	Jardarn (STEAM_0:0:168631815): we gonna die
+Sun Oct  7 20:07:04 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 20:07:05 2018	Dave Letcher (STEAM_0:1:52038966): // CORRUPT WORKERS ARE JUST FUCKING KILLING FOR NO RASON
+Sun Oct  7 20:07:07 2018	Sabers Lose Again (STEAM_0:1:43190488): Yeah
+Sun Oct  7 20:07:11 2018	John Johnson was killed by Pootis Bird with a weapon_sillyzombieclaw_v2
+Sun Oct  7 20:07:12 2018	Jardarn (STEAM_0:0:168631815): // why are there SCP in this?
+Sun Oct  7 20:07:12 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:07:17 2018	Sabers Lose Again (STEAM_0:1:43190488): I.........I dont know
+Sun Oct  7 20:07:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert TURTLE WHAT IS YOUR FUCKING JOB
+Sun Oct  7 20:07:21 2018	Lukyn Red (STEAM_0:0:81441026): // for more fun
+Sun Oct  7 20:07:23 2018	Dave Letcher (STEAM_0:1:52038966): // TO SAVE PEOPLE
+Sun Oct  7 20:07:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 20:07:27 2018	Pootis Bird (STEAM_0:0:22086175): haha I killed them all
+Sun Oct  7 20:07:27 2018	Dave Letcher (STEAM_0:1:52038966): // PREVENT CHAOS
+Sun Oct  7 20:07:32 2018	Dave Letcher (STEAM_0:1:52038966): // SHOOT TERRORIS
+Sun Oct  7 20:07:33 2018	A Random Commie (STEAM_0:0:75867497): dude
+Sun Oct  7 20:07:35 2018	A Random Commie (STEAM_0:0:75867497): guys
+Sun Oct  7 20:07:38 2018	Dave Letcher (STEAM_0:1:52038966): // SAVE THE FACILITY WHEN NEEDED
+Sun Oct  7 20:07:40 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 20:07:41 2018	A Random Commie (STEAM_0:0:75867497): ammo box allahu akbar
+Sun Oct  7 20:07:47 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 20:07:59 2018	A Random Commie (STEAM_0:0:75867497): @ can i kill ppl in the blast shelter?
+Sun Oct  7 20:08:12 2018	A Random Commie (STEAM_0:0:75867497): aw
+Sun Oct  7 20:08:19 2018	John Johnson was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:08:19 2018	Jardarn (STEAM_0:0:168631815): place hit
+Sun Oct  7 20:08:20 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:08:27 2018	Mike (STEAM_0:1:41660292): // I miss you Adam -The 049 2 that fell in the fan
+Sun Oct  7 20:08:29 2018	A Random Commie (STEAM_0:0:75867497): only if u place one
+Sun Oct  7 20:08:30 2018	Jardarn (STEAM_0:0:168631815): I cant place a hit
+Sun Oct  7 20:08:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto turt
+Sun Oct  7 20:08:37 2018	Mr Barns (STEAM_0:1:444450075): WTF I CANT SEEE
+Sun Oct  7 20:08:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dave
+Sun Oct  7 20:08:43 2018	Pootis Bird (STEAM_0:0:22086175): OH NOOO
+Sun Oct  7 20:08:44 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:08:52 2018	Mr Barns (STEAM_0:1:444450075): // STOP WITH THE BOMBES
+Sun Oct  7 20:09:11 2018	TempusBilBoJo was killed by Entity [4914][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:11 2018	Lukyn Red was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:11 2018	John Johnson was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:11 2018	Mike was killed by Entity [4927][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:11 2018	Pootis Bird was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:11 2018	Adam Klein was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:11 2018	A Random Commie was killed by Entity [4930][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:12 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 20:09:12 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:09:12 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:09:15 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 20:09:15 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 20:09:17 2018	Lukyn Red was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:17 2018	John Johnson was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:18 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 20:09:19 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:09:19 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 20:09:20 2018	Adam Klein was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 20:09:23 2018	TempusBilBoJo was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:24 2018	John Johnson was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:24 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 20:09:24 2018	Lukyn Red was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:25 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:09:26 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 20:09:26 2018	Adam Klein was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:29 2018	A Random Commie (STEAM_0:0:75867497): // this server lit af
+Sun Oct  7 20:09:29 2018	TempusBilBoJo was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:30 2018	John Johnson was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:31 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 20:09:31 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 20:09:31 2018	Lukyn Red was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:32 2018	A Random Commie was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:32 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:09:33 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Sun Oct  7 20:09:36 2018	Sabers Lose Again was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	DixBFloppin was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	Pootis Bird was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	Dave Letcher was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	Jardarn was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	Mr Barns was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	Adam Klein was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:36 2018	TempusBilBoJo was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:37 2018	John Johnson was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:37 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:09:37 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 20:09:38 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:09:38 2018	A Random Commie (STEAM_0:0:75867497): !motd
+Sun Oct  7 20:09:38 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:09:39 2018	Sabers Lose Again (STEAM_0:1:43190488) spawned
+Sun Oct  7 20:09:39 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:09:40 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 20:09:42 2018	DixBFloppin (STEAM_0:1:86800123): // That was so gay
+Sun Oct  7 20:09:42 2018	Mr Barns was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:42 2018	Adam Klein was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:43 2018	Dave Letcher was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:43 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sun Oct  7 20:09:43 2018	John Johnson was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:43 2018	Lukyn Red (STEAM_0:0:81441026): // Restart imminent
+Sun Oct  7 20:09:43 2018	Mr Barns (STEAM_0:1:444450075) spawned
+Sun Oct  7 20:09:44 2018	Sabers Lose Again was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:44 2018	Jardarn was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:45 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 20:09:45 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 20:09:45 2018	Jardarn (STEAM_0:0:168631815) spawned
+Sun Oct  7 20:09:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 20:09:45 2018	Pootis Bird was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 20:09:46 2018	Sabers Lose Again (STEAM_0:1:43190488): // TF
+Sun Oct  7 20:09:48 2018	DixBFloppin was killed by Entity [4941][trigger_hurt] with a trigger_hurt

@@ -1,0 +1,60 @@
+<Logging continued from "data/ulx_logs/08-15-18.txt">
+[00:00:19] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[00:00:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep staff_lockpick
+[00:05:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_dragon
+[00:05:48] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[00:05:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[00:05:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[00:08:40] Emmett was killed by trigger_hurt
+[00:14:57] Dropped "Emmett" from server<STEAM_0:1:41660292>
+
+
+
+[05:05:23] New map: rp_powerplant_v2b2
+
+
+
+[19:25:26] New map: rp_powerplant_v2b2
+
+
+
+[19:37:29] New map: rp_powerplant_v2b2
+[19:38:06] Client "[Opi] Fat Gay" connected.
+[19:40:05] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 119 seconds).
+[19:41:52] Fat Gay: !explode *
+[19:41:52] Fat Gay suicided!
+[19:41:52] Fat Gay exploded Themself
+[19:42:28] Fat Gay: !explode *
+[19:42:28] Fat Gay suicided!
+[19:42:28] Fat Gay exploded Themself
+[20:15:52] Client "Bot01" connected.
+[20:15:52] Client "Bot01" spawned in server <BOT> (took 2375 seconds).
+
+
+
+[20:21:27] New map: rp_powerplant_v2b2
+[20:21:31] Client "[Opi] Fat Gay" connected.
+[20:22:36] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 65 seconds).
+[20:23:33] Fat Gay: !explode *
+[20:23:33] Fat Gay suicided!
+[20:23:33] Fat Gay exploded Themself
+[20:28:44] Fat Gay: !explode *
+[20:28:44] Fat Gay suicided!
+[20:28:44] Fat Gay exploded Themself
+[20:29:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep swep_disguise_briefcase
+[20:29:31] Fat Gay: !explode *
+[20:29:31] Fat Gay suicided!
+[20:29:31] Fat Gay exploded Themself
+[20:29:44] Fat Gay: /dropweapon
+[20:29:50] Fat Gay: /dropweapon
+[20:29:59] (TEAM) Fat Gay: /dropweapon
+[20:30:33] Fat Gay: !explode *
+[20:30:33] Fat Gay suicided!
+[20:30:33] Fat Gay exploded Themself
+[20:30:42] Fat Gay: !explode *
+[20:30:42] Fat Gay suicided!
+[20:30:42] Fat Gay exploded Themself
+
+
+
+[20:33:48] New map: rp_powerplant_v2b2

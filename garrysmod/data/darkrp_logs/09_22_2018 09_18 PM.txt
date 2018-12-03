@@ -1,0 +1,84 @@
+Sat Sep 22 21:18:06 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 21:18:06 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:18:22 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Sep 22 21:18:22 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 21:18:28 2018	LethalDumpster (STEAM_0:1:101135062) has joined the game
+Sat Sep 22 21:18:28 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:18:31 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:18:33 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Sep 22 21:18:33 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:19:08 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 21:20:11 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:21:17 2018	LethalDumpster was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:21:18 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:22:13 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:23:40 2018	LethalDumpster was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 21:23:41 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:23:49 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:38:49 2018	guny Pwnd (STEAM_0:0:173118977): !drop
+Sat Sep 22 21:39:16 2018	Bot01 (BOT) has joined the game
+Sat Sep 22 21:39:16 2018	Bot01 (BOT) spawned
+Sat Sep 22 21:39:39 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:40:58 2018	LethalDumpster was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:41:01 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:44:18 2018	LethalDumpster was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 21:44:20 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:46:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 21:46:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 21:48:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 21:48:44 2018	Fat Gay (STEAM_0:1:218173703):  !goto letha
+Sat Sep 22 21:48:47 2018	Fat Gay (STEAM_0:1:218173703): !goto lethal
+Sat Sep 22 21:49:15 2018	guny Pwnd (STEAM_0:0:173118977): // ill be there soon -terroist
+Sat Sep 22 21:49:30 2018	Mark was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 21:49:32 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:50:08 2018	Mark was killed by Fat Gay with a cw_scarh
+Sat Sep 22 21:50:18 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:50:48 2018	Mark was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 21:50:49 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:51:20 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 21:51:20 2018	LethalDumpster was killed by Fat Gay with a env_explosion
+Sat Sep 22 21:51:23 2018	Mark was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:51:24 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:51:29 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:51:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 21:51:37 2018	Fat Gay (STEAM_0:1:218173703): !GOTO LETH
+Sat Sep 22 21:52:17 2018	guny Pwnd was killed by Himself with a suicide trick
+Sat Sep 22 21:52:21 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:52:31 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:52:49 2018	Mark was killed by Fat Gay with a cw_scarh
+Sat Sep 22 21:52:53 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:53:56 2018	Mark was killed by Fat Gay with a fas2_thrown_m67
+Sat Sep 22 21:54:00 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:54:10 2018	guny Pwnd was killed by Fat Gay with a fas2_thrown_m67
+Sat Sep 22 21:54:13 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:54:24 2018	Mark (STEAM_0:0:143859663) disconnected
+Sat Sep 22 21:54:26 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 21:54:26 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 21:54:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 21:54:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 21:57:01 2018	guny Pwnd (STEAM_0:0:173118977): // i just noticed you can own a chair
+Sat Sep 22 21:58:34 2018	Fat Gay (STEAM_0:1:218173703): !hp ^ 150
+Sat Sep 22 21:59:26 2018	LethalDumpster was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:59:29 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:59:33 2018	LethalDumpster (STEAM_0:1:101135062): It sent me through the floor
+Sat Sep 22 21:59:56 2018	guny Pwnd was killed by Entity [2258][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:59:57 2018	Fat Gay (STEAM_0:1:218173703): !bring leth
+Sat Sep 22 21:59:57 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 22:00:06 2018	Fat Gay (STEAM_0:1:218173703): !bring leth
+Sat Sep 22 22:00:14 2018	Fat Gay (STEAM_0:1:218173703): !bring gun
+Sat Sep 22 22:02:23 2018	Fat Gay (STEAM_0:1:218173703): /ooc chef emmett get tf on
+Sat Sep 22 22:03:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 22:06:10 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sat Sep 22 22:07:54 2018	Fat Gay (STEAM_0:1:218173703): !goto leth
+Sat Sep 22 22:11:21 2018	LethalDumpster was killed by Entity [4904][trigger_hurt] with a trigger_hurt
+Sat Sep 22 22:11:21 2018	Fat Gay was killed by Entity [4904][trigger_hurt] with a trigger_hurt
+Sat Sep 22 22:11:21 2018	guny Pwnd was killed by Entity [4904][trigger_hurt] with a trigger_hurt
+Sat Sep 22 22:11:25 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 22:11:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 22:11:28 2018	Fat Gay (STEAM_0:1:218173703): !goto leth
+Sat Sep 22 22:11:30 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 22:11:31 2018	Fat Gay was killed by Entity [4889][trigger_hurt] with a trigger_hurt
+Sat Sep 22 22:11:31 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 22:11:34 2018	Fat Gay (STEAM_0:1:218173703): !goto leth
+Sat Sep 22 22:11:43 2018	guny Pwnd (STEAM_0:0:173118977): !menu
+Sat Sep 22 22:11:45 2018	Fat Gay (STEAM_0:1:218173703): !bring *

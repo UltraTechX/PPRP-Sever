@@ -1,0 +1,426 @@
+Tue Oct  9 22:50:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct  9 22:50:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 22:57:16 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Tue Oct  9 22:57:16 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 22:58:00 2018	Zerrakoth was killed by [Opi] Fat Gay with a csgo_bayonet
+Tue Oct  9 22:58:06 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 22:59:06 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Tue Oct  9 22:59:06 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 22:59:46 2018	Craftygarrett (STEAM_0:1:184775407): // what
+Tue Oct  9 23:00:02 2018	Zerrakoth (STEAM_0:1:218173703): undisguise
+Tue Oct  9 23:00:05 2018	Zerrakoth (STEAM_0:1:218173703): /unidsguise
+Tue Oct  9 23:00:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 23:00:10 2018	Zerrakoth (STEAM_0:1:44006700): !disguise
+Tue Oct  9 23:00:53 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Tue Oct  9 23:00:53 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:00:58 2018	Zerrakoth was killed by [Opi] Fat Gay with a fas2_toz34
+Tue Oct  9 23:00:59 2018	Craftygarrett was killed by [Opi] Fat Gay with a fas2_toz34
+Tue Oct  9 23:01:00 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:01:02 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:01:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring zerra
+Tue Oct  9 23:01:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring garr
+Tue Oct  9 23:01:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gar
+Tue Oct  9 23:01:46 2018	Craftygarrett was killed by [Opi] Fat Gay with a weapon_hlof_pipewrench
+Tue Oct  9 23:01:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:01:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gar
+Tue Oct  9 23:02:25 2018	[Opi] Fat Gay was killed by Craftygarrett with a weapon_hlof_pipewrench
+Tue Oct  9 23:02:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:02:33 2018	Zerrakoth was killed by Craftygarrett with a weapon_hlof_pipewrench
+Tue Oct  9 23:02:33 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ many small time make big time
+Tue Oct  9 23:02:34 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:02:58 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): yes
+Tue Oct  9 23:03:04 2018	Craftygarrett (STEAM_0:1:184775407): // so you coming back
+Tue Oct  9 23:03:16 2018	Craftygarrett (STEAM_0:1:184775407): /drop
+Tue Oct  9 23:03:22 2018	Craftygarrett (STEAM_0:1:184775407): /drop
+Tue Oct  9 23:03:25 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a weapon_hlof_pipewrench
+Tue Oct  9 23:03:29 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:03:50 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a cw_m1911
+Tue Oct  9 23:03:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:03:56 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:03:57 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:04:08 2018	Zerrakoth was killed by Mohammed Al Alweed Sahmared with a stunstick
+Tue Oct  9 23:04:10 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:04:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gar
+Tue Oct  9 23:04:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:04:45 2018	Mohammed Al Alweed Sahmared was killed by Craftygarrett with a cw_fiveseven
+Tue Oct  9 23:04:49 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:04:53 2018	[Opi] Fat Gay was killed by Entity [3369][entityflame] with a entityflame
+Tue Oct  9 23:04:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:04:55 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ yes me do now
+Tue Oct  9 23:05:04 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ stop worry
+Tue Oct  9 23:05:06 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ go
+Tue Oct  9 23:05:17 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a cw_m1911
+Tue Oct  9 23:05:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:05:32 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a ent_hlof_displacer_projectile
+Tue Oct  9 23:05:36 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:05:40 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:05:41 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:05:51 2018	Mohammed Al Alweed Sahmared was killed by Himself with a suicide trick
+Tue Oct  9 23:05:52 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a fas2_thrown_m67
+Tue Oct  9 23:05:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:05:54 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:06:01 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct  9 23:06:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:06:09 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct  9 23:06:09 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a ent_hlof_displacer_projectile
+Tue Oct  9 23:06:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:06:18 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct  9 23:06:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:06:20 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:06:21 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:06:56 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:06:59 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:07:45 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:07:46 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:08:39 2018	Zerrakoth was killed by [Opi] Fat Gay with a weapon_l4d2_charger_claw
+Tue Oct  9 23:08:45 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:08:45 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:08:48 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Tue Oct  9 23:08:48 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 23:08:53 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:08:54 2018	Zerrakoth was killed by [Opi] Fat Gay with a weapon_l4d2_charger_claw
+Tue Oct  9 23:08:55 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:09:00 2018	Zerrakoth was killed by Himself with a suicide trick
+Tue Oct  9 23:09:00 2018	DimensionRMG was killed by Zerrakoth with a env_explosion
+Tue Oct  9 23:09:00 2018	[Opi] Fat Gay was killed by Zerrakoth with a env_explosion
+Tue Oct  9 23:09:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:09:05 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:09:05 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ oceans
+Tue Oct  9 23:09:06 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ fish
+Tue Oct  9 23:09:08 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @jump
+Tue Oct  9 23:09:09 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ china
+Tue Oct  9 23:09:14 2018	Mohammed Al Alweed Sahmared was killed by [Opi] Fat Gay with a weapon_l4d2_charger_claw
+Tue Oct  9 23:09:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:09:20 2018	Zerrakoth was killed by Mohammed Al Alweed Sahmared with a cw_scarh
+Tue Oct  9 23:09:22 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:09:25 2018	Mohammed Al Alweed Sahmared was killed by Himself with a suicide trick
+Tue Oct  9 23:09:25 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a env_explosion
+Tue Oct  9 23:09:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:09:27 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:09:34 2018	Zerrakoth was killed by [Opi] Fat Gay with a weapon_l4d2_charger_claw
+Tue Oct  9 23:09:37 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:09:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:09:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:09:50 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a cw_mr96
+Tue Oct  9 23:09:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:10:18 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a ent_l4d2_grenade_launcher_grenade
+Tue Oct  9 23:10:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:10:40 2018	Zerrakoth was killed by Mohammed Al Alweed Sahmared with a ent_l4d2_grenade_launcher_grenade
+Tue Oct  9 23:10:41 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:10:47 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ see world
+Tue Oct  9 23:10:49 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ oceans
+Tue Oct  9 23:10:51 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ fish
+Tue Oct  9 23:10:52 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ jump
+Tue Oct  9 23:10:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:11:06 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ c h i n a
+Tue Oct  9 23:11:16 2018	Mohammed Al Alweed Sahmared was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:11:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:11:27 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:11:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:11:31 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ take me to space via rocket
+Tue Oct  9 23:11:33 2018	Zerrakoth was killed by [Opi] Fat Gay with a weapon_l4d2_sniper_military
+Tue Oct  9 23:11:34 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ pls
+Tue Oct  9 23:11:36 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:11:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !BRING ZERR
+Tue Oct  9 23:12:18 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:12:26 2018	Craftygarrett (STEAM_0:1:184775407): // demote
+Tue Oct  9 23:12:31 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:12:35 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:12:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:12:41 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ chin
+Tue Oct  9 23:12:42 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): @ a
+Tue Oct  9 23:12:59 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): let me out gay
+Tue Oct  9 23:13:14 2018	[Opi] Fat Gay was killed by Mohammed Al Alweed Sahmared with a eoti_raven_swep
+Tue Oct  9 23:13:17 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 23:13:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:13:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto sea
+Tue Oct  9 23:13:45 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 23:13:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto moh
+Tue Oct  9 23:14:02 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:14:09 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert oceans
+Tue Oct  9 23:14:13 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert fish
+Tue Oct  9 23:14:15 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert jump
+Tue Oct  9 23:14:15 2018	DimensionRMG (STEAM_0:1:111567013): // Whats the keycard scanner tool?
+Tue Oct  9 23:14:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert china
+Tue Oct  9 23:14:24 2018	Craftygarrett (STEAM_0:1:184775407): // gay try to find my base without teleporting to me or nocliping to me or use any admin tools
+Tue Oct  9 23:14:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc lets you place keypads that read your keycard
+Tue Oct  9 23:14:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok
+Tue Oct  9 23:14:53 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert Fat Gay please report to the principal's office
+Tue Oct  9 23:15:03 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert your mother called and you wet the bed again
+Tue Oct  9 23:15:11 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert so you have to go home and change your sheet
+Tue Oct  9 23:15:13 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): // s
+Tue Oct  9 23:15:18 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 23:15:45 2018	DimensionRMG (STEAM_0:1:111567013): // Don't terrorists have keycards too?
+Tue Oct  9 23:16:17 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert go home gay
+Tue Oct  9 23:16:25 2018	Zerrakoth was killed by Mohammed Al Alweed Sahmared with a cw_deagle
+Tue Oct  9 23:16:27 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:16:28 2018	Bulldog (STEAM_0:0:180224455) has joined the game
+Tue Oct  9 23:16:28 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:16:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok now were up to 6 again normal rp once he spawns
+Tue Oct  9 23:17:00 2018	Craftygarrett (STEAM_0:1:184775407): // fat gay are you looking for me
+Tue Oct  9 23:17:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Tue Oct  9 23:17:21 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert fat gay
+Tue Oct  9 23:17:24 2018	Zerrakoth was killed by Mohammed Al Alweed Sahmared with a cw_deagle
+Tue Oct  9 23:17:26 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:17:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc what
+Tue Oct  9 23:17:34 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert come to the principal's office fam
+Tue Oct  9 23:17:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i just left
+Tue Oct  9 23:17:41 2018	DimensionRMG (STEAM_0:1:111567013): // Did you do the voiceovers?
+Tue Oct  9 23:17:43 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert come back
+Tue Oct  9 23:17:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // no valien the superadmin did
+Tue Oct  9 23:17:53 2018	Zerrakoth (STEAM_0:1:44006700): /ooc nop
+Tue Oct  9 23:18:10 2018	DimensionRMG (STEAM_0:1:111567013): // Cool. Also, you gonna take keycard away from terrorists?
+Tue Oct  9 23:18:13 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert who is the prankster who stole my door
+Tue Oct  9 23:18:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no
+Tue Oct  9 23:18:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert get to the office this instant
+Tue Oct  9 23:18:32 2018	DimensionRMG (STEAM_0:1:111567013): // Can they open any door with a keycard scanner with it?
+Tue Oct  9 23:18:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no you can pick what jobs can access it
+Tue Oct  9 23:18:46 2018	Craftygarrett (STEAM_0:1:184775407): /advert you cant find and you will never get your door back
+Tue Oct  9 23:18:47 2018	DimensionRMG (STEAM_0:1:111567013): // oh. Ok
+Tue Oct  9 23:18:52 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /job school principal
+Tue Oct  9 23:18:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc they have keycard scanner crackers tho
+Tue Oct  9 23:19:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc takes the time of a normal keypad cracker
+Tue Oct  9 23:19:14 2018	Craftygarrett (STEAM_0:1:184775407): // fat tp to me
+Tue Oct  9 23:19:19 2018	Mohammed Al Alweed Sahmared was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:19:22 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:19:35 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /advert fat
+Tue Oct  9 23:19:46 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:19:49 2018	Mohammed Al Alweed Sahmared (STEAM_0:0:63800005): /name Manager Dale
+Tue Oct  9 23:20:13 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT rp_radio_microphone
+Tue Oct  9 23:20:39 2018	Zerrakoth (STEAM_0:1:44006700) spawned SENT sent_computer
+Tue Oct  9 23:20:45 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:20:46 2018	DimensionRMG was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:20:46 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:20:48 2018	DimensionRMG (STEAM_0:1:111567013): // ...
+Tue Oct  9 23:20:49 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 23:20:52 2018	Craftygarrett (STEAM_0:1:184775407): // my base
+Tue Oct  9 23:20:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc whoops
+Tue Oct  9 23:21:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !datasave
+Tue Oct  9 23:21:01 2018	DimensionRMG (STEAM_0:1:111567013): // My train..
+Tue Oct  9 23:21:15 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:21:17 2018	DimensionRMG (STEAM_0:1:111567013): // Whats that guy doing on the intercom
+Tue Oct  9 23:21:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:21:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fapping to bowsette
+Tue Oct  9 23:21:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc sorry dimension
+Tue Oct  9 23:21:40 2018	Craftygarrett (STEAM_0:1:184775407): // /advert aos on zerrakoth
+Tue Oct  9 23:21:41 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:21:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dime
+Tue Oct  9 23:21:52 2018	Zerrakoth was killed by Craftygarrett with a cw_deagle
+Tue Oct  9 23:21:53 2018	CaptnObvious (STEAM_0:0:64513062) has joined the game
+Tue Oct  9 23:21:53 2018	CaptnObvious (STEAM_0:0:64513062) spawned
+Tue Oct  9 23:21:59 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:22:07 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:22:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc this server is a mistake
+Tue Oct  9 23:22:22 2018	Craftygarrett (STEAM_0:1:184775407): // no its fun
+Tue Oct  9 23:22:29 2018	[Opi] Fat Gay was killed by Manager Dale with a cw_deagle
+Tue Oct  9 23:22:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im joking
+Tue Oct  9 23:22:32 2018	DimensionRMG (STEAM_0:1:111567013): // Was at the core roo-
+Tue Oct  9 23:22:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:22:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:23:01 2018	Manager Dale was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:23:02 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:23:02 2018	Zerrakoth was killed by Craftygarrett with a cw_deagle
+Tue Oct  9 23:23:06 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:23:07 2018	CaptnObvious (STEAM_0:0:64513062) spawned
+Tue Oct  9 23:23:12 2018	CaptnObvious (STEAM_0:0:64513062): /name Lazlo Tart
+Tue Oct  9 23:23:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc welcome lazlo
+Tue Oct  9 23:23:23 2018	Lazlo Tart (STEAM_0:0:64513062): // hi
+Tue Oct  9 23:23:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ignore the kid
+Tue Oct  9 23:23:28 2018	Lazlo Tart (STEAM_0:0:64513062): // its me
+Tue Oct  9 23:23:29 2018	DimensionRMG (STEAM_0:1:111567013): // Welcome.
+Tue Oct  9 23:23:37 2018	Manager Dale (STEAM_0:0:63800005): // OCEANS
+Tue Oct  9 23:23:44 2018	Lazlo Tart (STEAM_0:0:64513062): // im some 13 year old kid who ran a minecraft server from his old laptop once
+Tue Oct  9 23:23:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc lol
+Tue Oct  9 23:23:54 2018	Craftygarrett (STEAM_0:1:184775407): // nut
+Tue Oct  9 23:23:55 2018	Manager Dale (STEAM_0:0:63800005): // Lazlo
+Tue Oct  9 23:24:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc prepare for orgasms
+Tue Oct  9 23:24:01 2018	Lazlo Tart (STEAM_0:0:64513062): // hi
+Tue Oct  9 23:24:06 2018	Manager Dale was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:24:07 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:24:07 2018	Lazlo Tart (STEAM_0:0:64513062): // did you make all this?
+Tue Oct  9 23:24:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Tue Oct  9 23:24:21 2018	Lazlo Tart (STEAM_0:0:64513062): // this is amazing
+Tue Oct  9 23:24:23 2018	Manager Dale was killed by DimensionRMG with a cw_g36c
+Tue Oct  9 23:24:29 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:24:33 2018	Lazlo Tart (STEAM_0:0:64513062): // how long did it take you?
+Tue Oct  9 23:24:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc go security
+Tue Oct  9 23:24:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc a year
+Tue Oct  9 23:24:43 2018	Lazlo Tart (STEAM_0:0:64513062): // 
+Tue Oct  9 23:24:44 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Tue Oct  9 23:24:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring laz
+Tue Oct  9 23:25:25 2018	Manager Dale was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:25:27 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:25:32 2018	Manager Dale was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:25:35 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:25:38 2018	Lazlo Tart (STEAM_0:0:64513062): hang on
+Tue Oct  9 23:25:42 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:25:52 2018	Lazlo Tart (STEAM_0:0:64513062): its kind of hard to hear you.
+Tue Oct  9 23:25:55 2018	Manager Dale (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:26:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc end this cancer or were coming to kill you
+Tue Oct  9 23:26:08 2018	Manager Dale (STEAM_0:0:63800005): /name Slim Straight
+Tue Oct  9 23:26:30 2018	Lazlo Tart (STEAM_0:0:64513062): do you have a blueprint or map of the map?
+Tue Oct  9 23:26:48 2018	Slim Straight (STEAM_0:0:63800005): /job Plant Director
+Tue Oct  9 23:27:05 2018	Slim Straight (STEAM_0:0:63800005): /advert i am cuming to kill him
+Tue Oct  9 23:27:13 2018	Craftygarrett (STEAM_0:1:184775407): // coming'
+Tue Oct  9 23:27:17 2018	Slim Straight (STEAM_0:0:63800005): /name Slim Hetero
+Tue Oct  9 23:27:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /warrant garrett ga
+Tue Oct  9 23:27:26 2018	Slim Hetero (STEAM_0:0:63800005): /advert thank you accounting department
+Tue Oct  9 23:27:39 2018	Slim Hetero (STEAM_0:0:63800005): sir
+Tue Oct  9 23:27:43 2018	Slim Hetero (STEAM_0:0:63800005): i am here to kill ghosts
+Tue Oct  9 23:27:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !uncloak zer
+Tue Oct  9 23:27:56 2018	Zerrakoth was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 23:28:02 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:28:22 2018	Slim Hetero (STEAM_0:0:63800005): ghosts in there
+Tue Oct  9 23:28:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc can we not
+Tue Oct  9 23:28:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc can we rp please
+Tue Oct  9 23:29:00 2018	Lazlo Tart (STEAM_0:0:64513062): // how do i intercom?
+Tue Oct  9 23:29:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring laz
+Tue Oct  9 23:29:20 2018	Slim Hetero was killed by Craftygarrett with a cw_deagle
+Tue Oct  9 23:29:28 2018	Slim Hetero (STEAM_0:0:63800005) spawned
+Tue Oct  9 23:29:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 23:30:00 2018	Slim Hetero was killed by Himself with a suicide trick
+Tue Oct  9 23:30:01 2018	Slim Hetero (STEAM_0:0:63800005) disconnected
+Tue Oct  9 23:30:02 2018	Zerrakoth was killed by Bulldog with a cw_shorty
+Tue Oct  9 23:30:03 2018	DimensionRMG (STEAM_0:1:111567013): // How do you set the keypad scanner to open a door
+Tue Oct  9 23:30:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 23:30:04 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:30:38 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:30:42 2018	Zerrakoth was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 23:30:45 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:31:02 2018	Zerrakoth was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 23:31:06 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:31:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto laz
+Tue Oct  9 23:31:13 2018	Zerrakoth was killed by Craftygarrett with a cw_deagle
+Tue Oct  9 23:31:15 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:31:16 2018	Lazlo Tart was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:31:17 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Tue Oct  9 23:31:22 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:31:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:31:41 2018	DimensionRMG (STEAM_0:1:111567013): // Yo fat
+Tue Oct  9 23:31:48 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:31:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring zer
+Tue Oct  9 23:31:58 2018	Craftygarrett (STEAM_0:1:184775407): // my candy
+Tue Oct  9 23:32:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !uncloak zer
+Tue Oct  9 23:32:07 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:32:22 2018	Craftygarrett (STEAM_0:1:184775407): /pm ze tp me to you
+Tue Oct  9 23:34:21 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:34:46 2018	Zerrakoth was killed by Craftygarrett with a fas2_machete
+Tue Oct  9 23:34:57 2018	Craftygarrett was killed by Lazlo Tart with a cw_mp5
+Tue Oct  9 23:35:04 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:36:12 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:36:56 2018	Bulldog was killed by Craftygarrett with a cw_fiveseven
+Tue Oct  9 23:37:42 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:38:06 2018	[Opi] Fat Gay was killed by Entity [4872][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Tue Oct  9 23:38:11 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:38:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:39:16 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:39:17 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:39:20 2018	Somebody (STEAM_0:0:58278368) has joined the game
+Tue Oct  9 23:39:20 2018	Somebody (STEAM_0:0:58278368) spawned
+Tue Oct  9 23:39:54 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Tue Oct  9 23:39:57 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:40:04 2018	DimensionRMG (STEAM_0:1:111567013): Keycard
+Tue Oct  9 23:40:20 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:41:52 2018	Craftygarrett was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 23:41:58 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:42:14 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Tue Oct  9 23:42:27 2018	DimensionRMG (STEAM_0:1:111567013): /advert Fans are off, someone turn them on
+Tue Oct  9 23:43:22 2018	DimensionRMG (STEAM_0:1:111567013): Sorry
+Tue Oct  9 23:43:55 2018	DimensionRMG was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:43:58 2018	Lazlo Tart (STEAM_0:0:64513062): /me hides
+Tue Oct  9 23:44:01 2018	DimensionRMG (STEAM_0:1:111567013) spawned
+Tue Oct  9 23:44:28 2018	DimensionRMG (STEAM_0:1:111567013): // Fat
+Tue Oct  9 23:44:43 2018	fallenturtle (STEAM_0:1:62867403) has joined the game
+Tue Oct  9 23:44:43 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Tue Oct  9 23:45:11 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) has joined the game
+Tue Oct  9 23:45:11 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Tue Oct  9 23:45:43 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:45:55 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Tue Oct  9 23:45:55 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:46:19 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Tue Oct  9 23:46:45 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:48:23 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:48:36 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Tue Oct  9 23:49:18 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Tue Oct  9 23:49:49 2018	fallenturtle (STEAM_0:1:62867403): // the reactor is a red glowy ball is that good
+Tue Oct  9 23:49:58 2018	Zerrakoth (STEAM_0:1:44006700): /OOC YEA THATS NORMAL
+Tue Oct  9 23:50:00 2018	Somebody was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:50:04 2018	Somebody (STEAM_0:0:58278368) spawned
+Tue Oct  9 23:50:10 2018	Craftygarrett was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Tue Oct  9 23:50:12 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:50:16 2018	DimensionRMG (STEAM_0:1:111567013): // Fat
+Tue Oct  9 23:50:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Tue Oct  9 23:50:25 2018	DimensionRMG (STEAM_0:1:111567013): // Invisble person keeps turning on boost lazers
+Tue Oct  9 23:50:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:50:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc well we are supposed to be doing a meltdown as part of a tour
+Tue Oct  9 23:50:48 2018	DimensionRMG (STEAM_0:1:111567013): // Oh
+Tue Oct  9 23:50:52 2018	DimensionRMG (STEAM_0:1:111567013): // Ok
+Tue Oct  9 23:51:44 2018	Somebody (STEAM_0:0:58278368) disconnected
+Tue Oct  9 23:52:31 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) disconnected
+Tue Oct  9 23:53:01 2018	DimensionRMG (STEAM_0:1:111567013) disconnected
+Tue Oct  9 23:53:18 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Tue Oct  9 23:53:18 2018	Somebody (STEAM_0:0:58278368) spawned
+Tue Oct  9 23:53:30 2018	Zerrakoth was killed by Lazlo Tart with a fas2_thrown_m67
+Tue Oct  9 23:53:34 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue Oct  9 23:53:43 2018	Craftygarrett was killed by [Opi] Fat Gay with a cw_g36c
+Tue Oct  9 23:53:46 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Tue Oct  9 23:53:50 2018	Sinbad (STEAM_0:0:88069895) has joined the game
+Tue Oct  9 23:53:50 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 23:54:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring turt
+Tue Oct  9 23:54:30 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 23:54:34 2018	Lazlo Tart (STEAM_0:0:64513062): oh ok
+Tue Oct  9 23:54:47 2018	Lazlo Tart (STEAM_0:0:64513062): no
+Tue Oct  9 23:54:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cp
+Tue Oct  9 23:55:06 2018	Sinbad (STEAM_0:0:88069895) spawned
+Tue Oct  9 23:55:07 2018	Lazlo Tart (STEAM_0:0:64513062): communist propaganda?
+Tue Oct  9 23:55:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): run
+Tue Oct  9 23:55:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cheese
+Tue Oct  9 23:55:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cheese
+Tue Oct  9 23:55:19 2018	Lazlo Tart (STEAM_0:0:64513062): /me runs
+Tue Oct  9 23:55:29 2018	Lazlo Tart (STEAM_0:0:64513062): sometimes, i dream about cheese
+Tue Oct  9 23:56:30 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:56:58 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:57:09 2018	Lazlo Tart (STEAM_0:0:64513062): // tp me pls.
+Tue Oct  9 23:57:35 2018	Bulldog (STEAM_0:0:180224455) spawned
+Tue Oct  9 23:58:23 2018	Craftygarrett (STEAM_0:1:184775407): // where is everyone
+Tue Oct  9 23:59:11 2018	[Opi] Fat Gay was killed by Entity [2889][func_rotating] with a func_rotating
+Tue Oct  9 23:59:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct  9 23:59:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto zer
+Wed Oct 10 00:00:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring turt
+Wed Oct 10 00:00:47 2018	Bulldog was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:00:48 2018	Bulldog (STEAM_0:0:180224455) spawned
+Wed Oct 10 00:00:50 2018	Craftygarrett was killed by Himself with a suicide trick
+Wed Oct 10 00:00:50 2018	Zerrakoth was killed by Craftygarrett with a env_explosion
+Wed Oct 10 00:00:50 2018	fallenturtle was killed by Craftygarrett with a env_explosion
+Wed Oct 10 00:00:51 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 00:00:52 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 00:01:06 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 00:01:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring turt
+Wed Oct 10 00:01:28 2018	Craftygarrett was killed by Zerrakoth with a fas2_ak74
+Wed Oct 10 00:01:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 00:01:47 2018	Craftygarrett was killed by [Opi] Fat Gay with a cw_g36c
+Wed Oct 10 00:01:49 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 00:02:05 2018	Craftygarrett was killed by Lazlo Tart with a cw_shorty
+Wed Oct 10 00:02:11 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 00:02:30 2018	Craftygarrett (STEAM_0:1:184775407): // wtf
+Wed Oct 10 00:02:40 2018	Craftygarrett (STEAM_0:1:184775407): // why was i shot all those times
+Wed Oct 10 00:02:50 2018	Bulldog (STEAM_0:0:180224455): /ooc close the buker doors
+Wed Oct 10 00:02:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // it closes automaticallyt
+Wed Oct 10 00:03:02 2018	Lazlo Tart (STEAM_0:0:64513062): // buker?
+Wed Oct 10 00:03:10 2018	Somebody (STEAM_0:0:58278368) disconnected
+Wed Oct 10 00:03:16 2018	Lazlo Tart (STEAM_0:0:64513062): /looc gtg
+Wed Oct 10 00:03:18 2018	Lazlo Tart (STEAM_0:0:64513062) disconnected
+Wed Oct 10 00:03:43 2018	Sinbad was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:03:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // see yall later
+Wed Oct 10 00:03:45 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:03:46 2018	Craftygarrett (STEAM_0:1:184775407): @can you tell me why i was shot when i was tryong to get into the rocket
+Wed Oct 10 00:03:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job AFK
+Wed Oct 10 00:03:51 2018	[Opi] Fat Gay was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:03:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 00:04:00 2018	Sinbad was killed by Entity [4922][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:04:02 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 00:04:14 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 00:04:17 2018	Craftygarrett (STEAM_0:1:184775407) disconnected
+Wed Oct 10 00:04:18 2018	Sinbad was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Wed Oct 10 00:04:19 2018	fallenturtle (STEAM_0:1:62867403): // beam me up
+Wed Oct 10 00:04:19 2018	Sinbad (STEAM_0:0:88069895) spawned

@@ -1,0 +1,245 @@
+Sun Oct  7 18:49:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 18:49:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:51:00 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 18:51:00 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 18:51:06 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sun Oct  7 18:51:06 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 18:51:08 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 18:51:08 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 18:51:15 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 18:51:15 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 18:51:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 18:51:25 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 18:51:25 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:51:48 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 18:52:16 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sun Oct  7 18:52:44 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 18:52:53 2018	Sammy Boom (STEAM_0:0:91181601): Hi
+Sun Oct  7 18:52:56 2018	Pootis Bird (STEAM_0:0:22086175): Hi
+Sun Oct  7 18:54:00 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 18:54:39 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 18:54:39 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 18:54:58 2018	Pootis Bird (STEAM_0:0:22086175): Nice little setup here
+Sun Oct  7 18:55:04 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 18:55:15 2018	Pootis Bird (STEAM_0:0:22086175): Yeah cool.
+Sun Oct  7 18:55:54 2018	Pootis Bird (STEAM_0:0:22086175): // You know, this RP server isn't that bad. Pretty cool so far.
+Sun Oct  7 18:55:55 2018	Sammy Boom (STEAM_0:0:91181601): // What does my Pipe Wrench do currently?
+Sun Oct  7 18:55:59 2018	Sammy Boom (STEAM_0:0:91181601): // Also I agree
+Sun Oct  7 18:56:10 2018	Sammy Boom (STEAM_0:0:91181601): yey
+Sun Oct  7 18:56:14 2018	Dave Letcher (STEAM_0:1:52038966): // Director should get Voice Amp
+Sun Oct  7 18:56:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i wish I could do that with lua, I cant
+Sun Oct  7 18:56:41 2018	Dave Letcher (STEAM_0:1:52038966): // What?
+Sun Oct  7 18:56:53 2018	Dave Letcher (STEAM_0:1:52038966): // Voice Amp is a SWEP
+Sun Oct  7 18:57:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Sun Oct  7 18:57:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc send a link in the discord
+Sun Oct  7 18:57:38 2018	Senator GMan (STEAM_0:1:444450075): // yea it a swep that lets the person holding it speak it will go to every one on the server
+Sun Oct  7 18:57:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Sun Oct  7 18:57:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc we already do that
+Sun Oct  7 18:57:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc anyone cane
+Sun Oct  7 18:57:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc can*
+Sun Oct  7 18:58:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc go to the intercom
+Sun Oct  7 18:58:11 2018	Mike was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:58:12 2018	Senator GMan (STEAM_0:1:444450075): // but you can do it eny were with the swep but i like the intercom to
+Sun Oct  7 18:58:13 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 18:58:17 2018	Dave Letcher (STEAM_0:1:52038966): // https://steamcommunity.com/sharedfiles/filedetails/?id=1347229001&searchtext=Voice+Amplifier
+Sun Oct  7 18:58:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): //so why should we use this over the intercom?
+Sun Oct  7 18:58:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so
+Sun Oct  7 18:58:44 2018	Dave Letcher (STEAM_0:1:52038966): // That version has was assisted by the creators of the original
+Sun Oct  7 18:58:51 2018	Mike was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:58:53 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 18:58:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // why should I use this over the intercom?
+Sun Oct  7 18:59:17 2018	Senator GMan (STEAM_0:1:444450075): /Job Gman
+Sun Oct  7 18:59:21 2018	Dave Letcher (STEAM_0:1:52038966): // Because it can be used anywhere and having to run all the way to the core to make an annoucnent can get very boring
+Sun Oct  7 18:59:47 2018	Dave Letcher (STEAM_0:1:52038966): // also
+Sun Oct  7 18:59:55 2018	Dave Letcher (STEAM_0:1:52038966): // Why is the Directors Office right next to the core
+Sun Oct  7 19:00:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk
+Sun Oct  7 19:00:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its a pretty cool view
+Sun Oct  7 19:00:13 2018	Dave Letcher (STEAM_0:1:52038966): // also why does /rpname not work with chat
+Sun Oct  7 19:00:16 2018	Sammy Boom (STEAM_0:0:91181601): // Uhh I think having a dedicated Intercom system that anyone can use from a stationary position is better than a SWEP
+Sun Oct  7 19:00:21 2018	Mike (STEAM_0:1:41660292): // cuz its /nick
+Sun Oct  7 19:00:23 2018	Senator GMan (STEAM_0:1:444450075): /IT F
+Sun Oct  7 19:00:29 2018	Dave Letcher (STEAM_0:1:52038966): /nick Dave Letcher
+Sun Oct  7 19:00:31 2018	Sammy Boom (STEAM_0:0:91181601): // It means Security Personel can broadcast messages from the Director's Office if need-be
+Sun Oct  7 19:00:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk why we have this chat tags system
+Sun Oct  7 19:00:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i need to remove it
+Sun Oct  7 19:00:42 2018	Sammy Boom (STEAM_0:0:91181601): // Or Terrorists can broadcast sp00ke messages
+Sun Oct  7 19:01:52 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:02:47 2018	Senator GMan (STEAM_0:1:444450075): /Y STOP
+Sun Oct  7 19:03:13 2018	Senator GMan (STEAM_0:1:444450075): Im preety sure popo is trying to overhead the core
+Sun Oct  7 19:03:14 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:04:38 2018	Sammy Boom (STEAM_0:0:91181601): /pm Fat I'd like to report suspicious activity; I'm not sure by who, but both the Coolant Gates were down unreportedly.
+Sun Oct  7 19:05:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc what are your orders, administrator?
+Sun Oct  7 19:05:56 2018	Senator GMan was killed by The Kettle with a cw_scarh
+Sun Oct  7 19:06:12 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Sun Oct  7 19:06:12 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:06:15 2018	Senator GMan (STEAM_0:1:444450075): /advert Shifty man spoted in admin office
+Sun Oct  7 19:06:15 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:06:25 2018	The Kettle (STEAM_0:0:86812760): // says as dead
+Sun Oct  7 19:07:20 2018	Sammy Boom (STEAM_0:0:91181601): Guten Tag mein Fruend
+Sun Oct  7 19:07:24 2018	Sammy Boom (STEAM_0:0:91181601): *Freund
+Sun Oct  7 19:07:30 2018	Pootis Bird (STEAM_0:0:22086175): Hello
+Sun Oct  7 19:08:01 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:08:03 2018	Senator GMan (STEAM_0:1:444450075): //fuck im in the tram path
+Sun Oct  7 19:08:09 2018	Senator GMan (STEAM_0:1:444450075): // im in the tram path
+Sun Oct  7 19:08:29 2018	Sammy Boom (STEAM_0:0:91181601): Mr. Letcher
+Sun Oct  7 19:08:29 2018	Mike was killed by Himself with a suicide trick
+Sun Oct  7 19:08:31 2018	Sammy Boom (STEAM_0:0:91181601): Woah
+Sun Oct  7 19:08:31 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:08:34 2018	Mike (STEAM_0:1:41660292): !goto f
+Sun Oct  7 19:08:43 2018	Senator GMan (STEAM_0:1:444450075): // i need a tp i am stuck
+Sun Oct  7 19:08:46 2018	Sammy Boom (STEAM_0:0:91181601): Mr Director
+Sun Oct  7 19:08:52 2018	Sammy Boom (STEAM_0:0:91181601): May I place my radio station in here
+Sun Oct  7 19:08:53 2018	Mike was killed by Himself with a suicide trick
+Sun Oct  7 19:08:56 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:09:01 2018	Sammy Boom (STEAM_0:0:91181601): I'm broadcasting from the offices
+Sun Oct  7 19:09:05 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:09:23 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:09:55 2018	TempusBilBoJo (STEAM_0:0:204382926): ah shit
+Sun Oct  7 19:10:25 2018	Senator GMan (STEAM_0:1:444450075): /Job Gman
+Sun Oct  7 19:10:37 2018	TempusBilBoJo (STEAM_0:0:204382926): so fast
+Sun Oct  7 19:10:40 2018	TempusBilBoJo (STEAM_0:0:204382926): ah there we go
+Sun Oct  7 19:11:21 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 19:11:21 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:11:26 2018	Sammy Boom (STEAM_0:0:91181601): // I feel like there needs to be a downside to using every single security measure, so the workers constantly have to switch-
+Sun Oct  7 19:11:28 2018	The Kettle (STEAM_0:0:86812760): YOU SCARED THE SHIT OUT OF ME
+Sun Oct  7 19:11:29 2018	Sammy Boom (STEAM_0:0:91181601): // things on and off
+Sun Oct  7 19:11:46 2018	The Kettle (STEAM_0:0:86812760): YEET
+Sun Oct  7 19:11:51 2018	[Opi] Fat Gay was killed by Mike with a cw_shorty
+Sun Oct  7 19:12:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 19:12:18 2018	Sammy Boom (STEAM_0:0:91181601): // like maybe the Site Director can see a "Facility Funds" screen or something and it goes down every minute 1 of the pumps or
+Sun Oct  7 19:12:18 2018	Pootis Bird was killed by Mike with a cw_shorty
+Sun Oct  7 19:12:22 2018	Sammy Boom (STEAM_0:0:91181601): // fans or something are on
+Sun Oct  7 19:12:35 2018	Dave Letcher was killed by Mike with a cw_shorty
+Sun Oct  7 19:12:38 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 19:12:38 2018	Dave Letcher (STEAM_0:1:52038966): // what the fuck
+Sun Oct  7 19:12:46 2018	TempusBilBoJo (STEAM_0:0:204382926): !motd
+Sun Oct  7 19:12:47 2018	Dave Letcher (STEAM_0:1:52038966): // doesn't it quite literally say SWAT cant go rouge
+Sun Oct  7 19:12:47 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:13:10 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:13:15 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sun Oct  7 19:13:18 2018	The Kettle (STEAM_0:0:86812760): // bang bang your dead bin arden is the best
+Sun Oct  7 19:13:24 2018	The Kettle was killed by Mike with a fas2_thrown_m67
+Sun Oct  7 19:13:27 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:13:34 2018	TempusBilBoJo (STEAM_0:0:204382926): hello daddy
+Sun Oct  7 19:13:37 2018	The Kettle (STEAM_0:0:86812760): heyyyy
+Sun Oct  7 19:13:39 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:13:40 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sun Oct  7 19:13:54 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:13:59 2018	Mike was killed by Himself with a suicide trick
+Sun Oct  7 19:14:01 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:14:05 2018	TempusBilBoJo (STEAM_0:0:204382926): Im slow man
+Sun Oct  7 19:14:14 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:14:15 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:14:23 2018	Pootis Bird (STEAM_0:0:22086175): // Dam I just wish I could do my job without getting shot every 5 seconds, A man can dream I guess.
+Sun Oct  7 19:14:24 2018	Senator GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 19:14:38 2018	Dave Letcher (STEAM_0:1:52038966): // Why in fucks name is Terrorist Sniper a CT model AND has a blue name
+Sun Oct  7 19:14:49 2018	Senator GMan (STEAM_0:1:444450075): /Job The Overseer
+Sun Oct  7 19:14:53 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:14:59 2018	Senator GMan (STEAM_0:1:444450075): /Name me The Overseer
+Sun Oct  7 19:15:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yea its a bug
+Sun Oct  7 19:15:38 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:15:50 2018	me The Overseer (STEAM_0:1:444450075): Hello
+Sun Oct  7 19:15:59 2018	me The Overseer (STEAM_0:1:444450075): Hello
+Sun Oct  7 19:16:12 2018	Dave Letcher was killed by TempusBilBoJo with a cw_m249_official
+Sun Oct  7 19:16:14 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:16:26 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 19:16:53 2018	Sammy Boom (STEAM_0:0:91181601): // Why is there a random european guy talking when the other 90% of announcments are that american dude
+Sun Oct  7 19:17:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert HELP TERRORISTS AT CORE
+Sun Oct  7 19:17:36 2018	Dave Letcher (STEAM_0:1:52038966): // Yo Dude when are you introducing whitlist
+Sun Oct  7 19:17:38 2018	Sammy Boom (STEAM_0:0:91181601): // whats wrong with the ping
+Sun Oct  7 19:17:44 2018	Dave Letcher (STEAM_0:1:52038966): // having OSama and a juggernaut every 5 seconds is annoyin
+Sun Oct  7 19:17:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i can do it now if you want lol
+Sun Oct  7 19:17:58 2018	Dave Letcher (STEAM_0:1:52038966): // yeah
+Sun Oct  7 19:18:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i need department heads tho to take care of tryouts
+Sun Oct  7 19:18:09 2018	Sammy Boom (STEAM_0:0:91181601): // wait I have $3000 worth of equipment
+Sun Oct  7 19:18:09 2018	The Kettle (STEAM_0:0:86812760): // wait what whitelist
+Sun Oct  7 19:18:12 2018	Pootis Bird (STEAM_0:0:22086175): Sup
+Sun Oct  7 19:18:25 2018	Dave Letcher (STEAM_0:1:52038966): // Just lock off the SWAT and Terrorists via whitlists
+Sun Oct  7 19:18:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc were planning to make people train for certain job
+Sun Oct  7 19:18:31 2018	[G.E.W.P] turkeyman (STEAM_0:0:65254791) has joined the game
+Sun Oct  7 19:18:31 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:18:32 2018	Lukyn Red (STEAM_0:0:81441026): // for jobs. Sec, SWAT, CBRN, Terrorists and Researcher
+Sun Oct  7 19:18:33 2018	Dave Letcher (STEAM_0:1:52038966): // then choose a Head tomorrow
+Sun Oct  7 19:18:34 2018	The Kettle (STEAM_0:0:86812760): slurp slurp
+Sun Oct  7 19:18:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc swat and terrorist for sure
+Sun Oct  7 19:18:38 2018	Sammy Boom (STEAM_0:0:91181601): // Is Engineer gonna be part of the Whitelist?
+Sun Oct  7 19:18:39 2018	TempusBilBoJo (STEAM_0:0:204382926): !motd
+Sun Oct  7 19:18:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no lol
+Sun Oct  7 19:18:43 2018	Dave Letcher (STEAM_0:1:52038966): // Nahj
+Sun Oct  7 19:18:45 2018	The Kettle (STEAM_0:0:86812760): /me sucks the d
+Sun Oct  7 19:18:55 2018	Dave Letcher (STEAM_0:1:52038966): // Is Manager & Director whitlist or open?
+Sun Oct  7 19:19:03 2018	me The Overseer (STEAM_0:1:444450075): i dont like him]\
+Sun Oct  7 19:19:05 2018	The Kettle was killed by Himself with a suicide trick
+Sun Oct  7 19:19:05 2018	[Opi] Fat Gay was killed by The Kettle with a env_explosion
+Sun Oct  7 19:19:09 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:19:11 2018	Lukyn Red (STEAM_0:0:81441026): // Really?
+Sun Oct  7 19:19:11 2018	TempusBilBoJo (STEAM_0:0:204382926): // come on OWNER
+Sun Oct  7 19:19:21 2018	Lukyn Red (STEAM_0:0:81441026): // We have enough ping
+Sun Oct  7 19:19:21 2018	The Kettle (STEAM_0:0:86812760): // DOWN WITH THE OWENER
+Sun Oct  7 19:19:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc WHAT DO YOU MEAN FADING DOOR CRASH
+Sun Oct  7 19:19:28 2018	The Kettle (STEAM_0:0:86812760): // OWNER
+Sun Oct  7 19:19:30 2018	TempusBilBoJo (STEAM_0:0:204382926): rape is gay
+Sun Oct  7 19:19:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ITS MY SECURITY GATE
+Sun Oct  7 19:19:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 19:19:41 2018	The Kettle (STEAM_0:0:86812760): // wait did i get you with that?
+Sun Oct  7 19:19:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Sun Oct  7 19:19:54 2018	The Kettle (STEAM_0:0:86812760): // yat
+Sun Oct  7 19:20:27 2018	Pootis Bird (STEAM_0:0:22086175): Wait a sec, I just stayed in this dam tram for an entire loop
+Sun Oct  7 19:20:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 19:20:54 2018	The Kettle was killed by Lukyn Red with a cw_mp5
+Sun Oct  7 19:21:01 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:21:02 2018	Lukyn Red (STEAM_0:0:81441026): !addons
+Sun Oct  7 19:21:21 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:21:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 19:21:35 2018	Dave Letcher (STEAM_0:1:52038966): // grab yerself a hawt slice
+Sun Oct  7 19:21:41 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct  7 19:21:41 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 19:21:43 2018	Mike (STEAM_0:1:41660292): gawt
+Sun Oct  7 19:21:47 2018	Mike (STEAM_0:1:41660292): // hawt
+Sun Oct  7 19:22:16 2018	Lukyn Red (STEAM_0:0:81441026): // You can change your PM by right clicking the job. Works only for plant workers
+Sun Oct  7 19:23:42 2018	Sammy Boom (STEAM_0:0:91181601): // Take that, terrorists
+Sun Oct  7 19:23:50 2018	John Johnson (STEAM_0:0:65254791) spawned
+Sun Oct  7 19:24:31 2018	me The Overseer (STEAM_0:1:444450075): i want to shoot some one
+Sun Oct  7 19:24:47 2018	me The Overseer (STEAM_0:1:444450075): i wanna shoot some one
+Sun Oct  7 19:24:49 2018	The Kettle was killed by Lukyn Red with a cw_mp5
+Sun Oct  7 19:24:51 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:25:03 2018	Pootis Bird (STEAM_0:0:22086175): Uhh ima cool down the core then
+Sun Oct  7 19:25:22 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 19:25:52 2018	Adam Klein (STEAM_0:1:116765028): Come talk to me doctor
+Sun Oct  7 19:25:53 2018	me The Overseer (STEAM_0:1:444450075): can i snipe some one witha  pistal
+Sun Oct  7 19:26:05 2018	Sammy Boom (STEAM_0:0:91181601): // We got Adam Klien, SWAT, Workers, and Terrorists going against eachother over the facility
+Sun Oct  7 19:26:05 2018	Adam Klein (STEAM_0:1:116765028): You know you want to
+Sun Oct  7 19:26:43 2018	Adam Klein (STEAM_0:1:116765028): The Researcher has me locked in my cage right now
+Sun Oct  7 19:26:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /announce 049 RESEARCH IN 10 MINS
+Sun Oct  7 19:26:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 19:26:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 049 TEST IN 10 MINS
+Sun Oct  7 19:27:03 2018	me The Overseer (STEAM_0:1:444450075): // wait for me
+Sun Oct  7 19:27:12 2018	me The Overseer (STEAM_0:1:444450075): // wait for me
+Sun Oct  7 19:27:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert you can find me in cell 1 in the research lab!
+Sun Oct  7 19:27:23 2018	Lukyn Red (STEAM_0:0:81441026): what is this
+Sun Oct  7 19:27:28 2018	John Johnson (STEAM_0:0:65254791): /a Righto.
+Sun Oct  7 19:27:35 2018	Mike was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 19:27:37 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:27:39 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 19:27:45 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 19:27:49 2018	Sammy Boom (STEAM_0:0:91181601): // How and why am I being cursed
+Sun Oct  7 19:27:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 19:27:56 2018	Lukyn Red (STEAM_0:0:81441026): // bug ignore
+Sun Oct  7 19:28:01 2018	John Johnson (STEAM_0:0:65254791): Hello.
+Sun Oct  7 19:28:04 2018	John Johnson (STEAM_0:0:65254791): Right.
+Sun Oct  7 19:28:19 2018	John Johnson (STEAM_0:0:65254791): Weill do.
+Sun Oct  7 19:28:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert 049 AND 3431 EXPERIMENTS IN 10 MINS
+Sun Oct  7 19:28:38 2018	The Kettle was killed by Mike with a fas2_thrown_m67
+Sun Oct  7 19:28:41 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:28:46 2018	John Johnson (STEAM_0:0:65254791): Righto.
+Sun Oct  7 19:29:02 2018	Sammy Boom (STEAM_0:0:91181601): /job Plant Engineer
+Sun Oct  7 19:29:16 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:29:17 2018	Sammy Boom (STEAM_0:0:91181601): // We need more cooks
+Sun Oct  7 19:29:32 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sun Oct  7 19:29:45 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:30:01 2018	Lukyn Red (STEAM_0:0:81441026): !mptd
+Sun Oct  7 19:30:03 2018	Lukyn Red (STEAM_0:0:81441026): !motd
+Sun Oct  7 19:30:08 2018	The Kettle (STEAM_0:0:86812760): // am i bugged to be on fire forever now?
+Sun Oct  7 19:30:14 2018	The Kettle was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 19:30:15 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 19:30:27 2018	Lukyn Red (STEAM_0:0:81441026): // No?

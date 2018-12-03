@@ -1,0 +1,6 @@
+Wed Oct 10 18:27:44 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Wed Oct 10 18:27:44 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Wed Oct 10 18:29:02 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Wed Oct 10 18:30:13 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Wed Oct 10 18:30:13 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Wed Oct 10 18:31:03 2018	Lukyn Red (STEAM_0:0:81441026) disconnected

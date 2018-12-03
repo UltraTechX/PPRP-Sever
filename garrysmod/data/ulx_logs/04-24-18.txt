@@ -1,0 +1,337 @@
+[12:04:45] New map: rp_powerplant_v2b2
+[15:19:55] Client "Fat Gay" connected.
+[15:20:53] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+[15:21:21] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[15:22:01] Client "Fat Gay" connected.
+[15:22:39] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 38 seconds).
+[15:33:30] Fat Gay: !menu
+[15:33:43] Fat Gay removed group CoOwner
+[15:33:46] Fat Gay removed group Manager
+[15:35:23] Fat Gay: !who fat
+[15:44:48] Fat Gay suicided!
+[15:45:44] Fat Gay: /name bnigafadads
+[15:45:45] Fat Gay<STEAM_0:1:218173703> changed their name to bnigafadads
+[15:53:59] bnigafadads: !menu
+[16:07:48] bnigafadads suicided!
+[16:25:24] (Console) added bnigafadads to group Owner
+[16:34:41] bnigafadads: !menu
+[16:36:43] bnigafadads removed all access rights from bnigafadads
+[16:36:46] (Console) added bnigafadads to group PACUser
+[16:37:09] bnigafadads: /name Fat Gay
+[16:37:10] bnigafadads<STEAM_0:1:218173703> changed their name to Fat Gay
+[16:39:41] (Console) removed all access rights from bnigafadads
+[16:39:57] (Console) added Fat Gay to group Owner
+[16:43:20] Fat Gay: !menu
+[16:56:48] Fat Gay suicided!
+
+
+
+[17:03:01] New map: rp_powerplant_v2b2
+[17:03:23] Client "Fat Gay" connected.
+[17:03:53] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+
+
+
+[17:12:11] New map: rp_powerplant_v2b2
+[17:12:33] Client "Fat Gay" connected.
+[17:13:03] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+
+
+
+[17:28:55] New map: rp_powerplant_v2b2
+[17:29:18] Client "Fat Gay" connected.
+[17:29:47] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+[17:51:49] Fat Gay suicided!
+[18:36:59] Fat Gay suicided!
+
+
+
+[19:40:19] New map: rp_powerplant_v2b2
+[19:40:41] Client "Fat Gay" connected.
+[19:41:21] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[20:03:22] Fat Gay suicided!
+[20:27:52] Fat Gay suicided!
+[20:32:48] Client "Sirro" connected.
+[20:35:29] Client "Sirro" spawned in server <STEAM_0:1:72140646> (took 161 seconds).
+[20:36:04] Sirro: // opifuck
+[20:36:12] Fat Gay: /ooc yo
+[20:36:55] Fat Gay: /ooc welp
+[20:37:10] Fat Gay: /ooc tried to pac you but it said it wasnt a valid steamid xd
+[20:37:21] Sirro: // we guuchi
+[20:37:55] Sirro: // jesus fuck this place is huge
+[20:38:02] Fat Gay: /ooc yeah
+[20:38:57] Fat Gay: /ooc feel free to explore while I figure out what fucked up in the pac command
+[20:39:02] Sirro: // what is CBRN
+[20:39:16] Fat Gay: /ooc for biohazards
+[20:40:54] Sirro: // I don't understand how people are able to work with Hammer without clawing their eyes out
+[20:42:40] Fat Gay: /ooc sounds about right
+[20:42:49] Sirro: // does this shit blow up
+[20:43:01] Sirro: // yet\
+[20:43:05] Fat Gay: /ooc it has the beginning of the sequence but the full thing isnt in yet
+[20:43:25] Sirro: // fuckin pizza day yeet
+[20:43:29] Fat Gay: /ooc you can cause the initial meltdown premonition sound to play and the blast door
+[20:43:34] Fat Gay: /ooc to go down
+[20:43:56] Sirro: // what gamemode is this?
+[20:44:25] Fat Gay: /ooc essentially just renamed darkrp
+[20:44:33] Fat Gay: /ooc power plant rp
+[20:44:37] Sirro: // a
+[20:44:38] Sirro: // ah
+[20:44:49] Sirro: // alot of gamemodes are a rename of darkrp lol
+[20:44:55] Sirro: // good shit to work off of
+[20:45:43] Sirro: // what temp does the core start going whack
+[20:45:50] Fat Gay: /ooc 5000
+[20:45:58] Fat Gay: /ooc 3600 is warning
+[20:46:23] Fat Gay: /ooc there are multiple places that can affect it, lasers, coolant, fan
+[20:49:26] Sirro: // we're burning this bitch to the fucking ground
+[20:56:43] Fat Gay suicided!
+[20:59:36] Dropped "Sirro" from server<STEAM_0:1:72140646>
+[21:06:05] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[22:10:22] New map: rp_powerplant_v2b2
+
+
+
+[22:11:29] New map: rp_powerplant_v2b2
+
+
+
+[22:12:44] New map: rp_powerplant_v2b2
+[22:13:56] Client "Fat Gay" connected.
+[22:14:47] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 51 seconds).
+
+
+
+[22:18:02] New map: rp_powerplant_v2b2
+[22:18:23] Client "Fat Gay" connected.
+[22:18:51] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[22:21:09] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:21:10] Client "Fat Gay" connected.
+[22:21:38] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[22:26:09] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:26:09] Client "Fat Gay" connected.
+[22:26:38] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+[22:28:18] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:28:19] Client "Fat Gay" connected.
+[22:28:48] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+
+
+
+[22:50:13] New map: rp_powerplant_v2b2
+[22:50:19] Client "Fat Gay" connected.
+[22:50:48] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+[22:54:33] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:54:33] Client "Fat Gay" connected.
+[22:55:05] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+
+
+
+[22:59:14] New map: rp_powerplant_v2b2
+[22:59:30] Client "Fat Gay" connected.
+[23:00:00] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+[23:00:36] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[23:00:36] Client "Fat Gay" connected.
+[23:01:06] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+
+
+
+[23:09:27] New map: rp_powerplant_v2b2
+[23:09:32] Client "Fat Gay" connected.
+[23:10:00] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[23:17:04] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[23:17:05] Client "Fat Gay" connected.
+[23:17:35] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+
+
+
+[23:22:23] New map: rp_powerplant_v2b2
+[23:22:44] Client "Fat Gay" connected.
+[23:23:13] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+[23:24:23] Fat Gay: !menu
+[23:24:49] Fat Gay granted access "ulx loadoutadd" to group Owner
+[23:24:51] Fat Gay granted access "ulx loadoutremove" to group Owner
+[23:24:53] Fat Gay granted access "ulx restrict" to group Owner
+[23:24:54] Fat Gay granted access "ulx setlimit" to group Owner
+[23:24:55] Fat Gay granted access "ulx unrestrict" to group Owner
+[23:26:17] Fat Gay: !menu
+[23:26:43] Fat Gay created group TrialModerator which inherits rights from group VIPPACUser
+[23:26:43] Fat Gay changed group TrialModerator to only be able to target !%Moderator
+[23:27:12] Fat Gay revoked access "ulx avgping" to group superadmin
+[23:27:13] Fat Gay revoked access "ulx customstat" to group superadmin
+[23:27:13] Fat Gay revoked access "ulx finduser" to group superadmin
+[23:27:14] Fat Gay revoked access "ulx finduserid" to group superadmin
+[23:27:14] Fat Gay revoked access "ulx getuptime" to group superadmin
+[23:27:15] Fat Gay revoked access "ulx pac" to group superadmin
+[23:27:15] Fat Gay revoked access "ulx ping" to group superadmin
+[23:27:15] Fat Gay revoked access "ulx propcount" to group superadmin
+[23:27:16] Fat Gay revoked access "ulx unpac" to group superadmin
+[23:32:43] Fat Gay revoked access "ulx getping" to group superadmin
+[23:33:24] Fat Gay granted access "awarn_view" to group TrialModerator
+[23:33:25] Fat Gay granted access "awarn_warn" to group TrialModerator
+[23:33:30] Fat Gay granted access "awarn_warn" to group Moderator
+[23:33:30] Fat Gay granted access "awarn_view" to group Moderator
+[23:33:44] Fat Gay revoked access "awarn_options" to group superadmin
+[23:34:02] Fat Gay granted access "fspectate" to group Moderator
+[23:34:03] Fat Gay granted access "fspectateteleport" to group Moderator
+[23:34:13] Fat Gay revoked access "darkrp_setmoney" to group superadmin
+[23:34:20] Fat Gay revoked access "fpp_settings" to group superadmin
+[23:34:29] Fat Gay revoked access "fpp_cleanup" to group admin
+[23:34:35] Fat Gay granted access "fpp_cleanup" to group superadmin
+[23:34:40] Fat Gay granted access "fspectateteleport" to group TrialModerator
+[23:34:40] Fat Gay granted access "fspectate" to group TrialModerator
+[23:35:12] Fat Gay granted access "reportadminmenu" to group TrialModerator
+[23:35:15] Fat Gay granted access "reportadminmenu" to group Moderator
+[23:35:53] Fat Gay granted access "ulx fteleport" to group TrialModerator
+[23:35:55] Fat Gay granted access "ulx goto" to group TrialModerator
+[23:35:58] Fat Gay granted access "ulx fbring" to group TrialModerator
+[23:36:14] Fat Gay granted access "ulx send" to group TrialModerator
+[23:36:15] Fat Gay revoked access "ulx send" to group TrialModerator
+[23:36:16] Fat Gay granted access "ulx send" to group TrialModerator
+[23:36:16] Fat Gay granted access "ulx return" to group TrialModerator
+[23:36:20] Fat Gay granted access "ulx teleport" to group TrialModerator
+[23:36:26] Fat Gay granted access "ulx bring" to group TrialModerator
+[23:36:32] Fat Gay granted access "ulx teleport" to group Moderator
+[23:36:33] Fat Gay granted access "ulx send" to group Moderator
+[23:36:33] Fat Gay granted access "ulx return" to group Moderator
+[23:36:33] Fat Gay granted access "ulx goto" to group Moderator
+[23:36:34] Fat Gay granted access "ulx fteleport" to group Moderator
+[23:36:34] Fat Gay granted access "ulx fbring" to group Moderator
+[23:36:34] Fat Gay granted access "ulx bring" to group Moderator
+[23:36:46] Fat Gay revoked access "ulx unrestrict" to group superadmin
+[23:36:47] Fat Gay revoked access "ulx setlimit" to group superadmin
+[23:36:48] Fat Gay revoked access "ulx loadoutremove" to group superadmin
+[23:36:48] Fat Gay revoked access "ulx loadoutadd" to group superadmin
+[23:36:49] Fat Gay revoked access "ulx restrict" to group superadmin
+[23:36:57] Fat Gay revoked access "ulx userdenyid" to group superadmin
+[23:36:59] Fat Gay revoked access "ulx userdeny" to group superadmin
+[23:36:59] Fat Gay revoked access "ulx userallow" to group superadmin
+[23:37:00] Fat Gay revoked access "ulx userallowid" to group superadmin
+[23:37:01] Fat Gay revoked access "ulx setgroupcantarget" to group superadmin
+[23:37:01] Fat Gay revoked access "ulx renamegroup" to group superadmin
+[23:37:02] Fat Gay revoked access "ulx removeuser" to group superadmin
+[23:37:03] Fat Gay revoked access "ulx removeuserid" to group superadmin
+[23:37:03] Fat Gay revoked access "ulx removegroup" to group superadmin
+[23:37:04] Fat Gay revoked access "ulx groupdeny" to group superadmin
+[23:37:04] Fat Gay revoked access "ulx adduserid" to group superadmin
+[23:37:05] Fat Gay granted access "ulx adduserid" to group superadmin
+[23:37:06] Fat Gay revoked access "ulx addgroup" to group superadmin
+[23:37:07] Fat Gay revoked access "ulx adduserid" to group superadmin
+[23:37:07] Fat Gay revoked access "ulx groupallow" to group superadmin
+[23:37:08] Fat Gay revoked access "ulx adduser" to group superadmin
+[23:37:45] Fat Gay granted access "ulx forcerespawn" to group TrialModerator
+[23:37:49] Fat Gay granted access "ulx hide" to group TrialModerator
+[23:37:51] Fat Gay granted access "ulx kick" to group TrialModerator
+[23:37:55] Fat Gay revoked access "ulx hide" to group TrialModerator
+[23:38:04] Fat Gay granted access "ulx spectate" to group TrialModerator
+[23:38:13] Fat Gay granted access "ulx spectate" to group Moderator
+[23:38:16] Fat Gay granted access "ulx kick" to group Moderator
+[23:38:23] Fat Gay granted access "ulx forcerespawn" to group Moderator
+[23:38:42] Fat Gay revoked access "ulx votemap" to group user
+[23:38:43] Fat Gay revoked access "ulx votegag" to group user
+[23:38:43] Fat Gay revoked access "ulx votemute" to group user
+[23:39:12] Fat Gay revoked access "ulx votemap2" to group admin
+[23:39:16] Fat Gay revoked access "ulx vote" to group admin
+[23:39:17] Fat Gay granted access "ulx vote" to group admin
+[23:39:19] Fat Gay revoked access "ulx veto" to group admin
+[23:39:19] Fat Gay revoked access "ulx unvotemute" to group admin
+[23:39:20] Fat Gay revoked access "ulx unvotegag" to group admin
+[23:39:21] Fat Gay revoked access "ulx vote" to group admin
+[23:39:21] Fat Gay revoked access "ulx voteban" to group admin
+[23:39:22] Fat Gay revoked access "ulx votekick" to group admin
+[23:39:28] Fat Gay revoked access "ulx stopvote" to group superadmin
+[23:39:41] Fat Gay revoked access "ulx chattime" to group admin
+[23:39:42] Fat Gay revoked access "ulx kickafternamechanges" to group admin
+[23:39:42] Fat Gay revoked access "ulx kickafternamechangescooldown" to group admin
+[23:39:43] Fat Gay revoked access "ulx kickafternamechangeswarning" to group admin
+[23:39:45] Fat Gay revoked access "ulx logchat" to group superadmin
+[23:39:45] Fat Gay revoked access "ulx logdir" to group superadmin
+[23:39:47] Fat Gay revoked access "ulx logechocolordefault" to group superadmin
+[23:39:47] Fat Gay revoked access "ulx logechocolorconsole" to group superadmin
+[23:39:48] Fat Gay revoked access "ulx logecho" to group superadmin
+[23:39:49] Fat Gay revoked access "ulx logechocoloreveryone" to group superadmin
+[23:39:49] Fat Gay revoked access "ulx logechocolormisc" to group superadmin
+[23:39:50] Fat Gay revoked access "ulx logechocolorplayer" to group superadmin
+[23:39:50] Fat Gay revoked access "ulx logechocolorplayerasgroup" to group superadmin
+[23:39:51] Fat Gay granted access "ulx logechocolorplayerasgroup" to group superadmin
+[23:39:52] Fat Gay revoked access "ulx logechocolors" to group superadmin
+[23:39:52] Fat Gay revoked access "ulx logechocolorplayerasgroup" to group superadmin
+[23:39:54] Fat Gay revoked access "ulx logevents" to group superadmin
+[23:39:55] Fat Gay revoked access "ulx logechocolorself" to group superadmin
+[23:39:55] Fat Gay revoked access "ulx logfile" to group superadmin
+[23:39:56] Fat Gay revoked access "ulx logjoinleaveecho" to group superadmin
+[23:39:57] Fat Gay revoked access "ulx logspawns" to group superadmin
+[23:39:58] Fat Gay revoked access "ulx logspawnsecho" to group superadmin
+[23:40:03] Fat Gay revoked access "ulx mechatenabled" to group admin
+[23:40:04] Fat Gay revoked access "ulx motdfile" to group admin
+[23:40:04] Fat Gay revoked access "ulx motdurl" to group admin
+[23:40:05] Fat Gay revoked access "ulx rslots" to group admin
+[23:40:05] Fat Gay revoked access "ulx rslotsmode" to group admin
+[23:40:06] Fat Gay revoked access "ulx rslotsvisible" to group admin
+[23:40:06] Fat Gay revoked access "ulx showmotd" to group admin
+[23:40:07] Fat Gay revoked access "ulx votebanminvotes" to group admin
+[23:40:08] Fat Gay revoked access "ulx votebansuccessratio" to group admin
+[23:40:09] Fat Gay granted access "ulx votebansuccessratio" to group admin
+[23:40:09] Fat Gay revoked access "ulx votegagminvotes" to group admin
+[23:40:10] Fat Gay revoked access "ulx votebansuccessratio" to group admin
+[23:40:10] Fat Gay revoked access "ulx votegagsuccessratio" to group admin
+[23:40:11] Fat Gay revoked access "ulx votekickminvotes" to group admin
+[23:40:11] Fat Gay revoked access "ulx votekicksuccessratio" to group admin
+[23:40:12] Fat Gay revoked access "ulx votemap2minvotes" to group admin
+[23:40:12] Fat Gay revoked access "ulx votemap2successratio" to group admin
+[23:40:13] Fat Gay revoked access "ulx votemapenabled" to group admin
+[23:40:14] Fat Gay revoked access "ulx votemapmapmode" to group admin
+[23:40:15] Fat Gay revoked access "ulx votemapmintime" to group admin
+[23:40:15] Fat Gay revoked access "ulx votemapminvotes" to group admin
+[23:40:16] Fat Gay revoked access "ulx votemapsuccessratio" to group admin
+[23:40:16] Fat Gay revoked access "ulx votemapvetotime" to group admin
+[23:40:17] Fat Gay revoked access "ulx votemapwaittime" to group admin
+[23:40:18] Fat Gay revoked access "ulx votemuteminvotes" to group admin
+[23:40:18] Fat Gay revoked access "ulx votemutesuccessratio" to group admin
+[23:40:19] Fat Gay revoked access "ulx welcomemessage" to group admin
+[23:40:22] Fat Gay revoked access "ulx voteecho" to group superadmin
+[23:40:33] Fat Gay revoked access "ulx hiddenecho" to group superadmin
+[23:40:43] Fat Gay granted access "ulx physgunplayer" to group TrialModerator
+[23:40:48] Fat Gay granted access "ulx physgunplayer" to group Moderator
+[23:43:19] Fat Gay revoked access "suggestions_approve" to group admin
+[23:43:20] Fat Gay revoked access "suggestions_edit" to group admin
+[23:43:21] Fat Gay revoked access "suggestions_no_approve" to group admin
+[23:43:22] Fat Gay revoked access "suggestions_remove" to group admin
+[23:43:23] Fat Gay revoked access "suggestions_status" to group admin
+[23:43:25] Fat Gay granted access "suggestions_remove" to group superadmin
+[23:43:39] Fat Gay granted access "suggestions_edit" to group superadmin
+[23:43:52] Fat Gay granted access "ulx wckcontroller" to group TrialModerator
+[23:43:54] Fat Gay granted access "ulx wckcontroller" to group Moderator
+[23:44:06] Fat Gay revoked access "xgui_managegroups" to group superadmin
+[23:44:10] Fat Gay revoked access "xgui_gmsettings" to group superadmin
+[23:44:13] Fat Gay revoked access "xgui_svsettings" to group superadmin
+[23:44:14] Fat Gay revoked access "xgui_urs" to group superadmin
+[23:44:24] Fat Gay granted access "xgui_urs" to group Owner
+[23:44:36] Fat Gay granted access "ulx getping" to group Owner
+[23:44:37] Fat Gay revoked access "ulx getping" to group Owner
+[23:44:46] Fat Gay granted access "ulx votegag" to group Owner
+[23:44:47] Fat Gay granted access "ulx votemap" to group Owner
+[23:44:47] Fat Gay granted access "ulx votemute" to group Owner
+[23:45:16] Fat Gay suicided!
+[23:45:40] Fat Gay: !menu
+[23:48:40] Client "AMDPhenomX4" connected.
+[23:51:46] Fat Gay was killed by trigger_hurt
+[23:52:16] Client "AMDPhenomX4" spawned in server <STEAM_0:0:26550447> (took 216 seconds).
+[23:53:35] (TEAM) Fat Gay: /ooc hi there
+[23:53:41] Fat Gay: oh
+[23:54:02] Fat Gay: we have to wait for the tram
+[23:54:09] Fat Gay: to get to other areas
+[23:54:18] Fat Gay: it shouldnt take too long
+[23:54:47] (TEAM) Fat Gay: /ooc it should be here in about 60 seconds
+[23:55:04] Fat Gay: should be here in 60 seconds
+[23:55:34] (TEAM) Fat Gay: almost here
+[23:55:37] Fat Gay: almost here
+[23:57:03] Fat Gay: sadly its very late where I live
+[23:57:11] Fat Gay: so I must leave in a second
+[23:57:21] Fat Gay: but feel free to explore on your own
+[23:57:44] Fat Gay: keep in mind you can leave space or suicide once that rocket over there launches
+[23:57:48] Fat Gay: so do that last
+[23:57:59] Fat Gay: thats all i think you need to know
+[23:58:00] Fat Gay: see ya
+[23:58:05] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+<Logging continued in "data/ulx_logs/04-25-18.txt">

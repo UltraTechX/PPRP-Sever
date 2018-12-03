@@ -1,0 +1,345 @@
+[00:03:04] New map: rp_powerplant_v2b3
+[01:55:49] Client "LethalDumpster" connected.
+[01:58:56] Client "LethalDumpster" spawned in server <STEAM_0:1:101135062> (took 187 seconds).
+[02:01:26] Client "Diablo" connected.
+[02:09:01] Client "CandyCrushGod6969" spawned in server <STEAM_0:1:91516512> (took 455 seconds).
+[02:09:01] (Console) added CandyCrushGod6969 to group PACUser
+[02:10:06] CandyCrushGod6969 was killed by point_hurt
+[02:10:33] CandyCrushGod6969: !radio
+[02:11:07] Client "Bot01" connected.
+[02:11:07] Client "Bot01" spawned in server <BOT> (took 7761 seconds).
+[02:11:09] LethalDumpster: /dropweapon
+[02:16:46] LethalDumpster suicided!
+[02:19:23] Dropped "CandyCrushGod6969" from server<STEAM_0:1:91516512>
+[02:19:25] Client "CandyCrushGod6969" connected.
+[02:20:46] Client "CandyCrushGod6969" spawned in server <STEAM_0:1:91516512> (took 81 seconds).
+[02:29:59] CandyCrushGod6969 suicided!
+[02:33:13] LethalDumpster was killed by trigger_hurt
+[02:33:31] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:37:41] LethalDumpster was killed by trigger_hurt
+[02:37:55] CandyCrushGod6969 was killed by trigger_hurt
+[02:41:00] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:42:05] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:45:04] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:45:07] LethalDumpster was killed by trigger_hurt
+[02:45:16] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:45:58] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:47:14] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:47:45] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:49:16] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:50:00] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:50:20] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:50:42] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:51:26] CandyCrushGod6969 was killed by func_rotating
+[02:55:21] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[02:55:52] LethalDumpster was killed by trigger_hurt
+[02:58:43] CandyCrushGod6969 killed LethalDumpster using weapon_l4d2_frying_pan
+[03:00:14] CandyCrushGod6969<STEAM_0:1:91516512> spawned model models/squad/sf_plates/sf_plate4x5.mdl
+[03:01:37] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[03:02:20] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[03:02:24] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[03:02:33] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[03:02:36] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[03:02:40] LethalDumpster<STEAM_0:1:101135062> spawned model models/props_c17/fence03a.mdl
+[03:03:48] CandyCrushGod6969 killed LethalDumpster using weapon_l4d2_frying_pan
+[03:05:43] CandyCrushGod6969<STEAM_0:1:91516512> spawned model models/squad/sf_bars/sf_bar3.mdl
+[03:05:50] CandyCrushGod6969<STEAM_0:1:91516512> spawned model models/hunter/blocks/cube1x1x1.mdl
+[03:06:05] CandyCrushGod6969<STEAM_0:1:91516512> spawned model models/hunter/blocks/cube1x1x1.mdl
+[03:06:05] CandyCrushGod6969<STEAM_0:1:91516512> spawned model models/hunter/blocks/cube1x150x1.mdl
+[03:06:19] CandyCrushGod6969<STEAM_0:1:91516512> spawned model models/hunter/blocks/cube1x150x1.mdl
+[03:08:48] LethalDumpster killed CandyCrushGod6969 using cw_l85a2
+[03:08:59] LethalDumpster was killed by trigger_hurt
+[03:10:16] CandyCrushGod6969 was killed by trigger_hurt
+[03:10:32] LethalDumpster was killed by trigger_hurt
+[03:11:58] CandyCrushGod6969 was killed by trigger_hurt
+[03:14:10] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[03:15:11] LethalDumpster was killed by trigger_hurt
+[03:18:28] Dropped "CandyCrushGod6969" from server<STEAM_0:1:91516512>
+[03:18:54] Client "CandyCrushGod6969" connected.
+[03:20:09] Client "CandyCrushGod6969" spawned in server <STEAM_0:1:91516512> (took 75 seconds).
+[03:23:48] LethalDumpster was killed by trigger_hurt
+[03:25:04] LethalDumpster was killed by trigger_hurt
+[03:25:05] CandyCrushGod6969 was killed by trigger_hurt
+[03:26:51] CandyCrushGod6969 killed LethalDumpster using weapon_l4d2_frying_pan
+[03:26:51] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[03:27:06] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[03:27:15] LethalDumpster killed CandyCrushGod6969 using weapon_l4d2_frying_pan
+[03:27:30] LethalDumpster suicided!
+[03:27:30] LethalDumpster killed CandyCrushGod6969 using env_explosion
+[03:27:38] LethalDumpster killed CandyCrushGod6969 using cw_mr96
+[03:27:47] Server is shutting down/changing levels.
+
+
+
+[03:28:33] New map: rp_powerplant_v2b3
+
+
+
+[05:05:25] New map: rp_powerplant_v2b3
+[16:08:12] Client "[Opi] Fat Gay" connected.
+[16:09:08] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+[16:09:30] (Console) banned Fat Gay permanently (Cheats)
+[16:09:30] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:10:10] Client "[Opi] Fat Gay" connected.
+[16:10:59] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[16:11:17] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[16:16:56] New map: rp_powerplant_v2b3
+[16:17:22] Client "[Opi] Fat Gay" connected.
+[16:18:11] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[16:20:16] Fat Gay: !menu
+[16:26:23] Fat Gay was killed by trigger_hurt
+[16:37:08] Client "Valien" connected.
+[16:40:50] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 222 seconds).
+[16:41:19] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[16:41:42] Fat Gay: !menu
+[16:42:29] Client "Valien" connected.
+[16:43:56] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 87 seconds).
+[16:44:19] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[17:01:05] Client "Valien" connected.
+[17:02:36] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 91 seconds).
+[17:02:54] Dropped "Emmett" from server<STEAM_0:1:41660292>
+
+
+
+[17:15:15] New map: rp_powerplant_v2b3
+[17:15:37] Client "[Opi] Fat Gay" connected.
+[17:16:29] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 52 seconds).
+[17:16:30] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:37] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:38] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:38] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:39] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:39] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:40] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:40] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:41] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:41] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:42] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:42] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:43] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:43] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:44] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:44] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:45] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:50] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:51] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:51] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:52] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:52] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:53] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:53] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:54] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:54] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:55] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:55] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:56] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:56] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:57] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:57] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:58] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:58] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:59] [Opi] Fat Gay was killed by trigger_hurt
+[17:20:59] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:00] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:00] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:01] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:01] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:02] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:02] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:03] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:03] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:04] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:04] [Opi] Fat Gay was killed by trigger_hurt
+[17:21:34] [Opi] Fat Gay was killed by trigger_hurt
+
+
+
+[17:26:38] New map: rp_powerplant_v2b3
+[17:27:00] Client "[Opi] Fat Gay" connected.
+[17:27:50] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+[17:27:53] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:27:54] Server is shutting down/changing levels.
+
+
+
+[17:28:44] New map: rp_powerplant_v2b3
+[17:31:13] Client "[Opi] Fat Gay" connected.
+[17:32:00] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 47 seconds).
+
+
+
+[17:34:12] New map: rp_powerplant_v2b3
+[17:34:14] Client "[Opi] Fat Gay" connected.
+[17:34:39] (Console) unbanned steamid STEAM_0:1:41660292
+[17:35:03] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[17:49:59] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:49:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[17:50:00] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:50:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[17:50:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:50:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[17:50:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:50:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[17:50:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:50:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[17:56:46] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:56:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep stunstick
+[17:56:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep stunstick
+[17:58:31] Fat Gay: /pickup
+[17:58:37] (TEAM) Fat Gay: /invholster
+[17:58:43] Fat Gay was killed by trigger_hurt
+[17:59:25] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:25] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:26] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:50] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b3.bsp
+[17:59:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[17:59:51] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/weapons/w_csgo_bayonet.mdl
+[17:59:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[18:00:02] Fat Gay: /invholster
+[18:01:08] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:08] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:08] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:08] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:09] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:09] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:26] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:26] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:27] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:27] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:27] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[18:01:30] Fat Gay suicided!
+
+
+
+[18:05:42] New map: rp_powerplant_v2b3
+[18:06:04] Client "[Opi] Fat Gay" connected.
+[18:06:52] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+
+
+
+[18:08:48] New map: rp_powerplant_v2b3
+[18:15:15] Client "[Opi] Fat Gay" connected.
+[18:16:02] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 47 seconds).
+
+
+
+[19:21:10] New map: rp_powerplant_v2b3
+[19:21:20] Client "[Opi] Fat Gay" connected.
+[19:22:25] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 65 seconds).
+[19:23:32] Fat Gay: !buyzfs_shop
+[19:23:36] Fat Gay: /buyzfs_shop
+[19:24:28] Fat Gay: /buymelons
+[19:24:37] Fat Gay: /buyApples
+[19:24:46] Fat Gay: /buyapples
+[19:24:50] Fat Gay: /buyapple
+[19:25:01] Fat Gay: /buyzfs_fruitbox_lemon
+[19:25:11] Fat Gay: /buyzfs_fruitbox_lemon
+[19:27:08] Fat Gay: /buyzfs_fruitbox_lemon
+[19:48:03] Fat Gay was killed by trigger_hurt
+[19:48:12] Server is shutting down/changing levels.
+
+
+
+[19:48:59] New map: rp_powerplant_v2b3
+
+
+
+[19:53:50] New map: rp_powerplant_v2b3
+[19:54:04] Client "[Opi] Fat Gay" connected.
+[19:54:54] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 50 seconds).
+[19:55:38] Fat Gay: /buyzfsshop
+
+
+
+[20:10:46] New map: rp_powerplant_v2b3
+[20:11:07] Client "[Opi] Fat Gay" connected.
+[20:11:55] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[20:12:35] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[20:13:12] Client "[Opi] Fat Gay" connected.
+[20:14:13] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 61 seconds).
+[20:16:21] Fat Gay: !rewards
+[20:22:20] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:23:13] Client "[Opi] Fat Gay" connected.
+[22:24:09] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+[22:28:32] Fat Gay<STEAM_0:1:218173703> spawned sent wck_projector
+[22:28:34] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[22:30:55] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/props/cs_office/projector.mdl
+[22:31:15] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on maps/rp_powerplant_v2b3.bsp
+[22:31:17] Fat Gay<STEAM_0:1:218173703> used the tool permaprops on models/rp_powerplant/desk.mdl
+[22:31:28] Fat Gay was killed by trigger_hurt
+[22:31:33] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

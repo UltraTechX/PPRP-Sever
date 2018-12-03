@@ -1,0 +1,13 @@
+Sun Aug 12 19:05:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Aug 12 19:05:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 19:07:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 19:09:06 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Aug 12 19:11:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Aug 12 19:11:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Aug 12 19:14:55 2018	Fat Gay (STEAM_0:1:218173703): !strip[ *
+Sun Aug 12 19:14:58 2018	Fat Gay (STEAM_0:1:218173703): !strip *
+Sun Aug 12 19:15:05 2018	Fat Gay (STEAM_0:1:218173703): !strip *
+Sun Aug 12 19:15:51 2018	Fat Gay (STEAM_0:1:218173703): !strip *
+Sun Aug 12 19:44:21 2018	Bot01 (BOT) has joined the game
+Sun Aug 12 19:44:21 2018	Bot01 (BOT) spawned
+Sun Aug 12 19:45:21 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk

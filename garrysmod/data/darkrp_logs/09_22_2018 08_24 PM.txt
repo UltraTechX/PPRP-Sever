@@ -1,0 +1,54 @@
+Sat Sep 22 20:24:28 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Sep 22 20:24:28 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 20:25:31 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Sep 22 20:25:32 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 20:26:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 20:26:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 20:27:21 2018	Fat Gay (STEAM_0:1:218173703): !goto gun
+Sat Sep 22 20:27:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 20:28:41 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 20:30:48 2018	guny Pwnd (STEAM_0:0:173118977) disconnected
+Sat Sep 22 20:34:57 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Sep 22 20:37:30 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Sep 22 20:37:30 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 20:37:31 2018	guny Pwnd (STEAM_0:0:173118977) disconnected
+Sat Sep 22 20:39:05 2018	LethalDumpster (STEAM_0:1:101135062) has joined the game
+Sat Sep 22 20:39:05 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 20:45:07 2018	Emmett (STEAM_0:1:41660292): !setmoney
+Sat Sep 22 20:45:10 2018	Emmett (STEAM_0:1:41660292): /setmoney
+Sat Sep 22 20:45:23 2018	Emmett (STEAM_0:1:41660292): /setmoney Emmett 9255849
+Sat Sep 22 20:45:23 2018	Emmett (STEAM_0:1:41660292) set Valien's money to $9,255,849
+Sat Sep 22 20:45:44 2018	Emmett (STEAM_0:1:41660292): !goto lethal
+Sat Sep 22 20:49:08 2018	Emmett (STEAM_0:1:41660292): 
+Sat Sep 22 20:50:13 2018	Emmett (STEAM_0:1:41660292): 
+Sat Sep 22 20:51:46 2018	LethalDumpster was killed by Entity [2123][trigger_hurt] with a trigger_hurt
+Sat Sep 22 20:51:47 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 20:56:15 2018	LethalDumpster (STEAM_0:1:101135062): ello
+Sat Sep 22 20:56:18 2018	Emmett (STEAM_0:1:41660292): hi
+Sat Sep 22 20:56:58 2018	Emmett (STEAM_0:1:41660292): 
+Sat Sep 22 20:57:48 2018	Emmett (STEAM_0:1:41660292): 
+Sat Sep 22 21:00:20 2018	LethalDumpster was killed by Entity [3508][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:00:21 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:00:56 2018	Bot02 (BOT) has joined the game
+Sat Sep 22 21:00:56 2018	Bot02 (BOT) spawned
+Sat Sep 22 21:01:45 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Sep 22 21:01:45 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:03:11 2018	guny Pwnd (STEAM_0:0:173118977): // hi :P
+Sat Sep 22 21:03:54 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sat Sep 22 21:05:21 2018	LethalDumpster was killed by Entity [2405][trigger_hurt] with a trigger_hurt
+Sat Sep 22 21:05:25 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sat Sep 22 21:06:04 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sat Sep 22 21:06:07 2018	Emmett (STEAM_0:1:41660292): !goto mark
+Sat Sep 22 21:06:11 2018	Emmett (STEAM_0:1:41660292): !goto Mark
+Sat Sep 22 21:07:11 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sat Sep 22 21:07:11 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:07:37 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:08:56 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sat Sep 22 21:08:59 2018	Emmett (STEAM_0:1:41660292): !goto mark
+Sat Sep 22 21:09:36 2018	LethalDumpster (STEAM_0:1:101135062): tram release not working?
+Sat Sep 22 21:10:34 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:10:51 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:11:11 2018	Mark (STEAM_0:0:143859663) spawned
+Sat Sep 22 21:13:17 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Sat Sep 22 21:13:43 2018	Emmett (STEAM_0:1:41660292): // Yall we rebooting!
+Sat Sep 22 21:13:51 2018	LethalDumpster (STEAM_0:1:101135062): k

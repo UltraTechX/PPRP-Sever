@@ -1,0 +1,5 @@
+Sun Oct 21 01:06:40 2018 - Nick: Really Really Smart Guinea Pig | IP: 68.61.242.145 | SteamID: STEAM_0:1:41205239.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:16:18 2018 - Nick: Really Really Smart Guinea Pig | IP: 68.61.242.145 | SteamID: STEAM_0:1:41205239.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

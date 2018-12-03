@@ -1,0 +1,516 @@
+Wed Oct 10 21:32:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Oct 10 21:32:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:33:05 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Wed Oct 10 21:33:05 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:33:26 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Wed Oct 10 21:33:26 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:33:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:34:15 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:34:28 2018	Craftygarrett (STEAM_0:1:184775407): // where the fuck is everyone else
+Wed Oct 10 21:34:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc still joining
+Wed Oct 10 21:34:40 2018	Craftygarrett (STEAM_0:1:184775407): // really
+Wed Oct 10 21:34:45 2018	fallenturtle (STEAM_0:1:62867403): // yep
+Wed Oct 10 21:34:49 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Wed Oct 10 21:34:49 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:34:59 2018	Nagegg (STEAM_0:0:98220726) has joined the game
+Wed Oct 10 21:34:59 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:35:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) has joined the game
+Wed Oct 10 21:35:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:35:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Well =3
+Wed Oct 10 21:36:20 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:36:35 2018	OSAMA BIN LADEN (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:36:44 2018	fallenturtle (STEAM_0:1:62867403): // amtrack airline we get you there safe and fast *crashes in the background*
+Wed Oct 10 21:36:46 2018	OSAMA BIN LADEN (STEAM_0:1:59756947): /name men birdy
+Wed Oct 10 21:36:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto fall
+Wed Oct 10 21:37:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Fat Gay. you should add a freezedown
+Wed Oct 10 21:37:34 2018	fallenturtle (STEAM_0:1:62867403): // THE GHOST IS HAUNTING ME
+Wed Oct 10 21:37:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i could
+Wed Oct 10 21:37:44 2018	fallenturtle (STEAM_0:1:62867403): // dont
+Wed Oct 10 21:38:07 2018	men birdy (STEAM_0:1:59756947): /name bad bird
+Wed Oct 10 21:38:22 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // So when the core gets too cold it freezes up the place
+Wed Oct 10 21:38:26 2018	bad bird (STEAM_0:1:59756947): 
+Wed Oct 10 21:38:29 2018	Nagegg (STEAM_0:0:98220726) spawned
+Wed Oct 10 21:38:30 2018	fallenturtle (STEAM_0:1:62867403): // no lol
+Wed Oct 10 21:38:36 2018	fallenturtle (STEAM_0:1:62867403): // id know
+Wed Oct 10 21:38:42 2018	fallenturtle (STEAM_0:1:62867403): // probaly no
+Wed Oct 10 21:38:45 2018	bad bird (STEAM_0:1:59756947): /ooc where all the players go
+Wed Oct 10 21:38:50 2018	Nagegg (STEAM_0:0:98220726): /a lol
+Wed Oct 10 21:38:52 2018	fallenturtle (STEAM_0:1:62867403): // also if this is a fusion plant why does it explode
+Wed Oct 10 21:39:53 2018	bad bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:40:06 2018	bad bird (STEAM_0:1:59756947): /name HOS Light
+Wed Oct 10 21:40:08 2018	fallenturtle (STEAM_0:1:62867403): @prop flying lol
+Wed Oct 10 21:40:20 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:40:21 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:41:06 2018	Craftygarrett was killed by [Opi] Fat Gay with a fas2_toz34
+Wed Oct 10 21:41:07 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:41:08 2018	Nagegg (STEAM_0:0:98220726): 
+Wed Oct 10 21:41:16 2018	Craftygarrett was killed by [Opi] Fat Gay with a fas2_toz34
+Wed Oct 10 21:41:17 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:41:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I want this server to grow think about the RP
+Wed Oct 10 21:41:28 2018	Craftygarrett was killed by HOS Light with a cw_m3super90
+Wed Oct 10 21:41:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:41:45 2018	Nagegg (STEAM_0:0:98220726) disconnected
+Wed Oct 10 21:41:55 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:41:56 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:42:04 2018	Craftygarrett was killed by [Opi] Fat Gay with a fas2_toz34
+Wed Oct 10 21:42:06 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:42:12 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:42:13 2018	HOS Light (STEAM_0:1:59756947): /wanted craftygarrett propblocking
+Wed Oct 10 21:42:14 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:42:23 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:42:24 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:42:24 2018	[Opi] Fat Gay was killed by Entity [4891][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:42:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:42:33 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:42:34 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:42:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gar
+Wed Oct 10 21:42:39 2018	HOS Light (STEAM_0:1:59756947): /wanted craftygarrett propblocking
+Wed Oct 10 21:42:39 2018	HOS Light has made Craftygarrett wanted, reason: propblocking
+Wed Oct 10 21:42:41 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:42:42 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:42:49 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:42:50 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:43:07 2018	HOS Light (STEAM_0:1:59756947): /wanted craftygarrett propblocking
+Wed Oct 10 21:43:07 2018	HOS Light has made Craftygarrett wanted, reason: propblocking
+Wed Oct 10 21:43:12 2018	HOS Light was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 21:43:12 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:43:13 2018	HOS Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:43:13 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:43:19 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:43:20 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:43:27 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // What the hell is happening?!
+Wed Oct 10 21:43:47 2018	HOS Light (STEAM_0:1:59756947): /ooc we need more players
+Wed Oct 10 21:43:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah
+Wed Oct 10 21:43:57 2018	fallenturtle (STEAM_0:1:62867403): /drop
+Wed Oct 10 21:43:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // HELL YEA!
+Wed Oct 10 21:44:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ppl should spread the word
+Wed Oct 10 21:44:13 2018	HOS Light (STEAM_0:1:59756947): /wanted craftygarrett 
+Wed Oct 10 21:44:28 2018	HOS Light (STEAM_0:1:59756947): /wanted craftygarrett owner said anything 
+Wed Oct 10 21:44:28 2018	HOS Light has made Craftygarrett wanted, reason: owner said anything
+Wed Oct 10 21:44:29 2018	Craftygarrett is no longer wanted by the Police. Revoked by: HOS Light
+Wed Oct 10 21:44:29 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:44:29 2018	HOS Light (STEAM_0:1:59756947) arrested Craftygarrett
+Wed Oct 10 21:44:45 2018	Craftygarrett (STEAM_0:1:184775407): @why was i arrested
+Wed Oct 10 21:45:03 2018	Craftygarrett (STEAM_0:1:184775407): // why was i arrested
+Wed Oct 10 21:45:16 2018	HOS Light (STEAM_0:1:59756947): /ooc owner said stop
+Wed Oct 10 21:45:23 2018	[Opi] Fat Gay was killed by Entity [526][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:45:23 2018	Craftygarrett was killed by Entity [526][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:45:24 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:45:26 2018	fallenturtle (STEAM_0:1:62867403): // mr owner come here please i got some questions
+Wed Oct 10 21:45:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:45:30 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) has joined the game
+Wed Oct 10 21:45:30 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 21:45:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gar
+Wed Oct 10 21:45:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Wed Oct 10 21:45:43 2018	Craftygarrett (STEAM_0:1:184775407): // fat
+Wed Oct 10 21:45:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) unarrested Craftygarrett
+Wed Oct 10 21:45:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto turt
+Wed Oct 10 21:45:58 2018	[Opi] Fat Gay was killed by Entity [4909][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:45:58 2018	Craftygarrett was killed by Entity [4909][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:45:59 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:46:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:46:04 2018	HOS Light was killed by Entity [5045][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:46:06 2018	HOS Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:46:22 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:46:23 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:46:24 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Scripted things limit?!
+Wed Oct 10 21:46:42 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:46:43 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:46:54 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:46:55 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:46:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ Lift buttons not working
+Wed Oct 10 21:47:03 2018	HOS Light was killed by Entity [4868][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:47:05 2018	HOS Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:47:10 2018	Craftygarrett was killed by fallenturtle with a fas2_toz34
+Wed Oct 10 21:47:11 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:47:20 2018	HOS Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:47:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Lift buttons are not working
+Wed Oct 10 21:47:31 2018	HOS Light (STEAM_0:1:59756947): /name HOC Light
+Wed Oct 10 21:47:34 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yea
+Wed Oct 10 21:47:38 2018	Craftygarrett was killed by Entity [4909][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:47:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:47:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): And normal buttons don't work
+Wed Oct 10 21:48:10 2018	HOC Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:48:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Sorry?
+Wed Oct 10 21:48:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): The buttons
+Wed Oct 10 21:48:38 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Can't
+Wed Oct 10 21:48:43 2018	HOC Light (STEAM_0:1:59756947): /name Light
+Wed Oct 10 21:48:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Select the elevator to add buttons for.
+Wed Oct 10 21:48:58 2018	Craftygarrett was killed by Entity [5025][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:48:58 2018	fallenturtle was killed by Entity [5024][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:48:59 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:48:59 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:49:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): But
+Wed Oct 10 21:49:07 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): It's a world prop
+Wed Oct 10 21:49:09 2018	Light (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:49:15 2018	fallenturtle (STEAM_0:1:62867403): @they killed me with a explosive.... for no reson
+Wed Oct 10 21:49:24 2018	Light (STEAM_0:1:59756947): hi
+Wed Oct 10 21:49:31 2018	Light (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:49:34 2018	Light (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:49:44 2018	Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:49:59 2018	Light (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:50:17 2018	Light (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:50:18 2018	Light (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:50:20 2018	Light (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:50:49 2018	Light (STEAM_0:1:59756947): /invholster
+Wed Oct 10 21:50:55 2018	Light (STEAM_0:1:59756947): /name SANS UNDERTALE?
+Wed Oct 10 21:51:02 2018	Light (STEAM_0:1:59756947): /NAME SANS UNDERTALE
+Wed Oct 10 21:51:13 2018	SANS UNDERTALE (STEAM_0:1:59756947): /invholster
+Wed Oct 10 21:51:22 2018	fallenturtle (STEAM_0:1:62867403): // /ban all 0
+Wed Oct 10 21:51:24 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 21:51:25 2018	SANS UNDERTALE (STEAM_0:1:59756947): 
+Wed Oct 10 21:51:26 2018	SANS UNDERTALE (STEAM_0:1:59756947): 
+Wed Oct 10 21:51:28 2018	SANS UNDERTALE (STEAM_0:1:59756947): 
+Wed Oct 10 21:51:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // ? -_-
+Wed Oct 10 21:51:36 2018	SANS UNDERTALE (STEAM_0:1:59756947): Triggered
+Wed Oct 10 21:52:01 2018	[Opi] Fat Gay was killed by Craftygarrett with a cw_fiveseven
+Wed Oct 10 21:52:06 2018	SANS UNDERTALE (STEAM_0:1:59756947): sans
+Wed Oct 10 21:52:11 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:52:12 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:52:20 2018	Craftygarrett was killed by Entity [5039][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:52:20 2018	SANS UNDERTALE was killed by Entity [5039][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:52:26 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 21:52:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:52:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:52:39 2018	Craftygarrett (STEAM_0:1:184775407): /advert trick or treat
+Wed Oct 10 21:52:40 2018	fallenturtle (STEAM_0:1:62867403): // can i be tped to garret i dont want to wait on the tram
+Wed Oct 10 21:52:44 2018	SANS UNDERTALE (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:52:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I hate the scripted enity limit ._.
+Wed Oct 10 21:52:48 2018	[Opi] Fat Gay was killed by Entity [5043][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:52:48 2018	Craftygarrett was killed by Entity [5043][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:52:50 2018	SANS UNDERTALE (STEAM_0:1:59756947): boop
+Wed Oct 10 21:52:51 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:52:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:52:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto sans
+Wed Oct 10 21:52:55 2018	SANS UNDERTALE (STEAM_0:1:59756947): boop
+Wed Oct 10 21:53:01 2018	SANS UNDERTALE (STEAM_0:1:59756947): zzz
+Wed Oct 10 21:53:04 2018	SANS UNDERTALE (STEAM_0:1:59756947): zz
+Wed Oct 10 21:53:05 2018	Craftygarrett was killed by [Opi] Fat Gay with a weapon_ar2
+Wed Oct 10 21:53:06 2018	SANS UNDERTALE (STEAM_0:1:59756947): zzz
+Wed Oct 10 21:53:07 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:53:10 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): lol
+Wed Oct 10 21:53:15 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // scripted entity limit is error sound rape
+Wed Oct 10 21:53:17 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Yeet.
+Wed Oct 10 21:53:21 2018	SANS UNDERTALE (STEAM_0:1:59756947): triggered
+Wed Oct 10 21:53:35 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 21:53:37 2018	SANS UNDERTALE was killed by [Opi] Fat Gay with a rpg_missile
+Wed Oct 10 21:53:38 2018	SANS UNDERTALE (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:53:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): it save you from pressign yo keyz
+Wed Oct 10 21:54:16 2018	[Opi] Fat Gay was killed by Entity [5036][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:54:16 2018	Craftygarrett was killed by Entity [5036][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:54:16 2018	SANS UNDERTALE was killed by Entity [5036][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 21:54:18 2018	SANS UNDERTALE (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:54:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:54:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !warn garrett ammobox spam
+Wed Oct 10 21:54:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:54:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gart
+Wed Oct 10 21:54:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto gar
+Wed Oct 10 21:54:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Wed Oct 10 21:54:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // oof.
+Wed Oct 10 21:55:10 2018	pants (STEAM_0:0:77636123) has joined the game
+Wed Oct 10 21:55:10 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:55:21 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // bowlette'
+Wed Oct 10 21:55:25 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // bullet
+Wed Oct 10 21:55:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc YES
+Wed Oct 10 21:55:59 2018	fallenturtle (STEAM_0:1:62867403): @mr owner i need you for a experiment
+Wed Oct 10 21:56:26 2018	fallenturtle (STEAM_0:1:62867403): // tell me when its in the lobby 
+Wed Oct 10 21:56:30 2018	fallenturtle (STEAM_0:1:62867403): // also put it in the air a bit 
+Wed Oct 10 21:56:37 2018	fallenturtle (STEAM_0:1:62867403): // or it will do a bad thing
+Wed Oct 10 21:56:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok ready
+Wed Oct 10 21:57:15 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:16 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:19 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:21 2018	pants (STEAM_0:0:77636123) spawned
+Wed Oct 10 21:57:22 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y HELL NO
+Wed Oct 10 21:57:28 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // YOU GUYS MAY WANNA RUN
+Wed Oct 10 21:57:45 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:46 2018	waviestballoonx9 [WaviestRP] was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:57:50 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:57:55 2018	pants (STEAM_0:0:77636123) disconnected
+Wed Oct 10 21:57:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // YOU SCARD THE LIFE FAK OUT OF ME 0-0
+Wed Oct 10 21:57:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:58:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:58:19 2018	SANS UNDERTALE (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:58:27 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:58:39 2018	SANS UNDERTALE (STEAM_0:1:59756947): /me bow with great honor
+Wed Oct 10 21:58:42 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 21:58:43 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:58:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 21:58:48 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): I Don't Give A Shit
+Wed Oct 10 21:58:52 2018	fallenturtle (STEAM_0:1:62867403): //advert 049 is in the reactor area
+Wed Oct 10 21:58:54 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): srry bind
+Wed Oct 10 21:59:03 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 21:59:27 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): is that a public pac?
+Wed Oct 10 21:59:27 2018	SANS UNDERTALE (STEAM_0:1:59756947) spawned
+Wed Oct 10 21:59:34 2018	[Opi] Fat Gay was killed by Craftygarrett with a weapon_sillyzombieclaw_v2
+Wed Oct 10 21:59:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:59:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto craft
+Wed Oct 10 21:59:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 21:59:51 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Wed Oct 10 21:59:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Wed Oct 10 21:59:54 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): he's a zombie
+Wed Oct 10 21:59:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): OH FAXC
+Wed Oct 10 21:59:58 2018	SANS UNDERTALE (STEAM_0:1:59756947): /name evil bird
+Wed Oct 10 21:59:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 22:00:06 2018	waviestballoonx9 [WaviestRP] was killed by Craftygarrett with a weapon_sillyzombieclaw_v2
+Wed Oct 10 22:00:09 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): x_X
+Wed Oct 10 22:00:09 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:00:21 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y WTH
+Wed Oct 10 22:00:30 2018	evil bird (STEAM_0:1:59756947): /ooc i am evil bird
+Wed Oct 10 22:00:31 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): NO
+Wed Oct 10 22:00:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): BAD BOI
+Wed Oct 10 22:00:45 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 22:00:46 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:00:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y WAIT
+Wed Oct 10 22:00:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): How did you get that
+Wed Oct 10 22:00:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): wth
+Wed Oct 10 22:01:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Where lol
+Wed Oct 10 22:01:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Welp
+Wed Oct 10 22:01:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto evil
+Wed Oct 10 22:01:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /warrant [Opi] Bad boi
+Wed Oct 10 22:01:44 2018	Craftygarrett was killed by Entity [5074][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 22:01:51 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // there goes the core
+Wed Oct 10 22:01:52 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Fat Gay is a bad boi
+Wed Oct 10 22:02:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // And must be contaned!
+Wed Oct 10 22:02:20 2018	fallenturtle (STEAM_0:1:62867403): /advert 049 is in main lobby
+Wed Oct 10 22:02:24 2018	waviestballoonx9 [WaviestRP] was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 22:02:24 2018	fallenturtle (STEAM_0:1:62867403): /advert so ya
+Wed Oct 10 22:02:25 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:02:29 2018	fallenturtle (STEAM_0:1:62867403): /advert do a thing
+Wed Oct 10 22:02:35 2018	Sinbad (STEAM_0:0:88069895) has joined the game
+Wed Oct 10 22:02:35 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:02:42 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /advert But I learned how to be nice and not be a mad scientist
+Wed Oct 10 22:02:47 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // >:(
+Wed Oct 10 22:02:53 2018	fallenturtle (STEAM_0:1:62867403): /advert nvm then
+Wed Oct 10 22:03:09 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:04:46 2018	Alen (STEAM_0:0:120134659) has joined the game
+Wed Oct 10 22:04:46 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:05:15 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 10 22:05:15 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 10 22:05:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Ok, now I loved this game a long time ago but it's dead now, they've shutdown all the server and is no longer playable
+Wed Oct 10 22:05:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // And that's
+Wed Oct 10 22:05:49 2018	evil bird (STEAM_0:1:59756947): i mean meh
+Wed Oct 10 22:05:52 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:05:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Ace of Spades ._.
+Wed Oct 10 22:05:56 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // I remember the game b4 dev
+Wed Oct 10 22:06:02 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // ace of spades?
+Wed Oct 10 22:06:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // yeah
+Wed Oct 10 22:06:18 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 10 22:06:18 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // you mean swamp cinema but it's WW2 right?
+Wed Oct 10 22:06:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // It closed down last week
+Wed Oct 10 22:06:38 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // swamp cinema has ace of spades
+Wed Oct 10 22:06:55 2018	Alen was killed by Entity [2744][func_rotating] with a func_rotating
+Wed Oct 10 22:06:56 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:07:04 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:07:06 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // 4198. I'll remember that
+Wed Oct 10 22:07:12 2018	Enviro (STEAM_0:0:80115103): // its the same every time
+Wed Oct 10 22:07:13 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // just play along
+Wed Oct 10 22:07:14 2018	Enviro (STEAM_0:0:80115103): // lmao
+Wed Oct 10 22:07:33 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // can we get a chef?
+Wed Oct 10 22:07:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fmuscle *
+Wed Oct 10 22:08:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Wow
+Wed Oct 10 22:08:08 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // y u no cook
+Wed Oct 10 22:08:24 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // y u no chrf
+Wed Oct 10 22:08:30 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // chef*
+Wed Oct 10 22:08:31 2018	fallenturtle (STEAM_0:1:62867403): /advert teerrorists are in the reactor core room 
+Wed Oct 10 22:08:44 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // cool, I'll infect those bitches
+Wed Oct 10 22:08:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ How do I do script for PAK3
+Wed Oct 10 22:08:55 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // finally my infection is actually good for once
+Wed Oct 10 22:09:32 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Hey
+Wed Oct 10 22:09:38 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 0-0
+Wed Oct 10 22:09:47 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // FoUR OnE NEIN FaiVe
+Wed Oct 10 22:09:50 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): How do I insert scripts to PAK
+Wed Oct 10 22:09:55 2018	fallenturtle (STEAM_0:1:62867403): /advert there goeing to my office
+Wed Oct 10 22:09:56 2018	evil bird (STEAM_0:1:59756947): /ooc hey whats the discord?
+Wed Oct 10 22:10:00 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // ass
+Wed Oct 10 22:10:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc lemme get it
+Wed Oct 10 22:10:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc https://pastebin.com/tFeb5kaS
+Wed Oct 10 22:10:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc fuck
+Wed Oct 10 22:10:23 2018	fallenturtle (STEAM_0:1:62867403): /advert 049 where are you
+Wed Oct 10 22:10:28 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ace of Spades
+Wed Oct 10 22:10:29 2018	fallenturtle (STEAM_0:1:62867403): /advert we have the tele we can use
+Wed Oct 10 22:10:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Man
+Wed Oct 10 22:10:30 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // lobby
+Wed Oct 10 22:10:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc https://discord.gg/HntKeW3
+Wed Oct 10 22:10:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 22:10:45 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // say hump me, fuck me
+Wed Oct 10 22:11:15 2018	fallenturtle (STEAM_0:1:62867403): /advert there in my office 
+Wed Oct 10 22:11:19 2018	fallenturtle (STEAM_0:1:62867403): /advet getem
+Wed Oct 10 22:11:26 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // say hump me, fuck me
+Wed Oct 10 22:11:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): @ Watch this, slay me
+Wed Oct 10 22:11:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Slay me
+Wed Oct 10 22:11:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 0-0
+Wed Oct 10 22:11:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): WTH
+Wed Oct 10 22:11:56 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // terrorists rdming
+Wed Oct 10 22:12:03 2018	Alen (STEAM_0:0:120134659): ?
+Wed Oct 10 22:12:03 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Can you slay mah
+Wed Oct 10 22:12:04 2018	Enviro (STEAM_0:0:80115103): // LMAO we can kill you mate
+Wed Oct 10 22:12:07 2018	evil bird (STEAM_0:1:59756947): /ooc ok join the discord
+Wed Oct 10 22:12:08 2018	waviestballoonx9 [WaviestRP] was killed by Himself with a suicide trick
+Wed Oct 10 22:12:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay wav
+Wed Oct 10 22:12:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): HELL YEAH
+Wed Oct 10 22:12:17 2018	Enviro (STEAM_0:0:80115103): !motd
+Wed Oct 10 22:12:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ACE OF SPADES
+Wed Oct 10 22:12:22 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:12:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 22:12:49 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:12:58 2018	▼GEWPInspectorBonk Garbage.TF was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 22:12:59 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 22:13:46 2018	▼GEWPInspectorBonk Garbage.TF was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Wed Oct 10 22:13:55 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) disconnected
+Wed Oct 10 22:13:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring gweo
+Wed Oct 10 22:14:36 2018	Alen was killed by evil bird with a eoti_raven_swep
+Wed Oct 10 22:14:38 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:14:48 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:15:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio I'm coming to core
+Wed Oct 10 22:15:36 2018	fallenturtle (STEAM_0:1:62867403): /radio good
+Wed Oct 10 22:15:38 2018	Sinbad was killed by Himself with a suicide trick
+Wed Oct 10 22:15:43 2018	fallenturtle (STEAM_0:1:62867403): /radio XD rong radio
+Wed Oct 10 22:15:43 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:15:51 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio FAK
+Wed Oct 10 22:16:10 2018	waviestballoonx9 [WaviestRP] was killed by Enviro with a fas2_thrown_m67
+Wed Oct 10 22:16:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): I'M WITH YOU
+Wed Oct 10 22:16:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:16:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Are SCPs allowed to kill terroriests?
+Wed Oct 10 22:16:47 2018	Enviro (STEAM_0:0:80115103): // yes
+Wed Oct 10 22:16:47 2018	fallenturtle (STEAM_0:1:62867403): // yes
+Wed Oct 10 22:16:51 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // FAK
+Wed Oct 10 22:17:14 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Wed Oct 10 22:17:14 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:17:22 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Lol.
+Wed Oct 10 22:17:39 2018	Enviro (STEAM_0:0:80115103): // cocaine is goood
+Wed Oct 10 22:17:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // WTH
+Wed Oct 10 22:17:52 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /job Grunt
+Wed Oct 10 22:18:38 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // WHAT THE HELL MAN
+Wed Oct 10 22:18:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Oh.
+Wed Oct 10 22:18:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto light
+Wed Oct 10 22:18:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto evil
+Wed Oct 10 22:18:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Lol.
+Wed Oct 10 22:19:11 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:19:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // WTH?! xD
+Wed Oct 10 22:19:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): fap
+Wed Oct 10 22:19:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /fa[
+Wed Oct 10 22:20:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /fap
+Wed Oct 10 22:20:04 2018	Enviro (STEAM_0:0:80115103) disconnected
+Wed Oct 10 22:20:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // yay
+Wed Oct 10 22:20:38 2018	waviestballoonx9 [WaviestRP] was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 22:20:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:20:48 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): wth
+Wed Oct 10 22:21:46 2018	evil bird (STEAM_0:1:59756947): /invholster
+Wed Oct 10 22:21:48 2018	evil bird (STEAM_0:1:59756947): /me salutes with great respect
+Wed Oct 10 22:21:57 2018	fallenturtle (STEAM_0:1:62867403): @mr owner wtf happened
+Wed Oct 10 22:22:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp ^ 1000
+Wed Oct 10 22:22:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp evil 1000
+Wed Oct 10 22:22:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto evi
+Wed Oct 10 22:22:43 2018	fallenturtle (STEAM_0:1:62867403): // anyways gtg for a little bit
+Wed Oct 10 22:22:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring evi
+Wed Oct 10 22:22:46 2018	fallenturtle (STEAM_0:1:62867403) disconnected
+Wed Oct 10 22:22:56 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:22:56 2018	evil bird (STEAM_0:1:59756947): 
+Wed Oct 10 22:22:58 2018	evil bird (STEAM_0:1:59756947): 
+Wed Oct 10 22:26:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 22:26:51 2018	evil bird (STEAM_0:1:59756947): /name The Protector
+Wed Oct 10 22:27:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Wed Oct 10 22:28:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:29:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto pro
+Wed Oct 10 22:30:02 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // WE GOT MORE PEOPLE!
+Wed Oct 10 22:30:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Wishing there was a faster way to the core
+Wed Oct 10 22:31:22 2018	The Protector (STEAM_0:1:59756947): 
+Wed Oct 10 22:31:34 2018	Alen was killed by Sinbad with a cw_scarh
+Wed Oct 10 22:31:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // I HAVE A COOL IDEA
+Wed Oct 10 22:31:35 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:31:37 2018	The Protector (STEAM_0:1:59756947): 
+Wed Oct 10 22:31:45 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:32:07 2018	Nazeem (STEAM_0:0:69668875) has joined the game
+Wed Oct 10 22:32:07 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 22:32:21 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:32:25 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:32:37 2018	Somebody (STEAM_0:0:58278368): 
+Wed Oct 10 22:32:46 2018	ciaran (STEAM_0:1:110782291) has joined the game
+Wed Oct 10 22:32:46 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:32:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // HANDS UP DON'T SHOOT
+Wed Oct 10 22:33:14 2018	The Protector (STEAM_0:1:59756947): /name Dark Bird boi
+Wed Oct 10 22:33:19 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:33:26 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:33:41 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 22:33:52 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:33:54 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Wed Oct 10 22:33:54 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 22:33:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): HERY
+Wed Oct 10 22:33:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hey
+Wed Oct 10 22:34:03 2018	Sinbad was killed by Himself with a suicide trick
+Wed Oct 10 22:34:07 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:34:19 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:34:33 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:35:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): A better tram
+Wed Oct 10 22:35:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Uber Tram
+Wed Oct 10 22:35:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): DropBox
+Wed Oct 10 22:36:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Hey
+Wed Oct 10 22:36:12 2018	Dark Bird boi was killed by Alen with a fas2_machete
+Wed Oct 10 22:36:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Are you a fan of Ace of Spades
+Wed Oct 10 22:36:15 2018	Dark Bird boi (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:36:32 2018	Nazeem (STEAM_0:0:69668875): // The gun in destiny?
+Wed Oct 10 22:36:44 2018	Craftygarrett was killed by ciaran with a cw_l85a2
+Wed Oct 10 22:36:45 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // No, the game
+Wed Oct 10 22:36:58 2018	Alen was killed by [Opi] Fat Gay with a eoti_raven_swep
+Wed Oct 10 22:36:59 2018	Nazeem (STEAM_0:0:69668875): // I never played it
+Wed Oct 10 22:37:00 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:37:00 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:37:06 2018	Dark Bird boi (STEAM_0:1:59756947): fap
+Wed Oct 10 22:37:08 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Well you can't
+Wed Oct 10 22:37:12 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:37:17 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:37:20 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // It's been shut down a week ago
+Wed Oct 10 22:37:28 2018	Nazeem (STEAM_0:0:69668875): // Oh
+Wed Oct 10 22:37:40 2018	Nazeem (STEAM_0:0:69668875): // why though?\
+Wed Oct 10 22:37:42 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Due to unfixable bugs
+Wed Oct 10 22:37:44 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:37:50 2018	[Opi] Fat Gay was killed by ciaran with a cw_l85a2
+Wed Oct 10 22:37:50 2018	Nazeem (STEAM_0:0:69668875): // Oh
+Wed Oct 10 22:38:01 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // You can still play the classic
+Wed Oct 10 22:38:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 22:38:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // OpenSpades
+Wed Oct 10 22:38:07 2018	Nazeem (STEAM_0:0:69668875): // will it come back or perma shut down?
+Wed Oct 10 22:38:13 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Perm
+Wed Oct 10 22:38:16 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // BUT
+Wed Oct 10 22:38:19 2018	Nazeem (STEAM_0:0:69668875): // Rip
+Wed Oct 10 22:38:24 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // OpenSpades was the first
+Wed Oct 10 22:38:57 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 22:39:24 2018	Alen was killed by Himself with a suicide trick
+Wed Oct 10 22:39:29 2018	Dark Bird boi (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:39:35 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:40:02 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:40:03 2018	Sinbad was killed by ciaran with a cw_l85a2
+Wed Oct 10 22:40:12 2018	ciaran was killed by Nazeem with a cw_g36c
+Wed Oct 10 22:40:14 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:40:14 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // OpenSpades was last updated this year
+Wed Oct 10 22:40:14 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:40:18 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:40:43 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:40:44 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 22:40:56 2018	Dark Bird boi (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:41:09 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /job Uber Tram Owner
+Wed Oct 10 22:41:16 2018	Dark Bird boi (STEAM_0:1:59756947): /name Director Gaster
+Wed Oct 10 22:41:27 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:41:30 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:41:49 2018	Director Gaster was killed by Nazeem with a weapon_sillyzombieclaw_v2
+Wed Oct 10 22:41:51 2018	Director Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:41:53 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:42:07 2018	Director Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:42:07 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Wed Oct 10 22:42:11 2018	Sammy Boom (STEAM_0:0:91181601): I'm here for uhh
+Wed Oct 10 22:42:13 2018	Sammy Boom (STEAM_0:0:91181601): rebellion
+Wed Oct 10 22:42:15 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:42:17 2018	Director Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:42:46 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 22:43:01 2018	Alen was killed by ciaran with a cw_deagle
+Wed Oct 10 22:43:02 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:43:21 2018	ciaran was killed by Sinbad with a cw_scarh
+Wed Oct 10 22:43:23 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:43:25 2018	Director Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:43:35 2018	ciaran (STEAM_0:1:110782291) spawned
+Wed Oct 10 22:43:40 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:43:57 2018	Director Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:44:08 2018	Director Gaster (STEAM_0:1:59756947) spawned

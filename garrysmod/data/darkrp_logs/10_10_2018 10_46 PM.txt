@@ -1,0 +1,857 @@
+Wed Oct 10 22:46:41 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Wed Oct 10 22:46:41 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:46:50 2018	Nazeem (STEAM_0:0:69668875) has joined the game
+Wed Oct 10 22:46:50 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 22:47:01 2018	Sinbad (STEAM_0:0:88069895) has joined the game
+Wed Oct 10 22:47:01 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:47:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) has joined the game
+Wed Oct 10 22:47:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:47:21 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Wed Oct 10 22:47:21 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 22:47:34 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:48:00 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 22:48:09 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 22:48:29 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 22:48:41 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Rip server
+Wed Oct 10 22:49:12 2018	Alen (STEAM_0:0:120134659) has joined the game
+Wed Oct 10 22:49:12 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:49:33 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:49:55 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Wed Oct 10 22:49:55 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 22:49:55 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Wed Oct 10 22:49:55 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:50:26 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 22:50:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:50:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 22:50:44 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 22:50:49 2018	Nazeem (STEAM_0:0:69668875): /advert Come on down to the Cafeteria for good ass fast food
+Wed Oct 10 22:50:52 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Wed Oct 10 22:50:52 2018	Director Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:51:22 2018	Craftygarrett was killed by Entity [4899][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 22:51:23 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 22:51:28 2018	Sammy Boom (STEAM_0:0:91181601): I'm gonna build a club
+Wed Oct 10 22:51:31 2018	Sammy Boom (STEAM_0:0:91181601): and is gon be awesome
+Wed Oct 10 22:51:47 2018	Sammy Boom (STEAM_0:0:91181601): a dance partei
+Wed Oct 10 22:52:01 2018	Nazeem (STEAM_0:0:69668875): /advert Feeling hungry? come down to the cafeteria for some good ass food
+Wed Oct 10 22:52:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /job Uber Tram Owner
+Wed Oct 10 22:52:05 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:52:08 2018	Sammy Boom (STEAM_0:0:91181601): I will take short route
+Wed Oct 10 22:52:54 2018	Director Gaster (STEAM_0:1:59756947): .
+Wed Oct 10 22:53:26 2018	Director Gaster (STEAM_0:1:59756947): /name Dark Bird
+Wed Oct 10 22:53:26 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 22:53:52 2018	Alen was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 22:53:54 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:53:59 2018	Alen (STEAM_0:0:120134659): !motd
+Wed Oct 10 22:53:59 2018	Dark Bird (STEAM_0:1:59756947): /ooc The Dark bird returns
+Wed Oct 10 22:55:28 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 22:56:35 2018	Alen (STEAM_0:0:120134659): // Oh my god, it feels like everyone from Fallout moved here
+Wed Oct 10 22:56:44 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 22:56:52 2018	Nazeem (STEAM_0:0:69668875): // Omfg stfu
+Wed Oct 10 22:56:57 2018	Craftygarrett (STEAM_0:1:184775407): /advert no one died
+Wed Oct 10 22:57:00 2018	Alen (STEAM_0:0:120134659): // Thats not nice
+Wed Oct 10 22:57:27 2018	Sammy Boom (STEAM_0:0:91181601): // Sounds like one's of them there... "Anti Nuclear Plant" people'z
+Wed Oct 10 22:57:47 2018	fallenturtle (STEAM_0:1:62867403): // its fusion
+Wed Oct 10 22:57:55 2018	fallenturtle (STEAM_0:1:62867403): // it is
+Wed Oct 10 22:58:04 2018	Sammy Boom (STEAM_0:0:91181601): // I'z bet he's all's like "Sher-no-bile wuz a mistake"
+Wed Oct 10 22:58:42 2018	Sammy Boom (STEAM_0:0:91181601): // why is the temperature going up
+Wed Oct 10 22:59:19 2018	Dark Bird (STEAM_0:1:59756947): /ooc let me out
+Wed Oct 10 22:59:24 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio BOO!
+Wed Oct 10 22:59:26 2018	Sammy Boom (STEAM_0:0:91181601): // SCPs can't be let out
+Wed Oct 10 22:59:31 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // BOO!
+Wed Oct 10 22:59:36 2018	Sammy Boom (STEAM_0:0:91181601): // Also pumps and fan were off
+Wed Oct 10 22:59:49 2018	Sammy Boom (STEAM_0:0:91181601): // I just turned them on
+Wed Oct 10 22:59:57 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:00:02 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:00:10 2018	Sammy Boom (STEAM_0:0:91181601): // isn't there a 15 minute time before you can blow up tyhe plant
+Wed Oct 10 23:00:13 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:00:30 2018	Alen (STEAM_0:0:120134659): // idk i went afk for a bit
+Wed Oct 10 23:00:30 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:00:39 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:00:44 2018	Nazeem (STEAM_0:0:69668875): /afk
+Wed Oct 10 23:00:48 2018	Nazeem (STEAM_0:0:69668875): !afk
+Wed Oct 10 23:01:20 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Uber Tram is now online, and is ready to pick you up!
+Wed Oct 10 23:01:51 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:02:09 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:02:19 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:02:31 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:02:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // UBER TRAM!
+Wed Oct 10 23:02:51 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): yea
+Wed Oct 10 23:03:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y GET BACK IN
+Wed Oct 10 23:03:34 2018	Dark Bird (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:04:05 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): wth
+Wed Oct 10 23:04:07 2018	Dark Bird (STEAM_0:1:59756947): /name Gaster
+Wed Oct 10 23:04:15 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): OPEN UP
+Wed Oct 10 23:04:15 2018	nuclearnacho88 (STEAM_0:0:166782773) has joined the game
+Wed Oct 10 23:04:15 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:04:19 2018	Gaster (STEAM_0:1:59756947): 
+Wed Oct 10 23:04:20 2018	Gaster (STEAM_0:1:59756947): 
+Wed Oct 10 23:04:21 2018	fallenturtle (STEAM_0:1:62867403): /warrant sinbad being a terrorist trying to take me hostage
+Wed Oct 10 23:04:24 2018	Alen (STEAM_0:0:120134659): // hey nuc
+Wed Oct 10 23:04:29 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): 0-0
+Wed Oct 10 23:04:47 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:04:50 2018	Alen was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 23:04:51 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:05:00 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Uber Tram is now online, and is ready to pick you up!
+Wed Oct 10 23:05:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Uber Tram is now online, and is ready to pick you up!
+Wed Oct 10 23:05:20 2018	Somebody was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:05:24 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:05:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y Uber Tram
+Wed Oct 10 23:06:05 2018	fallenturtle (STEAM_0:1:62867403): /wanted sinbad being a terrorist trying to kidnap me
+Wed Oct 10 23:06:05 2018	fallenturtle has made Sinbad wanted, reason: being a terrorist trying to kidnap me
+Wed Oct 10 23:06:07 2018	Sinbad is no longer wanted by the Police. Revoked by: fallenturtle
+Wed Oct 10 23:06:07 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:06:07 2018	fallenturtle (STEAM_0:1:62867403) arrested Sinbad
+Wed Oct 10 23:06:08 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:06:26 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): OPEN UP
+Wed Oct 10 23:06:32 2018	Craftygarrett (STEAM_0:1:184775407): /advert fuck off
+Wed Oct 10 23:06:36 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 23:06:44 2018	Craftygarrett (STEAM_0:1:184775407): /advert we aren ot playing scp rp
+Wed Oct 10 23:06:55 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): IP
+Wed Oct 10 23:06:57 2018	Sinbad (STEAM_0:0:88069895): /advert Help 
+Wed Oct 10 23:06:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ID
+Wed Oct 10 23:07:02 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): ID Pleas
+Wed Oct 10 23:07:06 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Keycard
+Wed Oct 10 23:07:07 2018	fallenturtle (STEAM_0:1:62867403): /advert sinbad your a terrorist
+Wed Oct 10 23:07:15 2018	Sammy Boom (STEAM_0:0:91181601): // *you're
+Wed Oct 10 23:07:23 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:07:35 2018	Craftygarrett (STEAM_0:1:184775407): /advert shut the fuck up we need to work
+Wed Oct 10 23:07:50 2018	Somebody was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:07:52 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:07:57 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) unarrested Sinbad
+Wed Oct 10 23:08:03 2018	Alen (STEAM_0:0:120134659): // Jeez crafty salty on fallout salty here eh?
+Wed Oct 10 23:08:05 2018	Sammy Boom (STEAM_0:0:91181601): // The fans and coolant pumps are on, either the gates are shut or the core has too many boosters
+Wed Oct 10 23:08:17 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc Noice
+Wed Oct 10 23:08:22 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Oof.
+Wed Oct 10 23:08:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ok
+Wed Oct 10 23:08:48 2018	Alen was killed by Craftygarrett with a cw_g36c
+Wed Oct 10 23:08:49 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:08:51 2018	Craftygarrett was killed by Somebody with a eoti_raven_swep
+Wed Oct 10 23:08:53 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:08:53 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /drop
+Wed Oct 10 23:09:04 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Can't
+Wed Oct 10 23:09:08 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Have dutys
+Wed Oct 10 23:09:20 2018	nuclearnacho88 (STEAM_0:0:166782773): noice
+Wed Oct 10 23:09:29 2018	Nazeem was killed by Craftygarrett with a cw_shorty
+Wed Oct 10 23:09:42 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:09:43 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 23:09:46 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:09:58 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): HISS
+Wed Oct 10 23:10:06 2018	Sammy Boom (STEAM_0:0:91181601): // I hear gates being either opened or closed
+Wed Oct 10 23:10:12 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Oof
+Wed Oct 10 23:10:16 2018	fallenturtle (STEAM_0:1:62867403): // probaly the coolant
+Wed Oct 10 23:10:18 2018	nuclearnacho88 was killed by Craftygarrett with a fas2_thrown_m67
+Wed Oct 10 23:10:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): WAIT
+Wed Oct 10 23:10:19 2018	Sammy Boom (STEAM_0:0:91181601): // I guess I'll determine based on temp
+Wed Oct 10 23:10:19 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:10:20 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): MY HEAD
+Wed Oct 10 23:10:28 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): WTH IS WRONG WITH MY HEAD
+Wed Oct 10 23:10:37 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Ma AMC
+Wed Oct 10 23:10:42 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): PAC*
+Wed Oct 10 23:10:45 2018	nuclearnacho88 was killed by Craftygarrett with a cw_g36c
+Wed Oct 10 23:10:46 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:10:58 2018	Sammy Boom (STEAM_0:0:91181601): /advert We need people to go to the core to turn off any boosters and set it's power level to 1
+Wed Oct 10 23:11:06 2018	waviestballoonx9 [WaviestRP] was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:11:07 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) spawned
+Wed Oct 10 23:11:14 2018	nuclearnacho88 was killed by Craftygarrett with a cw_shorty
+Wed Oct 10 23:11:15 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:11:18 2018	Gaster was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:11:19 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:11:27 2018	Alen was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:11:27 2018	Craftygarrett was killed by nuclearnacho88 with a cw_g36c
+Wed Oct 10 23:11:28 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:11:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:11:37 2018	Sinbad was killed by fallenturtle with a gmod_wire_turret
+Wed Oct 10 23:11:39 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:11:43 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Wed Oct 10 23:11:43 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 23:11:46 2018	fallenturtle (STEAM_0:1:62867403): // lol get teslad
+Wed Oct 10 23:11:54 2018	Alen (STEAM_0:0:120134659): // We allowed to do taht?
+Wed Oct 10 23:11:59 2018	fallenturtle (STEAM_0:1:62867403): yep
+Wed Oct 10 23:12:03 2018	Alen (STEAM_0:0:120134659): !motd
+Wed Oct 10 23:12:09 2018	Alen (STEAM_0:0:120134659): !motd
+Wed Oct 10 23:12:12 2018	fallenturtle (STEAM_0:1:62867403): /advert someone turn the coolant
+Wed Oct 10 23:12:12 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc what happens if the core explodes?
+Wed Oct 10 23:12:19 2018	fallenturtle (STEAM_0:1:62867403): /advet turn the coolant on
+Wed Oct 10 23:12:22 2018	Sammy Boom (STEAM_0:0:91181601): // everyone dies and the server restarts
+Wed Oct 10 23:12:22 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // Meltdowm
+Wed Oct 10 23:12:25 2018	Sammy Boom (STEAM_0:0:91181601): // and there's some neat music that plays
+Wed Oct 10 23:12:27 2018	fallenturtle (STEAM_0:1:62867403): /advert turn the coolant on 
+Wed Oct 10 23:12:38 2018	nuclearnacho88 (STEAM_0:0:166782773): missing textures left and right
+Wed Oct 10 23:12:40 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Shh
+Wed Oct 10 23:12:44 2018	Sammy Boom (STEAM_0:0:91181601): // I don't want the fucking core to explode though because I'm building
+Wed Oct 10 23:12:44 2018	nuclearnacho88 (STEAM_0:0:166782773): sup
+Wed Oct 10 23:12:47 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): You need CSS
+Wed Oct 10 23:12:48 2018	nuclearnacho88 (STEAM_0:0:166782773): grobe
+Wed Oct 10 23:12:55 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc i do have it
+Wed Oct 10 23:12:59 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): HAH
+Wed Oct 10 23:13:02 2018	Alen (STEAM_0:0:120134659): // fallen are we allowed to use the turrets
+Wed Oct 10 23:13:08 2018	fallenturtle (STEAM_0:1:62867403): // yes we are
+Wed Oct 10 23:13:13 2018	Alen (STEAM_0:0:120134659): // oh shit nice
+Wed Oct 10 23:13:18 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): // This map is hand-made as well
+Wed Oct 10 23:13:19 2018	fallenturtle (STEAM_0:1:62867403): // the super admin said yes
+Wed Oct 10 23:13:24 2018	Alen (STEAM_0:0:120134659): // We gon do some activities soon btw
+Wed Oct 10 23:13:26 2018	fallenturtle (STEAM_0:1:62867403): /advert 049 is now a manger class work
+Wed Oct 10 23:13:31 2018	fallenturtle (STEAM_0:1:62867403): /adver worker dont kill him
+Wed Oct 10 23:13:33 2018	Alen (STEAM_0:0:120134659): // I need to make it to the place first
+Wed Oct 10 23:13:35 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): WAIT
+Wed Oct 10 23:13:45 2018	fallenturtle (STEAM_0:1:62867403): /advert dont kill 049 he is a manger now
+Wed Oct 10 23:13:52 2018	Yazeed Al Kawalim (STEAM_0:0:63800005) spawned
+Wed Oct 10 23:13:53 2018	Craftygarrett was killed by Somebody with a eoti_raven_swep
+Wed Oct 10 23:13:54 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:13:55 2018	Sammy Boom (STEAM_0:0:91181601): // I turned on the Generator to try and temporarily help the core, but someone needs to fix whatever's going on
+Wed Oct 10 23:13:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): WTH
+Wed Oct 10 23:14:01 2018	Gaster (STEAM_0:1:59756947): /ooc kill birman
+Wed Oct 10 23:14:02 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): i'll get up
+Wed Oct 10 23:14:07 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:14:08 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Don't worry
+Wed Oct 10 23:14:13 2018	fallenturtle (STEAM_0:1:62867403): /advert the temp is droping were good
+Wed Oct 10 23:14:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /y I wanna be infected...
+Wed Oct 10 23:14:25 2018	fallenturtle (STEAM_0:1:62867403): /advert sammy come to my office please
+Wed Oct 10 23:14:28 2018	Gaster (STEAM_0:1:59756947): @help come here
+Wed Oct 10 23:14:33 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): So don't kill meh
+Wed Oct 10 23:14:38 2018	Sinbad was killed by Craftygarrett with a cw_shorty
+Wed Oct 10 23:14:38 2018	Yazeed Al Kawalim (STEAM_0:0:63800005): /name John Dwayne
+Wed Oct 10 23:14:40 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:14:44 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Don't kill meh, I wanna be infected!
+Wed Oct 10 23:14:50 2018	Somebody was killed by fallenturtle with a gmod_wire_turret
+Wed Oct 10 23:14:54 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:14:56 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad ?
+Wed Oct 10 23:14:58 2018	fallenturtle (STEAM_0:1:62867403): // dont do dat
+Wed Oct 10 23:15:02 2018	fallenturtle (STEAM_0:1:62867403): // bad boy
+Wed Oct 10 23:15:07 2018	John Dwayne (STEAM_0:0:63800005): /name kevin malone
+Wed Oct 10 23:15:22 2018	Gaster (STEAM_0:1:59756947): /ooc any ADMIN?
+Wed Oct 10 23:15:31 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:15:35 2018	kevin malone (STEAM_0:0:63800005): /name world
+Wed Oct 10 23:15:39 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /radio WATS THE CODE?!
+Wed Oct 10 23:15:43 2018	kevin malone (STEAM_0:0:63800005): /name  world
+Wed Oct 10 23:15:44 2018	nuclearnacho88 (STEAM_0:0:166782773): this makes no sense
+Wed Oct 10 23:15:51 2018	fallenturtle (STEAM_0:1:62867403): /advert are you a person
+Wed Oct 10 23:15:54 2018	kevin malone (STEAM_0:0:63800005): sinbad
+Wed Oct 10 23:15:56 2018	fallenturtle (STEAM_0:1:62867403): /advert rly
+Wed Oct 10 23:15:56 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Yea
+Wed Oct 10 23:16:01 2018	kevin malone (STEAM_0:0:63800005): guy in pfp looks good
+Wed Oct 10 23:16:07 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): /advert Oh, sorry
+Wed Oct 10 23:16:09 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:16:10 2018	nuclearnacho88 (STEAM_0:0:166782773): sexy
+Wed Oct 10 23:16:10 2018	fallenturtle (STEAM_0:1:62867403): /advert hurry up
+Wed Oct 10 23:16:19 2018	nuclearnacho88 (STEAM_0:0:166782773): alen u sexy
+Wed Oct 10 23:16:48 2018	kevin malone (STEAM_0:0:63800005): ye
+Wed Oct 10 23:17:07 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): =3
+Wed Oct 10 23:17:18 2018	Sammy Boom (STEAM_0:0:91181601): I was building a club tho
+Wed Oct 10 23:17:22 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Oh fak
+Wed Oct 10 23:17:23 2018	Sammy Boom (STEAM_0:0:91181601): I can make you a secure VIP lounge
+Wed Oct 10 23:17:28 2018	Sammy Boom (STEAM_0:0:91181601): for you to hang out in, securly
+Wed Oct 10 23:17:38 2018	Sammy Boom (STEAM_0:0:91181601): ok can I return now, you can follow if you'd like
+Wed Oct 10 23:17:45 2018	Sammy Boom (STEAM_0:0:91181601): Alrighty
+Wed Oct 10 23:18:03 2018	Sammy Boom (STEAM_0:0:91181601): I'm building in the Emergancy Coolant room, but don't worry the coolant is still accessable easily
+Wed Oct 10 23:18:13 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:18:23 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): Why?
+Wed Oct 10 23:18:31 2018	Sammy Boom (STEAM_0:0:91181601): /advert terrorist in facility
+Wed Oct 10 23:18:35 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad I was kind of hoping the core would blow into a resonance cascade!
+Wed Oct 10 23:18:40 2018	fallenturtle (STEAM_0:1:62867403): /advert go to my office
+Wed Oct 10 23:18:44 2018	nuclearnacho88 (STEAM_0:0:166782773): /advert I was kind of hoping the core would blow into a resonance cascade!
+Wed Oct 10 23:18:45 2018	fallenturtle (STEAM_0:1:62867403): /advert its safer up here
+Wed Oct 10 23:19:03 2018	Sammy Boom (STEAM_0:0:91181601): // Well I hope it doesn't blow at all, I'm trynna build
+Wed Oct 10 23:19:29 2018	Craftygarrett (STEAM_0:1:184775407): /pm turtle turn it off
+Wed Oct 10 23:19:30 2018	Alen (STEAM_0:0:120134659): /advert Requesting permission from the highest officer to do some team building excersizes
+Wed Oct 10 23:19:46 2018	Craftygarrett (STEAM_0:1:184775407): /advert turtle turn it off
+Wed Oct 10 23:19:47 2018	Sammy Boom (STEAM_0:0:91181601): /pm fallen open gate quickly please
+Wed Oct 10 23:19:48 2018	Somebody was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:19:51 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:19:52 2018	fallenturtle (STEAM_0:1:62867403): /advet it is
+Wed Oct 10 23:19:57 2018	nuclearnacho88 (STEAM_0:0:166782773): who made this server?
+Wed Oct 10 23:20:05 2018	fallenturtle (STEAM_0:1:62867403): /advert osama is here
+Wed Oct 10 23:20:11 2018	kevin malone (STEAM_0:0:63800005): ye
+Wed Oct 10 23:20:13 2018	nuclearnacho88 (STEAM_0:0:166782773): i was worried if it was made by caboose
+Wed Oct 10 23:20:31 2018	Alen (STEAM_0:0:120134659): /advert Fallen do i have perms to do it later?
+Wed Oct 10 23:20:57 2018	kevin malone (STEAM_0:0:63800005): i want to see osama
+Wed Oct 10 23:21:29 2018	nuclearnacho88 (STEAM_0:0:166782773): this reminds me of a roblox game.....
+Wed Oct 10 23:21:30 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293): There
+Wed Oct 10 23:21:41 2018	nuclearnacho88 (STEAM_0:0:166782773): except the roblox game was more dead than this
+Wed Oct 10 23:22:18 2018	Nazeem was killed by Craftygarrett with a cw_g36c
+Wed Oct 10 23:22:20 2018	nuclearnacho88 (STEAM_0:0:166782773): sexy as hell
+Wed Oct 10 23:22:24 2018	fallenturtle (STEAM_0:1:62867403): /advert osama is in core
+Wed Oct 10 23:22:29 2018	fallenturtle (STEAM_0:1:62867403): /advert he is ded
+Wed Oct 10 23:22:34 2018	nuclearnacho88 (STEAM_0:0:166782773): he gave me great boner
+Wed Oct 10 23:22:36 2018	kevin malone (STEAM_0:0:63800005): /advert we are here at the core open
+Wed Oct 10 23:22:39 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:22:39 2018	nuclearnacho88 (STEAM_0:0:166782773): just like u
+Wed Oct 10 23:22:44 2018	nuclearnacho88 (STEAM_0:0:166782773): ?
+Wed Oct 10 23:22:48 2018	kevin malone (STEAM_0:0:63800005): /advert i have m&ms
+Wed Oct 10 23:22:53 2018	fallenturtle (STEAM_0:1:62867403): /advert get in
+Wed Oct 10 23:22:55 2018	kevin malone (STEAM_0:0:63800005): /y yo
+Wed Oct 10 23:22:55 2018	nuclearnacho88 (STEAM_0:0:166782773): i wanted to stay so they could fix it
+Wed Oct 10 23:23:04 2018	nuclearnacho88 (STEAM_0:0:166782773): but so far, it looks worse than before
+Wed Oct 10 23:23:52 2018	Nazeem (STEAM_0:0:69668875): // Shut up cunt
+Wed Oct 10 23:24:10 2018	Nazeem (STEAM_0:0:69668875): // fight me fgt
+Wed Oct 10 23:24:19 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:24:23 2018	Sammy Boom (STEAM_0:0:91181601): wait
+Wed Oct 10 23:24:24 2018	Sammy Boom (STEAM_0:0:91181601): please
+Wed Oct 10 23:24:25 2018	Gaster (STEAM_0:1:59756947): /job not evil manager
+Wed Oct 10 23:24:30 2018	Sammy Boom (STEAM_0:0:91181601): im just trying to build a nightclub
+Wed Oct 10 23:24:32 2018	kevin malone (STEAM_0:0:63800005): /advert osama where r u
+Wed Oct 10 23:24:38 2018	nuclearnacho88 (STEAM_0:0:166782773): nice
+Wed Oct 10 23:24:39 2018	fallenturtle (STEAM_0:1:62867403): /advert is the vip room ready
+Wed Oct 10 23:24:42 2018	nuclearnacho88 (STEAM_0:0:166782773): combine
+Wed Oct 10 23:24:44 2018	nuclearnacho88 (STEAM_0:0:166782773): combine
+Wed Oct 10 23:24:46 2018	waviestballoonx9 [WaviestRP] (STEAM_0:1:100180293) disconnected
+Wed Oct 10 23:24:55 2018	Sammy Boom (STEAM_0:0:91181601): /pm fallen No Osama took me hostage
+Wed Oct 10 23:24:56 2018	kevin malone (STEAM_0:0:63800005): /advert osama my man
+Wed Oct 10 23:25:01 2018	nuclearnacho88 (STEAM_0:0:166782773): there needs to be a black mesa resonance cascade
+Wed Oct 10 23:25:03 2018	Sammy Boom (STEAM_0:0:91181601): /pm fallen please send help to the emergancy coolant room
+Wed Oct 10 23:25:05 2018	fallenturtle (STEAM_0:1:62867403): /pm sammy rly ok ill deal with him
+Wed Oct 10 23:25:11 2018	Nazeem (STEAM_0:0:69668875): /advert  DO NOT ENTER THE E-COOLENT OR SAMMY DIES
+Wed Oct 10 23:25:12 2018	Somebody was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:25:14 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:25:15 2018	CaptnObvious (STEAM_0:0:64513062) has joined the game
+Wed Oct 10 23:25:15 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:25:17 2018	kevin malone (STEAM_0:0:63800005): Yr
+Wed Oct 10 23:25:19 2018	kevin malone (STEAM_0:0:63800005): ye
+Wed Oct 10 23:25:24 2018	Sammy Boom (STEAM_0:0:91181601): well that's unlikely
+Wed Oct 10 23:25:26 2018	Sammy Boom (STEAM_0:0:91181601): but
+Wed Oct 10 23:25:27 2018	kevin malone (STEAM_0:0:63800005): i am coming
+Wed Oct 10 23:25:28 2018	Craftygarrett was killed by Sinbad with a cw_l85a2
+Wed Oct 10 23:25:30 2018	Sammy Boom (STEAM_0:0:91181601): there's still a chance
+Wed Oct 10 23:25:30 2018	fallenturtle (STEAM_0:1:62867403): /advert can we send a nagotiator
+Wed Oct 10 23:25:31 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:25:52 2018	Sinbad was killed by fallenturtle with a cw_deagle
+Wed Oct 10 23:25:54 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:25:57 2018	kevin malone (STEAM_0:0:63800005): dead
+Wed Oct 10 23:26:01 2018	kevin malone (STEAM_0:0:63800005): t down
+Wed Oct 10 23:26:16 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:26:18 2018	fallenturtle (STEAM_0:1:62867403): /advert terrorist can we send a nagotiator
+Wed Oct 10 23:26:19 2018	Sammy Boom was killed by Nazeem with a cw_scarh
+Wed Oct 10 23:26:21 2018	kevin malone (STEAM_0:0:63800005): there
+Wed Oct 10 23:26:26 2018	kevin malone (STEAM_0:0:63800005): i will be
+Wed Oct 10 23:26:30 2018	kevin malone (STEAM_0:0:63800005): negotiator
+Wed Oct 10 23:26:33 2018	Lazlo Tart (STEAM_0:0:64513062): /job Medical Professional
+Wed Oct 10 23:26:39 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 23:26:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:26:46 2018	Nazeem (STEAM_0:0:69668875): /ADVERT TOO LATE. HE BROKE FREE AND DIED TRYING TO BE A HERO
+Wed Oct 10 23:26:47 2018	Lazlo Tart (STEAM_0:0:64513062): /name Shovel Knight
+Wed Oct 10 23:26:49 2018	kevin malone (STEAM_0:0:63800005): /advert osama we are sending negotiated
+Wed Oct 10 23:27:04 2018	kevin malone (STEAM_0:0:63800005): /advert nvm osama
+Wed Oct 10 23:27:13 2018	kevin malone (STEAM_0:0:63800005): /advert you killed him
+Wed Oct 10 23:27:15 2018	kevin malone (STEAM_0:0:63800005): /y 
+Wed Oct 10 23:27:17 2018	Nazeem (STEAM_0:0:69668875): /advert YOU ARE ALL KOS NOW
+Wed Oct 10 23:27:24 2018	Craftygarrett was killed by Entity [1201][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:27:25 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:27:30 2018	kevin malone (STEAM_0:0:63800005): shit
+Wed Oct 10 23:27:42 2018	kevin malone (STEAM_0:0:63800005): /advert osama final warning do not come here
+Wed Oct 10 23:27:47 2018	Craftygarrett was killed by Entity [5047][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:27:48 2018	Nazeem (STEAM_0:0:69668875): /advert FOR ALLAH
+Wed Oct 10 23:27:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:27:59 2018	Craftygarrett (STEAM_0:1:184775407): // nacho
+Wed Oct 10 23:28:00 2018	nuclearnacho88 (STEAM_0:0:166782773): im gonna miss u ;-;
+Wed Oct 10 23:28:09 2018	nuclearnacho88 (STEAM_0:0:166782773): goodbye baby <3
+Wed Oct 10 23:28:18 2018	Shovel Knight (STEAM_0:0:64513062): /announce I would like to be let out of mu room so I can perform regular medical checkups
+Wed Oct 10 23:28:18 2018	Sammy Boom (STEAM_0:0:91181601): // #neverforget #pizzaday
+Wed Oct 10 23:28:29 2018	Shovel Knight (STEAM_0:0:64513062): /advert please let me out of my room.
+Wed Oct 10 23:28:32 2018	Alen was killed by nuclearnacho88 with a cw_deagle
+Wed Oct 10 23:28:33 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:28:35 2018	kevin malone (STEAM_0:0:63800005): /advert alert the terrorists are here
+Wed Oct 10 23:28:40 2018	kevin malone (STEAM_0:0:63800005): ye
+Wed Oct 10 23:28:44 2018	Craftygarrett was killed by Entity [5081][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:28:46 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:28:48 2018	Alen (STEAM_0:0:120134659): // crafty
+Wed Oct 10 23:28:54 2018	Alen was killed by Entity [1201][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:28:54 2018	Craftygarrett was killed by Entity [1201][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:28:56 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:28:56 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:29:02 2018	nuclearnacho88 was killed by Himself with a suicide trick
+Wed Oct 10 23:29:05 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:29:11 2018	Sammy Boom was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:29:12 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 23:29:12 2018	Craftygarrett was killed by Entity [5072][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:29:17 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:29:24 2018	Craftygarrett was killed by Entity [5080][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:29:26 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:29:27 2018	Sammy Boom (STEAM_0:0:91181601): lol
+Wed Oct 10 23:29:28 2018	Sammy Boom (STEAM_0:0:91181601): well
+Wed Oct 10 23:29:29 2018	Sammy Boom (STEAM_0:0:91181601): follow me
+Wed Oct 10 23:29:35 2018	Sinbad was killed by fallenturtle with a cw_deagle
+Wed Oct 10 23:29:37 2018	Sammy Boom (STEAM_0:0:91181601): lmao
+Wed Oct 10 23:29:37 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:29:41 2018	Sammy Boom (STEAM_0:0:91181601): I'm building a nightclub
+Wed Oct 10 23:29:52 2018	Sammy Boom (STEAM_0:0:91181601): don't tell anyone but it'ls gonna have a secret VIP lounge, bulletproof, for the director
+Wed Oct 10 23:29:54 2018	Craftygarrett (STEAM_0:1:184775407): /pm alen see you later cum stane
+Wed Oct 10 23:30:01 2018	Sammy Boom (STEAM_0:0:91181601): might be
+Wed Oct 10 23:30:03 2018	Craftygarrett was killed by Entity [525][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:30:05 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:30:12 2018	Craftygarrett was killed by Entity [5080][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:30:12 2018	nuclearnacho88 was killed by Entity [5076][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:30:13 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:30:13 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:30:14 2018	kevin malone (STEAM_0:0:63800005): /advert all terrorists will be met with lethal force if they come to the core room
+Wed Oct 10 23:30:16 2018	Sammy Boom (STEAM_0:0:91181601): fuck
+Wed Oct 10 23:30:23 2018	kevin malone (STEAM_0:0:63800005): /advert you forfeited your
+Wed Oct 10 23:30:27 2018	kevin malone (STEAM_0:0:63800005): oof
+Wed Oct 10 23:30:33 2018	Shovel Knight (STEAM_0:0:64513062): // KEVIN MALONE
+Wed Oct 10 23:30:36 2018	kevin malone (STEAM_0:0:63800005): // yo
+Wed Oct 10 23:30:41 2018	Nazeem was killed by fallenturtle with a cw_deagle
+Wed Oct 10 23:30:42 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:30:55 2018	Shovel Knight (STEAM_0:0:64513062): // from dunder mifflin?
+Wed Oct 10 23:31:02 2018	kevin malone (STEAM_0:0:63800005): // ye
+Wed Oct 10 23:31:07 2018	nuclearnacho88 (STEAM_0:0:166782773): why would i need to?
+Wed Oct 10 23:31:12 2018	kevin malone (STEAM_0:0:63800005): // former accountant
+Wed Oct 10 23:31:16 2018	Alen was killed by Sinbad with a cw_shorty
+Wed Oct 10 23:31:17 2018	Sammy Boom was killed by Sinbad with a cw_shorty
+Wed Oct 10 23:31:18 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:31:18 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 23:31:21 2018	Sammy Boom (STEAM_0:0:91181601): oof
+Wed Oct 10 23:31:40 2018	Alen (STEAM_0:0:120134659): // Nacho you gotta walk in the light to leave
+Wed Oct 10 23:31:45 2018	Shovel Knight (STEAM_0:0:64513062): am I allowed to eat terrosists?
+Wed Oct 10 23:31:51 2018	fallenturtle (STEAM_0:1:62867403): /advert cool the core please 
+Wed Oct 10 23:31:53 2018	kevin malone (STEAM_0:0:63800005): they may use elevator on other side
+Wed Oct 10 23:31:54 2018	nuclearnacho88 (STEAM_0:0:166782773): fallout server
+Wed Oct 10 23:31:56 2018	Sammy Boom (STEAM_0:0:91181601): basically we go there and you go down the hallways, down a set of stairs, then go through the coolant room into the elevators
+Wed Oct 10 23:31:58 2018	Craftygarrett was killed by Entity [5157][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:32:01 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:32:01 2018	kevin malone (STEAM_0:0:63800005): in which case we have no defense
+Wed Oct 10 23:32:02 2018	Sinbad was killed by Himself with a suicide trick
+Wed Oct 10 23:32:02 2018	Gaster was killed by Sinbad with a env_explosion
+Wed Oct 10 23:32:04 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:32:09 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:32:10 2018	kevin malone (STEAM_0:0:63800005): yes
+Wed Oct 10 23:32:11 2018	Gaster was killed by Entity [5100][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Wed Oct 10 23:32:12 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:32:18 2018	Craftygarrett was killed by nuclearnacho88 with a cw_deagle
+Wed Oct 10 23:32:20 2018	Sammy Boom (STEAM_0:0:91181601): alt+e prevents damage
+Wed Oct 10 23:32:22 2018	kevin malone (STEAM_0:0:63800005): no
+Wed Oct 10 23:32:25 2018	kevin malone (STEAM_0:0:63800005): it goes through lab
+Wed Oct 10 23:32:29 2018	kevin malone (STEAM_0:0:63800005): goes through lab
+Wed Oct 10 23:32:38 2018	kevin malone (STEAM_0:0:63800005): brb
+Wed Oct 10 23:32:39 2018	Sammy Boom (STEAM_0:0:91181601): hey SWAT help us get to the core and kill the terrorists
+Wed Oct 10 23:32:44 2018	Sammy Boom (STEAM_0:0:91181601): or CRS sorry
+Wed Oct 10 23:32:50 2018	Alen (STEAM_0:0:120134659): // Caboose got conformation, your not allowed to do that shit
+Wed Oct 10 23:32:56 2018	Gaster (STEAM_0:1:59756947): /advert SWAT get the terrorists
+Wed Oct 10 23:32:57 2018	Ares (STEAM_0:0:79724754) has joined the game
+Wed Oct 10 23:32:57 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:33:04 2018	fallenturtle (STEAM_0:1:62867403): // who is caboose
+Wed Oct 10 23:33:07 2018	nuclearnacho88 (STEAM_0:0:166782773): sexy
+Wed Oct 10 23:33:15 2018	nuclearnacho88 (STEAM_0:0:166782773): u are the sexiest being in existance
+Wed Oct 10 23:33:15 2018	Sammy Boom (STEAM_0:0:91181601): oof
+Wed Oct 10 23:33:23 2018	Sammy Boom (STEAM_0:0:91181601): /pm alen next stop is directly to the core
+Wed Oct 10 23:33:29 2018	Alen (STEAM_0:0:120134659): // oh
+Wed Oct 10 23:33:39 2018	kevin malone (STEAM_0:0:63800005): we should turn off tesla gate
+Wed Oct 10 23:33:43 2018	kevin malone (STEAM_0:0:63800005): we should start negotiation
+Wed Oct 10 23:33:57 2018	kevin malone (STEAM_0:0:63800005): /advert we should discuss negotiating with ISIS
+Wed Oct 10 23:34:06 2018	Alen (STEAM_0:0:120134659): // open the gate
+Wed Oct 10 23:34:07 2018	Sammy Boom (STEAM_0:0:91181601): // osama is taliban, not ISIS
+Wed Oct 10 23:34:15 2018	kevin malone (STEAM_0:0:63800005): // actually he's al-qaeda right
+Wed Oct 10 23:34:20 2018	Sammy Boom (STEAM_0:0:91181601): // same thing
+Wed Oct 10 23:34:20 2018	Alen (STEAM_0:0:120134659): // turn off the ass blasting
+Wed Oct 10 23:34:22 2018	Gaster (STEAM_0:1:59756947): /advert director open the gate
+Wed Oct 10 23:34:35 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:34:37 2018	kevin malone (STEAM_0:0:63800005): oh my god
+Wed Oct 10 23:34:40 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:34:45 2018	kevin malone (STEAM_0:0:63800005): turn it on again lol
+Wed Oct 10 23:34:45 2018	fallenturtle (STEAM_0:1:62867403): // too late
+Wed Oct 10 23:34:46 2018	Ares (STEAM_0:0:79724754): @ Admin RQ Plz
+Wed Oct 10 23:34:49 2018	Alen (STEAM_0:0:120134659): // direcot o p e n it
+Wed Oct 10 23:35:01 2018	kevin malone (STEAM_0:0:63800005): good god
+Wed Oct 10 23:35:01 2018	Ares (STEAM_0:0:79724754): // Hey RQ Guys
+Wed Oct 10 23:35:01 2018	fallenturtle (STEAM_0:1:62867403): // no
+Wed Oct 10 23:35:04 2018	fallenturtle (STEAM_0:1:62867403): // i see birb
+Wed Oct 10 23:35:04 2018	Alen (STEAM_0:0:120134659): // yes
+Wed Oct 10 23:35:07 2018	Ares (STEAM_0:0:79724754): // What the fuck am I suppose to do?
+Wed Oct 10 23:35:13 2018	Alen (STEAM_0:0:120134659): // theyre all nice
+Wed Oct 10 23:35:17 2018	Sammy Boom (STEAM_0:0:91181601): // brb gotta pee
+Wed Oct 10 23:35:18 2018	Alen (STEAM_0:0:120134659): // im still alive
+Wed Oct 10 23:35:20 2018	fallenturtle (STEAM_0:1:62867403): /advert i see birb how about no
+Wed Oct 10 23:35:22 2018	Gaster (STEAM_0:1:59756947): /advert Director open gate pls?
+Wed Oct 10 23:35:23 2018	Sammy Boom (STEAM_0:0:91181601): // osama if you find me, gg
+Wed Oct 10 23:35:26 2018	Alen (STEAM_0:0:120134659): // hes trained
+Wed Oct 10 23:35:27 2018	kevin malone (STEAM_0:0:63800005): yes
+Wed Oct 10 23:35:45 2018	Sinbad was killed by Entity [2752][func_rotating] with a func_rotating
+Wed Oct 10 23:35:46 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:35:48 2018	Shovel Knight (STEAM_0:0:64513062): /y IM A DOCTOR IM HERE TO CURE YOU OF AUTISM
+Wed Oct 10 23:35:50 2018	kevin malone (STEAM_0:0:63800005): yes
+Wed Oct 10 23:35:53 2018	kevin malone (STEAM_0:0:63800005): let them inside
+Wed Oct 10 23:36:02 2018	fallenturtle (STEAM_0:1:62867403): /advert we will let you
+Wed Oct 10 23:36:05 2018	fallenturtle (STEAM_0:1:62867403): /advert in
+Wed Oct 10 23:36:06 2018	kevin malone (STEAM_0:0:63800005): they are going to break in anyway
+Wed Oct 10 23:36:10 2018	Shovel Knight (STEAM_0:0:64513062): /advert Thanks.
+Wed Oct 10 23:36:11 2018	fallenturtle (STEAM_0:1:62867403): /advert also stop with the prop climbing
+Wed Oct 10 23:36:19 2018	nuclearnacho88 was killed by Nazeem with a cw_scarh
+Wed Oct 10 23:36:21 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:36:27 2018	Alen was killed by kevin malone with a cw_g36c
+Wed Oct 10 23:36:29 2018	Gaster was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 23:36:29 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:36:30 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:36:34 2018	Nazeem was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:36:35 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:36:46 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:36:48 2018	fallenturtle (STEAM_0:1:62867403): /advert welcome
+Wed Oct 10 23:36:54 2018	fallenturtle (STEAM_0:1:62867403): /advert it is closeing
+Wed Oct 10 23:36:54 2018	Shovel Knight (STEAM_0:0:64513062): /advert I am a spooky crew peep
+Wed Oct 10 23:37:04 2018	kevin malone (STEAM_0:0:63800005): we should have cameras
+Wed Oct 10 23:37:08 2018	fallenturtle (STEAM_0:1:62867403): /advert cool the core
+Wed Oct 10 23:37:14 2018	fallenturtle (STEAM_0:1:62867403): *
+Wed Oct 10 23:37:15 2018	kevin malone (STEAM_0:0:63800005): they turned off th efan
+Wed Oct 10 23:37:21 2018	kevin malone (STEAM_0:0:63800005): we will probably have a nuclear meltdown
+Wed Oct 10 23:37:31 2018	kevin malone (STEAM_0:0:63800005): unfortunately
+Wed Oct 10 23:38:04 2018	Shovel Knight (STEAM_0:0:64513062): /advert I'm being shot at!
+Wed Oct 10 23:38:19 2018	kevin malone (STEAM_0:0:63800005): /advert sir please evacuate the core immediately
+Wed Oct 10 23:38:20 2018	Gaster (STEAM_0:1:59756947): /advert all SCP/SWAT to laboratory
+Wed Oct 10 23:38:25 2018	Shovel Knight (STEAM_0:0:64513062): /advert Ok
+Wed Oct 10 23:38:34 2018	Shovel Knight (STEAM_0:0:64513062): /advert I need to cool the core tho
+Wed Oct 10 23:38:48 2018	kevin malone (STEAM_0:0:63800005): i should defend
+Wed Oct 10 23:38:50 2018	kevin malone (STEAM_0:0:63800005): can you open the door sir
+Wed Oct 10 23:38:50 2018	Alen (STEAM_0:0:120134659): // open gate
+Wed Oct 10 23:38:57 2018	Alen (STEAM_0:0:120134659): // ni bird
+Wed Oct 10 23:39:03 2018	fallenturtle (STEAM_0:1:62867403): /advert kill the scps
+Wed Oct 10 23:39:13 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:39:14 2018	Alen (STEAM_0:0:120134659): // open 4 ares
+Wed Oct 10 23:39:16 2018	Sammy Boom (STEAM_0:0:91181601): // back
+Wed Oct 10 23:39:18 2018	Gaster (STEAM_0:1:59756947): /advert swat dont kill the scp
+Wed Oct 10 23:39:18 2018	kevin malone (STEAM_0:0:63800005): /advert sir please cool the core immediately
+Wed Oct 10 23:39:24 2018	Shovel Knight (STEAM_0:0:64513062): // saved by the train
+Wed Oct 10 23:39:32 2018	Shovel Knight (STEAM_0:0:64513062): @stuck
+Wed Oct 10 23:39:41 2018	Shovel Knight (STEAM_0:0:64513062): // frick
+Wed Oct 10 23:39:41 2018	kevin malone (STEAM_0:0:63800005): oh shi
+Wed Oct 10 23:39:50 2018	Shovel Knight (STEAM_0:0:64513062): // im stuck
+Wed Oct 10 23:39:52 2018	Sammy Boom (STEAM_0:0:91181601): // It's literally impossible to save the core because the Core Security and SWAT aren't doing anything
+Wed Oct 10 23:40:04 2018	Shovel Knight (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:40:17 2018	Shovel Knight (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:40:29 2018	Shovel Knight (STEAM_0:0:64513062): /advert Im at the lab now
+Wed Oct 10 23:40:41 2018	Shovel Knight (STEAM_0:0:64513062): /job Medical Professiona
+Wed Oct 10 23:40:51 2018	Sinbad (STEAM_0:0:88069895): /pm Fallen Im going to threaten you!!
+Wed Oct 10 23:40:53 2018	Shovel Knight (STEAM_0:0:64513062): /job Medical Proffesional
+Wed Oct 10 23:41:11 2018	Shovel Knight (STEAM_0:0:64513062): /job Medical Professional
+Wed Oct 10 23:41:12 2018	Gaster was killed by nuclearnacho88 with a cw_g36c
+Wed Oct 10 23:41:13 2018	Nazeem was killed by Somebody with a eoti_raven_swep
+Wed Oct 10 23:41:14 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:41:15 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:41:25 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:41:32 2018	Gaster (STEAM_0:1:59756947) spawned
+Wed Oct 10 23:41:32 2018	Ares (STEAM_0:0:79724754): // head of CBRN Guy
+Wed Oct 10 23:41:32 2018	nuclearnacho88 was killed by Somebody with a eoti_raven_swep
+Wed Oct 10 23:41:33 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:41:37 2018	Ares (STEAM_0:0:79724754): // U know what to do?
+Wed Oct 10 23:41:40 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:41:50 2018	Shovel Knight (STEAM_0:0:64513062): // gaster since ur osama can you remove the containment door fences?
+Wed Oct 10 23:42:11 2018	Shovel Knight (STEAM_0:0:64513062): //thancc
+Wed Oct 10 23:42:12 2018	kevin malone was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:42:15 2018	Shovel Knight (STEAM_0:0:64513062): // thanks
+Wed Oct 10 23:42:17 2018	kevin malone (STEAM_0:0:63800005) spawned
+Wed Oct 10 23:42:25 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:43:00 2018	kevin malone (STEAM_0:0:63800005): /pm sinbad where r u guys
+Wed Oct 10 23:43:00 2018	Ares was killed by Sinbad with a cw_l85a2
+Wed Oct 10 23:43:17 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:43:21 2018	kevin malone (STEAM_0:0:63800005): allah
+Wed Oct 10 23:43:31 2018	kevin malone (STEAM_0:0:63800005): yes
+Wed Oct 10 23:43:37 2018	kevin malone (STEAM_0:0:63800005): where is sinbad friend
+Wed Oct 10 23:43:39 2018	Sammy Boom was killed by Gaster with a cw_scarh
+Wed Oct 10 23:43:41 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 23:43:49 2018	kevin malone (STEAM_0:0:63800005): go
+Wed Oct 10 23:43:52 2018	Sammy Boom (STEAM_0:0:91181601): it's a you
+Wed Oct 10 23:43:54 2018	Sammy Boom (STEAM_0:0:91181601): alen
+Wed Oct 10 23:44:09 2018	Sammy Boom (STEAM_0:0:91181601): well it's not completed yet cus I keep fekin dying
+Wed Oct 10 23:44:22 2018	Sammy Boom (STEAM_0:0:91181601): the core?
+Wed Oct 10 23:44:23 2018	kevin malone was killed by fallenturtle with a gmod_wire_turret
+Wed Oct 10 23:44:25 2018	Gaster (STEAM_0:1:59756947): /ooc oops
+Wed Oct 10 23:44:27 2018	Sammy Boom (STEAM_0:0:91181601): oh I'm building it
+Wed Oct 10 23:44:27 2018	kevin malone (STEAM_0:0:63800005) spawned
+Wed Oct 10 23:44:29 2018	fallenturtle (STEAM_0:1:62867403): // LOL
+Wed Oct 10 23:44:35 2018	Sammy Boom (STEAM_0:0:91181601): yes
+Wed Oct 10 23:44:39 2018	Sammy Boom (STEAM_0:0:91181601): but Osama is there
+Wed Oct 10 23:44:40 2018	nuclearnacho88 (STEAM_0:0:166782773): combine
+Wed Oct 10 23:44:49 2018	Sinbad was killed by Ares with a cw_g36c
+Wed Oct 10 23:44:49 2018	Sammy Boom (STEAM_0:0:91181601): the server is new in itself
+Wed Oct 10 23:44:54 2018	Sammy Boom (STEAM_0:0:91181601): so we're all new
+Wed Oct 10 23:45:05 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:45:08 2018	Sammy Boom (STEAM_0:0:91181601): ok Osama is past this teleporter
+Wed Oct 10 23:45:11 2018	Sammy Boom (STEAM_0:0:91181601): so be ready
+Wed Oct 10 23:45:19 2018	Sammy Boom (STEAM_0:0:91181601): he might've run
+Wed Oct 10 23:45:43 2018	Sammy Boom (STEAM_0:0:91181601): im gonna make it back here
+Wed Oct 10 23:45:50 2018	Sammy Boom (STEAM_0:0:91181601): It'll be bulletproof and everything
+Wed Oct 10 23:45:58 2018	Sammy Boom (STEAM_0:0:91181601): alright
+Wed Oct 10 23:46:04 2018	Sammy Boom (STEAM_0:0:91181601): Osama is still on this floor btw
+Wed Oct 10 23:46:14 2018	nuclearnacho88 (STEAM_0:0:166782773): <3 ;-;
+Wed Oct 10 23:46:16 2018	Sammy Boom (STEAM_0:0:91181601): or you can watch me build and protect me if Osama comes back
+Wed Oct 10 23:46:18 2018	Alen was killed by nuclearnacho88 with a cw_shorty
+Wed Oct 10 23:46:21 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:46:30 2018	nuclearnacho88 (STEAM_0:0:166782773): we might as well blow up this place
+Wed Oct 10 23:46:31 2018	Sammy Boom (STEAM_0:0:91181601): ok that's a better idea you stay here and protect me lol
+Wed Oct 10 23:46:35 2018	Alen (STEAM_0:0:120134659): // ares ill pick you up at spawn
+Wed Oct 10 23:46:42 2018	Nazeem was killed by Ares with a cw_g36c
+Wed Oct 10 23:46:44 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:46:44 2018	Sinbad was killed by Ares with a cw_g36c
+Wed Oct 10 23:46:48 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:46:50 2018	Ares was killed by fallenturtle with a gmod_wire_turret
+Wed Oct 10 23:46:50 2018	nuclearnacho88 was killed by kevin malone with a cw_l85a2
+Wed Oct 10 23:46:51 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:46:54 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:46:57 2018	Sammy Boom was killed by kevin malone with a cw_l85a2
+Wed Oct 10 23:46:57 2018	Somebody was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:47:00 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:47:02 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Wed Oct 10 23:47:12 2018	kevin malone (STEAM_0:0:63800005): /advert Two infedels down in the generator room, friend.
+Wed Oct 10 23:47:17 2018	Ares (STEAM_0:0:79724754): // *Takes out 3 towel heads**Gets killed by Core Room Security Turrets*
+Wed Oct 10 23:47:17 2018	Shovel Knight (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:47:30 2018	Shovel Knight (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:47:34 2018	Shovel Knight (STEAM_0:0:64513062): /name Lazlo Tart
+Wed Oct 10 23:47:40 2018	kevin malone (STEAM_0:0:63800005): yes
+Wed Oct 10 23:47:47 2018	kevin malone (STEAM_0:0:63800005): we kill them
+Wed Oct 10 23:47:53 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:47:59 2018	kevin malone (STEAM_0:0:63800005): they never expect us
+Wed Oct 10 23:47:59 2018	Alen was killed by Somebody with a eoti_raven_swep
+Wed Oct 10 23:48:01 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:48:02 2018	kevin malone (STEAM_0:0:63800005): we take them to somalia
+Wed Oct 10 23:48:08 2018	Lazlo Tart (STEAM_0:0:64513062): yeet
+Wed Oct 10 23:48:16 2018	Sammy Boom (STEAM_0:0:91181601): don't get off the next stop, get off after that
+Wed Oct 10 23:48:20 2018	Sammy Boom (STEAM_0:0:91181601): otherwise you'll fall off
+Wed Oct 10 23:48:20 2018	Lazlo Tart (STEAM_0:0:64513062): ok
+Wed Oct 10 23:48:27 2018	Sammy Boom (STEAM_0:0:91181601): oh fuck
+Wed Oct 10 23:48:31 2018	Sinbad was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:48:36 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:48:49 2018	kevin malone was killed by Himself with a suicide trick
+Wed Oct 10 23:48:53 2018	kevin malone (STEAM_0:0:63800005) spawned
+Wed Oct 10 23:48:59 2018	Alen was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:49:00 2018	Alen (STEAM_0:0:120134659) spawned
+Wed Oct 10 23:49:04 2018	kevin malone (STEAM_0:0:63800005): i jihaded the train
+Wed Oct 10 23:49:13 2018	kevin malone (STEAM_0:0:63800005): ye
+Wed Oct 10 23:49:46 2018	Sammy Boom (STEAM_0:0:91181601): oof
+Wed Oct 10 23:49:47 2018	kevin malone (STEAM_0:0:63800005): goodd
+Wed Oct 10 23:49:58 2018	Sammy Boom (STEAM_0:0:91181601): I'll get to that in a second
+Wed Oct 10 23:50:02 2018	Sammy Boom (STEAM_0:0:91181601): they'll be a bar in here
+Wed Oct 10 23:50:05 2018	kevin malone (STEAM_0:0:63800005): allah
+Wed Oct 10 23:50:12 2018	Sammy Boom (STEAM_0:0:91181601): lol ok
+Wed Oct 10 23:50:15 2018	nuclearnacho88 (STEAM_0:0:166782773): we got this
+Wed Oct 10 23:50:22 2018	kevin malone (STEAM_0:0:63800005): wait for train
+Wed Oct 10 23:50:22 2018	nuclearnacho88 (STEAM_0:0:166782773): we must make it explode
+Wed Oct 10 23:50:33 2018	nuclearnacho88 (STEAM_0:0:166782773): well um
+Wed Oct 10 23:50:41 2018	kevin malone (STEAM_0:0:63800005): osama
+Wed Oct 10 23:50:47 2018	kevin malone (STEAM_0:0:63800005): come here osama
+Wed Oct 10 23:51:08 2018	kevin malone (STEAM_0:0:63800005): we kill all the infedels
+Wed Oct 10 23:51:11 2018	fallenturtle was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:51:18 2018	kevin malone (STEAM_0:0:63800005): they got the director
+Wed Oct 10 23:51:31 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:51:33 2018	kevin malone (STEAM_0:0:63800005): spooky monsters
+Wed Oct 10 23:51:57 2018	Sammy Boom (STEAM_0:0:91181601): osama bin here
+Wed Oct 10 23:52:03 2018	kevin malone (STEAM_0:0:63800005): i think they know we are here
+Wed Oct 10 23:52:14 2018	kevin malone (STEAM_0:0:63800005): ye
+Wed Oct 10 23:52:30 2018	Sinbad (STEAM_0:0:88069895): /advert Yes
+Wed Oct 10 23:52:38 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:52:40 2018	Nazeem (STEAM_0:0:69668875): /advert FOR ALLAH
+Wed Oct 10 23:52:44 2018	Sinbad (STEAM_0:0:88069895): /advert Ok
+Wed Oct 10 23:52:45 2018	kevin malone (STEAM_0:0:63800005): /advert ALLAH
+Wed Oct 10 23:53:02 2018	kevin malone (STEAM_0:0:63800005): yes
+Wed Oct 10 23:53:09 2018	fallenturtle was killed by Sinbad with a cw_l85a2
+Wed Oct 10 23:53:11 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:53:16 2018	Gaster was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 23:53:37 2018	Ares was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:53:38 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:53:43 2018	Nazeem was killed by Lazlo Tart with a cw_g36c
+Wed Oct 10 23:53:49 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:53:54 2018	fallenturtle was killed by Sinbad with a cw_l85a2
+Wed Oct 10 23:53:55 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:54:00 2018	kevin malone (STEAM_0:0:63800005): allah
+Wed Oct 10 23:54:04 2018	Nazeem (STEAM_0:0:69668875) spawned
+Wed Oct 10 23:54:11 2018	kevin malone was killed by Ares with a cw_shorty
+Wed Oct 10 23:54:15 2018	kevin malone (STEAM_0:0:63800005) spawned
+Wed Oct 10 23:54:19 2018	Sinbad was killed by Ares with a cw_g36c
+Wed Oct 10 23:54:23 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:54:36 2018	kevin malone (STEAM_0:0:63800005): ys
+Wed Oct 10 23:54:52 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:54:55 2018	Ares was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 23:54:56 2018	Ares (STEAM_0:0:79724754) spawned
+Wed Oct 10 23:55:13 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:55:16 2018	Ares (STEAM_0:0:79724754): // He is non american
+Wed Oct 10 23:55:20 2018	Ares (STEAM_0:0:79724754): // Ban him
+Wed Oct 10 23:55:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:55:29 2018	kevin malone (STEAM_0:0:63800005): /y oh shit
+Wed Oct 10 23:55:34 2018	kevin malone (STEAM_0:0:63800005): /advert ALLAH
+Wed Oct 10 23:55:38 2018	kevin malone (STEAM_0:0:63800005): /advert FOR THE SAKE OF ALALH
+Wed Oct 10 23:55:54 2018	Sammy Boom (STEAM_0:0:91181601): lmfao
+Wed Oct 10 23:56:02 2018	nuclearnacho88 was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:56:03 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:56:12 2018	kevin malone (STEAM_0:0:63800005): go
+Wed Oct 10 23:56:22 2018	fallenturtle (STEAM_0:1:62867403): // LAZO IS THAT prop climb
+Wed Oct 10 23:56:32 2018	Lazlo Tart (STEAM_0:0:64513062): // more or less
+Wed Oct 10 23:56:42 2018	Lazlo Tart was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 23:56:44 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Wed Oct 10 23:56:44 2018	kevin malone (STEAM_0:0:63800005): /Y allah
+Wed Oct 10 23:56:47 2018	kevin malone (STEAM_0:0:63800005): /y open friend
+Wed Oct 10 23:57:14 2018	Craftygarrett (STEAM_0:1:184775407): /advert we are coming to save you
+Wed Oct 10 23:57:19 2018	Sinbad was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:57:23 2018	kevin malone (STEAM_0:0:63800005): /y ALLAH
+Wed Oct 10 23:57:29 2018	Somebody was killed by fallenturtle with a gmod_wire_turret
+Wed Oct 10 23:57:29 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:57:30 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Wed Oct 10 23:57:31 2018	fallenturtle was killed by Himself with a suicide trick
+Wed Oct 10 23:57:32 2018	Somebody (STEAM_0:0:58278368) spawned
+Wed Oct 10 23:57:32 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:57:34 2018	Craftygarrett was killed by fallenturtle with a gmod_wire_turret
+Wed Oct 10 23:57:35 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:57:43 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Evacuate.
+Wed Oct 10 23:57:45 2018	kevin malone (STEAM_0:0:63800005): /ADVERT ALLAH
+Wed Oct 10 23:57:51 2018	kevin malone (STEAM_0:0:63800005): /ADVERT FOR THE SAKE OF ALLAH YOU ALL DIE WITH US
+Wed Oct 10 23:57:55 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:58:00 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:58:02 2018	Sammy Boom (STEAM_0:0:91181601): // Almaniac Drunkard Ramble
+Wed Oct 10 23:58:06 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Wed Oct 10 23:58:12 2018	Sammy Boom (STEAM_0:0:91181601): I did
+Wed Oct 10 23:58:14 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:58:45 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:58:50 2018	Sammy Boom (STEAM_0:0:91181601): oof
+Wed Oct 10 23:58:57 2018	Sammy Boom (STEAM_0:0:91181601): just switch the seat around lol
+Wed Oct 10 23:59:02 2018	Sinbad was killed by Craftygarrett with a cw_mr96
+Wed Oct 10 23:59:06 2018	Sinbad (STEAM_0:0:88069895) spawned
+Wed Oct 10 23:59:27 2018	Alen (STEAM_0:0:120134659): // crafty dont kill taliban team mates
+Wed Oct 10 23:59:28 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 10 23:59:28 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 10 23:59:28 2018	fallenturtle was killed by Nazeem with a cw_l85a2
+Wed Oct 10 23:59:30 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 23:59:41 2018	Craftygarrett (STEAM_0:1:184775407): // shut the fuck up alen
+Wed Oct 10 23:59:59 2018	Lazlo Tart (STEAM_0:0:64513062): /advert My duty is to command security.
+Thu Oct 11 00:00:08 2018	Alen (STEAM_0:0:120134659): // Whats your problem mate. Rules b rules.
+Thu Oct 11 00:00:14 2018	Nazeem was killed by Ares with a cw_shorty
+Thu Oct 11 00:00:15 2018	kevin malone (STEAM_0:0:63800005): /ADVERT FOR THE SAKE OF ALLAH
+Thu Oct 11 00:00:16 2018	Nazeem (STEAM_0:0:69668875) spawned
+Thu Oct 11 00:00:19 2018	Lazlo Tart (STEAM_0:0:64513062): /advert In this case, I'm gonna ask them to check on the core.
+Thu Oct 11 00:00:28 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 00:00:36 2018	Ares (STEAM_0:0:79724754): // How to use intercomm?
+Thu Oct 11 00:00:41 2018	Ares was killed by Entity [5241][cw_40mm_explosive] with a cw_40mm_explosive
+Thu Oct 11 00:00:41 2018	fallenturtle (STEAM_0:1:62867403): // ares is that you
+Thu Oct 11 00:00:48 2018	Alen (STEAM_0:0:120134659): // hit e on it
+Thu Oct 11 00:00:50 2018	Lazlo Tart (STEAM_0:0:64513062): // theres a mic in the director's office
+Thu Oct 11 00:00:52 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:00:52 2018	Alen (STEAM_0:0:120134659): // then talk
+Thu Oct 11 00:01:21 2018	kevin malone (STEAM_0:0:63800005): /y THE INFEDELS ARE HERE
+Thu Oct 11 00:01:25 2018	Sinbad was killed by Himself with a suicide trick
+Thu Oct 11 00:01:30 2018	Sinbad (STEAM_0:0:88069895) spawned
+Thu Oct 11 00:01:36 2018	Nazeem (STEAM_0:0:69668875): // k then
+Thu Oct 11 00:01:37 2018	Sammy Boom (STEAM_0:0:91181601): I cant hear you over the Rherostoristic osama
+Thu Oct 11 00:01:44 2018	Nazeem (STEAM_0:0:69668875): /ADVERT FOR ALLAH
+Thu Oct 11 00:01:48 2018	Sammy Boom (STEAM_0:0:91181601): alrighty
+Thu Oct 11 00:01:50 2018	Ragpan (STEAM_0:1:155698467) has joined the game
+Thu Oct 11 00:01:50 2018	Ragpan (STEAM_0:1:155698467) spawned
+Thu Oct 11 00:01:51 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad I sense the Disease in you Nazeem.....
+Thu Oct 11 00:01:54 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:01:56 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 00:01:58 2018	Sinbad (STEAM_0:0:88069895) spawned
+Thu Oct 11 00:02:00 2018	kevin malone (STEAM_0:0:63800005): /ADVERT KILL THE NON-BELIEVERS
+Thu Oct 11 00:02:02 2018	Ares (STEAM_0:0:79724754): // What did you want Fallenturtle?
+Thu Oct 11 00:02:03 2018	nuclearnacho88 (STEAM_0:0:166782773): /advert I sense the disease in you Nazeem.....
+Thu Oct 11 00:02:04 2018	Sammy Boom (STEAM_0:0:91181601): ey
+Thu Oct 11 00:02:05 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc let us SCPs free
+Thu Oct 11 00:02:13 2018	Lazlo Tart (STEAM_0:0:64513062): // busy
+Thu Oct 11 00:02:17 2018	kevin malone was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 00:02:18 2018	kevin malone (STEAM_0:0:63800005) spawned
+Thu Oct 11 00:02:25 2018	Sammy Boom (STEAM_0:0:91181601): this is just the lobby
+Thu Oct 11 00:02:30 2018	Nazeem was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 00:02:31 2018	Sammy Boom (STEAM_0:0:91181601): and nah I'm gonna work for as long as possible
+Thu Oct 11 00:02:31 2018	Nazeem (STEAM_0:0:69668875) spawned
+Thu Oct 11 00:02:38 2018	kevin malone (STEAM_0:0:63800005): /ADVERT WE WANT ALL COUNTRY OF GREECE
+Thu Oct 11 00:02:45 2018	Ragpan (STEAM_0:1:155698467): /ooc oh hey nacho
+Thu Oct 11 00:02:52 2018	Alen (STEAM_0:0:120134659): // ragpan
+Thu Oct 11 00:02:57 2018	Alen (STEAM_0:0:120134659): // help us fight back
+Thu Oct 11 00:02:58 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc i do not see the disease in you ragpan....
+Thu Oct 11 00:02:59 2018	Nazeem (STEAM_0:0:69668875): // you cunts killed me
+Thu Oct 11 00:03:01 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Dude I'll just give you a salami sandwich if you want all of greece.
+Thu Oct 11 00:03:02 2018	Alen (STEAM_0:0:120134659): // against caboose
+Thu Oct 11 00:03:14 2018	Alen (STEAM_0:0:120134659): // Hes being real salty to me btw
+Thu Oct 11 00:03:30 2018	Alen (STEAM_0:0:120134659): /ad For Jesus!
+Thu Oct 11 00:03:37 2018	Craftygarrett (STEAM_0:1:184775407): // its called being a dick and i dont know you alen
+Thu Oct 11 00:03:39 2018	Ares (STEAM_0:0:79724754): /advert Deus Vult!
+Thu Oct 11 00:03:39 2018	Alen (STEAM_0:0:120134659): /advert For Jesus!
+Thu Oct 11 00:03:44 2018	Alen (STEAM_0:0:120134659): // dont need to
+Thu Oct 11 00:03:50 2018	Alen (STEAM_0:0:120134659): // your still being a cuck
+Thu Oct 11 00:03:52 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 00:04:02 2018	kevin malone (STEAM_0:0:63800005): /ADVERT ALLAHU AKBAR!
+Thu Oct 11 00:04:04 2018	Nazeem was killed by Somebody with a eoti_raven_swep
+Thu Oct 11 00:04:06 2018	Craftygarrett (STEAM_0:1:184775407): // no rule or anything saying i cant
+Thu Oct 11 00:04:07 2018	Nazeem (STEAM_0:0:69668875) spawned
+Thu Oct 11 00:04:11 2018	nuclearnacho88 (STEAM_0:0:166782773): sexy bois
+Thu Oct 11 00:04:14 2018	kevin malone (STEAM_0:0:63800005): /ADVERT THIS PLACE GO BY
+Thu Oct 11 00:04:18 2018	nuclearnacho88 (STEAM_0:0:166782773): we must kill the diseased
+Thu Oct 11 00:04:27 2018	kevin malone (STEAM_0:0:63800005): /ADVERT BOOM
+Thu Oct 11 00:04:27 2018	Alen (STEAM_0:0:120134659): // Yea there isnt, but  it makes peeps dislike you.
+Thu Oct 11 00:04:49 2018	nuclearnacho88 (STEAM_0:0:166782773): lets kick their asses
+Thu Oct 11 00:04:50 2018	Lazlo Tart was killed by Craftygarrett with a cw_scarh
+Thu Oct 11 00:04:57 2018	Lazlo Tart (STEAM_0:0:64513062) spawned
+Thu Oct 11 00:04:59 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Thu Oct 11 00:04:59 2018	nuclearnacho88 (STEAM_0:0:166782773): we got this
+Thu Oct 11 00:05:08 2018	Craftygarrett was killed by Himself with a suicide trick
+Thu Oct 11 00:05:23 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:05:23 2018	kevin malone (STEAM_0:0:63800005): /ADVERT WE BYE BYE THIS PLACE
+Thu Oct 11 00:05:28 2018	kevin malone (STEAM_0:0:63800005): /ADVERT ALLAH AKBAR
+Thu Oct 11 00:05:41 2018	Lazlo Tart (STEAM_0:0:64513062): /advert Everyone Get to the damn shelters!
+Thu Oct 11 00:05:50 2018	Alen (STEAM_0:0:120134659): // good bye, its too late for me
+Thu Oct 11 00:06:21 2018	Alen (STEAM_0:0:120134659): // Remember our names, the men who faught back.
+Thu Oct 11 00:06:23 2018	Craftygarrett (STEAM_0:1:184775407): // hi
+Thu Oct 11 00:06:29 2018	kevin malone (STEAM_0:0:63800005): /ADVERT ALLAH! ALLAHU AKBAR
+Thu Oct 11 00:06:32 2018	Sinbad (STEAM_0:0:88069895): /ooc Tram
+Thu Oct 11 00:06:35 2018	Gaster (STEAM_0:1:59756947) spawned
+Thu Oct 11 00:06:38 2018	Alen (STEAM_0:0:120134659): // goodbye ares
+Thu Oct 11 00:06:45 2018	nuclearnacho88 (STEAM_0:0:166782773): well it was a good run
+Thu Oct 11 00:06:47 2018	nuclearnacho88 (STEAM_0:0:166782773): Ares
+Thu Oct 11 00:06:50 2018	Alen (STEAM_0:0:120134659): // the tram came back
+Thu Oct 11 00:06:51 2018	nuclearnacho88 (STEAM_0:0:166782773): <3
+Thu Oct 11 00:06:53 2018	Sinbad (STEAM_0:0:88069895): /ooc Good
+Thu Oct 11 00:06:58 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc HURRY
+Thu Oct 11 00:07:02 2018	kevin malone was killed by Somebody with a eoti_raven_swep
+Thu Oct 11 00:07:04 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:07:05 2018	Alen (STEAM_0:0:120134659): // goodbye
+Thu Oct 11 00:07:05 2018	kevin malone (STEAM_0:0:63800005) spawned
+Thu Oct 11 00:07:12 2018	Sinbad (STEAM_0:0:88069895): /ooc Good bye
+Thu Oct 11 00:07:19 2018	Ragpan (STEAM_0:1:155698467): /advert EVERYONE TO THE BUNKER
+Thu Oct 11 00:07:25 2018	Craftygarrett was killed by Ares with a cw_g36c
+Thu Oct 11 00:07:35 2018	Sammy Boom (STEAM_0:0:91181601): // I just went to Afghanistan
+Thu Oct 11 00:07:35 2018	kevin malone (STEAM_0:0:63800005) spawned
+Thu Oct 11 00:07:38 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:07:39 2018	nuclearnacho88 (STEAM_0:0:166782773): i am the disease
+Thu Oct 11 00:07:43 2018	Sammy Boom (STEAM_0:0:91181601): // seems pretty safe to me
+Thu Oct 11 00:07:48 2018	nuclearnacho88 (STEAM_0:0:166782773): ;3
+Thu Oct 11 00:07:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Thu Oct 11 00:07:49 2018	kevin malone (STEAM_0:0:63800005): yo
+Thu Oct 11 00:07:51 2018	nuclearnacho88 (STEAM_0:0:166782773): ;-;
+Thu Oct 11 00:08:03 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:08:14 2018	Nazeem was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:14 2018	fallenturtle was killed by Entity [4916][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:14 2018	nuclearnacho88 was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:14 2018	Ares was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:15 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 00:08:16 2018	Nazeem (STEAM_0:0:69668875) spawned
+Thu Oct 11 00:08:18 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:08:19 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:08:23 2018	nuclearnacho88 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:24 2018	Ares was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:25 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:08:26 2018	Sinbad was killed by fallenturtle with a cw_deagle
+Thu Oct 11 00:08:26 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:08:27 2018	Sinbad (STEAM_0:0:88069895) spawned
+Thu Oct 11 00:08:29 2018	Nazeem (STEAM_0:0:69668875) disconnected
+Thu Oct 11 00:08:30 2018	Ares was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:31 2018	nuclearnacho88 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:32 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:08:34 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:08:34 2018	Sammy Boom (STEAM_0:0:91181601): // bad time for him to connect lol
+Thu Oct 11 00:08:36 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 00:08:37 2018	Ares was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:38 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:08:39 2018	fallenturtle was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:39 2018	Alen was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:39 2018	Sinbad was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:39 2018	nuclearnacho88 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:40 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 00:08:40 2018	kevin malone (STEAM_0:0:63800005): /y SINBAD
+Thu Oct 11 00:08:41 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:08:41 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:08:42 2018	Sinbad (STEAM_0:0:88069895) spawned
+Thu Oct 11 00:08:42 2018	kevin malone (STEAM_0:0:63800005): /Y NO
+Thu Oct 11 00:08:43 2018	Ares was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:45 2018	fallenturtle was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:46 2018	nuclearnacho88 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:46 2018	Alen was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:46 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 00:08:47 2018	Sinbad was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 00:08:47 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 00:08:47 2018	Ares (STEAM_0:0:79724754): // So when does it stop exploding?
+Thu Oct 11 00:08:47 2018	Alen (STEAM_0:0:120134659) spawned
+Thu Oct 11 00:08:48 2018	Sinbad (STEAM_0:0:88069895) spawned
+Thu Oct 11 00:08:48 2018	Ares (STEAM_0:0:79724754) spawned
+Thu Oct 11 00:08:49 2018	nuclearnacho88 (STEAM_0:0:166782773): /ad sexy
+Thu Oct 11 00:08:50 2018	Sammy Boom (STEAM_0:0:91181601): // now

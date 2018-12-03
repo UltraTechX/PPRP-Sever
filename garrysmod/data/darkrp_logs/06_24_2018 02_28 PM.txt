@@ -1,0 +1,68 @@
+Sun Jun 24 14:28:27 2018	Lastpayload244 (STEAM_0:0:48607723) has joined the game
+Sun Jun 24 14:28:27 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:29:12 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:29:16 2018	Connor Rk800 (STEAM_0:0:48607723): 
+Sun Jun 24 14:30:24 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jun 24 14:30:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:31:11 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jun 24 14:31:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 14:32:11 2018	Emmett (STEAM_0:1:41660292): !goto con
+Sun Jun 24 14:33:22 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 14:34:31 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:37:36 2018	Connor Rk800 was killed by Entity [2120][entityflame] with a entityflame
+Sun Jun 24 14:37:37 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:37:45 2018	Fat Gay was killed by Entity [572][point_hurt] with a point_hurt
+Sun Jun 24 14:37:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:37:58 2018	Fat Gay was killed by Connor Rk800 with a cw_m3super90
+Sun Jun 24 14:37:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:38:49 2018	Connor Rk800 was killed by Fat Gay with a weapon_l4d2_baseball_bat
+Sun Jun 24 14:38:51 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:39:04 2018	Connor Rk800 was killed by Fat Gay with a weapon_l4d2_baseball_bat
+Sun Jun 24 14:39:05 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:39:12 2018	Fat Gay was killed by Connor Rk800 with a cw_m1911
+Sun Jun 24 14:39:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:39:23 2018	Fat Gay was killed by Connor Rk800 with a ent_l4d2_grenade_launcher_grenade
+Sun Jun 24 14:39:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:39:30 2018	Connor Rk800 was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jun 24 14:39:32 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:39:38 2018	Connor Rk800 was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jun 24 14:40:08 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:40:27 2018	Connor Rk800 was killed by Fat Gay with a weapon_l4d2_smg_silenced
+Sun Jun 24 14:40:28 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:40:38 2018	Connor Rk800 was killed by Fat Gay with a cw_deagle
+Sun Jun 24 14:40:39 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:40:50 2018	Connor Rk800 was killed by Fat Gay with a fas2_ak12
+Sun Jun 24 14:40:56 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:41:22 2018	Connor Rk800 was killed by Fat Gay with a weapon_l4d2_shotgun_spas
+Sun Jun 24 14:41:52 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:42:01 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jun 24 14:42:03 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:42:08 2018	Connor Rk800 was killed by Fat Gay with a weapon_ak472
+Sun Jun 24 14:42:16 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:42:24 2018	Connor Rk800 was killed by Fat Gay with a ls_sniper
+Sun Jun 24 14:42:25 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:42:38 2018	Connor Rk800 was killed by Fat Gay with a ls_sniper
+Sun Jun 24 14:42:42 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:42:52 2018	Connor Rk800 was killed by Fat Gay with a ls_sniper
+Sun Jun 24 14:42:54 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:44:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sun Jun 24 14:44:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sun Jun 24 14:45:25 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Jun 24 14:45:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:45:33 2018	Fat Gay (STEAM_0:1:218173703): !goto c 
+Sun Jun 24 14:45:34 2018	Emmett (STEAM_0:1:41660292): !goto fa
+Sun Jun 24 14:45:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_frezzer
+Sun Jun 24 14:45:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:45:47 2018	Fat Gay (STEAM_0:1:218173703): !goto co
+Sun Jun 24 14:46:19 2018	Connor Rk800 was killed by Fat Gay with a cw_mr96
+Sun Jun 24 14:46:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:46:42 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Sun Jun 24 14:46:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:46:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 14:47:29 2018	Fat Gay (STEAM_0:1:218173703): /report
+Sun Jun 24 14:47:33 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jun 24 14:47:43 2018	Emmett (STEAM_0:1:41660292): 
+Sun Jun 24 14:47:44 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jun 24 14:48:20 2018	Fat Gay (STEAM_0:1:218173703): !goto emm
+Sun Jun 24 14:49:31 2018	Connor Rk800 was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sun Jun 24 14:49:33 2018	Connor Rk800 (STEAM_0:0:48607723) spawned

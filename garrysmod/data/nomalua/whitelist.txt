@@ -1,0 +1,42 @@
+[
+	{
+		"file": "addons/nomalua/lua/sv_nomalua_checkdefs.lua",
+		"line": 0.0,
+		"check": "*"
+	},
+	{
+		"file": "addons/cac%-release%-.*.lua",
+		"line": 0.0,
+		"check": "*"
+	},
+	{
+		"file": "addons/ulib/lua/ulib/server/player.lua",
+		"line": 0.0,
+		"check": "BANMGMT"
+	},
+	{
+		"file": "gamemodes/sandbox/entities/weapons/gmod_tool/stools/wheel.lua",
+		"line": 274.0,
+		"check": "OBFUSC"
+	},
+	{
+		"file": "gamemodes/sandbox/entities/weapons/gmod_tool/stools/wheel.lua",
+		"line": 275.0,
+		"check": "OBFUSC"
+	},
+	{
+		"file": "gamemodes/sandbox/entities/weapons/gmod_tool/stools/wheel.lua",
+		"line": 276.0,
+		"check": "OBFUSC"
+	},
+	{
+		"file": "gamemodes/sandbox/entities/weapons/gmod_tool/stools/wheel.lua",
+		"line": 277.0,
+		"check": "OBFUSC"
+	},
+	{
+		"file": "gamemodes/sandbox/entities/weapons/gmod_tool/stools/wheel.lua",
+		"line": 278.0,
+		"check": "OBFUSC"
+	}
+]

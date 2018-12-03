@@ -1,0 +1,140 @@
+Mon Oct  8 23:09:14 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct  8 23:09:14 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:09:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 23:09:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 23:20:04 2018	Unexpected item in bagging area (STEAM_0:0:147115906) has joined the game
+Mon Oct  8 23:20:04 2018	Unexpected item in bagging area (STEAM_0:0:147115906) spawned
+Mon Oct  8 23:20:56 2018	Unexpected item in bagging area (STEAM_0:0:147115906) disconnected
+Mon Oct  8 23:25:05 2018	[Limitless] Zoidberg (STEAM_0:1:176115809) has joined the game
+Mon Oct  8 23:25:05 2018	[Limitless] Zoidberg (STEAM_0:1:176115809) spawned
+Mon Oct  8 23:28:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): new?
+Mon Oct  8 23:29:01 2018	[Limitless] Zoidberg (STEAM_0:1:176115809): yes
+Mon Oct  8 23:29:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i can give you a tour if you want
+Mon Oct  8 23:29:14 2018	[Limitless] Zoidberg (STEAM_0:1:176115809): please
+Mon Oct  8 23:30:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc were gonna get off here for our first stop
+Mon Oct  8 23:30:42 2018	[Limitless] Zoidberg (STEAM_0:1:176115809) disconnected
+Mon Oct  8 23:42:39 2018	Craftygarrett (STEAM_0:1:184775407): // fat
+Mon Oct  8 23:43:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:45:32 2018	Craftygarrett (STEAM_0:1:184775407): // fat are you there
+Mon Oct  8 23:47:51 2018	Craftygarrett (STEAM_0:1:184775407) disconnected
+Mon Oct  8 23:49:29 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Mon Oct  8 23:49:29 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 23:49:50 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 23:49:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 23:50:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 23:50:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 23:52:55 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 23:53:24 2018	TempusBilBoJo (STEAM_0:0:204382926): Hello DADDY
+Mon Oct  8 23:53:32 2018	TempusBilBoJo (STEAM_0:0:204382926): I noticed
+Mon Oct  8 23:53:44 2018	TempusBilBoJo (STEAM_0:0:204382926): nice
+Mon Oct  8 23:53:48 2018	TempusBilBoJo (STEAM_0:0:204382926): how ya doin
+Mon Oct  8 23:54:29 2018	TempusBilBoJo (STEAM_0:0:204382926): I have wensday off
+Mon Oct  8 23:54:48 2018	TempusBilBoJo (STEAM_0:0:204382926): Im a FRESH MEAT
+Mon Oct  8 23:55:01 2018	TempusBilBoJo (STEAM_0:0:204382926): HMMMM
+Mon Oct  8 23:55:34 2018	TempusBilBoJo (STEAM_0:0:204382926): wait shit why is the tempurature going up
+Mon Oct  8 23:55:45 2018	TempusBilBoJo (STEAM_0:0:204382926): ohk
+Mon Oct  8 23:55:58 2018	TempusBilBoJo (STEAM_0:0:204382926): !motd
+Mon Oct  8 23:56:09 2018	TempusBilBoJo (STEAM_0:0:204382926): nice
+Mon Oct  8 23:56:30 2018	TempusBilBoJo (STEAM_0:0:204382926): ok
+Mon Oct  8 23:56:32 2018	TempusBilBoJo (STEAM_0:0:204382926): have fun
+Mon Oct  8 23:57:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job Updating the server so its not shit
+Mon Oct  8 23:57:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job working on updates
+Mon Oct  8 23:57:33 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Tue Oct  9 00:03:02 2018	TempusBilBoJo (STEAM_0:0:204382926): // Remember today is pizza day
+Tue Oct  9 00:03:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yes
+Tue Oct  9 00:03:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc so mike suggested
+Tue Oct  9 00:03:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc that for april fools
+Tue Oct  9 00:03:19 2018	TempusBilBoJo (STEAM_0:0:204382926): // Every day is pizza day
+Tue Oct  9 00:03:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc we play pizza day only and also play it every 5 mins
+Tue Oct  9 00:03:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc every 1*
+Tue Oct  9 00:05:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !soectate temp
+Tue Oct  9 00:05:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 00:07:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !vip STEAM_0:1:218173703
+Tue Oct  9 00:09:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Tue Oct  9 00:09:59 2018	TempusBilBoJo (STEAM_0:0:204382926): // Just a little hiccup there
+Tue Oct  9 00:10:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 00:24:28 2018	TempusBilBoJo was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Tue Oct  9 00:24:30 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Tue Oct  9 00:47:05 2018	TempusBilBoJo (STEAM_0:0:204382926): !motd
+Tue Oct  9 00:50:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Tue Oct  9 00:50:49 2018	TempusBilBoJo (STEAM_0:0:204382926): // fucky
+Tue Oct  9 00:50:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Tue Oct  9 00:51:08 2018	TempusBilBoJo (STEAM_0:0:204382926): // I bought a printer and it exploded and I gots no profits
+Tue Oct  9 00:51:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto temp
+Tue Oct  9 00:51:22 2018	TempusBilBoJo (STEAM_0:0:204382926): hi
+Tue Oct  9 00:51:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /dropmoney 50000
+Tue Oct  9 00:51:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has dropped $50,000
+Tue Oct  9 00:51:36 2018	TempusBilBoJo (STEAM_0:0:204382926): Your better than creed
+Tue Oct  9 00:51:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cool
+Tue Oct  9 00:51:55 2018	TempusBilBoJo (STEAM_0:0:204382926): dogs are gay
+Tue Oct  9 00:52:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): idk, dogs are pretty cool
+Tue Oct  9 00:52:18 2018	TempusBilBoJo (STEAM_0:0:204382926): not in like an insulting way
+Tue Oct  9 00:52:22 2018	TempusBilBoJo (STEAM_0:0:204382926): its just a fact
+Tue Oct  9 00:52:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): ye
+Tue Oct  9 00:52:27 2018	TempusBilBoJo (STEAM_0:0:204382926): that they fuck the same gender
+Tue Oct  9 00:52:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): oh
+Tue Oct  9 00:52:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): thats gay
+Tue Oct  9 00:52:38 2018	TempusBilBoJo (STEAM_0:0:204382926): yes
+Tue Oct  9 00:52:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): xd
+Tue Oct  9 00:53:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i didnt know that lol, I just know some people like to fuck animals
+Tue Oct  9 00:53:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): theres a term for it
+Tue Oct  9 00:53:14 2018	TempusBilBoJo (STEAM_0:0:204382926): My friends dog rapes other dogs
+Tue Oct  9 00:53:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): nice
+Tue Oct  9 00:53:20 2018	TempusBilBoJo (STEAM_0:0:204382926): nice
+Tue Oct  9 00:53:24 2018	TempusBilBoJo (STEAM_0:0:204382926): cheese
+Tue Oct  9 00:53:27 2018	TempusBilBoJo (STEAM_0:0:204382926): CHEESE
+Tue Oct  9 00:53:38 2018	TempusBilBoJo (STEAM_0:0:204382926): dr freeman
+Tue Oct  9 00:53:44 2018	TempusBilBoJo (STEAM_0:0:204382926): cp
+Tue Oct  9 00:53:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): there is a video of a dog raping a blanket after someone tried to do that dissappearing trick
+Tue Oct  9 00:53:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): run
+Tue Oct  9 00:53:54 2018	TempusBilBoJo (STEAM_0:0:204382926): RUN
+Tue Oct  9 00:54:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !explode ^
+Tue Oct  9 00:54:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): wait thats not a thing
+Tue Oct  9 00:54:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !fdance *
+Tue Oct  9 00:54:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): welcome
+Tue Oct  9 00:54:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hi
+Tue Oct  9 00:54:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hello
+Tue Oct  9 00:54:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hello
+Tue Oct  9 00:54:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hello
+Tue Oct  9 00:54:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): come in
+Tue Oct  9 00:54:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cheese
+Tue Oct  9 00:54:42 2018	TempusBilBoJo (STEAM_0:0:204382926): I am pretty sure there is a admin command addon
+Tue Oct  9 00:54:51 2018	TempusBilBoJo (STEAM_0:0:204382926): that makes it so you can spawn a cp to just kick someone
+Tue Oct  9 00:54:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yea there is alot of them
+Tue Oct  9 00:55:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i have my sights on two but the creators paypal is gone
+Tue Oct  9 00:55:16 2018	TempusBilBoJo (STEAM_0:0:204382926): oOof
+Tue Oct  9 00:55:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): so i have this small one, which im mad at because that is what gave us the fucked chat tags
+Tue Oct  9 00:55:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i fixed it since, but it was annoying searching through addons
+Tue Oct  9 00:55:45 2018	TempusBilBoJo (STEAM_0:0:204382926): Does this server have a website btw or is it just the discord
+Tue Oct  9 00:55:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yea
+Tue Oct  9 00:55:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): opifexdev.net
+Tue Oct  9 00:55:55 2018	TempusBilBoJo (STEAM_0:0:204382926): nice
+Tue Oct  9 00:56:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): we have a ban page
+Tue Oct  9 00:56:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): warn page
+Tue Oct  9 00:56:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): store
+Tue Oct  9 00:56:05 2018	TempusBilBoJo (STEAM_0:0:204382926): can I make a staff app there daddyo
+Tue Oct  9 00:56:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): no its not open yet sadly
+Tue Oct  9 00:56:19 2018	TempusBilBoJo (STEAM_0:0:204382926): oOof
+Tue Oct  9 00:56:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): gotta get the discord redone
+Tue Oct  9 00:56:30 2018	TempusBilBoJo (STEAM_0:0:204382926): understandable
+Tue Oct  9 00:57:22 2018	TempusBilBoJo (STEAM_0:0:204382926): y
+Tue Oct  9 00:57:30 2018	TempusBilBoJo (STEAM_0:0:204382926): cheese
+Tue Oct  9 00:57:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Tue Oct  9 00:57:37 2018	TempusBilBoJo (STEAM_0:0:204382926): oh shit
+Tue Oct  9 00:57:39 2018	TempusBilBoJo (STEAM_0:0:204382926): NOT AGAIN
+Tue Oct  9 00:58:49 2018	TempusBilBoJo (STEAM_0:0:204382926): hax
+Tue Oct  9 00:58:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): lemme get a list
+Tue Oct  9 01:00:28 2018	TempusBilBoJo (STEAM_0:0:204382926): Your a chill dude I like that bout you
+Tue Oct  9 01:00:32 2018	TempusBilBoJo (STEAM_0:0:204382926): and you can speak english well
+Tue Oct  9 01:00:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yeah, because im a junior in high school, not a toddler
+Tue Oct  9 01:00:53 2018	TempusBilBoJo (STEAM_0:0:204382926): lol
+Tue Oct  9 01:00:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): and i live in the US
+Tue Oct  9 01:01:10 2018	TempusBilBoJo (STEAM_0:0:204382926): I used to work on another server were the owner was from a different LANGUAGE
+Tue Oct  9 01:01:15 2018	TempusBilBoJo (STEAM_0:0:204382926): so it was...
+Tue Oct  9 01:01:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): no thanks
+Tue Oct  9 01:01:17 2018	TempusBilBoJo (STEAM_0:0:204382926): interesting
+Tue Oct  9 01:01:48 2018	TempusBilBoJo (STEAM_0:0:204382926): Well Imma go
+Tue Oct  9 01:01:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): alright, see ya
+Tue Oct  9 01:02:01 2018	TempusBilBoJo (STEAM_0:0:204382926): /me kisses the god on the cheek
+Tue Oct  9 01:02:06 2018	TempusBilBoJo (STEAM_0:0:204382926) disconnected
+Tue Oct  9 01:03:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu

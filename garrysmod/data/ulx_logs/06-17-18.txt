@@ -1,0 +1,12 @@
+<Logging continued from "data/ulx_logs/06-15-18.txt">
+[14:16:33] Client "♕Weingott♕" connected.
+[14:17:58] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 85 seconds).
+[14:18:24] ♕Weingott♕: !noclip
+[14:18:28] ♕Weingott♕: !
+[14:18:37] ♕Weingott♕: !help
+[14:18:40] ♕Weingott♕: !commands
+[14:18:43] ♕Weingott♕: !menu
+[14:19:09] ♕Weingott♕: !fly
+[14:19:39] ♕Weingott♕: !noclip
+[14:25:42] Dropped "♕Weingott♕" from server<STEAM_0:1:86800123>
+<Logging continued in "data/ulx_logs/06-18-18.txt">

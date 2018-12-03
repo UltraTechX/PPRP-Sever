@@ -1,0 +1,5 @@
+Mon Oct  8 08:54:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 08:55:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /looc test
+Mon Oct  8 08:55:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert test
+Mon Oct  8 08:55:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc test
+Mon Oct  8 08:55:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /announce test

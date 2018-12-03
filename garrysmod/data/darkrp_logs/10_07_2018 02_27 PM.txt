@@ -1,0 +1,510 @@
+Sun Oct  7 14:27:51 2018	Crystal (STEAM_0:1:61393244) has joined the game
+Sun Oct  7 14:27:51 2018	Crystal (STEAM_0:1:61393244) spawned
+Sun Oct  7 14:27:59 2018	Benedict (STEAM_0:1:177305291) has joined the game
+Sun Oct  7 14:27:59 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 14:28:15 2018	Crystal (STEAM_0:1:61393244) disconnected
+Sun Oct  7 14:28:18 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 14:28:18 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 14:28:34 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sun Oct  7 14:28:34 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 14:28:56 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 14:29:21 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 14:29:21 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 14:29:21 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 14:30:30 2018	Virryi (STEAM_0:1:82934475) has joined the game
+Sun Oct  7 14:30:30 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:30:45 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sun Oct  7 14:31:33 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 14:31:33 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:33:02 2018	Spooky Table (STEAM_0:1:215843675) has joined the game
+Sun Oct  7 14:33:02 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:33:10 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 14:33:16 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // Hello
+Sun Oct  7 14:33:38 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 14:33:43 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Sun Oct  7 14:33:43 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 14:33:43 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // What is this server
+Sun Oct  7 14:34:16 2018	LiteralTable (STEAM_0:1:215843675): /name Table
+Sun Oct  7 14:34:32 2018	Virryi (STEAM_0:1:82934475): // Something Fat Gay made
+Sun Oct  7 14:34:33 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 14:34:36 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // Looks interesting
+Sun Oct  7 14:34:40 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // Ugh? is this also SCP?
+Sun Oct  7 14:34:46 2018	Benedict (STEAM_0:1:177305291): yeah
+Sun Oct  7 14:34:48 2018	Mike (STEAM_0:1:41660292): // For the most part, no
+Sun Oct  7 14:34:56 2018	Benedict (STEAM_0:1:177305291): well i guess not
+Sun Oct  7 14:35:01 2018	Virryi (STEAM_0:1:82934475): CAN IT BE
+Sun Oct  7 14:35:04 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 14:35:16 2018	Virryi (STEAM_0:1:82934475): // Small thing
+Sun Oct  7 14:35:19 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // So is there gonna be ranks or something but whitlist is just disabled for now? or are the trainee jobs just obselete
+Sun Oct  7 14:35:26 2018	Virryi (STEAM_0:1:82934475): aaaaa
+Sun Oct  7 14:35:26 2018	Virryi (STEAM_0:1:82934475): // Dunno
+Sun Oct  7 14:35:28 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:35:32 2018	Virryi (STEAM_0:1:82934475): // My Internet is dying though.
+Sun Oct  7 14:35:38 2018	Benedict (STEAM_0:1:177305291): ask the owner when he gets on
+Sun Oct  7 14:35:42 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // So how do I work
+Sun Oct  7 14:35:51 2018	Benedict (STEAM_0:1:177305291): anyways i think this is a beta
+Sun Oct  7 14:36:00 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:36:04 2018	Virryi (STEAM_0:1:82934475): // It's a pretty wip server honestly
+Sun Oct  7 14:36:09 2018	Benedict (STEAM_0:1:177305291): yeah
+Sun Oct  7 14:36:14 2018	Virryi (STEAM_0:1:82934475): // Just so you know.
+Sun Oct  7 14:36:24 2018	Pootis Bird (STEAM_0:0:22086175): // Is nice.
+Sun Oct  7 14:36:29 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:36:32 2018	Benedict (STEAM_0:1:177305291): for now i suggest its a semi serious roleplay
+Sun Oct  7 14:36:33 2018	Chickswithdicks (STEAM_0:1:86800123): // doo doo
+Sun Oct  7 14:37:18 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:37:44 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:37:54 2018	Virryi (STEAM_0:1:82934475): YES
+Sun Oct  7 14:37:55 2018	The Kettle (STEAM_0:0:86812760): wait
+Sun Oct  7 14:38:11 2018	Virryi (STEAM_0:1:82934475): amazing
+Sun Oct  7 14:38:16 2018	Chickswithdicks was killed by Benedict with a cw_g36c
+Sun Oct  7 14:38:19 2018	Virryi (STEAM_0:1:82934475): you're the mentally impaired sand nigerian
+Sun Oct  7 14:38:25 2018	Benedict (STEAM_0:1:177305291): intruder down
+Sun Oct  7 14:38:30 2018	Chickswithdicks (STEAM_0:1:86800123) spawned
+Sun Oct  7 14:38:51 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:38:55 2018	Virryi (STEAM_0:1:82934475): this is the holy plank
+Sun Oct  7 14:39:00 2018	Virryi (STEAM_0:1:82934475): The holy plank
+Sun Oct  7 14:39:02 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) disconnected
+Sun Oct  7 14:39:06 2018	Virryi (STEAM_0:1:82934475): praise is
+Sun Oct  7 14:39:07 2018	Virryi (STEAM_0:1:82934475): it
+Sun Oct  7 14:39:12 2018	The Kettle (STEAM_0:0:86812760): whta in the fuck is this playermodle
+Sun Oct  7 14:40:21 2018	Möthcrab (STEAM_0:0:97557403) has joined the game
+Sun Oct  7 14:40:21 2018	Möthcrab (STEAM_0:0:97557403) spawned
+Sun Oct  7 14:40:26 2018	The Kettle was killed by Table with a weapon_crowbar
+Sun Oct  7 14:40:28 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:40:28 2018	Virryi (STEAM_0:1:82934475): good job
+Sun Oct  7 14:40:39 2018	Virryi was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 14:40:42 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:40:43 2018	The Kettle was killed by Table with a weapon_crowbar
+Sun Oct  7 14:40:44 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:40:47 2018	Virryi (STEAM_0:1:82934475): /y OUR HOME
+Sun Oct  7 14:40:50 2018	Table was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 14:40:51 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:40:52 2018	Virryi (STEAM_0:1:82934475): /y OUR HOME
+Sun Oct  7 14:41:05 2018	Virryi (STEAM_0:1:82934475): WE HAVE NO HOME
+Sun Oct  7 14:41:11 2018	Virryi (STEAM_0:1:82934475): /y WE MUST BUILD THE HOLY ARC
+Sun Oct  7 14:41:12 2018	Virryi (STEAM_0:1:82934475): ARK
+Sun Oct  7 14:41:18 2018	Virryi (STEAM_0:1:82934475): sure
+Sun Oct  7 14:41:21 2018	Table (STEAM_0:1:215843675): .
+Sun Oct  7 14:41:30 2018	Möthcrab (STEAM_0:0:97557403) disconnected
+Sun Oct  7 14:41:35 2018	Virryi (STEAM_0:1:82934475): /y we're a hivemind now
+Sun Oct  7 14:41:48 2018	Table (STEAM_0:1:215843675): /job Sand Nigerian Queen
+Sun Oct  7 14:42:01 2018	The Kettle (STEAM_0:0:86812760): queen virryi of the hivemind 
+Sun Oct  7 14:42:04 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 14:42:10 2018	Table (STEAM_0:1:215843675): Cheese
+Sun Oct  7 14:42:10 2018	The Kettle (STEAM_0:0:86812760): hiow the fuck
+Sun Oct  7 14:42:23 2018	Virryi (STEAM_0:1:82934475): /y WE must build the ultimate hive
+Sun Oct  7 14:43:19 2018	Table (STEAM_0:1:215843675): Build the nest
+Sun Oct  7 14:43:33 2018	Benedict was killed by Chickswithdicks with a cw_l85a2
+Sun Oct  7 14:43:37 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 14:43:53 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 14:44:28 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 14:44:38 2018	Virryi (STEAM_0:1:82934475): i am the queen
+Sun Oct  7 14:44:42 2018	Table (STEAM_0:1:215843675): No
+Sun Oct  7 14:44:45 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 14:44:48 2018	Table (STEAM_0:1:215843675): No
+Sun Oct  7 14:44:50 2018	Table (STEAM_0:1:215843675): Fine
+Sun Oct  7 14:44:50 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 14:44:53 2018	Table (STEAM_0:1:215843675): Two Queens
+Sun Oct  7 14:44:55 2018	Benedict (STEAM_0:1:177305291) disconnected
+Sun Oct  7 14:45:02 2018	Chickswithdicks (STEAM_0:1:86800123): // lol
+Sun Oct  7 14:45:43 2018	Chickswithdicks (STEAM_0:1:86800123) disconnected
+Sun Oct  7 14:45:49 2018	Virryi (STEAM_0:1:82934475): // holy fuck
+Sun Oct  7 14:45:52 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 14:45:52 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 14:45:54 2018	Virryi (STEAM_0:1:82934475): // that was close
+Sun Oct  7 14:45:58 2018	Pootis Bird (STEAM_0:0:22086175): // What was that.
+Sun Oct  7 14:46:01 2018	Virryi (STEAM_0:1:82934475): // Note: Duplicator crashes the server
+Sun Oct  7 14:46:14 2018	The Kettle (STEAM_0:0:86812760): // GOD DAMMIT VIRRIY
+Sun Oct  7 14:46:16 2018	Virryi (STEAM_0:1:82934475): // AFK
+Sun Oct  7 14:46:35 2018	Virryi was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 14:46:35 2018	Mike (STEAM_0:1:41660292): // Why is everyone sand nigerian?
+Sun Oct  7 14:46:48 2018	The Kettle (STEAM_0:0:86812760): // why not?
+Sun Oct  7 14:46:50 2018	Table (STEAM_0:1:215843675): // Hivemind
+Sun Oct  7 14:47:01 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // Sorry I crashed
+Sun Oct  7 14:47:17 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 14:47:41 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // Mike I crashed
+Sun Oct  7 14:47:48 2018	Mike (STEAM_0:1:41660292): // I noticed
+Sun Oct  7 14:47:55 2018	Mike (STEAM_0:1:41660292): !goto AIO
+Sun Oct  7 14:48:44 2018	Pootis Bird (STEAM_0:0:22086175): Shoot
+Sun Oct  7 14:49:00 2018	Pootis Bird (STEAM_0:0:22086175): Well time to press buttons n shit.
+Sun Oct  7 14:49:35 2018	Table was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 14:49:37 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:50:00 2018	Table was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 14:50:01 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:51:37 2018	Table (STEAM_0:1:215843675): /job Sand Nigerian Fighter
+Sun Oct  7 14:52:41 2018	Table was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 14:53:47 2018	Pootis Bird (STEAM_0:0:22086175): I think I stopped a catastrophe
+Sun Oct  7 14:53:48 2018	The Kettle was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Sun Oct  7 14:53:49 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:53:50 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 14:53:58 2018	The Kettle (STEAM_0:0:86812760): wait
+Sun Oct  7 14:53:59 2018	The Kettle was killed by Table with a weapon_crowbar
+Sun Oct  7 14:54:07 2018	The Kettle (STEAM_0:0:86812760): do you see the top hat
+Sun Oct  7 14:54:08 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:54:13 2018	Pootis Bird (STEAM_0:0:22086175): It's rising again.
+Sun Oct  7 14:54:44 2018	Pootis Bird (STEAM_0:0:22086175): Yeah I turned the lasers off
+Sun Oct  7 14:55:20 2018	Pootis Bird (STEAM_0:0:22086175): Oh wow
+Sun Oct  7 14:55:53 2018	Pootis Bird (STEAM_0:0:22086175): Right so we good now?
+Sun Oct  7 14:56:45 2018	Pootis Bird (STEAM_0:0:22086175): Lol
+Sun Oct  7 14:57:32 2018	The Kettle (STEAM_0:0:86812760): // wtf do sand nigerians do?
+Sun Oct  7 14:57:51 2018	Mike (STEAM_0:1:41660292): // We've had them for months and I still don't know what they do
+Sun Oct  7 14:58:11 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 14:58:54 2018	The Kettle (STEAM_0:0:86812760): // and where the fuck is everyone
+Sun Oct  7 14:59:56 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 14:59:59 2018	Virryi (STEAM_0:1:82934475): // Prokofieeev
+Sun Oct  7 15:00:02 2018	Virryi (STEAM_0:1:82934475): // bacc
+Sun Oct  7 15:00:34 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:00:46 2018	Virryi (STEAM_0:1:82934475): // h m m m 
+Sun Oct  7 15:00:55 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): /Radio [ODST] Knock!
+Sun Oct  7 15:01:04 2018	Virryi (STEAM_0:1:82934475): kettle no
+Sun Oct  7 15:01:07 2018	Virryi (STEAM_0:1:82934475): we're building a home here
+Sun Oct  7 15:01:11 2018	Virryi (STEAM_0:1:82934475): stop
+Sun Oct  7 15:01:15 2018	Virryi was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 15:01:16 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 15:01:21 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): /Radio [ODST] Knock!
+Sun Oct  7 15:01:28 2018	The Kettle was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:01:29 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:01:33 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct  7 15:01:33 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:01:44 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): !
+Sun Oct  7 15:02:09 2018	The Kettle (STEAM_0:0:86812760): // ITS TIME TO BU-BU-BU-BU-BU BUILD
+Sun Oct  7 15:02:28 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:03:04 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:03:18 2018	Virryi (STEAM_0:1:82934475): // Oof stacker is pain in the ass to use here
+Sun Oct  7 15:04:19 2018	Virryi (STEAM_0:1:82934475): nice
+Sun Oct  7 15:04:22 2018	Virryi (STEAM_0:1:82934475): are you my hamster
+Sun Oct  7 15:05:29 2018	Virryi (STEAM_0:1:82934475): // we have a hamster
+Sun Oct  7 15:06:32 2018	The Kettle (STEAM_0:0:86812760): // im now a hamster
+Sun Oct  7 15:06:35 2018	Virryi (STEAM_0:1:82934475): i'm making a minecraft house
+Sun Oct  7 15:06:37 2018	The Kettle (STEAM_0:0:86812760): /job Hamster
+Sun Oct  7 15:06:42 2018	Virryi (STEAM_0:1:82934475): because stacker is pain in the ass to use here
+Sun Oct  7 15:06:56 2018	Virryi (STEAM_0:1:82934475): our fort
+Sun Oct  7 15:07:12 2018	The Kettle (STEAM_0:0:86812760): /job Hivemind Hamster
+Sun Oct  7 15:08:08 2018	Virryi (STEAM_0:1:82934475): suck an egg
+Sun Oct  7 15:08:12 2018	Virryi (STEAM_0:1:82934475): from the queen
+Sun Oct  7 15:08:25 2018	Virryi (STEAM_0:1:82934475): /job Sand Nigerian Queen
+Sun Oct  7 15:08:32 2018	Adam Klein was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:08:33 2018	Virryi (STEAM_0:1:82934475): // we created a hivemind by accident out of pure boredom
+Sun Oct  7 15:08:35 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:08:37 2018	The Kettle was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:08:39 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:08:41 2018	Virryi (STEAM_0:1:82934475): add me to buddies
+Sun Oct  7 15:08:50 2018	Virryi (STEAM_0:1:82934475): sure
+Sun Oct  7 15:08:54 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:08:58 2018	Virryi (STEAM_0:1:82934475): done
+Sun Oct  7 15:09:18 2018	Virryi (STEAM_0:1:82934475): welcome
+Sun Oct  7 15:09:28 2018	The Kettle (STEAM_0:0:86812760): woof
+Sun Oct  7 15:09:37 2018	Virryi (STEAM_0:1:82934475): yes sure
+Sun Oct  7 15:09:58 2018	The Kettle (STEAM_0:0:86812760): /y woof
+Sun Oct  7 15:09:58 2018	Virryi (STEAM_0:1:82934475): We shall look for the holy exit.
+Sun Oct  7 15:10:23 2018	Virryi (STEAM_0:1:82934475): this lamp insulted me
+Sun Oct  7 15:10:37 2018	Virryi (STEAM_0:1:82934475): okay
+Sun Oct  7 15:10:38 2018	Virryi (STEAM_0:1:82934475): enough
+Sun Oct  7 15:10:41 2018	Virryi (STEAM_0:1:82934475): oh fuck look
+Sun Oct  7 15:10:45 2018	Virryi (STEAM_0:1:82934475): Hello
+Sun Oct  7 15:10:47 2018	Virryi (STEAM_0:1:82934475): Okay
+Sun Oct  7 15:10:49 2018	The Kettle (STEAM_0:0:86812760): /y woof
+Sun Oct  7 15:11:22 2018	Mike (STEAM_0:1:41660292): !bring AIO
+Sun Oct  7 15:11:28 2018	Virryi (STEAM_0:1:82934475): HE DISSAPEARED
+Sun Oct  7 15:11:29 2018	Virryi (STEAM_0:1:82934475): IT'S A GOD
+Sun Oct  7 15:11:30 2018	The Kettle (STEAM_0:0:86812760): /job Sand Nigerian
+Sun Oct  7 15:11:32 2018	Virryi (STEAM_0:1:82934475): PRAISE HIM
+Sun Oct  7 15:11:38 2018	Virryi (STEAM_0:1:82934475): oh yeah
+Sun Oct  7 15:11:44 2018	Virryi (STEAM_0:1:82934475): this is our house
+Sun Oct  7 15:11:45 2018	Virryi (STEAM_0:1:82934475): it's small
+Sun Oct  7 15:12:03 2018	Virryi (STEAM_0:1:82934475): we are creating art
+Sun Oct  7 15:12:14 2018	The Kettle (STEAM_0:0:86812760): MIIIIIIIIIIIINE DIIIIIIIIIMONDS
+Sun Oct  7 15:13:13 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:13:19 2018	Virryi (STEAM_0:1:82934475): /y We are creating the hive
+Sun Oct  7 15:14:09 2018	The Kettle was killed by Table with a weapon_crowbar
+Sun Oct  7 15:14:11 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:14:29 2018	Table was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 15:14:30 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:14:49 2018	Virryi (STEAM_0:1:82934475): YES
+Sun Oct  7 15:15:04 2018	Virryi (STEAM_0:1:82934475): THIS EGG IS INVISIBLE
+Sun Oct  7 15:15:06 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): Im still here
+Sun Oct  7 15:15:06 2018	Virryi (STEAM_0:1:82934475): OH FUCK
+Sun Oct  7 15:15:09 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): just invisible
+Sun Oct  7 15:15:11 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // Im still here
+Sun Oct  7 15:15:18 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): yeah Im still on the chair
+Sun Oct  7 15:15:31 2018	Virryi (STEAM_0:1:82934475): /y HE'S HERE
+Sun Oct  7 15:15:44 2018	Virryi (STEAM_0:1:82934475): /y Nevermind
+Sun Oct  7 15:15:49 2018	Virryi (STEAM_0:1:82934475): /y Back to building the hive
+Sun Oct  7 15:16:40 2018	Mike (STEAM_0:1:41660292): // Yall wanna start a meltdown?
+Sun Oct  7 15:16:43 2018	The Kettle (STEAM_0:0:86812760): im on noones buddy list :(
+Sun Oct  7 15:16:46 2018	Virryi (STEAM_0:1:82934475): // we're building a hive
+Sun Oct  7 15:16:53 2018	The Kettle (STEAM_0:0:86812760): // what the 3rd one?
+Sun Oct  7 15:16:59 2018	Mike (STEAM_0:1:41660292): !bring AIO
+Sun Oct  7 15:17:23 2018	Virryi (STEAM_0:1:82934475): /y Our dream home.
+Sun Oct  7 15:17:30 2018	Virryi (STEAM_0:1:82934475): /y Someone joined us
+Sun Oct  7 15:17:34 2018	Virryi (STEAM_0:1:82934475): /y He is a false prophet
+Sun Oct  7 15:17:38 2018	Virryi was killed by Adam Klein with a cw_scarh
+Sun Oct  7 15:17:40 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 15:17:49 2018	Adam Klein was killed by Himself with a suicide trick
+Sun Oct  7 15:17:49 2018	Table was killed by Adam Klein with a env_explosion
+Sun Oct  7 15:17:51 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:17:51 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:17:57 2018	Virryi (STEAM_0:1:82934475): he commited death
+Sun Oct  7 15:18:01 2018	Virryi (STEAM_0:1:82934475): he commited death
+Sun Oct  7 15:18:30 2018	Virryi (STEAM_0:1:82934475): /y Suck an egg
+Sun Oct  7 15:19:03 2018	Virryi (STEAM_0:1:82934475): nigerian
+Sun Oct  7 15:19:09 2018	Virryi (STEAM_0:1:82934475): you arep romoted to a praetorian
+Sun Oct  7 15:19:17 2018	Virryi (STEAM_0:1:82934475): feel free to evolve
+Sun Oct  7 15:20:06 2018	Pootis Bird (STEAM_0:0:22086175): Oof, Osama Bin Liftin
+Sun Oct  7 15:20:09 2018	Mike (STEAM_0:1:41660292): !bring AIO
+Sun Oct  7 15:20:55 2018	Adam Klein was killed by Table with a weapon_crowbar
+Sun Oct  7 15:21:01 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:21:08 2018	Mike (STEAM_0:1:41660292): !bring aio
+Sun Oct  7 15:21:08 2018	Virryi (STEAM_0:1:82934475): // "The nigerians who killed osama"
+Sun Oct  7 15:21:17 2018	Virryi (STEAM_0:1:82934475): // "A scientific documentary"
+Sun Oct  7 15:22:43 2018	Mike (STEAM_0:1:41660292): !bring aio
+Sun Oct  7 15:22:59 2018	Virryi (STEAM_0:1:82934475): we are nearly done
+Sun Oct  7 15:23:03 2018	Table (STEAM_0:1:215843675): Should I spawn a money thing
+Sun Oct  7 15:23:06 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 15:23:06 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:23:07 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 15:24:12 2018	The Kettle was killed by Adam Klein with a fas2_thrown_m67
+Sun Oct  7 15:24:12 2018	Virryi was killed by Adam Klein with a fas2_thrown_m67
+Sun Oct  7 15:24:13 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:24:14 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 15:24:21 2018	Adam Klein was killed by Table with a weapon_crowbar
+Sun Oct  7 15:24:22 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:24:41 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:25:28 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Sun Oct  7 15:26:14 2018	Mike (STEAM_0:1:41660292): !bring aio
+Sun Oct  7 15:26:27 2018	Nap (STEAM_0:1:67061713) has joined the game
+Sun Oct  7 15:26:27 2018	Nap (STEAM_0:1:67061713) spawned
+Sun Oct  7 15:26:27 2018	Mike (STEAM_0:1:41660292): !bring aio
+Sun Oct  7 15:26:31 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:27:37 2018	Virryi (STEAM_0:1:82934475): // we did it
+Sun Oct  7 15:27:44 2018	Virryi (STEAM_0:1:82934475): // we created the sand nigerian hive
+Sun Oct  7 15:27:46 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): // what?
+Sun Oct  7 15:28:52 2018	Nap (STEAM_0:1:67061713) spawned
+Sun Oct  7 15:29:11 2018	Virryi (STEAM_0:1:82934475): welcome
+Sun Oct  7 15:29:14 2018	Virryi (STEAM_0:1:82934475): /y welcome
+Sun Oct  7 15:29:19 2018	Nap (STEAM_0:1:67061713): ello
+Sun Oct  7 15:29:24 2018	Mike (STEAM_0:1:41660292): !bring aio
+Sun Oct  7 15:29:30 2018	Virryi (STEAM_0:1:82934475): yes
+Sun Oct  7 15:29:33 2018	Virryi (STEAM_0:1:82934475): come to our hive
+Sun Oct  7 15:30:31 2018	Virryi (STEAM_0:1:82934475): perfect
+Sun Oct  7 15:31:06 2018	Virryi (STEAM_0:1:82934475): come to our hive
+Sun Oct  7 15:31:31 2018	Virryi (STEAM_0:1:82934475): i am
+Sun Oct  7 15:31:39 2018	The Kettle (STEAM_0:0:86812760): INNITIATION
+Sun Oct  7 15:31:50 2018	Nap was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 15:31:57 2018	The Kettle (STEAM_0:0:86812760): initiation
+Sun Oct  7 15:32:17 2018	Adam Klein was killed by Himself with a suicide trick
+Sun Oct  7 15:32:20 2018	Nap (STEAM_0:1:67061713) spawned
+Sun Oct  7 15:32:22 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:32:33 2018	GMan (STEAM_0:1:444450075): /y hello?
+Sun Oct  7 15:32:49 2018	Virryi (STEAM_0:1:82934475): welcome to the hive
+Sun Oct  7 15:33:05 2018	Virryi (STEAM_0:1:82934475): perfect
+Sun Oct  7 15:33:07 2018	Virryi (STEAM_0:1:82934475): this is a noble
+Sun Oct  7 15:33:08 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:33:14 2018	Virryi (STEAM_0:1:82934475): /y OUTSIDER
+Sun Oct  7 15:33:14 2018	The Kettle (STEAM_0:0:86812760): KILL
+Sun Oct  7 15:33:17 2018	Virryi was killed by The Kettle with a weapon_crowbar
+Sun Oct  7 15:33:19 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 15:33:22 2018	GMan was killed by Himself with a suicide trick
+Sun Oct  7 15:33:22 2018	Table was killed by GMan with a env_explosion
+Sun Oct  7 15:33:22 2018	The Kettle was killed by GMan with a env_explosion
+Sun Oct  7 15:33:23 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:33:26 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:33:34 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:33:55 2018	Table (STEAM_0:1:215843675): "?
+Sun Oct  7 15:33:56 2018	Nap was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:33:57 2018	Nap (STEAM_0:1:67061713) spawned
+Sun Oct  7 15:34:00 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:34:11 2018	Table (STEAM_0:1:215843675): We must bring the hive up
+Sun Oct  7 15:34:14 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:34:19 2018	Virryi (STEAM_0:1:82934475): what do you mean
+Sun Oct  7 15:34:27 2018	Table (STEAM_0:1:215843675): Power plant
+Sun Oct  7 15:34:33 2018	Table (STEAM_0:1:215843675): We stay here
+Sun Oct  7 15:34:39 2018	Table (STEAM_0:1:215843675): Till we find more
+Sun Oct  7 15:34:59 2018	Virryi (STEAM_0:1:82934475): hmm
+Sun Oct  7 15:35:00 2018	Nap (STEAM_0:1:67061713) spawned
+Sun Oct  7 15:35:14 2018	Virryi (STEAM_0:1:82934475): We're changing jobs
+Sun Oct  7 15:36:01 2018	Virryi (STEAM_0:1:82934475) spawned
+Sun Oct  7 15:36:06 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:36:16 2018	Virryi (STEAM_0:1:82934475): /rpname Jeremy Dormotes
+Sun Oct  7 15:36:37 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:36:41 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:37:30 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:37:56 2018	GMan (STEAM_0:1:444450075): is it time again mr freeman
+Sun Oct  7 15:38:04 2018	GMan (STEAM_0:1:444450075): /Job Gman
+Sun Oct  7 15:38:18 2018	Nap (STEAM_0:1:67061713) spawned
+Sun Oct  7 15:38:19 2018	AIO l Mine_Turtle was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:38:21 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) spawned
+Sun Oct  7 15:38:24 2018	Mike (STEAM_0:1:41660292): !bring aio
+Sun Oct  7 15:38:38 2018	GMan (STEAM_0:1:444450075): hold on
+Sun Oct  7 15:38:52 2018	AIO l Mine_Turtle (STEAM_0:1:52038966): /rpname Dave Letcher
+Sun Oct  7 15:39:23 2018	Table (STEAM_0:1:215843675): What we do
+Sun Oct  7 15:39:27 2018	Table (STEAM_0:1:215843675): Do we end this place
+Sun Oct  7 15:39:30 2018	Jeremy Dormotes (STEAM_0:1:82934475): rocket science
+Sun Oct  7 15:39:32 2018	Jeremy Dormotes (STEAM_0:1:82934475): egg
+Sun Oct  7 15:39:33 2018	Table (STEAM_0:1:215843675): Cause a meltdown
+Sun Oct  7 15:39:35 2018	Jeremy Dormotes (STEAM_0:1:82934475): we're gonna explode this
+Sun Oct  7 15:39:40 2018	Table (STEAM_0:1:215843675): Yes
+Sun Oct  7 15:39:45 2018	Table (STEAM_0:1:215843675): We shall win
+Sun Oct  7 15:40:20 2018	GMan (STEAM_0:1:444450075): Hello mr Freeman
+Sun Oct  7 15:41:00 2018	GMan (STEAM_0:1:444450075): want a gman kiss
+Sun Oct  7 15:41:02 2018	The Kettle (STEAM_0:0:86812760): test
+Sun Oct  7 15:41:06 2018	Dave Letcher (STEAM_0:1:52038966): a
+Sun Oct  7 15:41:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): /y come
+Sun Oct  7 15:41:20 2018	Dave Letcher was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:41:21 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 15:41:24 2018	Mike (STEAM_0:1:41660292): !goto The
+Sun Oct  7 15:41:27 2018	Jeremy Dormotes (STEAM_0:1:82934475): WE GONNA
+Sun Oct  7 15:41:30 2018	Jeremy Dormotes (STEAM_0:1:82934475): GO NUKE
+Sun Oct  7 15:41:34 2018	Mike (STEAM_0:1:41660292): !goto the
+Sun Oct  7 15:41:39 2018	The Kettle (STEAM_0:0:86812760): hey
+Sun Oct  7 15:41:40 2018	Jeremy Dormotes (STEAM_0:1:82934475): fuck you 
+Sun Oct  7 15:41:48 2018	The Kettle (STEAM_0:0:86812760): ha
+Sun Oct  7 15:41:52 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:41:56 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:42:07 2018	Mike (STEAM_0:1:41660292) disconnected
+Sun Oct  7 15:42:07 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:42:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Sun Oct  7 15:42:34 2018	Jeremy Dormotes (STEAM_0:1:82934475): follow me
+Sun Oct  7 15:43:03 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:43:05 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:43:41 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:43:43 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:43:59 2018	GMan (STEAM_0:1:444450075): behinde you
+Sun Oct  7 15:44:00 2018	Jeremy Dormotes (STEAM_0:1:82934475): follow me
+Sun Oct  7 15:44:11 2018	Jeremy Dormotes (STEAM_0:1:82934475): wrong area
+Sun Oct  7 15:44:13 2018	Spyglass (STEAM_0:1:76177729) has joined the game
+Sun Oct  7 15:44:13 2018	Spyglass (STEAM_0:1:76177729) spawned
+Sun Oct  7 15:44:14 2018	Jeremy Dormotes (STEAM_0:1:82934475): /y wrong place
+Sun Oct  7 15:44:29 2018	GMan was killed by Adam Klein with a fas2_machete
+Sun Oct  7 15:44:30 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:44:31 2018	mr bean (STEAM_0:0:23292214) has joined the game
+Sun Oct  7 15:44:31 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 15:44:38 2018	The Kettle (STEAM_0:0:86812760): SUCJ IT
+Sun Oct  7 15:44:49 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:44:50 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:45:09 2018	Jeremy Dormotes (STEAM_0:1:82934475): LET"S HEAD TO ROCKet now
+Sun Oct  7 15:45:16 2018	GMan was killed by Adam Klein with a fas2_machete
+Sun Oct  7 15:45:17 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:45:22 2018	Jeremy Dormotes (STEAM_0:1:82934475): we can't go down with the facility ,we gotta run
+Sun Oct  7 15:45:24 2018	Jeremy Dormotes (STEAM_0:1:82934475): no
+Sun Oct  7 15:45:27 2018	Jeremy Dormotes (STEAM_0:1:82934475): don't announce
+Sun Oct  7 15:45:30 2018	Jeremy Dormotes (STEAM_0:1:82934475): it has to be an inside job
+Sun Oct  7 15:45:37 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 15:45:37 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 15:45:55 2018	Jeremy Dormotes (STEAM_0:1:82934475): /y No
+Sun Oct  7 15:45:57 2018	Jeremy Dormotes (STEAM_0:1:82934475): We can use tele
+Sun Oct  7 15:46:00 2018	GMan was killed by Adam Klein with a fas2_machete
+Sun Oct  7 15:46:02 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:46:04 2018	Jeremy Dormotes (STEAM_0:1:82934475): it's faster
+Sun Oct  7 15:46:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): follow me now, i remember the way
+Sun Oct  7 15:46:29 2018	GMan (STEAM_0:1:444450075): /y knife only
+Sun Oct  7 15:46:29 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:46:32 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:46:42 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 15:46:54 2018	GMan was killed by Adam Klein with a fas2_machete
+Sun Oct  7 15:46:55 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:47:10 2018	Adam Klein was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 15:47:11 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 15:47:18 2018	Dave Letcher (STEAM_0:1:52038966): /advert 4198
+Sun Oct  7 15:47:26 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 15:47:32 2018	Jeremy Dormotes (STEAM_0:1:82934475): We can't
+Sun Oct  7 15:47:37 2018	Jeremy Dormotes (STEAM_0:1:82934475): let them do it
+Sun Oct  7 15:47:43 2018	Mike (STEAM_0:1:41660292): !goto The
+Sun Oct  7 15:47:53 2018	Mike (STEAM_0:1:41660292): ugh
+Sun Oct  7 15:47:54 2018	GMan (STEAM_0:1:444450075): night
+Sun Oct  7 15:48:00 2018	The Kettle (STEAM_0:0:86812760): DUCK IT NAP
+Sun Oct  7 15:48:55 2018	Jeremy Dormotes (STEAM_0:1:82934475): n o
+Sun Oct  7 15:48:58 2018	Jeremy Dormotes (STEAM_0:1:82934475): it's an inside job
+Sun Oct  7 15:49:28 2018	GMan (STEAM_0:1:444450075): Hello sir
+Sun Oct  7 15:49:38 2018	GMan (STEAM_0:1:444450075): dont ask why you hired gman as a manager
+Sun Oct  7 15:50:16 2018	HellBoy9000 (STEAM_0:0:200061148) has joined the game
+Sun Oct  7 15:50:16 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:50:19 2018	Jeremy Dormotes (STEAM_0:1:82934475): // West virginiaaaaa mountain mommaaaa
+Sun Oct  7 15:50:20 2018	The Kettle (STEAM_0:0:86812760): evacuate?
+Sun Oct  7 15:50:30 2018	Jeremy Dormotes (STEAM_0:1:82934475): // we're all doooomeeedd
+Sun Oct  7 15:50:32 2018	Nap (STEAM_0:1:67061713) disconnected
+Sun Oct  7 15:50:39 2018	Spyglass (STEAM_0:1:76177729) disconnected
+Sun Oct  7 15:50:55 2018	Jeremy Dormotes (STEAM_0:1:82934475): G'day.
+Sun Oct  7 15:51:13 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:51:36 2018	The Kettle (STEAM_0:0:86812760): RUN
+Sun Oct  7 15:52:05 2018	Jeremy Dormotes (STEAM_0:1:82934475): /y We're going to spaceeeeeeeeee.
+Sun Oct  7 15:52:16 2018	Jeremy Dormotes (STEAM_0:1:82934475): This is the gre-
+Sun Oct  7 15:52:19 2018	Jeremy Dormotes (STEAM_0:1:82934475): Awww.
+Sun Oct  7 15:52:50 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:52:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): Close call.
+Sun Oct  7 15:53:07 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:53:09 2018	The Kettle (STEAM_0:0:86812760): // what does it mean when it says you have been cursed into becoming a feathery monster of the forrest?
+Sun Oct  7 15:53:23 2018	Mike (STEAM_0:1:41660292): If you're not a SCP you don't have to worry about it
+Sun Oct  7 15:53:30 2018	Mike (STEAM_0:1:41660292): // It just sends it globally
+Sun Oct  7 15:53:41 2018	HellBoy9000 was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:53:42 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:53:56 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 15:53:57 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:54:07 2018	Jeremy Dormotes (STEAM_0:1:82934475): Uh.
+Sun Oct  7 15:54:17 2018	Jeremy Dormotes (STEAM_0:1:82934475): I'll just commit suicide if you don't mind.
+Sun Oct  7 15:54:24 2018	Jeremy Dormotes was killed by Entity [2889][func_rotating] with a func_rotating
+Sun Oct  7 15:54:29 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Sun Oct  7 15:54:53 2018	GMan (STEAM_0:1:444450075): take off the mask
+Sun Oct  7 15:54:58 2018	Jeremy Dormotes (STEAM_0:1:82934475) disconnected
+Sun Oct  7 15:55:12 2018	The Kettle (STEAM_0:0:86812760): there was a bug on your shoulder sir
+Sun Oct  7 15:55:30 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:55:32 2018	GMan was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:55:35 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:55:49 2018	Dave Letcher (STEAM_0:1:52038966): // The core roomn literally burned us
+Sun Oct  7 15:56:05 2018	The Kettle (STEAM_0:0:86812760): // the lasers make it over heat
+Sun Oct  7 15:56:09 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:56:17 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 15:56:17 2018	Table was killed by HellBoy9000 with a env_explosion
+Sun Oct  7 15:56:19 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:56:24 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:56:27 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:56:29 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 15:56:29 2018	Table was killed by HellBoy9000 with a env_explosion
+Sun Oct  7 15:56:30 2018	Dave Letcher (STEAM_0:1:52038966): // Its gonna overhear
+Sun Oct  7 15:56:30 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:56:31 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:56:31 2018	Dave Letcher (STEAM_0:1:52038966): s
+Sun Oct  7 15:56:55 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 15:57:12 2018	HellBoy9000 was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:57:13 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:57:16 2018	Dave Letcher (STEAM_0:1:52038966): // 
+Sun Oct  7 15:57:32 2018	mr bean was killed by Table with a cw_l85a2
+Sun Oct  7 15:57:43 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 15:58:03 2018	HellBoy9000 was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:58:04 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:58:11 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 15:58:14 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:58:23 2018	The Kettle (STEAM_0:0:86812760): fine
+Sun Oct  7 15:58:36 2018	The Kettle (STEAM_0:0:86812760): we gonna die
+Sun Oct  7 15:58:44 2018	Table was killed by Entity [2889][func_rotating] with a func_rotating
+Sun Oct  7 15:58:45 2018	Table (STEAM_0:1:215843675) spawned
+Sun Oct  7 15:59:07 2018	The Kettle (STEAM_0:0:86812760): oh no
+Sun Oct  7 15:59:25 2018	Table (STEAM_0:1:215843675) disconnected
+Sun Oct  7 15:59:29 2018	mr bean was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 15:59:39 2018	HellBoy9000 was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sun Oct  7 15:59:39 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 15:59:40 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 15:59:41 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 15:59:48 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 15:59:49 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:00:04 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 16:00:06 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 16:00:14 2018	The Kettle was killed by Himself with a suicide trick
+Sun Oct  7 16:00:17 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:00:17 2018	Dave Letcher was killed by GMan with a cw_m3super90
+Sun Oct  7 16:00:22 2018	GMan was killed by Adam Klein with a cw_l85a2
+Sun Oct  7 16:00:31 2018	GMan (STEAM_0:1:444450075): IM NOT Re spawning
+Sun Oct  7 16:00:42 2018	HellBoy9000 was killed by Entity [4927][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:00:43 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:00:46 2018	GMan (STEAM_0:1:444450075): im happy dea din here im not respawing
+Sun Oct  7 16:00:58 2018	GMan (STEAM_0:1:444450075): /y IM NOT GONNA RESPAWN
+Sun Oct  7 16:01:03 2018	HellBoy9000 was killed by Himself with a suicide trick
+Sun Oct  7 16:01:05 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:01:07 2018	Mike was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:01:07 2018	mr bean was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:01:11 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 16:01:14 2018	GMan (STEAM_0:1:444450075) spawned
+Sun Oct  7 16:01:16 2018	mr bean was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:01:17 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 16:01:19 2018	GMan was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:01:20 2018	GMan (STEAM_0:1:444450075) spawned

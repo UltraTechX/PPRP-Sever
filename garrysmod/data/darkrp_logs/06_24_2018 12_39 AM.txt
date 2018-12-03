@@ -1,0 +1,29 @@
+Sun Jun 24 00:39:03 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jun 24 00:39:03 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:39:28 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jun 24 00:39:28 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 00:41:48 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jun 24 00:41:57 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jun 24 00:41:58 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jun 24 00:42:45 2018	Emmett was killed by Fat Gay with a cw_l85a2
+Sun Jun 24 00:42:46 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 00:42:47 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jun 24 00:43:10 2018	Fat Gay was killed by Emmett with a fas2_p226
+Sun Jun 24 00:43:12 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:43:26 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jun 24 00:43:31 2018	Emmett was killed by Himself with a suicide trick
+Sun Jun 24 00:43:34 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 00:44:01 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jun 24 00:44:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:45:25 2018	Fat Gay was killed by Emmett with a fas2_p226
+Sun Jun 24 00:45:40 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sun Jun 24 00:45:43 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_citizen
+Sun Jun 24 00:45:52 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_citizen
+Sun Jun 24 00:45:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:46:02 2018	Fat Gay was killed by Emmett with a fas2_p226
+Sun Jun 24 00:46:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jun 24 00:46:55 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jun 24 00:51:04 2018	Emmett (STEAM_0:1:41660292) spawned SENT wck_projector
+Sun Jun 24 00:51:34 2018	Emmett (STEAM_0:1:41660292) spawned SENT wck_controller
+Sun Jun 24 00:51:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT wck_controller_vis
+Sun Jun 24 00:51:43 2018	Emmett (STEAM_0:1:41660292) spawned SENT wck_controller

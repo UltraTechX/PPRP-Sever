@@ -1,0 +1,27 @@
+Sat Jun 23 23:13:10 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 23 23:13:11 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:13:26 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Jun 23 23:13:26 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:13:28 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:29 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:30 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:30 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:31 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:32 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:33 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:34 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:35 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:36 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:13:46 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:46 2018	Fat Gay has made Emmett wanted, reason: Quick Want
+Sat Jun 23 23:13:48 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:49 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:13:50 2018	Fat Gay (STEAM_0:1:218173703): 
+Sat Jun 23 23:14:10 2018	Fat Gay (STEAM_0:1:218173703): !unwanted emm
+Sat Jun 23 23:14:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 23:15:46 2018	Emmett is no longer wanted by the Police.
+Sat Jun 23 23:16:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Jun 23 23:17:11 2018	Emmett (STEAM_0:1:41660292): /warrant emmett
+Sat Jun 23 23:17:28 2018	Emmett (STEAM_0:1:41660292): /warrant emmett Drug Abuse
+Sat Jun 23 23:17:42 2018	Emmett (STEAM_0:1:41660292): !quickwant emmett

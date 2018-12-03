@@ -1,0 +1,340 @@
+Mon Oct  8 18:30:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 18:30:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 18:30:11 2018	Terry Moist (STEAM_0:1:62842914) has joined the game
+Mon Oct  8 18:30:11 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:30:18 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct  8 18:30:18 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:30:40 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:31:00 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 18:31:00 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 18:31:01 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct  8 18:31:01 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:31:33 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Mon Oct  8 18:31:33 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:31:36 2018	xxxpurplespritexxx (STEAM_0:0:50093763) has joined the game
+Mon Oct  8 18:31:36 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:32:19 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:32:30 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:32:37 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:32:49 2018	Terry Moist was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 18:32:50 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:33:45 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:34:03 2018	Terry Moist was killed by Craftygarrett with a cw_deagle
+Mon Oct  8 18:34:05 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:34:21 2018	Dave Letcher was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:34:22 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:34:51 2018	Dave Letcher was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:34:52 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:34:55 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:34:59 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:35:14 2018	Craftygarrett was killed by Terry Moist with a cw_l85a2
+Mon Oct  8 18:35:26 2018	Craftygarrett (STEAM_0:1:184775407): // dude
+Mon Oct  8 18:35:27 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:35:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:35:30 2018	Enviro (STEAM_0:0:80115103): // d u d e 
+Mon Oct  8 18:35:36 2018	Craftygarrett (STEAM_0:1:184775407): // wtf was that
+Mon Oct  8 18:35:51 2018	Craftygarrett (STEAM_0:1:184775407): // you cant  jsut shoot me
+Mon Oct  8 18:35:51 2018	Dave Letcher (STEAM_0:1:52038966): /advert Test
+Mon Oct  8 18:36:00 2018	Dave Letcher (STEAM_0:1:52038966): // nope to automated
+Mon Oct  8 18:36:17 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 18:36:35 2018	Dave Letcher (STEAM_0:1:52038966): /advet Test Again
+Mon Oct  8 18:36:39 2018	Dave Letcher (STEAM_0:1:52038966): /advert Test again
+Mon Oct  8 18:36:41 2018	Dave Letcher (STEAM_0:1:52038966): /Advert [Automated Message] ALERT! The owner of this device in in danger, please be advised for any threats inside the facilit
+Mon Oct  8 18:36:42 2018	Nice Friendly Max (STEAM_0:0:169248915) has joined the game
+Mon Oct  8 18:36:42 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 18:36:44 2018	Dave Letcher (STEAM_0:1:52038966): /advert test over
+Mon Oct  8 18:36:57 2018	Enviro (STEAM_0:0:80115103): // is that pyrocynical
+Mon Oct  8 18:37:05 2018	Enviro (STEAM_0:0:80115103): // IS IT
+Mon Oct  8 18:37:12 2018	Enviro (STEAM_0:0:80115103): /advert SWAT needed in the facility.
+Mon Oct  8 18:37:15 2018	Craftygarrett (STEAM_0:1:184775407): // terry your one of them
+Mon Oct  8 18:37:26 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:37:34 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:37:34 2018	Terry Moist was killed by xxxpurplespritexxx with a env_explosion
+Mon Oct  8 18:37:37 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:37:49 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:38:21 2018	Terry Moist was killed by Enviro with a cw_g36c
+Mon Oct  8 18:38:26 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:38:31 2018	Craftygarrett (STEAM_0:1:184775407): /ad where are we needed
+Mon Oct  8 18:38:37 2018	xxxpurplespritexxx was killed by Enviro with a cw_g36c
+Mon Oct  8 18:38:39 2018	Craftygarrett (STEAM_0:1:184775407): /advert where we needed at
+Mon Oct  8 18:38:41 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:38:48 2018	Enviro (STEAM_0:0:80115103): /advert Terrorists down. 
+Mon Oct  8 18:38:59 2018	Dave Letcher (STEAM_0:1:52038966): /advert Cool the core down
+Mon Oct  8 18:39:00 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:39:02 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:39:20 2018	AllOfTheAbove72 (STEAM_0:0:108453289) has joined the game
+Mon Oct  8 18:39:20 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:39:25 2018	Enviro (STEAM_0:0:80115103): /advert roger.
+Mon Oct  8 18:39:30 2018	Dave Letcher was killed by xxxpurplespritexxx with a cw_shorty
+Mon Oct  8 18:39:31 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:39:44 2018	Enviro (STEAM_0:0:80115103): /advert SWAT needed at Core!
+Mon Oct  8 18:39:54 2018	Dave Letcher (STEAM_0:1:52038966): // Terrorists can you follow some sorta NLR
+Mon Oct  8 18:39:55 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 18:40:09 2018	Nice Friendly Max (STEAM_0:0:169248915): // there is no NLR
+Mon Oct  8 18:40:13 2018	Enviro (STEAM_0:0:80115103): // ^ not yet
+Mon Oct  8 18:40:42 2018	Beastmode (STEAM_0:1:6015082) has joined the game
+Mon Oct  8 18:40:42 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:40:48 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 18:40:59 2018	Craftygarrett (STEAM_0:1:184775407): // mike are you there
+Mon Oct  8 18:41:12 2018	xxxpurplespritexxx was killed by Enviro with a cw_g36c
+Mon Oct  8 18:41:16 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:41:38 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:41:38 2018	Dave Letcher was killed by xxxpurplespritexxx with a env_explosion
+Mon Oct  8 18:41:41 2018	Dave Letcher (STEAM_0:1:52038966): // can you fucing
+Mon Oct  8 18:41:41 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:41:41 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:42:32 2018	xxxpurplespritexxx was killed by Craftygarrett with a cw_g36c
+Mon Oct  8 18:42:38 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:42:39 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:42:54 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:43:38 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:43:42 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:44:13 2018	Craftygarrett (STEAM_0:1:184775407): /ad warrent nice 
+Mon Oct  8 18:44:19 2018	Craftygarrett (STEAM_0:1:184775407): /warrent nice
+Mon Oct  8 18:44:30 2018	xxxpurplespritexxx was killed by Enviro with a cw_g36c
+Mon Oct  8 18:44:34 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:44:42 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:44:54 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:44:55 2018	Stanley (STEAM_0:0:108453289): welp
+Mon Oct  8 18:45:04 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:45:13 2018	Terry Moist was killed by Craftygarrett with a cw_g36c
+Mon Oct  8 18:45:17 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:45:22 2018	Enviro was killed by xxxpurplespritexxx with a cw_shorty
+Mon Oct  8 18:45:28 2018	Enviro (STEAM_0:0:80115103): // ok seriously it i sannoying  now lol
+Mon Oct  8 18:45:28 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:45:31 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:45:38 2018	Craftygarrett was killed by Nice Friendly Max with a cw_deagle
+Mon Oct  8 18:45:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:45:44 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:45:58 2018	Craftygarrett (STEAM_0:1:184775407): /demote nice spamming intercom
+Mon Oct  8 18:45:58 2018	Craftygarrett(STEAM_0:1:184775407)[Head of SWAT] has started a vote for the demotion of Nice Friendly Max(STEAM_0:0:169248915)[Plant Director] for spamming intercom
+Mon Oct  8 18:46:14 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:46:15 2018	Craftygarrett (STEAM_0:1:184775407): // your spamming intercom
+Mon Oct  8 18:46:20 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 18:46:28 2018	Stanley (STEAM_0:0:108453289): /ooc where is the core
+Mon Oct  8 18:46:33 2018	Craftygarrett (STEAM_0:1:184775407): // still no one wants to hear your voice
+Mon Oct  8 18:47:06 2018	Stanley (STEAM_0:0:108453289): one sec
+Mon Oct  8 18:47:32 2018	Stanley was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:47:34 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:48:05 2018	xxxpurplespritexxx was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:48:06 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:48:54 2018	xxxpurplespritexxx was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 18:48:55 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:48:58 2018	Craftygarrett was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:49:01 2018	Craftygarrett (STEAM_0:1:184775407): // i fell
+Mon Oct  8 18:49:02 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:49:20 2018	Dave Letcher (STEAM_0:1:52038966): /pm stan BEHIND YOU
+Mon Oct  8 18:49:26 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:49:28 2018	Stanley (STEAM_0:0:108453289): where is core
+Mon Oct  8 18:49:36 2018	Dave Letcher (STEAM_0:1:52038966): // is that my boi terry moist on the mic
+Mon Oct  8 18:49:41 2018	Craftygarrett was killed by Terry Moist with a cw_shorty
+Mon Oct  8 18:49:42 2018	Enviro was killed by xxxpurplespritexxx with a cw_l85a2
+Mon Oct  8 18:49:43 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:49:44 2018	Nice Friendly Max was killed by xxxpurplespritexxx with a cw_l85a2
+Mon Oct  8 18:49:47 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:49:48 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 18:50:22 2018	Craftygarrett (STEAM_0:1:184775407): /demote terry camping director room
+Mon Oct  8 18:50:32 2018	Craftygarrett (STEAM_0:1:184775407): // he shot first
+Mon Oct  8 18:51:00 2018	Craftygarrett (STEAM_0:1:184775407): /demote terry camping director room
+Mon Oct  8 18:51:14 2018	Craftygarrett (STEAM_0:1:184775407): /demote terry camping director spawn
+Mon Oct  8 18:51:26 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:51:32 2018	xxxpurplespritexxx (STEAM_0:0:50093763): wall
+Mon Oct  8 18:51:36 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:51:47 2018	xxxpurplespritexxx was killed by Terry Moist with a cw_l85a2
+Mon Oct  8 18:52:07 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:52:14 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:52:25 2018	Stanley (STEAM_0:0:108453289): hello
+Mon Oct  8 18:52:39 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:52:41 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:53:13 2018	Stanley (STEAM_0:0:108453289): /ooc there once was a man named stanley
+Mon Oct  8 18:53:13 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:53:45 2018	Dave Letcher was killed by xxxpurplespritexxx with a fas2_thrown_m67
+Mon Oct  8 18:53:46 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:53:52 2018	xxxpurplespritexxx was killed by Enviro with a cw_g36c
+Mon Oct  8 18:53:55 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:54:07 2018	Stanley (STEAM_0:0:108453289): what?
+Mon Oct  8 18:54:11 2018	Stanley (STEAM_0:0:108453289): i am the inspector
+Mon Oct  8 18:54:24 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:54:32 2018	curt lemur52 (STEAM_0:1:89296197) has joined the game
+Mon Oct  8 18:54:32 2018	curt lemur52 (STEAM_0:1:89296197) spawned
+Mon Oct  8 18:54:53 2018	Enviro was killed by xxxpurplespritexxx with a fas2_thrown_m67
+Mon Oct  8 18:54:54 2018	Nagegg (STEAM_0:0:98220726) has joined the game
+Mon Oct  8 18:54:55 2018	Nagegg (STEAM_0:0:98220726) spawned
+Mon Oct  8 18:54:56 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:54:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok
+Mon Oct  8 18:55:13 2018	Craftygarrett (STEAM_0:1:184775407): /pm nice you need to remove your props
+Mon Oct  8 18:55:35 2018	Terry Moist was killed by Craftygarrett with a fas2_thrown_m67
+Mon Oct  8 18:55:35 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:55:36 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:55:36 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:55:42 2018	Stanley (STEAM_0:0:108453289): sir
+Mon Oct  8 18:55:47 2018	Stanley (STEAM_0:0:108453289): can you guide me to the core
+Mon Oct  8 18:55:50 2018	Enviro (STEAM_0:0:80115103): Yes.
+Mon Oct  8 18:56:19 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:56:37 2018	Craftygarrett (STEAM_0:1:184775407): /want nice
+Mon Oct  8 18:56:38 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:56:38 2018	Beastmode was killed by xxxpurplespritexxx with a env_explosion
+Mon Oct  8 18:56:40 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:56:43 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:56:43 2018	Nice Friendly Max was killed by Craftygarrett with a cw_deagle
+Mon Oct  8 18:56:49 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:56:54 2018	Stanley (STEAM_0:0:108453289): i can't sit
+Mon Oct  8 18:56:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc uh oh alot of terrorists
+Mon Oct  8 18:57:03 2018	Nagegg (STEAM_0:0:98220726) spawned
+Mon Oct  8 18:57:05 2018	Dave Letcher (STEAM_0:1:52038966): // we need terorrist NLR
+Mon Oct  8 18:57:05 2018	Nice Friendly Max (STEAM_0:0:169248915): /demote Crafty MINGE
+Mon Oct  8 18:57:05 2018	Nice Friendly Max(STEAM_0:0:169248915)[Visitor] has started a vote for the demotion of Craftygarrett(STEAM_0:1:184775407)[Plant Director] for MINGE
+Mon Oct  8 18:57:06 2018	Baxton (STEAM_0:0:14937030) has joined the game
+Mon Oct  8 18:57:06 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 18:57:12 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 18:57:19 2018	Craftygarrett (STEAM_0:1:184775407): // not a good one and not a true one
+Mon Oct  8 18:57:45 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:58:00 2018	curt lemur52 (STEAM_0:1:89296197) spawned
+Mon Oct  8 18:58:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 18:58:29 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 18:58:42 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:58:45 2018	Stanley (STEAM_0:0:108453289): we are screwed aren't we
+Mon Oct  8 18:59:02 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 18:59:10 2018	Stanley (STEAM_0:0:108453289): are there terrorist
+Mon Oct  8 18:59:27 2018	Dave Letcher (STEAM_0:1:52038966): /advert Director may we use emergency coolant?
+Mon Oct  8 18:59:45 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:59:54 2018	Enviro was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:59:54 2018	Stanley was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:59:55 2018	xxxpurplespritexxx (STEAM_0:0:50093763): /y open the door
+Mon Oct  8 18:59:55 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 18:59:57 2018	Enviro (STEAM_0:0:80115103): // welp
+Mon Oct  8 18:59:57 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:59:59 2018	Stanley (STEAM_0:0:108453289): /ooc only pressed one
+Mon Oct  8 19:00:08 2018	xxxpurplespritexxx (STEAM_0:0:50093763): /y open the door
+Mon Oct  8 19:00:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 19:00:18 2018	Beastmode (STEAM_0:1:6015082) spawned
+Mon Oct  8 19:00:27 2018	xxxpurplespritexxx (STEAM_0:0:50093763): /y help
+Mon Oct  8 19:00:48 2018	Baxton (STEAM_0:0:14937030): /ooc cmon dont be shy do some tests on us 
+Mon Oct  8 19:00:52 2018	Nice Friendly Max was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 19:00:54 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:00:57 2018	Enviro (STEAM_0:0:80115103): // kinda in a meltdwn situationhere bud
+Mon Oct  8 19:01:00 2018	Dave Letcher (STEAM_0:1:52038966): /advert Using the emergency coolant
+Mon Oct  8 19:01:07 2018	Enviro (STEAM_0:0:80115103): // NO WAIT
+Mon Oct  8 19:01:11 2018	Beastmode (STEAM_0:1:6015082): /ooc free us
+Mon Oct  8 19:01:12 2018	Baxton (STEAM_0:0:14937030): /ooc nah its good
+Mon Oct  8 19:01:12 2018	Enviro (STEAM_0:0:80115103): /advert Dont! not until meltdown
+Mon Oct  8 19:01:19 2018	Dave Letcher (STEAM_0:1:52038966): /advert I can't it's already been used
+Mon Oct  8 19:01:21 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 19:01:22 2018	Dave Letcher (STEAM_0:1:52038966): /advert WE ARE HAVING ONE NOW
+Mon Oct  8 19:01:28 2018	Enviro (STEAM_0:0:80115103): /advert It's still on warning.
+Mon Oct  8 19:01:53 2018	Enviro (STEAM_0:0:80115103): /advert Just ensure all coolatns are onlnie, and ensure all boosters are offline
+Mon Oct  8 19:02:05 2018	Beastmode (STEAM_0:1:6015082) disconnected
+Mon Oct  8 19:03:05 2018	Dave Letcher (STEAM_0:1:52038966): /advert Coolant and fans are onkine
+Mon Oct  8 19:03:14 2018	Dave Letcher (STEAM_0:1:52038966): /advert The core itself is being stresssedf out
+Mon Oct  8 19:03:17 2018	Enviro (STEAM_0:0:80115103): /advert We need smoeone to go in and turn off the laser booster.
+Mon Oct  8 19:03:26 2018	Dave Letcher (STEAM_0:1:52038966): /advery YOu;re the fucking armoured one
+Mon Oct  8 19:03:35 2018	Dave Letcher (STEAM_0:1:52038966): /advert You're the fucking armoured one
+Mon Oct  8 19:03:43 2018	Enviro (STEAM_0:0:80115103): /advert Im COMING
+Mon Oct  8 19:03:53 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:04:01 2018	Enviro (STEAM_0:0:80115103): FUCK THIS IS SO SLOW
+Mon Oct  8 19:04:16 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 19:04:20 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:04:34 2018	Nice Friendly Max was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 19:04:35 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:04:36 2018	Enviro (STEAM_0:0:80115103): // HAHAH MAX
+Mon Oct  8 19:04:39 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 19:04:41 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:04:54 2018	Enviro (STEAM_0:0:80115103): /advert Going into he Core now.
+Mon Oct  8 19:04:55 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:04:59 2018	Enviro (STEAM_0:0:80115103): // the*
+Mon Oct  8 19:05:03 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 19:05:10 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:05:11 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:05:16 2018	Baxton (STEAM_0:0:14937030): /ooc what is the core wants to be she?
+Mon Oct  8 19:05:35 2018	Enviro (STEAM_0:0:80115103): /advert LASER OFF
+Mon Oct  8 19:05:36 2018	Enviro was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:05:39 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 19:05:41 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:06:13 2018	Enviro (STEAM_0:0:80115103): /advert Temperature still rising!
+Mon Oct  8 19:06:16 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 19:06:16 2018	Nagegg was killed by xxxpurplespritexxx with a env_explosion
+Mon Oct  8 19:06:17 2018	Nagegg (STEAM_0:0:98220726) spawned
+Mon Oct  8 19:06:21 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:07:01 2018	Stanley (STEAM_0:0:108453289): /ooc how do i get to the crab things
+Mon Oct  8 19:07:07 2018	Craftygarrett was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:07:10 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 19:07:11 2018	curt lemur52 was killed by xxxpurplespritexxx with a fas2_thrown_m67
+Mon Oct  8 19:07:20 2018	Baxton (STEAM_0:0:14937030): !l
+Mon Oct  8 19:07:20 2018	curt lemur52 (STEAM_0:1:89296197) spawned
+Mon Oct  8 19:07:31 2018	Baxton (STEAM_0:0:14937030): /ooc would be shame if the locks on the cells would fail
+Mon Oct  8 19:07:32 2018	Dave Letcher was killed by xxxpurplespritexxx with a cw_l85a2
+Mon Oct  8 19:07:33 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 19:07:39 2018	Enviro (STEAM_0:0:80115103): // WHATS THE CODE
+Mon Oct  8 19:07:43 2018	Dave Letcher (STEAM_0:1:52038966): // 4981
+Mon Oct  8 19:07:53 2018	Stanley (STEAM_0:0:108453289): nonono
+Mon Oct  8 19:07:54 2018	Stanley (STEAM_0:0:108453289): no
+Mon Oct  8 19:07:56 2018	Stanley (STEAM_0:0:108453289): nonono
+Mon Oct  8 19:07:57 2018	Stanley (STEAM_0:0:108453289): bad
+Mon Oct  8 19:08:25 2018	Enviro (STEAM_0:0:80115103): // damnit
+Mon Oct  8 19:08:31 2018	Baxton (STEAM_0:0:14937030): /ooc woooo everyone dies
+Mon Oct  8 19:08:36 2018	Craftygarrett was killed by Entity [4906][entityflame] with a entityflame
+Mon Oct  8 19:08:38 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 19:08:49 2018	Stanley (STEAM_0:0:108453289) spawned
+Mon Oct  8 19:09:12 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 19:09:12 2018	Enviro was killed by xxxpurplespritexxx with a env_explosion
+Mon Oct  8 19:09:13 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 19:09:21 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:09:41 2018	Craftygarrett (STEAM_0:1:184775407): /ad get to the rocket
+Mon Oct  8 19:09:48 2018	Craftygarrett (STEAM_0:1:184775407): /advert get to the rocket
+Mon Oct  8 19:09:53 2018	Stanley (STEAM_0:0:108453289): I DO NOT WANNA DIE
+Mon Oct  8 19:10:37 2018	Enviro (STEAM_0:0:80115103): // would be nic to have some passive rp rather than killing terorists every 5 seconds
+Mon Oct  8 19:10:45 2018	xxxpurplespritexxx was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 19:10:46 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:11:15 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 19:11:16 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:11:26 2018	Terry Moist was killed by Enviro with a cw_deagle
+Mon Oct  8 19:11:34 2018	Baxton (STEAM_0:0:14937030): /ooc WEEEEEEEEEEEEEE
+Mon Oct  8 19:11:41 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 19:11:44 2018	Nice Friendly Max was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:45 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:11:46 2018	Stanley (STEAM_0:0:108453289): he has good point
+Mon Oct  8 19:11:48 2018	Baxton was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:48 2018	[Opi] Fat Gay was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:48 2018	Craftygarrett was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:48 2018	Dave Letcher was killed by Entity [4929][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:50 2018	Nice Friendly Max was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:50 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 19:11:51 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:11:52 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 19:11:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 19:11:54 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 19:11:56 2018	Baxton was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:57 2018	Nice Friendly Max was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:11:57 2018	Baxton (STEAM_0:0:14937030) spawned
+Mon Oct  8 19:11:58 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:11:59 2018	Terry Moist was killed by Entity [4922][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:00 2018	Craftygarrett was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:01 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 19:12:02 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 19:12:03 2018	Baxton was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:03 2018	Nice Friendly Max was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:06 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:12:09 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 19:12:13 2018	Nagegg was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:13 2018	Dave Letcher was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:13 2018	curt lemur52 was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:13 2018	Mike was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:13 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:13 2018	Nice Friendly Max was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:14 2018	Terry Moist was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:14 2018	Craftygarrett was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:15 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 19:12:15 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 19:12:16 2018	Nagegg (STEAM_0:0:98220726) spawned
+Mon Oct  8 19:12:17 2018	curt lemur52 (STEAM_0:1:89296197) spawned
+Mon Oct  8 19:12:18 2018	Nice Friendly Max (STEAM_0:0:169248915) spawned
+Mon Oct  8 19:12:18 2018	xxxpurplespritexxx was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:19 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 19:12:20 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 19:12:20 2018	Dave Letcher was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:21 2018	Nagegg was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:22 2018	curt lemur52 was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:23 2018	Nagegg (STEAM_0:0:98220726) spawned
+Mon Oct  8 19:12:23 2018	Nice Friendly Max was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct  8 19:12:25 2018	curt lemur52 (STEAM_0:1:89296197) spawned
+Mon Oct  8 19:12:25 2018	Craftygarrett was killed by Entity [4940][trigger_hurt] with a trigger_hurt

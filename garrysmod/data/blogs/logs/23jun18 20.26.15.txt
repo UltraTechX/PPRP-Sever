@@ -1,0 +1,20 @@
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Sat Jun 23 20:26:15 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Visitor) % picked up a Meth Extractor (zmlab_extractor)
+[Sat Jun 23 20:27:25 2018] Job changes: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (zmlab_extractor) (Admin on Duty) % changed job from Visitor
+[Sat Jun 23 20:27:25 2018] Chat: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (Admin on Duty) %: /aod
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a weapon_physgun
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a #GMOD_Camera (gmod_camera)
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Tool Gun (gmod_tool)
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a weapon_physcannon
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Scripted Weapon (keys)
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Inventory Pickup (itemstore_pickup)
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Pocket (pocket)
+[Sat Jun 23 20:27:31 2018] Weapon Pickups: %Emmett (STEAM_0:1:41660292) (76561198043586313) (superadmin) (weapon_physgun) (Admin on Duty) % picked up a Scripted Weapon (bn_defib_admin)

@@ -1,0 +1,36 @@
+[05:06:19] New map: rp_powerplant_v2b2
+[19:31:15] Client "Valien" connected.
+[19:33:45] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 150 seconds).
+[20:00:15] Emmett was killed by trigger_hurt
+[20:01:41] Emmett<STEAM_0:1:41660292> spawned ragdoll models/kleiner.mdl
+[20:04:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[20:08:07] Emmett was killed by trigger_hurt
+[20:41:21] Client "Bot01" connected.
+[20:41:21] Client "Bot01" spawned in server <BOT> (took 56175 seconds).
+[20:43:31] Emmett was killed by trigger_hurt
+[20:45:24] Client "Zerrakoth" connected.
+[20:47:23] Client "Zerrakoth" spawned in server <STEAM_0:1:44006700> (took 119 seconds).
+[20:50:11] Emmett suicided!
+[20:50:11] Emmett exploded Themself
+[20:52:12] Emmett was killed by trigger_hurt
+[20:54:51] Dropped "Zerrakoth" from server<STEAM_0:1:44006700>
+[20:54:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[20:55:27] Client "Zerrakoth" connected.
+[20:56:34] Client "Zerrakoth" spawned in server <STEAM_0:1:44006700> (took 67 seconds).
+[20:57:15] Emmett: !motd
+[20:57:34] Emmett was killed by trigger_hurt
+[20:57:36] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[20:57:48] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_golden
+[20:57:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_american
+[20:57:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_helium
+[20:58:01] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[20:58:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_golden
+[20:59:43] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_dragon
+[21:00:07] Dropped "Zerrakoth" from server<STEAM_0:1:44006700>
+[21:00:37] Emmett was killed by trigger_hurt
+[21:00:41] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_dragon
+[21:00:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_custom
+[21:01:24] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape
+[21:01:56] Emmett was killed by trigger_hurt
+[21:02:07] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[21:02:07] Dropped "Bot01" from server<BOT>

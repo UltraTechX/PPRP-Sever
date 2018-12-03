@@ -1,0 +1,1 @@
+[{"Data":{"Amount":8.0,"Contents":12.0,"Class":"weapon_cuff_standard"},"Class":"spawned_shipment"},{"Data":{"Amount":7.0,"Class":"cw_m14","Contents":23.0},"Class":"spawned_shipment"},{"Data":{"Amount":1.0,"Ammo":-1.0,"Model":"models/weapons/w_toolgun.mdl","Class":"weapon_cuff_standard"},"Class":"spawned_weapon"}]

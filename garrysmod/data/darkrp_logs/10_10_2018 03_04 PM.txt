@@ -1,0 +1,3 @@
+Wed Oct 10 15:04:08 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Wed Oct 10 15:04:08 2018	The Kettle (STEAM_0:0:86812760) spawned
+Wed Oct 10 15:14:05 2018	The Kettle (STEAM_0:0:86812760) disconnected

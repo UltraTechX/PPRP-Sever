@@ -1,0 +1,47 @@
+<Logging continued from "data/ulx_logs/04-29-18.txt">
+[01:33:26] Client "Valien" connected.
+[01:34:33] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 67 seconds).
+[01:34:39] Client "Zerrakoth" connected.
+[01:37:06] Emmett was killed by trigger_hurt
+[01:38:22] Client "Zerrakoth" spawned in server <STEAM_0:1:44006700> (took 223 seconds).
+[01:38:22] (Console) added Zerrakoth to group PACUser
+[01:38:52] Dropped "Zerrakoth" from server<STEAM_0:1:44006700>
+[01:40:56] Client "Zerrakoth" connected.
+[01:42:12] Client "Zerrakoth" spawned in server <STEAM_0:1:44006700> (took 76 seconds).
+[01:42:52] Emmett: !goto ze
+[01:42:52] Emmett teleported to Zerrakoth
+[01:51:43] Emmett: !goto z
+[01:51:43] Emmett teleported to Zerrakoth
+[01:58:58] Emmett: !bring z
+[01:58:58] Emmett brought Zerrakoth
+[01:59:16] Emmett: !bring z
+[01:59:16] Emmett brought Zerrakoth
+[02:00:11] Emmett: !bring z
+[02:00:11] Emmett brought Zerrakoth
+[02:01:07] Emmett: !bring z
+[02:01:07] Emmett brought Zerrakoth
+[02:02:40] Zerrakoth was killed by func_rotating
+[02:02:47] Emmett: !bring z
+[02:02:47] Emmett brought Zerrakoth
+[02:05:50] Emmett was killed by trigger_hurt
+[02:06:09] Emmett: !bring z
+[02:06:09] Emmett brought Zerrakoth
+[02:06:33] Emmett suicided!
+[02:07:02] Emmett suicided!
+[02:07:07] Emmett: !bring z
+[02:07:07] Emmett brought Zerrakoth
+[02:07:36] Emmett suicided!
+[02:07:42] Emmett: !bring z
+[02:07:42] Emmett brought Zerrakoth
+[02:08:40] Emmett was killed by func_rotating
+[02:08:47] Emmett: !goto z
+[02:08:47] Emmett teleported to Zerrakoth
+[02:08:52] Zerrakoth was killed by func_rotating
+[02:08:58] Emmett suicided!
+[02:09:04] Emmett: !goto z
+[02:09:04] Emmett teleported to Zerrakoth
+[02:10:38] Emmett: !bring z
+[02:10:38] Emmett brought Zerrakoth
+[02:15:53] Dropped "Zerrakoth" from server<STEAM_0:1:44006700>
+[02:15:57] Dropped "Emmett" from server<STEAM_0:1:41660292>
+<Logging continued in "data/ulx_logs/05-01-18.txt">

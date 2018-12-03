@@ -1,0 +1,67 @@
+Sat Oct 20 04:24:49 2018	=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sat Oct 20 04:24:49 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:26:03 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:26:47 2018	Croyogen (STEAM_0:1:47231803) has joined the game
+Sat Oct 20 04:26:47 2018	Croyogen (STEAM_0:1:47231803) spawned
+Sat Oct 20 04:26:57 2018	Confederation (STEAM_0:1:444417795) has joined the game
+Sat Oct 20 04:26:57 2018	Confederation (STEAM_0:1:444417795) spawned
+Sat Oct 20 04:27:02 2018	mllyons2002 (STEAM_0:0:446804304) has joined the game
+Sat Oct 20 04:27:02 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sat Oct 20 04:27:20 2018	Tello (STEAM_0:0:74320577) has joined the game
+Sat Oct 20 04:27:20 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 04:28:05 2018	Confederation (STEAM_0:1:444417795) spawned
+Sat Oct 20 04:28:11 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 04:28:25 2018	Croyogen (STEAM_0:1:47231803) spawned
+Sat Oct 20 04:29:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 20 04:29:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:29:40 2018	Confederation (STEAM_0:1:444417795) spawned
+Sat Oct 20 04:29:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setmoney Tello 50000
+Sat Oct 20 04:29:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) set Tello's money to $50,000
+Sat Oct 20 04:30:23 2018	Tello (STEAM_0:0:74320577) disconnected
+Sat Oct 20 04:30:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tello
+Sat Oct 20 04:30:49 2018	Croyogen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 04:30:52 2018	Croyogen (STEAM_0:1:47231803) spawned
+Sat Oct 20 04:31:05 2018	Stava (STEAM_0:0:170944648) has joined the game
+Sat Oct 20 04:31:05 2018	Stava (STEAM_0:0:170944648) spawned
+Sat Oct 20 04:32:12 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 04:32:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:32:20 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 04:32:22 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:32:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:32:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:32:49 2018	Thoughtsine (STEAM_0:1:85956881) has joined the game
+Sat Oct 20 04:32:49 2018	Thoughtsine (STEAM_0:1:85956881) spawned
+Sat Oct 20 04:32:56 2018	Tello (STEAM_0:0:74320577) has joined the game
+Sat Oct 20 04:32:56 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 04:33:04 2018	Stava (STEAM_0:0:170944648) spawned
+Sat Oct 20 04:33:31 2018	Thoughtsine was killed by Stava with a cw_l115
+Sat Oct 20 04:33:36 2018	Thoughtsine (STEAM_0:1:85956881) spawned
+Sat Oct 20 04:33:38 2018	Confederation was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 04:33:45 2018	Infinitynull was killed by [Opi] Fat Gay with a cw_l85a2
+Sat Oct 20 04:33:47 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:33:50 2018	Thoughtsine (STEAM_0:1:85956881) spawned
+Sat Oct 20 04:33:53 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 04:34:18 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 20 04:34:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:34:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:34:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tello
+Sat Oct 20 04:34:34 2018	Tello (STEAM_0:0:74320577): hi
+Sat Oct 20 04:34:53 2018	Confederation (STEAM_0:1:444417795) disconnected
+Sat Oct 20 04:35:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tello
+Sat Oct 20 04:35:33 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sat Oct 20 04:35:33 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 04:36:16 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 04:36:21 2018	Moes SW Grill (STEAM_0:0:139893847) has joined the game
+Sat Oct 20 04:36:21 2018	Moes SW Grill (STEAM_0:0:139893847) spawned
+Sat Oct 20 04:36:39 2018	wolfhugger 3000 (STEAM_0:1:42591216): /job Casino owner
+Sat Oct 20 04:36:43 2018	Moes SW Grill (STEAM_0:0:139893847) spawned
+Sat Oct 20 04:38:54 2018	Croyogen was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 04:38:55 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 04:38:57 2018	Croyogen (STEAM_0:1:47231803) spawned
+Sat Oct 20 04:38:58 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:39:44 2018	Thoughtsine (STEAM_0:1:85956881) disconnected
+Sat Oct 20 04:39:44 2018	Stava (STEAM_0:0:170944648) disconnected
+Sat Oct 20 04:39:47 2018	Croyogen (STEAM_0:1:47231803) disconnected
+Sat Oct 20 04:40:04 2018	Tello (STEAM_0:0:74320577) disconnected
+Sat Oct 20 04:40:15 2018	Moes SW Grill (STEAM_0:0:139893847) disconnected
+Sat Oct 20 04:40:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected

@@ -1,0 +1,123 @@
+Thu Oct 11 23:06:04 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Thu Oct 11 23:06:04 2018	Liberty Prime (STEAM_0:1:184775407) spawned
+Thu Oct 11 23:06:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 23:06:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 23:06:53 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 23:06:53 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 23:07:03 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 23:07:03 2018	Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 23:07:21 2018	Dots (STEAM_0:1:72014148) has joined the game
+Thu Oct 11 23:07:21 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Thu Oct 11 23:07:35 2018	Head of CBRN Dots (STEAM_0:1:72014148) disconnected
+Thu Oct 11 23:07:53 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 23:08:18 2018	Bulldog (STEAM_0:0:180224455) has joined the game
+Thu Oct 11 23:08:18 2018	Head of SWAT Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 23:09:09 2018	Sammy Boom (STEAM_0:0:91181601): /job Sealion 7
+Thu Oct 11 23:10:36 2018	BigMac (STEAM_0:1:171213670) has joined the game
+Thu Oct 11 23:10:36 2018	BigMac (STEAM_0:1:171213670) spawned
+Thu Oct 11 23:10:49 2018	Liberty Prime (STEAM_0:1:184775407): /name Michael J Caboose
+Thu Oct 11 23:11:38 2018	Head of SWAT Bulldog (STEAM_0:0:180224455) spawned
+Thu Oct 11 23:12:36 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 23:12:46 2018	BigMac (STEAM_0:1:171213670) disconnected
+Thu Oct 11 23:13:23 2018	Head of SWAT Bulldog (STEAM_0:0:180224455) disconnected
+Thu Oct 11 23:13:34 2018	Michael J Caboose was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 23:13:41 2018	Michael J Caboose (STEAM_0:1:184775407) spawned
+Thu Oct 11 23:16:00 2018	Michael J Caboose (STEAM_0:1:184775407) disconnected
+Thu Oct 11 23:16:34 2018	nuclearnacho88 (STEAM_0:0:166782773) has joined the game
+Thu Oct 11 23:16:34 2018	SCP 049 (STEAM_0:0:166782773) spawned
+Thu Oct 11 23:21:57 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 23:21:57 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 23:23:17 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Thu Oct 11 23:23:18 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:24:16 2018	Fallenturtle (STEAM_0:1:62867403): yay
+Thu Oct 11 23:24:25 2018	Fallenturtle (STEAM_0:1:62867403): awww
+Thu Oct 11 23:24:35 2018	Valien (STEAM_0:1:41660292) has joined the game
+Thu Oct 11 23:24:35 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 23:25:25 2018	Mike (STEAM_0:1:41660292): // Is that youtuber guy gonna post a video of PPRP?
+Thu Oct 11 23:25:25 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 23:25:40 2018	SCP 049 (STEAM_0:0:166782773): /name nuclearnacho88
+Thu Oct 11 23:25:44 2018	Sammy Boom (STEAM_0:0:91181601): // probably
+Thu Oct 11 23:25:49 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 23:25:49 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 23:26:07 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) has joined the game
+Thu Oct 11 23:26:07 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Thu Oct 11 23:26:42 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) spawned
+Thu Oct 11 23:26:54 2018	Mike (STEAM_0:1:41660292): !strip valien
+Thu Oct 11 23:27:00 2018	Mike (STEAM_0:1:41660292): !strip mike
+Thu Oct 11 23:27:00 2018	Not_A_Holiday_Heretek (STEAM_0:0:59534508) disconnected
+Thu Oct 11 23:27:27 2018	Mike (STEAM_0:1:41660292): 
+Thu Oct 11 23:27:39 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:27:42 2018	Mike (STEAM_0:1:41660292): !strip mike
+Thu Oct 11 23:28:14 2018	Tailed 0 Light (STEAM_0:1:59756947): /me salutes with great respect
+Thu Oct 11 23:28:16 2018	Tailed 0 Light (STEAM_0:1:59756947): /me salutes with great respect
+Thu Oct 11 23:28:18 2018	Tailed 0 Light (STEAM_0:1:59756947): /me salutes with great respect
+Thu Oct 11 23:28:33 2018	Tailed 0 Light (STEAM_0:1:59756947): 
+Thu Oct 11 23:28:55 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 23:29:23 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 23:30:06 2018	nuclearnacho88 was killed by Fallenturtle with a fas2_thrown_m67
+Thu Oct 11 23:30:15 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:30:20 2018	Mike (STEAM_0:1:41660292): !bring fallen
+Thu Oct 11 23:30:36 2018	Fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 23:30:39 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:30:47 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:30:49 2018	Mike (STEAM_0:1:41660292): 
+Thu Oct 11 23:30:56 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 23:31:04 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:31:13 2018	Mike (STEAM_0:1:41660292): 
+Thu Oct 11 23:31:43 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc missing textures.....
+Thu Oct 11 23:31:53 2018	Fallenturtle (STEAM_0:1:62867403): // tp me mike
+Thu Oct 11 23:31:53 2018	Mike (STEAM_0:1:41660292): // we have a content pack
+Thu Oct 11 23:31:59 2018	Mike (STEAM_0:1:41660292): !bring fallen
+Thu Oct 11 23:32:04 2018	Fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 23:32:04 2018	nuclearnacho88 was killed by Fallenturtle with a env_explosion
+Thu Oct 11 23:32:06 2018	nuclearnacho88 (STEAM_0:0:166782773): /ooc how do u get to it?
+Thu Oct 11 23:32:07 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 23:32:09 2018	Okofos (STEAM_0:0:207625889) has joined the game
+Thu Oct 11 23:32:09 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 23:32:11 2018	Sammy Boom (STEAM_0:0:91181601): // I keep hearing a car be beat around
+Thu Oct 11 23:32:32 2018	Sammy Boom (STEAM_0:0:91181601): // I think someone put a car on the fan lol
+Thu Oct 11 23:32:42 2018	Mike (STEAM_0:1:41660292): !goto sammy 
+Thu Oct 11 23:32:42 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:32:52 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:32:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Thu Oct 11 23:33:17 2018	Fallenturtle (STEAM_0:1:62867403): // yep car in the fan
+Thu Oct 11 23:33:23 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 23:33:24 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:33:47 2018	Tailed 0 Light (STEAM_0:1:59756947) spawned
+Thu Oct 11 23:34:09 2018	Mike (STEAM_0:1:41660292): 
+Thu Oct 11 23:34:09 2018	Fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 23:34:10 2018	Fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 23:34:11 2018	Mike was killed by Entity [2889][func_rotating] with a func_rotating
+Thu Oct 11 23:34:12 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 23:34:21 2018	Mike (STEAM_0:1:41660292): 
+Thu Oct 11 23:34:39 2018	Sammy Boom (STEAM_0:0:91181601): // how long will that be
+Thu Oct 11 23:34:58 2018	Fallenturtle (STEAM_0:1:62867403): // mike when your done with that comehere
+Thu Oct 11 23:35:19 2018	Sammy Boom (STEAM_0:0:91181601): /sellalldoorsd
+Thu Oct 11 23:35:23 2018	Sammy Boom (STEAM_0:0:91181601): /sellalldoors
+Thu Oct 11 23:35:38 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 23:35:51 2018	Mike (STEAM_0:1:41660292): !bring fallen
+Thu Oct 11 23:35:54 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 23:35:54 2018	Tailed 0 Light (STEAM_0:1:59756947): shield
+Thu Oct 11 23:36:06 2018	nuclearnacho88 (STEAM_0:0:166782773) spawned
+Thu Oct 11 23:37:06 2018	Mike (STEAM_0:1:41660292): // Admin cleanup!
+Thu Oct 11 23:37:09 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 23:37:23 2018	Sammy Boom (STEAM_0:0:91181601): // just when the tram gets here...
+Thu Oct 11 23:39:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 23:39:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 23:39:38 2018	Mike (STEAM_0:1:41660292): !bring fallen
+Thu Oct 11 23:40:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert server restart incoming! dual test of acrashscreen + replacing full restart with psuedo restart!
+Thu Oct 11 23:40:13 2018	Sammy Boom (STEAM_0:0:91181601): /sellalldoors
+Thu Oct 11 23:40:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert yall niggas have 60 seconds to do whatever the fuck you want
+Thu Oct 11 23:40:25 2018	Sammy Boom (STEAM_0:0:91181601): /demote mike cus y not
+Thu Oct 11 23:40:25 2018	Sammy Boom(STEAM_0:0:91181601)[SWAT Soldier] has started a vote for the demotion of Mike(STEAM_0:1:41660292)[Admin on Duty] for cus y not
+Thu Oct 11 23:40:49 2018	Sammy Boom (STEAM_0:0:91181601): // lmfao
+Thu Oct 11 23:40:52 2018	Mike (STEAM_0:1:41660292): // tf
+Thu Oct 11 23:40:56 2018	Mike (STEAM_0:1:41660292) spawned
+Thu Oct 11 23:41:00 2018	Mike (STEAM_0:1:41660292): !goto fallen
+Thu Oct 11 23:41:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc mfw it actually goes through
+Thu Oct 11 23:41:16 2018	Mike (STEAM_0:1:41660292): // thx fat
+Thu Oct 11 23:41:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i didnt vote yes I promise
+Thu Oct 11 23:41:40 2018	Mike (STEAM_0:1:41660292): !bring fallen
+Thu Oct 11 23:41:41 2018	Sammy Boom (STEAM_0:0:91181601): // democracy rules in favor of demotation
+Thu Oct 11 23:42:00 2018	Spicy (STEAM_0:0:176415266): 
+Thu Oct 11 23:42:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc killing server now RIP tier

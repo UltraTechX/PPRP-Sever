@@ -1,0 +1,12 @@
+Sat Oct 20 17:22:15 2018 - Nick: owo | IP: 100.16.33.54 | SteamID: STEAM_0:1:35610035.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sat Oct 20 17:41:56 2018 - Nick: owo | IP: 100.16.33.54 | SteamID: STEAM_0:1:35610035.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+Invalid source: net.Start@mlogs/core/cl_interface.lua;
+
+
+Sun Oct 21 01:17:00 2018 - Nick: owo | IP: 100.16.33.54 | SteamID: STEAM_0:1:35610035.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:29:00 2018 - Nick: owo | IP: 100.16.33.54 | SteamID: STEAM_0:1:35610035.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

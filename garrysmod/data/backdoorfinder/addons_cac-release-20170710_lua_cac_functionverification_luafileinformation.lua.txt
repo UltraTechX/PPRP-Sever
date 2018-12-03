@@ -1,0 +1,82 @@
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________
+		local success, code = pcall (file.Read, self.Path, self.PathId) - severe
+
+___________

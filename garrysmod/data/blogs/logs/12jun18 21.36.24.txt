@@ -1,0 +1,52 @@
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (unarrest_stick)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Admin Keypad Checker (weapon_keypadchecker)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (stunstick)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Pocket (pocket)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a #GMOD_Camera (gmod_camera)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Tool Gun (gmod_tool)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Inventory Pickup (itemstore_pickup)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (door_ram)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (weaponchecker)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (arrest_stick)
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physcannon
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a weapon_physgun
+[Tue Jun 12 21:36:24 2018] Weapon Pickups: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (weapon_physgun) (Visitor) % picked up a Scripted Weapon (keys)
+[Tue Jun 12 21:36:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 21:36:25 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 21:36:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 21:36:35 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 21:36:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 21:36:45 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 21:36:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 21:36:55 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 21:37:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx ping"
+[Tue Jun 12 21:37:05 2018] ULX: [CONSOLE/ADMIN/UNKNOWN] ran ULX command "ulx propCount"
+[Tue Jun 12 21:52:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:53:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:53:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:53:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:53:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:53:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:53:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:54:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:54:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:54:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:54:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:54:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:54:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:55:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:55:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:55:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:55:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:55:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:55:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:56:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:56:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:56:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:56:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:56:47 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:56:57 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:57:07 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:57:17 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:57:27 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage
+[Tue Jun 12 21:57:37 2018] Player Damage: %Fat Gay (STEAM_0:1:218173703) (76561198396613135) (Owner) (itemstore_pickup) (Visitor) % damaged themself for 3 damage

@@ -1,0 +1,107 @@
+Sun Oct 21 03:28:55 2018	󠀡=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sun Oct 21 03:28:55 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 03:29:02 2018	mllyons2002 (STEAM_0:0:446804304) has joined the game
+Sun Oct 21 03:29:02 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 03:29:16 2018	Gamerchef (STEAM_0:1:47616133) has joined the game
+Sun Oct 21 03:29:16 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Sun Oct 21 03:29:55 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sun Oct 21 03:29:55 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 03:29:57 2018	Gamerchef (STEAM_0:1:47616133) spawned
+Sun Oct 21 03:30:18 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 03:30:21 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) has joined the game
+Sun Oct 21 03:30:21 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sun Oct 21 03:30:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 21 03:30:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 21 03:30:33 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) has joined the game
+Sun Oct 21 03:30:33 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) spawned
+Sun Oct 21 03:30:41 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Sun Oct 21 03:30:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 21 03:30:47 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct 21 03:30:47 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 03:30:51 2018	Tier (STEAM_0:1:33589770) has joined the game
+Sun Oct 21 03:30:51 2018	Tier (STEAM_0:1:33589770) spawned
+Sun Oct 21 03:31:03 2018	Gamerchef (STEAM_0:1:47616133) disconnected
+Sun Oct 21 03:31:07 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert anyone using pac will be either verbal warned or warned becasue pac is crashing the server
+Sun Oct 21 03:31:12 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) spawned
+Sun Oct 21 03:31:13 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Sun Oct 21 03:31:13 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 21 03:31:43 2018	wolfhugger 3000 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct 21 03:31:44 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 03:31:46 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Sun Oct 21 03:31:57 2018	Adam Klein (STEAM_0:1:116765028): /advert Vote yes
+Sun Oct 21 03:32:02 2018	Tier (STEAM_0:1:33589770): !datasave
+Sun Oct 21 03:32:02 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert anyone using pac will be either verbal warned or warned becasue pac is crashing the server
+Sun Oct 21 03:32:03 2018	Tier (STEAM_0:1:33589770) spawned
+Sun Oct 21 03:32:03 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc i voted yes
+Sun Oct 21 03:32:08 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sun Oct 21 03:32:11 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 03:32:12 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 03:32:24 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 03:32:44 2018	Douevenban (STEAM_0:0:75732529) has joined the game
+Sun Oct 21 03:32:44 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sun Oct 21 03:33:05 2018	Infinitynull was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 21 03:33:07 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 03:33:18 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 03:34:11 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 03:34:25 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) spawned
+Sun Oct 21 03:34:34 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /comms all security to core for debrief reminder 12 minutes remain till terrorist can attack core or scps breakout
+Sun Oct 21 03:34:55 2018	mllyons2002 was killed by Entity [3369][prop_combine_ball] with a prop_combine_ball
+Sun Oct 21 03:34:56 2018	Tier (STEAM_0:1:33589770): 
+Sun Oct 21 03:34:58 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 03:35:03 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc TERRORIST TOO SOON TO ATTACK CORE
+Sun Oct 21 03:35:04 2018	Infinitynull (STEAM_0:1:60776888): 
+Sun Oct 21 03:35:10 2018	Tier (STEAM_0:1:33589770): 
+Sun Oct 21 03:35:27 2018	Crazyneck69 (STEAM_0:0:181080880) has joined the game
+Sun Oct 21 03:35:27 2018	Crazyneck69 (STEAM_0:0:181080880) spawned
+Sun Oct 21 03:35:32 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert anyone using pac will be either verbal warned or warned becasue pac is crashing the server
+Sun Oct 21 03:35:41 2018	Johnny K Bronk (STEAM_0:1:167614500): /job Money boy that watches ISIS
+Sun Oct 21 03:36:00 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sun Oct 21 03:36:14 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) spawned
+Sun Oct 21 03:36:50 2018	i have a small peter (STEAM_0:0:30480520) has joined the game
+Sun Oct 21 03:36:50 2018	i have a small peter (STEAM_0:0:30480520) spawned
+Sun Oct 21 03:36:51 2018	Crazyneck69 (STEAM_0:0:181080880) spawned
+Sun Oct 21 03:36:52 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) spawned
+Sun Oct 21 03:37:49 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /comms ALL SECURITY GET ON RADIO CORE IS UNDER ATTACK
+Sun Oct 21 03:37:56 2018	i have a small peter (STEAM_0:0:30480520) spawned
+Sun Oct 21 03:38:01 2018	i have a small peter (STEAM_0:0:30480520): 
+Sun Oct 21 03:38:19 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert anyone using pac will be either verbal warned or warned becasue pac is crashing the server
+Sun Oct 21 03:38:22 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Sun Oct 21 03:38:22 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sun Oct 21 03:38:27 2018	i have a small peter (STEAM_0:0:30480520) spawned
+Sun Oct 21 03:39:00 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sun Oct 21 03:39:08 2018	WildToastyMop (STEAM_0:0:93414166):  /job Friendly 049
+Sun Oct 21 03:39:16 2018	WildToastyMop (STEAM_0:0:93414166): /job Friendly 049
+Sun Oct 21 03:39:24 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /comms SECURITY CORE IS SAFE SITUATION IS UNDER CONTROL NO TERRORIST AT CORE ALL SECURITY GO TO THE MAIN SECURITY HUB LEAVE TH
+Sun Oct 21 03:39:29 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /COMMS LEAVE THE CORE
+Sun Oct 21 03:39:31 2018	Johnny K Bronk (STEAM_0:1:167614500): /job ISIS Watcher
+Sun Oct 21 03:39:33 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 03:39:34 2018	WildToastyMop (STEAM_0:0:93414166): // osama come let me out
+Sun Oct 21 03:39:35 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 03:39:52 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 21 03:40:05 2018	i have a small peter (STEAM_0:0:30480520) spawned
+Sun Oct 21 03:40:17 2018	[W-G]Nekoboychara was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct 21 03:40:18 2018	[W-G]Nekoboychara (STEAM_0:0:138642581) spawned
+Sun Oct 21 03:40:44 2018	Infinitynull (STEAM_0:1:60776888): /advert ALL SEC OFFICERS TO SPAWN DOWNSTAIRS WE HAVE AN EMERGENCY!!!!!!!!!!!!!!!!!!!!!!
+Sun Oct 21 03:40:45 2018	Crazyneck69 (STEAM_0:0:181080880): !bet 500
+Sun Oct 21 03:41:09 2018	Crazyneck69 (STEAM_0:0:181080880): !bet 500
+Sun Oct 21 03:41:11 2018	Douevenban (STEAM_0:0:75732529): /warrant
+Sun Oct 21 03:41:18 2018	Douevenban (STEAM_0:0:75732529): /warrant plant 
+Sun Oct 21 03:41:23 2018	Douevenban (STEAM_0:0:75732529): /warrant plant brujh
+Sun Oct 21 03:41:26 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 03:41:27 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 21 03:41:31 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /COMMS ALL SCPS HAVE BROKEN OUT IM LOCKED IN 049'S CELL
+Sun Oct 21 03:41:42 2018	Crazyneck69 (STEAM_0:0:181080880): !bet 500
+Sun Oct 21 03:41:43 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 21 03:41:56 2018	Bonzi Buddy (JJZ) (STEAM_0:0:67652513) has joined the game
+Sun Oct 21 03:41:56 2018	Bonzi Buddy (JJZ) (STEAM_0:0:67652513) spawned
+Sun Oct 21 03:42:16 2018	mllyons2002 (STEAM_0:0:446804304): how do i sit on it?
+Sun Oct 21 03:42:19 2018	Mike Litoris (STEAM_0:0:89074365) has joined the game
+Sun Oct 21 03:42:19 2018	Mike Litoris (STEAM_0:0:89074365) spawned
+Sun Oct 21 03:42:23 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /comms ALL SCPS ARE BROEKN OUT THEY LOCKED ME IN 049'S CELL I REQUIRE RESCUE
+Sun Oct 21 03:42:28 2018	mllyons2002 (STEAM_0:0:446804304): hold up 
+Sun Oct 21 03:42:33 2018	Bonzi Buddy (JJZ) (STEAM_0:0:67652513) disconnected
+Sun Oct 21 03:42:47 2018	mllyons2002 (STEAM_0:0:446804304): say that again
+Sun Oct 21 03:42:52 2018	Crazyneck69 was killed by mllyons2002 with a eoti_raven_swep
+Sun Oct 21 03:43:07 2018	Crazyneck69 (STEAM_0:0:181080880) spawned
+Sun Oct 21 03:43:16 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): 
+Sun Oct 21 03:43:17 2018	Crazyneck69 (STEAM_0:0:181080880) spawned

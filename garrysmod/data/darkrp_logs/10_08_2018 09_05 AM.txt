@@ -1,0 +1,6 @@
+Mon Oct  8 09:05:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 09:05:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 09:06:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /looc test
+Mon Oct  8 09:06:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /local test
+Mon Oct  8 09:06:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert test
+Mon Oct  8 09:06:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /radio test

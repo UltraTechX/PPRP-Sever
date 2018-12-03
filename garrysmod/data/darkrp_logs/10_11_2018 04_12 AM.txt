@@ -1,0 +1,12 @@
+Thu Oct 11 04:12:37 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 04:12:37 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:13:04 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:13:30 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Hecc
+Thu Oct 11 04:13:40 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:14:11 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 04:14:11 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 04:14:42 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:14:48 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 04:14:54 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 04:15:37 2018	Sammy Boom (STEAM_0:0:91181601): // hi
+Thu Oct 11 04:15:37 2018	Spicy Wing (STEAM_0:0:176415266) disconnected

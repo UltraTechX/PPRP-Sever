@@ -1,0 +1,3 @@
+Tue Oct 16 14:59:57 2018	chiken (STEAM_0:0:143719653) has joined the game
+Tue Oct 16 14:59:57 2018	chiken (STEAM_0:0:143719653) spawned
+Tue Oct 16 15:00:11 2018	chiken (STEAM_0:0:143719653) disconnected

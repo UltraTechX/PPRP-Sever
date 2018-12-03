@@ -1,0 +1,335 @@
+Mon Oct  8 22:09:10 2018	Dots (STEAM_0:1:72014148) has joined the game
+Mon Oct  8 22:09:10 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:09:20 2018	VietnamFlashbacks (STEAM_0:0:80420240) has joined the game
+Mon Oct  8 22:09:20 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 22:09:28 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct  8 22:09:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:09:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 22:09:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 22:10:04 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct  8 22:10:04 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 22:10:27 2018	S W ∀ R M (STEAM_0:1:61331422) has joined the game
+Mon Oct  8 22:10:27 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 22:10:30 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:10:35 2018	Craftygarrett (STEAM_0:1:184775407): // can i see
+Mon Oct  8 22:10:41 2018	Thatguy (STEAM_0:1:116482800) has joined the game
+Mon Oct  8 22:10:41 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 22:11:04 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 22:11:04 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto craft
+Mon Oct  8 22:11:40 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 22:11:42 2018	S W ∀ R M (STEAM_0:1:61331422): !motd
+Mon Oct  8 22:12:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc >
+Mon Oct  8 22:12:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its a fucking admin
+Mon Oct  8 22:12:14 2018	Head of CBRN Dots (STEAM_0:1:72014148): !model ^ models/props_c17/FurnitureWashingmachine001a.mdl
+Mon Oct  8 22:12:15 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 22:12:17 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 22:12:47 2018	Enviro (STEAM_0:0:80115103): !motd
+Mon Oct  8 22:12:52 2018	Head of CBRN Dots (STEAM_0:1:72014148): !model ^ models/props_junk/gascan001a.mdl
+Mon Oct  8 22:13:34 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 22:13:39 2018	Enviro (STEAM_0:0:80115103): !mtod
+Mon Oct  8 22:13:41 2018	Enviro (STEAM_0:0:80115103): !motd
+Mon Oct  8 22:14:16 2018	Head of CBRN Dots was killed by Craftygarrett with a cw_deagle
+Mon Oct  8 22:14:20 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:14:38 2018	Craftygarrett (STEAM_0:1:184775407): // what happen to the 20 people
+Mon Oct  8 22:14:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc there was only 10
+Mon Oct  8 22:14:50 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto craft
+Mon Oct  8 22:15:09 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 22:15:10 2018	Deformed Giraffe (STEAM_0:0:190667250) has joined the game
+Mon Oct  8 22:15:10 2018	Deformed Giraffe (STEAM_0:0:190667250) spawned
+Mon Oct  8 22:16:16 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 22:16:23 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 22:16:35 2018	Deformed Giraffe (STEAM_0:0:190667250) spawned
+Mon Oct  8 22:16:36 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto that
+Mon Oct  8 22:17:07 2018	Deformed Giraffe was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 22:17:09 2018	Deformed Giraffe (STEAM_0:0:190667250) spawned
+Mon Oct  8 22:17:09 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 22:17:25 2018	Deformed Giraffe (STEAM_0:0:190667250) spawned
+Mon Oct  8 22:17:35 2018	VietnamFlashbacks (STEAM_0:0:80420240): !menu
+Mon Oct  8 22:17:36 2018	Craftygarrett (STEAM_0:1:184775407): // guys remeber you cant be swat usless i call for them
+Mon Oct  8 22:17:55 2018	Enviro (STEAM_0:0:80115103): // Other people can call for SWAT too.
+Mon Oct  8 22:18:19 2018	Craftygarrett (STEAM_0:1:184775407): // and the head of security
+Mon Oct  8 22:19:09 2018	Deformed Giraffe was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 22:19:10 2018	Deformed Giraffe (STEAM_0:0:190667250) spawned
+Mon Oct  8 22:19:16 2018	Deformed Giraffe (STEAM_0:0:190667250) disconnected
+Mon Oct  8 22:21:45 2018	the taco man (STEAM_0:1:213745009) has joined the game
+Mon Oct  8 22:21:45 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:22:37 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 22:22:42 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:23:37 2018	S W ∀ R M (STEAM_0:1:61331422) disconnected
+Mon Oct  8 22:24:04 2018	Craftygarrett (STEAM_0:1:184775407): // sworm tryed to cause a meltdown
+Mon Oct  8 22:24:30 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:24:35 2018	VietnamFlashbacks (STEAM_0:0:80420240) disconnected
+Mon Oct  8 22:25:43 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:26:01 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:27:27 2018	Head of CBRN Dots was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:27:32 2018	Enviro was killed by the taco man with a cw_l115
+Mon Oct  8 22:27:34 2018	Enviro (STEAM_0:0:80115103): // wtf
+Mon Oct  8 22:27:48 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 22:27:53 2018	Craftygarrett (STEAM_0:1:184775407): // what is it
+Mon Oct  8 22:28:07 2018	Enviro (STEAM_0:0:80115103): // was a terrorist sniper lol
+Mon Oct  8 22:28:33 2018	the taco man was killed by Himself with a suicide trick
+Mon Oct  8 22:28:34 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:28:47 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Mon Oct  8 22:28:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:29:16 2018	Craftygarrett (STEAM_0:1:184775407): // i need money
+Mon Oct  8 22:29:30 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // GO
+Mon Oct  8 22:29:32 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // HERE WE GO
+Mon Oct  8 22:29:37 2018	Enviro (STEAM_0:0:80115103): // ?
+Mon Oct  8 22:29:41 2018	Enviro (STEAM_0:0:80115103): /looc hi
+Mon Oct  8 22:29:44 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Bind
+Mon Oct  8 22:29:44 2018	Enviro (STEAM_0:0:80115103): .//
+Mon Oct  8 22:29:46 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 22:29:51 2018	Enviro (STEAM_0:0:80115103): [[ hi
+Mon Oct  8 22:29:57 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 22:30:07 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:30:21 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // I have a question about this gamemode
+Mon Oct  8 22:30:25 2018	Enviro (STEAM_0:0:80115103): // ?
+Mon Oct  8 22:30:35 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // What power plant does this take place in?
+Mon Oct  8 22:30:42 2018	Enviro (STEAM_0:0:80115103): // uh
+Mon Oct  8 22:30:46 2018	Enviro (STEAM_0:0:80115103): // the gmod power plant
+Mon Oct  8 22:30:58 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // So this produces power for Gmod?
+Mon Oct  8 22:31:00 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 22:31:03 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Nice
+Mon Oct  8 22:31:17 2018	the taco man was killed by Enviro with a cw_shorty
+Mon Oct  8 22:31:20 2018	Thatguy (STEAM_0:1:116482800): yea
+Mon Oct  8 22:31:21 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:31:31 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:32:36 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Can the temperature of the core descend below 1000?
+Mon Oct  8 22:32:47 2018	Craftygarrett (STEAM_0:1:184775407): // i dont think so
+Mon Oct  8 22:32:54 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Ok
+Mon Oct  8 22:33:01 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:33:18 2018	Thatguy (STEAM_0:1:116482800): I am broke
+Mon Oct  8 22:33:29 2018	Thatguy (STEAM_0:1:116482800): pretty much
+Mon Oct  8 22:33:37 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm taco man I want to work with you to destroy the nuclear core, interested?
+Mon Oct  8 22:33:41 2018	Thatguy (STEAM_0:1:116482800): 
+Mon Oct  8 22:33:49 2018	Thatguy (STEAM_0:1:116482800): /dropmoney 5000
+Mon Oct  8 22:33:50 2018	Thatguy (STEAM_0:1:116482800) has dropped $5,000
+Mon Oct  8 22:33:55 2018	Thatguy (STEAM_0:1:116482800): there you go
+Mon Oct  8 22:34:03 2018	the taco man (STEAM_0:1:213745009): /ooc what i cant see you
+Mon Oct  8 22:34:31 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // This tram reminds me of the trains that take you from terminal to terminal at the airport lol
+Mon Oct  8 22:34:40 2018	Thatguy (STEAM_0:1:116482800): go into pac3
+Mon Oct  8 22:34:49 2018	Craftygarrett (STEAM_0:1:184775407): // it does
+Mon Oct  8 22:35:07 2018	the taco man (STEAM_0:1:213745009): /ooc i cant even see you
+Mon Oct  8 22:35:23 2018	the taco man (STEAM_0:1:213745009): /ooc what kind of cheats bro
+Mon Oct  8 22:35:30 2018	Thatguy (STEAM_0:1:116482800): add a entity to your pac model
+Mon Oct  8 22:35:48 2018	Thatguy (STEAM_0:1:116482800): yea
+Mon Oct  8 22:36:09 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 22:36:26 2018	Enviro (STEAM_0:0:80115103): /advert Roger.
+Mon Oct  8 22:36:28 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:36:51 2018	Enviro (STEAM_0:0:80115103): // thy're still allowed to cause one
+Mon Oct  8 22:36:52 2018	the taco man (STEAM_0:1:213745009): /ooc who are you talking to
+Mon Oct  8 22:36:56 2018	Enviro (STEAM_0:0:80115103): // lmao
+Mon Oct  8 22:37:03 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): yo
+Mon Oct  8 22:37:07 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): we nuke this place nig
+Mon Oct  8 22:37:13 2018	the taco man (STEAM_0:1:213745009): OK
+Mon Oct  8 22:37:16 2018	Craftygarrett (STEAM_0:1:184775407): // well a admin say only for events so people cna rp
+Mon Oct  8 22:37:23 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // we finna nuke this place nig
+Mon Oct  8 22:37:28 2018	Head of CBRN Dots (STEAM_0:1:72014148): t
+Mon Oct  8 22:38:07 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // thatguy
+Mon Oct  8 22:38:09 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // dont kill us
+Mon Oct  8 22:38:15 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // form a alliance?
+Mon Oct  8 22:38:22 2018	the taco man was killed by Enviro with a fas2_thrown_m67
+Mon Oct  8 22:38:28 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:38:30 2018	Dwight Kurt Schrute was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:38:31 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:38:39 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:38:54 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:39:00 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto craft
+Mon Oct  8 22:39:16 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:39:36 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): fam
+Mon Oct  8 22:39:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): let me nuke this place
+Mon Oct  8 22:40:05 2018	Enviro was killed by Dwight Kurt Schrute with a weapon_sillyzombieclaw_v2
+Mon Oct  8 22:40:06 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 22:40:08 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): dead
+Mon Oct  8 22:40:29 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 22:40:51 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /pm thatguy We should just nuke this place, go to the escape rocket and infect em all fam
+Mon Oct  8 22:41:56 2018	Enviro (STEAM_0:0:80115103): // gonna headoff onw,bye everyone
+Mon Oct  8 22:42:00 2018	Enviro (STEAM_0:0:80115103): // cya tomorrow hopefully
+Mon Oct  8 22:42:00 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:42:14 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // k
+Mon Oct  8 22:42:18 2018	Enviro (STEAM_0:0:80115103) disconnected
+Mon Oct  8 22:42:49 2018	Thatguy (STEAM_0:1:116482800): keep the stuff on
+Mon Oct  8 22:42:53 2018	the taco man was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:42:59 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:43:05 2018	Dwight Kurt Schrute was killed by Entity [2745][func_rotating] with a func_rotating
+Mon Oct  8 22:43:06 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:43:06 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:43:15 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:44:01 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto fat
+Mon Oct  8 22:44:34 2018	the taco man (STEAM_0:1:213745009): incoming
+Mon Oct  8 22:44:42 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:44:48 2018	Head of CBRN Dots (STEAM_0:1:72014148): !bring craft
+Mon Oct  8 22:44:48 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:45:05 2018	Dwight Kurt Schrute was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:45:07 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:45:07 2018	the taco man was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:45:10 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 22:45:22 2018	Head of CBRN Dots was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:45:22 2018	Thatguy (STEAM_0:1:116482800) disconnected
+Mon Oct  8 22:45:23 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:45:43 2018	Head of CBRN Dots (STEAM_0:1:72014148): !bring craft
+Mon Oct  8 22:46:18 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:46:21 2018	Head of CBRN Dots was killed by Craftygarrett with a cw_deagle
+Mon Oct  8 22:46:23 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:46:44 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y nice
+Mon Oct  8 22:47:00 2018	Craftygarrett (STEAM_0:1:184775407): /pm dots i need money
+Mon Oct  8 22:47:00 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): now we wait
+Mon Oct  8 22:47:34 2018	the taco man (STEAM_0:1:213745009): yes
+Mon Oct  8 22:47:45 2018	the taco man (STEAM_0:1:213745009): /ooc here we go
+Mon Oct  8 22:47:51 2018	the taco man (STEAM_0:1:213745009): run
+Mon Oct  8 22:47:57 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): wait not yet
+Mon Oct  8 22:48:01 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): it has to get to 5000 degrees
+Mon Oct  8 22:48:05 2018	the taco man (STEAM_0:1:213745009): oh ok
+Mon Oct  8 22:49:05 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): we should go up to ensure the bombing
+Mon Oct  8 22:49:09 2018	Craftygarrett was killed by Dwight Kurt Schrute with a cw_scarh
+Mon Oct  8 22:49:10 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:49:11 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): oof
+Mon Oct  8 22:49:16 2018	Craftygarrett (STEAM_0:1:184775407): @propblock
+Mon Oct  8 22:49:25 2018	the taco man (STEAM_0:1:213745009): incoming
+Mon Oct  8 22:49:32 2018	the taco man (STEAM_0:1:213745009): i hear the stuff
+Mon Oct  8 22:49:39 2018	Head of CBRN Dots (STEAM_0:1:72014148): !goto dwight
+Mon Oct  8 22:49:45 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): what
+Mon Oct  8 22:49:55 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): you look cool man
+Mon Oct  8 22:49:59 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): right?
+Mon Oct  8 22:50:16 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): But I superglued a box onto the button
+Mon Oct  8 22:50:24 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): so it's realistic
+Mon Oct  8 22:50:34 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): ok ok
+Mon Oct  8 22:50:37 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): i delete now
+Mon Oct  8 22:50:44 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): deleted
+Mon Oct  8 22:50:47 2018	the taco man (STEAM_0:1:213745009): we defend it
+Mon Oct  8 22:50:50 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): ye
+Mon Oct  8 22:51:04 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): hey
+Mon Oct  8 22:51:10 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): the other guy is a loser
+Mon Oct  8 22:51:14 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): lol
+Mon Oct  8 22:51:26 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): we should go up to ensure the destruction
+Mon Oct  8 22:51:27 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): wait here
+Mon Oct  8 22:51:30 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): taco man
+Mon Oct  8 22:51:32 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): wait here for a sec
+Mon Oct  8 22:51:34 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): k?
+Mon Oct  8 22:51:37 2018	Craftygarrett (STEAM_0:1:184775407): /pm dots what did oyu do about it
+Mon Oct  8 22:52:36 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // taco
+Mon Oct  8 22:52:38 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // are you good?
+Mon Oct  8 22:52:41 2018	the taco man (STEAM_0:1:213745009): /ooc yea
+Mon Oct  8 22:52:46 2018	Craftygarrett was killed by the taco man with a cw_l115
+Mon Oct  8 22:52:48 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:52:51 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 22:53:18 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:53:35 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // taco
+Mon Oct  8 22:53:40 2018	the taco man (STEAM_0:1:213745009): /ooc yes
+Mon Oct  8 22:53:40 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // if anyone screws things up kill them
+Mon Oct  8 22:53:50 2018	the taco man (STEAM_0:1:213745009): /ooc thats what im doin
+Mon Oct  8 22:53:52 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // good
+Mon Oct  8 22:53:53 2018	Dwight Kurt Schrute was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:53:54 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:54:00 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // garrett
+Mon Oct  8 22:54:04 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // you going to work with us fam
+Mon Oct  8 22:54:11 2018	the taco man (STEAM_0:1:213745009): thats what we are doing
+Mon Oct  8 22:54:32 2018	the taco man (STEAM_0:1:213745009): /ooc what do you mean this is rp
+Mon Oct  8 22:54:51 2018	the taco man (STEAM_0:1:213745009): go somewhere sels
+Mon Oct  8 22:54:54 2018	Craftygarrett was killed by Dwight Kurt Schrute with a cw_scarh
+Mon Oct  8 22:55:02 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:55:04 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // crafty
+Mon Oct  8 22:55:10 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // work with us, you're a terrorist chef
+Mon Oct  8 22:55:11 2018	Craftygarrett (STEAM_0:1:184775407): @dwight just rdmed me
+Mon Oct  8 22:55:18 2018	Craftygarrett (STEAM_0:1:184775407): // i make food
+Mon Oct  8 22:55:28 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // ok you dont turn on the pumps tho
+Mon Oct  8 22:55:37 2018	Craftygarrett (STEAM_0:1:184775407): // i can
+Mon Oct  8 22:55:39 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // we have a mission to do
+Mon Oct  8 22:56:02 2018	Craftygarrett was killed by Dwight Kurt Schrute with a cw_scarh
+Mon Oct  8 22:56:03 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:56:06 2018	the taco man (STEAM_0:1:213745009): /ooc hes the boss
+Mon Oct  8 22:56:11 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // im bin laden fam
+Mon Oct  8 22:56:15 2018	the taco man (STEAM_0:1:213745009): /ooc listen to him
+Mon Oct  8 22:56:21 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // crafty
+Mon Oct  8 22:56:22 2018	the taco man (STEAM_0:1:213745009): /ooc or thats fail rp
+Mon Oct  8 22:56:30 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // if you listen to me i will pay you money
+Mon Oct  8 22:56:36 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): @ fail rp
+Mon Oct  8 22:56:40 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): @ come here now
+Mon Oct  8 22:56:46 2018	the taco man (STEAM_0:1:213745009): he the boss and you are disobeying him
+Mon Oct  8 22:56:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): @he locked me in
+Mon Oct  8 22:56:54 2018	Head of CBRN Dots was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:56:55 2018	Head of CBRN Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:56:57 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): garrett pls
+Mon Oct  8 22:56:59 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): work with us here
+Mon Oct  8 22:57:17 2018	Dwight Kurt Schrute was killed by Himself with a suicide trick
+Mon Oct  8 22:57:18 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:57:20 2018	Craftygarrett was killed by Entity [2752][func_rotating] with a func_rotating
+Mon Oct  8 22:57:21 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:57:30 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Garrett, you are kind of failRPing at this point though
+Mon Oct  8 22:57:34 2018	the taco man (STEAM_0:1:213745009): /ooc vrafy stop prop blocking
+Mon Oct  8 22:57:39 2018	the taco man (STEAM_0:1:213745009): /ooc crafty
+Mon Oct  8 22:57:42 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // taco turn off the fans and pipes
+Mon Oct  8 22:57:44 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // pumps
+Mon Oct  8 22:57:48 2018	the taco man (STEAM_0:1:213745009): you did
+Mon Oct  8 22:58:41 2018	Craftygarrett was killed by Dwight Kurt Schrute with a cw_scarh
+Mon Oct  8 22:58:42 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:58:49 2018	Head of CBRN Dots (STEAM_0:1:72014148) disconnected
+Mon Oct  8 22:59:05 2018	Craftygarrett was killed by Entity [2745][func_rotating] with a func_rotating
+Mon Oct  8 22:59:06 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:59:06 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // two can play that game garrett
+Mon Oct  8 22:59:32 2018	the taco man (STEAM_0:1:213745009): /ooc craft stop prop blocking 
+Mon Oct  8 22:59:34 2018	Dwight Kurt Schrute was killed by Himself with a suicide trick
+Mon Oct  8 22:59:35 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 22:59:42 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /demote garrett failrp
+Mon Oct  8 22:59:42 2018	Dwight Kurt Schrute(STEAM_0:0:63800005)[Osama Bin Laden] has started a vote for the demotion of Craftygarrett(STEAM_0:1:184775407)[Terrorist Chef] for failrp
+Mon Oct  8 22:59:48 2018	the taco man (STEAM_0:1:213745009): /ooc you are not listening for him
+Mon Oct  8 22:59:58 2018	the taco man (STEAM_0:1:213745009): /ooc no its not hes the boss
+Mon Oct  8 23:00:06 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:00:14 2018	the taco man (STEAM_0:1:213745009): /ooc yes you have to listen to him fuck tard
+Mon Oct  8 23:00:15 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:00:36 2018	the taco man was killed by Himself with a suicide trick
+Mon Oct  8 23:00:38 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 23:00:43 2018	Craftygarrett (STEAM_0:1:184775407): // mister dumbass he cant kill me or you for not listen
+Mon Oct  8 23:00:50 2018	Craftygarrett (STEAM_0:1:184775407): // llistening
+Mon Oct  8 23:00:54 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // actually i can lol
+Mon Oct  8 23:01:01 2018	Craftygarrett (STEAM_0:1:184775407): // really
+Mon Oct  8 23:01:02 2018	the taco man (STEAM_0:1:213745009): /ooc hes the boss 
+Mon Oct  8 23:01:02 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 23:01:09 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // al-qaeda is a radical organization
+Mon Oct  8 23:01:31 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y TACO
+Mon Oct  8 23:01:33 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /Y PROP CLIMB
+Mon Oct  8 23:01:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // Crafty
+Mon Oct  8 23:01:49 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // just let us do our thing
+Mon Oct  8 23:01:53 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // and we will leave after
+Mon Oct  8 23:02:03 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y nice
+Mon Oct  8 23:02:08 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): yo
+Mon Oct  8 23:02:09 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): wait
+Mon Oct  8 23:02:14 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y wait crafty
+Mon Oct  8 23:02:17 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y crafty
+Mon Oct  8 23:02:25 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y crafty
+Mon Oct  8 23:02:31 2018	the taco man (STEAM_0:1:213745009): get ready
+Mon Oct  8 23:02:34 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /y let us nuke this and we can leave
+Mon Oct  8 23:02:41 2018	Dwight Kurt Schrute was killed by Himself with a suicide trick
+Mon Oct  8 23:02:42 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 23:02:53 2018	the taco man was killed by Craftygarrett with a cw_l85a2
+Mon Oct  8 23:02:54 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 23:02:55 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): /demote crafty prop block
+Mon Oct  8 23:03:01 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 23:03:25 2018	the taco man (STEAM_0:1:213745009): /ooc yeeeeeeeeeeeees
+Mon Oct  8 23:03:30 2018	Craftygarrett was killed by Dwight Kurt Schrute with a cw_scarh
+Mon Oct  8 23:03:32 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:03:33 2018	the taco man (STEAM_0:1:213745009): /ooc bitch
+Mon Oct  8 23:03:41 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // crafty
+Mon Oct  8 23:03:45 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // let us nuke this and we will leave
+Mon Oct  8 23:03:58 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:04:01 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // sound fair?
+Mon Oct  8 23:04:22 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // thanks
+Mon Oct  8 23:04:24 2018	Craftygarrett (STEAM_0:1:184775407): // not because i dont have money to print
+Mon Oct  8 23:04:31 2018	Craftygarrett (STEAM_0:1:184775407): // no
+Mon Oct  8 23:04:37 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // too late anyway
+Mon Oct  8 23:04:47 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // listen it'll be over quickly
+Mon Oct  8 23:05:00 2018	Craftygarrett (STEAM_0:1:184775407): // guess again
+Mon Oct  8 23:05:00 2018	the taco man was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 23:05:01 2018	the taco man (STEAM_0:1:213745009) spawned
+Mon Oct  8 23:05:03 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // coming down
+Mon Oct  8 23:05:06 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // good luck fam
+Mon Oct  8 23:05:13 2018	the taco man (STEAM_0:1:213745009) disconnected
+Mon Oct  8 23:05:31 2018	Craftygarrett was killed by Dwight Kurt Schrute with a cw_scarh
+Mon Oct  8 23:05:32 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 23:05:54 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // print your money
+Mon Oct  8 23:06:01 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // while you still can
+Mon Oct  8 23:06:04 2018	Craftygarrett (STEAM_0:1:184775407): // i cnat i dont have 10,000
+Mon Oct  8 23:06:15 2018	Dwight Kurt Schrute (STEAM_0:0:63800005): // this is for taco man
+Mon Oct  8 23:06:45 2018	Dwight Kurt Schrute was killed by Entity [4922][trigger_hurt] with a trigger_hurt
+Mon Oct  8 23:06:52 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) spawned
+Mon Oct  8 23:07:19 2018	Dwight Kurt Schrute (STEAM_0:0:63800005) disconnected

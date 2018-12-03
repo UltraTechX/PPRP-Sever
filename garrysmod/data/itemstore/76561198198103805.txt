@@ -1,0 +1,1 @@
+{"2":{"Data":{"Amount":1.0,"Clip1":1.0,"Ammo":23.0,"Class":"weapon_crossbow","Model":"models/weapons/w_crossbow.mdl","Clip2":-1.0},"Class":"spawned_weapon"}}

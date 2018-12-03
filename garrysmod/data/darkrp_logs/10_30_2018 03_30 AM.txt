@@ -1,0 +1,25 @@
+Tue Oct 30 03:30:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Oct 30 03:30:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Tue Oct 30 03:49:36 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Tue Oct 30 03:49:36 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Tue Oct 30 04:09:16 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Tue Oct 30 04:10:36 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Tue Oct 30 04:32:53 2018	Mallard (STEAM_0:1:9137166) has joined the game
+Tue Oct 30 04:32:53 2018	Mallard (STEAM_0:1:9137166) spawned
+Tue Oct 30 04:37:31 2018	Mallard (STEAM_0:1:9137166) spawned
+Tue Oct 30 04:37:36 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Tue Oct 30 04:37:46 2018	Mallard (STEAM_0:1:9137166) disconnected
+Tue Oct 30 05:23:05 2018	Ancient Entity (STEAM_0:0:59066698) has joined the game
+Tue Oct 30 05:23:05 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Tue Oct 30 05:25:51 2018	ASH | Ancient Entity (STEAM_0:0:59066698) disconnected
+Tue Oct 30 05:54:51 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Tue Oct 30 05:54:51 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Tue Oct 30 06:34:10 2018	Pomegranate Cat (STEAM_0:0:113296153) has joined the game
+Tue Oct 30 06:34:10 2018	Pomegranate Cat (STEAM_0:0:113296153) spawned
+Tue Oct 30 06:35:04 2018	Pomegranate Cat (STEAM_0:0:113296153): // anyone active?
+Tue Oct 30 06:36:46 2018	Pomegranate Cat (STEAM_0:0:113296153) spawned
+Tue Oct 30 06:38:13 2018	Pomegranate Cat was killed by Entity [0][worldspawn] with a unknown
+Tue Oct 30 06:38:14 2018	Pomegranate Cat (STEAM_0:0:113296153) spawned
+Tue Oct 30 06:38:22 2018	Pomegranate Cat (STEAM_0:0:113296153) disconnected
+Tue Oct 30 07:02:57 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Himself with a suicide trick
+Tue Oct 30 07:07:19 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) disconnected

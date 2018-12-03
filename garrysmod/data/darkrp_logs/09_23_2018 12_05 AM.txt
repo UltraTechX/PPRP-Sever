@@ -1,0 +1,31 @@
+Sun Sep 23 00:05:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Sep 23 00:05:26 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:05:39 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sun Sep 23 00:05:39 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:06:01 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Sep 23 00:06:01 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Sep 23 00:06:01 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 00:06:21 2018	LethalDumpster (STEAM_0:1:101135062) has joined the game
+Sun Sep 23 00:06:21 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:07:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Sep 23 00:07:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 00:09:12 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Sun Sep 23 00:09:22 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Sep 23 00:09:48 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:10:13 2018	Fat Gay (STEAM_0:1:218173703): !bring let
+Sun Sep 23 00:11:56 2018	Bot04 (BOT) has joined the game
+Sun Sep 23 00:11:56 2018	Bot04 (BOT) spawned
+Sun Sep 23 00:13:27 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:16:21 2018	LethalDumpster was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sun Sep 23 00:16:21 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 00:17:01 2018	Emmett was killed by Entity [3451][env_fire] with a env_fire
+Sun Sep 23 00:17:02 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 00:18:03 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Sep 23 00:20:27 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:22:22 2018	guny Pwnd was killed by Himself with a suicide trick
+Sun Sep 23 00:22:24 2018	guny Pwnd (STEAM_0:0:173118977) spawned
+Sun Sep 23 00:23:59 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_citizen
+Sun Sep 23 00:24:05 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_citizen
+Sun Sep 23 00:24:17 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_metropolice
+Sun Sep 23 00:24:22 2018	Fat Gay was killed by NPC [479][npc_metropolice] with a npc_metropolice
+Sun Sep 23 00:24:24 2018	Fat Gay (STEAM_0:1:218173703) spawned

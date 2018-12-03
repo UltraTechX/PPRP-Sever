@@ -1,0 +1,5 @@
+Sat Oct 20 17:22:26 2018 - Nick: Spicy Wings | IP: 76.177.190.240 | SteamID: STEAM_0:0:176415266.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sat Oct 20 17:42:55 2018 - Nick: Spicy Wings | IP: 76.177.190.240 | SteamID: STEAM_0:0:176415266.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

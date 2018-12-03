@@ -1,0 +1,79 @@
+[05:04:40] New map: rp_powerplant_v2b2
+[06:52:34] Client "[Opi] Fat Gay" connected.
+[06:53:27] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+[06:55:59] Fat Gay was killed by trigger_hurt
+[06:56:31] Fat Gay was killed by trigger_hurt
+[06:56:51] Fat Gay was killed by trigger_hurt
+[06:57:43] Fat Gay was killed by trigger_hurt
+[06:59:29] Fat Gay: !explode &
+[06:59:32] Fat Gay: !explode ^
+[06:59:32] Fat Gay suicided!
+[06:59:32] Fat Gay exploded Themself
+[07:00:08] Fat Gay: !explode ^
+[07:00:08] Fat Gay suicided!
+[07:00:08] Fat Gay exploded Themself
+[07:00:19] Fat Gay: !explode ^
+[07:00:19] Fat Gay suicided!
+[07:00:19] Fat Gay exploded Themself
+[07:00:21] Fat Gay: !explode ^
+[07:00:21] Fat Gay suicided!
+[07:00:21] Fat Gay exploded Themself
+[07:00:22] Fat Gay:   !explode ^
+
+
+
+[07:12:21] New map: rp_powerplant_v2b2
+[07:12:26] Client "[Opi] Fat Gay" connected.
+[07:13:12] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+[07:14:27] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[07:14:28] Client "[Opi] Fat Gay" connected.
+[07:15:08] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[07:48:18] Client "Bot01" connected.
+[07:48:18] Client "Bot01" spawned in server <BOT> (took 2200 seconds).
+[07:53:48] Fat Gay suicided!
+[08:32:58] Fat Gay suicided!
+[09:12:08] Fat Gay suicided!
+[09:51:18] Fat Gay suicided!
+[10:30:28] Fat Gay suicided!
+[11:09:38] Fat Gay suicided!
+[11:48:49] Fat Gay suicided!
+[12:27:59] Fat Gay suicided!
+[13:07:09] Fat Gay suicided!
+[13:46:19] Fat Gay suicided!
+[14:25:29] Fat Gay suicided!
+[15:04:39] Fat Gay suicided!
+[15:43:49] Fat Gay suicided!
+[16:22:59] Fat Gay suicided!
+[16:59:08] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:59:08] Dropped "Bot01" from server<BOT>
+
+
+
+[17:20:41] New map: rp_powerplant_v2b2
+[17:20:48] Client "[Opi] Fat Gay" connected.
+[17:22:06] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 78 seconds).
+[17:55:21] Client "Bot01" connected.
+[17:55:21] Client "Bot01" spawned in server <BOT> (took 2123 seconds).
+[17:56:05] Fat Gay was killed by func_rotating
+[17:56:39] (Console) removed all access rights from Fat Gay
+[17:57:07] (Console) added Fat Gay to group TrialModerator
+[18:01:16] (Console) removed all access rights from Fat Gay
+[18:01:49] (Console) added Fat Gay to group TrialModerator
+[18:02:02] (Console) added Fat Gay to group Owner
+[18:02:52] Fat Gay was killed by trigger_hurt
+[18:04:56] Fat Gay: !spectate fat
+[18:26:28] Fat Gay<STEAM_0:1:218173703> spawned model models/gmod_tower/suitetv_large.mdl
+[18:26:54] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[18:28:02] Fat Gay<STEAM_0:1:218173703> spawned model models/oldbill/riverserver1.mdl
+[18:28:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_computers/server_rack.mdl
+[18:28:21] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/fearless/mayor2.mdl
+[18:28:27] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[18:33:36] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/player/ravenwarriorplayer.mdl
+[18:33:41] Fat Gay<STEAM_0:1:218173703> spawned model models/zombie/meat01_dbr_05.mdl
+[18:33:50] Fat Gay: !spc
+[18:34:48] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/fence02a.mdl
+[18:35:00] Fat Gay: !spc
+[18:45:54] Fat Gay suicided!
+[19:25:14] Fat Gay suicided!
+[20:02:15] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[20:02:15] Dropped "Bot01" from server<BOT>

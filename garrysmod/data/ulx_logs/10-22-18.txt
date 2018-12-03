@@ -1,0 +1,31 @@
+[04:58:40] New map: rp_powerplant_v2b3
+
+
+
+[08:01:54] New map: rp_powerplant_v2b3
+
+
+
+[12:36:17] New map: rp_powerplant_v2b3
+
+
+
+[12:54:41] New map: rp_powerplant_v2b3
+
+
+
+[12:56:31] New map: rp_powerplant_v2b3
+[12:56:32] Client "Big Bill" connected.
+[12:56:32] Client "Big Bill" connected.
+
+
+
+[21:58:38] New map: rp_powerplant_v2b3
+[21:58:38] Client "Kilroy" connected.
+[21:58:38] Client "FloodTamer" connected.
+
+
+
+[23:20:30] New map: rp_powerplant_v2b3
+[23:20:30] Client "Coral but spooky" connected.
+[23:20:30] Client "canaryinacoalmine" connected.

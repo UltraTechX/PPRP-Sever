@@ -1,0 +1,45 @@
+<Logging continued from "data/ulx_logs/04-25-18.txt">
+[14:02:20] Client "Valien" connected.
+[14:03:43] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 83 seconds).
+[14:09:38] Emmett was killed by trigger_hurt
+[14:34:05] Emmett was killed by trigger_hurt
+[14:34:24] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[14:53:45] Client "GergiTBX" connected.
+[17:01:55] Client "Valien" connected.
+[17:02:59] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 64 seconds).
+[17:08:07] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[17:08:46] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ak12
+[17:10:10] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[17:10:40] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/pushcart01a.mdl
+[17:10:42] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[17:10:49] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[17:12:20] Emmett was killed by trigger_hurt
+[17:12:21] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[17:18:21] Client "Valien" connected.
+[17:19:11] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 50 seconds).
+[17:28:36] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/door01_left.mdl
+[17:28:46] Emmett<STEAM_0:1:41660292> used the tool weld on models/props_c17/door01_left.mdl
+[17:28:47] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[17:40:15] Emmett: !god
+[17:40:15] Emmett granted god mode upon Themself
+[17:41:22] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[17:41:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_keypadchecker
+[17:41:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_zi_flamethrower
+[17:43:39] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001_explosive.mdl
+[17:52:04] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturecouch001a.mdl
+[17:53:01] Emmett<STEAM_0:1:41660292> used the tool camera on *206
+[17:53:04] Emmett<STEAM_0:1:41660292> used the tool weld on models/props_c17/furniturecouch001a.mdl
+[17:53:46] Emmett<STEAM_0:1:41660292> used the tool camera on *206
+[17:53:55] Emmett<STEAM_0:1:41660292> used the tool weld on models/dav0r/camera.mdl
+[17:53:56] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[17:53:56] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[17:53:58] Emmett<STEAM_0:1:41660292> used the tool weld on models/dav0r/camera.mdl
+[17:54:00] Emmett<STEAM_0:1:41660292> used the tool weld on models/props_c17/furniturecouch001a.mdl
+[17:54:23] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[17:54:44] Emmett<STEAM_0:1:41660292> used the tool weld on models/dav0r/camera.mdl
+[17:54:50] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturecouch001a.mdl
+[17:54:51] Emmett<STEAM_0:1:41660292> used the tool weld on models/props_c17/furniturecouch001a.mdl
+[18:45:36] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[21:22:48] Client "[NWA] ribking" connected.
+[21:27:34] Client "[NWA] ribking" spawned in server <STEAM_0:0:57963564> (took 286 seconds).
+[21:47:35] Dropped "[NWA] ribking" from server<STEAM_0:0:57963564>

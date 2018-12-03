@@ -1,0 +1,473 @@
+Sun Apr  8 21:44:38 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr  8 21:44:38 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr  8 21:44:38 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr  8 21:44:38 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr  8 22:33:11 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr  8 22:33:18 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 14:53:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 14:53:30 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 16:25:40 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 16:25:47 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 18:54:08 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 18:54:17 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 19:03:13 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 19:03:27 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 21:58:07 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 21:58:33 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:03:35 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:03:49 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:08:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:08:41 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:17:30 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:17:44 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:28:06 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:28:20 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:33:44 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:33:58 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:40:06 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:40:19 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 10 22:51:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 10 22:51:53 2018 - Connection to the database pprpreports has successfully been established
+Wed Apr 11 17:53:44 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Apr 11 17:53:58 2018 - Connection to the database pprpreports has successfully been established
+Wed Apr 11 21:06:00 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Apr 11 21:06:14 2018 - Connection to the database pprpreports has successfully been established
+Wed Apr 11 21:11:59 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Apr 11 21:12:23 2018 - Connection to the database pprpreports has successfully been established
+Wed Apr 11 21:39:42 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Apr 11 21:39:57 2018 - Connection to the database pprpreports has successfully been established
+Wed Apr 11 21:41:59 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Apr 11 21:42:13 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 16:31:55 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 16:32:02 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 22:29:13 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 22:29:21 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 22:40:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 22:40:16 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 22:48:56 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 22:49:52 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 22:50:01 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 22:55:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 22:55:35 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 22:58:58 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 22:59:06 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 23:04:15 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 23:04:23 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 23:15:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 23:15:47 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 23:22:11 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 23:22:19 2018 - Connection to the database pprpreports has successfully been established
+Thu Apr 12 23:25:49 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Apr 12 23:25:57 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 16:04:18 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 16:04:38 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 16:05:31 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 16:05:50 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 17:22:17 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 17:22:25 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 19:14:45 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 19:14:53 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 19:21:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 19:21:55 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 19:33:00 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 19:33:07 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 19:43:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 19:43:35 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 19:46:14 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 19:46:22 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 19:48:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 19:48:17 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:00:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:00:47 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:03:22 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:03:30 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:06:12 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:06:22 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:10:20 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:10:28 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:13:36 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:13:44 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:16:43 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:16:51 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:23:20 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:23:28 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:25:29 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:25:37 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:31:08 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:31:16 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:37:51 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:37:59 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 20:42:05 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 20:42:13 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 21:08:57 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 21:09:05 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 23:33:34 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 23:33:42 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 23:38:28 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 23:38:36 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 23:44:40 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 23:44:48 2018 - Connection to the database pprpreports has successfully been established
+Fri Apr 13 23:47:07 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Apr 13 23:47:15 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 00:04:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 00:04:17 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 00:38:04 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 00:38:12 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 12:28:49 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 12:28:56 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 12:49:06 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 12:49:25 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 12:52:33 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 12:52:51 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 12:58:37 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 12:58:45 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 13:08:50 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 13:08:58 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 13:12:16 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 13:12:23 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 13:27:28 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 13:27:35 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 13:33:42 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 13:33:50 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 15:28:54 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 15:29:01 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 15:33:07 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 15:33:28 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 15:34:36 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 15:34:56 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 19:20:44 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 19:20:52 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:03:25 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:03:33 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:08:40 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:08:48 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:09:49 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:09:57 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:21:44 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:21:52 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:30:05 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:30:13 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:33:42 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:33:50 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:34:56 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:35:04 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:38:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:38:47 2018 - Connection to the database pprpreports has successfully been established
+Sat Apr 14 20:41:35 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Apr 14 20:41:43 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 13:22:29 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 13:22:37 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 17:15:53 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 17:16:01 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 17:19:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 17:19:17 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 17:20:28 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 17:20:36 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 17:23:13 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 17:23:21 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 17:26:33 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 17:26:41 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 17:29:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 17:29:31 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 18:43:14 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 18:43:34 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 18:53:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 18:53:26 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 18:57:57 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 18:58:05 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 15 19:32:26 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 15 19:32:35 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 17 12:04:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 17 12:04:36 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 12:04:31 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 12:04:45 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 17:02:41 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 17:03:01 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 17:12:02 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 17:12:11 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 17:28:47 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 17:28:55 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 19:40:11 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 19:40:19 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 22:10:14 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 22:10:22 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 22:11:21 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 22:11:29 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 22:12:36 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 22:12:44 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 22:17:41 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 22:18:02 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 22:49:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 22:50:13 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 22:59:05 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 22:59:14 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 23:09:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 23:09:27 2018 - Connection to the database pprpreports has successfully been established
+Tue Apr 24 23:22:14 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Apr 24 23:22:23 2018 - Connection to the database pprpreports has successfully been established
+Wed Apr 25 16:08:35 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Apr 25 16:08:43 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 29 13:47:52 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 29 13:48:01 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 29 15:39:16 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 29 15:39:24 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 29 16:05:45 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 29 16:05:54 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 29 16:11:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 29 16:11:18 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 29 16:52:22 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 29 16:52:31 2018 - Connection to the database pprpreports has successfully been established
+Sun Apr 29 21:03:44 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Apr 29 21:03:53 2018 - Connection to the database pprpreports has successfully been established
+Tue May  1 12:04:10 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue May  1 12:04:22 2018 - Connection to the database pprpreports has successfully been established
+Fri May  4 15:00:37 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri May  4 15:01:05 2018 - Connection to the database pprpreports has successfully been established
+Fri May  4 19:55:46 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri May  4 19:55:55 2018 - Connection to the database pprpreports has successfully been established
+Mon May  7 06:47:32 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May  7 06:47:41 2018 - Connection to the database pprpreports has successfully been established
+Mon May  7 06:51:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May  7 06:51:31 2018 - Connection to the database pprpreports has successfully been established
+Tue May  8 12:04:37 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue May  8 12:04:47 2018 - Connection to the database pprpreports has successfully been established
+Wed May  9 18:03:49 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed May  9 18:03:57 2018 - Connection to the database pprpreports has successfully been established
+Wed May  9 19:09:26 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed May  9 19:09:35 2018 - Connection to the database pprpreports has successfully been established
+Wed May  9 19:22:16 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed May  9 19:22:25 2018 - Connection to the database pprpreports has successfully been established
+Wed May  9 22:01:47 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed May  9 22:01:56 2018 - Connection to the database pprpreports has successfully been established
+Tue May 15 12:04:17 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue May 15 12:04:27 2018 - Connection to the database pprpreports has successfully been established
+Tue May 22 12:04:17 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue May 22 12:04:28 2018 - Connection to the database pprpreports has successfully been established
+Mon May 28 14:15:03 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May 28 14:15:12 2018 - Connection to the database pprpreports has successfully been established
+Mon May 28 14:19:13 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May 28 14:19:21 2018 - Connection to the database pprpreports has successfully been established
+Mon May 28 14:40:22 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May 28 14:40:30 2018 - Connection to the database pprpreports has successfully been established
+Mon May 28 15:03:03 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May 28 15:03:12 2018 - Connection to the database pprpreports has successfully been established
+Mon May 28 18:04:00 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May 28 18:04:09 2018 - Connection to the database pprpreports has successfully been established
+Mon May 28 18:18:12 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon May 28 18:18:20 2018 - Connection to the database pprpreports has successfully been established
+Tue May 29 12:03:53 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue May 29 12:04:03 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun  5 12:07:37 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun  5 12:07:49 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun  9 10:56:55 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun  9 10:57:04 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun  9 12:03:18 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun  9 12:03:40 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun  9 21:17:57 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun  9 21:18:06 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun  9 21:49:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun  9 21:49:28 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun  9 21:52:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun  9 21:52:32 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 13:20:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 13:20:48 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 14:31:12 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 14:31:21 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 14:32:56 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 14:33:05 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 15:30:47 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 15:31:08 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 15:49:20 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 15:49:28 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 16:02:28 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 16:02:36 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 16:10:42 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 16:10:51 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 21:19:13 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 21:19:22 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 21:45:47 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 21:46:09 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 22:02:34 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 22:02:43 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 22:07:38 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 22:07:47 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 10 22:32:01 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 10 22:32:10 2018 - Connection to the database pprpreports has successfully been established
+Mon Jun 11 18:46:20 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon Jun 11 18:46:29 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 12:07:42 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 12:07:55 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 16:23:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:23:18 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 16:48:21 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:48:31 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 16:49:01 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:52:05 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:52:15 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 16:52:46 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:53:18 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:53:51 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 16:54:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:50:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:50:19 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 18:50:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:51:18 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:51:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:52:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:52:51 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:53:55 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 18:54:04 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:09:59 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:10:09 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:14:47 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:14:56 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:32:46 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:32:56 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:41:28 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:41:38 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:46:04 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:46:15 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:50:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:50:32 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:54:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:54:57 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 20:58:24 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 20:58:33 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:05:26 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:05:35 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:12:54 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:13:03 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:17:43 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:17:53 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:20:57 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:21:07 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:32:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:32:37 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:35:32 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:35:41 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 21:59:02 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 21:59:11 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 22:05:57 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 22:06:07 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 12 22:09:21 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 12 22:09:30 2018 - Connection to the database pprpreports has successfully been established
+Wed Jun 13 14:07:02 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Wed Jun 13 14:07:11 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 13:28:17 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 13:28:26 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 13:32:37 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 13:32:46 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 14:03:16 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 14:03:25 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 14:07:07 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 14:07:16 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 14:10:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 14:10:36 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 14:13:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 14:13:49 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 14:22:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 14:22:57 2018 - Connection to the database pprpreports has successfully been established
+Thu Jun 14 16:05:50 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Thu Jun 14 16:05:59 2018 - Connection to the database pprpreports has successfully been established
+Fri Jun 15 01:19:09 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Jun 15 01:19:18 2018 - Connection to the database pprpreports has successfully been established
+Fri Jun 15 01:30:33 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Fri Jun 15 01:30:41 2018 - Connection to the database pprpreports has successfully been established
+Mon Jun 18 21:35:44 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon Jun 18 21:35:53 2018 - Connection to the database pprpreports has successfully been established
+Mon Jun 18 21:43:54 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon Jun 18 21:44:04 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 10:44:53 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 10:45:03 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 11:58:10 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 11:58:34 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 12:05:49 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 12:05:58 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 12:12:01 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 12:12:09 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 12:20:25 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 12:20:34 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 12:25:40 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 12:25:50 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 12:49:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 12:49:32 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 12:52:40 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 12:52:49 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 20:24:24 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 20:24:33 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 20:34:22 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 20:34:32 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 20:40:32 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 20:40:42 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 20:43:46 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 20:43:55 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 20:56:07 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 20:56:15 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 22:34:07 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 22:34:16 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 22:52:47 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 22:52:57 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 22:59:04 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 22:59:28 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 23:12:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 23:12:28 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 23 23:21:24 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 23 23:21:32 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 24 00:38:01 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 24 00:38:10 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 24 00:58:17 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 24 00:58:26 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 24 14:27:31 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 24 14:27:40 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 24 14:47:40 2018 - [ReportSystem]Player Fat Gay(STEAM_0:1:218173703) reported Lastpayload244(STEAM_0:0:48607723)
+Sun Jun 24 14:47:40 2018 - [ReportSystem]Database Error(Field 'resolved_by' doesn't have a default value), SQL: INSERT INTO reports(reporter_steamid, reporter_nick, reporter_rpname, reported_steamid, reported_nick, reported_rpname, reason, description) VALUES('STEAM_0:1:218173703','Fat Gay','Fat Gay','STEAM_0:0:48607723','Lastpayload244','Connor Rk800','Abusive language','gay'), reportdb:statatus() = 0
+Sun Jun 24 14:47:55 2018 - [ReportSystem]Player Emmett(STEAM_0:1:41660292) reported Fat Gay(STEAM_0:1:218173703)
+Sun Jun 24 14:47:55 2018 - [ReportSystem]Database Error(Field 'resolved_by' doesn't have a default value), SQL: INSERT INTO reports(reporter_steamid, reporter_nick, reporter_rpname, reported_steamid, reported_nick, reported_rpname, reason, description) VALUES('STEAM_0:1:41660292','Valien','Emmett','STEAM_0:1:218173703','Fat Gay','Fat Gay','Admin/trusted abuse','Lol jk'), reportdb:statatus() = 0
+Sun Jun 24 14:51:17 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 24 14:51:26 2018 - Connection to the database pprpreports has successfully been established
+Sun Jun 24 15:00:28 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jun 24 15:00:37 2018 - Connection to the database pprpreports has successfully been established
+Tue Jun 26 12:05:27 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jun 26 12:05:38 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 30 13:17:48 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 30 13:17:57 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 30 13:53:42 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 30 13:54:05 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 30 14:09:50 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 30 14:10:00 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 30 14:18:31 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 30 14:18:40 2018 - Connection to the database pprpreports has successfully been established
+Sat Jun 30 14:36:21 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sat Jun 30 14:36:30 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 12:02:22 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 12:02:31 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 12:06:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 12:06:39 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 12:06:39 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 12:06:39 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 12:07:33 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 12:07:42 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 12:13:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 12:13:32 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 13:13:12 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 13:13:21 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 13:24:33 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 13:24:48 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 13:25:53 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 13:26:02 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 13:43:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 13:43:32 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 13:44:35 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 13:44:44 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 20:23:15 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 20:23:24 2018 - Connection to the database pprpreports has successfully been established
+Sun Jul  1 20:32:56 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Sun Jul  1 20:33:07 2018 - Connection to the database pprpreports has successfully been established
+Mon Jul  2 05:06:00 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon Jul  2 05:06:17 2018 - Connection to the database pprpreports has successfully been established
+Mon Jul  2 22:22:19 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon Jul  2 22:22:28 2018 - Connection to the database pprpreports has successfully been established
+Mon Jul  2 22:30:23 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Mon Jul  2 22:30:32 2018 - Connection to the database pprpreports has successfully been established
+Tue Jul  3 05:04:52 2018 - Attempting to connect to opifex.ddns.net:3306 database: pprpreports
+Tue Jul  3 05:05:06 2018 - Connection to the database pprpreports has successfully been established

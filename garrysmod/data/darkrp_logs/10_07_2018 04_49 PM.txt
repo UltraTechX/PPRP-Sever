@@ -1,0 +1,136 @@
+Sun Oct  7 16:49:24 2018	Enfys (STEAM_0:1:86985962) has joined the game
+Sun Oct  7 16:49:24 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 16:49:25 2018	Mapapis (STEAM_0:1:108406755) has joined the game
+Sun Oct  7 16:49:25 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 16:49:36 2018	HellBoy9000 (STEAM_0:0:200061148) has joined the game
+Sun Oct  7 16:49:36 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Sun Oct  7 16:49:39 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 16:49:39 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:49:46 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct  7 16:49:46 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:49:53 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 16:49:53 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 16:49:57 2018	Riptilian (STEAM_0:0:44493491) has joined the game
+Sun Oct  7 16:49:57 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:50:29 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Sun Oct  7 16:50:29 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:50:55 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:50:56 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:51:08 2018	Mapapis (STEAM_0:1:108406755) disconnected
+Sun Oct  7 16:51:40 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:51:51 2018	Dave Letcher (STEAM_0:1:52038966): 
+Sun Oct  7 16:52:05 2018	Riptilian (STEAM_0:0:44493491) spawned
+Sun Oct  7 16:52:27 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:52:33 2018	Dave Letcher (STEAM_0:1:52038966): // Where is the intercom?
+Sun Oct  7 16:52:39 2018	Lukyn Red (STEAM_0:0:81441026): // the admin office
+Sun Oct  7 16:52:44 2018	Dave Letcher (STEAM_0:1:52038966): // Which is where?
+Sun Oct  7 16:52:51 2018	Lukyn Red (STEAM_0:0:81441026): // above the reactor
+Sun Oct  7 16:52:57 2018	Lukyn Red (STEAM_0:0:81441026): !motd
+Sun Oct  7 16:53:00 2018	Dave Letcher (STEAM_0:1:52038966): // got it
+Sun Oct  7 16:53:23 2018	Lukyn Red (STEAM_0:0:81441026): !donate
+Sun Oct  7 16:53:32 2018	Lukyn Red (STEAM_0:0:81441026): !donate
+Sun Oct  7 16:54:52 2018	Dave Letcher (STEAM_0:1:52038966): //ugh
+Sun Oct  7 16:54:53 2018	Dave Letcher (STEAM_0:1:52038966): // ugh
+Sun Oct  7 16:54:57 2018	Dave Letcher (STEAM_0:1:52038966): // the tram just broke
+Sun Oct  7 16:55:03 2018	Lukyn Red (STEAM_0:0:81441026): // how?
+Sun Oct  7 16:55:15 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 16:55:15 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 16:55:16 2018	Dave Letcher (STEAM_0:1:52038966): // Its seats are floating in mid air now, no longe connected
+Sun Oct  7 16:55:19 2018	HellBoy9000 (STEAM_0:0:200061148) disconnected
+Sun Oct  7 16:55:23 2018	Dave Letcher (STEAM_0:1:52038966): !donate
+Sun Oct  7 16:55:31 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:55:45 2018	Adam Klein was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 16:55:48 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:55:56 2018	Lukyn Red was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 16:55:57 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:56:04 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 16:56:13 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Sun Oct  7 16:56:15 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:56:27 2018	Dave Letcher (STEAM_0:1:52038966): // GOD DAMNIT THE TRAM JUST LEFTR
+Sun Oct  7 16:56:28 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:56:47 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:58:02 2018	Lukyn Red (STEAM_0:0:81441026) disconnected
+Sun Oct  7 16:58:41 2018	Riptilian (STEAM_0:0:44493491) disconnected
+Sun Oct  7 16:58:42 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Sun Oct  7 16:58:42 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sun Oct  7 16:58:50 2018	Dave Letcher was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:58:50 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Sun Oct  7 16:59:19 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sun Oct  7 16:59:19 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 16:59:49 2018	Adam Klein was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct  7 16:59:51 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 17:00:18 2018	The Kettle (STEAM_0:0:86812760) disconnected
+Sun Oct  7 17:00:57 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 17:02:21 2018	Mapapis (STEAM_0:1:108406755) has joined the game
+Sun Oct  7 17:02:21 2018	Mapapis (STEAM_0:1:108406755) spawned
+Sun Oct  7 17:03:06 2018	Mapapis (STEAM_0:1:108406755) disconnected
+Sun Oct  7 17:03:37 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sun Oct  7 17:03:44 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sun Oct  7 17:04:13 2018	Lukyn Red (STEAM_0:0:81441026): Why do you have the gun out?
+Sun Oct  7 17:04:27 2018	John Mercy (STEAM_0:0:86025114): Working on it. It is a tool that needs work
+Sun Oct  7 17:05:51 2018	Adam Klein was killed by John Mercy with a cw_g36c
+Sun Oct  7 17:06:00 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 17:07:41 2018	Adam Klein was killed by John Mercy with a cw_g36c
+Sun Oct  7 17:07:44 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 17:09:00 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sun Oct  7 17:09:03 2018	Lukyn Red (STEAM_0:0:81441026): nee dhelp?
+Sun Oct  7 17:09:31 2018	mr bean (STEAM_0:0:23292214) has joined the game
+Sun Oct  7 17:09:31 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:10:13 2018	Lukyn Red was killed by John Mercy with a cw_g36c
+Sun Oct  7 17:10:14 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 17:12:04 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:13:22 2018	Enfys (STEAM_0:1:86985962) spawned
+Sun Oct  7 17:14:12 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sun Oct  7 17:15:10 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 17:15:10 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 17:15:49 2018	Adam Klein was killed by Entity [5041][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Oct  7 17:15:51 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 17:18:12 2018	Lukyn Red was killed by Adam Klein with a cw_mr96
+Sun Oct  7 17:18:13 2018	Lukyn Red (STEAM_0:0:81441026): Need help with anything
+Sun Oct  7 17:18:17 2018	Lukyn Red (STEAM_0:0:81441026): I work with you
+Sun Oct  7 17:18:25 2018	Lukyn Red (STEAM_0:0:81441026): /pm adam I work with your
+Sun Oct  7 17:18:33 2018	Lukyn Red (STEAM_0:0:81441026): /pm adam I am corrupt
+Sun Oct  7 17:18:35 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sun Oct  7 17:19:32 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sun Oct  7 17:20:31 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:20:34 2018	Adam Klein was killed by John Mercy with a fas2_thrown_m67
+Sun Oct  7 17:20:35 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct  7 17:20:38 2018	Lukyn Red (STEAM_0:0:81441026): /pm bean THat job doesn't work
+Sun Oct  7 17:20:51 2018	Lukyn Red (STEAM_0:0:81441026): /pm bean there is no cinema
+Sun Oct  7 17:20:55 2018	Enfys (STEAM_0:1:86985962) disconnected
+Sun Oct  7 17:21:06 2018	Adam Klein (STEAM_0:1:116765028) disconnected
+Sun Oct  7 17:21:12 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:21:36 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:22:00 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:22:08 2018	John Mercy (STEAM_0:0:86025114) disconnected
+Sun Oct  7 17:23:35 2018	The Kettle (STEAM_0:0:86812760) disconnected
+Sun Oct  7 17:26:53 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:38:32 2018	mr bean was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Sun Oct  7 17:38:42 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:39:28 2018	Lukyn Red (STEAM_0:0:81441026) disconnected
+Sun Oct  7 17:46:32 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sun Oct  7 17:46:32 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct  7 17:48:24 2018	The Kettle (STEAM_0:0:86812760) has joined the game
+Sun Oct  7 17:48:24 2018	The Kettle (STEAM_0:0:86812760) spawned
+Sun Oct  7 17:49:12 2018	Enviro (STEAM_0:0:80115103): // HOOLY FUCK that rules list
+Sun Oct  7 17:50:01 2018	mr bean was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sun Oct  7 17:50:08 2018	mr bean (STEAM_0:0:23292214) spawned
+Sun Oct  7 17:52:46 2018	Enviro (STEAM_0:0:80115103): // lmao
+Sun Oct  7 17:53:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 17:53:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 17:53:27 2018	The Kettle (STEAM_0:0:86812760) disconnected
+Sun Oct  7 17:53:47 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct  7 17:53:48 2018	C1rcuit (STEAM_0:0:71754300) has joined the game
+Sun Oct  7 17:53:48 2018	C1rcuit (STEAM_0:0:71754300) spawned
+Sun Oct  7 17:54:39 2018	Enviro (STEAM_0:0:80115103): // so confused
+Sun Oct  7 17:56:44 2018	C1rcuit (STEAM_0:0:71754300) spawned
+Sun Oct  7 17:57:07 2018	Enviro (STEAM_0:0:80115103): // WTF
+Sun Oct  7 17:57:09 2018	Enviro (STEAM_0:0:80115103): // OH SHIT
+Sun Oct  7 17:57:12 2018	C1rcuit (STEAM_0:0:71754300): FuCk
+Sun Oct  7 17:57:16 2018	Enviro was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 17:57:17 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct  7 18:00:05 2018	Oatsmcgee (STEAM_0:0:139498605) has joined the game
+Sun Oct  7 18:00:05 2018	Nosey (STEAM_0:0:139498605) spawned
+Sun Oct  7 18:00:54 2018	[Opi] Fat Gay was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:00:54 2018	Nosey was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sun Oct  7 18:01:04 2018	Enviro (STEAM_0:0:80115103) disconnected

@@ -1,0 +1,107 @@
+Sun Jul  8 17:49:41 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jul  8 17:49:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 17:50:14 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  8 17:50:14 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 17:56:20 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul  8 17:56:20 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:00:52 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:01:07 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:01:58 2018	Fat Gay was killed by Entity [1920][func_rotating] with a func_rotating
+Sun Jul  8 18:02:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 18:03:00 2018	2B-77 | Vix Archaser (STEAM_0:0:143859663) has joined the game
+Sun Jul  8 18:03:00 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:04:06 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:04:54 2018	Hey FURFAG was killed by Entity [0][worldspawn] with a unknown
+Sun Jul  8 18:04:58 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:05:42 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:06:54 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:07:30 2018	Fat Gay (STEAM_0:1:218173703): !noclip\
+Sun Jul  8 18:07:32 2018	Fat Gay (STEAM_0:1:218173703): !noclip
+Sun Jul  8 18:07:35 2018	Fat Gay (STEAM_0:1:218173703): /noclip
+Sun Jul  8 18:07:49 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:07:57 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:08:07 2018	Hey FURFAG (STEAM_0:0:143859663): ;noclip
+Sun Jul  8 18:08:16 2018	Hey FURFAG (STEAM_0:0:143859663): /noclip
+Sun Jul  8 18:08:31 2018	Hey FURFAG (STEAM_0:0:143859663) disconnected
+Sun Jul  8 18:08:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Sun Jul  8 18:10:53 2018	2B-77 | Vix Archaser (STEAM_0:0:143859663) has joined the game
+Sun Jul  8 18:10:53 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:12:37 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:14:21 2018	Hey FURFAG (STEAM_0:0:143859663): /name Vix Archaser
+Sun Jul  8 18:15:02 2018	Emmett (STEAM_0:1:41660292): !bring Vix
+Sun Jul  8 18:15:05 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 18:15:11 2018	Bot01 (BOT) has joined the game
+Sun Jul  8 18:15:11 2018	Bot01 (BOT) spawned
+Sun Jul  8 18:15:26 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:15:40 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Jul  8 18:15:46 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sun Jul  8 18:15:50 2018	Emmett (STEAM_0:1:41660292): !bring vix
+Sun Jul  8 18:15:56 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sun Jul  8 18:17:43 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jul  8 18:17:46 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:17:49 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:17:51 2018	Emmett (STEAM_0:1:41660292): !goto vix
+Sun Jul  8 18:19:09 2018	Emmett (STEAM_0:1:41660292): ulx noclip
+Sun Jul  8 18:20:40 2018	Emmett was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 18:20:43 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:20:48 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:20:52 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 18:20:54 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 18:20:58 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sun Jul  8 18:21:17 2018	Fat Gay was killed by Emmett with a weapon_l4d2_frying_pan
+Sun Jul  8 18:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 18:21:20 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Jul  8 18:21:43 2018	Emmett was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sun Jul  8 18:22:13 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 18:22:59 2018	Vix Archaser was killed by Fat Gay with a weapon_pumpshotgun2
+Sun Jul  8 18:23:04 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:23:07 2018	Fat Gay (STEAM_0:1:218173703): !bring vix
+Sun Jul  8 18:23:22 2018	Fat Gay (STEAM_0:1:218173703): !bring vix
+Sun Jul  8 18:24:05 2018	Fat Gay (STEAM_0:1:218173703): !dropmoney 1
+Sun Jul  8 18:24:14 2018	Fat Gay was killed by Vix Archaser with a weapon_l4d2_frying_pan
+Sun Jul  8 18:24:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 18:24:19 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sun Jul  8 18:24:25 2018	Fat Gay (STEAM_0:1:218173703): /dropmoney 1
+Sun Jul  8 18:24:26 2018	Fat Gay (STEAM_0:1:218173703) has dropped $1
+Sun Jul  8 18:24:32 2018	Vix Archaser was killed by Fat Gay with a ls_sniper
+Sun Jul  8 18:24:36 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:24:59 2018	Fat Gay (STEAM_0:1:218173703): !BRING BIX
+Sun Jul  8 18:25:02 2018	Fat Gay (STEAM_0:1:218173703): !bring vi
+Sun Jul  8 18:25:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT mediaplayer_tv
+Sun Jul  8 18:25:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT mediaplayer_tv
+Sun Jul  8 18:26:37 2018	Vix Archaser (STEAM_0:0:143859663): !kick fat gay
+Sun Jul  8 18:27:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_projector
+Sun Jul  8 18:28:05 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sun Jul  8 18:28:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sun Jul  8 18:28:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sun Jul  8 18:28:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sun Jul  8 18:28:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller
+Sun Jul  8 18:28:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller_vis
+Sun Jul  8 18:28:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_controller_vis
+Sun Jul  8 18:28:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT wck_projector
+Sun Jul  8 18:29:15 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Sun Jul  8 18:29:18 2018	Fat Gay (STEAM_0:1:218173703): !bring em
+Sun Jul  8 18:30:21 2018	Vix Archaser (STEAM_0:0:143859663) spawned NPC npc_monk
+Sun Jul  8 18:35:49 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Jul  8 18:36:14 2018	Fat Gay (STEAM_0:1:218173703): !fmuscle *
+Sun Jul  8 18:36:30 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Jul  8 18:36:45 2018	Fat Gay (STEAM_0:1:218173703): !frobot *
+Sun Jul  8 18:37:00 2018	Fat Gay (STEAM_0:1:218173703): !fdisagree *
+Sun Jul  8 18:37:09 2018	Fat Gay (STEAM_0:1:218173703): !fzombie *
+Sun Jul  8 18:37:17 2018	Fat Gay (STEAM_0:1:218173703): !fagree *
+Sun Jul  8 18:37:24 2018	Fat Gay (STEAM_0:1:218173703): !fbeckon *
+Sun Jul  8 18:37:28 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Jul  8 18:37:57 2018	Fat Gay (STEAM_0:1:218173703): !forcepers *
+Sun Jul  8 18:38:03 2018	Fat Gay (STEAM_0:1:218173703): !fpers *
+Sun Jul  8 18:38:08 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Jul  8 18:38:21 2018	Fat Gay (STEAM_0:1:218173703): !fdance *
+Sun Jul  8 18:39:06 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:39:10 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:39:25 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Jul  8 18:39:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 18:39:57 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sun Jul  8 18:40:07 2018	Vix Archaser (STEAM_0:0:143859663): !goto fatgay
+Sun Jul  8 18:40:18 2018	Vix Archaser (STEAM_0:0:143859663): !goto fat
+Sun Jul  8 18:40:38 2018	Vix Archaser was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Jul  8 18:40:43 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 18:41:02 2018	Vix Archaser (STEAM_0:0:143859663) spawned

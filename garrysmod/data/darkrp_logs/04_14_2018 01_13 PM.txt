@@ -1,0 +1,11 @@
+Sat Apr 14 13:13:09 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Apr 14 13:13:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 13:21:49 2018	♕Weingott♕ (STEAM_0:1:86800123) has joined the game
+Sat Apr 14 13:21:49 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Apr 14 13:22:34 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Apr 14 13:23:13 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Apr 14 13:23:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 13:24:49 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Apr 14 13:25:13 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Apr 14 13:25:25 2018	Fat Gay was killed by ♕Weingott♕ with a cw_shorty
+Sat Apr 14 13:25:57 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned

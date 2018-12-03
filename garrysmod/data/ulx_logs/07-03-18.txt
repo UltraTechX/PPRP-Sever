@@ -1,0 +1,713 @@
+[05:05:06] New map: rp_powerplant_v2b2
+[19:17:48] Client "Valien" connected.
+[19:19:36] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 108 seconds).
+[19:20:57] Emmett: !donate
+[19:21:58] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[19:22:13] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[19:22:24] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[19:23:06] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[19:23:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_p2282
+[19:23:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_deagle
+[19:23:31] Client "Bot01" connected.
+[19:23:31] Client "Bot01" spawned in server <BOT> (took 51564 seconds).
+[19:23:31] Bot01 suicided!
+[19:24:01] Bot01 suicided!
+[19:24:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[19:24:22] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[19:24:27] Bot01 suicided!
+[19:24:41] Bot01 suicided!
+[19:25:11] Bot01 suicided!
+[19:25:17] Emmett suicided!
+[19:25:17] Bot01 suicided!
+[19:25:23] Emmett: !donate
+[19:25:47] Bot01 suicided!
+[19:26:17] Bot01 suicided!
+[19:26:47] Bot01 suicided!
+[19:27:17] Bot01 suicided!
+[19:27:47] Bot01 suicided!
+[19:28:17] Bot01 suicided!
+[19:28:47] Bot01 suicided!
+[19:29:17] Bot01 suicided!
+[19:29:47] Bot01 suicided!
+[19:30:17] Bot01 suicided!
+[19:30:47] Bot01 suicided!
+[19:31:17] Bot01 suicided!
+[19:31:47] Bot01 suicided!
+[19:32:17] Bot01 suicided!
+[19:32:47] Bot01 suicided!
+[19:33:17] Bot01 suicided!
+[19:33:47] Bot01 suicided!
+[19:34:17] Bot01 suicided!
+[19:34:47] Bot01 suicided!
+[19:35:17] Bot01 suicided!
+[19:35:47] Bot01 suicided!
+[19:36:17] Bot01 suicided!
+[19:36:47] Bot01 suicided!
+[19:37:17] Bot01 suicided!
+[19:37:47] Bot01 suicided!
+[19:38:17] Bot01 suicided!
+[19:38:47] Bot01 suicided!
+[19:39:17] Bot01 suicided!
+[19:39:47] Bot01 suicided!
+[19:40:17] Bot01 suicided!
+[19:40:47] Bot01 suicided!
+[19:41:17] Bot01 suicided!
+[19:41:47] Bot01 suicided!
+[19:42:17] Bot01 suicided!
+[19:42:47] Bot01 suicided!
+[19:43:17] Bot01 suicided!
+[19:43:47] Bot01 suicided!
+[19:44:17] Bot01 suicided!
+[19:44:47] Bot01 suicided!
+[19:45:17] Bot01 suicided!
+[19:45:47] Bot01 suicided!
+[19:46:17] Bot01 suicided!
+[19:46:47] Bot01 suicided!
+[19:47:17] Bot01 suicided!
+[19:47:47] Bot01 suicided!
+[19:48:17] Bot01 suicided!
+[19:48:47] Bot01 suicided!
+[19:49:17] Bot01 suicided!
+[19:49:47] Bot01 suicided!
+[19:50:17] Bot01 suicided!
+[19:50:47] Bot01 suicided!
+[19:51:17] Bot01 suicided!
+[19:51:47] Bot01 suicided!
+[19:52:17] Bot01 suicided!
+[19:52:47] Bot01 suicided!
+[19:53:17] Bot01 suicided!
+[19:53:47] Bot01 suicided!
+[19:54:02] Emmett: !rewards
+[19:54:17] Bot01 suicided!
+[19:54:47] Bot01 suicided!
+[19:55:17] Bot01 suicided!
+[19:55:48] Bot01 suicided!
+[19:56:18] Bot01 suicided!
+[19:56:48] Bot01 suicided!
+[19:57:18] Bot01 suicided!
+[19:57:48] Bot01 suicided!
+[19:58:18] Bot01 suicided!
+[19:58:33] Bot01 suicided!
+[19:58:43] Bot01 suicided!
+[19:58:53] Bot01 suicided!
+[19:59:03] Bot01 suicided!
+[19:59:13] Bot01 suicided!
+[19:59:23] Bot01 suicided!
+[19:59:33] Bot01 suicided!
+[19:59:43] Bot01 suicided!
+[19:59:53] Bot01 suicided!
+[20:00:03] Bot01 suicided!
+[20:00:13] Bot01 suicided!
+[20:00:23] Bot01 suicided!
+[20:00:33] Bot01 suicided!
+[20:00:43] Bot01 suicided!
+[20:00:53] Bot01 suicided!
+[20:01:03] Bot01 suicided!
+[20:01:13] Bot01 suicided!
+[20:01:23] Bot01 suicided!
+[20:01:33] Bot01 suicided!
+[20:01:43] Emmett suicided!
+[20:01:43] Bot01 suicided!
+[20:02:13] Bot01 suicided!
+[20:02:43] Bot01 suicided!
+[20:03:13] Bot01 suicided!
+[20:03:43] Bot01 suicided!
+[20:04:13] Bot01 suicided!
+[20:04:43] Bot01 suicided!
+[20:05:13] Bot01 suicided!
+[20:05:43] Bot01 suicided!
+[20:06:13] Bot01 suicided!
+[20:06:43] Bot01 suicided!
+[20:07:13] Bot01 suicided!
+[20:07:43] Bot01 suicided!
+[20:08:13] Bot01 suicided!
+[20:08:43] Bot01 suicided!
+[20:09:13] Bot01 suicided!
+[20:09:43] Bot01 suicided!
+[20:10:13] Bot01 suicided!
+[20:10:43] Bot01 suicided!
+[20:11:13] Bot01 suicided!
+[20:11:43] Bot01 suicided!
+[20:12:13] Bot01 suicided!
+[20:12:43] Bot01 suicided!
+[20:13:13] Bot01 suicided!
+[20:13:43] Bot01 suicided!
+[20:14:13] Bot01 suicided!
+[20:14:43] Bot01 suicided!
+[20:15:13] Bot01 suicided!
+[20:15:43] Bot01 suicided!
+[20:16:13] Bot01 suicided!
+[20:16:43] Bot01 suicided!
+[20:17:13] Bot01 suicided!
+[20:17:43] Bot01 suicided!
+[20:18:13] Bot01 suicided!
+[20:18:43] Bot01 suicided!
+[20:19:13] Bot01 suicided!
+[20:19:43] Bot01 suicided!
+[20:20:13] Bot01 suicided!
+[20:20:43] Bot01 suicided!
+[20:21:13] Bot01 suicided!
+[20:21:43] Bot01 suicided!
+[20:22:13] Bot01 suicided!
+[20:22:43] Bot01 suicided!
+[20:23:13] Bot01 suicided!
+[20:23:43] Bot01 suicided!
+[20:24:14] Bot01 suicided!
+[20:24:44] Bot01 suicided!
+[20:25:14] Bot01 suicided!
+[20:25:44] Bot01 suicided!
+[20:26:14] Bot01 suicided!
+[20:26:44] Bot01 suicided!
+[20:27:14] Bot01 suicided!
+[20:27:44] Bot01 suicided!
+[20:28:14] Bot01 suicided!
+[20:28:44] Bot01 suicided!
+[20:29:14] Bot01 suicided!
+[20:29:44] Bot01 suicided!
+[20:30:14] Bot01 suicided!
+[20:30:44] Bot01 suicided!
+[20:31:14] Bot01 suicided!
+[20:31:44] Bot01 suicided!
+[20:31:57] Emmett<STEAM_0:1:41660292> spawned sent zmlab_methylamin
+[20:32:01] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:03] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth_baggy
+[20:32:10] Emmett<STEAM_0:1:41660292> spawned sent zmlab_collectcrate
+[20:32:11] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth_baggy
+[20:32:12] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth_baggy
+[20:32:12] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth_baggy
+[20:32:13] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth_baggy
+[20:32:14] Bot01 suicided!
+[20:32:34] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:39] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:41] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:42] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:43] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:44] Bot01 suicided!
+[20:32:50] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:52] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:53] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:56] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:32:57] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:33:00] Emmett<STEAM_0:1:41660292> spawned sent zmlab_meth
+[20:33:14] Bot01 suicided!
+[20:33:44] Bot01 suicided!
+[20:34:14] Bot01 suicided!
+[20:34:44] Bot01 suicided!
+[20:35:03] Bot01 suicided!
+[20:35:13] Bot01 suicided!
+[20:35:23] Bot01 suicided!
+[20:35:33] Bot01 suicided!
+[20:35:43] Bot01 suicided!
+[20:35:53] Bot01 suicided!
+[20:36:03] Bot01 suicided!
+[20:36:13] Bot01 suicided!
+[20:36:23] Bot01 suicided!
+[20:36:33] Bot01 suicided!
+[20:36:43] Bot01 suicided!
+[20:36:53] Bot01 suicided!
+[20:37:03] Bot01 suicided!
+[20:37:13] Bot01 suicided!
+[20:37:23] Bot01 suicided!
+[20:37:33] Bot01 suicided!
+[20:37:43] Bot01 suicided!
+[20:37:53] Bot01 suicided!
+[20:38:03] Bot01 suicided!
+[20:38:13] Bot01 suicided!
+[20:38:23] Bot01 suicided!
+[20:38:33] Bot01 suicided!
+[20:38:43] Bot01 suicided!
+[20:38:53] Bot01 suicided!
+[20:39:03] Bot01 suicided!
+[20:39:13] Bot01 suicided!
+[20:39:23] Bot01 suicided!
+[20:39:33] Bot01 suicided!
+[20:39:43] Bot01 suicided!
+[20:39:53] Bot01 suicided!
+[20:40:03] Bot01 suicided!
+[20:40:13] Bot01 suicided!
+[20:40:23] Bot01 suicided!
+[20:40:33] Emmett suicided!
+[20:40:33] Bot01 suicided!
+[20:41:03] Bot01 suicided!
+[20:41:33] Bot01 suicided!
+[20:42:03] Bot01 suicided!
+[20:42:33] Bot01 suicided!
+[20:43:03] Bot01 suicided!
+[20:43:33] Bot01 suicided!
+[20:44:03] Bot01 suicided!
+[20:44:33] Bot01 suicided!
+[20:45:03] Bot01 suicided!
+[20:45:33] Bot01 suicided!
+[20:46:03] Bot01 suicided!
+[20:46:33] Bot01 suicided!
+[20:47:03] Bot01 suicided!
+[20:47:33] Bot01 suicided!
+[20:48:03] Bot01 suicided!
+[20:48:33] Bot01 suicided!
+[20:49:03] Bot01 suicided!
+[20:49:33] Bot01 suicided!
+[20:50:03] Bot01 suicided!
+[20:50:33] Bot01 suicided!
+[20:51:03] Bot01 suicided!
+[20:51:20] Client "Fat Gay" connected.
+[20:51:33] Bot01 suicided!
+[20:52:03] Bot01 suicided!
+[20:52:33] Bot01 suicided!
+[20:53:03] Bot01 suicided!
+[20:53:04] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 104 seconds).
+[20:53:23] Fat Gay: !goto bot
+[20:53:28] Fat Gay: !goto em
+[20:53:28] Fat Gay teleported to Emmett
+[20:53:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[20:53:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l85a2
+[20:53:48] Fat Gay killed Emmett using player
+[20:53:48] Bot01 suicided!
+[20:59:58] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[20:59:58] Bot01 suicided!
+[21:00:28] Bot01 suicided!
+[21:00:58] Bot01 suicided!
+[21:01:28] Bot01 suicided!
+[21:01:58] Bot01 suicided!
+[21:02:28] Bot01 suicided!
+[21:02:58] Bot01 suicided!
+[21:03:28] Bot01 suicided!
+[21:03:58] Bot01 suicided!
+[21:04:28] Bot01 suicided!
+[21:04:58] Bot01 suicided!
+[21:05:28] Bot01 suicided!
+[21:05:58] Bot01 suicided!
+[21:06:28] Bot01 suicided!
+[21:06:58] Bot01 suicided!
+[21:07:28] Bot01 suicided!
+[21:07:58] Bot01 suicided!
+[21:08:28] Bot01 suicided!
+[21:08:58] Bot01 suicided!
+[21:09:28] Bot01 suicided!
+[21:09:58] Bot01 suicided!
+[21:10:28] Bot01 suicided!
+[21:10:58] Bot01 suicided!
+[21:11:28] Bot01 suicided!
+[21:11:58] Bot01 suicided!
+[21:12:28] Bot01 suicided!
+[21:12:58] Bot01 suicided!
+[21:13:28] Bot01 suicided!
+[21:13:58] Bot01 suicided!
+[21:14:28] Bot01 suicided!
+[21:14:58] Bot01 suicided!
+[21:15:28] Bot01 suicided!
+[21:15:58] Bot01 suicided!
+[21:16:28] Bot01 suicided!
+[21:16:58] Bot01 suicided!
+[21:17:28] Bot01 suicided!
+[21:17:58] Bot01 suicided!
+[21:18:28] Bot01 suicided!
+[21:18:58] Bot01 suicided!
+[21:19:28] Bot01 suicided!
+[21:19:58] Bot01 suicided!
+[21:20:28] Bot01 suicided!
+[21:20:58] Bot01 suicided!
+[21:21:28] Bot01 suicided!
+[21:21:58] Bot01 suicided!
+[21:22:28] Bot01 suicided!
+[21:22:58] Bot01 suicided!
+[21:23:28] Bot01 suicided!
+[21:23:58] Bot01 suicided!
+[21:24:29] Bot01 suicided!
+[21:24:59] Bot01 suicided!
+[21:25:29] Bot01 suicided!
+[21:25:59] Bot01 suicided!
+[21:26:29] Bot01 suicided!
+[21:26:59] Bot01 suicided!
+[21:27:29] Bot01 suicided!
+[21:27:59] Bot01 suicided!
+[21:28:29] Bot01 suicided!
+[21:28:59] Bot01 suicided!
+[21:29:29] Bot01 suicided!
+[21:29:59] Bot01 suicided!
+[21:30:29] Bot01 suicided!
+[21:30:59] Bot01 suicided!
+[21:31:29] Bot01 suicided!
+[21:31:59] Bot01 suicided!
+[21:32:29] Bot01 suicided!
+[21:32:59] Bot01 suicided!
+[21:33:29] Bot01 suicided!
+[21:33:59] Bot01 suicided!
+[21:34:29] Bot01 suicided!
+[21:34:59] Bot01 suicided!
+[21:35:29] Bot01 suicided!
+[21:35:59] Bot01 suicided!
+[21:36:29] Bot01 suicided!
+[21:36:59] Bot01 suicided!
+[21:37:29] Bot01 suicided!
+[21:37:59] Bot01 suicided!
+[21:38:29] Bot01 suicided!
+[21:38:59] Bot01 suicided!
+[21:39:29] Bot01 suicided!
+[21:39:59] Bot01 suicided!
+[21:40:29] Bot01 suicided!
+[21:40:59] Bot01 suicided!
+[21:41:29] Bot01 suicided!
+[21:41:59] Bot01 suicided!
+[21:42:03] Bot01 suicided!
+[21:42:13] Bot01 suicided!
+[21:42:23] Bot01 suicided!
+[21:42:33] Bot01 suicided!
+[21:42:43] Bot01 suicided!
+[21:42:53] Bot01 suicided!
+[21:43:03] Bot01 suicided!
+[21:43:13] Bot01 suicided!
+[21:43:23] Bot01 suicided!
+[21:43:33] Bot01 suicided!
+[21:43:43] Bot01 suicided!
+[21:43:53] Bot01 suicided!
+[21:44:03] Bot01 suicided!
+[21:44:13] Bot01 suicided!
+[21:44:23] Bot01 suicided!
+[21:44:33] Bot01 suicided!
+[21:44:43] Bot01 suicided!
+[21:44:53] Bot01 suicided!
+[21:45:03] Bot01 suicided!
+[21:45:13] Bot01 suicided!
+[21:45:23] Bot01 suicided!
+[21:45:33] Bot01 suicided!
+[21:45:43] Bot01 suicided!
+[21:45:53] Bot01 suicided!
+[21:46:03] Bot01 suicided!
+[21:46:13] Bot01 suicided!
+[21:46:23] Bot01 suicided!
+[21:46:33] Bot01 suicided!
+[21:46:43] Bot01 suicided!
+[21:46:53] Bot01 suicided!
+[21:47:03] Bot01 suicided!
+[21:47:13] Bot01 suicided!
+[21:47:23] Bot01 suicided!
+[21:47:33] Bot01 suicided!
+[21:47:43] Bot01 suicided!
+[21:47:53] Bot01 suicided!
+[21:48:03] Bot01 suicided!
+[21:48:13] Bot01 suicided!
+[21:48:23] Bot01 suicided!
+[21:48:33] Bot01 suicided!
+[21:48:43] Bot01 suicided!
+[21:48:53] Bot01 suicided!
+[21:49:03] Bot01 suicided!
+[21:49:13] Bot01 suicided!
+[21:49:23] Bot01 suicided!
+[21:49:33] Bot01 suicided!
+[21:49:43] Bot01 suicided!
+[21:49:53] Bot01 suicided!
+[21:50:03] Bot01 suicided!
+[21:50:13] Bot01 suicided!
+[21:50:23] Bot01 suicided!
+[21:50:33] Bot01 suicided!
+[21:50:43] Bot01 suicided!
+[21:50:53] Bot01 suicided!
+[21:51:03] Bot01 suicided!
+[21:51:13] Bot01 suicided!
+[21:51:23] Bot01 suicided!
+[21:51:33] Bot01 suicided!
+[21:51:43] Bot01 suicided!
+[21:51:53] Bot01 suicided!
+[21:52:03] Bot01 suicided!
+[21:52:13] Bot01 suicided!
+[21:52:23] Bot01 suicided!
+[21:52:33] Bot01 suicided!
+[21:52:43] Bot01 suicided!
+[21:52:53] Bot01 suicided!
+[21:53:03] Bot01 suicided!
+[21:53:13] Bot01 suicided!
+[21:53:23] Bot01 suicided!
+[21:53:33] Bot01 suicided!
+[21:53:43] Bot01 suicided!
+[21:53:53] Bot01 suicided!
+[21:54:03] Bot01 suicided!
+[21:54:13] Bot01 suicided!
+[21:54:23] Bot01 suicided!
+[21:54:33] Bot01 suicided!
+[21:54:43] Bot01 suicided!
+[21:54:53] Bot01 suicided!
+[21:55:03] Bot01 suicided!
+[21:55:13] Bot01 suicided!
+[21:55:23] Bot01 suicided!
+[21:55:33] Bot01 suicided!
+[21:55:43] Bot01 suicided!
+[21:55:53] Bot01 suicided!
+[21:56:03] Bot01 suicided!
+[21:56:13] Bot01 suicided!
+[21:56:23] Bot01 suicided!
+[21:56:33] Bot01 suicided!
+[21:56:43] Bot01 suicided!
+[21:56:53] Bot01 suicided!
+[21:57:03] Bot01 suicided!
+[21:57:13] Bot01 suicided!
+[21:57:23] Bot01 suicided!
+[21:57:33] Bot01 suicided!
+[21:57:43] Bot01 suicided!
+[21:57:49] Emmett was killed by trigger_hurt
+[21:58:13] Bot01 suicided!
+[21:58:37] Emmett granted god mode upon Bot01
+[21:58:38] Emmett granted god mode upon Themself
+[21:58:43] Bot01 suicided!
+[21:58:56] Emmett revoked god mode from Themself
+[21:58:56] Emmett was killed by trigger_hurt
+[21:58:58] Emmett granted god mode upon Themself
+[21:59:00] Emmett granted god mode upon Themself
+[21:59:13] Bot01 suicided!
+[21:59:43] Bot01 suicided!
+[21:59:49] Emmett granted god mode upon Themself
+[22:00:13] Bot01 suicided!
+[22:00:22] Emmett<STEAM_0:1:41660292> spawned sent tierp_printer
+[22:00:25] Emmett<STEAM_0:1:41660292> spawned sent tierp_printer
+[22:00:43] Bot01 suicided!
+[22:01:08] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:01:08] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:01:13] Bot01 suicided!
+[22:01:21] Bot01 suicided!
+[22:01:40] Bot01 suicided!
+[22:01:52] Bot01 suicided!
+[22:01:58] Bot01 suicided!
+[22:02:02] Bot01 suicided!
+[22:02:32] Bot01 suicided!
+[22:03:02] Bot01 suicided!
+[22:03:32] Bot01 suicided!
+[22:04:02] Bot01 suicided!
+[22:04:32] Bot01 suicided!
+[22:05:02] Bot01 suicided!
+[22:05:32] Bot01 suicided!
+[22:06:02] Bot01 suicided!
+[22:06:32] Bot01 suicided!
+[22:07:02] Bot01 suicided!
+[22:07:32] Bot01 suicided!
+[22:07:39] Emmett granted god mode upon Themself
+[22:07:46] Emmett stripped weapons from Themself
+[22:08:03] Bot01 suicided!
+[22:08:33] Bot01 suicided!
+[22:09:03] Bot01 suicided!
+[22:09:33] Bot01 suicided!
+[22:10:03] Bot01 suicided!
+[22:10:33] Bot01 suicided!
+[22:11:03] Bot01 suicided!
+[22:11:33] Bot01 suicided!
+[22:12:03] Bot01 suicided!
+[22:12:33] Bot01 suicided!
+[22:13:03] Bot01 suicided!
+[22:13:23] Emmett was killed by trigger_hurt
+[22:13:33] Bot01 suicided!
+[22:13:34] Emmett granted god mode upon Themself
+[22:14:03] Bot01 suicided!
+[22:14:33] Bot01 suicided!
+[22:15:03] Bot01 suicided!
+[22:15:33] Bot01 suicided!
+[22:16:03] Bot01 suicided!
+[22:16:33] Bot01 suicided!
+[22:17:03] Bot01 suicided!
+[22:17:33] Bot01 suicided!
+[22:18:03] Bot01 suicided!
+[22:18:33] Bot01 suicided!
+[22:19:03] Bot01 suicided!
+[22:19:33] Bot01 suicided!
+[22:20:03] Bot01 suicided!
+[22:20:33] Bot01 suicided!
+[22:21:03] Bot01 suicided!
+[22:21:33] Bot01 suicided!
+[22:22:03] Bot01 suicided!
+[22:22:33] Bot01 suicided!
+[22:23:03] Bot01 suicided!
+[22:23:33] Bot01 suicided!
+[22:24:03] Bot01 suicided!
+[22:24:33] Bot01 suicided!
+[22:25:03] Bot01 suicided!
+[22:25:33] Bot01 suicided!
+[22:26:03] Bot01 suicided!
+[22:26:33] Bot01 suicided!
+[22:27:03] Bot01 suicided!
+[22:27:33] Bot01 suicided!
+[22:28:03] Bot01 suicided!
+[22:28:33] Bot01 suicided!
+[22:29:03] Bot01 suicided!
+[22:29:33] Bot01 suicided!
+[22:30:04] Bot01 suicided!
+[22:30:34] Bot01 suicided!
+[22:31:04] Bot01 suicided!
+[22:31:34] Bot01 suicided!
+[22:32:04] Bot01 suicided!
+[22:32:34] Bot01 suicided!
+[22:33:04] Bot01 suicided!
+[22:33:34] Bot01 suicided!
+[22:34:04] Bot01 suicided!
+[22:34:34] Bot01 suicided!
+[22:35:04] Bot01 suicided!
+[22:35:34] Bot01 suicided!
+[22:36:03] Client "Fat Gay" connected.
+[22:36:04] Bot01 suicided!
+[22:36:34] Bot01 suicided!
+[22:37:04] Bot01 suicided!
+[22:37:34] Bot01 suicided!
+[22:37:43] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 100 seconds).
+[22:38:30] Fat Gay: !report
+[22:42:03] Fat Gay: !reoirt
+[22:42:04] Emmett: !report
+[22:42:07] Fat Gay: !report
+[22:42:23] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:42:23] Bot01 suicided!
+[22:42:53] Bot01 suicided!
+[22:43:23] Bot01 suicided!
+[22:43:53] Bot01 suicided!
+[22:44:23] Bot01 suicided!
+[22:44:50] Emmett: !report
+[22:44:54] Bot01 suicided!
+[22:45:24] Bot01 suicided!
+[22:45:54] Bot01 suicided!
+[22:46:24] Bot01 suicided!
+[22:46:39] Emmett: !report
+[22:46:53] Bot01 suicided!
+[22:47:03] Bot01 suicided!
+[22:47:13] Bot01 suicided!
+[22:47:23] Bot01 suicided!
+[22:47:33] Bot01 suicided!
+[22:47:43] Bot01 suicided!
+[22:47:53] Bot01 suicided!
+[22:48:03] Bot01 suicided!
+[22:48:13] Bot01 suicided!
+[22:48:23] Bot01 suicided!
+[22:48:35] Bot01 suicided!
+[22:48:45] Bot01 suicided!
+[22:48:55] Bot01 suicided!
+[22:49:05] Bot01 suicided!
+[22:49:15] Bot01 suicided!
+[22:49:16] Emmett suicided!
+[22:49:16] Emmett exploded Themself
+[22:49:17] Emmett suicided!
+[22:49:17] Emmett exploded Themself
+[22:49:23] Bot01 suicided!
+[22:49:23] Emmett exploded Bot01
+[22:49:27] Bot01 suicided!
+[22:49:27] Emmett exploded Bot01
+[22:49:29] Bot01 suicided!
+[22:49:29] Emmett exploded Bot01
+[22:49:29] Bot01 suicided!
+[22:49:29] Emmett exploded Bot01
+[22:49:29] Bot01 suicided!
+[22:49:29] Emmett exploded Bot01
+[22:49:30] Bot01 suicided!
+[22:49:30] Emmett exploded Bot01
+[22:49:30] Bot01 suicided!
+[22:49:30] Emmett exploded Bot01
+[22:49:30] Bot01 suicided!
+[22:49:30] Emmett exploded Bot01
+[22:49:31] Bot01 suicided!
+[22:49:31] Emmett exploded Bot01
+[22:49:31] Bot01 suicided!
+[22:49:31] Emmett exploded Bot01
+[22:49:31] Bot01 suicided!
+[22:49:31] Emmett exploded Bot01
+[22:49:32] Bot01 suicided!
+[22:49:32] Emmett exploded Bot01
+[22:49:32] Bot01 suicided!
+[22:49:32] Emmett exploded Bot01
+[22:49:32] Bot01 suicided!
+[22:49:32] Emmett exploded Bot01
+[22:49:33] Bot01 suicided!
+[22:49:33] Emmett exploded Bot01
+[22:49:33] Bot01 suicided!
+[22:49:33] Emmett exploded Bot01
+[22:49:33] Bot01 suicided!
+[22:49:33] Emmett exploded Bot01
+[22:49:34] Bot01 suicided!
+[22:49:34] Emmett exploded Bot01
+[22:50:04] Bot01 suicided!
+[22:50:34] Bot01 suicided!
+[22:51:04] Bot01 suicided!
+[22:51:34] Bot01 suicided!
+[22:52:04] Bot01 suicided!
+[22:52:34] Bot01 suicided!
+[22:53:04] Bot01 suicided!
+[22:53:34] Bot01 suicided!
+[22:54:04] Bot01 suicided!
+[22:54:34] Bot01 suicided!
+[22:55:04] Bot01 suicided!
+[22:55:34] Bot01 suicided!
+[22:56:04] Bot01 suicided!
+[22:56:34] Bot01 suicided!
+[22:57:04] Bot01 suicided!
+[22:57:34] Bot01 suicided!
+[22:58:04] Bot01 suicided!
+[22:58:34] Bot01 suicided!
+[22:59:04] Bot01 suicided!
+[22:59:34] Bot01 suicided!
+[23:00:04] Bot01 suicided!
+[23:00:34] Bot01 suicided!
+[23:01:04] Bot01 suicided!
+[23:01:34] Bot01 suicided!
+[23:02:04] Bot01 suicided!
+[23:02:34] Bot01 suicided!
+[23:03:04] Bot01 suicided!
+[23:03:34] Bot01 suicided!
+[23:04:04] Bot01 suicided!
+[23:04:34] Bot01 suicided!
+[23:05:04] Bot01 suicided!
+[23:05:34] Bot01 suicided!
+[23:06:04] Bot01 suicided!
+[23:06:34] Bot01 suicided!
+[23:07:04] Bot01 suicided!
+[23:07:34] Bot01 suicided!
+[23:08:04] Bot01 suicided!
+[23:08:34] Bot01 suicided!
+[23:09:04] Bot01 suicided!
+[23:09:34] Bot01 suicided!
+[23:10:04] Bot01 suicided!
+[23:10:34] Bot01 suicided!
+[23:11:04] Bot01 suicided!
+[23:11:34] Bot01 suicided!
+[23:12:04] Bot01 suicided!
+[23:12:34] Bot01 suicided!
+[23:13:04] Bot01 suicided!
+[23:13:34] Bot01 suicided!
+[23:14:04] Bot01 suicided!
+[23:14:34] Bot01 suicided!
+[23:15:04] Bot01 suicided!
+[23:15:34] Bot01 suicided!
+[23:16:04] Bot01 suicided!
+[23:16:34] Bot01 suicided!
+[23:17:04] Bot01 suicided!
+[23:17:34] Bot01 suicided!
+[23:18:04] Bot01 suicided!
+[23:18:34] Bot01 suicided!
+[23:19:04] Bot01 suicided!
+[23:19:35] Bot01 suicided!
+[23:19:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m1911
+[23:20:05] Bot01 suicided!
+[23:20:35] Bot01 suicided!
+[23:21:05] Bot01 suicided!
+[23:21:35] Bot01 suicided!
+[23:22:05] Bot01 suicided!
+[23:22:35] Bot01 suicided!
+[23:22:39] Bot01 suicided!
+[23:22:45] Bot01 suicided!
+[23:22:55] Bot01 suicided!
+[23:23:05] Bot01 suicided!
+[23:23:15] Bot01 suicided!
+[23:23:25] Bot01 suicided!
+[23:23:35] Bot01 suicided!
+[23:23:45] Bot01 suicided!
+[23:23:55] Bot01 suicided!
+[23:24:05] Bot01 suicided!
+[23:24:15] Bot01 suicided!
+[23:24:25] Bot01 suicided!
+[23:24:35] Bot01 suicided!
+[23:24:45] Bot01 suicided!
+[23:24:55] Bot01 suicided!
+[23:25:05] Bot01 suicided!
+[23:25:15] Bot01 suicided!
+[23:25:25] Bot01 suicided!
+[23:25:35] Bot01 suicided!
+[23:25:45] Bot01 suicided!
+[23:25:55] Bot01 suicided!
+[23:26:05] Bot01 suicided!
+[23:26:15] Bot01 suicided!
+[23:26:25] Bot01 suicided!
+[23:26:35] Bot01 suicided!
+[23:26:45] Bot01 suicided!
+[23:26:55] Bot01 suicided!
+[23:27:03] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[23:27:03] Dropped "Bot01" from server<BOT>

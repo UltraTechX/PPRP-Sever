@@ -1,0 +1,25 @@
+Sun Sep 30 01:33:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Sep 30 01:33:19 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 01:36:04 2018	Fat Gay was killed by Entity [2262][trigger_hurt] with a trigger_hurt
+Sun Sep 30 01:36:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:06:32 2018	Fat Gay was killed by Entity [2262][trigger_hurt] with a trigger_hurt
+Sun Sep 30 02:06:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:07:03 2018	Fat Gay was killed by Entity [2261][trigger_hurt] with a trigger_hurt
+Sun Sep 30 02:07:06 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:07:27 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Sep 30 02:07:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:09:15 2018	Fat Gay was killed by Entity [3377][trigger_hurt] with a trigger_hurt
+Sun Sep 30 02:09:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:10:37 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Sep 30 02:10:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:10:58 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Sep 30 02:11:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:11:25 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Sep 30 02:11:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 02:12:46 2018	Fat Gay was killed by Entity [1956][func_rotating] with a func_rotating
+Sun Sep 30 02:12:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 03:10:47 2018	Fat Gay was killed by Entity [4888][trigger_hurt] with a trigger_hurt
+Sun Sep 30 03:10:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 03:10:55 2018	Fat Gay was killed by Entity [4901][trigger_hurt] with a trigger_hurt
+Sun Sep 30 03:10:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 30 03:11:02 2018	Fat Gay was killed by Entity [4901][trigger_hurt] with a trigger_hurt

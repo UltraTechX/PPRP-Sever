@@ -1,0 +1,185 @@
+Sat Sep 22 03:26:41 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Sep 22 03:26:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:28:10 2018	Bot01 (BOT) has joined the game
+Sat Sep 22 03:28:10 2018	Bot01 (BOT) spawned
+Sat Sep 22 03:30:03 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:32:38 2018	Emmett was killed by Entity [1785][func_movelinear] with a func_movelinear
+Sat Sep 22 03:32:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:33:18 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:34:12 2018	Emmett was killed by Entity [588][zmlab_combiner] with a zmlab_combiner
+Sat Sep 22 03:34:12 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:38:10 2018	Emmett was killed by Entity [588][zmlab_combiner] with a zmlab_combiner
+Sat Sep 22 03:38:12 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:43:39 2018	Emmett was killed by Entity [588][zmlab_combiner] with a zmlab_combiner
+Sat Sep 22 03:43:40 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:43:57 2018	Emmett was killed by Entity [588][zmlab_combiner] with a zmlab_combiner
+Sat Sep 22 03:43:58 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 03:47:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Sep 22 03:47:06 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 03:49:13 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 03:52:56 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:52:57 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:57 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:58 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:59 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:59 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:59 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth_baggy
+Sat Sep 22 03:52:59 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:00 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:00 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:00 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:00 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:01 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:01 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:01 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:01 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:02 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:03 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:03 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:03 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:03 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:03 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:04 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:04 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:04 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:53:04 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:32 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:33 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:33 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:33 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:34 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:34 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:34 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:55:35 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 03:56:55 2018	Emmett (STEAM_0:1:41660292): !goto f
+Sat Sep 22 03:58:02 2018	Bot01 was killed by Himself with a suicide trick
+Sat Sep 22 03:58:32 2018	Bot01 (BOT) spawned
+Sat Sep 22 03:58:32 2018	Bot01 was killed by Himself with a suicide trick
+Sat Sep 22 03:58:33 2018	Bot01 was killed by Himself with a suicide trick
+Sat Sep 22 03:58:33 2018	Bot01 was killed by Himself with a suicide trick
+Sat Sep 22 03:59:03 2018	Bot01 (BOT) spawned
+Sat Sep 22 04:00:13 2018	Bot01 (BOT) disconnected
+Sat Sep 22 04:00:31 2018	Fat Gay (STEAM_0:1:218173703): !explode em
+Sat Sep 22 04:00:31 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 04:00:42 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sat Sep 22 04:01:49 2018	Emmett was killed by Himself with a suicide trick
+Sat Sep 22 04:01:51 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 04:02:47 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Sep 22 04:02:47 2018	Fat Gay (STEAM_0:1:218173703): !explode fat
+Sat Sep 22 04:02:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Sep 22 04:03:09 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:09 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:10 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:11 2018	Emmett (STEAM_0:1:41660292) spawned SENT zmlab_meth
+Sat Sep 22 04:03:50 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Sep 22 04:03:50 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 04:09:24 2018	Emmett was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Sep 22 04:09:25 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 04:18:49 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Sep 22 04:23:52 2018	Bot02 (BOT) has joined the game
+Sat Sep 22 04:23:52 2018	Bot02 (BOT) spawned
+Sat Sep 22 04:24:10 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_vortigaunt
+Sat Sep 22 04:24:11 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:19 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:35 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:35 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:36 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:36 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:36 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:36 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:37 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:37 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:37 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:37 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:38 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:40 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:40 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:40 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:40 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:40 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:41 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:41 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:41 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:41 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:41 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:24:41 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:17 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:18 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:19 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:19 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:19 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:19 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:20 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:22 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:22 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_breen
+Sat Sep 22 04:25:48 2018	Emmett was killed by Himself with a suicide trick
+Sat Sep 22 04:25:51 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 04:31:21 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_citizen
+Sat Sep 22 04:31:33 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_citizen
+Sat Sep 22 04:31:39 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_stalker
+Sat Sep 22 04:31:44 2018	Emmett (STEAM_0:1:41660292) spawned NPC npc_cscanner
+Sat Sep 22 04:33:59 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sat Sep 22 04:34:00 2018	Emmett (STEAM_0:1:41660292) spawned
+Sat Sep 22 04:34:02 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sat Sep 22 04:34:02 2018	Bot02 (BOT) disconnected

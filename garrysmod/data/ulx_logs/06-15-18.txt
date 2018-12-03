@@ -1,0 +1,123 @@
+<Logging continued from "data/ulx_logs/06-14-18.txt">
+[00:26:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g36c
+[00:27:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g3a3
+[00:27:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g36c
+[00:29:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ump45
+[00:29:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mp5
+[00:29:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l115
+[00:30:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l85a2
+[00:30:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l85a2
+[00:30:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m14
+[00:30:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m249_official
+[00:31:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m3super90
+[00:33:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_vss
+[00:43:01] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/characters/hostage_01.mdl
+[00:43:01] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/characters/hostage_02.mdl
+[00:43:01] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/characters/hostage_03.mdl
+[00:43:02] Fat Gay<STEAM_0:1:218173703> spawned ragdoll models/characters/hostage_04.mdl
+[00:45:23] Fat Gay<STEAM_0:1:218173703> spawned model models/black_partyhat/black_partyhat.mdl
+[00:45:24] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[00:45:24] Fat Gay<STEAM_0:1:218173703> spawned model models/green_partyhat/green_partyhat.mdl
+[00:45:33] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[00:45:33] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[00:45:33] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[00:45:33] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[00:45:33] Fat Gay<STEAM_0:1:218173703> spawned model models/blue_partyhat/blue_partyhat.mdl
+[00:49:47] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:49:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:04] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:14] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:14] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:50:27] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:50:34] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:50:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:50:53] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:50:53] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:51:08] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:51:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:51:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:51:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:51:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:51:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:52:02] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:52:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:52:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep staff_lockpick
+[00:52:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:53:03] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[00:53:03] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_frag_grenade
+[00:54:02] Fat Gay suicided!
+[00:58:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m14
+[00:59:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l85a2
+[00:59:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ump45
+[00:59:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mp5
+[00:59:30] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g36c
+[00:59:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_g3a3
+[00:59:45] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_fiveseven
+[00:59:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ar15
+[01:10:10] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[01:19:18] New map: rp_powerplant_v2b2
+[01:20:07] Client "Fat Gay" connected.
+[01:20:56] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[01:24:03] Fat Gay: !menu
+[01:25:35] Client "♕Weingott♕" connected.
+[01:27:05] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 90 seconds).
+[01:27:05] (Console) added ♕Weingott♕ to group PACUser
+[01:27:57] Dropped "♕Weingott♕" from server<STEAM_0:1:86800123>
+[01:28:12] Client "♕Weingott♕" connected.
+[01:28:45] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 33 seconds).
+[01:28:54] Fat Gay: !vip wei
+
+
+
+[01:30:41] New map: rp_powerplant_v2b2
+[01:30:49] Client "Fat Gay" connected.
+[01:31:29] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[01:32:05] Client "♕Weingott♕" connected.
+[01:32:42] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 37 seconds).
+[01:41:34] ♕Weingott♕: i dont have my mic
+[01:41:47] ♕Weingott♕: im just going to take some pics
+[01:42:05] ♕Weingott♕: ill be back 
+[01:45:01] ♕Weingott♕: !noclip
+[01:45:11] ♕Weingott♕: /ooc can you give me noclip
+[01:45:16] Fat Gay: /ooc sure
+[01:45:19] Fat Gay: !noclip
+[01:45:22] Fat Gay: !noclip we
+[01:45:38] Fat Gay: /ooc did that work?
+[01:45:41] ♕Weingott♕: /ooc yeah
+[01:45:49] ♕Weingott♕: // what did you all edit on the map?
+[01:46:06] Fat Gay: /ooc since last time? nothing yet, ive been working on just the server
+[01:46:19] Fat Gay: /ooc i do the map after I finish the server updates
+[01:46:27] ♕Weingott♕: // alright coo
+[01:46:35] ♕Weingott♕: // i'll be right back I gotta change something
+[01:46:56] Fat Gay: /ooc all thats left are donations, job revisions, and the redoing of info which is what youre screenshots are for
+[01:46:59] Fat Gay: /ooc ok
+[01:47:01] Dropped "♕Weingott♕" from server<STEAM_0:1:86800123>
+[01:47:49] Client "♕Weingott♕" connected.
+[01:48:33] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 44 seconds).
+[01:50:08] ♕Weingott♕: !noclip
+[01:50:31] Fat Gay: !noclip we
+[01:50:55] (Console) removed all access rights from ♕Weingott♕
+[01:50:55] (Console) added ♕Weingott♕ to group VIPPACUser
+[01:51:21] Fat Gay suicided!
+[01:51:28] Fat Gay: !spectate we
+[01:52:50] Fat Gay: !spectate we
+[01:56:00] Fat Gay: !menu
+[01:56:10] Fat Gay added ♕Weingott♕ to group Moderator
+[01:58:28] ♕Weingott♕: // its gonna blow
+[01:59:04] Fat Gay: !spectate we
+[01:59:31] Fat Gay: /ooc there fixed
+[01:59:34] Fat Gay: /advert good
+[01:59:38] Fat Gay: /comms night
+[01:59:56] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[02:04:11] Dropped "♕Weingott♕" from server<STEAM_0:1:86800123>
+[09:30:41] Client "Fat Gay" connected.
+[09:31:46] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 65 seconds).
+[09:53:51] Fat Gay suicided!
+[10:23:43] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+<Logging continued in "data/ulx_logs/06-17-18.txt">

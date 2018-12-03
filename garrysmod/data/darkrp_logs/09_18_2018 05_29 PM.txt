@@ -1,0 +1,19 @@
+Tue Sep 18 17:29:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Sep 18 17:29:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 17:29:42 2018	Dots (STEAM_0:1:72014148) has joined the game
+Tue Sep 18 17:29:42 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 17:58:25 2018	Fat Gay (STEAM_0:1:218173703): 
+Tue Sep 18 17:58:50 2018	Fat Gay (STEAM_0:1:218173703): 
+Tue Sep 18 18:02:53 2018	Bot01 (BOT) has joined the game
+Tue Sep 18 18:02:53 2018	Bot01 (BOT) spawned
+Tue Sep 18 18:08:23 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Sep 18 18:08:33 2018	CBRN COL Dots was killed by Himself with a suicide trick
+Tue Sep 18 18:08:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 18:09:03 2018	CBRN COL Dots (STEAM_0:1:72014148) spawned
+Tue Sep 18 18:21:56 2018	CBRN COL Dots (STEAM_0:1:72014148) disconnected
+Tue Sep 18 18:23:21 2018	Fat Gay was killed by Entity [582][sent_elegant_printer] with a sent_elegant_printer
+Tue Sep 18 18:23:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 18:24:41 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Sep 18 18:24:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Sep 18 18:25:05 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Sep 18 18:25:06 2018	Fat Gay (STEAM_0:1:218173703) spawned

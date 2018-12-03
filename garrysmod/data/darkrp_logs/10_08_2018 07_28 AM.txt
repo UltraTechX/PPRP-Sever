@@ -1,0 +1,391 @@
+Mon Oct  8 07:28:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 07:28:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 07:29:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 07:34:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADSWAT
+Mon Oct  8 07:34:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATSOLDIER
+Mon Oct  8 07:34:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATSNIPER
+Mon Oct  8 07:34:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATMEDIC
+Mon Oct  8 07:34:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATTRAINEE
+Mon Oct  8 07:34:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRN
+Mon Oct  8 07:35:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADCBRN
+Mon Oct  8 07:35:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNSOLDIER
+Mon Oct  8 07:36:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNSPECIALIST
+Mon Oct  8 07:36:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNSPECIAL
+Mon Oct  8 07:36:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNMEDIC
+Mon Oct  8 07:36:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRN
+Mon Oct  8 07:37:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CBRNUNIT
+Mon Oct  8 07:37:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TOURIST
+Mon Oct  8 07:37:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ADMIN
+Mon Oct  8 07:38:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn AOD
+Mon Oct  8 07:38:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn INSPECTOR
+Mon Oct  8 07:38:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TOURGUIDE
+Mon Oct  8 07:38:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn GUIDE
+Mon Oct  8 07:40:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 07:40:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 07:43:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CORESECURITY
+Mon Oct  8 07:43:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADSECURITY
+Mon Oct  8 07:43:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYMEDIC
+Mon Oct  8 07:43:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITY
+Mon Oct  8 07:44:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYPERSONNEL
+Mon Oct  8 07:44:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SECURITYTRAINEE
+Mon Oct  8 07:44:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTGRUNT
+Mon Oct  8 07:44:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORIST
+Mon Oct  8 07:44:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADTERRORIST
+Mon Oct  8 07:44:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTCHEF
+Mon Oct  8 07:45:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTMEDIC
+Mon Oct  8 07:45:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTSNIPER
+Mon Oct  8 07:45:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn TERRORISTTRAINEE
+Mon Oct  8 07:45:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn DIRECTOR
+Mon Oct  8 07:45:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc test
+Mon Oct  8 07:46:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADSWAT
+Mon Oct  8 07:46:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATMEDIC
+Mon Oct  8 07:46:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATSNIPER
+Mon Oct  8 07:46:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATSOLDIER
+Mon Oct  8 07:46:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATTRIANEE
+Mon Oct  8 07:46:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SWATTRAINEE
+Mon Oct  8 07:47:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ACTIVITYCOORDINATOR
+Mon Oct  8 07:48:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ACTIVITY
+Mon Oct  8 07:48:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ACTIVITYCOORD
+Mon Oct  8 07:48:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CORRUPTWORKER
+Mon Oct  8 07:48:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn ENGINEER
+Mon Oct  8 07:48:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn MANAGER
+Mon Oct  8 07:48:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn JANITOR
+Mon Oct  8 07:48:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn PLANTWORKER
+Mon Oct  8 07:48:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn WORKER
+Mon Oct  8 07:49:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn PROCORRUPTWORKER
+Mon Oct  8 07:49:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CHEF
+Mon Oct  8 07:49:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn GUIDE
+Mon Oct  8 07:49:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn INSPECTOR
+Mon Oct  8 07:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn businessman
+Mon Oct  8 07:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): setspawn BUSINESSMAN
+Mon Oct  8 07:50:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn BUSINESSMAN
+Mon Oct  8 07:50:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn BLACKMARKET
+Mon Oct  8 07:50:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEAVYWEAPONS
+Mon Oct  8 07:51:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn LIGHTWEAPONS
+Mon Oct  8 07:51:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPZOMBIE
+Mon Oct  8 07:51:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPRAVEN
+Mon Oct  8 07:51:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPFIR
+Mon Oct  8 07:51:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPFIRE
+Mon Oct  8 07:51:43 2018	Virryi (STEAM_0:1:82934475) has joined the game
+Mon Oct  8 07:51:43 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Mon Oct  8 07:51:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn RESEARCHERTRAINEE
+Mon Oct  8 07:52:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn RESEARCHER
+Mon Oct  8 07:52:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn HEADRESEARCHER
+Mon Oct  8 07:52:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn SCPHEADCRAB
+Mon Oct  8 07:53:48 2018	Jeremy Dormotes (STEAM_0:1:82934475): // ayy
+Mon Oct  8 07:54:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hey
+Mon Oct  8 07:54:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc so ill tp you
+Mon Oct  8 07:54:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring jerem
+Mon Oct  8 07:54:41 2018	Jeremy Dormotes (STEAM_0:1:82934475): oh
+Mon Oct  8 07:54:50 2018	Jeremy Dormotes (STEAM_0:1:82934475): both of those, or just this one
+Mon Oct  8 07:55:01 2018	Jeremy Dormotes (STEAM_0:1:82934475): true
+Mon Oct  8 07:55:15 2018	Jeremy Dormotes (STEAM_0:1:82934475): /looc it's an autoload
+Mon Oct  8 07:55:18 2018	Jeremy Dormotes (STEAM_0:1:82934475): forgot to hu
+Mon Oct  8 07:55:20 2018	Jeremy Dormotes (STEAM_0:1:82934475): take it off
+Mon Oct  8 07:55:26 2018	Jeremy Dormotes (STEAM_0:1:82934475): also got used to using looc, ignore that
+Mon Oct  8 07:55:47 2018	Jeremy Dormotes (STEAM_0:1:82934475): the what doors?
+Mon Oct  8 07:56:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring vir
+Mon Oct  8 07:56:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring jer
+Mon Oct  8 07:56:27 2018	Jeremy Dormotes (STEAM_0:1:82934475): // alright
+Mon Oct  8 07:56:29 2018	Jeremy Dormotes (STEAM_0:1:82934475): // got it
+Mon Oct  8 07:56:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc great
+Mon Oct  8 07:56:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im gonna probs finish the workshop stuff now
+Mon Oct  8 07:56:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc it will be 5 when i go to bed
+Mon Oct  8 07:57:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh and this stupid tag chat bs, idk where it came from
+Mon Oct  8 07:57:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i like to distinguish between different chat types
+Mon Oct  8 08:02:26 2018	Jeremy Dormotes (STEAM_0:1:82934475): // the core is perfect
+Mon Oct  8 08:02:31 2018	Jeremy Dormotes was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 08:02:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc thanks
+Mon Oct  8 08:02:35 2018	Jeremy Dormotes (STEAM_0:1:82934475): // i just got oof'd
+Mon Oct  8 08:02:39 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Mon Oct  8 08:02:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah it murders you if you go in it
+Mon Oct  8 08:03:24 2018	Mr Micspam Boi (STEAM_0:0:152459863) has joined the game
+Mon Oct  8 08:03:24 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Mon Oct  8 08:04:03 2018	Jeremy Dormotes (STEAM_0:1:82934475): // oh
+Mon Oct  8 08:04:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh a first timer
+Mon Oct  8 08:04:06 2018	Jeremy Dormotes (STEAM_0:1:82934475): // yee
+Mon Oct  8 08:04:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): // my friend
+Mon Oct  8 08:04:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im about to add LOOC
+Mon Oct  8 08:04:18 2018	Jeremy Dormotes (STEAM_0:1:82934475): // gr8
+Mon Oct  8 08:04:32 2018	Jeremy Dormotes (STEAM_0:1:82934475): // either way the map is nearly finished, onmapspawn the buttons lock
+Mon Oct  8 08:04:46 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Hey, ma fellow frend virryi told me about this server
+Mon Oct  8 08:04:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): // G'day mate
+Mon Oct  8 08:04:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc welcome!
+Mon Oct  8 08:04:59 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Yeah hi virryi
+Mon Oct  8 08:05:09 2018	Mr Micspam Boi (STEAM_0:0:152459863): // The spawn looks preety solid
+Mon Oct  8 08:05:16 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Oh that HUD i remember that HUD
+Mon Oct  8 08:05:21 2018	Jeremy Dormotes (STEAM_0:1:82934475): // Feel free to scroll through jobs, the map was custom-made by the owner.
+Mon Oct  8 08:05:30 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Yeah sure
+Mon Oct  8 08:05:40 2018	Jeremy Dormotes (STEAM_0:1:82934475): // lots of changes gonna come soon tho
+Mon Oct  8 08:05:43 2018	Jeremy Dormotes (STEAM_0:1:82934475): // to uh
+Mon Oct  8 08:05:44 2018	Jeremy Dormotes (STEAM_0:1:82934475): // jobs
+Mon Oct  8 08:05:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc looc is done
+Mon Oct  8 08:05:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): // to jobs and a lot of other stuff
+Mon Oct  8 08:05:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc wont apply until map restart tho
+Mon Oct  8 08:06:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill do that later
+Mon Oct  8 08:06:07 2018	Jeremy Dormotes (STEAM_0:1:82934475): // oh btw you should add something that distinguishes between ooc, looc, normal chat and group chat
+Mon Oct  8 08:06:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah its this stupid tag chat
+Mon Oct  8 08:06:20 2018	Jeremy Dormotes (STEAM_0:1:82934475): // [Owner] [Opi] Fat Gay: ill do that  it just looks like this no matter which way you speak
+Mon Oct  8 08:06:21 2018	Jeremy Dormotes (STEAM_0:1:82934475): // yeah
+Mon Oct  8 08:06:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk where it came from
+Mon Oct  8 08:06:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc trying to get rid of it
+Mon Oct  8 08:06:44 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Wow, you even have an terrorist job
+Mon Oct  8 08:06:47 2018	Jeremy Dormotes (STEAM_0:1:82934475): ye
+Mon Oct  8 08:06:48 2018	Jeremy Dormotes (STEAM_0:1:82934475): i know that
+Mon Oct  8 08:06:50 2018	Jeremy Dormotes (STEAM_0:1:82934475): // yes
+Mon Oct  8 08:06:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): OH GOD DAMN 
+Mon Oct  8 08:06:57 2018	Jeremy Dormotes (STEAM_0:1:82934475): yeah
+Mon Oct  8 08:07:00 2018	Jeremy Dormotes (STEAM_0:1:82934475): yeah 
+Mon Oct  8 08:07:00 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Whats the exact job of them?
+Mon Oct  8 08:07:02 2018	Jeremy Dormotes (STEAM_0:1:82934475): o
+Mon Oct  8 08:07:05 2018	Jeremy Dormotes (STEAM_0:1:82934475): great that you can't spam it
+Mon Oct  8 08:07:05 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Like you assoult the facility
+Mon Oct  8 08:07:08 2018	Mr Micspam Boi (STEAM_0:0:152459863): // ?
+Mon Oct  8 08:07:16 2018	Jeremy Dormotes (STEAM_0:1:82934475): but uh it gets tiring after a while to hear dr breen
+Mon Oct  8 08:07:20 2018	Jeremy Dormotes (STEAM_0:1:82934475): screaming no
+Mon Oct  8 08:07:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yes
+Mon Oct  8 08:07:23 2018	Jeremy Dormotes (STEAM_0:1:82934475): everytime you say no
+Mon Oct  8 08:07:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hello
+Mon Oct  8 08:07:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): hi
+Mon Oct  8 08:07:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cheese
+Mon Oct  8 08:07:35 2018	Jeremy Dormotes (STEAM_0:1:82934475): cheesre
+Mon Oct  8 08:07:36 2018	Jeremy Dormotes (STEAM_0:1:82934475): cheese
+Mon Oct  8 08:07:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): i forget all of them
+Mon Oct  8 08:07:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): run
+Mon Oct  8 08:07:47 2018	Jeremy Dormotes (STEAM_0:1:82934475): run
+Mon Oct  8 08:07:48 2018	Jeremy Dormotes (STEAM_0:1:82934475): cps
+Mon Oct  8 08:07:50 2018	Jeremy Dormotes (STEAM_0:1:82934475): cps
+Mon Oct  8 08:07:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): cps
+Mon Oct  8 08:07:51 2018	Jeremy Dormotes (STEAM_0:1:82934475): cps
+Mon Oct  8 08:07:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): cps
+Mon Oct  8 08:08:05 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Mon Oct  8 08:08:06 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned NPC npc_metropolice
+Mon Oct  8 08:08:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): cps
+Mon Oct  8 08:08:15 2018	Mr Micspam Boi (STEAM_0:0:152459863): /looc Wow
+Mon Oct  8 08:08:18 2018	Mr Micspam Boi (STEAM_0:0:152459863): /looc Amzing
+Mon Oct  8 08:08:23 2018	Jeremy Dormotes (STEAM_0:1:82934475): looc gonna be added soon
+Mon Oct  8 08:08:28 2018	Mr Micspam Boi (STEAM_0:0:152459863): Oh okay 
+Mon Oct  8 08:08:29 2018	Jeremy Dormotes (STEAM_0:1:82934475): we even got a tram
+Mon Oct  8 08:08:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ye
+Mon Oct  8 08:08:34 2018	Mr Micspam Boi (STEAM_0:0:152459863): You knoiw
+Mon Oct  8 08:08:38 2018	Mr Micspam Boi (STEAM_0:0:152459863): It kinda looks preety stiff
+Mon Oct  8 08:08:39 2018	Jeremy Dormotes (STEAM_0:1:82934475): oh btw
+Mon Oct  8 08:08:44 2018	Jeremy Dormotes (STEAM_0:1:82934475): extended properties are disabled kinda
+Mon Oct  8 08:08:46 2018	Jeremy Dormotes (STEAM_0:1:82934475): most of them are
+Mon Oct  8 08:08:54 2018	Jeremy Dormotes (STEAM_0:1:82934475): so uh yeah
+Mon Oct  8 08:08:55 2018	Mr Micspam Boi (STEAM_0:0:152459863): Does it have Vfire?
+Mon Oct  8 08:08:58 2018	Jeremy Dormotes (STEAM_0:1:82934475): enable em, can be useful for idfk
+Mon Oct  8 08:08:58 2018	Mr Micspam Boi (STEAM_0:0:152459863): Would be awesome for meltdowns
+Mon Oct  8 08:09:04 2018	Mr Micspam Boi (STEAM_0:0:152459863): Virryi told me that there are automatic meltdowns
+Mon Oct  8 08:09:09 2018	Jeremy Dormotes (STEAM_0:1:82934475): yeah
+Mon Oct  8 08:09:13 2018	Jeremy Dormotes (STEAM_0:1:82934475): you just overload this shit
+Mon Oct  8 08:09:14 2018	Jeremy Dormotes (STEAM_0:1:82934475): ez
+Mon Oct  8 08:09:19 2018	Mr Micspam Boi (STEAM_0:0:152459863): Wow
+Mon Oct  8 08:09:23 2018	Mr Micspam Boi (STEAM_0:0:152459863): Minges could abuse this tho
+Mon Oct  8 08:09:32 2018	Jeremy Dormotes (STEAM_0:1:82934475): enable all lasers in the core room and shit, disable cooling, etc. etc.
+Mon Oct  8 08:09:36 2018	Mr Micspam Boi (STEAM_0:0:152459863): But then theyll get beaned probably
+Mon Oct  8 08:09:40 2018	Jeremy Dormotes (STEAM_0:1:82934475): yeet
+Mon Oct  8 08:09:43 2018	Jeremy Dormotes (STEAM_0:1:82934475): made by yours truly
+Mon Oct  8 08:09:50 2018	Mr Micspam Boi (STEAM_0:0:152459863): You made this virryi?
+Mon Oct  8 08:09:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): no
+Mon Oct  8 08:09:58 2018	Jeremy Dormotes (STEAM_0:1:82934475): the patch is made by me soon tho
+Mon Oct  8 08:10:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): i'm nearly done with the update and i'll give it to fat gay
+Mon Oct  8 08:10:26 2018	Mr Micspam Boi (STEAM_0:0:152459863): Ah this addon
+Mon Oct  8 08:10:30 2018	Mr Micspam Boi (STEAM_0:0:152459863): Yeah
+Mon Oct  8 08:10:58 2018	Mr Micspam Boi (STEAM_0:0:152459863): My god
+Mon Oct  8 08:11:00 2018	Mr Micspam Boi (STEAM_0:0:152459863): Excellent
+Mon Oct  8 08:11:10 2018	Mr Micspam Boi (STEAM_0:0:152459863): Im suprised that on launch this server has so many jobs
+Mon Oct  8 08:11:27 2018	Jeremy Dormotes (STEAM_0:1:82934475): this is important
+Mon Oct  8 08:11:28 2018	Jeremy Dormotes (STEAM_0:1:82934475): btw
+Mon Oct  8 08:11:37 2018	Jeremy Dormotes (STEAM_0:1:82934475): this code actually works in emergencies
+Mon Oct  8 08:11:42 2018	Mr Micspam Boi (STEAM_0:0:152459863): Cool
+Mon Oct  8 08:11:45 2018	Mr Micspam Boi (STEAM_0:0:152459863): Veri nice
+Mon Oct  8 08:11:57 2018	Mr Micspam Boi (STEAM_0:0:152459863): Is this voice acted by you or is this ripped?
+Mon Oct  8 08:12:04 2018	Jeremy Dormotes (STEAM_0:1:82934475): it was voice acted by a fellow admin
+Mon Oct  8 08:12:08 2018	Mr Micspam Boi (STEAM_0:0:152459863): Oh nice
+Mon Oct  8 08:12:15 2018	Jeremy Dormotes (STEAM_0:1:82934475): off to space i go
+Mon Oct  8 08:12:25 2018	Mr Micspam Boi was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 08:12:25 2018	Mr Micspam Boi (STEAM_0:0:152459863): // FUCC
+Mon Oct  8 08:12:29 2018	Mr Micspam Boi (STEAM_0:0:152459863): // MY MOUSE DISCONNECTED
+Mon Oct  8 08:12:31 2018	Mr Micspam Boi (STEAM_0:0:152459863): // F U C K 
+Mon Oct  8 08:12:31 2018	Jeremy Dormotes (STEAM_0:1:82934475): // oof
+Mon Oct  8 08:12:32 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Mon Oct  8 08:12:38 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Nuu
+Mon Oct  8 08:12:40 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:12:45 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Rest in ass
+Mon Oct  8 08:13:07 2018	Jeremy Dormotes (STEAM_0:1:82934475): yeah uh
+Mon Oct  8 08:13:09 2018	Jeremy Dormotes (STEAM_0:1:82934475): we're hanging over a void
+Mon Oct  8 08:13:12 2018	Jeremy Dormotes (STEAM_0:1:82934475): is this loss
+Mon Oct  8 08:13:33 2018	Jeremy Dormotes (STEAM_0:1:82934475): ah yes
+Mon Oct  8 08:13:34 2018	Jeremy Dormotes (STEAM_0:1:82934475): the rocke-
+Mon Oct  8 08:13:36 2018	Jeremy Dormotes (STEAM_0:1:82934475): oof
+Mon Oct  8 08:13:36 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Alot of this looks combine like-y
+Mon Oct  8 08:13:45 2018	Jeremy Dormotes (STEAM_0:1:82934475): // combine style is kinda industrial
+Mon Oct  8 08:13:48 2018	Jeremy Dormotes (STEAM_0:1:82934475): // so it does
+Mon Oct  8 08:13:50 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Thats true
+Mon Oct  8 08:13:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah
+Mon Oct  8 08:14:07 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Now lets check if the tram is stable
+Mon Oct  8 08:14:10 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Like 
+Mon Oct  8 08:14:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mic'
+Mon Oct  8 08:14:15 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned NPC npc_stalker
+Mon Oct  8 08:14:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mic
+Mon Oct  8 08:14:17 2018	Mr Micspam Boi (STEAM_0:0:152459863): // If you stand in it if you wont fall out
+Mon Oct  8 08:14:27 2018	Mr Micspam Boi (STEAM_0:0:152459863): Stalker overload
+Mon Oct  8 08:14:27 2018	Jeremy Dormotes (STEAM_0:1:82934475): off he goes
+Mon Oct  8 08:14:34 2018	Mr Micspam Boi (STEAM_0:0:152459863): Is this the core
+Mon Oct  8 08:14:38 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:14:40 2018	Mr Micspam Boi (STEAM_0:0:152459863): Reminds me of the citadel core
+Mon Oct  8 08:14:42 2018	Jeremy Dormotes (STEAM_0:1:82934475): let's melt it down
+Mon Oct  8 08:14:42 2018	Mr Micspam Boi (STEAM_0:0:152459863): Preety familiar
+Mon Oct  8 08:14:47 2018	Jeremy Dormotes (STEAM_0:1:82934475): to show him the features
+Mon Oct  8 08:15:08 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Sweet
+Mon Oct  8 08:15:32 2018	Jeremy Dormotes (STEAM_0:1:82934475): // In other news @realDonaldTrump have got pacuser
+Mon Oct  8 08:15:44 2018	Jeremy Dormotes (STEAM_0:1:82934475): we are ruining the core
+Mon Oct  8 08:15:44 2018	Jeremy Dormotes (STEAM_0:1:82934475): dab
+Mon Oct  8 08:15:46 2018	Mr Micspam Boi (STEAM_0:0:152459863): // This looks really nice
+Mon Oct  8 08:15:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah realdonaldtrump joined
+Mon Oct  8 08:15:53 2018	Jeremy Dormotes was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 08:15:55 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Mon Oct  8 08:16:01 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Does everyone get pacuser from the start or?
+Mon Oct  8 08:16:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i wish I had a recording of that
+Mon Oct  8 08:16:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah
+Mon Oct  8 08:16:06 2018	Jeremy Dormotes (STEAM_0:1:82934475): // this map has so much trigger_hurts
+Mon Oct  8 08:16:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc because so many out of bounds
+Mon Oct  8 08:16:16 2018	Jeremy Dormotes (STEAM_0:1:82934475): // ye
+Mon Oct  8 08:16:28 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Hmm... release quarantineee...
+Mon Oct  8 08:16:32 2018	Mr Micspam Boi (STEAM_0:0:152459863): // What does this button do
+Mon Oct  8 08:16:38 2018	Jeremy Dormotes (STEAM_0:1:82934475): // we're gonna explode this shit
+Mon Oct  8 08:16:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /only works when scp door has been closed
+Mon Oct  8 08:16:43 2018	Jeremy Dormotes was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 08:16:45 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Mon Oct  8 08:16:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mic
+Mon Oct  8 08:17:18 2018	Mr Micspam Boi (STEAM_0:0:152459863): Sweet
+Mon Oct  8 08:17:20 2018	Mr Micspam Boi (STEAM_0:0:152459863): Well made
+Mon Oct  8 08:17:26 2018	Mr Micspam Boi (STEAM_0:0:152459863): OH
+Mon Oct  8 08:17:28 2018	Mr Micspam Boi (STEAM_0:0:152459863): DID YOU SEE THAT STALKER
+Mon Oct  8 08:17:31 2018	Mr Micspam Boi (STEAM_0:0:152459863): HES STILL GOING
+Mon Oct  8 08:17:31 2018	Jeremy Dormotes (STEAM_0:1:82934475): !goto micspam
+Mon Oct  8 08:17:35 2018	Jeremy Dormotes (STEAM_0:1:82934475): ah
+Mon Oct  8 08:17:36 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:17:40 2018	Mr Micspam Boi (STEAM_0:0:152459863): This is very well made
+Mon Oct  8 08:17:43 2018	Jeremy Dormotes (STEAM_0:1:82934475): ye
+Mon Oct  8 08:17:45 2018	Jeremy Dormotes (STEAM_0:1:82934475): credit to fat gay
+Mon Oct  8 08:17:56 2018	Mr Micspam Boi (STEAM_0:0:152459863): This map is veri nice
+Mon Oct  8 08:17:59 2018	Mr Micspam Boi (STEAM_0:0:152459863): I must say
+Mon Oct  8 08:18:06 2018	Mr Micspam Boi (STEAM_0:0:152459863): Clearly you put alot of effort into it
+Mon Oct  8 08:18:09 2018	Mr Micspam Boi (STEAM_0:0:152459863): I mean
+Mon Oct  8 08:18:12 2018	Mr Micspam Boi (STEAM_0:0:152459863): Whoever made this map
+Mon Oct  8 08:18:16 2018	Mr Micspam Boi (STEAM_0:0:152459863): Which is fat gey the owner
+Mon Oct  8 08:18:22 2018	Jeremy Dormotes (STEAM_0:1:82934475): that guy made the map
+Mon Oct  8 08:18:25 2018	Mr Micspam Boi (STEAM_0:0:152459863): Wow
+Mon Oct  8 08:18:28 2018	Mr Micspam Boi (STEAM_0:0:152459863): Still
+Mon Oct  8 08:18:32 2018	Mr Micspam Boi (STEAM_0:0:152459863): This map is REALLY well made
+Mon Oct  8 08:18:34 2018	Mr Micspam Boi (STEAM_0:0:152459863): I like the core
+Mon Oct  8 08:18:37 2018	Mr Micspam Boi (STEAM_0:0:152459863): It looks great
+Mon Oct  8 08:18:43 2018	Jeremy Dormotes (STEAM_0:1:82934475): do you hear fapping
+Mon Oct  8 08:18:48 2018	Jeremy Dormotes (STEAM_0:1:82934475): rip
+Mon Oct  8 08:18:48 2018	Mr Micspam Boi (STEAM_0:0:152459863): If you could add some particles
+Mon Oct  8 08:18:52 2018	Mr Micspam Boi (STEAM_0:0:152459863): To it
+Mon Oct  8 08:19:03 2018	Mr Micspam Boi (STEAM_0:0:152459863): Nice
+Mon Oct  8 08:19:14 2018	Mr Micspam Boi (STEAM_0:0:152459863): Aw
+Mon Oct  8 08:19:28 2018	Mr Micspam Boi (STEAM_0:0:152459863): Fallout FM
+Mon Oct  8 08:19:32 2018	Mr Micspam Boi (STEAM_0:0:152459863): G R EA T
+Mon Oct  8 08:19:45 2018	Mr Micspam Boi (STEAM_0:0:152459863): Not a fan of that kind of music
+Mon Oct  8 08:20:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): it's not working?
+Mon Oct  8 08:20:14 2018	Mr Micspam Boi (STEAM_0:0:152459863): Fucc dis
+Mon Oct  8 08:20:14 2018	Jeremy Dormotes (STEAM_0:1:82934475): what?
+Mon Oct  8 08:20:19 2018	Jeremy Dormotes (STEAM_0:1:82934475): i can't hear jackshit
+Mon Oct  8 08:20:22 2018	Jeremy Dormotes (STEAM_0:1:82934475): what?
+Mon Oct  8 08:20:29 2018	Mr Micspam Boi (STEAM_0:0:152459863): How did you use this addon agian
+Mon Oct  8 08:20:39 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:20:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): chromium
+Mon Oct  8 08:20:59 2018	Mr Micspam Boi (STEAM_0:0:152459863): Chromium...
+Mon Oct  8 08:21:01 2018	Mr Micspam Boi (STEAM_0:0:152459863): Yeah heard of it
+Mon Oct  8 08:21:14 2018	Mr Micspam Boi (STEAM_0:0:152459863): Yeah
+Mon Oct  8 08:21:15 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:21:18 2018	Mr Micspam Boi (STEAM_0:0:152459863): Oi dat core boi getting hot
+Mon Oct  8 08:21:22 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:21:37 2018	Jeremy Dormotes (STEAM_0:1:82934475): your dad   -  internet
+Mon Oct  8 08:21:40 2018	Jeremy Dormotes (STEAM_0:1:82934475): pick only one
+Mon Oct  8 08:21:50 2018	Jeremy Dormotes (STEAM_0:1:82934475): 3k
+Mon Oct  8 08:21:52 2018	Jeremy Dormotes (STEAM_0:1:82934475): we're getting close
+Mon Oct  8 08:21:57 2018	Mr Micspam Boi (STEAM_0:0:152459863): And when it melt downs
+Mon Oct  8 08:21:58 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned NPC npc_cscanner
+Mon Oct  8 08:22:01 2018	Mr Micspam Boi (STEAM_0:0:152459863): Like to the max
+Mon Oct  8 08:22:17 2018	Mr Micspam Boi (STEAM_0:0:152459863): C U N T
+Mon Oct  8 08:22:24 2018	Jeremy Dormotes (STEAM_0:1:82934475): csgo knives
+Mon Oct  8 08:22:25 2018	Jeremy Dormotes (STEAM_0:1:82934475): why
+Mon Oct  8 08:22:34 2018	Mr Micspam Boi (STEAM_0:0:152459863): Because terrorists?
+Mon Oct  8 08:22:42 2018	Mr Micspam Boi (STEAM_0:0:152459863): Wait lemme checc out what sweps do you hab....
+Mon Oct  8 08:22:44 2018	Jeremy Dormotes (STEAM_0:1:82934475): you're our slave noiw
+Mon Oct  8 08:22:49 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Mon Oct  8 08:22:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring terr
+Mon Oct  8 08:22:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mic
+Mon Oct  8 08:22:58 2018	[Opi] Fat Gay was killed by Jeremy Dormotes with a csgo_gut_bluesteel
+Mon Oct  8 08:22:59 2018	Mr Micspam Boi (STEAM_0:0:152459863): Wow
+Mon Oct  8 08:23:00 2018	Mr Micspam Boi (STEAM_0:0:152459863): TFA?
+Mon Oct  8 08:23:03 2018	Jeremy Dormotes (STEAM_0:1:82934475): no
+Mon Oct  8 08:23:08 2018	Mr Micspam Boi (STEAM_0:0:152459863): CW?
+Mon Oct  8 08:23:11 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:23:12 2018	Jeremy Dormotes (STEAM_0:1:82934475): 1v1
+Mon Oct  8 08:23:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 08:23:16 2018	Mr Micspam Boi was killed by Jeremy Dormotes with a csgo_gut_bluesteel
+Mon Oct  8 08:23:18 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Mon Oct  8 08:23:20 2018	Jeremy Dormotes (STEAM_0:1:82934475): !bring micspam
+Mon Oct  8 08:23:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 08:23:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto jer
+Mon Oct  8 08:23:34 2018	Jeremy Dormotes (STEAM_0:1:82934475): /y HOLY FUCK
+Mon Oct  8 08:23:53 2018	Mr Micspam Boi (STEAM_0:0:152459863): wait
+Mon Oct  8 08:23:54 2018	Mr Micspam Boi (STEAM_0:0:152459863): youre
+Mon Oct  8 08:23:56 2018	Mr Micspam Boi (STEAM_0:0:152459863): C HE A TI NG
+Mon Oct  8 08:24:00 2018	Jeremy Dormotes (STEAM_0:1:82934475): /y i wanna vape
+Mon Oct  8 08:24:00 2018	Mr Micspam Boi (STEAM_0:0:152459863): YOU RECEIVE
+Mon Oct  8 08:24:00 2018	Mr Micspam Boi was killed by [Opi] Fat Gay with a weapon_l4d2_frying_pan
+Mon Oct  8 08:24:02 2018	Mr Micspam Boi (STEAM_0:0:152459863): NO D A MA G E
+Mon Oct  8 08:24:02 2018	Mr Micspam Boi (STEAM_0:0:152459863) spawned
+Mon Oct  8 08:24:06 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Tfw he was using g o d
+Mon Oct  8 08:24:07 2018	Jeremy Dormotes (STEAM_0:1:82934475): i want vape
+Mon Oct  8 08:24:12 2018	Jeremy Dormotes (STEAM_0:1:82934475): !bring micspam
+Mon Oct  8 08:24:14 2018	Jeremy Dormotes (STEAM_0:1:82934475): shop?
+Mon Oct  8 08:24:18 2018	Mr Micspam Boi (STEAM_0:0:152459863): Or not?
+Mon Oct  8 08:24:26 2018	Jeremy Dormotes (STEAM_0:1:82934475): yes
+Mon Oct  8 08:24:28 2018	Jeremy Dormotes (STEAM_0:1:82934475): YES
+Mon Oct  8 08:24:41 2018	Mr Micspam Boi (STEAM_0:0:152459863): Oh this is annoying vape
+Mon Oct  8 08:24:45 2018	Mr Micspam Boi (STEAM_0:0:152459863): I remember admins abusing this
+Mon Oct  8 08:24:53 2018	Mr Micspam Boi (STEAM_0:0:152459863): The smoke works as a smoke granade
+Mon Oct  8 08:25:35 2018	Jeremy Dormotes (STEAM_0:1:82934475): here is the escape rocket
+Mon Oct  8 08:25:54 2018	Mr Micspam Boi (STEAM_0:0:152459863): Lets see
+Mon Oct  8 08:25:58 2018	Jeremy Dormotes (STEAM_0:1:82934475): vape nation rocket
+Mon Oct  8 08:26:28 2018	Mr Micspam Boi (STEAM_0:0:152459863): LETS GOOO
+Mon Oct  8 08:26:30 2018	Mr Micspam Boi (STEAM_0:0:152459863): IGOOOOOOOOOOOOO
+Mon Oct  8 08:26:31 2018	Mr Micspam Boi (STEAM_0:0:152459863): I G O OO 
+Mon Oct  8 08:26:41 2018	Jeremy Dormotes (STEAM_0:1:82934475): holy fuck
+Mon Oct  8 08:26:43 2018	Jeremy Dormotes (STEAM_0:1:82934475): i can't see shit
+Mon Oct  8 08:26:45 2018	Jeremy Dormotes (STEAM_0:1:82934475): also lmao
+Mon Oct  8 08:26:48 2018	Mr Micspam Boi (STEAM_0:0:152459863): ITS ABOUT TO LAUNCH
+Mon Oct  8 08:26:53 2018	Jeremy Dormotes (STEAM_0:1:82934475): i can micspam too
+Mon Oct  8 08:28:08 2018	Jeremy Dormotes (STEAM_0:1:82934475): we're going to space boiz
+Mon Oct  8 08:28:37 2018	Mr Micspam Boi (STEAM_0:0:152459863): woaooaahah
+Mon Oct  8 08:28:51 2018	Jeremy Dormotes (STEAM_0:1:82934475): we're going to space boiz
+Mon Oct  8 08:29:43 2018	Mr Micspam Boi (STEAM_0:0:152459863): // Holy shit the escape sequenece is amazing
+Mon Oct  8 08:29:46 2018	Jeremy Dormotes (STEAM_0:1:82934475): VAPE NATIOON
+Mon Oct  8 08:29:50 2018	Mr Micspam Boi (STEAM_0:0:152459863): SPACE
+Mon Oct  8 08:29:51 2018	Mr Micspam Boi (STEAM_0:0:152459863): SPACEE?
+Mon Oct  8 08:29:53 2018	Mr Micspam Boi (STEAM_0:0:152459863): SPACEEEEEEEE
+Mon Oct  8 08:30:13 2018	[Opi] Fat Gay was killed by Jeremy Dormotes with a csgo_gut_bluesteel
+Mon Oct  8 08:30:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc F
+Mon Oct  8 08:30:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 08:30:19 2018	Jeremy Dormotes (STEAM_0:1:82934475): // f
+Mon Oct  8 08:30:19 2018	Jeremy Dormotes was killed by Mr Micspam Boi with a cw_l85a2
+Mon Oct  8 08:30:21 2018	Jeremy Dormotes (STEAM_0:1:82934475): // F
+Mon Oct  8 08:30:22 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Mon Oct  8 08:30:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mic
+Mon Oct  8 08:30:30 2018	Jeremy Dormotes (STEAM_0:1:82934475): !goto micspam
+Mon Oct  8 08:30:40 2018	Jeremy Dormotes (STEAM_0:1:82934475): muh vape
+Mon Oct  8 08:30:55 2018	Jeremy Dormotes (STEAM_0:1:82934475): vape machine gone
+Mon Oct  8 08:31:03 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Mon Oct  8 08:31:03 2018	Jeremy Dormotes was killed by [Opi] Fat Gay with a env_explosion
+Mon Oct  8 08:31:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 08:31:07 2018	Jeremy Dormotes (STEAM_0:1:82934475) spawned
+Mon Oct  8 08:31:11 2018	Jeremy Dormotes (STEAM_0:1:82934475): !goto micspam
+Mon Oct  8 08:31:12 2018	[Opi] Fat Gay was killed by Entity [4914][trigger_hurt] with a trigger_hurt

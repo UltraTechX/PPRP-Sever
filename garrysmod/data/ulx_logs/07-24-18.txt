@@ -1,0 +1,30 @@
+[05:05:39] New map: rp_powerplant_v2b2
+[15:57:50] Client "Valien" connected.
+[15:57:56] Client "Valien" connected.
+[16:00:15] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 139 seconds).
+[16:00:41] Emmett: !radio
+[16:32:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep staff_lockpick
+[16:32:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep pro_lockpick
+[16:32:27] Emmett<STEAM_0:1:41660292> spawned/gave himself swep pro_lockpick
+[16:32:27] Emmett<STEAM_0:1:41660292> spawned/gave himself swep staff_lockpick
+[16:39:08] Emmett was killed by trigger_hurt
+[16:39:40] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[20:40:30] Client "Valien" connected.
+[20:40:36] Client "Valien" connected.
+[20:42:58] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 142 seconds).
+[20:46:21] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[20:47:53] Emmett was killed by trigger_hurt
+[20:50:02] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[20:52:23] Emmett was killed by trigger_hurt
+[21:06:25] Client "Bot01" connected.
+[21:06:25] Client "Bot01" spawned in server <BOT> (took 57714 seconds).
+[21:06:41] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[21:06:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_golden
+[21:06:55] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_dragon
+[21:08:13] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_custom
+[21:08:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_golden
+[21:08:35] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape
+[21:08:36] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_medicinal
+[21:08:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_american
+[21:16:16] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[21:16:16] Dropped "Bot01" from server<BOT>

@@ -1,0 +1,668 @@
+[05:04:30] New map: rp_powerplant_v2b2
+[13:17:13] Client "[Opi] Fat Gay" connected.
+[13:18:46] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 93 seconds).
+[13:19:35] Fat Gay: !menu
+[13:19:45] Fat Gay removed all access rights from VietnamFlashbacks
+[13:20:02] Fat Gay added coldbolt25 to group Moderator
+[13:20:48] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[17:40:38] Client "[Opi] Fat Gay" connected.
+[17:42:08] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 90 seconds).
+[17:49:48] Fat Gay: !menu
+[17:49:54] Fat Gay added 2B-77 | Vix Archaser to group noaccess
+[17:50:00] Fat Gay removed all access rights from 2B-77 | Vix Archaser
+[17:50:10] Fat Gay: !blogs
+[17:51:10] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[18:00:32] Client "[Opi] Fat Gay" connected.
+[18:01:20] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 48 seconds).
+[18:18:05] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:18:10] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:18:15] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:18:17] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:18:22] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:18:27] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:18:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[18:18:43] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[18:18:48] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/various/subwoofer.mdl
+[18:18:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/maxofs2d/button_05.mdl
+[18:18:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/various/subwoofer.mdl
+[18:18:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/maxofs2d/button_05.mdl
+[18:19:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[18:19:55] Fat Gay<STEAM_0:1:218173703> used the tool wire_textscreen on maps/rp_powerplant_v2b2.bsp
+[18:20:08] Fat Gay<STEAM_0:1:218173703> used the tool wire_screen on maps/rp_powerplant_v2b2.bsp
+[18:20:18] Fat Gay<STEAM_0:1:218173703> used the tool wire_digitalscreen on maps/rp_powerplant_v2b2.bsp
+[18:21:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[18:21:03] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[18:21:14] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[18:21:31] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:21:34] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:21:36] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:21:36] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:21:36] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:21:37] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:21:38] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:21:38] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:21:38] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:21:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[18:21:55] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[18:21:56] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/bull/gates/capacitor_mini.mdl
+[18:22:06] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[18:22:06] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[18:22:06] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[18:22:13] Fat Gay<STEAM_0:1:218173703> used the tool wire_value on maps/rp_powerplant_v2b2.bsp
+[18:22:17] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:18] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:18] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:22:18] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:22:19] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[18:22:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[18:22:22] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:22] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:22] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:22] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:24] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:24] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:22:24] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:24] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons2/test.mdl
+[18:22:25] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[18:22:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[18:22:27] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:29] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[18:22:30] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:22:30] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[18:22:30] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:23:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_value on maps/rp_powerplant_v2b2.bsp
+[18:23:11] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[18:23:25] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:23:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:23:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[18:23:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[18:23:29] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:23:30] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:23:30] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:23:30] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[18:25:04] Fat Gay: !explode *
+[18:25:04] Fat Gay suicided!
+[18:25:04] Fat Gay exploded Themself
+[18:25:14] Fat Gay: !expllode *
+[18:25:17] Fat Gay: !explode *
+[18:25:17] Fat Gay suicided!
+[18:25:17] Fat Gay exploded Themself
+[18:25:19] Fat Gay: !explode *
+[18:25:19] Fat Gay suicided!
+[18:25:19] Fat Gay exploded Themself
+[18:25:21] Fat Gay: !explode *
+[18:25:21] Fat Gay suicided!
+[18:25:21] Fat Gay exploded Themself
+[18:25:23] Fat Gay:  !explode *
+[18:25:25] Fat Gay: !explode *
+[18:25:25] Fat Gay suicided!
+[18:25:25] Fat Gay exploded Themself
+[18:25:27] Fat Gay: !explode *
+[18:25:27] Fat Gay suicided!
+[18:25:27] Fat Gay exploded Themself
+[18:25:29] Fat Gay: !explode *
+[18:25:29] Fat Gay suicided!
+[18:25:29] Fat Gay exploded Themself
+[18:25:30] Fat Gay:   
+[18:25:31] Fat Gay: !explode *
+[18:25:31] Fat Gay suicided!
+[18:25:31] Fat Gay exploded Themself
+[18:25:33] Fat Gay: !explode *
+[18:25:33] Fat Gay suicided!
+[18:25:33] Fat Gay exploded Themself
+[18:25:35] Fat Gay: !explode *
+[18:25:35] Fat Gay suicided!
+[18:25:35] Fat Gay exploded Themself
+[18:25:37] Fat Gay: !explode *
+[18:25:37] Fat Gay suicided!
+[18:25:37] Fat Gay exploded Themself
+[18:25:39] Fat Gay: !explode *
+[18:25:39] Fat Gay suicided!
+[18:25:39] Fat Gay exploded Themself
+[18:25:52] Fat Gay: !fdance *
+[18:25:52] Fat Gay forced Themself to perform the 'Dance' act command.
+[18:26:02] Fat Gay: !fmuscle *
+[18:26:02] Fat Gay forced Themself to perform the 'Muscle' act command.
+[18:26:16] Fat Gay: !fdisagree *
+[18:26:16] Fat Gay forced Themself to perform the 'Disagree' act command.
+[18:26:24] Fat Gay: !fzombie *
+[18:26:24] Fat Gay forced Themself to perform the 'Zombie' act command.
+[18:26:41] Fat Gay<STEAM_0:1:218173703> spawned sent gmt_instrument_piano
+[18:34:32] Client "BRocha06" connected.
+[18:38:19] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[18:38:20] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[18:38:20] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[18:38:20] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[18:38:20] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[18:38:20] Fat Gay<STEAM_0:1:218173703> spawned sent sent_ball
+[18:40:44] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 372 seconds).
+[18:40:44] (Console) added power guy to group PACUser
+[18:41:38] Client "Bot01" connected.
+[18:41:38] Client "Bot01" spawned in server <BOT> (took 49090 seconds).
+[18:41:39] power guy killed Fat Gay using player
+[18:42:28] power guy killed Fat Gay using player
+[18:43:29] power guy killed Fat Gay using fas2_dv2
+[18:43:48] power guy killed Fat Gay using player
+[18:47:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_bayonet
+[18:47:34] Fat Gay killed power guy using csgo_bayonet
+[18:48:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[18:48:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:48:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:48:30] power guy was killed by fas2_40mm_frag
+[18:48:56] power guy was killed by fas2_40mm_frag
+[18:49:01] power guy killed Fat Gay using player
+[18:49:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:49:12] power guy killed Fat Gay using player
+[18:49:16] Fat Gay: !goto pow
+[18:49:16] Fat Gay teleported to power guy
+[18:49:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:49:21] power guy killed Fat Gay using player
+[18:49:25] Fat Gay: !goto po
+[18:49:25] Fat Gay teleported to power guy
+[18:49:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:49:27] power guy was killed by fas2_40mm_frag
+[18:50:05] power guy killed Fat Gay using player
+[18:50:08] Fat Gay: !ghoto pow
+[18:50:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:50:19] power guy was killed by fas2_40mm_frag
+[18:50:49] power guy was killed by fas2_40mm_frag
+[18:50:57] power guy killed Fat Gay using player
+[18:50:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[18:51:09] power guy killed Fat Gay using player
+[18:51:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[18:51:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:51:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:51:21] power guy was killed by fas2_40mm_frag
+[18:51:27] Fat Gay: !goto guy
+[18:51:28] Fat Gay teleported to power guy
+[18:51:32] power guy killed Fat Gay using player
+[18:51:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:52:48] power guy killed Fat Gay using player
+[18:52:52] Fat Gay: !goto guy
+[18:52:52] Fat Gay teleported to power guy
+[18:52:53] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[18:53:12] power guy killed Fat Gay using player
+[18:53:17] Fat Gay: !goto pow
+[18:53:17] Fat Gay teleported to power guy
+[18:53:27] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:30] Fat Gay killed power guy using player
+[18:53:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:53:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:53:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_cricket_bat
+[18:53:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:54:05] Fat Gay killed power guy using player
+[18:54:12] Fat Gay killed power guy using player
+[18:54:30] Fat Gay killed power guy using player
+[18:54:42] Fat Gay killed power guy using player
+[18:54:56] Fat Gay killed power guy using player
+[18:55:06] Fat Gay killed power guy using player
+[18:55:17] Fat Gay killed power guy using player
+[18:55:27] Fat Gay killed power guy using player
+[18:55:32] power guy killed Fat Gay using player
+[18:55:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:37] Fat Gay killed power guy using player
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:55:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:41] Fat Gay<STEAM_0:1:218173703> used the tool creator on *214
+[18:55:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:55:45] Fat Gay killed power guy using player
+[18:56:09] Fat Gay killed power guy using player
+[18:56:30] Fat Gay killed power guy using player
+[18:56:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[18:56:41] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[18:56:42] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[18:56:55] Fat Gay killed power guy using player
+[18:57:13] Fat Gay killed power guy using player
+[18:57:29] Fat Gay killed power guy using player
+[18:57:37] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pistol_magnum
+[18:57:57] Fat Gay was killed by fas2_thrown_ammobox
+[18:57:57] power guy was killed by fas2_thrown_ammobox
+[18:58:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_desert
+[18:58:05] power guy was killed by fas2_thrown_ammobox
+[18:58:17] power guy killed Fat Gay using player
+[18:58:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:58:21] Fat Gay killed power guy using player
+[18:58:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_desert
+[18:58:33] Fat Gay killed power guy using player
+[18:58:38] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pumpshotgun
+[18:58:44] Fat Gay killed power guy using player
+[18:58:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_sniper_military
+[18:58:51] power guy killed Fat Gay using player
+[18:58:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_sniper_military
+[18:59:06] Fat Gay killed power guy using player
+[18:59:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:24] Fat Gay killed power guy using player
+[18:59:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:31] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:32] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[18:59:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_smg_silenced
+[18:59:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_desert
+[18:59:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[18:59:49] Fat Gay killed power guy using player
+[19:00:04] Fat Gay killed power guy using player
+[19:00:09] power guy killed Fat Gay using player
+[19:00:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:17] Fat Gay killed power guy using player
+[19:00:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:00:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:00:32] Fat Gay: !GOTO POEW
+[19:00:36] (TEAM) Fat Gay: !GOTO POW
+[19:00:36] Fat Gay teleported to power guy
+[19:00:46] Fat Gay killed power guy using player
+[19:00:53] Fat Gay: !GOTO POWE
+[19:00:53] Fat Gay teleported to power guy
+[19:01:25] Fat Gay: !GOTO POW
+[19:01:31] Fat Gay: !goto pow
+[19:01:31] Fat Gay teleported to power guy
+[19:01:44] power guy suicided!
+[19:01:44] power guy killed Fat Gay using env_explosion
+[19:01:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:48] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:49] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:01:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:01:52] Fat Gay: !goto pow
+[19:01:56] Fat Gay: !goto pow
+[19:01:56] Fat Gay teleported to power guy
+[19:01:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:00] Fat Gay was killed by trigger_hurt
+[19:02:05] Fat Gay: !goto pow
+[19:02:05] Fat Gay teleported to power guy
+[19:02:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:12] Fat Gay killed power guy using player
+[19:02:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:16] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:17] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:02:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[19:02:30] power guy suicided!
+[19:02:52] power guy suicided!
+[19:02:57] power guy suicided!
+[19:03:33] Fat Gay killed power guy using player
+[19:03:52] power guy suicided!
+[19:04:15] power guy suicided!
+[19:04:15] power guy killed Fat Gay using env_explosion
+[19:04:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_karambit_ultraviolet
+[19:04:26] Fat Gay: !goto pow
+[19:04:29] Fat Gay: !goto pow
+[19:04:29] Fat Gay teleported to power guy
+[19:05:12] power guy killed Fat Gay using fas2_machete
+[19:05:20] Fat Gay: !goto pow
+[19:05:20] Fat Gay teleported to power guy
+[19:05:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_ddpat
+[19:05:21] power guy killed Fat Gay using fas2_machete
+[19:05:24] Fat Gay: !goto pow
+[19:05:24] Fat Gay teleported to power guy
+[19:05:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_ddpat
+[19:05:33] power guy killed Fat Gay using fas2_machete
+[19:05:36] Fat Gay: !goto pow
+[19:05:36] Fat Gay teleported to power guy
+[19:05:37] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_ddpat
+[19:05:43] power guy killed Fat Gay using fas2_machete
+[19:05:46] Fat Gay: !goto pow
+[19:05:46] Fat Gay teleported to power guy
+[19:05:47] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_fade
+[19:06:02] Fat Gay killed power guy using csgo_m9_fade
+[19:07:05] power guy killed Fat Gay using player
+[19:07:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_fade
+[19:07:09] Fat Gay: !goto pow\
+[19:07:12] Fat Gay: !explode pow
+[19:07:12] power guy suicided!
+[19:07:12] Fat Gay exploded power guy
+[19:07:18] Fat Gay: !goto pow
+[19:07:18] Fat Gay teleported to power guy
+[19:07:22] power guy killed Fat Gay using player
+[19:07:28] Fat Gay: !goto pow
+[19:07:28] Fat Gay teleported to power guy
+[19:07:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_m9_fade
+[19:07:31] Fat Gay killed power guy using csgo_m9_fade
+[19:08:34] Fat Gay was killed by fas2_thrown_ammobox
+[19:08:42] Fat Gay: !goto powe
+[19:08:42] Fat Gay teleported to power guy
+[19:08:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep csgo_karambit_ultraviolet
+[19:08:45] Fat Gay killed power guy using csgo_karambit_ultraviolet
+[19:08:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:09:10] power guy killed Fat Gay using player
+[19:09:13] power guy was killed by fas2_thrown_ammobox
+[19:09:13] Fat Gay: !goto pow\
+[19:09:15] Fat Gay: !goto pow
+[19:09:18] Fat Gay: !goto pow
+[19:09:18] Fat Gay teleported to power guy
+[19:09:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:09:22] power guy suicided!
+[19:09:22] power guy killed Fat Gay using env_explosion
+[19:09:27] Fat Gay: !goto pow
+[19:09:27] Fat Gay teleported to power guy
+[19:09:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:09:40] power guy killed Fat Gay using fas2_machete
+[19:09:46] Fat Gay: !goto pow
+[19:09:46] Fat Gay teleported to power guy
+[19:09:50] Fat Gay was killed by fas2_thrown_ammobox
+[19:09:56] Fat Gay: !goto pow
+[19:09:56] Fat Gay teleported to power guy
+[19:09:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m4a1
+[19:10:04] Fat Gay killed power guy using player
+[19:10:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:10:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:10:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:10:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:22] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:10:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:10:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:23] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[19:10:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:29] Fat Gay was killed by fas2_thrown_ammobox
+[19:10:34] Fat Gay: !goto pow
+[19:10:34] Fat Gay teleported to power guy
+[19:10:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ammobox
+[19:10:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_an94
+[19:10:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_dv2
+[19:10:43] power guy suicided!
+[19:10:43] power guy killed Fat Gay using env_explosion
+[19:10:47] Fat Gay: !goto pow
+[19:10:47] Fat Gay teleported to power guy
+[19:10:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_dv2
+[19:10:53] power guy suicided!
+[19:10:53] power guy killed Fat Gay using env_explosion
+[19:10:56] Fat Gay: !goto pow
+[19:10:56] Fat Gay teleported to power guy
+[19:10:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ots33
+[19:11:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:11:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:11:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:11:15] Fat Gay suicided!
+[19:11:20] Fat Gay: !goto pow
+[19:11:20] Fat Gay teleported to power guy
+[19:11:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:11:39] power guy killed Fat Gay using fas2_thrown_m67
+[19:11:43] Fat Gay: !goto pow
+[19:11:43] Fat Gay teleported to power guy
+[19:11:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:11:45] power guy suicided!
+[19:11:52] Fat Gay suicided!
+[19:11:57] Fat Gay: !goto pow
+[19:11:59] Fat Gay: !goto pow
+[19:11:59] Fat Gay teleported to power guy
+[19:12:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:12:03] power guy suicided!
+[19:12:19] Fat Gay killed power guy using fas2_thrown_m67
+[19:12:21] Fat Gay suicided!
+[19:12:26] power guy suicided!
+[19:12:26] Fat Gay: !goto pow
+[19:12:29] Fat Gay: !goto poe
+[19:12:30] power guy suicided!
+[19:12:31] Fat Gay: !goto pw
+[19:12:33] Fat Gay: !goto po
+[19:12:33] Fat Gay teleported to power guy
+[19:12:33] power guy suicided!
+[19:12:33] power guy killed Fat Gay using env_explosion
+[19:12:38] Fat Gay: !goto pow
+[19:12:38] Fat Gay teleported to power guy
+[19:12:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:12:44] Fat Gay suicided!
+[19:12:44] power guy suicided!
+[19:12:48] Fat Gay: !goto pow
+[19:12:48] Fat Gay teleported to power guy
+[19:12:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_mp5sd6
+[19:12:56] power guy suicided!
+[19:12:57] power guy killed Fat Gay using env_explosion
+[19:13:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:13:02] Fat Gay: !goto pow
+[19:13:02] Fat Gay teleported to power guy
+[19:13:04] power guy killed Fat Gay using fas2_thrown_m67
+[19:13:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:13:09] Fat Gay: !goto pow
+[19:13:13] Fat Gay: !goto pow
+[19:13:13] Fat Gay teleported to power guy
+[19:13:14] Fat Gay was killed by trigger_hurt
+[19:13:22] Fat Gay: !goto pow
+[19:13:22] Fat Gay teleported to power guy
+[19:13:23] power guy suicided!
+[19:13:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:13:28] Fat Gay was killed by trigger_hurt
+[19:13:32] Fat Gay: !goto pow
+[19:13:32] Fat Gay teleported to power guy
+[19:13:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:13:35] power guy suicided!
+[19:14:10] Fat Gay: !goto pow
+[19:14:10] Fat Gay teleported to power guy
+[19:14:32] power guy killed Fat Gay using player
+[19:14:35] Fat Gay: !goto pow
+[19:14:35] Fat Gay teleported to power guy
+[19:14:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:14:45] power guy was killed by fas2_40mm_frag
+[19:15:09] power guy killed Fat Gay using fas2_thrown_m67
+[19:15:14] Fat Gay: !goto pow
+[19:15:14] Fat Gay teleported to power guy
+[19:15:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:15:32] power guy suicided!
+[19:15:32] Fat Gay suicided!
+[19:15:41] Fat Gay: !goto pow
+[19:15:44] Fat Gay: !goto pow
+[19:15:44] Fat Gay teleported to power guy
+[19:15:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:15:53] Fat Gay killed power guy using fas2_40mm_frag
+[19:16:33] power guy killed Fat Gay using fas2_thrown_m67
+[19:16:37] Fat Gay: !goto poe
+[19:16:38] Fat Gay: !goto pow
+[19:16:38] Fat Gay teleported to power guy
+[19:16:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:16:48] power guy killed Fat Gay using fas2_thrown_m67
+[19:16:48] power guy suicided!
+[19:16:51] Fat Gay: !goto p
+[19:16:51] Fat Gay teleported to power guy
+[19:16:52] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:16:54] power guy suicided!
+[19:17:02] power guy was killed by fas2_40mm_frag
+[19:17:32] power guy suicided!
+[19:17:41] Fat Gay suicided!
+[19:17:45] power guy suicided!
+[19:17:45] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:17:53] Fat Gay: !goto pow
+[19:17:53] Fat Gay teleported to power guy
+[19:18:01] power guy killed Fat Gay using fas2_thrown_m67
+[19:18:05] Fat Gay: !goto pow
+[19:18:05] Fat Gay teleported to power guy
+[19:18:06] power guy suicided!
+[19:18:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[19:18:13] power guy killed Fat Gay using fas2_thrown_m67
+[19:18:15] power guy suicided!
+[19:18:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:18:18] Fat Gay: !goto pow
+[19:18:18] Fat Gay teleported to power guy
+[19:18:21] power guy suicided!
+[19:18:29] power guy killed Fat Gay using fas2_thrown_m67
+[19:18:32] Fat Gay: !goot pow
+[19:18:34] Fat Gay: !goto pow
+[19:18:34] Fat Gay teleported to power guy
+[19:18:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:18:38] power guy killed Fat Gay using fas2_thrown_m67
+[19:18:38] power guy suicided!
+[19:18:41] Fat Gay: !goto pow
+[19:18:41] Fat Gay teleported to power guy
+[19:18:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:18:54] power guy suicided!
+[19:19:08] power guy killed Fat Gay using fas2_thrown_m67
+[19:19:08] power guy suicided!
+[19:19:12] Fat Gay: !goto pow
+[19:19:12] Fat Gay teleported to power guy
+[19:19:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:19:17] power guy was killed by fas2_40mm_frag
+[19:19:35] power guy killed Fat Gay using fas2_thrown_m67
+[19:19:40] Fat Gay: !goto pow
+[19:19:40] Fat Gay teleported to power guy
+[19:19:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:19:44] power guy suicided!
+[19:20:02] power guy killed Fat Gay using fas2_thrown_m67
+[19:20:06] power guy suicided!
+[19:20:07] Fat Gay: !goto pow
+[19:20:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:20:10] Fat Gay: !goto pow
+[19:20:10] Fat Gay teleported to power guy
+[19:20:20] power guy suicided!
+[19:20:36] power guy killed Fat Gay using fas2_thrown_m67
+[19:20:37] power guy suicided!
+[19:20:40] Fat Gay: !goto pow
+[19:20:40] Fat Gay teleported to power guy
+[19:20:41] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:20:45] power guy killed Fat Gay using fas2_thrown_m67
+[19:20:48] Fat Gay: !goto pow
+[19:20:48] Fat Gay teleported to power guy
+[19:20:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:20:50] power guy suicided!
+[19:21:00] power guy killed Fat Gay using fas2_thrown_m67
+[19:21:03] Fat Gay: !goto pow
+[19:21:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:21:07] power guy suicided!
+[19:21:09] Fat Gay: !goto pow
+[19:21:11] Fat Gay: !goto pow
+[19:21:11] Fat Gay teleported to power guy
+[19:21:19] power guy suicided!
+[19:21:23] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[19:21:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[19:21:24] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[19:21:40] power guy suicided!
+[19:21:56] power guy killed Fat Gay using fas2_thrown_m67
+[19:21:59] power guy suicided!
+[19:22:00] Fat Gay: !goto po
+[19:22:04] Fat Gay: !explode *
+[19:22:04] Fat Gay suicided!
+[19:22:04] power guy suicided!
+[19:22:04] Bot01 suicided!
+[19:22:04] Fat Gay exploded Everyone
+[19:22:13] Fat Gay: !bring *\
+[19:22:15] Fat Gay: !bring *
+[19:22:15] Fat Gay brought power guy
+[19:22:22] Fat Gay: !fdance *
+[19:22:22] Fat Gay forced Everyone to perform the 'Dance' act command.
+[19:22:27] power guy killed Fat Gay using fas2_thrown_m67
+[19:22:29] power guy suicided!
+[19:22:37] Fat Gay: !bring pow
+[19:22:37] Fat Gay brought power guy
+[19:22:42] power guy killed Fat Gay using fas2_thrown_m67
+[19:22:44] Fat Gay: !God
+[19:22:44] Fat Gay granted god mode upon Themself
+[19:22:47] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m79
+[19:22:48] power guy suicided!
+[19:22:55] power guy suicided!
+[19:23:00] power guy suicided!
+[19:24:02] power guy suicided!
+[19:25:12] power guy killed Fat Gay using player
+[19:25:57] Fat Gay: !go
+[19:25:58] Fat Gay: !god
+[19:25:58] Fat Gay granted god mode upon Themself
+[19:26:09] Dropped "power guy" from server<STEAM_0:1:100921529>
+[19:29:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_stunstick
+[19:29:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_crowbar
+[19:30:13] Fat Gay: !explode *
+[19:30:13] Fat Gay suicided!
+[19:30:13] Bot01 suicided!
+[19:30:13] Fat Gay exploded Everyone
+[19:30:19] Fat Gay: !hp * 1
+[19:30:19] Fat Gay set the hp for Everyone to 1
+[19:30:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_slam
+[19:30:26] Fat Gay suicided!
+[19:32:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_crowbar
+[19:32:54] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_bugbait
+[19:32:54] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_357
+[19:32:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_357
+[19:32:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_ar2
+[19:33:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_crowbar
+[19:50:14] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[19:50:14] Dropped "Bot01" from server<BOT>

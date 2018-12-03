@@ -1,0 +1,45 @@
+Fri Nov 16 04:22:50 2018	[DEFN] Miraak (STEAM_0:0:13897643) has joined the game
+Fri Nov 16 04:22:51 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:24:19 2018	[DEFN] Mac (STEAM_0:1:39350877) has joined the game
+Fri Nov 16 04:24:19 2018	[DEFN] Mac (STEAM_0:1:39350877) spawned
+Fri Nov 16 04:25:31 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:26:41 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:27:26 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:31:13 2018	[DEFN] Miraak (STEAM_0:0:13897643): // God dameit SU
+Fri Nov 16 04:32:45 2018	[DEFN] Mac (STEAM_0:1:39350877) spawned
+Fri Nov 16 04:32:48 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:33:24 2018	[DEFN] Mac was killed by [DEFN] Miraak with a cw_shorty
+Fri Nov 16 04:33:25 2018	[DEFN] Mac (STEAM_0:1:39350877) spawned
+Fri Nov 16 04:33:29 2018	[DEFN] Miraak was killed by [DEFN] Mac with a cw_m3super90
+Fri Nov 16 04:33:30 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:33:44 2018	[DEFN] Miraak was killed by [DEFN] Mac with a cw_m3super90
+Fri Nov 16 04:33:45 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:35:05 2018	[DEFN] Miraak was killed by [DEFN] Mac with a cw_m1911
+Fri Nov 16 04:35:06 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:35:29 2018	[DEFN] Mac was killed by [DEFN] Miraak with a cw_ump45
+Fri Nov 16 04:35:30 2018	[DEFN] Mac (STEAM_0:1:39350877) spawned
+Fri Nov 16 04:38:49 2018	[DEFN] Miraak was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Fri Nov 16 04:38:52 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:39:04 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:40:02 2018	[DEFN] Miraak was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Fri Nov 16 04:40:04 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:42:57 2018	a very serious gamer (STEAM_0:1:215798806) has joined the game
+Fri Nov 16 04:42:57 2018	a very serious gamer (STEAM_0:1:215798806) spawned
+Fri Nov 16 04:45:41 2018	a very serious gamer (STEAM_0:1:215798806) spawned
+Fri Nov 16 04:49:30 2018	a very serious gamer was killed by [DEFN] Mac with a cw_g36c
+Fri Nov 16 04:50:39 2018	[DEFN] Mac (STEAM_0:1:39350877): 
+Fri Nov 16 04:50:43 2018	[DEFN] Mac (STEAM_0:1:39350877): 
+Fri Nov 16 04:50:43 2018	[DEFN] Mac (STEAM_0:1:39350877): 
+Fri Nov 16 04:50:50 2018	[DEFN] Mac (STEAM_0:1:39350877): 
+Fri Nov 16 04:52:40 2018	a very serious gamer (STEAM_0:1:215798806) spawned
+Fri Nov 16 04:53:27 2018	[DEFN] Miraak (STEAM_0:0:13897643): 4198
+Fri Nov 16 04:53:35 2018	[DEFN] Mac was killed by a very serious gamer with a cw_ump45
+Fri Nov 16 04:53:37 2018	[DEFN] Mac (STEAM_0:1:39350877) spawned
+Fri Nov 16 04:53:54 2018	[DEFN] Mac (STEAM_0:1:39350877) spawned
+Fri Nov 16 04:54:06 2018	a very serious gamer was killed by Entity [0][worldspawn] with a unknown
+Fri Nov 16 04:54:07 2018	a very serious gamer (STEAM_0:1:215798806) spawned
+Fri Nov 16 04:54:30 2018	a very serious gamer (STEAM_0:1:215798806) spawned
+Fri Nov 16 04:56:23 2018	[DEFN] Miraak (STEAM_0:0:13897643) spawned
+Fri Nov 16 04:56:49 2018	[DEFN] Miraak (STEAM_0:0:13897643) disconnected
+Fri Nov 16 04:57:00 2018	a very serious gamer was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Fri Nov 16 04:57:01 2018	a very serious gamer (STEAM_0:1:215798806) spawned

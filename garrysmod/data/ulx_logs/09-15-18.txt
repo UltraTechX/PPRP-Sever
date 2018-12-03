@@ -1,0 +1,115 @@
+[11:50:59] New map: rp_powerplant_v2b2
+[11:52:28] Client "[Opi] Fat Gay" connected.
+
+
+
+[12:26:12] New map: rp_powerplant_v2b2
+[12:26:12] Client "[Opi] Fat Gay" connected.
+[12:27:01] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[12:36:42] Fat Gay: !blogs
+[12:36:45] Fat Gay: !menu
+[12:40:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[12:40:48] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[12:40:51] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[12:40:52] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[12:40:53] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[12:41:07] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/oildrum001.mdl
+[12:41:24] Fat Gay: !donate
+[12:41:24] Fat Gay was killed by trigger_hurt
+
+
+
+[12:46:06] New map: rp_powerplant_v2b2
+[12:46:06] Client "[Opi] Fat Gay" connected.
+
+
+
+[12:55:19] New map: rp_powerplant_v2b2
+[12:56:31] Client "[Opi] Fat Gay" connected.
+[12:57:34] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 63 seconds).
+
+
+
+[13:11:46] New map: rp_powerplant_v2b2
+[13:11:54] Client "[Opi] Fat Gay" connected.
+[13:12:47] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+
+
+
+[13:15:58] New map: rp_powerplant_v2b2
+[13:16:32] Client "[Opi] Fat Gay" connected.
+[13:17:40] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 68 seconds).
+
+
+
+[13:50:07] New map: rp_powerplant_v2b2
+[14:00:04] Client "[Opi] Fat Gay" connected.
+[14:01:06] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 62 seconds).
+[14:28:59] Fat Gay: !blogs
+
+
+
+[14:30:44] New map: rp_powerplant_v2b2
+[14:33:30] Client "[Opi] Fat Gay" connected.
+[14:34:23] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+
+
+
+[14:38:16] New map: rp_powerplant_v2b2
+[14:38:46] Client "[Opi] Fat Gay" connected.
+
+
+
+[14:42:28] New map: rp_powerplant_v2b2
+[14:44:16] Client "[Opi] Fat Gay" connected.
+
+
+
+[14:47:15] New map: rp_powerplant_v2b2
+[14:47:42] Client "[Opi] Fat Gay" connected.
+[14:48:49] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 67 seconds).
+[14:49:16] Fat Gay: !blogs
+
+
+
+[14:52:41] New map: rp_powerplant_v2b2
+[14:52:55] Client "[Opi] Fat Gay" connected.
+
+
+
+[14:55:22] New map: rp_powerplant_v2b2
+[15:07:22] Client "[Opi] Fat Gay" connected.
+
+
+
+[15:10:17] New map: rp_powerplant_v2b2
+[15:45:06] Client "[Opi] Fat Gay" connected.
+[15:46:59] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 113 seconds).
+
+
+
+[15:49:36] New map: rp_powerplant_v2b2
+[15:49:58] Client "[Opi] Fat Gay" connected.
+[15:50:51] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 53 seconds).
+
+
+
+[15:52:59] New map: rp_powerplant_v2b2
+[15:53:10] Client "[Opi] Fat Gay" connected.
+[15:54:06] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+
+
+
+[15:59:02] New map: rp_powerplant_v2b2
+[16:01:44] Client "[Opi] Fat Gay" connected.
+
+
+
+[16:04:10] New map: rp_powerplant_v2b2
+[16:04:44] Client "[Opi] Fat Gay" connected.
+[16:05:59] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 75 seconds).
+[16:39:17] Client "Bot01" connected.
+[16:39:17] Client "Bot01" spawned in server <BOT> (took 2178 seconds).
+[16:44:47] Fat Gay suicided!
+[16:46:16] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:46:16] Dropped "Bot01" from server<BOT>

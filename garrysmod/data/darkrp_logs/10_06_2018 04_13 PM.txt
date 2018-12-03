@@ -1,0 +1,309 @@
+Sat Oct  6 16:13:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 16:13:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 16:14:33 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct  6 16:14:33 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 16:15:00 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 16:30:12 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct  6 16:30:12 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:33:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Hi
+Sat Oct  6 16:34:50 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:37:56 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Hello? the owner?
+Sat Oct  6 16:39:00 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Anyone?
+Sat Oct  6 16:42:16 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sat Oct  6 16:42:16 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) spawned
+Sat Oct  6 16:48:03 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 4198
+Sat Oct  6 16:49:41 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) spawned
+Sat Oct  6 16:56:25 2018	✲Ozymandis Boomhauer II✲ was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct  6 16:56:25 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) spawned
+Sat Oct  6 16:57:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto luk
+Sat Oct  6 16:57:21 2018	Lukyn150 (CZ) was killed by Entity [2012][trigger_hurt] with a trigger_hurt
+Sat Oct  6 16:57:29 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:57:30 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // see?
+Sat Oct  6 16:57:45 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601): /name Sammy Boom
+Sat Oct  6 16:57:47 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:58:08 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:59:14 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:59:34 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 16:59:39 2018	[Opi] Fat Gay was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Sat Oct  6 16:59:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:00:00 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:00:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 17:00:18 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:00:35 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:00:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:01:45 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:02:01 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:02:16 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:02:45 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:03:01 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:04:43 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:05:14 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:05:46 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:07:47 2018	Lukyn150 (CZ) was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 17:07:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:07:54 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:08:07 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:08:19 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:09:38 2018	Lukyn150 (CZ) was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 17:09:41 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:10:06 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:10:24 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:10:37 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:11:35 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:11:45 2018	Sammy Boom (STEAM_0:0:91181601): // I'm almost certain this isn't how power plants work
+Sat Oct  6 17:11:57 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Well Sci fi ones do
+Sat Oct  6 17:12:25 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:13:17 2018	Sammy Boom (STEAM_0:0:91181601): // Why were we pumping coolant and using a giant fan if the generator wasn't even active
+Sat Oct  6 17:13:28 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): that's emergency generator
+Sat Oct  6 17:13:35 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // that big ball is the power source
+Sat Oct  6 17:13:42 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // never played roblox?
+Sat Oct  6 17:13:59 2018	Sammy Boom (STEAM_0:0:91181601): // wait which big ball
+Sat Oct  6 17:14:05 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // above the fan
+Sat Oct  6 17:14:09 2018	Sammy Boom (STEAM_0:0:91181601): // oh
+Sat Oct  6 17:14:20 2018	Sammy Boom (STEAM_0:0:91181601): // then what's the point of the Generator?
+Sat Oct  6 17:14:32 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // if the ball gets too hot or cold
+Sat Oct  6 17:14:40 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // so we can get it back to 1000°K
+Sat Oct  6 17:15:44 2018	Sammy Boom (STEAM_0:0:91181601): // This place needs more safety railing
+Sat Oct  6 17:15:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // yep
+Sat Oct  6 17:15:57 2018	Sammy Boom (STEAM_0:0:91181601): // Or you know, any at all
+Sat Oct  6 17:16:09 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // there is some at the lobby
+Sat Oct  6 17:16:30 2018	Sammy Boom (STEAM_0:0:91181601): // I'm sure the inspector would go into the lobby and see it, then assume the rest of the facility has it
+Sat Oct  6 17:17:04 2018	Niko (STEAM_0:0:86208722) has joined the game
+Sat Oct  6 17:17:04 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:17:24 2018	Sammy Boom (STEAM_0:0:91181601): // ...Why do we have a weapons facility
+Sat Oct  6 17:17:32 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // research thing
+Sat Oct  6 17:17:35 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // idk
+Sat Oct  6 17:17:51 2018	Sammy Boom (STEAM_0:0:91181601): // and teleportation, and a giant rocket
+Sat Oct  6 17:18:08 2018	Sammy Boom (STEAM_0:0:91181601): // like I'm pretty sure the resources to use all this is greater than we produce and export
+Sat Oct  6 17:18:24 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // we export power
+Sat Oct  6 17:19:06 2018	Sammy Boom (STEAM_0:0:91181601): 
+Sat Oct  6 17:19:35 2018	Sammy Boom (STEAM_0:0:91181601): // Can you activate the portal lol
+Sat Oct  6 17:19:39 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): yes
+Sat Oct  6 17:19:43 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): I think
+Sat Oct  6 17:20:17 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // where are you?
+Sat Oct  6 17:20:28 2018	Sammy Boom (STEAM_0:0:91181601): // In the portal...
+Sat Oct  6 17:20:42 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // In? a desert?
+Sat Oct  6 17:20:46 2018	Sammy Boom (STEAM_0:0:91181601): // Yes
+Sat Oct  6 17:20:51 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // strating
+Sat Oct  6 17:20:58 2018	Sammy Boom (STEAM_0:0:91181601): // And I can still hear alarms and announcments in here lol
+Sat Oct  6 17:20:59 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // open
+Sat Oct  6 17:21:29 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): no way out
+Sat Oct  6 17:21:29 2018	Sammy Boom (STEAM_0:0:91181601): Hola
+Sat Oct  6 17:21:31 2018	Sammy Boom (STEAM_0:0:91181601): Oof
+Sat Oct  6 17:21:33 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): only the lights
+Sat Oct  6 17:21:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): or
+Sat Oct  6 17:21:52 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): this magic stick
+Sat Oct  6 17:21:55 2018	Sammy Boom (STEAM_0:0:91181601): no im good
+Sat Oct  6 17:21:59 2018	Sammy Boom (STEAM_0:0:91181601): wait
+Sat Oct  6 17:22:01 2018	Sammy Boom (STEAM_0:0:91181601): maybe
+Sat Oct  6 17:22:08 2018	Sammy Boom (STEAM_0:0:91181601): hmm
+Sat Oct  6 17:22:20 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /wanted sammy In wrong place
+Sat Oct  6 17:22:20 2018	Lukyn150 (CZ) has made Sammy Boom wanted, reason: In wrong place
+Sat Oct  6 17:22:26 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Really
+Sat Oct  6 17:22:28 2018	Sammy Boom (STEAM_0:0:91181601): lmfao
+Sat Oct  6 17:22:39 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): doesn't work
+Sat Oct  6 17:22:43 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): no jail position
+Sat Oct  6 17:22:46 2018	Sammy Boom (STEAM_0:0:91181601): I get the feeling this server's a bit borked currently
+Sat Oct  6 17:22:47 2018	Sammy Boom was killed by Lukyn150 (CZ) with a cw_p99
+Sat Oct  6 17:22:49 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 17:23:03 2018	Lukyn150 (CZ) was killed by Himself with a suicide trick
+Sat Oct  6 17:23:04 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:24:20 2018	Sammy Boom is no longer wanted by the Police.
+Sat Oct  6 17:24:41 2018	Sammy Boom (STEAM_0:0:91181601): // For the size of this place, the warrant time is pretty short
+Sat Oct  6 17:25:12 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // well. There is a canteen for atleast 200 people. 70 offices and a long way to everywhere
+Sat Oct  6 17:27:09 2018	Sammy Boom (STEAM_0:0:91181601): // There's just a meth buyer hanging out in this probably heavily irradiated room
+Sat Oct  6 17:29:12 2018	Sammy Boom (STEAM_0:0:91181601): // How does Boosting the Laser affect it?
+Sat Oct  6 17:29:46 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:30:18 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hi
+Sat Oct  6 17:30:31 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /y Ok
+Sat Oct  6 17:30:44 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // I know
+Sat Oct  6 17:30:58 2018	Niko was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 17:31:21 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:31:34 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:34:42 2018	Niko (STEAM_0:0:86208722) disconnected
+Sat Oct  6 17:35:56 2018	Sammy Boom (STEAM_0:0:91181601): // The announcment keeps reminding me of pizza and it's making me hungry
+Sat Oct  6 17:36:27 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct  6 17:36:27 2018	Sir Will Swag (STEAM_0:1:116765028) spawned
+Sat Oct  6 17:37:28 2018	Sammy Boom (STEAM_0:0:91181601): // When does the Core Status change?
+Sat Oct  6 17:37:41 2018	Niko (STEAM_0:0:86208722) has joined the game
+Sat Oct  6 17:37:41 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:37:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /OOC its dependent on the core temp
+Sat Oct  6 17:38:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc >3600 is warning
+Sat Oct  6 17:38:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 5000 is meltdown
+Sat Oct  6 17:38:12 2018	Sammy Boom (STEAM_0:0:91181601): // Oh so we have quite a bit of leeway then
+Sat Oct  6 17:38:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc, yea so no mingebags just explode it every 5 seconds and people can actually RP
+Sat Oct  6 17:38:36 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // I spammed the general chat with bugs if you are interested
+Sat Oct  6 17:38:43 2018	Sammy Boom (STEAM_0:0:91181601): !discord
+Sat Oct  6 17:38:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yea, so no mingebags just explode it every 5 seconds and people can actually RP
+Sat Oct  6 17:38:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok ill get to them
+Sat Oct  6 17:39:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i was right about my dad lying about going for an hour, I am drilling even more concrete against my will
+Sat Oct  6 17:39:34 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hello
+Sat Oct  6 17:39:39 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Pleas eshow your ID
+Sat Oct  6 17:39:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill be back for another break, hopefull im pretty much done by then without having to do more xd
+Sat Oct  6 17:39:53 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Sorry but you need a tour guide
+Sat Oct  6 17:39:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc see yall in 30 min
+Sat Oct  6 17:40:02 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): There is no currently available
+Sat Oct  6 17:40:27 2018	Sir Will Swag (STEAM_0:1:116765028) spawned
+Sat Oct  6 17:40:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and I hate to beat it in, but feel free to invite people
+Sat Oct  6 17:40:36 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Before you go can you set the jail pos?
+Sat Oct  6 17:40:41 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hello
+Sat Oct  6 17:40:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc sure
+Sat Oct  6 17:40:47 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Your Id
+Sat Oct  6 17:40:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setjailpos
+Sat Oct  6 17:41:01 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Good morning Sir Swag
+Sat Oct  6 17:41:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /addjailpos
+Sat Oct  6 17:41:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc don
+Sat Oct  6 17:41:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc done
+Sat Oct  6 17:41:19 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Core tmep little bit higher than usual but still in acceptable limits
+Sat Oct  6 17:41:28 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Go through the door on your right
+Sat Oct  6 17:42:12 2018	Niko (STEAM_0:0:86208722) disconnected
+Sat Oct  6 17:42:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): enable coolant pumps, fan
+Sat Oct  6 17:42:53 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): disable lasers
+Sat Oct  6 17:44:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i wonder why niko keeps disconnecting
+Sat Oct  6 17:44:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh well, be back soon
+Sat Oct  6 17:44:56 2018	Sammy Boom (STEAM_0:0:91181601): // Can I suggest an objective for producing power
+Sat Oct  6 17:45:05 2018	Sammy Boom (STEAM_0:0:91181601): // Such as in the Lobby or something, there's a meter
+Sat Oct  6 17:45:16 2018	Niko (STEAM_0:0:86208722) has joined the game
+Sat Oct  6 17:45:16 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:45:17 2018	Sammy Boom (STEAM_0:0:91181601): // If it gets filled within like an hour, everyone playing gets +$1000
+Sat Oct  6 17:45:36 2018	Sammy Boom (STEAM_0:0:91181601): // Or like a random amount of places need power to sustain themselves, and you have to supply them all
+Sat Oct  6 17:47:44 2018	Sammy Boom was killed by Entity [2889][func_rotating] with a func_rotating
+Sat Oct  6 17:47:45 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 17:47:59 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hello
+Sat Oct  6 17:48:02 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Sat Oct  6 17:48:07 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Your Id please
+Sat Oct  6 17:48:10 2018	Adam Klein (STEAM_0:1:116765028): /advert Hey, Could we get someone to go cool down the core a bit?
+Sat Oct  6 17:48:16 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Id please
+Sat Oct  6 17:48:19 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Good
+Sat Oct  6 17:48:19 2018	Sammy Boom (STEAM_0:0:91181601): 
+Sat Oct  6 17:48:25 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): go thorugh  the metal detector
+Sat Oct  6 17:48:28 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 17:48:29 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 17:48:56 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): ok idk how to frisk you so
+Sat Oct  6 17:49:13 2018	Valien (STEAM_0:1:41660292): !strip valien
+Sat Oct  6 17:49:27 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hi
+Sat Oct  6 17:49:29 2018	Valien (STEAM_0:1:41660292): Hi
+Sat Oct  6 17:49:33 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): go through
+Sat Oct  6 17:49:38 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Good
+Sat Oct  6 17:49:42 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): and your Id?
+Sat Oct  6 17:49:44 2018	Adam Klein was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct  6 17:49:46 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 17:50:04 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Well
+Sat Oct  6 17:50:14 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): ok then
+Sat Oct  6 17:50:45 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 17:50:55 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:51:15 2018	Sammy Boom was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 17:51:16 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 17:51:23 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 17:51:31 2018	Lukyn150 (CZ) was killed by Niko with a weapon_sillyzombieclaw_v2
+Sat Oct  6 17:51:43 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 17:52:23 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert test
+Sat Oct  6 17:52:37 2018	[Opi] Fat Gay was killed by Niko with a weapon_sillyzombieclaw_v2
+Sat Oct  6 17:52:42 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert All personnel. Security breached. 049 in the facility
+Sat Oct  6 17:53:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 17:53:09 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // afk too
+Sat Oct  6 17:53:12 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // dinner
+Sat Oct  6 17:53:31 2018	Sammy Boom (STEAM_0:0:91181601): I know where it is
+Sat Oct  6 17:53:58 2018	Niko was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 17:53:59 2018	Niko (STEAM_0:0:86208722) spawned
+Sat Oct  6 17:54:34 2018	Adam Klein (STEAM_0:1:116765028): // Excuse me, where is the core?
+Sat Oct  6 17:54:39 2018	Valien (STEAM_0:1:41660292): !goto sir
+Sat Oct  6 17:54:45 2018	Valien (STEAM_0:1:41660292): !goto Sir
+Sat Oct  6 17:54:47 2018	Sammy Boom (STEAM_0:0:91181601): I know where it is
+Sat Oct  6 17:54:59 2018	Valien (STEAM_0:1:41660292): !goto Sir Will Swag
+Sat Oct  6 17:55:07 2018	Sammy Boom (STEAM_0:0:91181601): We must wait for a tram, however.
+Sat Oct  6 17:55:16 2018	Valien (STEAM_0:1:41660292): // Where are you Sir Will Swag?
+Sat Oct  6 17:56:00 2018	Adam Klein (STEAM_0:1:116765028): // thank you for the help
+Sat Oct  6 17:56:15 2018	Sammy Boom (STEAM_0:0:91181601): I don't know
+Sat Oct  6 17:56:15 2018	Valien (STEAM_0:1:41660292): Sir Will whats your username?
+Sat Oct  6 17:56:20 2018	Sammy Boom (STEAM_0:0:91181601): ok stay here
+Sat Oct  6 17:56:42 2018	Sammy Boom (STEAM_0:0:91181601): /y I'll see you soon
+Sat Oct  6 17:56:55 2018	Sammy Boom (STEAM_0:0:91181601): sure
+Sat Oct  6 17:57:07 2018	Valien (STEAM_0:1:41660292): !bring sammy
+Sat Oct  6 17:57:13 2018	Sammy Boom (STEAM_0:0:91181601): get off here
+Sat Oct  6 17:57:27 2018	Sammy Boom (STEAM_0:0:91181601): welp lol
+Sat Oct  6 17:57:31 2018	Sammy Boom (STEAM_0:0:91181601): good bye
+Sat Oct  6 17:57:53 2018	Sammy Boom (STEAM_0:0:91181601): ok I'm gonna go eat potato chips because the announcments keep reminding me of pizza
+Sat Oct  6 17:57:58 2018	Sammy Boom was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct  6 17:58:03 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 17:58:19 2018	Sammy Boom (STEAM_0:0:91181601): /job AFK Engineer
+Sat Oct  6 18:00:41 2018	Valien (STEAM_0:1:41660292): // I'm on now, if yall need help just ooc
+Sat Oct  6 18:02:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:04:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 18:04:24 2018	Itz IrnBru118 (STEAM_0:1:160171071) has joined the game
+Sat Oct  6 18:04:24 2018	Itz IrnBru118 (STEAM_0:1:160171071) spawned
+Sat Oct  6 18:04:55 2018	Valien (STEAM_0:1:41660292): !goto f
+Sat Oct  6 18:05:00 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 18:05:16 2018	Valien (STEAM_0:1:41660292): !god
+Sat Oct  6 18:05:19 2018	Valien (STEAM_0:1:41660292): !ungod
+Sat Oct  6 18:07:08 2018	TheGamingTroll (STEAM_0:0:97615430) has joined the game
+Sat Oct  6 18:07:08 2018	TheGamingTroll (STEAM_0:0:97615430) spawned
+Sat Oct  6 18:07:18 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Hi
+Sat Oct  6 18:07:34 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Test
+Sat Oct  6 18:07:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hey there!
+Sat Oct  6 18:08:18 2018	Itz IrnBru118 (STEAM_0:1:160171071): // This seems interesting. Do you mind explaining the gamemode or is there a doc somewhere?
+Sat Oct  6 18:08:36 2018	Itz IrnBru118 (STEAM_0:1:160171071): Hello sir
+Sat Oct  6 18:08:41 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) disconnected
+Sat Oct  6 18:08:57 2018	TheGamingTroll (STEAM_0:0:97615430) spawned
+Sat Oct  6 18:09:04 2018	Niko (STEAM_0:0:86208722): /name Dhadi
+Sat Oct  6 18:09:15 2018	Dhadi (STEAM_0:0:86208722): /job The Conqueror
+Sat Oct  6 18:09:38 2018	Itz IrnBru118 (STEAM_0:1:160171071) spawned
+Sat Oct  6 18:10:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /pm adam you wtf boi the boost lasers help it explode
+Sat Oct  6 18:11:26 2018	Itz IrnBru118 (STEAM_0:1:160171071) spawned
+Sat Oct  6 18:12:27 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Where is the Core?
+Sat Oct  6 18:12:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc opposite side of default spawn
+Sat Oct  6 18:12:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc where adam is
+Sat Oct  6 18:12:55 2018	Valien (STEAM_0:1:41660292): // noted
+Sat Oct  6 18:13:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc halfway to meltdown! Better save it fast ;)
+Sat Oct  6 18:13:23 2018	Itz IrnBru118 (STEAM_0:1:160171071): // I'm still tryna find it xD
+Sat Oct  6 18:13:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc lol hold on
+Sat Oct  6 18:13:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto bru
+Sat Oct  6 18:13:44 2018	TheGamingTroll was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 18:13:46 2018	TheGamingTroll (STEAM_0:0:97615430) spawned
+Sat Oct  6 18:14:36 2018	Itz IrnBru118 (STEAM_0:1:160171071): Cheers
+Sat Oct  6 18:14:50 2018	Itz IrnBru118 (STEAM_0:1:160171071): I can't really hear. In a staff meeting x
+Sat Oct  6 18:15:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): good luck when you find us
+Sat Oct  6 18:15:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): you will know when you found the core
+Sat Oct  6 18:15:12 2018	Itz IrnBru118 (STEAM_0:1:160171071): Any chance i could get ammo?
+Sat Oct  6 18:15:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yea
+Sat Oct  6 18:15:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): there are ammo crates around the facility btw, in that security area right infront of us too
+Sat Oct  6 18:15:46 2018	Itz IrnBru118 (STEAM_0:1:160171071): Cheers
+Sat Oct  6 18:16:06 2018	Itz IrnBru118 (STEAM_0:1:160171071): /advert Heading to secure the core.
+Sat Oct  6 18:16:18 2018	Valien (STEAM_0:1:41660292): // 5000 Kelvin is the point of no return
+Sat Oct  6 18:16:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc also warning state makes you light on fire in the core, bring some hp and armour if you wanna save it
+Sat Oct  6 18:16:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc as swat you have enough I think
+Sat Oct  6 18:17:19 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Am i in the right place or did i get off too early?
+Sat Oct  6 18:17:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you did, I said you would know when it was the right stop
+Sat Oct  6 18:17:51 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Oh right lol
+Sat Oct  6 18:17:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc literally a giant red vall visible from the tram with a sign that says "STOP: CORE"
+Sat Oct  6 18:18:13 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Ahhh, alrighty xD
+Sat Oct  6 18:18:22 2018	TheGamingTroll was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 18:18:24 2018	TheGamingTroll (STEAM_0:0:97615430) spawned
+Sat Oct  6 18:18:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc might be too late now, 400 kelvin from meltdown
+Sat Oct  6 18:18:41 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Thats not good.
+Sat Oct  6 18:18:55 2018	Dhadi (STEAM_0:0:86208722): // this is getting epic!
+Sat Oct  6 18:18:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah, best bet now is to turn on the generator and get the e-coolant running
+Sat Oct  6 18:19:02 2018	Valien (STEAM_0:1:41660292): // okay this is epic
+Sat Oct  6 18:19:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc thats the only way to cool the core mid-meltdown
+Sat Oct  6 18:19:23 2018	Dhadi (STEAM_0:0:86208722): // Luckily I've already escaped into a place where I am untouched by the blast.
+Sat Oct  6 18:20:18 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct  6 18:20:18 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 18:20:32 2018	Dhadi (STEAM_0:0:86208722) disconnected
+Sat Oct  6 18:20:33 2018	Itz IrnBru118 (STEAM_0:1:160171071): // This map is amazing lol
+Sat Oct  6 18:20:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc glad you like it!
+Sat Oct  6 18:21:19 2018	Itz IrnBru118 (STEAM_0:1:160171071): // Woah
+Sat Oct  6 18:21:27 2018	Dinky Winks (STEAM_0:0:56680165) has joined the game
+Sat Oct  6 18:21:27 2018	Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 18:22:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc SEE YA BOIS WE ESCAPED WITH THE ROCKET
+Sat Oct  6 18:22:35 2018	Valien (STEAM_0:1:41660292): // Yall gotta get to the blast shelter if you want to live.
+Sat Oct  6 18:22:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yall got like 30 seconds ma
+Sat Oct  6 18:22:47 2018	Itz IrnBru118 (STEAM_0:1:160171071): // I haven't a clue where anything is...
+Sat Oct  6 18:22:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc max*
+Sat Oct  6 18:22:53 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // at spwan
+Sat Oct  6 18:23:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc topside garage
+Sat Oct  6 18:23:02 2018	Itz IrnBru118 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 18:23:03 2018	Itz IrnBru118 (STEAM_0:1:160171071) spawned
+Sat Oct  6 18:23:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc where you first spawn in the server
+Sat Oct  6 18:24:17 2018	Sammy Boom was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 18:24:17 2018	Dinky Winks was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 18:24:22 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // This is the same as in Roblox. You just gotta pay for Gmod

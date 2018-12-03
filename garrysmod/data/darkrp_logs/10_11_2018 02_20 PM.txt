@@ -1,0 +1,134 @@
+Thu Oct 11 14:20:17 2018	chiken (STEAM_0:0:143719653) has joined the game
+Thu Oct 11 14:20:17 2018	chiken (STEAM_0:0:143719653) spawned
+Thu Oct 11 14:21:23 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) has joined the game
+Thu Oct 11 14:21:23 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 14:24:02 2018	chiken (STEAM_0:0:143719653) disconnected
+Thu Oct 11 14:25:44 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 14:28:06 2018	DimensionRMG (STEAM_0:1:111567013) has joined the game
+Thu Oct 11 14:28:06 2018	DimensionMAN (STEAM_0:1:111567013) spawned
+Thu Oct 11 14:32:43 2018	DimensionMAN (STEAM_0:1:111567013) spawned
+Thu Oct 11 14:32:55 2018	DimensionMAN (STEAM_0:1:111567013) spawned
+Thu Oct 11 14:32:56 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 14:32:56 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 14:33:23 2018	DimensionMAN (STEAM_0:1:111567013): // Hio
+Thu Oct 11 14:33:32 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // Hi
+Thu Oct 11 14:33:40 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 14:33:58 2018	DimensionMAN (STEAM_0:1:111567013): // Are you trying to blow up the core?
+Thu Oct 11 14:34:10 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // No, why you ask?
+Thu Oct 11 14:34:24 2018	DimensionMAN (STEAM_0:1:111567013): // Temp rising
+Thu Oct 11 14:35:25 2018	DimensionMAN (STEAM_0:1:111567013): // About to be warning state
+Thu Oct 11 14:35:45 2018	Spicy Wing (STEAM_0:0:176415266): /job Director of Swat
+Thu Oct 11 14:36:42 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // Need the collant maintance up or down to cool the Core?
+Thu Oct 11 14:36:49 2018	DimensionMAN (STEAM_0:1:111567013): // Up
+Thu Oct 11 14:36:53 2018	DimensionMAN (STEAM_0:1:111567013): // Turn on coolant
+Thu Oct 11 14:37:06 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Jesus, I will.
+Thu Oct 11 14:37:12 2018	DimensionMAN (STEAM_0:1:111567013): /nick HOS Dimension
+Thu Oct 11 14:37:13 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // I cant I am not by the coolant
+Thu Oct 11 14:37:17 2018	HOS Dimension (STEAM_0:1:111567013): // Okay.
+Thu Oct 11 14:38:27 2018	HOS Dimension (STEAM_0:1:111567013): //
+Thu Oct 11 14:39:42 2018	Spicy Wing (STEAM_0:0:176415266): /ooc It might be dalyed... Trams we're locked...
+Thu Oct 11 14:41:07 2018	HOS Dimension (STEAM_0:1:111567013): // Phew
+Thu Oct 11 14:42:30 2018	HOS Dimension (STEAM_0:1:111567013): // We turned them on
+Thu Oct 11 14:42:32 2018	HOS Dimension (STEAM_0:1:111567013): // Don't worry
+Thu Oct 11 14:42:41 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // You mean off
+Thu Oct 11 14:42:48 2018	Spicy Wing (STEAM_0:0:176415266): /name DoT Spicy
+Thu Oct 11 14:42:49 2018	HOS Dimension (STEAM_0:1:111567013): // We turned on the coolant and fans
+Thu Oct 11 14:43:00 2018	DoT Spicy (STEAM_0:0:176415266): /ooc OK.
+Thu Oct 11 14:43:05 2018	DoT Spicy (STEAM_0:0:176415266): /ooc Well it seems fine then.
+Thu Oct 11 14:43:16 2018	DoT Spicy (STEAM_0:0:176415266): /name DoS Spicy
+Thu Oct 11 14:43:17 2018	HOS Dimension (STEAM_0:1:111567013): // Yup. Cooling
+Thu Oct 11 14:45:34 2018	HOS Dimension (STEAM_0:1:111567013): // Try now
+Thu Oct 11 14:47:48 2018	DoS Spicy (STEAM_0:0:176415266): /ooc Stoopid
+Thu Oct 11 14:47:53 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): //?
+Thu Oct 11 14:47:57 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // ?
+Thu Oct 11 14:48:00 2018	HOS Dimension (STEAM_0:1:111567013): // ?
+Thu Oct 11 14:48:09 2018	DoS Spicy (STEAM_0:0:176415266): /ooc You turned on the microphone.
+Thu Oct 11 14:48:19 2018	HOS Dimension (STEAM_0:1:111567013): // Why's that stupid LOL
+Thu Oct 11 14:48:34 2018	DoS Spicy (STEAM_0:0:176415266): /ooc Cause every man should know what a Microphone looks like.
+Thu Oct 11 14:49:43 2018	HOS Dimension (STEAM_0:1:111567013): !suggestions
+Thu Oct 11 14:50:25 2018	[GER] Lp_Zombie was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Thu Oct 11 14:50:30 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 14:50:51 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 14:51:17 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 14:52:00 2018	DoS Spicy was killed by Entity [2889][func_rotating] with a func_rotating
+Thu Oct 11 14:52:01 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 14:52:10 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 14:52:23 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 14:52:25 2018	DoS Spicy (STEAM_0:0:176415266): /ooc What
+Thu Oct 11 14:52:28 2018	HOS Dimension (STEAM_0:1:111567013): /advert RELEASEEE MEEE
+Thu Oct 11 14:52:46 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 14:53:24 2018	HOS Dimension (STEAM_0:1:111567013): // Might wanna activate mergency quarantine
+Thu Oct 11 14:53:45 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): I cant
+Thu Oct 11 14:53:53 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): Doesnt say
+Thu Oct 11 14:54:35 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): /Advert Security to Containment Cells!
+Thu Oct 11 14:54:36 2018	HOS Dimension (STEAM_0:1:111567013): // You should probably have locked the doors
+Thu Oct 11 14:54:49 2018	DoS Spicy (STEAM_0:0:176415266): /name DoS Spicy
+Thu Oct 11 14:55:07 2018	HOS Dimension (STEAM_0:1:111567013): / Nooo
+Thu Oct 11 14:55:12 2018	HOS Dimension (STEAM_0:1:111567013): Im trapped
+Thu Oct 11 14:55:16 2018	HOS Dimension (STEAM_0:1:111567013): NUUU
+Thu Oct 11 14:55:32 2018	HOS Dimension (STEAM_0:1:111567013): GET ME OUT OF THIS TRAP YOU TRAPPEZr
+Thu Oct 11 14:55:45 2018	HOS Dimension (STEAM_0:1:111567013): I WILL DO WHAT YOU WANT IF YOU RLEEASE ME
+Thu Oct 11 14:55:56 2018	HOS Dimension (STEAM_0:1:111567013): Just let me out and I will go back in my cell
+Thu Oct 11 14:57:04 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 14:57:05 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // Security is afk
+Thu Oct 11 14:57:10 2018	HOS Dimension (STEAM_0:1:111567013): // Im back in my cell
+Thu Oct 11 14:57:40 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 14:57:55 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 14:58:00 2018	DoS Spicy (STEAM_0:0:176415266): /ooc Oh shit I wen't past the cells.
+Thu Oct 11 14:58:40 2018	HOS Dimension (STEAM_0:1:111567013): // All clear
+Thu Oct 11 14:58:43 2018	HOS Dimension (STEAM_0:1:111567013): // At the cells
+Thu Oct 11 14:58:51 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // Nice
+Thu Oct 11 14:58:55 2018	HOS Dimension (STEAM_0:1:111567013): // Can someone be an scp lol
+Thu Oct 11 14:59:10 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // What for a?
+Thu Oct 11 14:59:15 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // 049?
+Thu Oct 11 14:59:16 2018	HOS Dimension (STEAM_0:1:111567013): // I wanna do research 
+Thu Oct 11 14:59:37 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:00:08 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // Why I think I hear the Lockdown again?
+Thu Oct 11 15:00:30 2018	HOS Dimension (STEAM_0:1:111567013): // Because im gonna researhc ypu
+Thu Oct 11 15:00:53 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // But to deactivate it, you need to be the Boss
+Thu Oct 11 15:01:02 2018	HOS Dimension (STEAM_0:1:111567013): // I am
+Thu Oct 11 15:01:14 2018	HOS Dimension (STEAM_0:1:111567013): // PLEASE
+Thu Oct 11 15:01:17 2018	HOS Dimension (STEAM_0:1:111567013):  Dont kill
+Thu Oct 11 15:01:18 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // I man the plant director
+Thu Oct 11 15:01:20 2018	HOS Dimension (STEAM_0:1:111567013): Ill do anything!
+Thu Oct 11 15:01:27 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 15:01:50 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 15:01:53 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // wow
+Thu Oct 11 15:03:37 2018	HOS Dimension (STEAM_0:1:111567013): 
+Thu Oct 11 15:03:48 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // Lol, its works
+Thu Oct 11 15:04:33 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // I want fight again 049-2
+Thu Oct 11 15:05:12 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 15:05:28 2018	DoS Spicy (STEAM_0:0:176415266) spawned
+Thu Oct 11 15:06:14 2018	HOS Dimension (STEAM_0:1:111567013): /suggestions
+Thu Oct 11 15:06:18 2018	HOS Dimension (STEAM_0:1:111567013): /suggestion
+Thu Oct 11 15:06:21 2018	HOS Dimension (STEAM_0:1:111567013): !suggestions
+Thu Oct 11 15:06:27 2018	DoS Spicy (STEAM_0:0:176415266) disconnected
+Thu Oct 11 15:06:42 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // I will shoot you.
+Thu Oct 11 15:06:53 2018	[GER] Lp_Zombie (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:06:59 2018	HOS Dimension (STEAM_0:1:111567013) spawned
+Thu Oct 11 15:07:19 2018	HOS Dimension (STEAM_0:1:111567013): /advert Director to cells to release quarantine
+Thu Oct 11 15:08:12 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): /advert Release Quarantine
+Thu Oct 11 15:08:39 2018	HOS Dimension (STEAM_0:1:111567013): // Ugh no scp's to research UHGH
+Thu Oct 11 15:08:52 2018	[GER] Lp_Zombie (STEAM_0:1:119925216): // :C
+Thu Oct 11 15:10:19 2018	HOS Dimension (STEAM_0:1:111567013): /advert Director to cells! Director to cells! Tell me if you coming
+Thu Oct 11 15:10:29 2018	Arnold (STEAM_0:1:119925216): // I am coming
+Thu Oct 11 15:10:41 2018	Arnold (STEAM_0:1:119925216): // 2min
+Thu Oct 11 15:10:58 2018	HOS Dimension (STEAM_0:1:111567013): // Im trapped in here lol
+Thu Oct 11 15:11:06 2018	Arnold (STEAM_0:1:119925216): // How???
+Thu Oct 11 15:11:12 2018	HOS Dimension (STEAM_0:1:111567013): // Quarantine
+Thu Oct 11 15:11:17 2018	HOS Dimension (STEAM_0:1:111567013): // Release the quarantine plese
+Thu Oct 11 15:11:25 2018	Arnold (STEAM_0:1:119925216): // I already deactivt them
+Thu Oct 11 15:11:35 2018	HOS Dimension (STEAM_0:1:111567013): // Then do it again
+Thu Oct 11 15:11:44 2018	Arnold was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 15:11:44 2018	Arnold (STEAM_0:1:119925216): //ok
+Thu Oct 11 15:11:46 2018	HOS Dimension (STEAM_0:1:111567013): // Quickalay
+Thu Oct 11 15:11:46 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:11:53 2018	Arnold (STEAM_0:1:119925216): // wow
+Thu Oct 11 15:12:07 2018	HOS Dimension (STEAM_0:1:111567013) disconnected
+Thu Oct 11 15:12:09 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:12:19 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:13:03 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:13:47 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:14:49 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:14:59 2018	Arnold (STEAM_0:1:119925216) spawned
+Thu Oct 11 15:15:33 2018	Arnold (STEAM_0:1:119925216) disconnected

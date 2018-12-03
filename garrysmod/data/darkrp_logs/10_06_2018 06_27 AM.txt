@@ -1,0 +1,113 @@
+Sat Oct  6 06:27:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 06:27:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 06:30:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Oct  6 07:45:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 07:45:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 08:23:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Oct  6 15:13:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 15:13:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 15:13:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:13:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:14:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methbuyer
+Sat Oct  6 15:14:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methdropoff
+Sat Oct  6 15:17:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methbuyer
+Sat Oct  6 15:18:00 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 15:18:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 15:18:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !god ^
+Sat Oct  6 15:18:36 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 15:18:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 15:19:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:19:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:20:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methdropoff
+Sat Oct  6 15:20:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methdropoff
+Sat Oct  6 15:21:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methbuyer
+Sat Oct  6 15:21:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_methbuyer
+Sat Oct  6 15:21:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:21:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:30:27 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 15:30:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 15:30:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:30:58 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 15:30:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 15:31:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Sat Oct  6 15:31:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 15:37:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fb_egriddle
+Sat Oct  6 15:37:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fb_egriddle
+Sat Oct  6 15:37:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fb_egriddle
+Sat Oct  6 15:37:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT ff_fryer
+Sat Oct  6 15:37:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT ff_fryer
+Sat Oct  6 15:37:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT ff_fryer
+Sat Oct  6 15:37:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Oct  6 15:37:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Oct  6 15:37:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Oct  6 15:37:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Oct  6 15:37:26 2018	LiteralTable (STEAM_0:1:215843675) has joined the game
+Sat Oct  6 15:37:26 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:37:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fz_pizzaoven
+Sat Oct  6 15:37:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fs_sodamachine
+Sat Oct  6 15:37:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT fs_sodamachine
+Sat Oct  6 15:40:53 2018	LiteralTable (STEAM_0:1:215843675): @Eyy
+Sat Oct  6 15:40:58 2018	LiteralTable (STEAM_0:1:215843675): @you can own the door
+Sat Oct  6 15:41:32 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:42:14 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:42:15 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct  6 15:42:15 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 15:42:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sat Oct  6 15:43:19 2018	Valien (STEAM_0:1:41660292) spawned
+Sat Oct  6 15:46:17 2018	LiteralTable (STEAM_0:1:215843675): @Ownable doors
+Sat Oct  6 15:46:29 2018	LiteralTable (STEAM_0:1:215843675): @For the rocket
+Sat Oct  6 15:49:07 2018	LiteralTable was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct  6 15:49:08 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:49:17 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:49:32 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:52:45 2018	Valien (STEAM_0:1:41660292): // Can we get an F in the chat for GMOD Cinema
+Sat Oct  6 15:53:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 15:53:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hit e on the intercom nigga
+Sat Oct  6 15:54:08 2018	LiteralTable (STEAM_0:1:215843675) spawned
+Sat Oct  6 15:54:09 2018	Valien (STEAM_0:1:41660292): // aight cool
+Sat Oct  6 15:54:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc it stop after 30 seconds or if you walk too far from it
+Sat Oct  6 15:56:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 15:58:17 2018	Valien (STEAM_0:1:41660292): /money
+Sat Oct  6 15:58:21 2018	Valien (STEAM_0:1:41660292): !money
+Sat Oct  6 15:58:35 2018	Valien (STEAM_0:1:41660292): /setmoney 100
+Sat Oct  6 15:59:16 2018	Valien (STEAM_0:1:41660292): /money
+Sat Oct  6 16:00:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc generator needs to be on for the e-coolant to work during a meltdown
+Sat Oct  6 16:01:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc it will work when the meltdown starts
+Sat Oct  6 16:01:36 2018	LiteralTable (STEAM_0:1:215843675): // I know
+Sat Oct  6 16:01:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ah ok
+Sat Oct  6 16:02:53 2018	LiteralTable (STEAM_0:1:215843675): E
+Sat Oct  6 16:02:59 2018	Valien (STEAM_0:1:41660292): F
+Sat Oct  6 16:04:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 16:05:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im gonna have to go afk after the meltdown for an hour
+Sat Oct  6 16:05:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc more gay shit with my father
+Sat Oct  6 16:05:46 2018	Valien (STEAM_0:1:41660292): // Your father is now the burning.wav
+Sat Oct  6 16:05:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and by hour I mean probs more :( he likes to lie
+Sat Oct  6 16:06:46 2018	LiteralTable (STEAM_0:1:215843675): // Any other ways to make a meltdwon come faster
+Sat Oct  6 16:06:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no
+Sat Oct  6 16:06:56 2018	Valien (STEAM_0:1:41660292): // hack
+Sat Oct  6 16:06:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its not supposed to happen instant
+Sat Oct  6 16:07:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc but its staring in ~1 min
+Sat Oct  6 16:07:04 2018	LiteralTable (STEAM_0:1:215843675): // I know
+Sat Oct  6 16:07:19 2018	LiteralTable (STEAM_0:1:215843675): // Does the gen do anything to it?
+Sat Oct  6 16:07:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc just keeps emergency light on
+Sat Oct  6 16:07:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc red spinny things
+Sat Oct  6 16:07:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc generator wont turn back on if turned off when the lights go out
+Sat Oct  6 16:07:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc about 75 seconds from now
+Sat Oct  6 16:09:34 2018	LiteralTable (STEAM_0:1:215843675): // So how much longer
+Sat Oct  6 16:09:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc not too long
+Sat Oct  6 16:09:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its 4 mins totak
+Sat Oct  6 16:09:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc so like
+Sat Oct  6 16:09:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 2 mins
+Sat Oct  6 16:09:49 2018	LiteralTable (STEAM_0:1:215843675): // Need to get to the rocket
+Sat Oct  6 16:09:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): yea
+Sat Oct  6 16:09:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc you just passed the stop lol
+Sat Oct  6 16:10:00 2018	LiteralTable (STEAM_0:1:215843675): // Or tp me
+Sat Oct  6 16:10:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tab
+Sat Oct  6 16:11:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tab
+Sat Oct  6 16:11:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto va
+Sat Oct  6 16:11:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 16:11:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc to your right
+Sat Oct  6 16:11:38 2018	Valien (STEAM_0:1:41660292): !bring literaltable
+Sat Oct  6 16:12:13 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 16:12:19 2018	Valien was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 16:12:21 2018	Valien (STEAM_0:1:41660292) spawned

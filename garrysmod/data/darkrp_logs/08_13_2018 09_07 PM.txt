@@ -1,0 +1,18 @@
+Mon Aug 13 21:07:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug 13 21:07:29 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug 13 21:08:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug 13 21:08:08 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_crow
+Mon Aug 13 21:08:11 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_citizen
+Mon Aug 13 21:08:20 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_gman
+Mon Aug 13 21:08:22 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_barney
+Mon Aug 13 21:08:28 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_combine_s
+Mon Aug 13 21:09:03 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug 13 21:32:20 2018	TheDooberdude (STEAM_0:1:67358067) has joined the game
+Mon Aug 13 21:32:20 2018	TheDooberdude (STEAM_0:1:67358067) spawned
+Mon Aug 13 21:49:24 2018	TheDooberdude (STEAM_0:1:67358067) disconnected
+Mon Aug 13 22:13:47 2018	TheDooberdude (STEAM_0:1:67358067) has joined the game
+Mon Aug 13 22:13:47 2018	TheDooberdude (STEAM_0:1:67358067) spawned
+Mon Aug 13 22:23:34 2018	TheDooberdude was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Mon Aug 13 22:23:36 2018	TheDooberdude (STEAM_0:1:67358067) spawned
+Mon Aug 13 22:25:02 2018	TheDooberdude (STEAM_0:1:67358067) spawned
+Mon Aug 13 22:27:29 2018	TheDooberdude (STEAM_0:1:67358067) disconnected

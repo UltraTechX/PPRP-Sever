@@ -1,0 +1,433 @@
+Mon Oct  8 17:28:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 17:28:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:28:40 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Mon Oct  8 17:28:40 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:29:24 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 17:29:24 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 17:29:31 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct  8 17:29:31 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:29:34 2018	AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Mon Oct  8 17:29:34 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:29:50 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:30:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 17:30:39 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Mon Oct  8 17:30:39 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:31:06 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:31:36 2018	Craftygarrett (STEAM_0:1:184775407): // wait what
+Mon Oct  8 17:31:38 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Mon Oct  8 17:31:38 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 17:31:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Mon Oct  8 17:31:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ohg
+Mon Oct  8 17:31:48 2018	Dave Letcher (STEAM_0:1:52038966): // who why does the Chief get serbu but core guards get M1041
+Mon Oct  8 17:31:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto cafty
+Mon Oct  8 17:31:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dave
+Mon Oct  8 17:32:07 2018	Craftygarrett (STEAM_0:1:184775407): // because they are protecting the core
+Mon Oct  8 17:32:09 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:32:25 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:32:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:34:00 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 17:36:04 2018	Lukyn Red (STEAM_0:0:81441026): Hello
+Mon Oct  8 17:36:12 2018	Lukyn Red (STEAM_0:0:81441026): Are we heating up the core today?
+Mon Oct  8 17:36:29 2018	Lukyn Red (STEAM_0:0:81441026): I know
+Mon Oct  8 17:37:49 2018	Lukyn Red (STEAM_0:0:81441026): /y fan is off
+Mon Oct  8 17:38:03 2018	Donald Trump (STEAM_0:0:63800005): /pm lukyn Czech, you there?
+Mon Oct  8 17:38:11 2018	Lukyn Red (STEAM_0:0:81441026): /pm donald Where?
+Mon Oct  8 17:38:24 2018	Lukyn Red (STEAM_0:0:81441026): /pm donald I am here
+Mon Oct  8 17:38:24 2018	Donald Trump (STEAM_0:0:63800005): /pm lukyn No games, czech
+Mon Oct  8 17:39:53 2018	Donald Trump (STEAM_0:0:63800005): /pm Lukyn Come to Coolant, czech
+Mon Oct  8 17:39:58 2018	Donald Trump (STEAM_0:0:63800005): yo
+Mon Oct  8 17:40:07 2018	Craftygarrett was killed by Donald Trump with a cw_scarh
+Mon Oct  8 17:40:08 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:40:14 2018	Craftygarrett (STEAM_0:1:184775407): // fuck
+Mon Oct  8 17:40:20 2018	Donald Trump (STEAM_0:0:63800005): // no games
+Mon Oct  8 17:40:43 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:40:45 2018	Donald Trump (STEAM_0:0:63800005): /pm lukyn Czech, come
+Mon Oct  8 17:40:50 2018	Donald Trump (STEAM_0:0:63800005): /pm lukyn come to core
+Mon Oct  8 17:43:08 2018	Lukyn Red (STEAM_0:0:81441026): /advert The core room has been made restricted access only
+Mon Oct  8 17:43:08 2018	Donald Trump was killed by Dave Letcher with a cw_g36c
+Mon Oct  8 17:43:18 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:43:25 2018	Dave Letcher (STEAM_0:1:52038966): /advert hes down, 1 of you guard the pumps & down
+Mon Oct  8 17:43:31 2018	Dave Letcher (STEAM_0:1:52038966): /advert pumps & fan*
+Mon Oct  8 17:44:03 2018	Dave Letcher (STEAM_0:1:52038966): // Ima make an alert bind
+Mon Oct  8 17:44:37 2018	Dave Letcher (STEAM_0:1:52038966): /advert I said one of you guard the fan and pumps, hes down here
+Mon Oct  8 17:44:46 2018	Donald Trump was killed by [Opi] Fat Gay with a cw_g36c
+Mon Oct  8 17:44:50 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:45:10 2018	Donald Trump (STEAM_0:0:63800005): // You win Czech
+Mon Oct  8 17:45:22 2018	Donald Trump (STEAM_0:0:63800005): // I stop now
+Mon Oct  8 17:45:37 2018	Lukyn Red (STEAM_0:0:81441026): what are these mixers for?
+Mon Oct  8 17:45:39 2018	Donald Trump (STEAM_0:0:63800005) spawned
+Mon Oct  8 17:45:54 2018	[Opi] Fat Gay was killed by Entity [2748][func_rotating] with a func_rotating
+Mon Oct  8 17:45:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:46:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Mon Oct  8 17:46:12 2018	[Opi] Fat Gay was killed by Entity [2749][func_rotating] with a func_rotating
+Mon Oct  8 17:46:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:46:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i have to drill concrete again
+Mon Oct  8 17:46:34 2018	Donald Trump (STEAM_0:0:63800005): /advert attention
+Mon Oct  8 17:46:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hopefully brb soon
+Mon Oct  8 17:46:38 2018	Donald Trump (STEAM_0:0:63800005): a/a
+Mon Oct  8 17:46:41 2018	Lukyn Red (STEAM_0:0:81441026): there are 2 trains
+Mon Oct  8 17:46:42 2018	Donald Trump (STEAM_0:0:63800005): /advert all plant personnel
+Mon Oct  8 17:46:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:46:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job AFK
+Mon Oct  8 17:46:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job AFK
+Mon Oct  8 17:46:59 2018	Dave Letcher (STEAM_0:1:52038966): /advert Test
+Mon Oct  8 17:47:01 2018	Dave Letcher (STEAM_0:1:52038966): /advert[Automated Announcment] ALERT! The Owner of this device is in danger, be aware for any threats
+Mon Oct  8 17:47:02 2018	Donald Trump (STEAM_0:0:63800005): /advert We will be destroying the core to build another core because this one is a peice of shit
+Mon Oct  8 17:47:04 2018	Donald Trump (STEAM_0:0:63800005): /advert piece*
+Mon Oct  8 17:47:05 2018	Lukyn Red (STEAM_0:0:81441026): /pm craf There are 2 trains and 2 trams
+Mon Oct  8 17:47:07 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Announcment] ALERT! The Owner of this device is in danger, be aware for any threats
+Mon Oct  8 17:47:09 2018	Donald Trump (STEAM_0:0:63800005): Greetings.
+Mon Oct  8 17:47:13 2018	Dave Letcher (STEAM_0:1:52038966): /advert test over
+Mon Oct  8 17:47:17 2018	Donald Trump (STEAM_0:0:63800005): Hello
+Mon Oct  8 17:47:28 2018	Donald Trump (STEAM_0:0:63800005): As Plant Director I am suspending the core operation for the time being
+Mon Oct  8 17:47:37 2018	Donald Trump (STEAM_0:0:63800005): Cool
+Mon Oct  8 17:47:50 2018	Donald Trump (STEAM_0:0:63800005): We need to stop using so much coolant
+Mon Oct  8 17:47:59 2018	Donald Trump (STEAM_0:0:63800005): Do you n-
+Mon Oct  8 17:48:03 2018	Donald Trump (STEAM_0:0:63800005): Coolant costs a lot of money fam
+Mon Oct  8 17:48:08 2018	Donald Trump (STEAM_0:0:63800005): Just shut down 1 coolant pump
+Mon Oct  8 17:48:19 2018	Donald Trump (STEAM_0:0:63800005): No not anymore
+Mon Oct  8 17:48:31 2018	Donald Trump (STEAM_0:0:63800005): TWe are living in Uruguay, right?
+Mon Oct  8 17:48:43 2018	Donald Trump (STEAM_0:0:63800005): Come on man
+Mon Oct  8 17:48:48 2018	Donald Trump (STEAM_0:0:63800005): TIt will be cool as fuck
+Mon Oct  8 17:48:53 2018	Donald Trump (STEAM_0:0:63800005): Come on man 
+Mon Oct  8 17:48:59 2018	Donald Trump (STEAM_0:0:63800005): Come on fam
+Mon Oct  8 17:49:05 2018	Donald Trump (STEAM_0:0:63800005): You are nice guy but I need to see meltdowns
+Mon Oct  8 17:49:16 2018	Donald Trump (STEAM_0:0:63800005): But I own this plant
+Mon Oct  8 17:49:26 2018	Donald Trump (STEAM_0:0:63800005): Why don't you head home to yu-your family earlier fam
+Mon Oct  8 17:49:37 2018	Donald Trump (STEAM_0:0:63800005): I'll give you a 3-month paid vacation
+Mon Oct  8 17:49:55 2018	Donald Trump (STEAM_0:0:63800005): Fair enough 
+Mon Oct  8 17:50:09 2018	Donald Trump (STEAM_0:0:63800005): So can I make my office here then?
+Mon Oct  8 17:50:20 2018	Donald Trump (STEAM_0:0:63800005): I like the compayn
+Mon Oct  8 17:50:21 2018	Donald Trump (STEAM_0:0:63800005): company*
+Mon Oct  8 17:50:25 2018	Donald Trump (STEAM_0:0:63800005): Backspace doesn't work
+Mon Oct  8 17:50:36 2018	Donald Trump (STEAM_0:0:63800005): Can you install another lock on ths one
+Mon Oct  8 17:50:38 2018	Donald Trump (STEAM_0:0:63800005): this*
+Mon Oct  8 17:50:41 2018	Donald Trump (STEAM_0:0:63800005): backspace does not work
+Mon Oct  8 17:50:49 2018	A Random Commie (STEAM_0:0:75867497) has joined the game
+Mon Oct  8 17:50:49 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 17:50:55 2018	Lukyn Red (STEAM_0:0:81441026): press alt + shift
+Mon Oct  8 17:50:57 2018	Lukyn Red (STEAM_0:0:81441026): twice
+Mon Oct  8 17:51:06 2018	Donald Trump (STEAM_0:0:63800005): I was convinced to not destroy the facility by him
+Mon Oct  8 17:51:07 2018	Donald Trump (STEAM_0:0:63800005): thanks btw
+Mon Oct  8 17:51:32 2018	Lukyn Red (STEAM_0:0:81441026): ok let'sc all it passive pump
+Mon Oct  8 17:51:39 2018	Lukyn Red (STEAM_0:0:81441026): this will be active pump
+Mon Oct  8 17:51:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:51:52 2018	A Random Commie (STEAM_0:0:75867497): // yo
+Mon Oct  8 17:51:58 2018	Enviro (STEAM_0:0:80115103): // hi
+Mon Oct  8 17:51:59 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:52:09 2018	Donald Trump (STEAM_0:0:63800005): /y help
+Mon Oct  8 17:52:13 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 17:52:24 2018	Lukyn Red (STEAM_0:0:81441026): 
+Mon Oct  8 17:52:28 2018	Donald Trump (STEAM_0:0:63800005): /y thank you
+Mon Oct  8 17:52:36 2018	Enviro (STEAM_0:0:80115103): // being this shit is bornig most of the time aaa
+Mon Oct  8 17:52:54 2018	Lukyn Red (STEAM_0:0:81441026): // you need a researcher
+Mon Oct  8 17:53:17 2018	Lukyn Red (STEAM_0:0:81441026): this is a coolant reservoir
+Mon Oct  8 17:53:19 2018	Lukyn Red (STEAM_0:0:81441026): not a pool
+Mon Oct  8 17:53:20 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 17:53:40 2018	Lukyn Red (STEAM_0:0:81441026): you had facility-destruction ideas
+Mon Oct  8 17:53:47 2018	Donald Trump (STEAM_0:0:63800005): Are you sure this is a good idea, keeping both pumps on
+Mon Oct  8 17:53:54 2018	Donald Trump (STEAM_0:0:63800005): We are wasting money
+Mon Oct  8 17:53:55 2018	Lukyn Red (STEAM_0:0:81441026): we can turn thius one off
+Mon Oct  8 17:53:57 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:53:57 2018	Dave Letcher (STEAM_0:1:52038966): // "Omg this thing which can only work with 1 other role is boring when it doesn't have the other role it was designed for"
+Mon Oct  8 17:54:08 2018	Lukyn Red (STEAM_0:0:81441026): // that's RP boy
+Mon Oct  8 17:54:14 2018	Donald Trump (STEAM_0:0:63800005): Sir
+Mon Oct  8 17:54:22 2018	Donald Trump (STEAM_0:0:63800005): I want to promote you to manager of this area
+Mon Oct  8 17:54:29 2018	Lukyn Red (STEAM_0:0:81441026): Really?
+Mon Oct  8 17:54:31 2018	Donald Trump (STEAM_0:0:63800005): Yes
+Mon Oct  8 17:54:35 2018	Enviro (STEAM_0:0:80115103): /advert t
+Mon Oct  8 17:54:39 2018	Donald Trump (STEAM_0:0:63800005): Please manage the pumps and the fans
+Mon Oct  8 17:54:42 2018	Lukyn Red (STEAM_0:0:81441026): I would do much more paperwork than keeping this cool
+Mon Oct  8 17:54:42 2018	Enviro (STEAM_0:0:80115103): /advert Any sign of terrorists in the facility?
+Mon Oct  8 17:54:54 2018	A Random Commie (STEAM_0:0:75867497): // metagame
+Mon Oct  8 17:55:00 2018	Donald Trump (STEAM_0:0:63800005): Actually I do much more of the bureaucratic work
+Mon Oct  8 17:55:01 2018	Enviro (STEAM_0:0:80115103): // lmao what
+Mon Oct  8 17:55:11 2018	Donald Trump (STEAM_0:0:63800005): I just saw Bin Laden in an elevator btw
+Mon Oct  8 17:55:13 2018	Donald Trump (STEAM_0:0:63800005): Keep this area safe
+Mon Oct  8 17:55:27 2018	Craftygarrett was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:55:29 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:55:48 2018	Dave Letcher was killed by A Random Commie with a cw_scarh
+Mon Oct  8 17:55:49 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Announcment] ALERT! The Owner of this device is in danger, be aware for any threats
+Mon Oct  8 17:55:56 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 17:55:58 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:56:08 2018	Donald Trump (STEAM_0:0:63800005): We dont need a massive blender to cool our plant
+Mon Oct  8 17:56:15 2018	Lukyn Red (STEAM_0:0:81441026): that's a fan
+Mon Oct  8 17:56:17 2018	A Random Commie (STEAM_0:0:75867497): @ can someone come and somy something for me in te mic
+Mon Oct  8 17:56:17 2018	Lukyn Red (STEAM_0:0:81441026): and we need
+Mon Oct  8 17:56:18 2018	Donald Trump (STEAM_0:0:63800005): This is nice, though.
+Mon Oct  8 17:56:24 2018	Lukyn Red (STEAM_0:0:81441026): do you know what 1000°K is?
+Mon Oct  8 17:56:25 2018	A Random Commie (STEAM_0:0:75867497): @ say*
+Mon Oct  8 17:56:27 2018	Donald Trump (STEAM_0:0:63800005): Holy shit
+Mon Oct  8 17:56:28 2018	A Random Commie (STEAM_0:0:75867497): say
+Mon Oct  8 17:56:32 2018	A Random Commie (STEAM_0:0:75867497): allahu akbar
+Mon Oct  8 17:56:32 2018	Donald Trump (STEAM_0:0:63800005): 1000 kelvin?
+Mon Oct  8 17:56:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:56:35 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Mon Oct  8 17:56:40 2018	Dave Letcher (STEAM_0:1:52038966): 
+Mon Oct  8 17:56:45 2018	Lukyn Red (STEAM_0:0:81441026): that's 273000°C
+Mon Oct  8 17:56:48 2018	Enviro (STEAM_0:0:80115103): // oh 
+Mon Oct  8 17:56:48 2018	Donald Trump (STEAM_0:0:63800005): Yeah, I know, they wouldn't promote me to this job for nothing.
+Mon Oct  8 17:56:51 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:56:56 2018	Donald Trump (STEAM_0:0:63800005): There is a terrorist on the intercom.
+Mon Oct  8 17:57:04 2018	Dave Letcher (STEAM_0:1:52038966): 
+Mon Oct  8 17:57:04 2018	A Random Commie (STEAM_0:0:75867497): // epic
+Mon Oct  8 17:57:10 2018	Donald Trump (STEAM_0:0:63800005): Red
+Mon Oct  8 17:57:15 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:57:17 2018	Lukyn Red (STEAM_0:0:81441026): yes?
+Mon Oct  8 17:57:21 2018	Donald Trump (STEAM_0:0:63800005): I need you to open the keypad for the Emergency Pump, please.
+Mon Oct  8 17:57:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i am expecting the server population to spike upwards in 2-3 hours because school will be over
+Mon Oct  8 17:57:28 2018	Lukyn Red (STEAM_0:0:81441026): Why?
+Mon Oct  8 17:57:36 2018	Donald Trump (STEAM_0:0:63800005): I override you
+Mon Oct  8 17:57:37 2018	Dave Letcher (STEAM_0:1:52038966): // it is over
+Mon Oct  8 17:57:40 2018	Donald Trump (STEAM_0:0:63800005): As director
+Mon Oct  8 17:57:44 2018	A Random Commie (STEAM_0:0:75867497): // timezones
+Mon Oct  8 17:57:48 2018	Donald Trump (STEAM_0:0:63800005): Please do it immediately
+Mon Oct  8 17:57:51 2018	Lukyn Red (STEAM_0:0:81441026): You wanted to blow up the core to buy a new one
+Mon Oct  8 17:57:57 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 17:58:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc not in the us, most schools go until 2/3 PM and in EST its now 2
+Mon Oct  8 17:58:02 2018	Donald Trump (STEAM_0:0:63800005): No, I only have 5k in my checking account
+Mon Oct  8 17:58:13 2018	Dave Letcher (STEAM_0:1:52038966): 
+Mon Oct  8 17:58:17 2018	Lukyn Red (STEAM_0:0:81441026): Just don't blow this facility up
+Mon Oct  8 17:58:19 2018	Donald Trump (STEAM_0:0:63800005): k
+Mon Oct  8 17:58:28 2018	Donald Trump (STEAM_0:0:63800005): /drop
+Mon Oct  8 17:58:30 2018	A Random Commie was killed by Himself with a suicide trick
+Mon Oct  8 17:58:33 2018	A Random Commie (STEAM_0:0:75867497): how
+Mon Oct  8 17:58:40 2018	Donald Trump was killed by Entity [2746][func_rotating] with a func_rotating
+Mon Oct  8 17:58:40 2018	Dave Letcher (STEAM_0:1:52038966): // effictive 300hp
+Mon Oct  8 17:58:40 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 17:58:48 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 17:58:49 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 17:58:53 2018	Donald Trump (STEAM_0:0:63800005) disconnected
+Mon Oct  8 17:59:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 17:59:20 2018	Enviro (STEAM_0:0:80115103): // still nothing
+Mon Oct  8 17:59:32 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 17:59:43 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 17:59:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 17:59:55 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:00:01 2018	Craftygarrett (STEAM_0:1:184775407): // fat i have a question
+Mon Oct  8 18:00:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 18:00:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ?
+Mon Oct  8 18:00:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Mon Oct  8 18:00:09 2018	A Random Commie (STEAM_0:0:75867497): // swat medic no primary gun??
+Mon Oct  8 18:00:15 2018	Craftygarrett (STEAM_0:1:184775407): // what is the tram release
+Mon Oct  8 18:00:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i mean they have less guns but they have a medkit
+Mon Oct  8 18:00:29 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:00:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc tram release is for the tram override
+Mon Oct  8 18:00:57 2018	Mike (STEAM_0:1:41660292): !goto Fa
+Mon Oct  8 18:01:12 2018	Lukyn Red was killed by Enviro with a fas2_thrown_m67
+Mon Oct  8 18:01:20 2018	A Random Commie (STEAM_0:0:75867497): oof
+Mon Oct  8 18:01:30 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 18:02:39 2018	Lukyn Red (STEAM_0:0:81441026): bye
+Mon Oct  8 18:02:53 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:02:56 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Announcment] ALERT! The Owner of this device is in danger, be aware for any threats
+Mon Oct  8 18:03:01 2018	Dave Letcher (STEAM_0:1:52038966): /advert Terrorrist at Core
+Mon Oct  8 18:03:04 2018	Lukyn Red (STEAM_0:0:81441026): someone broke through my defenses
+Mon Oct  8 18:03:11 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Announcment] ALERT! The Owner of this device is in danger, be aware for any threats
+Mon Oct  8 18:03:16 2018	Dave Letcher was killed by Enviro with a cw_scarh
+Mon Oct  8 18:03:24 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:03:24 2018	Mike (STEAM_0:1:41660292): // Plant director comes with a deagle?
+Mon Oct  8 18:05:29 2018	Dave Letcher (STEAM_0:1:52038966): // the rewards system is explotiable
+Mon Oct  8 18:05:50 2018	Mike (STEAM_0:1:41660292): !goto aio
+Mon Oct  8 18:05:54 2018	Dave Letcher (STEAM_0:1:52038966): 
+Mon Oct  8 18:05:57 2018	Mike (STEAM_0:1:41660292): !goto  Mine
+Mon Oct  8 18:05:58 2018	Dave Letcher (STEAM_0:1:52038966): 
+Mon Oct  8 18:06:02 2018	A Random Commie (STEAM_0:0:75867497): the time is 8:47 am
+Mon Oct  8 18:06:11 2018	Mike (STEAM_0:1:41660292): !goto AIO
+Mon Oct  8 18:06:21 2018	Mike (STEAM_0:1:41660292): 
+Mon Oct  8 18:06:27 2018	Mike (STEAM_0:1:41660292): 
+Mon Oct  8 18:06:32 2018	Craftygarrett (STEAM_0:1:184775407): /ad i request a medic in teh core
+Mon Oct  8 18:06:37 2018	Craftygarrett was killed by Enviro with a cw_scarh
+Mon Oct  8 18:06:38 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:06:59 2018	Craftygarrett (STEAM_0:1:184775407): // does osama get a medic
+Mon Oct  8 18:07:04 2018	Dave Letcher (STEAM_0:1:52038966): // no
+Mon Oct  8 18:07:13 2018	Craftygarrett (STEAM_0:1:184775407): // how much heath do you get
+Mon Oct  8 18:07:54 2018	xxxpurplespritexxx (STEAM_0:0:50093763) has joined the game
+Mon Oct  8 18:07:54 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:08:08 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:08:30 2018	Craftygarrett was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:08:31 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:08:34 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 18:08:51 2018	Dave Letcher (STEAM_0:1:52038966): /advert [Automated Announcment] ALERT! The Owner of this device is in danger, be aware for any threats
+Mon Oct  8 18:08:55 2018	Dave Letcher (STEAM_0:1:52038966): /advert False
+Mon Oct  8 18:09:46 2018	Lukyn Red (STEAM_0:0:81441026): good work
+Mon Oct  8 18:09:46 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:10:06 2018	A Random Commie (STEAM_0:0:75867497): // add VOX
+Mon Oct  8 18:10:15 2018	Lukyn Red (STEAM_0:0:81441026): // Vox os from Black mesa
+Mon Oct  8 18:10:15 2018	Enviro (STEAM_0:0:80115103): // bu with a custom voice
+Mon Oct  8 18:10:16 2018	Mike (STEAM_0:1:41660292): // Use F9 Or F10
+Mon Oct  8 18:10:18 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Mon Oct  8 18:10:28 2018	Enviro (STEAM_0:0:80115103): // VOX but with Mikes voice instead
+Mon Oct  8 18:11:10 2018	Lukyn Red was killed by xxxpurplespritexxx with a fas2_thrown_m67
+Mon Oct  8 18:11:32 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 18:12:42 2018	Craftygarrett (STEAM_0:1:184775407): /pm red i cant get into the fan
+Mon Oct  8 18:12:46 2018	[AIO l Mine_Turtle (STEAM_0:1:52038966) has joined the game
+Mon Oct  8 18:12:46 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:12:55 2018	Lukyn Red (STEAM_0:0:81441026): /pm crafty It's for workers only
+Mon Oct  8 18:13:02 2018	xxxpurplespritexxx (STEAM_0:0:50093763): stop right there
+Mon Oct  8 18:13:07 2018	Lukyn Red (STEAM_0:0:81441026): /pm crafty try going around
+Mon Oct  8 18:13:11 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:13:14 2018	xxxpurplespritexxx (STEAM_0:0:50093763): or i blow up my self up and this place
+Mon Oct  8 18:13:18 2018	Craftygarrett (STEAM_0:1:184775407): /pm red did
+Mon Oct  8 18:13:31 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:13:33 2018	xxxpurplespritexxx (STEAM_0:0:50093763): open the core door
+Mon Oct  8 18:13:41 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:13:43 2018	Lukyn Red (STEAM_0:0:81441026): 
+Mon Oct  8 18:13:44 2018	xxxpurplespritexxx (STEAM_0:0:50093763): so i can blow this
+Mon Oct  8 18:13:48 2018	xxxpurplespritexxx (STEAM_0:0:50093763): place up
+Mon Oct  8 18:13:48 2018	Lukyn Red (STEAM_0:0:81441026): 
+Mon Oct  8 18:14:53 2018	Lukyn Red (STEAM_0:0:81441026): // Why can't you just stop nuking this place. There is a portal to a different place. SCPs. Passive RP
+Mon Oct  8 18:15:02 2018	xxxpurplespritexxx (STEAM_0:0:50093763): /job NPD Terrorist
+Mon Oct  8 18:15:12 2018	Craftygarrett was killed by Enviro with a cw_scarh
+Mon Oct  8 18:15:16 2018	Enviro (STEAM_0:0:80115103): // lol
+Mon Oct  8 18:15:25 2018	Craftygarrett (STEAM_0:1:184775407): // wtf how much fucking health do you get
+Mon Oct  8 18:15:25 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:15:30 2018	Enviro (STEAM_0:0:80115103): // enough
+Mon Oct  8 18:16:23 2018	A Random Commie (STEAM_0:0:75867497): OPEN
+Mon Oct  8 18:16:36 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 18:16:41 2018	Mike was killed by Himself with a suicide trick
+Mon Oct  8 18:16:52 2018	A Random Commie (STEAM_0:0:75867497): // WOW FAILRP
+Mon Oct  8 18:16:59 2018	Mike (STEAM_0:1:41660292): // Yeetus
+Mon Oct  8 18:17:01 2018	Lukyn Red (STEAM_0:0:81441026): // btw you can take hostages
+Mon Oct  8 18:17:01 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 18:17:07 2018	Lukyn Red (STEAM_0:0:81441026): // and get up to 100 000
+Mon Oct  8 18:17:15 2018	Mike (STEAM_0:1:41660292): !goto random
+Mon Oct  8 18:17:16 2018	xxxpurplespritexxx (STEAM_0:0:50093763): ops
+Mon Oct  8 18:17:30 2018	Mike was killed by Entity [3474][env_fire] with a env_fire
+Mon Oct  8 18:17:31 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 18:17:35 2018	A Random Commie (STEAM_0:0:75867497): // wow admin abuse
+Mon Oct  8 18:17:41 2018	Craftygarrett (STEAM_0:1:184775407): // waht happen
+Mon Oct  8 18:17:49 2018	Lukyn Red (STEAM_0:0:81441026): I surrender!
+Mon Oct  8 18:17:50 2018	A Random Commie (STEAM_0:0:75867497): // he tps to me and spams nades
+Mon Oct  8 18:18:01 2018	xxxpurplespritexxx (STEAM_0:0:50093763): face the wall
+Mon Oct  8 18:18:13 2018	Mike (STEAM_0:1:41660292): !goto random
+Mon Oct  8 18:18:14 2018	Lukyn Red was killed by xxxpurplespritexxx with a cw_m1911
+Mon Oct  8 18:18:22 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 18:19:03 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 18:19:05 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:19:47 2018	Lukyn Red (STEAM_0:0:81441026): // OH NO
+Mon Oct  8 18:19:52 2018	Lukyn Red (STEAM_0:0:81441026): // ONLY  ACTIVE SUGGESTIONS
+Mon Oct  8 18:19:56 2018	Lukyn Red (STEAM_0:0:81441026): // 3
+Mon Oct  8 18:20:52 2018	Lukyn Red (STEAM_0:0:81441026): they are closing the coolant gates
+Mon Oct  8 18:20:58 2018	Enviro was killed by Craftygarrett with a cw_g36c
+Mon Oct  8 18:21:04 2018	xxxpurplespritexxx was killed by Craftygarrett with a cw_g36c
+Mon Oct  8 18:21:05 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:21:06 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:21:16 2018	Enviro (STEAM_0:0:80115103): !motd
+Mon Oct  8 18:21:39 2018	Dave Letcher (STEAM_0:1:52038966) spawned
+Mon Oct  8 18:21:40 2018	Lukyn Red (STEAM_0:0:81441026): // Who just set Fat Gay's rank to User
+Mon Oct  8 18:21:49 2018	Craftygarrett (STEAM_0:1:184775407): // he did
+Mon Oct  8 18:21:49 2018	Enviro (STEAM_0:0:80115103): // fat gay
+Mon Oct  8 18:21:49 2018	Lukyn Red (STEAM_0:0:81441026): I surrender
+Mon Oct  8 18:21:49 2018	Dave Letcher (STEAM_0:1:52038966): // Himself most likley
+Mon Oct  8 18:21:51 2018	A Random Commie (STEAM_0:0:75867497): // oo
+Mon Oct  8 18:21:51 2018	xxxpurplespritexxx (STEAM_0:0:50093763): follow
+Mon Oct  8 18:22:27 2018	Dave Letcher (STEAM_0:1:52038966) disconnected
+Mon Oct  8 18:22:47 2018	xxxpurplespritexxx (STEAM_0:0:50093763): wall now
+Mon Oct  8 18:22:54 2018	Lukyn Red was killed by xxxpurplespritexxx with a cw_m1911
+Mon Oct  8 18:23:10 2018	Lukyn Red (STEAM_0:0:81441026): /pm purple Why did you cuff me if you wanted to kill me?
+Mon Oct  8 18:23:11 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 18:23:20 2018	Enviro was killed by Craftygarrett with a cw_g36c
+Mon Oct  8 18:23:25 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:23:35 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:23:35 2018	Craftygarrett was killed by xxxpurplespritexxx with a env_explosion
+Mon Oct  8 18:23:36 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:23:39 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:23:56 2018	A Random Commie (STEAM_0:0:75867497): @ what is this button supposed to do
+Mon Oct  8 18:24:00 2018	Terry Moist (STEAM_0:1:62842914) has joined the game
+Mon Oct  8 18:24:00 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:24:07 2018	Craftygarrett (STEAM_0:1:184775407): /pm mike turn on the fan
+Mon Oct  8 18:24:08 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:24:11 2018	A Random Commie (STEAM_0:0:75867497): /me strips weapons and comms
+Mon Oct  8 18:24:14 2018	A Random Commie (STEAM_0:0:75867497): oof
+Mon Oct  8 18:24:16 2018	Lukyn Red (STEAM_0:0:81441026): /pm crafty I'll try to get E-coolant
+Mon Oct  8 18:24:19 2018	A Random Commie was killed by Craftygarrett with a cw_deagle
+Mon Oct  8 18:24:21 2018	A Random Commie (STEAM_0:0:75867497): wow
+Mon Oct  8 18:24:23 2018	A Random Commie (STEAM_0:0:75867497): fail
+Mon Oct  8 18:24:24 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:24:29 2018	Enviro (STEAM_0:0:80115103): // HAHAHH
+Mon Oct  8 18:24:30 2018	Enviro (STEAM_0:0:80115103): // YESS
+Mon Oct  8 18:24:33 2018	Enviro (STEAM_0:0:80115103): // YESS
+Mon Oct  8 18:24:34 2018	A Random Commie (STEAM_0:0:75867497): // crafty failrp
+Mon Oct  8 18:24:40 2018	Enviro (STEAM_0:0:80115103): // how commie?
+Mon Oct  8 18:24:51 2018	A Random Commie (STEAM_0:0:75867497): // shot me when i stripped him
+Mon Oct  8 18:24:52 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:24:59 2018	Enviro (STEAM_0:0:80115103): // how did you strip him
+Mon Oct  8 18:25:02 2018	Craftygarrett (STEAM_0:1:184775407): // dude i jsut spwan you cant do that
+Mon Oct  8 18:25:03 2018	Lukyn Red (STEAM_0:0:81441026): // Rp
+Mon Oct  8 18:25:03 2018	A Random Commie (STEAM_0:0:75867497): // /me
+Mon Oct  8 18:25:17 2018	Lukyn Red was killed by Enviro with a cw_scarh
+Mon Oct  8 18:25:22 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 18:25:28 2018	Enviro (STEAM_0:0:80115103): // THAT WAS CLOSE
+Mon Oct  8 18:25:33 2018	Enviro (STEAM_0:0:80115103): // WITH THE EMERGENCY COOLAN
+Mon Oct  8 18:25:36 2018	A Random Commie was killed by Craftygarrett with a cw_deagle
+Mon Oct  8 18:25:37 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:25:41 2018	Craftygarrett was killed by Terry Moist with a cw_l85a2
+Mon Oct  8 18:25:42 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:25:54 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:26:55 2018	Enviro (STEAM_0:0:80115103): sit
+Mon Oct  8 18:27:13 2018	Enviro (STEAM_0:0:80115103): alrighty
+Mon Oct  8 18:27:18 2018	Enviro (STEAM_0:0:80115103): we're gonna go to the space station
+Mon Oct  8 18:27:22 2018	Enviro (STEAM_0:0:80115103): then he map will reset
+Mon Oct  8 18:27:25 2018	Enviro (STEAM_0:0:80115103): then uh idk
+Mon Oct  8 18:27:45 2018	Enviro (STEAM_0:0:80115103): oh this launched too late
+Mon Oct  8 18:27:45 2018	Lukyn Red (STEAM_0:0:81441026): // you die rocket dudes
+Mon Oct  8 18:27:49 2018	Enviro (STEAM_0:0:80115103): so we'll have to wait a bit
+Mon Oct  8 18:27:51 2018	Enviro (STEAM_0:0:80115103): LOL
+Mon Oct  8 18:27:54 2018	xxxpurplespritexxx was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:27:54 2018	Enviro was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:27:54 2018	A Random Commie was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:27:54 2018	Terry Moist was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:27:54 2018	Craftygarrett was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:27:55 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:27:56 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:27:56 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:27:58 2018	Enviro (STEAM_0:0:80115103): // aw man
+Mon Oct  8 18:27:58 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:27:59 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:28:00 2018	Craftygarrett was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:04 2018	Lukyn Red (STEAM_0:0:81441026): // Too late
+Mon Oct  8 18:28:05 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 18:28:05 2018	xxxpurplespritexxx was killed by Enviro with a env_explosion
+Mon Oct  8 18:28:05 2018	A Random Commie was killed by Enviro with a env_explosion
+Mon Oct  8 18:28:06 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:28:06 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:28:06 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:28:07 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:28:09 2018	Lukyn Red (STEAM_0:0:81441026): // rokcet launching now
+Mon Oct  8 18:28:09 2018	Terry Moist was killed by Entity [4922][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:10 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 18:28:10 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:28:12 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:28:15 2018	Lukyn Red (STEAM_0:0:81441026): // after the explosion
+Mon Oct  8 18:28:16 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:28:16 2018	A Random Commie was killed by Himself with a suicide trick
+Mon Oct  8 18:28:16 2018	Terry Moist was killed by A Random Commie with a env_explosion
+Mon Oct  8 18:28:16 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 18:28:17 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:28:17 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:28:17 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:28:19 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:28:19 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:19 2018	Mike was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:19 2018	Craftygarrett was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:19 2018	Lukyn Red was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:20 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:28:21 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 18:28:21 2018	A Random Commie was killed by Himself with a suicide trick
+Mon Oct  8 18:28:22 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:28:23 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:28:24 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:28:24 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 18:28:25 2018	Craftygarrett was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:25 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:28:25 2018	Enviro was killed by Himself with a suicide trick
+Mon Oct  8 18:28:25 2018	Terry Moist was killed by Enviro with a env_explosion
+Mon Oct  8 18:28:26 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 18:28:27 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Mon Oct  8 18:28:28 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 18:28:29 2018	A Random Commie was killed by Himself with a suicide trick
+Mon Oct  8 18:28:29 2018	xxxpurplespritexxx was killed by Himself with a suicide trick
+Mon Oct  8 18:28:29 2018	Lukyn Red was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct  8 18:28:30 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 18:28:31 2018	xxxpurplespritexxx (STEAM_0:0:50093763) spawned
+Mon Oct  8 18:28:31 2018	Enviro was killed by Himself with a suicide trick

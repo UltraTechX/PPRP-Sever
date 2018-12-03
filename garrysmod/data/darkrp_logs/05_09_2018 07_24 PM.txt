@@ -1,0 +1,18 @@
+Wed May  9 19:24:04 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed May  9 19:24:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 19:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:30:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_12gauge
+Wed May  9 19:31:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 19:55:42 2018	Fat Gay was killed by Himself with a suicide trick
+Wed May  9 19:55:42 2018	Fat Gay (STEAM_0:1:218173703): !slay fat
+Wed May  9 19:55:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 19:56:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:56:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:56:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:58:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:58:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:59:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:59:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_crate_unlimited
+Wed May  9 19:59:31 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Wed May  9 19:59:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Wed May  9 19:59:57 2018	Fat Gay (STEAM_0:1:218173703) disconnected

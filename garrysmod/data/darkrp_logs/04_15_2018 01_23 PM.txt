@@ -1,0 +1,865 @@
+Sun Apr 15 13:23:27 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 15 13:23:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:23:39 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Apr 15 13:23:39 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 15 13:24:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 15 13:24:24 2018	Fat Gay was killed by Emmett with a cw_mp5
+Sun Apr 15 13:28:45 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sun Apr 15 13:28:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:29:55 2018	KAP The Cantaloupe (STEAM_0:0:160284317) has joined the game
+Sun Apr 15 13:29:55 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:30:51 2018	Uncle Louis (STEAM_0:1:51013935) has joined the game
+Sun Apr 15 13:30:51 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:32:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:34:38 2018	KAP The Cantaloupe was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sun Apr 15 13:34:40 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:34:41 2018	Uncle Louis was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sun Apr 15 13:34:44 2018	Fat Gay (STEAM_0:1:218173703): !bring ka
+Sun Apr 15 13:34:45 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:35:08 2018	Fat Gay (STEAM_0:1:218173703): !bring lu
+Sun Apr 15 13:35:10 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:39:07 2018	Fat Gay (STEAM_0:1:218173703): brb
+Sun Apr 15 13:41:13 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 13:41:14 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:41:19 2018	Fat Gay (STEAM_0:1:218173703): !goto unc
+Sun Apr 15 13:43:57 2018	Fat Gay (STEAM_0:1:218173703): !BRING *
+Sun Apr 15 13:45:18 2018	Fat Gay (STEAM_0:1:218173703): !BRING KA
+Sun Apr 15 13:45:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 13:45:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 13:45:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 13:45:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 13:45:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 13:45:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:45:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:45:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:02 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:46:02 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 13:47:40 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:48:02 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:49:15 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:49:24 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:49:29 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:50:35 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:50:42 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:50:46 2018	Fat Gay (STEAM_0:1:218173703): !bring swat
+Sun Apr 15 13:50:49 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:50:54 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:50:57 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:51:17 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:51:29 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:51:31 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:51:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:51:37 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 13:51:41 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:51:46 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:51:53 2018	Fat Gay (STEAM_0:1:218173703): 1bring unc
+Sun Apr 15 13:51:55 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:52:06 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:52:13 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:52:14 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:52:19 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:52:41 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:52:43 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:52:47 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:52:56 2018	Uncle Louis was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:53:00 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:53:01 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:53:08 2018	ImaThief (STEAM_0:1:127001171) has joined the game
+Sun Apr 15 13:53:08 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 13:53:26 2018	KAP The Cantaloupe was killed by Uncle Louis with a weapon_l4d2_frying_pan
+Sun Apr 15 13:53:27 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:53:34 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 13:53:45 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:53:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:53:49 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 13:54:47 2018	KAP The Cantaloupe was killed by Uncle Louis with a weapon_l4d2_frying_pan
+Sun Apr 15 13:54:48 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:54:50 2018	Fat Gay (STEAM_0:1:218173703): !bring ka
+Sun Apr 15 13:55:11 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:55:13 2018	Fat Gay (STEAM_0:1:218173703): !goto ka
+Sun Apr 15 13:55:41 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 13:55:48 2018	ImaThief was killed by Uncle Louis with a weapon_l4d2_frying_pan
+Sun Apr 15 13:56:34 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:56:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:56:44 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 13:56:52 2018	Uncle Louis was killed by Entity [1684][trigger_hurt] with a trigger_hurt
+Sun Apr 15 13:56:54 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:56:56 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 13:56:58 2018	KAP The Cantaloupe was killed by Uncle Louis with a weapon_l4d2_frying_pan
+Sun Apr 15 13:56:59 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:57:05 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 13:57:07 2018	KAP The Cantaloupe was killed by Uncle Louis with a weapon_l4d2_frying_pan
+Sun Apr 15 13:57:09 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 13:57:18 2018	Fat Gay (STEAM_0:1:218173703): !bring ka
+Sun Apr 15 13:58:36 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 13:58:38 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 13:58:40 2018	Fat Gay (STEAM_0:1:218173703): !hp * 100
+Sun Apr 15 13:59:10 2018	Fat Gay (STEAM_0:1:218173703): !hp * 100
+Sun Apr 15 13:59:16 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_l4d2_frying_pan
+Sun Apr 15 13:59:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:59:19 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 13:59:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:59:29 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 13:59:35 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 13:59:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 13:59:39 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 14:00:05 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:00:05 2018	KAP The Cantaloupe was killed by Fat Gay with a env_explosion
+Sun Apr 15 14:00:07 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:00:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:00:11 2018	Fat Gay (STEAM_0:1:218173703): !goto unc
+Sun Apr 15 14:00:14 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:00:21 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:00:26 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 14:00:35 2018	Fat Gay (STEAM_0:1:218173703): !bring ka
+Sun Apr 15 14:00:54 2018	KAP The Cantaloupe was killed by Uncle Louis with a cw_m1911
+Sun Apr 15 14:00:55 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:01:09 2018	Fat Gay (STEAM_0:1:218173703): !bing *
+Sun Apr 15 14:01:12 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 14:01:16 2018	Uncle Louis was killed by KAP The Cantaloupe with a cw_l85a2
+Sun Apr 15 14:01:18 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 14:01:31 2018	KAP The Cantaloupe was killed by Fat Gay with a cw_scarh
+Sun Apr 15 14:01:32 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:01:35 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 14:01:36 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 14:01:55 2018	Fat Gay (STEAM_0:1:218173703): !god &
+Sun Apr 15 14:01:57 2018	Fat Gay (STEAM_0:1:218173703): !god *
+Sun Apr 15 14:02:15 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Apr 15 14:02:15 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:03:32 2018	Fat Gay (STEAM_0:1:218173703): !ungod *
+Sun Apr 15 14:03:52 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 14:03:53 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 14:04:09 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 14:04:11 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:04:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:04:28 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:04:37 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:05:05 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:05:06 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:05:09 2018	BRocha06 (STEAM_0:1:100921529) disconnected
+Sun Apr 15 14:05:13 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Apr 15 14:05:45 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Apr 15 14:05:45 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:05:57 2018	Fat Gay (STEAM_0:1:218173703): /dropweapon
+Sun Apr 15 14:06:14 2018	Fat Gay (STEAM_0:1:218173703): !bring br
+Sun Apr 15 14:06:27 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:06:39 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:07:20 2018	KAP The Cantaloupe was killed by Entity [1637][point_hurt] with a point_hurt
+Sun Apr 15 14:07:22 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:07:38 2018	Fat Gay was killed by Entity [584][point_hurt] with a point_hurt
+Sun Apr 15 14:07:40 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:07:52 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:07:52 2018	KAP The Cantaloupe was killed by Fat Gay with a env_explosion
+Sun Apr 15 14:07:53 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:07:54 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:08:16 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 14:08:17 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 15 14:08:19 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:08:22 2018	Fat Gay (STEAM_0:1:218173703): !goto unc
+Sun Apr 15 14:08:30 2018	KAP The Cantaloupe was killed by Entity [570][point_hurt] with a point_hurt
+Sun Apr 15 14:08:31 2018	Uncle Louis was killed by Himself with a suicide trick
+Sun Apr 15 14:08:31 2018	Fat Gay (STEAM_0:1:218173703): !slay unc
+Sun Apr 15 14:08:31 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:08:34 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 14:08:35 2018	Fat Gay (STEAM_0:1:218173703): !bring kap[
+Sun Apr 15 14:08:37 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:08:39 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 15 14:08:41 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:09:07 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 14:10:21 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:10:22 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:10:26 2018	BionicTwin (STEAM_0:0:123818240) has joined the game
+Sun Apr 15 14:10:26 2018	BionicTwin (STEAM_0:0:123818240) spawned
+Sun Apr 15 14:11:08 2018	Fat Gay (STEAM_0:1:218173703): !bring br
+Sun Apr 15 14:11:08 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:11:10 2018	Fat Gay (STEAM_0:1:218173703): !br br
+Sun Apr 15 14:11:12 2018	Fat Gay (STEAM_0:1:218173703): !bring br
+Sun Apr 15 14:11:41 2018	BionicTwin (STEAM_0:0:123818240) spawned
+Sun Apr 15 14:12:01 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:12:02 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:12:32 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:12:33 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:13:33 2018	Fat Gay (STEAM_0:1:218173703): /ooc uncle luis do you wanna be teleported back?
+Sun Apr 15 14:13:40 2018	Uncle Louis (STEAM_0:1:51013935): /ooc Yes
+Sun Apr 15 14:13:40 2018	Fat Gay (STEAM_0:1:218173703): /ooc from afghan
+Sun Apr 15 14:13:45 2018	BionicTwin (STEAM_0:0:123818240) disconnected
+Sun Apr 15 14:13:49 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 14:14:31 2018	KAP The Cantaloupe was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:14:33 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:14:45 2018	Fat Gay was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:14:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:15:00 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:15:53 2018	BRocha06 was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:15:55 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:16:16 2018	Fat Gay (STEAM_0:1:218173703): !bring im
+Sun Apr 15 14:16:29 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:16:50 2018	Fat Gay was killed by Uncle Louis with a crossbow_bolt
+Sun Apr 15 14:16:51 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:16:53 2018	Fat Gay (STEAM_0:1:218173703): !goto ka
+Sun Apr 15 14:16:58 2018	ImaThief (STEAM_0:1:127001171): // I am back
+Sun Apr 15 14:17:40 2018	KAP The Cantaloupe was killed by Fat Gay with a fas2_thrown_m67
+Sun Apr 15 14:17:43 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:17:51 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:17:52 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:18:05 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:18:06 2018	Fat Gay (STEAM_0:1:218173703): !bring ka
+Sun Apr 15 14:18:08 2018	ImaThief (STEAM_0:1:127001171): // Cool down the reactor
+Sun Apr 15 14:19:26 2018	ImaThief was killed by KAP The Cantaloupe with a cw_l85a2
+Sun Apr 15 14:19:34 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:19:35 2018	Fat Gay (STEAM_0:1:218173703): !bring thei
+Sun Apr 15 14:19:38 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:19:39 2018	ImaThief was killed by KAP The Cantaloupe with a cw_l85a2
+Sun Apr 15 14:19:43 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:19:44 2018	Fat Gay (STEAM_0:1:218173703): !god ima
+Sun Apr 15 14:19:46 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:19:54 2018	ImaThief was killed by KAP The Cantaloupe with a cw_l85a2
+Sun Apr 15 14:20:01 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:20:04 2018	Fat Gay (STEAM_0:1:218173703): !ungod *
+Sun Apr 15 14:20:12 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:21:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:08 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:21:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:21:47 2018	BRocha06 was killed by Fat Gay with a cw_scarh
+Sun Apr 15 14:21:48 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:22:35 2018	BRocha06 was killed by KAP The Cantaloupe with a cw_l85a2
+Sun Apr 15 14:22:37 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:22:56 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:22:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:23:04 2018	Fat Gay (STEAM_0:1:218173703): !goto ka
+Sun Apr 15 14:23:39 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:23:39 2018	Fat Gay (STEAM_0:1:218173703): !explode br
+Sun Apr 15 14:23:44 2018	ImaThief was killed by Uncle Louis with a hunter_flechette
+Sun Apr 15 14:23:47 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:23:48 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:24:22 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:24:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:24:31 2018	Fat Gay (STEAM_0:1:218173703): !goto ima
+Sun Apr 15 14:24:44 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:28:09 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:28:20 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:28:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:28:59 2018	Fat Gay (STEAM_0:1:218173703): /ooc 3 cbrn! mass scp-containment power!
+Sun Apr 15 14:29:04 2018	KAP The Cantaloupe was killed by Uncle Louis with a hunter_flechette
+Sun Apr 15 14:29:05 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:29:14 2018	Fat Gay (STEAM_0:1:218173703): !bring unc
+Sun Apr 15 14:29:18 2018	Fat Gay (STEAM_0:1:218173703): !bring ka
+Sun Apr 15 14:29:24 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:29:28 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sun Apr 15 14:29:40 2018	KAP The Cantaloupe was killed by Himself with a suicide trick
+Sun Apr 15 14:29:40 2018	Fat Gay (STEAM_0:1:218173703): !slay kap
+Sun Apr 15 14:29:42 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:30:10 2018	KAP The Cantaloupe was killed by Entity [1980][trigger_hurt] with a trigger_hurt
+Sun Apr 15 14:30:11 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:30:15 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 14:30:33 2018	BRocha06 was killed by Entity [1689][trigger_hurt] with a trigger_hurt
+Sun Apr 15 14:30:34 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:30:36 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:38 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:30:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:30:46 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:48 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:49 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:52 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:30:53 2018	Fat Gay (STEAM_0:1:218173703): /ooc wat
+Sun Apr 15 14:30:56 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 14:31:00 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:01 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:03 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:05 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:06 2018	Fat Gay (STEAM_0:1:218173703): /ooc stop spamming
+Sun Apr 15 14:31:06 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:08 2018	KAP The Cantaloupe (STEAM_0:0:160284317): u// aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:10 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:12 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:14 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:16 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // aslkdjfghla;skjdfhglkjasfhgjklahsdflkgjhadlfkjghadlkjdfghalkdjfhglkajdfhglkjfhglkjafhglkajdfhgkladjdhfglkjahfkl
+Sun Apr 15 14:31:16 2018	Fat Gay (STEAM_0:1:218173703): /ooc last warning
+Sun Apr 15 14:31:29 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // ok
+Sun Apr 15 14:31:43 2018	Fat Gay (STEAM_0:1:218173703): /ooc done do that, its annoying and against one of the core rule
+Sun Apr 15 14:31:48 2018	Fat Gay (STEAM_0:1:218173703): /ooc rules*
+Sun Apr 15 14:31:53 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // im bored
+Sun Apr 15 14:31:54 2018	Fat Gay (STEAM_0:1:218173703): /ooc do !motd to look
+Sun Apr 15 14:32:06 2018	Fat Gay (STEAM_0:1:218173703): /ooc kap go CBRN, were gonna fight 049
+Sun Apr 15 14:32:18 2018	Fat Gay (STEAM_0:1:218173703): /ooc thats what the job is made for
+Sun Apr 15 14:32:33 2018	KAP The Cantaloupe (STEAM_0:0:160284317): I'm not vip
+Sun Apr 15 14:32:35 2018	Fat Gay (STEAM_0:1:218173703): !bring cbr
+Sun Apr 15 14:32:36 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // ok
+Sun Apr 15 14:32:37 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:32:38 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:32:40 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:33:04 2018	KAP The Cantaloupe was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:33:05 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:33:12 2018	ImaThief was killed by Entity [38][point_hurt] with a point_hurt
+Sun Apr 15 14:33:13 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:33:16 2018	Fat Gay was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:33:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:33:41 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 14:34:08 2018	ImaThief was killed by KAP The Cantaloupe with a cw_deagle
+Sun Apr 15 14:34:14 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:34:16 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:34:23 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:34:27 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:34:28 2018	BRocha06 was killed by Uncle Louis with a crossbow_bolt
+Sun Apr 15 14:34:31 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:34:32 2018	Fat Gay (STEAM_0:1:218173703): !bring bro
+Sun Apr 15 14:34:34 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:36:32 2018	KAP The Cantaloupe was killed by BRocha06 with a fas2_thrown_m67
+Sun Apr 15 14:36:34 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:36:41 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:36:43 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:36:52 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:37:01 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:37:27 2018	BRocha06 was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:37:28 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 14:37:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:37:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 14:39:12 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:39:15 2018	Fat Gay (STEAM_0:1:218173703): !bring bro
+Sun Apr 15 14:39:56 2018	BRocha06 was killed by Himself with a suicide trick
+Sun Apr 15 14:39:56 2018	Fat Gay (STEAM_0:1:218173703): !explode br
+Sun Apr 15 14:39:59 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:40:04 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:40:41 2018	Uncle Louis was killed by KAP The Cantaloupe with a cw_deagle
+Sun Apr 15 14:40:42 2018	KAP The Cantaloupe was killed by Uncle Louis with a hunter_flechette
+Sun Apr 15 14:40:44 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:40:51 2018	Fat Gay (STEAM_0:1:218173703): !bring lou
+Sun Apr 15 14:40:51 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 14:40:58 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:41:01 2018	Fat Gay (STEAM_0:1:218173703): !bring bro
+Sun Apr 15 14:41:42 2018	KAP The Cantaloupe was killed by BRocha06 with a weapon_l4d2_frying_pan
+Sun Apr 15 14:41:44 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:42:07 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 14:42:27 2018	BRocha06 was killed by KAP The Cantaloupe with a cw_deagle
+Sun Apr 15 14:42:28 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:44:14 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:44:21 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 14:44:24 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:45:15 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:45:15 2018	Fat Gay (STEAM_0:1:218173703): !forcerespawn ima
+Sun Apr 15 14:45:18 2018	Fat Gay (STEAM_0:1:218173703): !bring ima
+Sun Apr 15 14:45:55 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:45:57 2018	ImaThief was killed by Fat Gay with a fas2_thrown_m67
+Sun Apr 15 14:45:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:45:59 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 14:46:05 2018	ImaThief (STEAM_0:1:127001171) spawned
+Sun Apr 15 14:46:28 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_sillyzombieclaw_v2
+Sun Apr 15 14:46:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:46:39 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 14:47:40 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 14:47:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:48:03 2018	ImaThief (STEAM_0:1:127001171) disconnected
+Sun Apr 15 14:48:14 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_sillyzombieclaw_v2
+Sun Apr 15 14:48:15 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:48:18 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 14:48:29 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_sillyzombieclaw_v2
+Sun Apr 15 14:48:31 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:48:33 2018	Fat Gay (STEAM_0:1:218173703): !goto kap
+Sun Apr 15 14:48:56 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_sillyzombieclaw_v2
+Sun Apr 15 14:49:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:49:12 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:49:41 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:49:59 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_sillyzombieclaw_v2
+Sun Apr 15 14:50:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:50:45 2018	Fat Gay was killed by KAP The Cantaloupe with a weapon_sillyzombieclaw_v2
+Sun Apr 15 14:50:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:51:24 2018	Fat Gay was killed by Uncle Louis with a rpg_missile
+Sun Apr 15 14:51:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:51:29 2018	Makarov (STEAM_0:1:71554965) has joined the game
+Sun Apr 15 14:51:29 2018	Makarov (STEAM_0:1:71554965) spawned
+Sun Apr 15 14:51:43 2018	Fat Gay was killed by KAP The Cantaloupe with a crossbow_bolt
+Sun Apr 15 14:51:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:52:08 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 14:52:29 2018	Fat Gay was killed by KAP The Cantaloupe with a crossbow_bolt
+Sun Apr 15 14:52:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:53:17 2018	Fat Gay was killed by KAP The Cantaloupe with a rpg_missile
+Sun Apr 15 14:53:17 2018	BRocha06 (STEAM_0:1:100921529): /name Gordon Ramsay
+Sun Apr 15 14:53:18 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:53:24 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 14:53:27 2018	Fat Gay (STEAM_0:1:218173703): !goto maka
+Sun Apr 15 14:54:38 2018	Gordon Ramsay was killed by KAP The Cantaloupe with a crossbow_bolt
+Sun Apr 15 14:54:39 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:55:20 2018	Gordon Ramsay was killed by KAP The Cantaloupe with a rpg_missile
+Sun Apr 15 14:55:21 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:55:47 2018	Gordon Ramsay was killed by Uncle Louis with a crossbow_bolt
+Sun Apr 15 14:55:48 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:56:10 2018	Gordon Ramsay was killed by Uncle Louis with a crossbow_bolt
+Sun Apr 15 14:56:11 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 14:56:27 2018	Gordon Ramsay was killed by Entity [1681][trigger_hurt] with a trigger_hurt
+Sun Apr 15 14:56:28 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 15:00:47 2018	Uncle Louis (STEAM_0:1:51013935): /me pulls down pants
+Sun Apr 15 15:00:53 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /me gives succ
+Sun Apr 15 15:01:17 2018	Uncle Louis (STEAM_0:1:51013935): /me moans out loud for buger
+Sun Apr 15 15:01:20 2018	Fat Gay (STEAM_0:1:218173703): !bring kap
+Sun Apr 15 15:01:25 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 15:01:28 2018	Fat Gay (STEAM_0:1:218173703): !bring mar
+Sun Apr 15 15:01:32 2018	Fat Gay (STEAM_0:1:218173703): !bring mak
+Sun Apr 15 15:01:58 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:00 2018	Uncle Louis (STEAM_0:1:51013935): /advert mug drop 5k 10 seconds, move kos
+Sun Apr 15 15:02:02 2018	Uncle Louis (STEAM_0:1:51013935): /advert raid, kos if near
+Sun Apr 15 15:02:14 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /y PTS
+Sun Apr 15 15:02:16 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 15:02:17 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /invholster
+Sun Apr 15 15:02:17 2018	Gordon Ramsay (STEAM_0:1:100921529): /advert die
+Sun Apr 15 15:02:22 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /drop
+Sun Apr 15 15:02:23 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /drop
+Sun Apr 15 15:02:24 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /invholster
+Sun Apr 15 15:02:26 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /drop
+Sun Apr 15 15:02:26 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:27 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:28 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:28 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:29 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:30 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:31 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /y PTS
+Sun Apr 15 15:02:31 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:31 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:32 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /y PTS
+Sun Apr 15 15:02:32 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:33 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:34 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:35 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:35 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:35 2018	Uncle Louis (STEAM_0:1:51013935): /me salutes to his commanding officer with the upmost respect 
+Sun Apr 15 15:02:36 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:37 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:38 2018	Gordon Ramsay (STEAM_0:1:100921529): /advert drop me a piece of food or get panned
+Sun Apr 15 15:02:38 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:38 2018	Uncle Louis (STEAM_0:1:51013935): hi
+Sun Apr 15 15:02:38 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:39 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:40 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:41 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:41 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:42 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:43 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:44 2018	KAP The Cantaloupe (STEAM_0:0:160284317): hi
+Sun Apr 15 15:02:57 2018	Fat Gay was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sun Apr 15 15:03:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 15:03:03 2018	Fat Gay (STEAM_0:1:218173703): !goto gord
+Sun Apr 15 15:03:13 2018	Fat Gay (STEAM_0:1:218173703): !god maka
+Sun Apr 15 15:03:16 2018	Fat Gay (STEAM_0:1:218173703): !god fat
+Sun Apr 15 15:03:22 2018	KAP The Cantaloupe (STEAM_0:0:160284317): /me succs the pucker
+Sun Apr 15 15:03:34 2018	Uncle Louis (STEAM_0:1:51013935): /me bites KAPs lips 
+Sun Apr 15 15:03:49 2018	KAP The Cantaloupe (STEAM_0:0:160284317): \
+Sun Apr 15 15:04:48 2018	Uncle Louis was killed by Entity [1688][trigger_hurt] with a trigger_hurt
+Sun Apr 15 15:04:51 2018	KAP The Cantaloupe was killed by Entity [1688][trigger_hurt] with a trigger_hurt
+Sun Apr 15 15:04:54 2018	Uncle Louis (STEAM_0:1:51013935) spawned
+Sun Apr 15 15:04:55 2018	KAP The Cantaloupe (STEAM_0:0:160284317) spawned
+Sun Apr 15 15:05:05 2018	KAP The Cantaloupe (STEAM_0:0:160284317): // see you later niggers
+Sun Apr 15 15:05:10 2018	Fat Gay (STEAM_0:1:218173703): /ooc see ya
+Sun Apr 15 15:05:13 2018	KAP The Cantaloupe (STEAM_0:0:160284317) disconnected
+Sun Apr 15 15:05:19 2018	Uncle Louis (STEAM_0:1:51013935) disconnected
+Sun Apr 15 15:07:24 2018	Makarov (STEAM_0:1:71554965): 
+Sun Apr 15 15:07:30 2018	Makarov (STEAM_0:1:71554965): /pm fat hello
+Sun Apr 15 15:07:50 2018	Gordon Ramsay (STEAM_0:1:100921529): k
+Sun Apr 15 15:07:57 2018	Gordon Ramsay (STEAM_0:1:100921529): kkk
+Sun Apr 15 15:08:10 2018	Gordon Ramsay (STEAM_0:1:100921529): ultra sucks at mapmaking btw
+Sun Apr 15 15:08:22 2018	Gordon Ramsay (STEAM_0:1:100921529): jk
+Sun Apr 15 15:10:06 2018	Fat Gay (STEAM_0:1:218173703): !explode br
+Sun Apr 15 15:10:11 2018	Gordon Ramsay was killed by Himself with a suicide trick
+Sun Apr 15 15:10:11 2018	Fat Gay (STEAM_0:1:218173703): !explode gor
+Sun Apr 15 15:10:14 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 15:11:19 2018	Makarov (STEAM_0:1:71554965): wire_expression2_model models/Gibs/HGIBS.mdl
+Sun Apr 15 15:12:07 2018	Makarov (STEAM_0:1:71554965): wire_expression2_model
+Sun Apr 15 15:12:21 2018	Makarov (STEAM_0:1:71554965): wire_expression2_model
+Sun Apr 15 15:17:24 2018	Gordon Ramsay (STEAM_0:1:100921529) disconnected
+Sun Apr 15 15:22:46 2018	Fat Gay (STEAM_0:1:218173703): /track
+Sun Apr 15 15:22:48 2018	Fat Gay (STEAM_0:1:218173703): /track 1
+Sun Apr 15 15:22:55 2018	Fat Gay (STEAM_0:1:218173703): /track Makarov
+Sun Apr 15 15:23:02 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 15:23:25 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 15:25:39 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 15:27:14 2018	Makarov (STEAM_0:1:71554965) disconnected
+Sun Apr 15 15:27:41 2018	ellis3246 (STEAM_0:0:170430038) has joined the game
+Sun Apr 15 15:27:41 2018	ellis3246 (STEAM_0:0:170430038) spawned
+Sun Apr 15 15:32:43 2018	ellis3246 (STEAM_0:0:170430038) disconnected
+Sun Apr 15 16:21:54 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Apr 15 16:21:54 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:22:00 2018	Fat Gay (STEAM_0:1:218173703): !goto gord
+Sun Apr 15 16:22:09 2018	Gordon Ramsay was killed by Fat Gay with a fas2_thrown_m67
+Sun Apr 15 16:22:10 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:22:28 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:23:06 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 15 16:23:18 2018	Vix (STEAM_0:0:143859663) has joined the game
+Sun Apr 15 16:23:18 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:23:18 2018	Gordon Ramsay (STEAM_0:1:100921529): w
+Sun Apr 15 16:23:32 2018	MDL: Lynx ❤ (STEAM_0:0:66048277) has joined the game
+Sun Apr 15 16:23:32 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:23:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:23:34 2018	Furry Trash was killed by Gordon Ramsay with a cw_deagle
+Sun Apr 15 16:23:42 2018	Fat Gay (STEAM_0:1:218173703): !goto furry
+Sun Apr 15 16:23:45 2018	Fat Gay (STEAM_0:1:218173703): !goto ly
+Sun Apr 15 16:23:48 2018	Fat Gay was killed by Gordon Ramsay with a cw_deagle
+Sun Apr 15 16:23:51 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:23:55 2018	Fat Gay (STEAM_0:1:218173703): !explode br
+Sun Apr 15 16:24:04 2018	Lynx was killed by Gordon Ramsay with a cw_deagle
+Sun Apr 15 16:24:04 2018	Fat Gay (STEAM_0:1:218173703): !goto explo gor
+Sun Apr 15 16:24:10 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:24:10 2018	Fat Gay (STEAM_0:1:218173703): !forcerespawn lynx
+Sun Apr 15 16:24:17 2018	Fat Gay (STEAM_0:1:218173703): !forcerespawn vix
+Sun Apr 15 16:24:19 2018	Fat Gay (STEAM_0:1:218173703): !goto vi
+Sun Apr 15 16:24:20 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:24:23 2018	Fat Gay (STEAM_0:1:218173703): !goto ly
+Sun Apr 15 16:24:44 2018	Gordon Ramsay (STEAM_0:1:100921529): /name osama
+Sun Apr 15 16:25:00 2018	osama (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:25:01 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:25:08 2018	osama was killed by Himself with a suicide trick
+Sun Apr 15 16:25:15 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:25:16 2018	osama (STEAM_0:1:100921529) disconnected
+Sun Apr 15 16:25:21 2018	Lynx was killed by Himself with a suicide trick
+Sun Apr 15 16:25:22 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:26:09 2018	Lynx was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sun Apr 15 16:26:10 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:26:11 2018	Furry Trash was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:26:23 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:26:47 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sun Apr 15 16:26:52 2018	Fat Gay (STEAM_0:1:218173703): !goto furr
+Sun Apr 15 16:26:59 2018	Furry Trash was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:27:00 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:27:10 2018	Fat Gay (STEAM_0:1:218173703): !got furr
+Sun Apr 15 16:27:13 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:27:18 2018	Furry Trash was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:27:20 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:27:34 2018	Furry Trash was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:27:41 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:27:48 2018	Furry Trash was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:28:00 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:28:06 2018	Furry Trash was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:28:32 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:29:02 2018	Fat Gay was killed by Furry Trash with a cw_fiveseven
+Sun Apr 15 16:29:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:29:06 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:29:10 2018	Furry Trash was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:29:11 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:29:20 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:29:23 2018	Furry Trash was killed by Entity [574][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Apr 15 16:29:23 2018	Fat Gay was killed by Entity [574][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Apr 15 16:29:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:29:28 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:29:32 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:29:32 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:29:37 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:30:08 2018	Furry Trash was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:30:11 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:30:18 2018	Furry Trash was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:30:49 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:30:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:30:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:30:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:30:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:30:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:07 2018	Furry Trash was killed by Entity [1565][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Apr 15 16:31:12 2018	Furry Trash (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:31:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 16:31:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:33 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:34 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:31:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sun Apr 15 16:32:12 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 16:32:35 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 15 16:32:36 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:32:54 2018	Fat Gay (STEAM_0:1:218173703): !bring ly
+Sun Apr 15 16:33:40 2018	Fat Gay (STEAM_0:1:218173703): !goto vix
+Sun Apr 15 16:33:43 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:33:52 2018	Fat Gay (STEAM_0:1:218173703): !bring fur
+Sun Apr 15 16:34:00 2018	Fat Gay (STEAM_0:1:218173703): !bring fur
+Sun Apr 15 16:34:03 2018	Fat Gay (STEAM_0:1:218173703): !bring fur
+Sun Apr 15 16:34:22 2018	Furry Trash (STEAM_0:0:143859663): /name Hey FURFAG
+Sun Apr 15 16:35:13 2018	Lynx was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:35:14 2018	Lynx (STEAM_0:0:66048277) spawned
+Sun Apr 15 16:36:45 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Apr 15 16:36:59 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:37:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:37:46 2018	Hey FURFAG was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:39:41 2018	Lynx (STEAM_0:0:66048277) disconnected
+Sun Apr 15 16:41:08 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:41:16 2018	Hey FURFAG was killed by Entity [0][worldspawn] with a unknown
+Sun Apr 15 16:41:28 2018	Hey FURFAG (STEAM_0:0:143859663): Anthrocon is the world's second largest furry convention, taking place in Pittsburgh, Pennsylvania
+Sun Apr 15 16:41:30 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 15 16:41:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:41:37 2018	Fat Gay (STEAM_0:1:218173703): !goto fur
+Sun Apr 15 16:42:52 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 16:49:15 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sun Apr 15 16:49:15 2018	osama (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:49:59 2018	osama (STEAM_0:1:100921529): /name Jamie Oliver
+Sun Apr 15 16:50:00 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:53:11 2018	Jamie Oliver (STEAM_0:1:100921529): /ooc ultra aren't there logs on discord?
+Sun Apr 15 16:53:30 2018	Jamie Oliver (STEAM_0:1:100921529): /ooc like chat logs
+Sun Apr 15 16:54:39 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 16:54:43 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:57:02 2018	Fat Gay was killed by Jamie Oliver with a crossbow_bolt
+Sun Apr 15 16:57:03 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:57:09 2018	Fat Gay was killed by Jamie Oliver with a crossbow_bolt
+Sun Apr 15 16:57:10 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:57:18 2018	Fat Gay was killed by Jamie Oliver with a crossbow_bolt
+Sun Apr 15 16:57:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:57:47 2018	Fat Gay was killed by Jamie Oliver with a crossbow_bolt
+Sun Apr 15 16:57:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:57:52 2018	Fat Gay (STEAM_0:1:218173703): !goto ol
+Sun Apr 15 16:58:47 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 16:58:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 16:58:50 2018	Fat Gay (STEAM_0:1:218173703): !goto ja,
+Sun Apr 15 16:58:52 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 16:59:21 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:59:22 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 16:59:54 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 16:59:55 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:00:09 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:00:11 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:00:28 2018	Hey FURFAG was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 15 17:00:30 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 17:01:01 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:01:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:01:04 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:01:29 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:01:30 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:01:35 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:02:13 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:02:14 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:02:17 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:02:26 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:02:27 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:02:33 2018	Fat Gay (STEAM_0:1:218173703): !freeze jam
+Sun Apr 15 17:02:36 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:02:37 2018	Jamie Oliver (STEAM_0:1:100921529): /ooc SCRUB
+Sun Apr 15 17:03:15 2018	Jamie Oliver (STEAM_0:1:100921529): /OOC I LIVED
+Sun Apr 15 17:03:18 2018	Jamie Oliver (STEAM_0:1:100921529): /OOC FML
+Sun Apr 15 17:03:20 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:03:21 2018	Fat Gay was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sun Apr 15 17:03:26 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:03:43 2018	Jamie Oliver (STEAM_0:1:100921529): /OOC did you give me god mode or something xd
+Sun Apr 15 17:03:43 2018	Fat Gay (STEAM_0:1:218173703): !slay br
+Sun Apr 15 17:03:47 2018	Fat Gay (STEAM_0:1:218173703): 1slay jam
+Sun Apr 15 17:03:50 2018	Fat Gay (STEAM_0:1:218173703): !slay jam
+Sun Apr 15 17:03:54 2018	Fat Gay (STEAM_0:1:218173703): !unfreeze jam
+Sun Apr 15 17:03:57 2018	Jamie Oliver was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sun Apr 15 17:03:58 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:04:15 2018	Hey FURFAG was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:04:16 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 17:05:33 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:05:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:05:52 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:06:16 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:06:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:06:19 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:06:28 2018	Fat Gay (STEAM_0:1:218173703): !unfreeze jam
+Sun Apr 15 17:06:48 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:06:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:06:52 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:07:36 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:07:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:07:39 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:07:43 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 17:08:01 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:08:02 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:08:21 2018	Hey FURFAG was killed by Entity [1676][trigger_hurt] with a trigger_hurt
+Sun Apr 15 17:08:22 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 17:08:46 2018	Hey FURFAG was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:08:47 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 17:08:49 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:08:50 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:09:23 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:09:24 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:09:39 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:09:40 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:09:43 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:09:55 2018	Hey FURFAG was killed by Entity [577][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Apr 15 17:09:55 2018	Fat Gay was killed by Entity [577][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Sun Apr 15 17:09:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:09:57 2018	Hey FURFAG (STEAM_0:0:143859663) spawned
+Sun Apr 15 17:09:59 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:10:06 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:10:07 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:10:38 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:10:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:10:42 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:10:56 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:10:57 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:11:06 2018	Hey FURFAG (STEAM_0:0:143859663) disconnected
+Sun Apr 15 17:11:33 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:11:34 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 15 17:11:36 2018	Fat Gay (STEAM_0:1:218173703): !goto jam
+Sun Apr 15 17:12:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 17:12:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 17:12:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 17:12:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sun Apr 15 17:12:58 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:13:03 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:13:32 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:13:35 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:14:03 2018	Jamie Oliver was killed by Fat Gay with a weapon_l4d2_frying_pan
+Sun Apr 15 17:14:04 2018	Jamie Oliver (STEAM_0:1:100921529) spawned
+Sun Apr 15 17:14:18 2018	Fat Gay was killed by Jamie Oliver with a weapon_l4d2_frying_pan
+Sun Apr 15 17:14:19 2018	Fat Gay (STEAM_0:1:218173703) spawned

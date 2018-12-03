@@ -1,0 +1,53 @@
+"STEAM_0:0:124863770"	
+{
+	"reason"	"AWarn: You have been permanently banned for exceeding the warning threshold, good fucking job"
+	"steamID"	"STEAM_0:0:124863770"
+	"unban"	"0"
+	"time"	"1540336145"
+	"name"	"Dog"
+}
+"STEAM_0:1:100995800"	
+{
+	"steamID"	"STEAM_0:1:100995800"
+	"admin"	"Futa(STEAM_0:1:86800123)"
+	"unban"	"0"
+	"time"	"1540152659"
+	"name"	"Jimmy Jon"
+}
+"STEAM_0:1:63044143"	
+{
+	"reason"	"[Remote Ban from Discord] You have probobly been reported as a minge, if this is false contact staff on discord"
+	"steamID"	"STEAM_0:1:63044143"
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1540685543"
+	"name"	"JoedoCro"
+}
+"STEAM_0:0:71898218"	
+{
+	"modified_time"	"1540150427"
+	"reason"	"[Remote Ban from Discord] You have probobly been reported as a minge, if this is false contact staff on discord"
+	"steamID"	"STEAM_0:0:71898218"
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1540150281"
+	"name"	"The Fetus"
+	"modified_admin"	"[Opi] Fat Gay(STEAM_0:1:218173703)"
+}
+"STEAM_0:1:95212397"	
+{
+	"reason"	"[Remote Ban from Discord] You have probobly been reported as a minge, if this is false contact staff on discord"
+	"steamID"	"STEAM_0:1:95212397"
+	"admin"	"(Console)"
+	"unban"	"0"
+	"time"	"1540685538"
+	"name"	"xxgamerlordbladeofwoexx"
+}
+"STEAM_0:0:197615017"	
+{
+	"steamID"	"STEAM_0:0:197615017"
+	"admin"	"VietnamFlashbacks(STEAM_0:0:80420240)"
+	"unban"	"0"
+	"time"	"1540164786"
+	"name"	"yeet"
+}

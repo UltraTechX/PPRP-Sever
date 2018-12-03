@@ -1,0 +1,29 @@
+<Logging continued from "data/ulx_logs/04-30-18.txt">
+[00:35:37] Client "Zerrakoth" connected.
+[00:36:48] Client "Valien" connected.
+[00:37:30] Client "Zerrakoth" spawned in server <STEAM_0:1:44006700> (took 113 seconds).
+[00:37:55] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 67 seconds).
+[00:38:44] Emmett: /dropmoney 100000
+[00:40:09] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[00:40:40] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[00:40:50] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[00:40:58] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[00:41:03] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[00:41:08] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[00:41:14] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[00:42:53] Emmett stripped weapons from Zerrakoth
+[00:42:58] Emmett stripped weapons from Zerrakoth
+[00:43:20] Emmett killed Zerrakoth using player
+[00:43:26] Emmett: !bring z
+[00:43:26] Emmett brought Zerrakoth
+[00:44:00] Emmett: !god
+[00:44:00] Emmett granted god mode upon Themself
+[00:45:21] Emmett: !goto z
+[00:45:21] Emmett teleported to Zerrakoth
+[00:45:27] Emmett killed Zerrakoth using player
+[00:45:32] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[00:45:35] Dropped "Zerrakoth" from server<STEAM_0:1:44006700>
+
+
+
+[12:04:22] New map: rp_powerplant_v2b2

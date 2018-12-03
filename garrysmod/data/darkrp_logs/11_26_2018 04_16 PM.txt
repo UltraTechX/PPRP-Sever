@@ -1,0 +1,31 @@
+Mon Nov 26 16:16:26 2018	Not DJ // djsime1 (STEAM_0:0:95072396) has joined the game
+Mon Nov 26 16:16:27 2018	Not DJ (STEAM_0:0:95072396) spawned
+Mon Nov 26 16:26:29 2018	Not DJ (STEAM_0:0:95072396) spawned
+Mon Nov 26 16:27:40 2018	Not DJ was killed by Entity [0][worldspawn] with a unknown
+Mon Nov 26 16:27:42 2018	Not DJ (STEAM_0:0:95072396) spawned
+Mon Nov 26 16:29:50 2018	Not DJ (STEAM_0:0:95072396) spawned
+Mon Nov 26 16:31:54 2018	Not DJ was killed by Entity [0][worldspawn] with a unknown
+Mon Nov 26 16:31:55 2018	Not DJ (STEAM_0:0:95072396) spawned
+Mon Nov 26 16:36:51 2018	Not DJ (STEAM_0:0:95072396): /invholster
+Mon Nov 26 16:36:52 2018	Not DJ (STEAM_0:0:95072396): /invholster
+Mon Nov 26 16:36:53 2018	Not DJ (STEAM_0:0:95072396): /invholster
+Mon Nov 26 16:37:17 2018	Not DJ (STEAM_0:0:95072396) spawned
+Mon Nov 26 16:38:01 2018	Not DJ (STEAM_0:0:95072396) disconnected
+Mon Nov 26 19:00:36 2018	Sabbze (STEAM_0:0:104970567) has joined the game
+Mon Nov 26 19:00:36 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:01:45 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:14:16 2018	Sabbze was killed by Entity [0][worldspawn] with a unknown
+Mon Nov 26 19:14:20 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:14:32 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:14:48 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:15:21 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:16:33 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:18:29 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:19:00 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:24:39 2018	Sabbze was killed by Entity [4907][trigger_hurt] with a trigger_hurt
+Mon Nov 26 19:24:44 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:24:49 2018	Sabbze was killed by Entity [4906][trigger_hurt] with a trigger_hurt
+Mon Nov 26 19:24:51 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:24:56 2018	Sabbze was killed by Entity [4906][trigger_hurt] with a trigger_hurt
+Mon Nov 26 19:24:59 2018	Sabbze (STEAM_0:0:104970567) spawned
+Mon Nov 26 19:25:02 2018	Sabbze (STEAM_0:0:104970567) disconnected

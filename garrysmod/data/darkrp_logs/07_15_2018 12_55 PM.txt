@@ -1,0 +1,27 @@
+Sun Jul 15 12:55:36 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jul 15 12:55:36 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:08:13 2018	Emmett was killed by Entity [1510][trigger_hurt] with a trigger_hurt
+Sun Jul 15 13:08:14 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:08:56 2018	Emmett was killed by Entity [1943][func_rotating] with a func_rotating
+Sun Jul 15 13:08:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:10:36 2018	Emmett was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sun Jul 15 13:10:36 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:10:57 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul 15 13:10:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:11:20 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 15 13:11:25 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:20:09 2018	Emmett (STEAM_0:1:41660292): /dropmoney 8330417
+Sun Jul 15 13:20:10 2018	Emmett (STEAM_0:1:41660292) has dropped $8,330,417
+Sun Jul 15 13:28:19 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 15 13:28:22 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:29:44 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul 15 13:29:44 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:32:04 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 15 13:32:07 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:32:51 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 15 13:32:52 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:47:34 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul 15 13:47:34 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:49:01 2018	Emmett was killed by Entity [0][worldspawn] with a unknown
+Sun Jul 15 13:49:02 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul 15 13:53:18 2018	Emmett (STEAM_0:1:41660292) disconnected

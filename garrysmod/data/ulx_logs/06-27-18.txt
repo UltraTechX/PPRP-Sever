@@ -1,0 +1,16 @@
+<Logging continued from "data/ulx_logs/06-26-18.txt">
+[04:02:57] Client "Richardmark56" connected.
+[04:07:30] Client "Richardmark56" spawned in server <STEAM_0:0:199216977> (took 273 seconds).
+[04:07:30] (Console) added Richardmark56 to group PACUser
+[04:45:08] Richardmark56: /staff
+[04:46:04] Richardmark56 suicided!
+[04:46:12] Richardmark56 suicided!
+[04:46:30] Richardmark56 suicided!
+[04:51:14] Richardmark56 suicided!
+[04:51:33] Richardmark56: /staff
+[04:51:44] Richardmark56: /staff
+[04:52:42] Richardmark56 suicided!
+[04:52:51] Richardmark56 suicided!
+[04:52:57] Richardmark56 suicided!
+[04:56:09] Dropped "Richardmark56" from server<STEAM_0:0:199216977>
+<Logging continued in "data/ulx_logs/06-28-18.txt">

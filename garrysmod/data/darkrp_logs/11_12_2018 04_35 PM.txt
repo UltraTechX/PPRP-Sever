@@ -1,0 +1,3 @@
+Mon Nov 12 16:35:15 2018	[Opi] Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Mon Nov 12 16:35:15 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Nov 12 16:43:51 2018	Lukyn Red (STEAM_0:0:81441026) disconnected

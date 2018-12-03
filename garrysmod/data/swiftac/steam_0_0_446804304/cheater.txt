@@ -1,0 +1,11 @@
+Sat Oct 20 22:12:58 2018 - Nick: mllyons2002 | IP: 68.114.234.217 | SteamID: STEAM_0:0:446804304.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 00:50:28 2018 - Nick: mllyons2002 | IP: 68.114.234.217 | SteamID: STEAM_0:0:446804304.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+
+
+Sun Oct 21 01:53:53 2018 - Nick: mllyons2002 | IP: 68.114.234.217 | SteamID: STEAM_0:0:446804304.txt | Cheating Infraction: Invalid source: require@addons/swiftac/lua/includes/init.lua;
+
+
+Sun Oct 21 01:55:24 2018 - Nick: mllyons2002 | IP: 68.114.234.217 | SteamID: STEAM_0:0:446804304.txt | Cheating Infraction: Invalid source: require@addons/swiftac/lua/includes/init.lua;
+

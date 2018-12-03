@@ -1,0 +1,8 @@
+Sat Oct 20 15:10:09 2018 - Nick: Bill Foreman | IP: 95.223.45.197 | SteamID: STEAM_0:0:45838915.txt | Cheating Infraction: Invalid source: net.Start@mlogs/language/cl_language.lua;
+
+
+Sat Oct 20 15:11:40 2018 - Nick: Bill Foreman | IP: 95.223.45.197 | SteamID: STEAM_0:0:45838915.txt | Cheating Infraction: Invalid source: net.Start@mlogs/language/cl_language.lua;
+
+
+Sat Oct 20 17:22:09 2018 - Nick: Bill Foreman | IP: 95.223.45.197 | SteamID: STEAM_0:0:45838915.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

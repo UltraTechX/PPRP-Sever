@@ -1,0 +1,3 @@
+Wed Oct 10 18:29:02 2018 - Nick: Dave Letcher | IP: 151.231.101.226 | SteamID: STEAM_0:1:52038966.txt | Cheating Infraction: Invalid source: hook.Add@addons/acrashscreen/lua/acrashscreen/incl/cl_main.lua;
+Invalid source: concommand.Add@addons/acrashscreen/lua/acrashscreen/incl/cl_main.lua;
+

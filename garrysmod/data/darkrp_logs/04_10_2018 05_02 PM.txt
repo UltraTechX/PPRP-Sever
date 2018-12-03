@@ -1,0 +1,66 @@
+Tue Apr 10 17:02:50 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Apr 10 17:02:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Apr 10 17:10:55 2018	Nebula (STEAM_0:0:98564878) has joined the game
+Tue Apr 10 17:10:55 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:14:39 2018	Researcher Ramsay (STEAM_0:0:98564878): !goto fat
+Tue Apr 10 17:17:13 2018	Fat Gay was killed by Researcher Ramsay with a weapon_l4d2_chainsaw
+Tue Apr 10 17:17:58 2018	Researcher Ramsay (STEAM_0:0:98564878): !strip ^
+Tue Apr 10 17:19:03 2018	Researcher Ramsay (STEAM_0:0:98564878): !strip ^
+Tue Apr 10 17:19:13 2018	Researcher Ramsay was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 10 17:19:14 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:19:52 2018	Researcher Ramsay (STEAM_0:0:98564878): !strip ^
+Tue Apr 10 17:19:54 2018	Researcher Ramsay was killed by Himself with a suicide trick
+Tue Apr 10 17:19:54 2018	Researcher Ramsay (STEAM_0:0:98564878): !slay ^
+Tue Apr 10 17:19:55 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:20:25 2018	Researcher Ramsay (STEAM_0:0:98564878): 
+Tue Apr 10 17:20:45 2018	Researcher Ramsay was killed by Himself with a suicide trick
+Tue Apr 10 17:20:45 2018	Researcher Ramsay (STEAM_0:0:98564878): !slay ^
+Tue Apr 10 17:20:47 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:21:18 2018	Researcher Ramsay was killed by Himself with a suicide trick
+Tue Apr 10 17:21:18 2018	Researcher Ramsay (STEAM_0:0:98564878): !slay ^
+Tue Apr 10 17:21:19 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:21:57 2018	Researcher Ramsay was killed by Himself with a suicide trick
+Tue Apr 10 17:21:57 2018	Researcher Ramsay (STEAM_0:0:98564878): !slay ^
+Tue Apr 10 17:21:58 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:22:45 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:24:47 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Tue Apr 10 17:24:47 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Apr 10 17:25:18 2018	Security Soal (STEAM_0:0:86025114): // Hey guys.
+Tue Apr 10 17:25:49 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Apr 10 17:26:32 2018	Security Soal (STEAM_0:0:86025114): // Aaaand gmod is doing the door bug again. 1 moment!
+Tue Apr 10 17:26:36 2018	Security Soal (STEAM_0:0:86025114) disconnected
+Tue Apr 10 17:34:38 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Tue Apr 10 17:34:38 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Apr 10 17:35:20 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Apr 10 17:35:22 2018	Researcher Ramsay (STEAM_0:0:98564878): !goto fat
+Tue Apr 10 17:36:11 2018	Researcher Ramsay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Tue Apr 10 17:36:13 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 17:36:42 2018	Researcher Ramsay (STEAM_0:0:98564878): !menu
+Tue Apr 10 17:41:57 2018	Security Soal (STEAM_0:0:86025114): // 2 trams now?
+Tue Apr 10 17:42:06 2018	Researcher Ramsay (STEAM_0:0:98564878): y
+Tue Apr 10 17:42:20 2018	Researcher Ramsay (STEAM_0:0:98564878): /ooc boi, it has only been 1 day
+Tue Apr 10 17:42:33 2018	Security Soal (STEAM_0:0:86025114): // I just dont remember two stations here
+Tue Apr 10 17:42:41 2018	Researcher Ramsay (STEAM_0:0:98564878): /ooc 2 stations one tram
+Tue Apr 10 17:42:47 2018	Security Soal (STEAM_0:0:86025114): // Ok
+Tue Apr 10 17:43:00 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Apr 10 17:43:03 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Tue Apr 10 17:44:22 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Tue Apr 10 17:44:37 2018	Fat Gay (STEAM_0:1:218173703): 
+Tue Apr 10 17:48:35 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Tue Apr 10 17:52:19 2018	Security Soal (STEAM_0:0:86025114): // Time to starve....IN HELL!
+Tue Apr 10 17:52:25 2018	Security Soal was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Tue Apr 10 17:52:30 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Apr 10 17:53:11 2018	Fat Gay (STEAM_0:1:218173703): !goto roa
+Tue Apr 10 17:53:14 2018	Fat Gay (STEAM_0:1:218173703): !goto so
+Tue Apr 10 17:56:38 2018	Researcher Ramsay was killed by Himself with a suicide trick
+Tue Apr 10 17:57:10 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Tue Apr 10 17:59:38 2018	Security Soal was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 10 17:59:39 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Apr 10 18:04:53 2018	Valien (STEAM_0:1:41660292) has joined the game
+Tue Apr 10 18:04:53 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue Apr 10 18:04:59 2018	Researcher Ramsay (STEAM_0:0:98564878) spawned
+Tue Apr 10 18:05:04 2018	Researcher Ramsay (STEAM_0:0:98564878): /ooc why am I user now?
+Tue Apr 10 18:05:08 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Apr 10 18:15:27 2018	Researcher Ramsay (STEAM_0:0:98564878) disconnected
+Tue Apr 10 18:17:06 2018	Security Soal (STEAM_0:0:86025114): // Everything good?
+Tue Apr 10 18:18:47 2018	Security Soal was killed by Entity [1676][trigger_hurt] with a trigger_hurt

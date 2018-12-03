@@ -1,0 +1,38 @@
+Sat Dec  1 16:42:03 2018	Gamizard (STEAM_0:1:51961500) has joined the game
+Sat Dec  1 16:42:03 2018	Gamizard (STEAM_0:1:51961500) spawned
+Sat Dec  1 17:00:06 2018	Gamizard (STEAM_0:1:51961500) disconnected
+Sat Dec  1 18:46:53 2018	[Opi] Simon (STEAM_0:1:84422693) has joined the game
+Sat Dec  1 18:46:53 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Sat Dec  1 18:49:21 2018	Spooky Simon (STEAM_0:1:84422693) disconnected
+Sun Dec  2 05:59:24 2018	Not DJ // djsime1 (STEAM_0:0:95072396) has joined the game
+Sun Dec  2 05:59:24 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:02:12 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:02:26 2018	GreenJacket (STEAM_0:0:196659253) has joined the game
+Sun Dec  2 06:02:26 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:04:26 2018	Not DJ was killed by Entity [0][worldspawn] with a unknown
+Sun Dec  2 06:04:28 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:04:54 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:05:08 2018	GreenJacket was killed by Not DJ with a cw_p99
+Sun Dec  2 06:05:11 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:05:30 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:05:31 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:06:13 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:07:47 2018	GreenJacket was killed by Entity [0][worldspawn] with a unknown
+Sun Dec  2 06:07:49 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:11:37 2018	GreenJacket was killed by Entity [2003][trigger_hurt] with a trigger_hurt
+Sun Dec  2 06:11:39 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:15:47 2018	GreenJacket (STEAM_0:0:196659253): 
+Sun Dec  2 06:15:59 2018	GreenJacket (STEAM_0:0:196659253): 
+Sun Dec  2 06:16:33 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:21:14 2018	GreenJacket was killed by Entity [0][worldspawn] with a unknown
+Sun Dec  2 06:21:16 2018	GreenJacket (STEAM_0:0:196659253) spawned
+Sun Dec  2 06:23:47 2018	Not DJ was killed by GreenJacket with a cw_g36c
+Sun Dec  2 06:23:53 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Dec  2 06:23:56 2018	GreenJacket (STEAM_0:0:196659253) disconnected
+Sun Dec  2 06:24:13 2018	Not DJ (STEAM_0:0:95072396) disconnected
+Sun Dec  2 06:59:28 2018	Malvagster (STEAM_0:1:97567265) has joined the game
+Sun Dec  2 06:59:28 2018	Malvagster (STEAM_0:1:97567265) spawned
+Sun Dec  2 07:00:28 2018	Malvagster (STEAM_0:1:97567265) spawned
+Sun Dec  2 07:00:48 2018	Malvagster (STEAM_0:1:97567265) spawned
+Sun Dec  2 07:01:43 2018	Malvagster (STEAM_0:1:97567265): 
+Sun Dec  2 07:02:32 2018	Malvagster (STEAM_0:1:97567265) disconnected

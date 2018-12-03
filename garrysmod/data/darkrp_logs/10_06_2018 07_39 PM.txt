@@ -1,0 +1,668 @@
+Sat Oct  6 19:39:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct  6 19:39:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:40:28 2018	Nosey (STEAM_0:0:139498605) has joined the game
+Sat Oct  6 19:40:28 2018	Chef Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 19:40:31 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sat Oct  6 19:40:31 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:40:42 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct  6 19:40:42 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:40:45 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Sat Oct  6 19:40:45 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:41:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setmoney fat 10000000
+Sat Oct  6 19:41:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) set [Opi] Fat Gay's money to $10,000,000
+Sat Oct  6 19:41:22 2018	Chef Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 19:41:55 2018	Dinky Winks (STEAM_0:0:56680165) has joined the game
+Sat Oct  6 19:41:55 2018	Chez Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 19:42:03 2018	Chef Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 19:42:10 2018	Chef Nosey (STEAM_0:0:139498605): /name Nosey
+Sat Oct  6 19:42:58 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:43:03 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:43:06 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:43:24 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct  6 19:43:24 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:43:39 2018	John Mercy (STEAM_0:0:86025114): // That was ood
+Sat Oct  6 19:43:39 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:43:41 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:43:49 2018	Nosey (STEAM_0:0:139498605): // Idfk how to run a plant
+Sat Oct  6 19:43:52 2018	Nosey (STEAM_0:0:139498605): // Imma just try
+Sat Oct  6 19:44:04 2018	John Mercy (STEAM_0:0:86025114): // Why am I lagging so much?!
+Sat Oct  6 19:44:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc idk
+Sat Oct  6 19:44:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im not
+Sat Oct  6 19:44:22 2018	John Mercy (STEAM_0:0:86025114): // Im at 500 + ping
+Sat Oct  6 19:44:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:44:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto wol
+Sat Oct  6 19:44:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mer
+Sat Oct  6 19:44:35 2018	Nosey (STEAM_0:0:139498605): // If you die as director, are you instantly demoted?
+Sat Oct  6 19:44:40 2018	Emmett Pyke (STEAM_0:1:41660292): // Yes
+Sat Oct  6 19:44:44 2018	Nosey (STEAM_0:0:139498605): // rip
+Sat Oct  6 19:44:49 2018	Emmett Pyke (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:45:27 2018	[Opi] Fat Gay was killed by John Mercy with a cw_g36c
+Sat Oct  6 19:45:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:45:47 2018	Emmett Pyke (STEAM_0:1:41660292): //OMW
+Sat Oct  6 19:45:48 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm fat just go to the rocket and tp me there to show you
+Sat Oct  6 19:45:49 2018	Emmett Pyke (STEAM_0:1:41660292): // OMW
+Sat Oct  6 19:46:02 2018	Chez Dinky Winks (STEAM_0:0:56680165) spawned
+Sat Oct  6 19:46:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:46:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc sniper ready!
+Sat Oct  6 19:46:14 2018	Emmett Pyke (STEAM_0:1:41660292): /nick Mike
+Sat Oct  6 19:46:30 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): !motd
+Sat Oct  6 19:46:39 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): SWAT:ONLY JOIN SWAT WHEN PROPERLY CALLED IN BY Head of Security OR Plant Director1. You help to stop ongoing invasions from
+Sat Oct  6 19:47:40 2018	Nosey (STEAM_0:0:139498605): // THEY'RE AT MY DOOR
+Sat Oct  6 19:47:53 2018	Mike (STEAM_0:1:41660292): // adam ur a thot
+Sat Oct  6 19:48:34 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 
+Sat Oct  6 19:48:42 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 
+Sat Oct  6 19:48:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto luk
+Sat Oct  6 19:48:52 2018	Mike (STEAM_0:1:41660292): !warrant Adam
+Sat Oct  6 19:49:05 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): ok
+Sat Oct  6 19:49:11 2018	Lukyn150 (CZ) was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:49:12 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:49:12 2018	Chez Dinky Winks (STEAM_0:0:56680165) disconnected
+Sat Oct  6 19:49:33 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 
+Sat Oct  6 19:49:48 2018	[Opi] Fat Gay was killed by John Mercy with a fas2_dv2
+Sat Oct  6 19:49:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:49:54 2018	Adam Klein was killed by Mike with a cw_mp5
+Sat Oct  6 19:49:55 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:50:03 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /advert Anyone wants to enter the portal?
+Sat Oct  6 19:50:11 2018	Nosey (STEAM_0:0:139498605): // Situation?
+Sat Oct  6 19:50:15 2018	Nosey (STEAM_0:0:139498605): Contained?
+Sat Oct  6 19:50:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:50:22 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // Survey?
+Sat Oct  6 19:50:49 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 19:51:26 2018	John Mercy (STEAM_0:0:86025114): /pm Nos Contact below!
+Sat Oct  6 19:51:34 2018	Mike (STEAM_0:1:41660292): // Yall are really good at roleplaying
+Sat Oct  6 19:51:36 2018	John Mercy (STEAM_0:0:86025114): /pm Nos Stand by for report
+Sat Oct  6 19:52:02 2018	Mike was killed by [Opi] Fat Gay with a cw_l115
+Sat Oct  6 19:52:06 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:52:06 2018	Nosey (STEAM_0:0:139498605): /advert HEAD RESEARCHER ADAM KLEIN PLEASE REPORT TO MY OFFICE
+Sat Oct  6 19:52:11 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:52:20 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:52:22 2018	Nosey (STEAM_0:0:139498605): // INFORM ME WHEN YOU HAVE REACHED IT
+Sat Oct  6 19:52:30 2018	[Opi] Fat Gay was killed by John Mercy with a cw_g36c
+Sat Oct  6 19:52:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:52:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:54:16 2018	Adam Klein was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:54:17 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): ghuah aígoiagh?
+Sat Oct  6 19:54:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:54:34 2018	Mike was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 19:54:43 2018	[Opi] Fat Gay was killed by John Mercy with a cw_g36c
+Sat Oct  6 19:54:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:54:45 2018	Nosey (STEAM_0:0:139498605): // SECURITY TO CORE EMEDIATELY! TERROR IS ATFOOT!
+Sat Oct  6 19:54:50 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:55:19 2018	Adam Klein was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct  6 19:55:21 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 19:55:56 2018	John Mercy was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 19:55:57 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:56:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Oct  6 19:56:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Oct  6 19:56:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Oct  6 19:56:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Oct  6 19:56:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Oct  6 19:56:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Oct  6 19:56:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Oct  6 19:56:25 2018	Mike was killed by [Opi] Fat Gay with a cw_scarh
+Sat Oct  6 19:56:27 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:56:33 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:56:48 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct  6 19:56:48 2018	John Mercy was killed by [Opi] Fat Gay with a env_explosion
+Sat Oct  6 19:56:49 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 19:56:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:57:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc security op lol
+Sat Oct  6 19:57:04 2018	Nosey (STEAM_0:0:139498605): // yeet
+Sat Oct  6 19:57:06 2018	John Mercy (STEAM_0:0:86025114): // We just good
+Sat Oct  6 19:57:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:57:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc this is ok
+Sat Oct  6 19:57:10 2018	Mike (STEAM_0:1:41660292): //bruh i died like 4 times ur op
+Sat Oct  6 19:57:12 2018	John Mercy (STEAM_0:0:86025114): // And have numbers
+Sat Oct  6 19:57:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc I have backup plan
+Sat Oct  6 19:57:20 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // anyone going through the portal?
+Sat Oct  6 19:57:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc its called
+Sat Oct  6 19:57:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc JuGgErNaUt
+Sat Oct  6 19:57:37 2018	Mike (STEAM_0:1:41660292) spawned SENT ent_metal_detector_large
+Sat Oct  6 19:57:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc get fucking ready
+Sat Oct  6 19:57:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im coming
+Sat Oct  6 19:58:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc your asses are done
+Sat Oct  6 19:58:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i hope your defenses are good, director
+Sat Oct  6 19:58:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc were about to have the ultimate test
+Sat Oct  6 19:59:28 2018	Mike was killed by [Opi] Fat Gay with a cw_m3super90
+Sat Oct  6 19:59:35 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 19:59:46 2018	[Opi] Fat Gay was killed by John Mercy with a cw_g36c
+Sat Oct  6 19:59:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 19:59:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok
+Sat Oct  6 19:59:54 2018	Mike (STEAM_0:1:41660292): // Target Down
+Sat Oct  6 19:59:55 2018	curt lemur52 (STEAM_0:1:89296197) has joined the game
+Sat Oct  6 19:59:55 2018	curt lemur52 (STEAM_0:1:89296197) spawned
+Sat Oct  6 20:00:07 2018	John Mercy (STEAM_0:0:86025114): // As you can see the spawn for us is not a good area. 
+Sat Oct  6 20:00:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill fix taht
+Sat Oct  6 20:00:19 2018	Mike (STEAM_0:1:41660292) spawned SENT ent_metal_detector_large
+Sat Oct  6 20:00:19 2018	John Mercy (STEAM_0:0:86025114): // Maybe add  a side room for them to spawn at?
+Sat Oct  6 20:00:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /setspawn CORESECURITY
+Sat Oct  6 20:00:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc spawn fixed
+Sat Oct  6 20:00:55 2018	Mike was killed by [Opi] Fat Gay with a cw_m249_official
+Sat Oct  6 20:00:57 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:01:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 1 down
+Sat Oct  6 20:01:38 2018	Mike was killed by [Opi] Fat Gay with a cw_m249_official
+Sat Oct  6 20:01:39 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:01:46 2018	John Mercy was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 20:01:47 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:01:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 3 down
+Sat Oct  6 20:01:56 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /pm adam awdhiu you auwdbiawd want iaowduua the kjawdiua portal kawbd
+Sat Oct  6 20:02:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc saw that emmit
+Sat Oct  6 20:02:24 2018	Mike (STEAM_0:1:41660292): shut
+Sat Oct  6 20:02:24 2018	John Mercy (STEAM_0:0:86025114): // the shotgun is kinda weak for a shotgun
+Sat Oct  6 20:02:31 2018	Adam Klein was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 20:02:37 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 20:02:45 2018	Mike (STEAM_0:1:41660292): // I keep spawning on the opposite side
+Sat Oct  6 20:02:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc im aware
+Sat Oct  6 20:02:55 2018	Mike (STEAM_0:1:41660292): // even tho im core security
+Sat Oct  6 20:02:57 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 20:02:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i fixed core security
+Sat Oct  6 20:03:09 2018	curt lemur52 (STEAM_0:1:89296197) disconnected
+Sat Oct  6 20:03:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc nosey i hope youre ready
+Sat Oct  6 20:04:11 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // I am too poor to have a printer
+Sat Oct  6 20:04:17 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // guess I'll wait
+Sat Oct  6 20:04:23 2018	Nosey (STEAM_0:0:139498605): // TERRORIST AT MY OFFICE
+Sat Oct  6 20:04:30 2018	Nosey was killed by [Opi] Fat Gay with a cw_m249_official
+Sat Oct  6 20:04:34 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:04:35 2018	Nosey (STEAM_0:0:139498605): // reeee
+Sat Oct  6 20:04:37 2018	Nosey (STEAM_0:0:139498605): // ded
+Sat Oct  6 20:04:40 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:04:50 2018	Nosey (STEAM_0:0:139498605): // lol
+Sat Oct  6 20:04:51 2018	Mike was killed by [Opi] Fat Gay with a cw_m249_official
+Sat Oct  6 20:05:19 2018	Mike (STEAM_0:1:41660292): 
+Sat Oct  6 20:05:21 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:05:21 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // anyone wants to go through the portal
+Sat Oct  6 20:05:25 2018	John Mercy was killed by [Opi] Fat Gay with a fas2_thrown_m67
+Sat Oct  6 20:05:26 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:05:42 2018	Mike (STEAM_0:1:41660292): // grenades op
+Sat Oct  6 20:07:11 2018	François Fromage Factory (STEAM_0:0:61380847) has joined the game
+Sat Oct  6 20:07:11 2018	François Fromage Factory (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:07:52 2018	François Fromage Factory (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:07:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc my candy is coming soon
+Sat Oct  6 20:08:31 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:08:36 2018	TheDanster_YT [DN] (STEAM_0:1:425940591) has joined the game
+Sat Oct  6 20:08:36 2018	TheDanster_YT [DN] (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:08:56 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 
+Sat Oct  6 20:09:12 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:09:17 2018	[Opi] Fat Gay was killed by Nosey with a cw_g3a3
+Sat Oct  6 20:09:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:09:23 2018	François Fromage Factory (STEAM_0:0:61380847): /rpname Osama Bin Latté
+Sat Oct  6 20:09:27 2018	TheDanster_YT [DN] (STEAM_0:1:425940591): /warden
+Sat Oct  6 20:09:38 2018	TheDanster_YT [DN] (STEAM_0:1:425940591): /rpname Manager
+Sat Oct  6 20:09:42 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 
+Sat Oct  6 20:10:07 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): come
+Sat Oct  6 20:10:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc YOOO THE AMAZON GUY IS HERE MY CANDY HAS ARRIVED
+Sat Oct  6 20:10:17 2018	Nosey (STEAM_0:0:139498605): // NICE
+Sat Oct  6 20:10:47 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:10:53 2018	John Mercy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:10:55 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:10:57 2018	Nosey was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:10:58 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:11:09 2018	Nosey (STEAM_0:0:139498605): // nicely said
+Sat Oct  6 20:11:39 2018	Manager (STEAM_0:1:425940591): how do i become a worker
+Sat Oct  6 20:12:15 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:12:34 2018	Manager (STEAM_0:1:425940591): can i make the core go boom boom
+Sat Oct  6 20:12:50 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): Hello
+Sat Oct  6 20:12:59 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): ?
+Sat Oct  6 20:13:01 2018	Lukyn150 (CZ) was killed by [Opi] Fat Gay with a cw_m3super90
+Sat Oct  6 20:13:02 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:13:10 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): 
+Sat Oct  6 20:13:22 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): ?
+Sat Oct  6 20:13:40 2018	John Mercy was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 20:13:41 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:13:42 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:13:43 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:14:11 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // how does the tram override work?
+Sat Oct  6 20:14:14 2018	John Mercy (STEAM_0:0:86025114): // The jug is a little op
+Sat Oct  6 20:14:17 2018	Manager (STEAM_0:1:425940591): ok
+Sat Oct  6 20:14:29 2018	Mike (STEAM_0:1:41660292): // You select one tram and when it comes around it will stop
+Sat Oct  6 20:14:34 2018	John Mercy (STEAM_0:0:86025114): // If he ran any faster it would be hell
+Sat Oct  6 20:14:40 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // yeah and what does the override do?
+Sat Oct  6 20:14:49 2018	Mike (STEAM_0:1:41660292): It just pulls one of the loop
+Sat Oct  6 20:15:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc makes the tram stop on the inner track and not move again until you press the button
+Sat Oct  6 20:15:09 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): // thank you
+Sat Oct  6 20:15:34 2018	Mike was killed by [Opi] Fat Gay with a cw_m249_official
+Sat Oct  6 20:15:39 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:15:47 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:16:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:16:14 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:16:47 2018	Lukyn150 (CZ) (STEAM_0:0:81441026): /name Lukyn Red
+Sat Oct  6 20:17:03 2018	Nosey (STEAM_0:0:139498605): // WHERE THE FUCK AM I
+Sat Oct  6 20:17:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 20:17:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc youre in afghan
+Sat Oct  6 20:17:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the sand nigerian lives there
+Sat Oct  6 20:17:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and builds eternally
+Sat Oct  6 20:17:33 2018	Nosey (STEAM_0:0:139498605): // oh
+Sat Oct  6 20:17:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): welp
+Sat Oct  6 20:18:00 2018	Lukyn Red (STEAM_0:0:81441026): I will stay
+Sat Oct  6 20:18:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hey uh whoever was sand nigerian remove your props if you arent anymore
+Sat Oct  6 20:18:04 2018	Lukyn Red (STEAM_0:0:81441026): wanna see it
+Sat Oct  6 20:18:08 2018	Lukyn Red (STEAM_0:0:81441026): I am actually dead
+Sat Oct  6 20:18:10 2018	Lukyn Red (STEAM_0:0:81441026): now
+Sat Oct  6 20:18:22 2018	Lukyn Red (STEAM_0:0:81441026): rocket
+Sat Oct  6 20:18:31 2018	Nosey (STEAM_0:0:139498605): @Help
+Sat Oct  6 20:19:08 2018	Summerlin (STEAM_0:0:50036617) has joined the game
+Sat Oct  6 20:19:08 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:19:29 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:19:30 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:19:44 2018	Nosey (STEAM_0:0:139498605): // thank you
+Sat Oct  6 20:19:53 2018	Nosey (STEAM_0:0:139498605): // I'll definitely be coming back here in the future
+Sat Oct  6 20:19:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring nos
+Sat Oct  6 20:20:37 2018	John Mercy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:20:38 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:20:44 2018	John Mercy (STEAM_0:0:86025114): // I missed my jump...
+Sat Oct  6 20:20:50 2018	Mike (STEAM_0:1:41660292): // F
+Sat Oct  6 20:20:50 2018	Lukyn Red (STEAM_0:0:81441026): we need more railings
+Sat Oct  6 20:21:02 2018	Nosey (STEAM_0:0:139498605): // Do you blow yourself with a jihad bomb? xd
+Sat Oct  6 20:21:08 2018	Mike (STEAM_0:1:41660292): // Click
+Sat Oct  6 20:21:12 2018	Nosey (STEAM_0:0:139498605): // that's awesome
+Sat Oct  6 20:21:33 2018	Nosey was killed by Himself with a suicide trick
+Sat Oct  6 20:21:44 2018	John Mercy (STEAM_0:0:86025114): !motd
+Sat Oct  6 20:21:48 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:21:57 2018	Nosey (STEAM_0:0:139498605): // that's a rip
+Sat Oct  6 20:22:11 2018	Nosey (STEAM_0:0:139498605): // nlr for bombs?
+Sat Oct  6 20:22:13 2018	Lukyn Red (STEAM_0:0:81441026): no
+Sat Oct  6 20:22:14 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:22:42 2018	Nosey (STEAM_0:0:139498605): // Aight
+Sat Oct  6 20:22:53 2018	Summerlin was killed by Nosey with a cw_shorty
+Sat Oct  6 20:23:09 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:23:16 2018	John Mercy (STEAM_0:0:86025114): // Little scared now
+Sat Oct  6 20:23:29 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:23:47 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:24:12 2018	Mike was killed by John Mercy with a cw_g36c
+Sat Oct  6 20:24:17 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:24:20 2018	Summerlin was killed by Lukyn Red with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:24:21 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:24:27 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:24:50 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:24:56 2018	Manager (STEAM_0:1:425940591): fetus deletus
+Sat Oct  6 20:25:03 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:25:21 2018	Nosey was killed by Himself with a suicide trick
+Sat Oct  6 20:25:22 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:25:37 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:26:12 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 20:26:21 2018	Manager (STEAM_0:1:425940591): welp im stuck in here
+Sat Oct  6 20:26:28 2018	Manager (STEAM_0:1:425940591): nvm
+Sat Oct  6 20:27:13 2018	Nosey was killed by Himself with a suicide trick
+Sat Oct  6 20:27:13 2018	John Mercy was killed by Nosey with a env_explosion
+Sat Oct  6 20:27:14 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:27:16 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:27:28 2018	Nosey (STEAM_0:0:139498605): // Let's work together lol
+Sat Oct  6 20:27:50 2018	Manager (STEAM_0:1:425940591): adam where are you?
+Sat Oct  6 20:27:58 2018	John Mercy was killed by [Opi] Fat Gay with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:27:58 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:28:17 2018	Manager (STEAM_0:1:425940591): mike is up in the core room unarmed and requests to be infected
+Sat Oct  6 20:28:17 2018	John Mercy was killed by Summerlin with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:28:18 2018	[Opi] Fat Gay was killed by John Mercy with a fas2_thrown_m67
+Sat Oct  6 20:28:18 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:28:20 2018	Summerlin was killed by John Mercy with a fas2_thrown_m67
+Sat Oct  6 20:28:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:28:25 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:28:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc the great 049 war
+Sat Oct  6 20:28:33 2018	Lukyn Red was killed by John Mercy with a fas2_thrown_m67
+Sat Oct  6 20:28:35 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:28:35 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:28:36 2018	John Mercy was killed by Himself with a suicide trick
+Sat Oct  6 20:28:37 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:28:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:28:39 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 20:28:39 2018	Mike (STEAM_0:1:41660292): // adam im at the core
+Sat Oct  6 20:28:44 2018	Mike (STEAM_0:1:41660292): // ive come to join you
+Sat Oct  6 20:28:51 2018	Nosey was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 20:28:53 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:28:54 2018	Manager (STEAM_0:1:425940591): bye bye
+Sat Oct  6 20:28:54 2018	Nosey (STEAM_0:0:139498605): // LOL
+Sat Oct  6 20:28:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:29:01 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:29:14 2018	Manager (STEAM_0:1:425940591): am i allowed to change classes or is that against the rules?
+Sat Oct  6 20:29:15 2018	Nosey (STEAM_0:0:139498605): // I DIDN'T MEAN TO
+Sat Oct  6 20:29:54 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct  6 20:30:08 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:30:16 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:30:17 2018	John Mercy (STEAM_0:0:86025114): // I will live damn you!
+Sat Oct  6 20:30:18 2018	Mike (STEAM_0:1:41660292): // Wait
+Sat Oct  6 20:30:29 2018	John Mercy (STEAM_0:0:86025114): // Wait what
+Sat Oct  6 20:30:33 2018	John Mercy (STEAM_0:0:86025114): @ Uhhhhhhhh
+Sat Oct  6 20:30:36 2018	Manager (STEAM_0:1:425940591) disconnected
+Sat Oct  6 20:30:56 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:30:56 2018	John Mercy (STEAM_0:0:86025114): // Well that happene
+Sat Oct  6 20:30:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sat Oct  6 20:31:02 2018	Matthew (STEAM_0:1:127001171) has joined the game
+Sat Oct  6 20:31:02 2018	Matthew (STEAM_0:1:127001171) spawned
+Sat Oct  6 20:31:09 2018	Adam Klein was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:31:13 2018	John Mercy (STEAM_0:0:86025114): // I am safe
+Sat Oct  6 20:31:37 2018	TheDanster_YT [DN] (STEAM_0:1:425940591) has joined the game
+Sat Oct  6 20:31:37 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:31:39 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct  6 20:31:41 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:31:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 20:31:47 2018	Osama Bin Latté was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:31:52 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:31:56 2018	Manager (STEAM_0:1:425940591): ill be honest to god
+Sat Oct  6 20:32:03 2018	Manager (STEAM_0:1:425940591): i wasn't exploting
+Sat Oct  6 20:32:06 2018	[Opi] Fat Gay was killed by Summerlin with a cw_g36c
+Sat Oct  6 20:32:06 2018	Nosey (STEAM_0:0:139498605): // dammit
+Sat Oct  6 20:32:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:32:12 2018	Manager (STEAM_0:1:425940591): and have no clue how i was that job
+Sat Oct  6 20:32:13 2018	Mike (STEAM_0:1:41660292): // did that on purpose
+Sat Oct  6 20:32:22 2018	[Opi] Fat Gay was killed by Lukyn Red with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:32:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:32:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc GUYS CBRN ARE HERE THEY HAVE FLAMETHROWERS TO EXTERMINATE THE 049 ARMY RUN
+Sat Oct  6 20:32:33 2018	John Mercy was killed by Lukyn Red with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:32:34 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:32:34 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:32:44 2018	John Mercy (STEAM_0:0:86025114): // Zombies are bullet sponges
+Sat Oct  6 20:32:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto adam
+Sat Oct  6 20:32:49 2018	Matthew (STEAM_0:1:127001171) spawned
+Sat Oct  6 20:33:00 2018	Lukyn Red was killed by John Mercy with a cw_g36c
+Sat Oct  6 20:33:02 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:33:03 2018	Manager (STEAM_0:1:425940591): im onna be afk for a lil while so
+Sat Oct  6 20:33:09 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:33:11 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct  6 20:33:17 2018	Manager (STEAM_0:1:425940591): i'll just be a visitor
+Sat Oct  6 20:33:19 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 20:33:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring manag
+Sat Oct  6 20:33:27 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:33:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:33:31 2018	Lukyn Red (STEAM_0:0:81441026): keep reactor at 1000°K
+Sat Oct  6 20:33:42 2018	Lukyn Red (STEAM_0:0:81441026): go to STOP Core
+Sat Oct  6 20:33:47 2018	Lukyn Red (STEAM_0:0:81441026): and disable all boost lasers
+Sat Oct  6 20:34:06 2018	Manager was killed by Himself with a suicide trick
+Sat Oct  6 20:34:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay manager
+Sat Oct  6 20:34:09 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:34:09 2018	Lukyn Red (STEAM_0:0:81441026): !motd
+Sat Oct  6 20:34:16 2018	Matthew (STEAM_0:1:127001171) disconnected
+Sat Oct  6 20:35:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:36:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:36:56 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:37:08 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct  6 20:37:15 2018	Lukyn Red (STEAM_0:0:81441026): need help?
+Sat Oct  6 20:37:23 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct  6 20:37:27 2018	Lukyn Red (STEAM_0:0:81441026): or help you
+Sat Oct  6 20:37:30 2018	Lukyn Red (STEAM_0:0:81441026): in general
+Sat Oct  6 20:37:34 2018	Lukyn Red (STEAM_0:0:81441026): undercover
+Sat Oct  6 20:37:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct  6 20:37:50 2018	Lukyn Red (STEAM_0:0:81441026): Use the teleporter at the end of this hallway
+Sat Oct  6 20:38:01 2018	Lukyn Red (STEAM_0:0:81441026): then go to the right and then left
+Sat Oct  6 20:38:03 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Sat Oct  6 20:38:03 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 20:38:05 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:38:16 2018	Manager (STEAM_0:1:425940591): how does one get weapons?
+Sat Oct  6 20:38:22 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:38:23 2018	Lukyn Red (STEAM_0:0:81441026): but it meltdowns at 5000
+Sat Oct  6 20:38:26 2018	Lukyn Red (STEAM_0:0:81441026): It's 3760
+Sat Oct  6 20:38:31 2018	Lukyn Red (STEAM_0:0:81441026): we have time
+Sat Oct  6 20:38:49 2018	Lukyn Red (STEAM_0:0:81441026): disbale pumps,fan enable lasers
+Sat Oct  6 20:38:55 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:39:01 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 20:39:15 2018	Manager was killed by John Mercy with a cw_g36c
+Sat Oct  6 20:39:17 2018	Lukyn Red (STEAM_0:0:81441026): really fast
+Sat Oct  6 20:39:25 2018	Lukyn Red (STEAM_0:0:81441026): It's cooling
+Sat Oct  6 20:39:25 2018	Manager (STEAM_0:1:425940591): hahhaha
+Sat Oct  6 20:39:25 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:39:26 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:39:27 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:39:53 2018	John Mercy was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:39:54 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:39:55 2018	John Mercy (STEAM_0:0:86025114): // Haha
+Sat Oct  6 20:39:59 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:40:01 2018	Summerlin (STEAM_0:0:50036617): !motd
+Sat Oct  6 20:40:09 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:40:15 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 20:40:27 2018	Sammy Boom (STEAM_0:0:91181601): // holy jesus what happened to the core
+Sat Oct  6 20:40:36 2018	Sammy Boom (STEAM_0:0:91181601): What's happening
+Sat Oct  6 20:40:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc alot of random shit
+Sat Oct  6 20:40:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc 049 takeover
+Sat Oct  6 20:40:47 2018	Lukyn Red (STEAM_0:0:81441026): killing your friend ahmed
+Sat Oct  6 20:40:49 2018	Lukyn Red (STEAM_0:0:81441026): you know
+Sat Oct  6 20:40:53 2018	Lukyn Red (STEAM_0:0:81441026): no
+Sat Oct  6 20:40:55 2018	Lukyn Red (STEAM_0:0:81441026): ran away
+Sat Oct  6 20:40:55 2018	Manager was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 20:40:57 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:41:00 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:41:09 2018	Mike was killed by Nosey with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:41:11 2018	Manager (STEAM_0:1:425940591): how do o get weapons?
+Sat Oct  6 20:41:14 2018	Manager (STEAM_0:1:425940591): i
+Sat Oct  6 20:41:16 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:41:19 2018	Lukyn Red (STEAM_0:0:81441026): oh no
+Sat Oct  6 20:41:46 2018	Sammy Boom (STEAM_0:0:91181601): Oh god it's Adam Klein
+Sat Oct  6 20:42:12 2018	Sammy Boom (STEAM_0:0:91181601): Is the coolant active?
+Sat Oct  6 20:42:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert HAIL 049!
+Sat Oct  6 20:42:13 2018	Nosey (STEAM_0:0:139498605): // The discount cthulu
+Sat Oct  6 20:42:13 2018	John Mercy (STEAM_0:0:86025114): // One of the few times we might have to blow up the plant...
+Sat Oct  6 20:42:26 2018	Summerlin (STEAM_0:0:50036617): // go cbrn
+Sat Oct  6 20:42:34 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:42:34 2018	Lukyn Red (STEAM_0:0:81441026): aren't we cooling it?
+Sat Oct  6 20:42:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yeah,
+Sat Oct  6 20:42:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc were not setting anything on fire anymore either
+Sat Oct  6 20:43:00 2018	Lukyn Red (STEAM_0:0:81441026): oh no
+Sat Oct  6 20:43:12 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 20:43:30 2018	Sammy Boom (STEAM_0:0:91181601): oh
+Sat Oct  6 20:43:31 2018	Lukyn Red (STEAM_0:0:81441026): there is a problem
+Sat Oct  6 20:43:34 2018	Lukyn Red (STEAM_0:0:81441026): F10
+Sat Oct  6 20:43:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no just for suggestions
+Sat Oct  6 20:43:38 2018	Lukyn Red (STEAM_0:0:81441026): opens a report menu too
+Sat Oct  6 20:43:44 2018	Lukyn Red (STEAM_0:0:81441026): good
+Sat Oct  6 20:43:47 2018	Summerlin (STEAM_0:0:50036617): !motd
+Sat Oct  6 20:43:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc oh
+Sat Oct  6 20:43:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ill look into it
+Sat Oct  6 20:43:56 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 20:43:57 2018	Lukyn Red (STEAM_0:0:81441026): still opens reports
+Sat Oct  6 20:44:07 2018	John Mercy (STEAM_0:0:86025114): // that scared me
+Sat Oct  6 20:44:08 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Sat Oct  6 20:44:15 2018	Osama Bin Latté was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:44:18 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:45:18 2018	Nosey (STEAM_0:0:139498605): // *Man screams in agony from burning* By the way, today is pizza day!
+Sat Oct  6 20:45:28 2018	Lukyn Red (STEAM_0:0:81441026): gates are up
+Sat Oct  6 20:45:31 2018	Lukyn Red (STEAM_0:0:81441026): ok
+Sat Oct  6 20:45:35 2018	Mike (STEAM_0:1:41660292): // thats me
+Sat Oct  6 20:45:35 2018	Osama Bin Latté (STEAM_0:0:61380847): // Oh boy, pizza day!
+Sat Oct  6 20:46:11 2018	Matthew (STEAM_0:1:127001171) has joined the game
+Sat Oct  6 20:46:11 2018	Matthew (STEAM_0:1:127001171) spawned
+Sat Oct  6 20:46:11 2018	Osama Bin Latté was killed by Himself with a suicide trick
+Sat Oct  6 20:46:11 2018	Mike was killed by Osama Bin Latté with a env_explosion
+Sat Oct  6 20:46:17 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:46:17 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:46:23 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:46:23 2018	Mike (STEAM_0:1:41660292): // good god
+Sat Oct  6 20:46:35 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:46:36 2018	Sammy Boom (STEAM_0:0:91181601): It's too hot inside
+Sat Oct  6 20:46:38 2018	Lukyn Red (STEAM_0:0:81441026): // one more 1000 and we are meltdowning again
+Sat Oct  6 20:46:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc yup
+Sat Oct  6 20:46:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and the ecoolant was already used, cant be used more than once
+Sat Oct  6 20:47:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc so this next one cant be stopped after it starts...
+Sat Oct  6 20:47:11 2018	Lukyn Red (STEAM_0:0:81441026): // opened gates
+Sat Oct  6 20:47:23 2018	Lukyn Red was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:47:24 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:47:31 2018	Manager was killed by Entity [2007][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:47:33 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:47:53 2018	John Mercy (STEAM_0:0:86025114): // So many infected
+Sat Oct  6 20:49:06 2018	Nosey was killed by Sammy Boom with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:49:08 2018	Nosey (STEAM_0:0:139498605) spawned
+Sat Oct  6 20:49:29 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct  6 20:50:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:15 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:50:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:50:27 2018	Nosey (STEAM_0:0:139498605) disconnected
+Sat Oct  6 20:50:40 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:50:42 2018	Mike (STEAM_0:1:41660292) spawned
+Sat Oct  6 20:50:53 2018	John Mercy (STEAM_0:0:86025114): // As long as the creature is alive, we are under constant danger.
+Sat Oct  6 20:50:54 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:51:09 2018	Lukyn Red was killed by [Opi] Fat Gay with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:51:10 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:51:18 2018	Sammy Boom was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:51:19 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 20:51:26 2018	Lukyn Red (STEAM_0:0:81441026): come
+Sat Oct  6 20:51:41 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct  6 20:51:55 2018	John Mercy was killed by Entity [0][worldspawn] with a unknown
+Sat Oct  6 20:51:56 2018	Lukyn Red (STEAM_0:0:81441026): 2
+Sat Oct  6 20:51:56 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 20:52:14 2018	John Mercy (STEAM_0:0:86025114): // My jukes dont work when I cant jump on solid ground any more...
+Sat Oct  6 20:52:37 2018	Sammy Boom (STEAM_0:0:91181601): Only another 600 F
+Sat Oct  6 20:52:38 2018	Sammy Boom (STEAM_0:0:91181601): *k
+Sat Oct  6 20:52:43 2018	Lukyn Red (STEAM_0:0:81441026): kelvin
+Sat Oct  6 20:52:50 2018	Lukyn Red (STEAM_0:0:81441026): this stop
+Sat Oct  6 20:53:06 2018	Osama Bin Latté (STEAM_0:0:61380847) spawned
+Sat Oct  6 20:53:07 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:53:11 2018	Manager was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:53:12 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:53:21 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct  6 20:53:22 2018	Sammy Boom was killed by [Opi] Fat Gay with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:53:23 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 20:53:32 2018	Sammy Boom (STEAM_0:0:91181601): Hey john
+Sat Oct  6 20:53:49 2018	Sammy Boom (STEAM_0:0:91181601): They gave up trying to save it, now they're trying to blow it up
+Sat Oct  6 20:53:58 2018	Sammy Boom (STEAM_0:0:91181601): the zombos
+Sat Oct  6 20:53:58 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct  6 20:54:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:54:19 2018	Summerlin was killed by Mike with a weapon_sillyzombieclaw_v2
+Sat Oct  6 20:54:19 2018	Sammy Boom (STEAM_0:0:91181601): They're at stop one *I heard over the radio from a friend*
+Sat Oct  6 20:54:21 2018	Summerlin (STEAM_0:0:50036617) spawned
+Sat Oct  6 20:54:40 2018	Sammy Boom (STEAM_0:0:91181601): stay on the leftmost door
+Sat Oct  6 20:54:50 2018	Lukyn Red (STEAM_0:0:81441026): missing materials
+Sat Oct  6 20:54:56 2018	Niko (STEAM_0:0:86208722) has joined the game
+Sat Oct  6 20:54:56 2018	Dhadi (STEAM_0:0:86208722) spawned
+Sat Oct  6 20:55:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc do you have css?
+Sat Oct  6 20:55:08 2018	Lukyn Red (STEAM_0:0:81441026): that's my spray
+Sat Oct  6 20:55:13 2018	Sammy Boom (STEAM_0:0:91181601): I'll get the doors
+Sat Oct  6 20:55:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 20:55:20 2018	Lukyn Red (STEAM_0:0:81441026): there
+Sat Oct  6 20:55:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 20:55:24 2018	Lukyn Red (STEAM_0:0:81441026): oh my
+Sat Oct  6 20:55:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct  6 20:55:35 2018	Summerlin (STEAM_0:0:50036617) disconnected
+Sat Oct  6 20:55:42 2018	Lukyn Red (STEAM_0:0:81441026): sprays are invisible
+Sat Oct  6 20:56:16 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:56:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:56:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:56:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Oct  6 20:56:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT prop_thumper
+Sat Oct  6 20:56:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT npc_grenade_frag
+Sat Oct  6 20:56:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Oct  6 20:56:47 2018	Manager was killed by Entity [3394][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:56:48 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:56:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Oct  6 20:56:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Oct  6 20:57:04 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 20:57:42 2018	Sammy Boom (STEAM_0:0:91181601): fuck
+Sat Oct  6 20:57:57 2018	AllOfTheAbove72 (STEAM_0:0:108453289) has joined the game
+Sat Oct  6 20:57:57 2018	AllOfTheAbove72 (STEAM_0:0:108453289) spawned
+Sat Oct  6 20:58:11 2018	Lukyn Red (STEAM_0:0:81441026): that sucks
+Sat Oct  6 20:58:22 2018	Lukyn Red (STEAM_0:0:81441026): he will get kicked
+Sat Oct  6 20:58:25 2018	Manager (STEAM_0:1:425940591): how to activate blast shelter
+Sat Oct  6 20:58:27 2018	Lukyn Red (STEAM_0:0:81441026): right after hoining
+Sat Oct  6 20:58:41 2018	John Mercy (STEAM_0:0:86025114): // God this is cool
+Sat Oct  6 20:58:48 2018	Mike (STEAM_0:1:41660292): // thanks
+Sat Oct  6 20:59:16 2018	John Mercy (STEAM_0:0:86025114): // Welp Im dead
+Sat Oct  6 20:59:22 2018	Sammy Boom (STEAM_0:0:91181601): // Why don't the core doors have an "Emergancy Open" Button ;-;
+Sat Oct  6 20:59:24 2018	Lukyn Red (STEAM_0:0:81441026): I love this music
+Sat Oct  6 20:59:36 2018	Dhadi (STEAM_0:0:86208722): // I just left a man for dead
+Sat Oct  6 20:59:40 2018	Matthew was killed by Manager with a cw_deagle
+Sat Oct  6 20:59:41 2018	Dhadi (STEAM_0:0:86208722): // I am the ultimate savior of humanity.
+Sat Oct  6 20:59:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc nice
+Sat Oct  6 20:59:50 2018	AllOfTheAbove72 was killed by Manager with a cw_deagle
+Sat Oct  6 20:59:51 2018	Sammy Boom was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sat Oct  6 20:59:52 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 20:59:56 2018	Sammy Boom (STEAM_0:0:91181601): // ded
+Sat Oct  6 21:00:03 2018	Lukyn Red (STEAM_0:0:81441026): why does the space station shake?
+Sat Oct  6 21:00:09 2018	Sammy Boom (STEAM_0:0:91181601): // This music is awesome
+Sat Oct  6 21:00:10 2018	Matthew (STEAM_0:1:127001171) spawned
+Sat Oct  6 21:00:16 2018	John Mercy was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:16 2018	Sammy Boom was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:16 2018	Manager was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:16 2018	Matthew was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:18 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 21:00:20 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:00:20 2018	AllOfTheAbove72 (STEAM_0:0:108453289) spawned
+Sat Oct  6 21:00:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc because putting shake entities everywhere is way too annoying
+Sat Oct  6 21:00:22 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:00:23 2018	Sammy Boom was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:24 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Sat Oct  6 21:00:25 2018	John Mercy was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:25 2018	AllOfTheAbove72 was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:27 2018	John Mercy (STEAM_0:0:86025114) spawned
+Sat Oct  6 21:00:27 2018	Manager was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct  6 21:00:28 2018	Manager (STEAM_0:1:425940591) spawned
+Sat Oct  6 21:00:29 2018	Sammy Boom was killed by Entity [4933][trigger_hurt] with a trigger_hurt

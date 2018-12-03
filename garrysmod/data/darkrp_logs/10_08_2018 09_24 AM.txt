@@ -1,0 +1,208 @@
+Mon Oct  8 09:24:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct  8 09:24:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 09:24:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /looc test
+Mon Oct  8 09:25:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): //. test
+Mon Oct  8 09:25:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): ///test
+Mon Oct  8 09:25:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct  8 10:36:48 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Mon Oct  8 11:56:58 2018	A Random Commie (STEAM_0:0:75867497) has joined the game
+Mon Oct  8 11:56:58 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 11:57:39 2018	A Random Commie (STEAM_0:0:75867497): // yo
+Mon Oct  8 11:58:29 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 11:58:49 2018	A Random Commie was killed by Himself with a suicide trick
+Mon Oct  8 11:58:51 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 11:59:17 2018	A Random Commie (STEAM_0:0:75867497) spawned
+Mon Oct  8 12:03:55 2018	A Random Commie (STEAM_0:0:75867497) disconnected
+Mon Oct  8 12:19:59 2018	KangarooMan (STEAM_0:0:215332530) has joined the game
+Mon Oct  8 12:19:59 2018	KangarooMan (STEAM_0:0:215332530) spawned
+Mon Oct  8 12:22:24 2018	KangarooMan (STEAM_0:0:215332530) disconnected
+Mon Oct  8 12:48:23 2018	Tello (STEAM_0:0:74320577) has joined the game
+Mon Oct  8 12:48:23 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 12:49:42 2018	Tello (STEAM_0:0:74320577): // hi
+Mon Oct  8 12:50:24 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 12:51:42 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 12:52:03 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 12:52:25 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 12:52:43 2018	Tello (STEAM_0:0:74320577) spawned
+Mon Oct  8 13:43:29 2018	Tello (STEAM_0:0:74320577) disconnected
+Mon Oct  8 14:07:51 2018	Jucraft32™[GER] (STEAM_0:0:56505739) has joined the game
+Mon Oct  8 14:07:51 2018	Jucraft32™[GER] (STEAM_0:0:56505739) spawned
+Mon Oct  8 14:19:03 2018	Jucraft32™[GER] was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct  8 14:19:04 2018	Jucraft32™[GER] (STEAM_0:0:56505739) spawned
+Mon Oct  8 14:19:14 2018	Jucraft32™[GER] (STEAM_0:0:56505739) disconnected
+Mon Oct  8 14:55:26 2018	Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Mon Oct  8 14:55:26 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 14:57:19 2018	Lukyn Red (STEAM_0:0:81441026): // Hi
+Mon Oct  8 14:59:12 2018	Lukyn Red (STEAM_0:0:81441026): !motd
+Mon Oct  8 14:59:30 2018	Lukyn Red (STEAM_0:0:81441026): // There is a small mistake in the rules
+Mon Oct  8 15:00:44 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:01:04 2018	Lukyn Red (STEAM_0:0:81441026): // Why does a janitor have a radio?
+Mon Oct  8 15:01:14 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:01:56 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:03:27 2018	Lukyn Red was killed by Entity [2120][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Mon Oct  8 15:03:44 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:04:16 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:05:19 2018	Remant (STEAM_0:0:140034522) has joined the game
+Mon Oct  8 15:05:19 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:06:34 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Mon Oct  8 15:06:34 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Mon Oct  8 15:07:00 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:09:06 2018	Lukyn Red (STEAM_0:0:81441026): !donate
+Mon Oct  8 15:09:12 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) has joined the game
+Mon Oct  8 15:09:12 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:09:42 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:10:27 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:14:54 2018	Tigroon (STEAM_0:0:40127246) has joined the game
+Mon Oct  8 15:14:54 2018	Tigroon (STEAM_0:0:40127246) spawned
+Mon Oct  8 15:16:29 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Mon Oct  8 15:17:26 2018	Tigroon (STEAM_0:0:40127246) spawned
+Mon Oct  8 15:18:01 2018	Lukyn Red (STEAM_0:0:81441026): /y hi
+Mon Oct  8 15:18:11 2018	Tigroon (STEAM_0:0:40127246): Hey man. How's it going today?
+Mon Oct  8 15:18:21 2018	Lukyn Red (STEAM_0:0:81441026): Temp is ok
+Mon Oct  8 15:18:25 2018	Lukyn Red (STEAM_0:0:81441026): building checkpoint
+Mon Oct  8 15:18:26 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Mon Oct  8 15:18:26 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 15:18:41 2018	Tigroon (STEAM_0:0:40127246): Good to hear. Do give me a call if the temp starts going a bit nuts. Going to poke my head above ground quick.
+Mon Oct  8 15:19:39 2018	Lukyn Red (STEAM_0:0:81441026): /pm tigroon The temp is rising. You might wanna lookat it
+Mon Oct  8 15:19:54 2018	Tigroon (STEAM_0:0:40127246): /pm Lukyn Roger. I'll see what I can do. Everything looks good topside.
+Mon Oct  8 15:20:02 2018	Tigroon (STEAM_0:0:40127246): Should I go ar-
+Mon Oct  8 15:20:05 2018	Tigroon (STEAM_0:0:40127246): Thanks, mate.
+Mon Oct  8 15:21:09 2018	Tigroon (STEAM_0:0:40127246): /y Where the hell is the tram?!
+Mon Oct  8 15:21:14 2018	Lukyn Red (STEAM_0:0:81441026): going around
+Mon Oct  8 15:21:18 2018	Lukyn Red (STEAM_0:0:81441026): takes it's time
+Mon Oct  8 15:21:21 2018	Tigroon (STEAM_0:0:40127246): Any wa-
+Mon Oct  8 15:21:23 2018	Tigroon (STEAM_0:0:40127246): Oh shit
+Mon Oct  8 15:21:28 2018	Tigroon (STEAM_0:0:40127246): We need it here-
+Mon Oct  8 15:21:29 2018	Lukyn Red (STEAM_0:0:81441026): the tram
+Mon Oct  8 15:21:57 2018	Bob Ross (STEAM_0:1:18823954) has joined the game
+Mon Oct  8 15:21:57 2018	Bob Ross (STEAM_0:1:18823954) spawned
+Mon Oct  8 15:22:40 2018	Tigroon (STEAM_0:0:40127246): /pm Lukyn We have terrorists!
+Mon Oct  8 15:23:54 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 15:23:56 2018	Tigroon was killed by Remant with a cw_scarh
+Mon Oct  8 15:24:01 2018	Tigroon (STEAM_0:0:40127246) spawned
+Mon Oct  8 15:24:07 2018	Enviro (STEAM_0:0:80115103): // hiii
+Mon Oct  8 15:24:11 2018	Bob Ross (STEAM_0:1:18823954) disconnected
+Mon Oct  8 15:24:11 2018	Lukyn Red (STEAM_0:0:81441026): // Hello
+Mon Oct  8 15:24:17 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 15:24:37 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 15:24:54 2018	Remant was killed by Himself with a suicide trick
+Mon Oct  8 15:24:54 2018	Lukyn Red was killed by Remant with a env_explosion
+Mon Oct  8 15:24:57 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:25:02 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:25:20 2018	Beaukito (STEAM_0:1:34355408) has joined the game
+Mon Oct  8 15:25:20 2018	Beaukito (STEAM_0:1:34355408) spawned
+Mon Oct  8 15:26:09 2018	Enviro (STEAM_0:0:80115103): // oh no
+Mon Oct  8 15:26:25 2018	Enviro (STEAM_0:0:80115103): // SOMEONE COOL IT QUICK
+Mon Oct  8 15:26:36 2018	Tigroon (STEAM_0:0:40127246): /ooc Can't, due to [REDACTED]
+Mon Oct  8 15:26:42 2018	Enviro (STEAM_0:0:80115103): // YESN'T
+Mon Oct  8 15:27:18 2018	Tigroon was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 15:27:20 2018	Tigroon (STEAM_0:0:40127246) spawned
+Mon Oct  8 15:27:55 2018	Enviro (STEAM_0:0:80115103): // QUICKLY SOMEONE COOL IT 
+Mon Oct  8 15:28:02 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Oct  8 15:28:02 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 15:28:12 2018	Tigroon (STEAM_0:0:40127246): /ooc I will repeat. We C A N T.
+Mon Oct  8 15:28:25 2018	Lukyn Red (STEAM_0:0:81441026): // use the cooling stuff
+Mon Oct  8 15:28:31 2018	Enviro (STEAM_0:0:80115103): // SHIT ITS TOO LATE.
+Mon Oct  8 15:28:39 2018	CYBER -=|GREGG|=- was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:28:41 2018	Lukyn Red (STEAM_0:0:81441026): // use the coolant and fan
+Mon Oct  8 15:28:42 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:28:42 2018	Tigroon (STEAM_0:0:40127246): /ooc Terrorists are camping the tram. Can't even get to it.
+Mon Oct  8 15:28:42 2018	Beaukito (STEAM_0:1:34355408) spawned
+Mon Oct  8 15:28:48 2018	Beaukito (STEAM_0:1:34355408): !motd
+Mon Oct  8 15:28:50 2018	Remant was killed by Himself with a suicide trick
+Mon Oct  8 15:28:52 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:28:58 2018	Enviro (STEAM_0:0:80115103): // good job osama
+Mon Oct  8 15:29:44 2018	Beaukito (STEAM_0:1:34355408): // what does a bussiness man sell?
+Mon Oct  8 15:29:49 2018	Lukyn Red (STEAM_0:0:81441026): // what he can
+Mon Oct  8 15:29:52 2018	Lukyn Red (STEAM_0:0:81441026): // anything
+Mon Oct  8 15:30:08 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:30:13 2018	Beaukito (STEAM_0:1:34355408): /advert kill us all :)
+Mon Oct  8 15:30:23 2018	Mike (STEAM_0:1:41660292): // Skate fast, smoke ass, eat glass
+Mon Oct  8 15:30:40 2018	Beaukito (STEAM_0:1:34355408) spawned
+Mon Oct  8 15:30:47 2018	Enviro (STEAM_0:0:80115103): // 10/10 voice acting
+Mon Oct  8 15:30:52 2018	Mike (STEAM_0:1:41660292): // thx
+Mon Oct  8 15:30:52 2018	Tigroon (STEAM_0:0:40127246): /advert All workers to pertinant blast shelters.
+Mon Oct  8 15:31:03 2018	Enviro (STEAM_0:0:80115103): // np
+Mon Oct  8 15:31:05 2018	Beaukito (STEAM_0:1:34355408): !motd
+Mon Oct  8 15:31:15 2018	Mike (STEAM_0:1:41660292): // was watching a spooky video when making that line
+Mon Oct  8 15:31:17 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:31:20 2018	Tigroon (STEAM_0:0:40127246): /ooc Yeah, decent voice acting.
+Mon Oct  8 15:31:25 2018	Enviro (STEAM_0:0:80115103): // LMAO did you use portal 2 soudn files
+Mon Oct  8 15:31:30 2018	Beaukito (STEAM_0:1:34355408): in the plant i can just kill everyone right?
+Mon Oct  8 15:31:30 2018	Enviro (STEAM_0:0:80115103): // i love it
+Mon Oct  8 15:31:39 2018	Mike (STEAM_0:1:41660292): // ur such a fukn ho
+Mon Oct  8 15:31:46 2018	Enviro was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:31:47 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 15:31:54 2018	CYBER -=|GREGG|=- was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:31:55 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:31:59 2018	Remant was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:32:00 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:32:05 2018	Tigroon (STEAM_0:0:40127246): /advert If you are outside a blast shelter, tough luck, you ain't going to make it now. Make peace with your maker.
+Mon Oct  8 15:32:07 2018	Enviro (STEAM_0:0:80115103): // oh wtf?
+Mon Oct  8 15:32:13 2018	Lukyn Red (STEAM_0:0:81441026): // E coolant
+Mon Oct  8 15:32:20 2018	Enviro (STEAM_0:0:80115103): // ok mike can you give me a tour so i know what to fuckin do around here
+Mon Oct  8 15:32:20 2018	Lukyn Red (STEAM_0:0:81441026): // in the middle of the meltdown
+Mon Oct  8 15:32:27 2018	Mike (STEAM_0:1:41660292): // sure
+Mon Oct  8 15:32:28 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 15:32:34 2018	Tigroon (STEAM_0:0:40127246): /advert Oh. You saved our asses. Nice.
+Mon Oct  8 15:32:34 2018	Enviro (STEAM_0:0:80115103): // THANK you
+Mon Oct  8 15:32:35 2018	Mike (STEAM_0:1:41660292): !goto Enviro
+Mon Oct  8 15:32:45 2018	Lukyn Red (STEAM_0:0:81441026): /advert All Plant workers. FIX THE CORE
+Mon Oct  8 15:32:46 2018	Mike was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:32:49 2018	Mike (STEAM_0:1:41660292) spawned
+Mon Oct  8 15:32:52 2018	Mike (STEAM_0:1:41660292): !goto Enviro
+Mon Oct  8 15:32:55 2018	Tigroon (STEAM_0:0:40127246): /advert Is the Core secure?
+Mon Oct  8 15:33:00 2018	Tigroon (STEAM_0:0:40127246): /advert If so, on my way.
+Mon Oct  8 15:33:00 2018	Lukyn Red (STEAM_0:0:81441026): /advert no
+Mon Oct  8 15:33:00 2018	Remant was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:33:01 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:33:09 2018	Tigroon (STEAM_0:0:40127246): /advert Well, hold the Tram at least.
+Mon Oct  8 15:33:20 2018	Lukyn Red (STEAM_0:0:81441026): /advert Oh no maintenance destroyed
+Mon Oct  8 15:33:23 2018	Tigroon (STEAM_0:0:40127246): /advert If you ca-
+Mon Oct  8 15:33:26 2018	Tigroon (STEAM_0:0:40127246): /advert What?
+Mon Oct  8 15:33:39 2018	Lukyn Red (STEAM_0:0:81441026): /advert lower access tunnels
+Mon Oct  8 15:33:40 2018	Tigroon (STEAM_0:0:40127246): /advert Fuck it. I'm on my way. Hold down the Tram, I'll be there in a few minutes.
+Mon Oct  8 15:34:35 2018	Tigroon (STEAM_0:0:40127246): /advert Most likely won't make it in time, but fingers crossed.
+Mon Oct  8 15:34:40 2018	Lukyn Red was killed by Remant with a fas2_thrown_m67
+Mon Oct  8 15:34:41 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Mon Oct  8 15:35:24 2018	Tigroon was killed by CYBER -=|GREGG|=- with a weapon_l4d2_frying_pan
+Mon Oct  8 15:35:25 2018	Lukyn Red (STEAM_0:0:81441026): /advert All personnel evacuate IMMEDIATELY
+Mon Oct  8 15:35:25 2018	Tigroon (STEAM_0:0:40127246) spawned
+Mon Oct  8 15:35:35 2018	Beaukito (STEAM_0:1:34355408): /invholster
+Mon Oct  8 15:35:42 2018	Tigroon (STEAM_0:0:40127246): /ooc And again, terrorists blocking off the core. Can't even do my job. Shit sucks m8.
+Mon Oct  8 15:36:05 2018	Beaukito (STEAM_0:1:34355408) spawned
+Mon Oct  8 15:36:17 2018	Lukyn Red (STEAM_0:0:81441026): // Just get outta here
+Mon Oct  8 15:36:24 2018	Beaukito (STEAM_0:1:34355408): // where can istart a base?
+Mon Oct  8 15:36:32 2018	Tigroon (STEAM_0:0:40127246): /ooc Just let the core go. Least it'll kill off the Terrorists camping the core.
+Mon Oct  8 15:36:33 2018	Lukyn Red (STEAM_0:0:81441026): // Nowhere we are having a meltdown
+Mon Oct  8 15:36:41 2018	Lukyn Red (STEAM_0:0:81441026): // exactly
+Mon Oct  8 15:37:03 2018	Tigroon (STEAM_0:0:40127246): /ooc Needs to be rules against just standing at the tram, camping it constantly.
+Mon Oct  8 15:37:14 2018	Lukyn Red (STEAM_0:0:81441026): // and raiding the core
+Mon Oct  8 15:37:18 2018	Lukyn Red (STEAM_0:0:81441026): // every meltdown
+Mon Oct  8 15:37:26 2018	Tigroon (STEAM_0:0:40127246): /ooc Bingo.
+Mon Oct  8 15:37:43 2018	Lukyn Red (STEAM_0:0:81441026): /advert All personnel inside the facility evacuate to the blast shelter
+Mon Oct  8 15:37:44 2018	Beaukito (STEAM_0:1:34355408): // so what do you do normally on this server(without meltdown?)
+Mon Oct  8 15:37:51 2018	Tigroon (STEAM_0:0:40127246): /ooc Manage the core, RP.
+Mon Oct  8 15:37:51 2018	Mike (STEAM_0:1:41660292): !bring envi
+Mon Oct  8 15:37:52 2018	Lukyn Red (STEAM_0:0:81441026): // having a meltdown
+Mon Oct  8 15:38:05 2018	Remant was killed by Entity [1988][func_rotating] with a func_rotating
+Mon Oct  8 15:38:06 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:38:49 2018	CYBER -=|GREGG|=- was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:38:50 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:38:53 2018	Beaukito (STEAM_0:1:34355408): // boom  survived
+Mon Oct  8 15:39:08 2018	Remant was killed by Entity [4923][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:39:08 2018	CYBER -=|GREGG|=- was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:39:09 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:39:10 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:39:20 2018	Mike (STEAM_0:1:41660292): !bring env
+Mon Oct  8 15:39:21 2018	CYBER -=|GREGG|=- was killed by Entity [4926][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:39:23 2018	Mike (STEAM_0:1:41660292): !bring tig
+Mon Oct  8 15:39:24 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:39:27 2018	Lukyn Red was killed by Himself with a suicide trick
+Mon Oct  8 15:39:35 2018	Tigroon (STEAM_0:0:40127246): Hey, Mike.
+Mon Oct  8 15:39:35 2018	Lukyn Red (STEAM_0:0:81441026): // this is how you get inside it
+Mon Oct  8 15:39:36 2018	CYBER -=|GREGG|=- was killed by Entity [4922][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:39:39 2018	CYBER -=|GREGG|=- (STEAM_0:0:117395677) spawned
+Mon Oct  8 15:39:43 2018	Remant was killed by Entity [4922][trigger_hurt] with a trigger_hurt
+Mon Oct  8 15:39:44 2018	Remant (STEAM_0:0:140034522) spawned
+Mon Oct  8 15:39:45 2018	Mike (STEAM_0:1:41660292): // hi

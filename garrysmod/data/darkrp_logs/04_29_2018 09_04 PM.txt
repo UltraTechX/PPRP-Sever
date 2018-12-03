@@ -1,0 +1,64 @@
+Sun Apr 29 21:04:42 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 29 21:04:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 21:26:43 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Apr 29 22:02:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 22:05:00 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Apr 30 01:34:33 2018	Valien (STEAM_0:1:41660292) has joined the game
+Mon Apr 30 01:34:33 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 01:35:17 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 01:37:06 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Mon Apr 30 01:37:07 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 01:38:22 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Mon Apr 30 01:38:22 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Mon Apr 30 01:38:52 2018	Zerrakoth (STEAM_0:1:44006700) disconnected
+Mon Apr 30 01:42:12 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Mon Apr 30 01:42:12 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Mon Apr 30 01:42:52 2018	Emmett (STEAM_0:1:41660292): !goto ze
+Mon Apr 30 01:47:58 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 01:51:38 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 01:51:43 2018	Emmett (STEAM_0:1:41660292): !goto z
+Mon Apr 30 01:58:58 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 01:59:16 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:00:11 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:01:07 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:02:40 2018	Zerrakoth was killed by Entity [1943][func_rotating] with a func_rotating
+Mon Apr 30 02:02:44 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Mon Apr 30 02:02:47 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:05:50 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Mon Apr 30 02:05:51 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:06:09 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:06:17 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:06:33 2018	Emmett was killed by Himself with a suicide trick
+Mon Apr 30 02:06:34 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:07:02 2018	Emmett was killed by Himself with a suicide trick
+Mon Apr 30 02:07:03 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:07:07 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:07:36 2018	Emmett was killed by Himself with a suicide trick
+Mon Apr 30 02:07:37 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:07:42 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:08:40 2018	Emmett was killed by Entity [1943][func_rotating] with a func_rotating
+Mon Apr 30 02:08:42 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:08:47 2018	Emmett (STEAM_0:1:41660292): !goto z
+Mon Apr 30 02:08:52 2018	Zerrakoth was killed by Entity [1943][func_rotating] with a func_rotating
+Mon Apr 30 02:08:58 2018	Emmett was killed by Himself with a suicide trick
+Mon Apr 30 02:09:00 2018	Emmett (STEAM_0:1:41660292) spawned
+Mon Apr 30 02:09:00 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Mon Apr 30 02:09:04 2018	Emmett (STEAM_0:1:41660292): !goto z
+Mon Apr 30 02:10:38 2018	Emmett (STEAM_0:1:41660292): !bring z
+Mon Apr 30 02:15:53 2018	Zerrakoth (STEAM_0:1:44006700) disconnected
+Mon Apr 30 02:15:57 2018	Emmett (STEAM_0:1:41660292) disconnected
+Tue May  1 00:37:30 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Tue May  1 00:37:30 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue May  1 00:37:55 2018	Valien (STEAM_0:1:41660292) has joined the game
+Tue May  1 00:37:55 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue May  1 00:38:44 2018	Emmett (STEAM_0:1:41660292): /dropmoney 100000
+Tue May  1 00:38:45 2018	Emmett (STEAM_0:1:41660292) has dropped $100,000
+Tue May  1 00:38:47 2018	Emmett (STEAM_0:1:41660292) spawned
+Tue May  1 00:43:20 2018	Zerrakoth was killed by Emmett with a cw_deagle
+Tue May  1 00:43:22 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Tue May  1 00:43:26 2018	Emmett (STEAM_0:1:41660292): !bring z
+Tue May  1 00:44:00 2018	Emmett (STEAM_0:1:41660292): !god
+Tue May  1 00:45:21 2018	Emmett (STEAM_0:1:41660292): !goto z
+Tue May  1 00:45:27 2018	Zerrakoth was killed by Emmett with a cw_deagle
+Tue May  1 00:45:32 2018	Emmett (STEAM_0:1:41660292) disconnected
+Tue May  1 00:45:35 2018	Zerrakoth (STEAM_0:1:44006700) disconnected

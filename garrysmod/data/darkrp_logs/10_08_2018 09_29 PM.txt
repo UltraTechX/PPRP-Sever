@@ -1,0 +1,294 @@
+Mon Oct  8 21:29:40 2018	Thatguy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:29:42 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 21:29:44 2018	Molly{Poolo} was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:29:46 2018	Molly{Poolo} (STEAM_0:0:91439102) spawned
+Mon Oct  8 21:30:03 2018	Craftygarrett (STEAM_0:1:184775407): // fuck not the this
+Mon Oct  8 21:30:14 2018	braincat3 was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:30:15 2018	braincat3 (STEAM_0:0:111904969) spawned
+Mon Oct  8 21:30:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:30:29 2018	Smokey was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:30:30 2018	Smokey (STEAM_0:1:66446194) spawned
+Mon Oct  8 21:30:30 2018	VietnamFlashbacks (STEAM_0:0:80420240): !bring *
+Mon Oct  8 21:30:34 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:30:35 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:30:39 2018	braincat3 was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:30:41 2018	braincat3 (STEAM_0:0:111904969) spawned
+Mon Oct  8 21:30:54 2018	Smokey was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:30:55 2018	Smokey (STEAM_0:1:66446194) spawned
+Mon Oct  8 21:30:58 2018	Smokey (STEAM_0:1:66446194): / Lmao
+Mon Oct  8 21:31:00 2018	Smokey (STEAM_0:1:66446194): // Lmao
+Mon Oct  8 21:31:03 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:31:05 2018	Thanos Shoe (STEAM_0:0:118489559): // what happened
+Mon Oct  8 21:31:19 2018	VietnamFlashbacks (STEAM_0:0:80420240): keep it on
+Mon Oct  8 21:31:26 2018	Craftygarrett (STEAM_0:1:184775407): // wheres my money
+Mon Oct  8 21:31:27 2018	VietnamFlashbacks (STEAM_0:0:80420240): i dont care
+Mon Oct  8 21:31:30 2018	Enviro (STEAM_0:0:80115103): // OH BOY
+Mon Oct  8 21:31:35 2018	VietnamFlashbacks (STEAM_0:0:80420240): leave it on, owner's request
+Mon Oct  8 21:31:40 2018	VietnamFlashbacks (STEAM_0:0:80420240): superadmin
+Mon Oct  8 21:31:41 2018	Thanos Shoe was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:31:42 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:31:54 2018	Craftygarrett (STEAM_0:1:184775407): // i cant change my job
+Mon Oct  8 21:32:10 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Mon Oct  8 21:32:10 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slay ^
+Mon Oct  8 21:32:11 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 21:32:14 2018	Craftygarrett was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:32:15 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:32:18 2018	Smokey was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	Craftygarrett was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	braincat3 was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	Thanos Shoe was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	Molly{Poolo} was killed by Himself with a suicide trick
+Mon Oct  8 21:32:18 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slay *
+Mon Oct  8 21:32:19 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:32:19 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:32:19 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:32:19 2018	Smokey (STEAM_0:1:66446194) spawned
+Mon Oct  8 21:32:19 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 21:32:20 2018	braincat3 (STEAM_0:0:111904969) spawned
+Mon Oct  8 21:32:21 2018	Molly{Poolo} (STEAM_0:0:91439102) spawned
+Mon Oct  8 21:32:22 2018	Enviro (STEAM_0:0:80115103): // boi
+Mon Oct  8 21:32:33 2018	bellissimosalonstyle (STEAM_0:0:86212724) spawned
+Mon Oct  8 21:32:34 2018	Thatguy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:32:36 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 21:32:36 2018	xxShadowdragonXX was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:32:38 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Mon Oct  8 21:32:41 2018	Craftygarrett (STEAM_0:1:184775407): // can we please only have meltdowns as events
+Mon Oct  8 21:32:43 2018	bellissimosalonstyle (STEAM_0:0:86212724): /name Ross
+Mon Oct  8 21:32:50 2018	Enviro was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:32:51 2018	Enviro (STEAM_0:0:80115103) spawned
+Mon Oct  8 21:32:56 2018	VietnamFlashbacks (STEAM_0:0:80420240): // yes
+Mon Oct  8 21:33:03 2018	VietnamFlashbacks (STEAM_0:0:80420240): // thats the point
+Mon Oct  8 21:33:07 2018	Thanos Shoe was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:33:08 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:33:12 2018	Smokey (STEAM_0:1:66446194): // yea lets do some actual rp, or atleast something close
+Mon Oct  8 21:33:15 2018	Craftygarrett (STEAM_0:1:184775407): // well we have people that just do it
+Mon Oct  8 21:33:23 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Mon Oct  8 21:33:38 2018	Smokey (STEAM_0:1:66446194): // Can we build a walk way to the core room with props?
+Mon Oct  8 21:33:44 2018	Smokey (STEAM_0:1:66446194): // cause the tram is super slow
+Mon Oct  8 21:33:47 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:33:59 2018	Nagegg (STEAM_0:0:98220726): /a i have spawned on the core
+Mon Oct  8 21:34:06 2018	VietnamFlashbacks (STEAM_0:0:80420240): !bring nag
+Mon Oct  8 21:34:08 2018	Smokey (STEAM_0:1:66446194): // Is that propclimb technically?
+Mon Oct  8 21:34:10 2018	Thatguy was killed by Craftygarrett with a weapon_l4d2_frying_pan
+Mon Oct  8 21:34:13 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 21:34:20 2018	braincat3 (STEAM_0:0:111904969) spawned
+Mon Oct  8 21:34:22 2018	Dank The Tank was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:34:24 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:34:29 2018	TempusBilBoJo was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:34:30 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 21:34:38 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slay nag
+Mon Oct  8 21:35:03 2018	@realDonaldTrump (STEAM_0:0:63800005): // core
+Mon Oct  8 21:35:15 2018	Molly{Poolo} was killed by Himself with a suicide trick
+Mon Oct  8 21:35:16 2018	Molly{Poolo} (STEAM_0:0:91439102) spawned
+Mon Oct  8 21:35:20 2018	@realDonaldTrump (STEAM_0:0:63800005): // wtf
+Mon Oct  8 21:35:31 2018	Nagegg (STEAM_0:0:98220726): /a server brocken 
+Mon Oct  8 21:35:42 2018	Craftygarrett (STEAM_0:1:184775407): /advert come on down to cafeteria for pizza fries and burgers
+Mon Oct  8 21:35:45 2018	Nagegg was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:35:46 2018	Nagegg (STEAM_0:0:98220726) spawned
+Mon Oct  8 21:35:53 2018	TempusBilBoJo was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:35:54 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Mon Oct  8 21:35:56 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto nag
+Mon Oct  8 21:36:08 2018	Craftygarrett was killed by bellissimosalonstyle with a weapon_l4d2_frying_pan
+Mon Oct  8 21:36:09 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:36:17 2018	bellissimosalonstyle (STEAM_0:0:86212724) spawned
+Mon Oct  8 21:36:20 2018	Thatguy was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:36:21 2018	Thatguy (STEAM_0:1:116482800) spawned
+Mon Oct  8 21:36:23 2018	TempusBilBoJo (STEAM_0:0:204382926): // Why do I have 0 dollaroos
+Mon Oct  8 21:36:26 2018	TempusBilBoJo (STEAM_0:0:204382926): /dropmoney 1
+Mon Oct  8 21:36:33 2018	VietnamFlashbacks (STEAM_0:0:80420240): /advert See guys, this is why you listen to the fucking admins
+Mon Oct  8 21:36:42 2018	bellissimosalonstyle was killed by Craftygarrett with a weapon_l4d2_frying_pan
+Mon Oct  8 21:36:43 2018	Thatguy (STEAM_0:1:116482800): /yell hello?
+Mon Oct  8 21:36:44 2018	bellissimosalonstyle (STEAM_0:0:86212724) spawned
+Mon Oct  8 21:36:49 2018	Nagegg (STEAM_0:0:98220726): /a na fams that shit is gay af
+Mon Oct  8 21:36:49 2018	Craftygarrett was killed by bellissimosalonstyle with a weapon_l4d2_frying_pan
+Mon Oct  8 21:36:50 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:36:52 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto vegan
+Mon Oct  8 21:37:29 2018	VietnamFlashbacks (STEAM_0:0:80420240): !cloak ^
+Mon Oct  8 21:38:35 2018	Thanos Shoe was killed by Himself with a suicide trick
+Mon Oct  8 21:38:35 2018	Dank The Tank was killed by Thanos Shoe with a env_explosion
+Mon Oct  8 21:38:36 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:38:36 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:39:20 2018	Smokey (STEAM_0:1:66446194): // FUCK THE CORE IS BRIGHT
+Mon Oct  8 21:39:26 2018	Smokey (STEAM_0:1:66446194): // MY EYES
+Mon Oct  8 21:39:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert updating the rules on the website, then restarting the server
+Mon Oct  8 21:39:37 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:39:51 2018	[Opi] Fat Gay was killed by Craftygarrett with a weapon_l4d2_frying_pan
+Mon Oct  8 21:39:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 21:39:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto garr
+Mon Oct  8 21:40:21 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:40:22 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:40:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring garr
+Mon Oct  8 21:40:37 2018	Smokey (STEAM_0:1:66446194): // What does the boost laser do?
+Mon Oct  8 21:40:47 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 21:41:10 2018	Molly{Poolo} (STEAM_0:0:91439102): @ wtf iuam stuck in egypt
+Mon Oct  8 21:41:42 2018	bellissimosalonstyle (STEAM_0:0:86212724): \
+Mon Oct  8 21:41:43 2018	I´m Vegan (STEAM_0:1:80191519) spawned
+Mon Oct  8 21:41:50 2018	bellissimosalonstyle was killed by Craftygarrett with a weapon_l4d2_frying_pan
+Mon Oct  8 21:41:52 2018	bellissimosalonstyle (STEAM_0:0:86212724) spawned
+Mon Oct  8 21:42:05 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:42:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring molly
+Mon Oct  8 21:42:11 2018	Craftygarrett (STEAM_0:1:184775407): // fuck
+Mon Oct  8 21:42:20 2018	VietnamFlashbacks (STEAM_0:0:80420240): !uncloak ^
+Mon Oct  8 21:42:23 2018	Thanos Shoe (STEAM_0:0:118489559): // whats going on
+Mon Oct  8 21:42:35 2018	Molly{Poolo} (STEAM_0:0:91439102): /ooc help isis
+Mon Oct  8 21:42:38 2018	Molly{Poolo} (STEAM_0:0:91439102): /ooc scp friend
+Mon Oct  8 21:42:46 2018	Dank The Tank was killed by Smokey with a cw_g36c
+Mon Oct  8 21:42:48 2018	VietnamFlashbacks (STEAM_0:0:80420240): !ungod*
+Mon Oct  8 21:42:49 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:42:52 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:42:53 2018	VietnamFlashbacks (STEAM_0:0:80420240): !ungod *
+Mon Oct  8 21:42:56 2018	Smokey was killed by Thanos Shoe with a cw_scarh
+Mon Oct  8 21:43:01 2018	Smokey (STEAM_0:1:66446194) spawned
+Mon Oct  8 21:43:09 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Mon Oct  8 21:43:16 2018	Molly{Poolo} (STEAM_0:0:91439102): /ooc wtf terrorist
+Mon Oct  8 21:43:27 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:43:39 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:44:00 2018	Craftygarrett (STEAM_0:1:184775407): /pm fat teleport me there
+Mon Oct  8 21:44:35 2018	VietnamFlashbacks (STEAM_0:0:80420240): !menu
+Mon Oct  8 21:45:19 2018	caribou (moat.gg) (STEAM_0:0:174195909): huh
+Mon Oct  8 21:45:28 2018	Thanos Shoe was killed by Himself with a suicide trick
+Mon Oct  8 21:45:29 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:45:51 2018	Thanos Shoe was killed by Himself with a suicide trick
+Mon Oct  8 21:45:51 2018	Dank The Tank was killed by Thanos Shoe with a env_explosion
+Mon Oct  8 21:45:52 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:45:52 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:45:52 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:46:04 2018	caribou (moat.gg) (STEAM_0:0:174195909) spawned
+Mon Oct  8 21:46:26 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:46:33 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:46:38 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:46:44 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:46:44 2018	Thanos Shoe was killed by Dank The Tank with a env_explosion
+Mon Oct  8 21:46:45 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:46:46 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:46:46 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:46:54 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:46:56 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:47:03 2018	Smokey (STEAM_0:1:66446194): /advert TURN OFF THE BOOST LASERS
+Mon Oct  8 21:47:08 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:47:08 2018	Smokey (STEAM_0:1:66446194): /advert SOMEONE GET IN THERE
+Mon Oct  8 21:47:10 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:47:23 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:47:24 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:47:24 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:48:08 2018	VietnamFlashbacks (STEAM_0:0:80420240): !goto fat
+Mon Oct  8 21:48:14 2018	S W ∀ R M was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 21:48:15 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:48:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !strip viet
+Mon Oct  8 21:48:52 2018	caribou (moat.gg) (STEAM_0:0:174195909): uh
+Mon Oct  8 21:49:00 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:49:00 2018	Thanos Shoe was killed by Dank The Tank with a env_explosion
+Mon Oct  8 21:49:00 2018	caribou (moat.gg) (STEAM_0:0:174195909): ok
+Mon Oct  8 21:49:01 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:49:05 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:49:12 2018	Thanos Shoe was killed by Himself with a suicide trick
+Mon Oct  8 21:49:12 2018	Dank The Tank was killed by Thanos Shoe with a env_explosion
+Mon Oct  8 21:49:15 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:49:21 2018	Enviro (STEAM_0:0:80115103): // why am i spawning as this
+Mon Oct  8 21:49:26 2018	VietnamFlashbacks (STEAM_0:0:80420240): !explode vietnam
+Mon Oct  8 21:49:32 2018	VietnamFlashbacks (STEAM_0:0:80420240): !menu
+Mon Oct  8 21:49:52 2018	caribou (moat.gg) (STEAM_0:0:174195909): so uh
+Mon Oct  8 21:49:53 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:49:55 2018	I´m Vegan (STEAM_0:1:80191519) spawned
+Mon Oct  8 21:49:56 2018	S W ∀ R M was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:49:57 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:49:57 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:50:01 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:50:03 2018	VietnamFlashbacks (STEAM_0:0:80420240): !unjail ^
+Mon Oct  8 21:50:08 2018	Thanos Shoe was killed by Himself with a suicide trick
+Mon Oct  8 21:50:09 2018	I´m Vegan (STEAM_0:1:80191519) spawned
+Mon Oct  8 21:50:20 2018	S W ∀ R M was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:50:23 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:50:29 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:50:31 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:50:31 2018	Thanos Shoe (STEAM_0:0:118489559) spawned
+Mon Oct  8 21:50:32 2018	S W ∀ R M was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:50:35 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:50:55 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 21:51:16 2018	caribou (moat.gg) (STEAM_0:0:174195909): o hist
+Mon Oct  8 21:51:19 2018	caribou (moat.gg) (STEAM_0:0:174195909) spawned
+Mon Oct  8 21:52:13 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:52:26 2018	Smokey (STEAM_0:1:66446194): // why do people suddenly take no damage
+Mon Oct  8 21:52:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc darkrp had a stroke
+Mon Oct  8 21:53:01 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 21:53:02 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:53:16 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:53:18 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:53:23 2018	Smokey was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:53:24 2018	Smokey (STEAM_0:1:66446194) spawned
+Mon Oct  8 21:53:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert any other rules to add? I added a rule about scp breakouts, terrorist plots, and fixed a typo
+Mon Oct  8 21:53:35 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 21:53:57 2018	Tamer (STEAM_0:1:33479450) spawned
+Mon Oct  8 21:54:11 2018	VietnamFlashbacks was killed by Himself with a suicide trick
+Mon Oct  8 21:54:11 2018	VietnamFlashbacks (STEAM_0:0:80420240): !slay ^
+Mon Oct  8 21:54:13 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 21:54:27 2018	Smokey was killed by Himself with a suicide trick
+Mon Oct  8 21:54:28 2018	Smokey (STEAM_0:1:66446194) spawned
+Mon Oct  8 21:55:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert RESTARTING SERVER IN 5 MINS! PLEASE DO !motd AND READ THE NEW SCP AND TERRORIST RULES!
+Mon Oct  8 21:55:30 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 21:55:37 2018	Craftygarrett (STEAM_0:1:184775407): !motd
+Mon Oct  8 21:55:42 2018	VietnamFlashbacks (STEAM_0:0:80420240): !bring tamer
+Mon Oct  8 21:55:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !motd
+Mon Oct  8 21:55:47 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:55:47 2018	S W ∀ R M was killed by Dank The Tank with a env_explosion
+Mon Oct  8 21:55:50 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:55:54 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:55:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !motd
+Mon Oct  8 21:56:06 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 21:56:22 2018	Dank The Tank was killed by Himself with a suicide trick
+Mon Oct  8 21:56:22 2018	S W ∀ R M was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:56:24 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:56:25 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:56:29 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 21:57:06 2018	S W ∀ R M was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct  8 21:57:07 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 21:57:23 2018	VietnamFlashbacks (STEAM_0:0:80420240): !strip tamer
+Mon Oct  8 21:57:30 2018	VietnamFlashbacks (STEAM_0:0:80420240): !bring tamer
+Mon Oct  8 21:57:38 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 21:57:53 2018	Dank The Tank was killed by Entity [5044][point_hurt] with a point_hurt
+Mon Oct  8 21:57:55 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 21:58:02 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god tamer
+Mon Oct  8 21:59:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dot
+Mon Oct  8 21:59:23 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Mon Oct  8 21:59:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert were not doing the meltdown were cancelling it
+Mon Oct  8 21:59:59 2018	I´m Vegan (STEAM_0:1:80191519): // I worked so hard for it
+Mon Oct  8 22:00:06 2018	VietnamFlashbacks (STEAM_0:0:80420240): !bring tamer
+Mon Oct  8 22:00:07 2018	I´m Vegan (STEAM_0:1:80191519): // Cri
+Mon Oct  8 22:00:17 2018	Tamer (STEAM_0:1:33479450): !REWARDS
+Mon Oct  8 22:00:20 2018	Tamer (STEAM_0:1:33479450): 
+Mon Oct  8 22:00:26 2018	Craftygarrett was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 22:00:27 2018	Craftygarrett (STEAM_0:1:184775407) spawned
+Mon Oct  8 22:00:41 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 22:00:50 2018	VietnamFlashbacks (STEAM_0:0:80420240): !Menu
+Mon Oct  8 22:00:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc well someone fucked the e coolant so I had no choice
+Mon Oct  8 22:01:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc wtf stop
+Mon Oct  8 22:01:15 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 22:01:38 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 22:01:45 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 22:01:57 2018	Enviro (STEAM_0:0:80115103): // haha n00b
+Mon Oct  8 22:02:04 2018	Dank The Tank was killed by Entity [2116][point_hurt] with a point_hurt
+Mon Oct  8 22:02:07 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 22:02:38 2018	Dots was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:02:39 2018	Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:03:34 2018	VietnamFlashbacks was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:03:36 2018	VietnamFlashbacks (STEAM_0:0:80420240) spawned
+Mon Oct  8 22:03:45 2018	Thatguy (STEAM_0:1:116482800): !motd
+Mon Oct  8 22:03:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc ok well it seems its just the sound playing but nothing else
+Mon Oct  8 22:03:53 2018	VietnamFlashbacks (STEAM_0:0:80420240): !god ^
+Mon Oct  8 22:03:54 2018	I´m Vegan (STEAM_0:1:80191519): // Sad
+Mon Oct  8 22:04:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc false alarm, listen to the hardstyle for a bit
+Mon Oct  8 22:04:28 2018	Straight Up Slav (STEAM_0:1:174741183) spawned
+Mon Oct  8 22:04:50 2018	S W ∀ R M was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 22:04:52 2018	S W ∀ R M (STEAM_0:1:61331422) spawned
+Mon Oct  8 22:04:59 2018	Dank The Tank was killed by Entity [4917][point_hurt] with a point_hurt
+Mon Oct  8 22:05:00 2018	Dank The Tank (STEAM_0:1:175892669) spawned
+Mon Oct  8 22:05:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /advert RESTARTING SERVER NOW
+Mon Oct  8 22:05:29 2018	I´m Vegan (STEAM_0:1:80191519) spawned
+Mon Oct  8 22:05:31 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct  8 22:05:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct  8 22:05:52 2018	Dots was killed by NPC [484][npc_manhack] with a npc_manhack
+Mon Oct  8 22:05:55 2018	Dots (STEAM_0:1:72014148) spawned
+Mon Oct  8 22:05:56 2018	S W ∀ R M was killed by Entity [0][worldspawn] with a unknown
+Mon Oct  8 22:05:59 2018	S W ∀ R M (STEAM_0:1:61331422) spawned

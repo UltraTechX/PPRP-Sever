@@ -1,0 +1,6 @@
+Sun Sep 16 20:12:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Sep 16 20:12:47 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 16 20:13:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT animprop_spawntank_deploy
+Sun Sep 16 20:13:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT animprop_spawnentrance_blue
+Sun Sep 16 20:13:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT d3d_sign
+Sun Sep 16 20:15:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT d3d_sign

@@ -1,0 +1,86 @@
+Sun Jul  8 21:21:20 2018	2B-77 | Vix Archaser (STEAM_0:0:143859663) has joined the game
+Sun Jul  8 21:21:20 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:21:21 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  8 21:21:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:21:30 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jul  8 21:21:30 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:21:51 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:22:04 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 21:22:04 2018	Emmett was killed by Fat Gay with a env_explosion
+Sun Jul  8 21:22:04 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:22:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:22:12 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 21:22:12 2018	Emmett was killed by Fat Gay with a env_explosion
+Sun Jul  8 21:22:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:22:31 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:22:37 2018	Bot01 (BOT) has joined the game
+Sun Jul  8 21:22:37 2018	Bot01 (BOT) spawned
+Sun Jul  8 21:22:42 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:22:56 2018	Fat Gay (STEAM_0:1:218173703): !bring *
+Sun Jul  8 21:23:02 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:23:09 2018	Fat Gay was killed by Emmett with a cw_deagle
+Sun Jul  8 21:23:12 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:23:18 2018	Emmett was killed by Fat Gay with a cw_ak74
+Sun Jul  8 21:23:24 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:23:41 2018	Fat Gay was killed by Himself with a suicide trick
+Sun Jul  8 21:23:41 2018	Vix Archaser was killed by Himself with a suicide trick
+Sun Jul  8 21:23:41 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 21:23:41 2018	Bot01 was killed by Himself with a suicide trick
+Sun Jul  8 21:23:41 2018	Fat Gay (STEAM_0:1:218173703): !explode *
+Sun Jul  8 21:23:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:23:43 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:23:50 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:23:57 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:24:05 2018	Bot01 (BOT) spawned
+Sun Jul  8 21:24:07 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:24:10 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 21:24:10 2018	Fat Gay (STEAM_0:1:218173703): !explode em
+Sun Jul  8 21:24:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:24:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:24:25 2018	Emmett was killed by Fat Gay with a cw_ar15
+Sun Jul  8 21:24:27 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:24:32 2018	Vix Archaser was killed by Himself with a suicide trick
+Sun Jul  8 21:24:32 2018	Fat Gay was killed by Vix Archaser with a env_explosion
+Sun Jul  8 21:24:33 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 21:24:35 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:24:37 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:24:41 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 21:24:45 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:24:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:24:58 2018	Emmett was killed by Himself with a suicide trick
+Sun Jul  8 21:24:59 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:25:05 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:25:31 2018	Vix Archaser was killed by Himself with a suicide trick
+Sun Jul  8 21:25:36 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:27:22 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:27:34 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:28:33 2018	Vix Archaser was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul  8 21:28:52 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:29:06 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Jul  8 21:29:09 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:29:12 2018	Vix Archaser was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul  8 21:29:18 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:29:31 2018	Vix Archaser was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul  8 21:29:33 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:29:57 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 21:30:29 2018	Vix Archaser (STEAM_0:0:143859663): 
+Sun Jul  8 21:30:45 2018	Vix Archaser (STEAM_0:0:143859663): 
+Sun Jul  8 21:36:24 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Sun Jul  8 21:36:28 2018	Emmett (STEAM_0:1:41660292): /dropwepaon
+Sun Jul  8 21:36:31 2018	Emmett (STEAM_0:1:41660292): /dropweapon
+Sun Jul  8 21:36:41 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Jul  8 21:36:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jul  8 21:39:00 2018	Emmett (STEAM_0:1:41660292): 
+Sun Jul  8 21:39:08 2018	Emmett (STEAM_0:1:41660292): 
+Sun Jul  8 21:40:30 2018	Emmett (STEAM_0:1:41660292) spawned SENT mediaplayer_tv
+Sun Jul  8 21:42:59 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul  8 21:45:53 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  8 21:45:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:51:20 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul  8 21:56:04 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  8 21:56:04 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 21:57:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 22:00:38 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jul  8 22:01:37 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jul  8 22:02:12 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jul  8 22:02:33 2018	Fat Gay (STEAM_0:1:218173703): 

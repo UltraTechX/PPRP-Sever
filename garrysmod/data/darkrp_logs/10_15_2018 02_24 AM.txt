@@ -1,0 +1,236 @@
+Mon Oct 15 02:24:02 2018	Lolol15 (STEAM_0:0:59609925) has joined the game
+Mon Oct 15 02:24:03 2018	Lolol15 (STEAM_0:0:59609925) spawned
+Mon Oct 15 02:24:21 2018	Uncle (STEAM_0:1:26691030) has joined the game
+Mon Oct 15 02:24:21 2018	Uncle (STEAM_0:1:26691030) spawned
+Mon Oct 15 02:24:36 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Mon Oct 15 02:24:36 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:24:58 2018	Texas Red (STEAM_0:0:140838209) has joined the game
+Mon Oct 15 02:24:58 2018	Texas Red (STEAM_0:0:140838209) spawned
+Mon Oct 15 02:25:12 2018	Lolol15 (STEAM_0:0:59609925) disconnected
+Mon Oct 15 02:25:19 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:25:20 2018	Texas Red (STEAM_0:0:140838209) spawned
+Mon Oct 15 02:25:41 2018	wolfhugger 3000 (STEAM_0:1:42591216): /pm texas ill be there to pick up the pizzas soon
+Mon Oct 15 02:25:41 2018	Uncle (STEAM_0:1:26691030) spawned
+Mon Oct 15 02:25:50 2018	Uncle (STEAM_0:1:26691030): /ooc ok now it is pizza time or so help me allah
+Mon Oct 15 02:26:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Oct 15 02:26:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 15 02:27:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // all changes but the playermodel ones are kept lol, the new ones would t-pose
+Mon Oct 15 02:27:26 2018	Uncle (STEAM_0:1:26691030): fffffuck
+Mon Oct 15 02:27:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // also sAntiLag is working
+Mon Oct 15 02:27:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so thats nice
+Mon Oct 15 02:27:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ok im going for the night
+Mon Oct 15 02:27:39 2018	Uncle (STEAM_0:1:26691030): i'm so fucking h u n g y
+Mon Oct 15 02:27:46 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // see you all tomorrow
+Mon Oct 15 02:29:03 2018	Texas Red (STEAM_0:0:140838209): /ooc half ya pizzas are ready
+Mon Oct 15 02:29:15 2018	wolfhugger 3000 (STEAM_0:1:42591216): // ok
+Mon Oct 15 02:29:21 2018	wolfhugger 3000 (STEAM_0:1:42591216): //ill be there soon
+Mon Oct 15 02:29:26 2018	wolfhugger 3000 (STEAM_0:1:42591216): // ill be there soon
+Mon Oct 15 02:29:49 2018	Laben_Venci (STEAM_0:1:45174348) has joined the game
+Mon Oct 15 02:29:49 2018	Laben_Venci (STEAM_0:1:45174348) spawned
+Mon Oct 15 02:30:13 2018	HellBoy9000 (STEAM_0:0:200061148) has joined the game
+Mon Oct 15 02:30:13 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Mon Oct 15 02:30:36 2018	Laben_Venci (STEAM_0:1:45174348): 
+Mon Oct 15 02:30:51 2018	Uncle (STEAM_0:1:26691030): SALVATION
+Mon Oct 15 02:30:58 2018	Laben_Venci (STEAM_0:1:45174348) spawned
+Mon Oct 15 02:31:10 2018	Laben_Venci (STEAM_0:1:45174348): /job Head Chef
+Mon Oct 15 02:31:14 2018	Uncle (STEAM_0:1:26691030): more homosexual than necessary
+Mon Oct 15 02:31:15 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Mon Oct 15 02:31:34 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Mon Oct 15 02:31:34 2018	wolfhugger 3000 (STEAM_0:1:42591216): // oh and put the pizza in boxes
+Mon Oct 15 02:32:51 2018	wolfhugger 3000 (STEAM_0:1:42591216): /dropmoney 2100
+Mon Oct 15 02:32:52 2018	wolfhugger 3000 (STEAM_0:1:42591216) has dropped $2,100
+Mon Oct 15 02:32:56 2018	wolfhugger 3000 (STEAM_0:1:42591216): /dropmoney 900
+Mon Oct 15 02:32:57 2018	Fang The Sniper (STEAM_0:0:56365934) has joined the game
+Mon Oct 15 02:32:57 2018	Fang The Sniper (STEAM_0:0:56365934) spawned
+Mon Oct 15 02:32:57 2018	wolfhugger 3000 (STEAM_0:1:42591216) has dropped $900
+Mon Oct 15 02:34:06 2018	Fang The Sniper (STEAM_0:0:56365934) spawned
+Mon Oct 15 02:34:35 2018	wolfhugger 3000 (STEAM_0:1:42591216) disconnected
+Mon Oct 15 02:35:12 2018	Laben_Venci was killed by Uncle with a cw_g36c
+Mon Oct 15 02:35:14 2018	Uncle was killed by Texas Red with a weapon_l4d2_frying_pan
+Mon Oct 15 02:35:14 2018	Laben_Venci (STEAM_0:1:45174348) spawned
+Mon Oct 15 02:35:36 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Mon Oct 15 02:35:36 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:35:40 2018	Uncle (STEAM_0:1:26691030) spawned
+Mon Oct 15 02:36:12 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:37:20 2018	wolfhugger 3000 (STEAM_0:1:42591216): // aLL SECURITY/SWAT PUT YOUR RADIOS ON ALL FACILITY
+Mon Oct 15 02:37:30 2018	wolfhugger 3000 (STEAM_0:1:42591216): // fadcilitty all
+Mon Oct 15 02:37:31 2018	HellBoy9000 was killed by Himself with a suicide trick
+Mon Oct 15 02:37:35 2018	HellBoy9000 (STEAM_0:0:200061148) spawned
+Mon Oct 15 02:38:48 2018	Texas Red (STEAM_0:0:140838209): /ooc night night boys iss bedtime
+Mon Oct 15 02:38:52 2018	wolfhugger 3000 (STEAM_0:1:42591216): // alright 
+Mon Oct 15 02:38:54 2018	wolfhugger 3000 (STEAM_0:1:42591216): // wait
+Mon Oct 15 02:39:01 2018	wolfhugger 3000 (STEAM_0:1:42591216): // just wait for me so i can get my pizza
+Mon Oct 15 02:39:09 2018	Texas Red (STEAM_0:0:140838209): /ooc ya pizzas are in the lobby but ill wait
+Mon Oct 15 02:39:18 2018	wolfhugger 3000 (STEAM_0:1:42591216): k
+Mon Oct 15 02:39:20 2018	wolfhugger 3000 (STEAM_0:1:42591216): // k
+Mon Oct 15 02:39:26 2018	wolfhugger 3000 (STEAM_0:1:42591216): // wiat
+Mon Oct 15 02:39:29 2018	wolfhugger 3000 (STEAM_0:1:42591216): // loby
+Mon Oct 15 02:39:33 2018	wolfhugger 3000 (STEAM_0:1:42591216): // why are they there
+Mon Oct 15 02:39:41 2018	Texas Red (STEAM_0:0:140838209): /ooc theyre in the kitchen im just wrong
+Mon Oct 15 02:39:44 2018	wolfhugger 3000 (STEAM_0:1:42591216): // k
+Mon Oct 15 02:40:53 2018	Texas Red (STEAM_0:0:140838209) disconnected
+Mon Oct 15 02:41:10 2018	Laben_Venci was killed by wolfhugger 3000 with a cw_deagle
+Mon Oct 15 02:41:11 2018	Laben_Venci (STEAM_0:1:45174348) spawned
+Mon Oct 15 02:41:16 2018	Laben_Venci was killed by wolfhugger 3000 with a cw_g36c
+Mon Oct 15 02:41:30 2018	Laben_Venci (STEAM_0:1:45174348) spawned
+Mon Oct 15 02:41:33 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:41:45 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:43:00 2018	HellBoy9000 (STEAM_0:0:200061148) disconnected
+Mon Oct 15 02:43:33 2018	Fang The Sniper was killed by Laben_Venci with a weapon_l4d2_frying_pan
+Mon Oct 15 02:43:37 2018	Fang The Sniper (STEAM_0:0:56365934) spawned
+Mon Oct 15 02:43:41 2018	Fang The Sniper (STEAM_0:0:56365934) disconnected
+Mon Oct 15 02:44:28 2018	Uncle (STEAM_0:1:26691030): /advert core stabilized
+Mon Oct 15 02:44:29 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:44:31 2018	wolfhugger 3000 (STEAM_0:1:42591216): // ok
+Mon Oct 15 02:44:33 2018	Uncle (STEAM_0:1:26691030): /advert i think
+Mon Oct 15 02:45:02 2018	wolfhugger 3000 (STEAM_0:1:42591216): // did you turn off all lazers and make the power to the lowest level and turn on fans and collant pumps
+Mon Oct 15 02:45:20 2018	Laben_Venci (STEAM_0:1:45174348): //Aw, server died.
+Mon Oct 15 02:45:22 2018	wolfhugger 3000 was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 15 02:45:23 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:45:26 2018	Laben_Venci (STEAM_0:1:45174348): // Aw, server died.
+Mon Oct 15 02:45:38 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 02:46:52 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert all staff of the facility need to put there radios onto facility all
+Mon Oct 15 02:55:33 2018	Uncle (STEAM_0:1:26691030): /ooc ok i guess my radio isn't working
+Mon Oct 15 02:55:40 2018	Uncle (STEAM_0:1:26691030): /ooc where the christ is the admin office
+Mon Oct 15 02:55:45 2018	wolfhugger 3000 (STEAM_0:1:42591216): // main cor
+Mon Oct 15 02:55:46 2018	wolfhugger 3000 (STEAM_0:1:42591216): /me salutes and stands at attention
+Mon Oct 15 02:55:49 2018	wolfhugger 3000 (STEAM_0:1:42591216): // e
+Mon Oct 15 02:55:52 2018	Uncle (STEAM_0:1:26691030): /ooc oh fuck me aight
+Mon Oct 15 02:55:58 2018	Laben_Venci (STEAM_0:1:45174348): // EVERYTHING IS FINE IN THE KITCHEN
+Mon Oct 15 02:59:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Mon Oct 15 03:00:12 2018	Laben_Venci (STEAM_0:1:45174348): // Jesus this server died.
+Mon Oct 15 03:00:18 2018	Laben_Venci (STEAM_0:1:45174348): /name Cletus
+Mon Oct 15 03:01:09 2018	Uncle (STEAM_0:1:26691030): is
+Mon Oct 15 03:01:12 2018	Uncle (STEAM_0:1:26691030): my mic
+Mon Oct 15 03:01:19 2018	Uncle (STEAM_0:1:26691030): FUCKING MAJESTIC
+Mon Oct 15 03:01:33 2018	Uncle (STEAM_0:1:26691030): alright well probably either a pat down or something about drugs in the pizza
+Mon Oct 15 03:01:39 2018	Uncle (STEAM_0:1:26691030): i
+Mon Oct 15 03:01:48 2018	Uncle (STEAM_0:1:26691030): have been speaking through the radio this entire time
+Mon Oct 15 03:01:59 2018	Uncle (STEAM_0:1:26691030): incredible
+Mon Oct 15 03:02:39 2018	Uncle (STEAM_0:1:26691030): wasn't the rumor involving meth, not cyanide?
+Mon Oct 15 03:02:50 2018	Uncle (STEAM_0:1:26691030): aight i'll check it out
+Mon Oct 15 03:02:58 2018	Uncle (STEAM_0:1:26691030): ye
+Mon Oct 15 03:04:00 2018	Uncle was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:04:04 2018	Uncle (STEAM_0:1:26691030) spawned
+Mon Oct 15 03:06:47 2018	Uncle (STEAM_0:1:26691030): /ooc fuck trams
+Mon Oct 15 03:06:49 2018	Uncle (STEAM_0:1:26691030) disconnected
+Mon Oct 15 03:07:02 2018	Cletus was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:07:03 2018	Cletus (STEAM_0:1:45174348) spawned
+Mon Oct 15 03:08:02 2018	Cletus (STEAM_0:1:45174348): // Uncle is not here, lmao.
+Mon Oct 15 03:08:58 2018	Cletus (STEAM_0:1:45174348): // I made you a pizza.
+Mon Oct 15 03:09:55 2018	Cletus (STEAM_0:1:45174348): // Where tf is the office anyway.
+Mon Oct 15 03:11:31 2018	Cletus (STEAM_0:1:45174348): // The tram is gay.
+Mon Oct 15 03:11:36 2018	wolfhugger 3000 (STEAM_0:1:42591216): // yup
+Mon Oct 15 03:11:48 2018	Cletus (STEAM_0:1:45174348): // I can't get to you. Lmao.
+Mon Oct 15 03:11:59 2018	wolfhugger 3000 (STEAM_0:1:42591216): // XD
+Mon Oct 15 03:12:04 2018	wolfhugger 3000 (STEAM_0:1:42591216): // use tram 2
+Mon Oct 15 03:12:06 2018	wolfhugger 3000 (STEAM_0:1:42591216): // not 1
+Mon Oct 15 03:12:10 2018	wolfhugger 3000 (STEAM_0:1:42591216): // 1 is on a release
+Mon Oct 15 03:12:29 2018	Cletus (STEAM_0:1:45174348): // I'm still in the Offices area, There is no Tram 1.
+Mon Oct 15 03:12:32 2018	Jeffrey (STEAM_0:0:42575032) has joined the game
+Mon Oct 15 03:12:32 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:12:39 2018	wolfhugger 3000 (STEAM_0:1:42591216): // well use tram 2 when it comes
+Mon Oct 15 03:12:53 2018	wolfhugger 3000 (STEAM_0:1:42591216): // and go to the lab stop not office stop
+Mon Oct 15 03:13:08 2018	Cletus (STEAM_0:1:45174348): // That is where I spawn-
+Mon Oct 15 03:13:44 2018	Cletus (STEAM_0:1:45174348): // I'm at the Lobby
+Mon Oct 15 03:13:52 2018	wolfhugger 3000 (STEAM_0:1:42591216): // keep going
+Mon Oct 15 03:14:00 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:14:26 2018	Cletus (STEAM_0:1:45174348): // Labs.
+Mon Oct 15 03:16:23 2018	Cletus (STEAM_0:1:45174348): // I'm at the Main core.
+Mon Oct 15 03:16:52 2018	Cletus was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 15 03:16:54 2018	Cletus (STEAM_0:1:45174348) spawned
+Mon Oct 15 03:17:09 2018	Cletus (STEAM_0:1:45174348): // FUCK, I FELL DOWN THE STAIRS.
+Mon Oct 15 03:17:13 2018	wolfhugger 3000 (STEAM_0:1:42591216): // oof
+Mon Oct 15 03:17:15 2018	Jeffrey (STEAM_0:0:42575032): // rip
+Mon Oct 15 03:18:00 2018	Cletus (STEAM_0:1:45174348): // IT'S BECAUSE HE'S JEWISH AND HE ATE A BACON PIZZA.
+Mon Oct 15 03:18:31 2018	Jeffrey (STEAM_0:0:42575032): // oh thanks for the secuity code my guy
+Mon Oct 15 03:19:01 2018	Cletus (STEAM_0:1:45174348): // How about you get over here? >;/
+Mon Oct 15 03:21:08 2018	Cletus (STEAM_0:1:45174348) disconnected
+Mon Oct 15 03:22:25 2018	wolfhugger 3000 was killed by Jeffrey with a fas2_thrown_m67
+Mon Oct 15 03:22:26 2018	Jeffrey was killed by Himself with a suicide trick
+Mon Oct 15 03:22:28 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:22:31 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:22:35 2018	Jeffrey (STEAM_0:0:42575032): // gg no ro
+Mon Oct 15 03:22:38 2018	Jeffrey (STEAM_0:0:42575032): // re
+Mon Oct 15 03:22:41 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:22:59 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:23:31 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:26:08 2018	wolfhugger 3000 was killed by Jeffrey with a fas2_machete
+Mon Oct 15 03:26:09 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:26:36 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:26:57 2018	wolfhugger 3000 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 15 03:26:59 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:27:43 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:29:20 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:29:30 2018	Jeffrey was killed by Himself with a suicide trick
+Mon Oct 15 03:29:30 2018	wolfhugger 3000 was killed by Jeffrey with a env_explosion
+Mon Oct 15 03:29:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:29:33 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:29:48 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:33:10 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Mon Oct 15 03:33:31 2018	wolfhugger 3000 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 15 03:33:32 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:34:27 2018	Jeffrey was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:34:27 2018	wolfhugger 3000 was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:34:28 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:34:30 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:34:34 2018	wolfhugger 3000 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:34:49 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:34:54 2018	wolfhugger 3000 was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:34:58 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:35:03 2018	wolfhugger 3000 was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:35:04 2018	Jeffrey was killed by Himself with a suicide trick
+Mon Oct 15 03:35:04 2018	wolfhugger 3000 was killed by Himself with a suicide trick
+Mon Oct 15 03:35:04 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Mon Oct 15 03:35:06 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:35:06 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:35:25 2018	wolfhugger 3000 (STEAM_0:1:42591216): /dropmoney 1
+Mon Oct 15 03:35:26 2018	wolfhugger 3000 (STEAM_0:1:42591216) has dropped $1
+Mon Oct 15 03:35:53 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:35:54 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:36:07 2018	Jeffrey was killed by wolfhugger 3000 with a weapon_crowbar
+Mon Oct 15 03:36:09 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:36:17 2018	Jeffrey was killed by wolfhugger 3000 with a weapon_crowbar
+Mon Oct 15 03:36:18 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:36:22 2018	wolfhugger 3000 was killed by Jeffrey with a weapon_crowbar
+Mon Oct 15 03:36:26 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:36:51 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:37:31 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:37:48 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:37:55 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:39:58 2018	sambulance (STEAM_0:0:106398417) has joined the game
+Mon Oct 15 03:39:58 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 03:43:20 2018	wolfhugger 3000 was killed by Jeffrey with a cw_m1911
+Mon Oct 15 03:43:22 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:43:37 2018	wolfhugger 3000 was killed by Jeffrey with a cw_shorty
+Mon Oct 15 03:43:38 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:43:46 2018	wolfhugger 3000 was killed by Jeffrey with a cw_shorty
+Mon Oct 15 03:43:47 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:44:25 2018	wolfhugger 3000 was killed by Jeffrey with a cw_ump45
+Mon Oct 15 03:44:26 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 03:44:26 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:45:19 2018	Jeffrey was killed by wolfhugger 3000 with a weapon_l4d2_frying_pan
+Mon Oct 15 03:45:25 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:45:41 2018	Jeffrey (STEAM_0:0:42575032) spawned
+Mon Oct 15 03:47:29 2018	wolfhugger 3000 was killed by Jeffrey with a fas2_thrown_m67
+Mon Oct 15 03:47:31 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:48:56 2018	Jeffrey was killed by wolfhugger 3000 with a weapon_l4d2_frying_pan
+Mon Oct 15 03:49:05 2018	Jeffrey (STEAM_0:0:42575032) disconnected
+Mon Oct 15 03:49:12 2018	wolfhugger 3000 was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 15 03:49:13 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Mon Oct 15 03:49:18 2018	wolfhugger 3000 (STEAM_0:1:42591216) disconnected
+Mon Oct 15 03:50:14 2018	Joseph Brown (STEAM_0:0:106398417): 4198
+Mon Oct 15 03:51:45 2018	Joseph Brown was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:51:48 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 03:53:37 2018	Joseph Brown was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 15 03:53:39 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 04:02:53 2018	Joseph Brown was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Mon Oct 15 04:03:05 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 04:03:05 2018	Joseph Brown was killed by Himself with a suicide trick
+Mon Oct 15 04:03:05 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Mon Oct 15 04:03:08 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 04:03:44 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 04:13:45 2018	Joseph Brown was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 15 04:13:46 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Mon Oct 15 04:14:18 2018	Joseph Brown (STEAM_0:0:106398417) disconnected
+Mon Oct 15 05:11:39 2018	[Opi] Fat Gay was killed by Himself with a suicide trick

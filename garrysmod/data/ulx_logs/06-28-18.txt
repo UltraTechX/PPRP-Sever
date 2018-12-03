@@ -1,0 +1,10 @@
+<Logging continued from "data/ulx_logs/06-27-18.txt">
+[14:48:27] Client "Chinese Takeout" connected.
+[14:48:46] Client "Lastpayload244" connected.
+[14:51:05] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 139 seconds).
+[14:52:03] Client "Chinese Takeout" spawned in server <STEAM_0:0:80677242> (took 216 seconds).
+[14:52:03] (Console) added Chinese Takeout to group PACUser
+[14:56:57] Chinese Takeout killed Connor Rk800 using player
+[14:57:54] Dropped "Chinese Takeout" from server<STEAM_0:0:80677242>
+[14:58:52] Dropped "Connor Rk800" from server<STEAM_0:0:48607723>
+<Logging continued in "data/ulx_logs/06-30-18.txt">

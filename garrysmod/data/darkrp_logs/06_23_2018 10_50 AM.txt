@@ -1,0 +1,79 @@
+Sat Jun 23 10:50:17 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Jun 23 10:50:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 10:51:11 2018	♕Weingott♕ (STEAM_0:1:86800123) has joined the game
+Sat Jun 23 10:51:11 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 10:51:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_collectcrate
+Sat Jun 23 10:51:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Jun 23 10:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 10:52:08 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 10:52:17 2018	Fat Gay (STEAM_0:1:218173703): /ooc brb im taking a shit
+Sat Jun 23 10:52:33 2018	♕Weingott♕ (STEAM_0:1:86800123): 
+Sat Jun 23 10:55:09 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 10:55:50 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 10:56:08 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:20 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:22 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:24 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:31 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned NPC npc_crow
+Sat Jun 23 10:56:35 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned NPC npc_crow
+Sat Jun 23 10:56:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:37 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:38 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:39 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:40 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:42 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:43 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:43 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:44 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:44 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:45 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:56:45 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sat Jun 23 10:57:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 10:57:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth
+Sat Jun 23 10:58:02 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Jun 23 10:58:07 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Jun 23 10:58:09 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zmlab_meth_baggy
+Sat Jun 23 10:59:34 2018	♕Weingott♕ was killed by Fat Gay with a cw_g3a3
+Sat Jun 23 10:59:38 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:01:45 2018	♕Weingott♕ was killed by Fat Gay with a fas2_thrown_m67
+Sat Jun 23 11:01:47 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:02:04 2018	♕Weingott♕ was killed by Fat Gay with a fas2_thrown_m67
+Sat Jun 23 11:02:06 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:02:10 2018	Fat Gay was killed by ♕Weingott♕ with a cw_g36c
+Sat Jun 23 11:02:14 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:03:45 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:07:47 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:08:27 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:08:28 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:08:55 2018	♕Weingott♕ was killed by Himself with a suicide trick
+Sat Jun 23 11:08:55 2018	Fat Gay (STEAM_0:1:218173703): !slay w
+Sat Jun 23 11:09:07 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:09:15 2018	♕Weingott♕ was killed by Fat Gay with a cw_deagle
+Sat Jun 23 11:09:31 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:09:59 2018	Fat Gay (STEAM_0:1:218173703): !hp we 1
+Sat Jun 23 11:10:00 2018	♕Weingott♕ was killed by Fat Gay with a weapon_defibrilator
+Sat Jun 23 11:10:06 2018	♕Weingott♕ (STEAM_0:1:86800123) spawned
+Sat Jun 23 11:18:12 2018	♕Weingott♕ (STEAM_0:1:86800123) disconnected
+Sat Jun 23 11:18:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:24:52 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Jun 23 11:24:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:28:23 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Jun 23 11:33:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:34:01 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Jun 23 11:34:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:34:37 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Jun 23 11:34:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Jun 23 11:34:54 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Jun 23 11:35:07 2018	Fat Gay (STEAM_0:1:218173703) spawned

@@ -1,0 +1,80 @@
+Sun Jun 24 15:01:41 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Jun 24 15:01:42 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 15:40:30 2018	Emmett was killed by Himself with a suicide trick
+Sun Jun 24 15:41:00 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Jun 24 16:14:42 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sun Jun 24 23:42:31 2018	Hap9786 [BTTE] (STEAM_0:1:214673060) has joined the game
+Sun Jun 24 23:42:31 2018	Xander Greene (STEAM_0:1:214673060) spawned
+Mon Jun 25 00:21:23 2018	Xander Greene was killed by Himself with a suicide trick
+Mon Jun 25 00:21:53 2018	Xander Greene (STEAM_0:1:214673060) spawned
+Mon Jun 25 00:31:14 2018	Xander Greene (STEAM_0:1:214673060) spawned
+Mon Jun 25 00:44:23 2018	Xander Greene was killed by Entity [1508][trigger_hurt] with a trigger_hurt
+Mon Jun 25 00:44:33 2018	Xander Greene (STEAM_0:1:214673060) spawned
+Mon Jun 25 00:45:33 2018	Xander Greene (STEAM_0:1:214673060) disconnected
+Mon Jun 25 14:52:32 2018	Lastpayload244 (STEAM_0:0:48607723) has joined the game
+Mon Jun 25 14:52:32 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 14:54:09 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 14:56:15 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 14:56:44 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 14:58:07 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:01:51 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:02:54 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:05:03 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:05:18 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:05:32 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:06:53 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:07:04 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:20:42 2018	Hello (STEAM_0:0:80135497) has joined the game
+Mon Jun 25 15:20:42 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:22:01 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:22:43 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:23:09 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:25:00 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:25:12 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:25:25 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:25:36 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:26:00 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:26:20 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:30:30 2018	Hello was killed by Connor Rk800 with a cw_deagle
+Mon Jun 25 15:30:31 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:33:05 2018	Connor Rk800 was killed by Hello with a cw_g36c
+Mon Jun 25 15:33:17 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:33:35 2018	Hello was killed by Entity [1495][func_rotating] with a func_rotating
+Mon Jun 25 15:33:40 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:33:48 2018	Connor Rk800 has made Hello wanted, reason: Wanted
+Mon Jun 25 15:34:13 2018	Hello was killed by Connor Rk800 with a cw_m3super90
+Mon Jun 25 15:34:14 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:34:31 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:35:48 2018	Hello is no longer wanted by the Police.
+Mon Jun 25 15:37:21 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:38:02 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:38:18 2018	Hello was killed by Himself with a suicide trick
+Mon Jun 25 15:38:20 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:40:41 2018	Connor Rk800 has made Hello wanted, reason: Wanted
+Mon Jun 25 15:41:15 2018	Hello has made Connor Rk800 wanted, reason: Wanted
+Mon Jun 25 15:41:51 2018	Connor Rk800 (STEAM_0:0:48607723) has dropped $4,000
+Mon Jun 25 15:42:01 2018	Connor Rk800 (STEAM_0:0:48607723) has dropped $958
+Mon Jun 25 15:42:35 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:42:41 2018	Hello is no longer wanted by the Police.
+Mon Jun 25 15:42:48 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:43:15 2018	Connor Rk800 is no longer wanted by the Police.
+Mon Jun 25 15:43:31 2018	Hello was killed by Entity [0][worldspawn] with a unknown
+Mon Jun 25 15:43:35 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:44:15 2018	Connor Rk800 was killed by Hello with a cw_p99
+Mon Jun 25 15:44:20 2018	Hello was killed by Entity [0][worldspawn] with a unknown
+Mon Jun 25 15:44:20 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:44:24 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:44:30 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:45:23 2018	Hello was killed by Entity [596][point_hurt] with a point_hurt
+Mon Jun 25 15:45:28 2018	Hello (STEAM_0:0:80135497) spawned
+Mon Jun 25 15:47:02 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:50:11 2018	Connor Rk800 was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Mon Jun 25 15:50:14 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:56:19 2018	Connor Rk800 was killed by Himself with a suicide trick
+Mon Jun 25 15:56:29 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:56:38 2018	Connor Rk800 (STEAM_0:0:48607723) disconnected
+Mon Jun 25 15:57:31 2018	Lastpayload244 (STEAM_0:0:48607723) has joined the game
+Mon Jun 25 15:57:31 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 15:58:35 2018	Connor Rk800 (STEAM_0:0:48607723) spawned
+Mon Jun 25 16:20:42 2018	Connor Rk800 (STEAM_0:0:48607723) disconnected
+Mon Jun 25 16:23:48 2018	Hello (STEAM_0:0:80135497) disconnected

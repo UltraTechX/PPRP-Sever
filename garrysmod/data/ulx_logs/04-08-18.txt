@@ -1,0 +1,130 @@
+[22:33:18] New map: rp_powerplant_v2b2
+[22:33:18] Client "LedogGaming" connected.
+[22:33:18] Client "LedogGaming" connected.
+[22:33:18] Client "LedogGaming" connected.
+[22:34:42] Client "LedogGaming" spawned in server <STEAM_0:0:162738784> (took 84 seconds).
+[22:35:17] Client "BRocha06" connected.
+[22:36:08] Client "BRocha06" spawned in server <STEAM_0:1:100921529> (took 51 seconds).
+[22:36:39] Security BRocha06: /ooc dead
+[22:36:53] Client "ellis3246" connected.
+[22:36:59] Client "tiga123abc" connected.
+[22:39:18] Client "ellis3246" spawned in server <STEAM_0:0:170430038> (took 145 seconds).
+[22:39:25] Client "westtd" connected.
+[22:41:35] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/suv_destroyed.mdl
+[22:41:57] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopssuv.mdl
+[22:42:36] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/lebaron.mdl
+[22:42:45] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[22:43:07] Client "tiga123abc" spawned in server <STEAM_0:0:231121167> (took 368 seconds).
+[22:43:29] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/ventura_open.mdl
+[22:44:40] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/skylark.mdl
+[22:45:17] ellis3246: !motd
+[22:45:38] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[22:47:47] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/skylark.mdl
+[22:48:13] LedogGaming was killed by trigger_hurt
+[22:48:28] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/wagoneer.mdl
+[22:49:23] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/pinto.mdl
+[22:49:56] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[22:49:57] Security BRocha06 was killed by trigger_hurt
+[22:50:36] Dropped "ellis3246" from server<STEAM_0:0:170430038>
+[22:54:58] Client "westtd" connected.
+[22:57:35] Client "westtd" spawned in server <STEAM_0:0:181744379> (took 157 seconds).
+[22:58:56] Client "JKH GAMING(LaptopScreenBroken)" connected.
+[22:59:30] Grant: /ooc Anyone want a Cheap Hit?
+[23:00:09] Grant: /ooc GUCCI GANG!
+[23:00:14] Grant: low pump
+[23:00:24] (TEAM) Grant: GUCCI GANG!
+[23:00:30] Grant: OFFER GANG
+[23:00:45] (TEAM) Grant: GUCCI GANG
+[23:00:59] Grant: Want a hit?
+[23:01:05] Grant: Cheap?
+[23:01:17] Grant: hello?
+[23:01:34] Grant: Hello?
+[23:03:31] Dropped "Security BRocha06" from server<STEAM_0:1:100921529>
+[23:03:34] Client "JKH GAMING(LaptopScreenBroken)" spawned in server <STEAM_0:0:106890685> (took 278 seconds).
+[23:05:16] JKH GAMING(LaptopScreenBroken): /name Homer Simpson
+[23:05:17] JKH GAMING(LaptopScreenBroken)<STEAM_0:0:106890685> changed their name to Homer Simpson
+[23:05:25] Grant: Hi
+[23:05:35] LedogGaming was killed by trigger_hurt
+[23:05:45] Grant: HELL YA
+[23:06:14] Grant: BACK UP!
+[23:06:33] Homer Simpson: /advert ALLAH ACKBAR
+[23:06:41] Homer Simpson: /comms ALLAH ACKBAG
+[23:08:49] Grant<STEAM_0:0:231121167> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[23:09:51] LedogGaming was killed by trigger_hurt
+[23:10:09] Grant: /ooc EVERYONE GET TO THE ROCKET, ITS GONNA BLOW!
+[23:10:35] westtd was killed by trigger_hurt
+[23:11:03] Grant: /ooc EVERYONE REPORT TO THE ROCKET NOW!
+[23:11:35] Grant: /ooc WHO TOOK THE ROCKET!
+[23:11:54] Grant: !goto home
+[23:12:22] Homer Simpson suicided!
+[23:12:42] LedogGaming suicided!
+[23:12:42] LedogGaming killed Homer Simpson using env_explosion
+[23:12:57] LedogGaming suicided!
+[23:13:00] Homer Simpson suicided!
+[23:13:11] Homer Simpson suicided!
+[23:13:15] Homer Simpson killed LedogGaming using player
+[23:13:24] westtd suicided!
+[23:13:24] westtd killed Homer Simpson using env_explosion
+[23:13:30] Homer Simpson suicided!
+[23:13:30] Homer Simpson killed LedogGaming using env_explosion
+[23:13:43] westtd killed Homer Simpson using fas2_thrown_m67
+[23:13:47] Homer Simpson killed westtd using player
+[23:13:50] westtd killed LedogGaming using fas2_thrown_m67
+[23:13:57] Homer Simpson suicided!
+[23:13:57] Homer Simpson killed LedogGaming using env_explosion
+[23:13:57] Homer Simpson killed westtd using env_explosion
+[23:14:33] Grant: /ooc GO THROUGH THE PORTAL!
+[23:14:41] LedogGaming: /OOC NO
+[23:14:48] Grant: /ooc Ok
+[23:14:58] westtd killed Homer Simpson using fas2_thrown_m67
+[23:15:06] Grant: !goto home
+[23:15:15] Homer Simpson: // can you blow up map?
+[23:15:17] Grant: !goto l
+[23:15:28] Grant<STEAM_0:0:231121167> spawned model models/props_combine/breenchair.mdl
+[23:15:30] LedogGaming: /ooc we r u
+[23:15:33] Grant<STEAM_0:0:231121167> spawned model models/props_combine/breenchair.mdl
+[23:15:37] Homer Simpson: // Ur Mum
+[23:15:40] Grant<STEAM_0:0:231121167> spawned model models/props_combine/breenchair.mdl
+[23:15:45] westtd suicided!
+[23:15:49] LedogGaming: /ooc grant were r u
+[23:15:58] Grant: /ooc Portal
+[23:16:13] LedogGaming: /ooc did u go threw
+[23:16:19] Grant: /ooc Mhm
+[23:16:50] LedogGaming suicided!
+[23:16:50] LedogGaming killed Grant using env_explosion
+[23:16:57] LedogGaming: /ooc i win
+[23:17:25] Homer Simpson<STEAM_0:0:106890685> spawned model models/props_junk/watermelon01.mdl
+[23:17:31] Grant: /ooc Any Cheap Hits?
+[23:17:40] LedogGaming suicided!
+[23:17:44] westtd: // What do you do when people are actually rping
+[23:17:48] Homer Simpson: // how the fuck do I get to the surface
+[23:17:50] Grant: /ooc Anyone want A hit?
+[23:18:07] Grant: /ooc Hitman for Hire!
+[23:18:47] Grant: /ooc Anyone?
+[23:20:15] Homer Simpson killed Grant using player
+[23:20:54] Homer Simpson killed Grant using fas2_thrown_m67
+[23:21:02] Grant: /ooc LOL!
+[23:21:06] Homer Simpson killed Grant using fas2_thrown_m67
+[23:21:54] Homer Simpson suicided!
+[23:21:54] Homer Simpson killed Grant using env_explosion
+[23:22:02] LedogGaming killed westtd using player
+[23:22:45] Grant: /ooc I am opening a SHOP!
+[23:23:18] Grant killed LedogGaming using player
+[23:23:37] Grant<STEAM_0:0:231121167> spawned model models/props_junk/wood_crate002a.mdl
+[23:23:40] Grant<STEAM_0:0:231121167> spawned model models/props_junk/wood_crate002a.mdl
+[23:23:42] Grant<STEAM_0:0:231121167> spawned model models/props_junk/wood_crate002a.mdl
+[23:23:54] Grant<STEAM_0:0:231121167> spawned model models/props_c17/gate_door01a.mdl
+[23:24:07] Grant: Events
+[23:24:12] westtd: /invholster 
+[23:24:14] westtd: /invholster 
+[23:24:42] westtd killed Grant using player
+[23:25:23] LedogGaming: /ooc yo y didnt it blow up
+[23:27:05] Grant killed westtd using fas2_thrown_m67
+[23:27:17] Dropped "westtd" from server<STEAM_0:0:181744379>
+[23:27:21] Dropped "LedogGaming" from server<STEAM_0:0:162738784>
+[23:27:30] Homer Simpson: // by nice meeting u
+[23:27:32] Dropped "Homer Simpson" from server<STEAM_0:0:106890685>
+[23:27:35] Grant<STEAM_0:0:231121167> spawned model models/props_c17/fence01a.mdl
+[23:29:21] Grant<STEAM_0:0:231121167> spawned model models/props_c17/fence01a.mdl
+[23:29:46] Grant<STEAM_0:0:231121167> spawned model models/props_c17/gate_door02a.mdl
+[23:29:56] Dropped "Grant" from server<STEAM_0:0:231121167>

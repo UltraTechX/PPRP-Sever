@@ -1,0 +1,271 @@
+<Logging continued from "data/ulx_logs/06-23-18.txt">
+[00:05:56] Fat Gay suicided!
+[00:06:13] Fat Gay killed Emmett using player
+[00:06:23] Fat Gay suicided!
+[00:06:23] Fat Gay slayed Themself
+[00:06:23] Fat Gay: !SLAY ^
+[00:15:02] Fat Gay: !hunger 0
+[00:15:06] Fat Gay: !help
+[00:15:10] Fat Gay: !menu
+[00:19:21] Fat Gay teleported to Emmett
+[00:19:21] Fat Gay: !goto emm
+[00:19:39] Emmett: !god fat
+[00:21:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ots33
+[00:22:23] Emmett suicided!
+[00:22:26] Fat Gay suicided!
+[00:22:36] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:30:49] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[00:31:12] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_sr25
+[00:31:15] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_sr25
+[00:31:41] Emmett stripped weapons from Themself
+[00:31:44] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_sr25
+[00:34:05] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[00:34:51] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[00:35:38] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[00:36:45] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[00:36:50] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+
+
+
+[00:38:10] New map: rp_powerplant_v2b2
+[00:38:17] Client "Fat Gay" connected.
+[00:38:34] Client "Valien" connected.
+[00:39:03] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 46 seconds).
+[00:39:28] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 54 seconds).
+[00:41:29] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ak74
+[00:41:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:41:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l115
+[00:41:40] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_smoke_grenade
+[00:41:48] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[00:41:57] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[00:41:58] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[00:42:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l85a2
+[00:42:45] Fat Gay killed Emmett using player
+[00:42:47] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[00:42:54] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_makarov
+[00:42:58] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:43:10] Emmett killed Fat Gay using player
+[00:43:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_flash_grenade
+[00:43:13] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ar15
+[00:43:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_flash_grenade
+[00:43:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ar15
+[00:43:26] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[00:43:27] Client "Fat Gay" connected.
+[00:43:31] Emmett suicided!
+[00:43:31] Emmett exploded Themself
+[00:43:37] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[00:43:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ar15
+[00:43:54] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[00:44:01] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 34 seconds).
+[00:44:15] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_rem870
+[00:44:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:44:23] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:44:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:44:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:44:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:44:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:44:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[00:45:25] Emmett killed Fat Gay using player
+[00:45:40] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[00:45:43] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[00:45:52] Emmett<STEAM_0:1:41660292> spawned NPC npc_citizen
+[00:46:02] Emmett killed Fat Gay using player
+[00:46:55] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[00:51:04] Emmett<STEAM_0:1:41660292> spawned sent wck_projector
+[00:51:34] Emmett<STEAM_0:1:41660292> spawned sent wck_controller
+[00:51:35] Emmett<STEAM_0:1:41660292> spawned sent wck_controller_vis
+[00:51:43] Emmett<STEAM_0:1:41660292> spawned sent wck_controller
+
+
+
+[00:58:26] New map: rp_powerplant_v2b2
+[00:58:31] Client "Valien" connected.
+[00:58:34] Client "Fat Gay" connected.
+[00:58:39] Client "Hap9786 [BTTE]" connected.
+[00:59:23] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[00:59:36] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 65 seconds).
+[01:03:47] Emmett<STEAM_0:1:41660292> spawned NPC npc_crow
+[01:03:54] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_cuff_standard
+[01:04:01] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_m249_official
+[01:04:57] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[01:05:09] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[01:07:17] Client "Hap9786 [BTTE]" spawned in server <STEAM_0:1:214673060> (took 518 seconds).
+[01:29:36] Xander Greene<STEAM_0:1:214673060> spawned model models/props_c17/fence02a.mdl
+[01:29:45] Xander Greene<STEAM_0:1:214673060> spawned model models/props_c17/fence03a.mdl
+[01:29:56] Xander Greene<STEAM_0:1:214673060> spawned model models/props_lab/blastdoor001c.mdl
+[01:30:28] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_lab/blastdoor001c.mdl
+[01:30:32] Xander Greene<STEAM_0:1:214673060> used the tool weld on maps/rp_powerplant_v2b2.bsp
+[01:30:33] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_lab/blastdoor001c.mdl
+[01:30:38] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_lab/blastdoor001c.mdl
+[01:30:42] Xander Greene<STEAM_0:1:214673060> used the tool weld on maps/rp_powerplant_v2b2.bsp
+[01:30:47] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_lab/blastdoor001c.mdl
+[01:41:54] Xander Greene<STEAM_0:1:214673060> spawned effect models/props_lab/chess.mdl
+[01:42:37] Xander Greene<STEAM_0:1:214673060> used the tool wire_data_satellitedish on maps/rp_powerplant_v2b2.bsp
+[01:42:54] Xander Greene<STEAM_0:1:214673060> used the tool wire_data_satellitedish on models/props_rooftop/satellitedish02.mdl
+[01:43:06] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_rooftop/satellitedish02.mdl
+[01:43:12] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_rooftop/satellitedish02.mdl
+[01:43:13] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_rooftop/satellitedish02.mdl
+[01:43:16] Xander Greene<STEAM_0:1:214673060> used the tool weld on maps/rp_powerplant_v2b2.bsp
+[01:43:17] Xander Greene<STEAM_0:1:214673060> used the tool weld on models/props_rooftop/satellitedish02.mdl
+[01:44:05] Xander Greene<STEAM_0:1:214673060> spawned model models/props_combine/breendesk.mdl
+[01:44:21] Xander Greene<STEAM_0:1:214673060> used the tool wire_radio on models/props_combine/breendesk.mdl
+[01:44:41] Xander Greene<STEAM_0:1:214673060> used the tool wire_twoway_radio on models/props_lab/reciever01a.mdl
+[01:44:51] Xander Greene<STEAM_0:1:214673060> used the tool wire_plug on maps/rp_powerplant_v2b2.bsp
+[01:44:54] Xander Greene<STEAM_0:1:214673060> used the tool wire_plug on models/props_lab/tpplugholder_single.mdl
+[01:45:01] Dropped "Xander Greene" from server<STEAM_0:1:214673060>
+[01:57:11] Client "Hap9786 [BTTE]" connected.
+[01:59:32] Client "Hap9786 [BTTE]" spawned in server <STEAM_0:1:214673060> (took 141 seconds).
+[01:59:53] (Console) removed all access rights from Hap9786 [BTTE]
+[01:59:53] (Console) added Xander Greene to group VIPPACUser
+[02:07:55] Xander Greene suicided!
+[02:12:47] Dropped "Xander Greene" from server<STEAM_0:1:214673060>
+[12:59:06] Client "Lastpayload244" connected.
+[13:01:04] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 118 seconds).
+[13:03:28] (Console) removed all access rights from Lastpayload244
+[13:03:28] (Console) added Connor Rk800 to group VIPPACUser
+[13:07:28] Dropped "Connor Rk800" from server<STEAM_0:0:48607723>
+[13:08:21] Client "Lastpayload244" connected.
+[13:09:41] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 80 seconds).
+[13:26:44] Connor Rk800 was killed by trigger_hurt
+[13:43:15] Connor Rk800 was killed by trigger_hurt
+[13:46:47] Connor Rk800: !FP
+[13:46:51] Connor Rk800: !fp
+[14:16:34] Connor Rk800 suicided!
+
+
+
+[14:27:40] New map: rp_powerplant_v2b2
+[14:27:40] Client "Lastpayload244" connected.
+[14:27:40] Client "Lastpayload244" connected.
+[14:27:40] Client "Lastpayload244" connected.
+[14:28:27] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 47 seconds).
+[14:29:11] Client "Fat Gay" connected.
+[14:29:16] Connor Rk800: !radio
+[14:29:45] Client "Valien" connected.
+[14:29:55] Connor Rk800<STEAM_0:0:48607723> spawned/gave himself swep pill_wep_alyxgun
+[14:30:24] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 73 seconds).
+[14:31:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep staff_lockpick
+[14:31:11] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 86 seconds).
+[14:31:30] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_sh_keypadcracker_deploy
+[14:31:59] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/fence01b.mdl
+[14:32:11] Emmett teleported to Connor Rk800
+[14:32:11] Emmett: !goto con
+[14:32:14] Fat Gay<STEAM_0:1:218173703> used the tool fading_door on models/props_c17/fence01b.mdl
+[14:32:22] Fat Gay<STEAM_0:1:218173703> used the tool keypad_willox on models/props_c17/fence01b.mdl
+[14:33:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape
+[14:34:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep realrbn_tazer_mr
+[14:35:03] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_policeshield
+[14:35:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_policeshield
+[14:37:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_zi_flamethrower
+[14:37:13] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_hallucinogenic
+[14:37:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_butterfly
+[14:37:22] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[14:37:36] Connor Rk800 was killed by entityflame
+[14:37:45] Fat Gay was killed by point_hurt
+[14:37:58] Connor Rk800 killed Fat Gay using player
+[14:38:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_zi_flamethrower
+[14:38:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[14:38:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[14:38:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[14:38:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[14:38:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_ak47
+[14:38:46] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_baseball_bat
+[14:38:49] Fat Gay killed Connor Rk800 using weapon_l4d2_baseball_bat
+[14:39:04] Fat Gay killed Connor Rk800 using weapon_l4d2_baseball_bat
+[14:39:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:12] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:12] Connor Rk800 killed Fat Gay using player
+[14:39:14] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[14:39:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[14:39:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:22] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:23] Connor Rk800 killed Fat Gay using ent_l4d2_grenade_launcher_grenade
+[14:39:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[14:39:30] Fat Gay killed Connor Rk800 using player
+[14:39:38] Fat Gay killed Connor Rk800 using player
+[14:39:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_smg_silenced
+[14:40:04] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep realrbn_tazer_mr
+[14:40:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[14:40:27] Fat Gay killed Connor Rk800 using player
+[14:40:38] Fat Gay killed Connor Rk800 using player
+[14:40:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_ak12
+[14:40:50] Fat Gay killed Connor Rk800 using player
+[14:41:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[14:41:22] Fat Gay killed Connor Rk800 using player
+[14:41:30] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[14:41:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[14:42:01] Fat Gay suicided!
+[14:42:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_ak472
+[14:42:08] Fat Gay killed Connor Rk800 using player
+[14:42:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[14:42:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[14:42:24] Fat Gay killed Connor Rk800 using player
+[14:42:38] Fat Gay killed Connor Rk800 using player
+[14:42:52] Fat Gay killed Connor Rk800 using player
+[14:44:01] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_p226
+[14:44:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_mac102
+[14:44:35] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[14:44:44] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[14:44:53] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[14:45:33] Fat Gay teleported to Connor Rk800
+[14:45:33] Fat Gay: !goto c 
+[14:45:34] Emmett teleported to Fat Gay
+[14:45:34] Emmett: !goto fa
+[14:45:36] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_frezzer
+[14:45:47] Fat Gay teleported to Connor Rk800
+[14:45:47] Fat Gay: !goto co
+[14:46:19] Fat Gay killed Connor Rk800 using player
+[14:47:29] Fat Gay: /report
+[14:47:33] Fat Gay: !report
+[14:47:40] Fat Gay reported Connor Rk800
+[14:47:43] Emmett: !report fat gay
+[14:47:44] Fat Gay: !reporta
+[14:47:55] Emmett reported Fat Gay
+[14:48:20] Fat Gay teleported to Emmett
+[14:48:20] Fat Gay: !goto emm
+[14:49:31] Connor Rk800 was killed by trigger_hurt
+
+
+
+[14:51:26] New map: rp_powerplant_v2b2
+[14:51:33] Client "Lastpayload244" connected.
+[14:51:49] Client "Fat Gay" connected.
+[14:51:49] Client "Valien" connected.
+[14:52:14] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 41 seconds).
+[14:52:32] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 43 seconds).
+[14:52:33] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 44 seconds).
+[14:58:11] Connor Rk800 suicided!
+[14:59:06] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+
+
+
+[15:00:37] New map: rp_powerplant_v2b2
+[15:00:58] Client "Valien" connected.
+[15:01:41] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 43 seconds).
+[15:40:30] Emmett suicided!
+[16:14:42] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[23:35:47] Client "Hap9786 [BTTE]" connected.
+[23:42:31] Client "Hap9786 [BTTE]" spawned in server <STEAM_0:1:214673060> (took 404 seconds).
+<Logging continued in "data/ulx_logs/06-25-18.txt">

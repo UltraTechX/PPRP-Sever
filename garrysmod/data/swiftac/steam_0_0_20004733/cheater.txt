@@ -1,0 +1,2 @@
+Sat Oct 20 18:00:46 2018 - Nick: Bob Boob | IP: 87.15.7.229 | SteamID: STEAM_0:0:20004733.txt | Cheating Infraction: Invalid source: hook.Add@mlogs/permissions/sh_permissions.lua;
+

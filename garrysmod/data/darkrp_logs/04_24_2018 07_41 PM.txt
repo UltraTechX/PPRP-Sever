@@ -1,0 +1,49 @@
+Tue Apr 24 19:41:21 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Tue Apr 24 19:41:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Apr 24 20:03:22 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Apr 24 20:05:48 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Apr 24 20:27:52 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Apr 24 20:34:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Apr 24 20:35:29 2018	Sirro (STEAM_0:1:72140646) has joined the game
+Tue Apr 24 20:35:29 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Apr 24 20:36:04 2018	Sirro (STEAM_0:1:72140646): // opifuck
+Tue Apr 24 20:36:12 2018	Fat Gay (STEAM_0:1:218173703): /ooc yo
+Tue Apr 24 20:36:55 2018	Fat Gay (STEAM_0:1:218173703): /ooc welp
+Tue Apr 24 20:37:10 2018	Fat Gay (STEAM_0:1:218173703): /ooc tried to pac you but it said it wasnt a valid steamid xd
+Tue Apr 24 20:37:21 2018	Sirro (STEAM_0:1:72140646): // we guuchi
+Tue Apr 24 20:37:55 2018	Sirro (STEAM_0:1:72140646): // jesus fuck this place is huge
+Tue Apr 24 20:38:02 2018	Fat Gay (STEAM_0:1:218173703): /ooc yeah
+Tue Apr 24 20:38:57 2018	Fat Gay (STEAM_0:1:218173703): /ooc feel free to explore while I figure out what fucked up in the pac command
+Tue Apr 24 20:39:02 2018	Sirro (STEAM_0:1:72140646): // what is CBRN
+Tue Apr 24 20:39:16 2018	Fat Gay (STEAM_0:1:218173703): /ooc for biohazards
+Tue Apr 24 20:39:39 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Apr 24 20:40:54 2018	Sirro (STEAM_0:1:72140646): // I don't understand how people are able to work with Hammer without clawing their eyes out
+Tue Apr 24 20:41:37 2018	Sirro was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 24 20:41:38 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Apr 24 20:42:40 2018	Fat Gay (STEAM_0:1:218173703): /ooc sounds about right
+Tue Apr 24 20:42:49 2018	Sirro (STEAM_0:1:72140646): // does this shit blow up
+Tue Apr 24 20:43:01 2018	Sirro (STEAM_0:1:72140646): // yet\
+Tue Apr 24 20:43:05 2018	Fat Gay (STEAM_0:1:218173703): /ooc it has the beginning of the sequence but the full thing isnt in yet
+Tue Apr 24 20:43:25 2018	Sirro (STEAM_0:1:72140646): // fuckin pizza day yeet
+Tue Apr 24 20:43:29 2018	Fat Gay (STEAM_0:1:218173703): /ooc you can cause the initial meltdown premonition sound to play and the blast door
+Tue Apr 24 20:43:34 2018	Fat Gay (STEAM_0:1:218173703): /ooc to go down
+Tue Apr 24 20:43:56 2018	Sirro (STEAM_0:1:72140646): // what gamemode is this?
+Tue Apr 24 20:44:25 2018	Fat Gay (STEAM_0:1:218173703): /ooc essentially just renamed darkrp
+Tue Apr 24 20:44:33 2018	Fat Gay (STEAM_0:1:218173703): /ooc power plant rp
+Tue Apr 24 20:44:37 2018	Sirro (STEAM_0:1:72140646): // a
+Tue Apr 24 20:44:38 2018	Sirro (STEAM_0:1:72140646): // ah
+Tue Apr 24 20:44:49 2018	Sirro (STEAM_0:1:72140646): // alot of gamemodes are a rename of darkrp lol
+Tue Apr 24 20:44:55 2018	Sirro (STEAM_0:1:72140646): // good shit to work off of
+Tue Apr 24 20:45:15 2018	Sirro was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 24 20:45:17 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Apr 24 20:45:43 2018	Sirro (STEAM_0:1:72140646): // what temp does the core start going whack
+Tue Apr 24 20:45:50 2018	Fat Gay (STEAM_0:1:218173703): /ooc 5000
+Tue Apr 24 20:45:58 2018	Fat Gay (STEAM_0:1:218173703): /ooc 3600 is warning
+Tue Apr 24 20:46:23 2018	Fat Gay (STEAM_0:1:218173703): /ooc there are multiple places that can affect it, lasers, coolant, fan
+Tue Apr 24 20:49:26 2018	Sirro (STEAM_0:1:72140646): // we're burning this bitch to the fucking ground
+Tue Apr 24 20:49:54 2018	Sirro was killed by Entity [0][worldspawn] with a unknown
+Tue Apr 24 20:49:56 2018	Sirro (STEAM_0:1:72140646) spawned
+Tue Apr 24 20:56:43 2018	Fat Gay was killed by Himself with a suicide trick
+Tue Apr 24 20:59:36 2018	Sirro (STEAM_0:1:72140646) disconnected
+Tue Apr 24 21:04:31 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Tue Apr 24 21:06:05 2018	Fat Gay (STEAM_0:1:218173703) disconnected

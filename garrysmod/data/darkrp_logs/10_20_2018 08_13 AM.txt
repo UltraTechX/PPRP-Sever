@@ -1,0 +1,2167 @@
+Sat Oct 20 08:13:16 2018	Wouju (STEAM_0:0:78616442) has joined the game
+Sat Oct 20 08:13:16 2018	Wouju (STEAM_0:0:78616442) spawned
+Sat Oct 20 08:13:41 2018	Wouju (STEAM_0:0:78616442) disconnected
+Sat Oct 20 08:15:53 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Sat Oct 20 08:15:53 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 08:16:35 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Sat Oct 20 08:20:01 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Sat Oct 20 08:20:01 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 08:20:35 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Sat Oct 20 08:23:01 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) has joined the game
+Sat Oct 20 08:23:01 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 08:25:23 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) disconnected
+Sat Oct 20 08:41:03 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) has joined the game
+Sat Oct 20 08:41:03 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:05:42 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:06:13 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:06:51 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:06:53 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Sat Oct 20 09:06:53 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:07:37 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:10:10 2018	Jeroma (STEAM_0:0:121143569): !steam
+Sat Oct 20 09:10:14 2018	Jeroma (STEAM_0:0:121143569): !steam
+Sat Oct 20 09:10:43 2018	Jeroma (STEAM_0:0:121143569): !steam
+Sat Oct 20 09:11:19 2018	Jeroma (STEAM_0:0:121143569): // Hello
+Sat Oct 20 09:11:23 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:12:03 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:12:28 2018	Jeroma (STEAM_0:0:121143569): // Hello?
+Sat Oct 20 09:12:32 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // ?
+Sat Oct 20 09:12:57 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:14:31 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:14:43 2018	Jeroma (STEAM_0:0:121143569): Hello
+Sat Oct 20 09:15:21 2018	Jeroma (STEAM_0:0:121143569): Can i test right click?
+Sat Oct 20 09:15:32 2018	Jeroma (STEAM_0:0:121143569): your not talking
+Sat Oct 20 09:15:44 2018	Jeroma (STEAM_0:0:121143569): You werent
+Sat Oct 20 09:15:55 2018	Jeroma (STEAM_0:0:121143569): So can i
+Sat Oct 20 09:16:05 2018	Jeroma (STEAM_0:0:121143569): Why
+Sat Oct 20 09:16:07 2018	Jeroma (STEAM_0:0:121143569): Are there
+Sat Oct 20 09:16:11 2018	Jeroma (STEAM_0:0:121143569): Levels
+Sat Oct 20 09:16:24 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 09:16:27 2018	Jeroma (STEAM_0:0:121143569): Theyre probably
+Sat Oct 20 09:16:31 2018	Jeroma (STEAM_0:0:121143569): Gonna add jobs
+Sat Oct 20 09:16:35 2018	Jeroma (STEAM_0:0:121143569): Wich require levels
+Sat Oct 20 09:17:00 2018	Jeroma (STEAM_0:0:121143569): why are you
+Sat Oct 20 09:17:04 2018	Jeroma (STEAM_0:0:121143569): Using
+Sat Oct 20 09:17:06 2018	Jeroma (STEAM_0:0:121143569): Glass
+Sat Oct 20 09:17:12 2018	Jeroma (STEAM_0:0:121143569): You can break it
+Sat Oct 20 09:17:16 2018	Jeroma (STEAM_0:0:121143569): So its not secure
+Sat Oct 20 09:17:30 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:17:42 2018	Jeroma (STEAM_0:0:121143569): Did you
+Sat Oct 20 09:17:45 2018	Jeroma (STEAM_0:0:121143569): Make it unbreakable
+Sat Oct 20 09:17:56 2018	Jeroma (STEAM_0:0:121143569): You did
+Sat Oct 20 09:18:39 2018	Jeroma (STEAM_0:0:121143569): How
+Sat Oct 20 09:18:42 2018	Jeroma (STEAM_0:0:121143569): Do you donate?
+Sat Oct 20 09:18:50 2018	Jeroma (STEAM_0:0:121143569): !donate
+Sat Oct 20 09:18:56 2018	Jeroma (STEAM_0:0:121143569): It doesnt work
+Sat Oct 20 09:19:01 2018	Jeroma (STEAM_0:0:121143569): Only sends me a ling to google
+Sat Oct 20 09:19:09 2018	Jeroma (STEAM_0:0:121143569): !motd
+Sat Oct 20 09:21:13 2018	Jeroma (STEAM_0:0:121143569): Dont eat it
+Sat Oct 20 09:22:42 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 09:22:46 2018	Jeroma (STEAM_0:0:121143569): Can i kill to test
+Sat Oct 20 09:22:48 2018	Jeroma (STEAM_0:0:121143569): If i get xp
+Sat Oct 20 09:22:57 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Jeroma with a cw_l85a2
+Sat Oct 20 09:22:59 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:23:00 2018	Jeroma (STEAM_0:0:121143569): Nope
+Sat Oct 20 09:23:04 2018	Jeroma (STEAM_0:0:121143569): Nope
+Sat Oct 20 09:23:36 2018	Jeroma (STEAM_0:0:121143569): 41984198419841984198
+Sat Oct 20 09:23:38 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 09:23:41 2018	Jeroma (STEAM_0:0:121143569): This is the code
+Sat Oct 20 09:25:15 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 09:25:21 2018	Jeroma (STEAM_0:0:121143569): Can
+Sat Oct 20 09:25:25 2018	Jeroma (STEAM_0:0:121143569): I test dmg
+Sat Oct 20 09:25:39 2018	Jeroma (STEAM_0:0:121143569): Can i kill you
+Sat Oct 20 09:25:42 2018	Jeroma (STEAM_0:0:121143569): And try agian
+Sat Oct 20 09:25:46 2018	Jeroma (STEAM_0:0:121143569): I used the weak
+Sat Oct 20 09:25:49 2018	Jeroma (STEAM_0:0:121143569): Version
+Sat Oct 20 09:25:55 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Jeroma with a fas2_machete
+Sat Oct 20 09:25:56 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:26:02 2018	Jeroma (STEAM_0:0:121143569): I didnt
+Sat Oct 20 09:26:09 2018	Jeroma (STEAM_0:0:121143569): Weird its the same
+Sat Oct 20 09:26:12 2018	Jeroma (STEAM_0:0:121143569): Still alot
+Sat Oct 20 09:26:16 2018	Jeroma (STEAM_0:0:121143569): /drop
+Sat Oct 20 09:26:22 2018	Jeroma (STEAM_0:0:121143569): /invholster
+Sat Oct 20 09:26:29 2018	Jeroma (STEAM_0:0:121143569): You can
+Sat Oct 20 09:26:34 2018	Jeroma (STEAM_0:0:121143569): /invholster
+Sat Oct 20 09:26:45 2018	Jeroma (STEAM_0:0:121143569): /invholster
+Sat Oct 20 09:26:50 2018	Jeroma (STEAM_0:0:121143569): /drop
+Sat Oct 20 09:26:55 2018	Jeroma (STEAM_0:0:121143569): /Drop
+Sat Oct 20 09:27:03 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 09:27:07 2018	Jeroma (STEAM_0:0:121143569): Only backstabs
+Sat Oct 20 09:27:12 2018	Jeroma (STEAM_0:0:121143569): Do 200 dmg
+Sat Oct 20 09:27:44 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:28:09 2018	Jeroma (STEAM_0:0:121143569): Can i copy taht
+Sat Oct 20 09:28:16 2018	Jeroma (STEAM_0:0:121143569): Can i
+Sat Oct 20 09:28:18 2018	Jeroma (STEAM_0:0:121143569): Where?
+Sat Oct 20 09:28:44 2018	Jeroma (STEAM_0:0:121143569): Can you make me your buddy
+Sat Oct 20 09:28:47 2018	Jeroma (STEAM_0:0:121143569): For a secondy
+Sat Oct 20 09:28:50 2018	Jeroma (STEAM_0:0:121143569): Tool gun
+Sat Oct 20 09:29:19 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:29:28 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:29:30 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:29:51 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:30:25 2018	Jeroma (STEAM_0:0:121143569): Cant use
+Sat Oct 20 09:30:26 2018	Jeroma (STEAM_0:0:121143569): That
+Sat Oct 20 09:30:29 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:30:32 2018	Jeroma (STEAM_0:0:121143569): Could you
+Sat Oct 20 09:30:35 2018	Jeroma (STEAM_0:0:121143569): Put down
+Sat Oct 20 09:30:37 2018	Jeroma (STEAM_0:0:121143569): The alarm 
+Sat Oct 20 09:30:38 2018	Jeroma (STEAM_0:0:121143569): Thingy
+Sat Oct 20 09:31:04 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 09:31:35 2018	Jeroma (STEAM_0:0:121143569): How do you save taht
+Sat Oct 20 09:31:38 2018	Jeroma (STEAM_0:0:121143569): Again
+Sat Oct 20 09:31:45 2018	Jeroma (STEAM_0:0:121143569): How do you save stuff?
+Sat Oct 20 09:32:52 2018	Jeroma (STEAM_0:0:121143569): Thank you
+Sat Oct 20 09:33:11 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:33:34 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:33:47 2018	Jeroma (STEAM_0:0:121143569): Help
+Sat Oct 20 09:33:49 2018	Jeroma (STEAM_0:0:121143569): This is weird
+Sat Oct 20 09:33:59 2018	Jeroma (STEAM_0:0:121143569): Extremly weird
+Sat Oct 20 09:34:34 2018	Jeroma (STEAM_0:0:121143569): Cake do you have a Sliding door wire dupe?
+Sat Oct 20 09:35:01 2018	Jeroma (STEAM_0:0:121143569): Not taht
+Sat Oct 20 09:35:13 2018	Jeroma (STEAM_0:0:121143569): Rip i guess
+Sat Oct 20 09:35:20 2018	Jeroma (STEAM_0:0:121143569): Im to lazy to make one
+Sat Oct 20 09:35:45 2018	Jeroma (STEAM_0:0:121143569): Do you have
+Sat Oct 20 09:35:47 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:35:48 2018	Jeroma (STEAM_0:0:121143569): Anything
+Sat Oct 20 09:35:51 2018	Jeroma (STEAM_0:0:121143569): Else
+Sat Oct 20 09:36:35 2018	Jeroma (STEAM_0:0:121143569): Cook me
+Sat Oct 20 09:36:53 2018	Jeroma (STEAM_0:0:121143569): Can i copy
+Sat Oct 20 09:36:55 2018	Jeroma (STEAM_0:0:121143569): The radio
+Sat Oct 20 09:37:02 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 09:38:30 2018	Jeroma (STEAM_0:0:121143569): Your
+Sat Oct 20 09:38:34 2018	Jeroma (STEAM_0:0:121143569): Printer is out of ink
+Sat Oct 20 09:38:48 2018	Jeroma (STEAM_0:0:121143569): Shite
+Sat Oct 20 09:39:15 2018	Jeroma (STEAM_0:0:121143569): y
+Sat Oct 20 09:39:19 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Himself with a suicide trick
+Sat Oct 20 09:39:19 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Himself with a suicide trick
+Sat Oct 20 09:39:21 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:39:27 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:39:49 2018	Jeroma (STEAM_0:0:121143569): Do
+Sat Oct 20 09:39:59 2018	Jeroma (STEAM_0:0:121143569): You have anything else?
+Sat Oct 20 09:41:33 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:41:48 2018	Jeroma (STEAM_0:0:121143569): Can i copy your
+Sat Oct 20 09:41:50 2018	Jeroma (STEAM_0:0:121143569): Combine again
+Sat Oct 20 09:42:26 2018	Jeroma was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct 20 09:42:27 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:42:53 2018	Jeroma (STEAM_0:0:121143569): /Y hey
+Sat Oct 20 09:42:59 2018	Jeroma (STEAM_0:0:121143569): Can i copy 
+Sat Oct 20 09:43:00 2018	Jeroma (STEAM_0:0:121143569): Your
+Sat Oct 20 09:43:06 2018	Jeroma (STEAM_0:0:121143569): Drunk combine
+Sat Oct 20 09:43:50 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:43:56 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:43:58 2018	Jeroma (STEAM_0:0:121143569): Can
+Sat Oct 20 09:43:59 2018	Jeroma (STEAM_0:0:121143569): I
+Sat Oct 20 09:44:07 2018	Jeroma (STEAM_0:0:121143569): Copy your drunk combine dupe?
+Sat Oct 20 09:44:20 2018	Jeroma (STEAM_0:0:121143569): That thing
+Sat Oct 20 09:44:29 2018	Jeroma (STEAM_0:0:121143569): Follow me
+Sat Oct 20 09:44:37 2018	Jeroma (STEAM_0:0:121143569): Can i copy this
+Sat Oct 20 09:44:46 2018	Jeroma (STEAM_0:0:121143569): Spawn a fresh one
+Sat Oct 20 09:44:55 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 09:45:00 2018	Jeroma (STEAM_0:0:121143569): Its
+Sat Oct 20 09:45:01 2018	Jeroma (STEAM_0:0:121143569): Missing
+Sat Oct 20 09:45:51 2018	Jeroma (STEAM_0:0:121143569): Cake
+Sat Oct 20 09:45:54 2018	Jeroma (STEAM_0:0:121143569): Spawn a new one
+Sat Oct 20 09:45:57 2018	Jeroma (STEAM_0:0:121143569): Ples
+Sat Oct 20 09:46:17 2018	Jeroma (STEAM_0:0:121143569): Please
+Sat Oct 20 09:46:20 2018	Jeroma (STEAM_0:0:121143569): Spawn a new
+Sat Oct 20 09:46:23 2018	Jeroma (STEAM_0:0:121143569): Combine
+Sat Oct 20 09:46:27 2018	Jeroma (STEAM_0:0:121143569): Dupe
+Sat Oct 20 09:46:30 2018	Jeroma (STEAM_0:0:121143569): Please
+Sat Oct 20 09:46:50 2018	Jeroma (STEAM_0:0:121143569): Cake
+Sat Oct 20 09:47:19 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 09:47:34 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 09:48:32 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:48:50 2018	ERROR_404 (STEAM_0:1:85567021) has joined the game
+Sat Oct 20 09:48:50 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 09:51:27 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 09:52:46 2018	Jeroma was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 09:52:47 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:53:11 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 09:53:57 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 09:54:05 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 09:54:28 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 09:55:11 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /y
+Sat Oct 20 09:56:53 2018	Not GimON (STEAM_0:0:95660701) has joined the game
+Sat Oct 20 09:56:53 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 09:57:46 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 09:58:56 2018	Jeroma (STEAM_0:0:121143569): y
+Sat Oct 20 09:59:51 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Sheet all security really
+Sat Oct 20 10:00:13 2018	Not GimON (STEAM_0:0:95660701): // I would switch to director maybe but ur blowing up shit so sorry m8
+Sat Oct 20 10:00:43 2018	Jeroma (STEAM_0:0:121143569): // Cooldown code is https://discord.gg/HntKeW3
+Sat Oct 20 10:00:52 2018	Jeroma (STEAM_0:0:121143569): // I mean 4198
+Sat Oct 20 10:00:53 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Ah
+Sat Oct 20 10:01:45 2018	Not GimON was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:01:50 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 10:02:39 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 10:02:48 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Not GimON with a cw_g36c
+Sat Oct 20 10:02:49 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:03:20 2018	Rainbow Tom (STEAM_0:0:62028984) has joined the game
+Sat Oct 20 10:03:20 2018	Rainbow Tom (STEAM_0:0:62028984) spawned
+Sat Oct 20 10:03:29 2018	Jeroma (STEAM_0:0:121143569): DOnt
+Sat Oct 20 10:03:31 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:03:38 2018	Jeroma (STEAM_0:0:121143569): So ye
+Sat Oct 20 10:03:41 2018	Jeroma (STEAM_0:0:121143569): Activated everything
+Sat Oct 20 10:03:44 2018	Mark Zuckerberg (STEAM_0:1:85567021): ok
+Sat Oct 20 10:03:45 2018	Jeroma (STEAM_0:0:121143569): Also used the cooldown
+Sat Oct 20 10:03:46 2018	Jeroma (STEAM_0:0:121143569): Code
+Sat Oct 20 10:03:50 2018	Jeroma (STEAM_0:0:121143569): Now wait
+Sat Oct 20 10:03:52 2018	Jeroma (STEAM_0:0:121143569): Also
+Sat Oct 20 10:03:58 2018	Jeroma (STEAM_0:0:121143569): Did you turn off the laser boosters?
+Sat Oct 20 10:04:01 2018	Mark Zuckerberg (STEAM_0:1:85567021): nope
+Sat Oct 20 10:04:07 2018	Jeroma (STEAM_0:0:121143569): LEts go then
+Sat Oct 20 10:04:44 2018	Jeroma (STEAM_0:0:121143569): /Y Hello
+Sat Oct 20 10:04:54 2018	Rainbow Tom (STEAM_0:0:62028984) spawned
+Sat Oct 20 10:05:10 2018	Jeroma (STEAM_0:0:121143569): Its
+Sat Oct 20 10:05:12 2018	Jeroma (STEAM_0:0:121143569): Gonna get hot
+Sat Oct 20 10:05:13 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Not GimON with a cw_g36c
+Sat Oct 20 10:05:14 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:05:16 2018	Mark Zuckerberg (STEAM_0:1:85567021): i know
+Sat Oct 20 10:05:34 2018	Jeroma (STEAM_0:0:121143569): Everything good
+Sat Oct 20 10:05:48 2018	Jeroma (STEAM_0:0:121143569): Protect me while i make
+Sat Oct 20 10:05:51 2018	Jeroma (STEAM_0:0:121143569): A checkpoint
+Sat Oct 20 10:05:53 2018	Jeroma (STEAM_0:0:121143569): Ty
+Sat Oct 20 10:07:25 2018	Not GimON (STEAM_0:0:95660701): // does the emergency coolant even work?
+Sat Oct 20 10:07:55 2018	Jeroma (STEAM_0:0:121143569): // ye
+Sat Oct 20 10:08:02 2018	Not GimON (STEAM_0:0:95660701): // Doesn't seem to be
+Sat Oct 20 10:08:15 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Mark Zuckerberg with a cw_g36c
+Sat Oct 20 10:08:16 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:08:30 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Dis weapons are shit
+Sat Oct 20 10:08:35 2018	Not GimON (STEAM_0:0:95660701): // ikr
+Sat Oct 20 10:10:49 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Not GimON with a cw_g36c
+Sat Oct 20 10:10:50 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:11:16 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // mh i mean a shotgun can't hit from a meter
+Sat Oct 20 10:11:52 2018	Not GimON (STEAM_0:0:95660701): !motd
+Sat Oct 20 10:12:14 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:13:54 2018	Mark Zuckerberg (STEAM_0:1:85567021): // does keycard scanner not work?
+Sat Oct 20 10:14:06 2018	Jeroma (STEAM_0:0:121143569): What do you mean
+Sat Oct 20 10:14:09 2018	Mark Zuckerberg (STEAM_0:1:85567021): // nvm it does
+Sat Oct 20 10:14:32 2018	Jeroma (STEAM_0:0:121143569): Oh no you 
+Sat Oct 20 10:14:42 2018	Rainbow Tom (STEAM_0:0:62028984): !steam
+Sat Oct 20 10:14:46 2018	Jeroma (STEAM_0:0:121143569): /Y Really
+Sat Oct 20 10:14:53 2018	Jeroma (STEAM_0:0:121143569): Make another keycard
+Sat Oct 20 10:14:55 2018	Jeroma (STEAM_0:0:121143569): Scanner
+Sat Oct 20 10:15:03 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 10:15:06 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 10:15:08 2018	Jeroma (STEAM_0:0:121143569): Stop
+Sat Oct 20 10:15:14 2018	Jeroma (STEAM_0:0:121143569): Mark
+Sat Oct 20 10:15:17 2018	Mark Zuckerberg (STEAM_0:1:85567021): ?
+Sat Oct 20 10:15:18 2018	Jeroma (STEAM_0:0:121143569): Get over here
+Sat Oct 20 10:15:27 2018	Jeroma (STEAM_0:0:121143569): Click mirror to
+Sat Oct 20 10:15:29 2018	Jeroma (STEAM_0:0:121143569): On this one
+Sat Oct 20 10:15:33 2018	Jeroma (STEAM_0:0:121143569): Then e on the other one
+Sat Oct 20 10:15:58 2018	Jeroma (STEAM_0:0:121143569): Just click mirror
+Sat Oct 20 10:16:01 2018	Jeroma (STEAM_0:0:121143569): Then click
+Sat Oct 20 10:16:05 2018	Jeroma (STEAM_0:0:121143569): E on the Keycard
+Sat Oct 20 10:16:06 2018	Jeroma (STEAM_0:0:121143569): Scanner
+Sat Oct 20 10:16:11 2018	Mark Zuckerberg (STEAM_0:1:85567021): what category is it
+Sat Oct 20 10:16:17 2018	Jeroma (STEAM_0:0:121143569): Non
+Sat Oct 20 10:16:51 2018	Jeroma (STEAM_0:0:121143569): You mirrored it?
+Sat Oct 20 10:16:59 2018	Mark Zuckerberg (STEAM_0:1:85567021): yeah
+Sat Oct 20 10:17:08 2018	Jeroma (STEAM_0:0:121143569): Stay close
+Sat Oct 20 10:17:25 2018	Rainbow Tom (STEAM_0:0:62028984): /advert <flash c=255,0,0> Unit responding to AOS</flash> :exclamation:
+Sat Oct 20 10:17:30 2018	Rainbow Tom (STEAM_0:0:62028984): // ignore
+Sat Oct 20 10:17:44 2018	Not GimON (STEAM_0:0:95660701): 
+Sat Oct 20 10:20:10 2018	Jeroma (STEAM_0:0:121143569): You can make a checkpoint if you want
+Sat Oct 20 10:20:14 2018	Jeroma (STEAM_0:0:121143569): For extra
+Sat Oct 20 10:28:22 2018	Jeroma (STEAM_0:0:121143569): Wanna dupe this?
+Sat Oct 20 10:28:27 2018	Mark Zuckerberg (STEAM_0:1:85567021): sure
+Sat Oct 20 10:28:34 2018	Mark Zuckerberg (STEAM_0:1:85567021): want me to weld my stuff to it?
+Sat Oct 20 10:28:40 2018	Jeroma (STEAM_0:0:121143569): Nah
+Sat Oct 20 10:29:10 2018	Jeroma (STEAM_0:0:121143569): Dupe it
+Sat Oct 20 10:29:16 2018	Jeroma (STEAM_0:0:121143569): Stand in the middle
+Sat Oct 20 10:29:16 2018	Mark Zuckerberg (STEAM_0:1:85567021): thx
+Sat Oct 20 10:29:21 2018	Mark Zuckerberg (STEAM_0:1:85567021): i got it
+Sat Oct 20 10:29:33 2018	Jeroma (STEAM_0:0:121143569): Save it
+Sat Oct 20 10:30:23 2018	Rainbow Tom (STEAM_0:0:62028984): /advert <flash c=255,0,0> Unit responding to AOS</flash> :exclamation:
+Sat Oct 20 10:32:05 2018	Jeroma (STEAM_0:0:121143569): /advert 4198
+Sat Oct 20 10:32:19 2018	Papa Joel (STEAM_0:0:50791607) has joined the game
+Sat Oct 20 10:32:19 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Sat Oct 20 10:32:39 2018	Rainbow Tom (STEAM_0:0:62028984) disconnected
+Sat Oct 20 10:33:14 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) has joined the game
+Sat Oct 20 10:33:14 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 10:35:49 2018	Jeroma (STEAM_0:0:121143569): Now its finished
+Sat Oct 20 10:35:57 2018	Mark Zuckerberg (STEAM_0:1:85567021): nice
+Sat Oct 20 10:36:38 2018	Jeroma (STEAM_0:0:121143569): Is this overkill?
+Sat Oct 20 10:36:44 2018	Mark Zuckerberg (STEAM_0:1:85567021): nah
+Sat Oct 20 10:36:47 2018	Mark Zuckerberg (STEAM_0:1:85567021): its good
+Sat Oct 20 10:37:25 2018	Washed up Bhopper (STEAM_0:0:62970398) has joined the game
+Sat Oct 20 10:37:25 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 10:37:45 2018	Jeroma (STEAM_0:0:121143569): Gimon is this kind of security overkill?
+Sat Oct 20 10:37:50 2018	Not GimON (STEAM_0:0:95660701): dunno
+Sat Oct 20 10:37:53 2018	Jeroma (STEAM_0:0:121143569): Also
+Sat Oct 20 10:37:56 2018	Jeroma (STEAM_0:0:121143569): There is another
+Sat Oct 20 10:37:58 2018	Jeroma (STEAM_0:0:121143569): Checkpoint
+Sat Oct 20 10:38:03 2018	Jeroma (STEAM_0:0:121143569): Past this one
+Sat Oct 20 10:38:07 2018	Not GimON (STEAM_0:0:95660701): yeet
+Sat Oct 20 10:38:31 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 10:39:51 2018	Jeroma (STEAM_0:0:121143569): Hello
+Sat Oct 20 10:40:03 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): no
+Sat Oct 20 10:40:08 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 10:40:14 2018	Jeroma (STEAM_0:0:121143569): Not here buddy its in the lobby
+Sat Oct 20 10:40:16 2018	Jeroma (STEAM_0:0:121143569): This is the core
+Sat Oct 20 10:40:22 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:40:26 2018	Jeroma (STEAM_0:0:121143569): Use this 
+Sat Oct 20 10:40:41 2018	Jeroma (STEAM_0:0:121143569): Cya
+Sat Oct 20 10:40:56 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_airboat
+Sat Oct 20 10:40:58 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_jeep
+Sat Oct 20 10:40:59 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:41:27 2018	Jeroma (STEAM_0:0:121143569): Mark
+Sat Oct 20 10:41:41 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:41:42 2018	Jeroma (STEAM_0:0:121143569): Gimon
+Sat Oct 20 10:41:50 2018	Jeroma (STEAM_0:0:121143569): Want to make another security checkpoint?
+Sat Oct 20 10:42:09 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:42:26 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms 049 glitched himself out 
+Sat Oct 20 10:42:55 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:42:56 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 10:42:58 2018	Jeroma (STEAM_0:0:121143569): Thats
+Sat Oct 20 10:43:01 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:43:02 2018	Jeroma (STEAM_0:0:121143569): Pretty good
+Sat Oct 20 10:43:06 2018	Jeroma (STEAM_0:0:121143569): How
+Sat Oct 20 10:43:25 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): / also need security with ram in cell 1
+Sat Oct 20 10:43:41 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms also need security with ram in cell 1
+Sat Oct 20 10:44:07 2018	Jeroma (STEAM_0:0:121143569): /Y Bad
+Sat Oct 20 10:44:13 2018	Jeroma (STEAM_0:0:121143569): 049
+Sat Oct 20 10:44:14 2018	Jeroma (STEAM_0:0:121143569): Watchout
+Sat Oct 20 10:44:14 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms now
+Sat Oct 20 10:44:47 2018	Jeroma (STEAM_0:0:121143569): /pm Gam Coming
+Sat Oct 20 10:46:04 2018	Jeroma (STEAM_0:0:121143569): 
+Sat Oct 20 10:46:12 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:46:14 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:46:19 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:46:53 2018	Papa Joel was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 10:46:54 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Sat Oct 20 10:48:10 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Sat Oct 20 10:48:19 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 10:48:23 2018	Jeroma (STEAM_0:0:121143569): Make this accesable
+Sat Oct 20 10:48:31 2018	Jeroma (STEAM_0:0:121143569): I cant use this
+Sat Oct 20 10:49:00 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 10:49:00 2018	Jeroma (STEAM_0:0:121143569): Im starving
+Sat Oct 20 10:50:05 2018	Jeroma (STEAM_0:0:121143569): Dont walk away
+Sat Oct 20 10:50:21 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 10:50:29 2018	Jeroma (STEAM_0:0:121143569): How do you use the weapon
+Sat Oct 20 10:50:32 2018	Jeroma (STEAM_0:0:121143569): Synthesiser
+Sat Oct 20 10:50:40 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 10:50:41 2018	Jeroma (STEAM_0:0:121143569): Follow me
+Sat Oct 20 10:51:00 2018	Jeroma (STEAM_0:0:121143569): Type
+Sat Oct 20 10:51:06 2018	Jeroma (STEAM_0:0:121143569): Stopsound in console
+Sat Oct 20 10:51:12 2018	Papa Joel was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:51:15 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Sat Oct 20 10:51:15 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:51:40 2018	Jeroma (STEAM_0:0:121143569): Im gonna
+Sat Oct 20 10:51:42 2018	Jeroma (STEAM_0:0:121143569): Starve to death
+Sat Oct 20 10:51:53 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 10:52:38 2018	Mark Zuckerberg was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:52:41 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 10:53:46 2018	Jeroma (STEAM_0:0:121143569): Nothing
+Sat Oct 20 10:53:55 2018	Jeroma (STEAM_0:0:121143569): We need a chef
+Sat Oct 20 10:54:06 2018	Jeroma (STEAM_0:0:121143569): Ples become one
+Sat Oct 20 10:54:24 2018	Mark Zuckerberg was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:54:26 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 10:54:38 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 10:54:42 2018	Jeroma (STEAM_0:0:121143569): im still
+Sat Oct 20 10:54:44 2018	Jeroma (STEAM_0:0:121143569): Starving
+Sat Oct 20 10:56:22 2018	Mark Zuckerberg was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:56:23 2018	Jeroma (STEAM_0:0:121143569): They
+Sat Oct 20 10:56:25 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 10:57:48 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:57:49 2018	Jeroma (STEAM_0:0:121143569): !bet 20
+Sat Oct 20 10:58:10 2018	Jeroma (STEAM_0:0:121143569): You know
+Sat Oct 20 10:58:13 2018	Jeroma (STEAM_0:0:121143569): You can use that way
+Sat Oct 20 10:58:20 2018	Jeroma (STEAM_0:0:121143569): Because
+Sat Oct 20 10:58:23 2018	Jeroma (STEAM_0:0:121143569): Your volume
+Sat Oct 20 10:58:25 2018	Jeroma (STEAM_0:0:121143569): is up
+Sat Oct 20 10:58:37 2018	Jeroma (STEAM_0:0:121143569): The thing that makes stuff loud
+Sat Oct 20 10:58:43 2018	Jeroma (STEAM_0:0:121143569): You have it high up
+Sat Oct 20 10:59:00 2018	Papa Joel was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:59:03 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Sat Oct 20 10:59:05 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 10:59:34 2018	Washed up Bhopper was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 10:59:36 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 10:59:47 2018	Jeroma (STEAM_0:0:121143569): Sir
+Sat Oct 20 10:59:51 2018	Jeroma (STEAM_0:0:121143569): You cant be here
+Sat Oct 20 10:59:54 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 10:59:55 2018	Jeroma (STEAM_0:0:121143569): I have to arrest you
+Sat Oct 20 11:00:06 2018	Not GimON was killed by Jeroma with a cw_shorty
+Sat Oct 20 11:00:08 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:00:20 2018	Jeroma (STEAM_0:0:121143569): Its
+Sat Oct 20 11:00:22 2018	Jeroma (STEAM_0:0:121143569): A teleporter
+Sat Oct 20 11:00:40 2018	Papa Joel (STEAM_0:0:50791607) disconnected
+Sat Oct 20 11:01:20 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /y help
+Sat Oct 20 11:01:21 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): help
+Sat Oct 20 11:01:26 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): help
+Sat Oct 20 11:01:28 2018	Jeroma (STEAM_0:0:121143569): /pm cak turn on the
+Sat Oct 20 11:01:29 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): help
+Sat Oct 20 11:01:30 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): help
+Sat Oct 20 11:01:41 2018	Jeroma (STEAM_0:0:121143569): /pm CAKe The alarm if you need help
+Sat Oct 20 11:01:49 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /pm J im stuck in your checkpoint
+Sat Oct 20 11:02:01 2018	Mark Zuckerberg was killed by Jeroma with a cw_g36c
+Sat Oct 20 11:02:03 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 11:02:44 2018	Washed up Bhopper (STEAM_0:0:62970398): 
+Sat Oct 20 11:02:47 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /pm Jer and i think Terrorists are comin
+Sat Oct 20 11:02:57 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Not GimON with a cw_l85a2
+Sat Oct 20 11:03:25 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:03:26 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:03:37 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 11:03:57 2018	Mark Zuckerberg was killed by Himself with a suicide trick
+Sat Oct 20 11:04:00 2018	Jeroma was killed by Not GimON with a cw_l85a2
+Sat Oct 20 11:04:01 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:05:33 2018	Not GimON was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:05:36 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:07:01 2018	Washed up Bhopper was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 11:07:02 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:07:28 2018	Washed up Bhopper (STEAM_0:0:62970398): /Drop
+Sat Oct 20 11:08:02 2018	Washed up Bhopper was killed by Jeroma with a cw_shorty
+Sat Oct 20 11:08:03 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:08:19 2018	Washed up Bhopper was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 11:08:20 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:08:29 2018	Not GimON was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:08:31 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:09:13 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 11:10:01 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 11:10:18 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 11:11:09 2018	Jeroma (STEAM_0:0:121143569): // to the rocket
+Sat Oct 20 11:11:19 2018	Jeroma (STEAM_0:0:121143569): /Y RUN
+Sat Oct 20 11:11:45 2018	Jeroma (STEAM_0:0:121143569): // The Cooldown code worked nice
+Sat Oct 20 11:12:16 2018	Not GimON was killed by GamerCakeTV  [CrypRP.com][BRG] with a cw_deagle
+Sat Oct 20 11:12:17 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:12:26 2018	Jeroma (STEAM_0:0:121143569): No
+Sat Oct 20 11:12:28 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 11:12:30 2018	Jeroma (STEAM_0:0:121143569): I already
+Sat Oct 20 11:12:35 2018	Jeroma (STEAM_0:0:121143569): Used the cooldown code
+Sat Oct 20 11:12:42 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 11:12:56 2018	Jeroma (STEAM_0:0:121143569): // Who was in the rocket?
+Sat Oct 20 11:13:10 2018	Jeroma (STEAM_0:0:121143569): Fast
+Sat Oct 20 11:14:03 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 11:14:09 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 11:14:14 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:15:54 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:16:03 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:16:29 2018	Jeroma was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:16:31 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:16:33 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Sat Oct 20 11:16:33 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:17:16 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:17:38 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:17:47 2018	Jeroma was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:17:49 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:17:51 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:17:55 2018	Not GimON was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:17:57 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:18:01 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:18:33 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:18:42 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:19:14 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:19:47 2018	[NWA]Dank Memes Reho was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:19:48 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:19:53 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:20:11 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:20:42 2018	Washed up Bhopper was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:20:43 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:20:55 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:21:03 2018	Flap Flap (STEAM_0:1:419151052): /advert oh shit
+Sat Oct 20 11:21:09 2018	Flap Flap (STEAM_0:1:419151052): /advert meltdown
+Sat Oct 20 11:21:16 2018	Jeroma (STEAM_0:0:121143569): // Get to the generator
+Sat Oct 20 11:22:16 2018	Jeroma (STEAM_0:0:121143569): /advert Everyone to the rocket
+Sat Oct 20 11:22:21 2018	Washed up Bhopper (STEAM_0:0:62970398): /advert its gone fucker
+Sat Oct 20 11:22:39 2018	Jeroma (STEAM_0:0:121143569): /advert Get to the generator and use the cooldown code 4198
+Sat Oct 20 11:22:44 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms COOL DIS SHIT DOWN
+Sat Oct 20 11:22:55 2018	Washed up Bhopper (STEAM_0:0:62970398): /advert its already been used
+Sat Oct 20 11:23:02 2018	Jeroma (STEAM_0:0:121143569): /advert Try again
+Sat Oct 20 11:23:02 2018	Washed up Bhopper (STEAM_0:0:62970398): /advert nothing saving u now
+Sat Oct 20 11:23:08 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sat Oct 20 11:23:08 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:23:28 2018	Jeroma was killed by Not GimON with a cw_l85a2
+Sat Oct 20 11:23:29 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:23:32 2018	Flap Flap (STEAM_0:1:419151052): dud sotp
+Sat Oct 20 11:23:34 2018	Flap Flap (STEAM_0:1:419151052): /y stop
+Sat Oct 20 11:23:35 2018	Jeroma (STEAM_0:0:121143569): // Were fucked
+Sat Oct 20 11:23:35 2018	Flap Flap (STEAM_0:1:419151052): /y ahh
+Sat Oct 20 11:23:45 2018	Flap Flap was killed by [NWA]Dank Memes Reho with a fas2_thrown_m67
+Sat Oct 20 11:23:50 2018	Kilroy (STEAM_0:0:138507625): /oo cant hear anything
+Sat Oct 20 11:23:50 2018	Washed up Bhopper (STEAM_0:0:62970398): /advert u are all going to paradise with allah
+Sat Oct 20 11:23:57 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:24:01 2018	Jeroma was killed by Himself with a suicide trick
+Sat Oct 20 11:24:01 2018	Flap Flap (STEAM_0:1:419151052): /demote Dank RDM
+Sat Oct 20 11:24:01 2018	Flap Flap(STEAM_0:1:419151052)[Visitor] has started a vote for the demotion of [NWA]Dank Memes Reho(STEAM_0:1:117807747)[Head of SWAT] for RDM
+Sat Oct 20 11:24:02 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:24:09 2018	Jeroma (STEAM_0:0:121143569): !menu
+Sat Oct 20 11:24:20 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms Oh hey its pizza day
+Sat Oct 20 11:24:23 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:24:48 2018	Jeroma (STEAM_0:0:121143569): // Rop
+Sat Oct 20 11:25:09 2018	Jeroma was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:09 2018	Not GimON was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:09 2018	Washed up Bhopper was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:09 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:11 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:14 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:25:16 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:17 2018	Washed up Bhopper (STEAM_0:0:62970398): gege
+Sat Oct 20 11:25:17 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 11:25:18 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:25:19 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:22 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:24 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:26 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:31 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:32 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:34 2018	[NWA]Dank Memes Reho was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:35 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:25:37 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:38 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:40 2018	[NWA]Dank Memes Reho was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:42 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:25:43 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:25:45 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:46 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	Jeroma was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	Mark Zuckerberg was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	Not GimON was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	Washed up Bhopper was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	Flap Flap was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	[NWA]Dank Memes Reho was killed by Himself with a suicide trick
+Sat Oct 20 11:25:46 2018	Kilroy was killed by Himself with a suicide trick
+Sat Oct 20 11:25:49 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:25:49 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:25:49 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:25:49 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:25:50 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:25:50 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:25:53 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /advert FOR CHAOS!
+Sat Oct 20 11:25:53 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 11:26:06 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:26:08 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:26:13 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:26:20 2018	Kilroy (STEAM_0:0:138507625): /advert I AM BACK 
+Sat Oct 20 11:26:23 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:26:23 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 11:26:27 2018	Kilroy was killed by Washed up Bhopper with a cw_l85a2
+Sat Oct 20 11:26:28 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:26:30 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:26:38 2018	Jeroma (STEAM_0:0:121143569): Get to the reactor
+Sat Oct 20 11:26:48 2018	Jeroma (STEAM_0:0:121143569): Im gonna put
+Sat Oct 20 11:26:52 2018	Jeroma (STEAM_0:0:121143569): My checkpoint down
+Sat Oct 20 11:26:55 2018	Jeroma (STEAM_0:0:121143569): When i get there
+Sat Oct 20 11:26:56 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:27:23 2018	Kilroy (STEAM_0:0:138507625): /ooc someone become plant director
+Sat Oct 20 11:27:36 2018	Jeroma (STEAM_0:0:121143569): No
+Sat Oct 20 11:27:57 2018	Jeroma (STEAM_0:0:121143569): Dont let it
+Sat Oct 20 11:27:59 2018	Jeroma (STEAM_0:0:121143569): Hahahha
+Sat Oct 20 11:28:08 2018	Jeroma (STEAM_0:0:121143569): We left it
+Sat Oct 20 11:28:18 2018	Jeroma (STEAM_0:0:121143569): Its
+Sat Oct 20 11:28:22 2018	Jeroma (STEAM_0:0:121143569): Controlled by a player
+Sat Oct 20 11:28:25 2018	Jeroma (STEAM_0:0:121143569): Reho
+Sat Oct 20 11:28:28 2018	Jeroma (STEAM_0:0:121143569): If meltdown happens
+Sat Oct 20 11:28:33 2018	Jeroma (STEAM_0:0:121143569): Get to the generator room
+Sat Oct 20 11:28:37 2018	Jeroma (STEAM_0:0:121143569): and use this code
+Sat Oct 20 11:28:38 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 11:28:45 2018	Jeroma (STEAM_0:0:121143569): Its the cooldown
+Sat Oct 20 11:28:46 2018	Jeroma (STEAM_0:0:121143569): Code
+Sat Oct 20 11:28:59 2018	Jeroma (STEAM_0:0:121143569): So ye
+Sat Oct 20 11:29:03 2018	Jeroma (STEAM_0:0:121143569): We might have to use it
+Sat Oct 20 11:29:15 2018	Jeroma (STEAM_0:0:121143569): We have a disadvantag
+Sat Oct 20 11:29:22 2018	Jeroma (STEAM_0:0:121143569): We spawn
+Sat Oct 20 11:29:26 2018	Jeroma (STEAM_0:0:121143569): Very far away
+Sat Oct 20 11:30:04 2018	Flap Flap (STEAM_0:1:419151052): /ooc pls download turok dinll;prdf;prrppr
+Sat Oct 20 11:30:28 2018	[NWA]Dank Memes Reho was killed by Not GimON with a cw_shorty
+Sat Oct 20 11:30:29 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:30:30 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:30:40 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:31:38 2018	Jeroma was killed by Not GimON with a cw_shorty
+Sat Oct 20 11:31:39 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:31:46 2018	Flap Flap (STEAM_0:1:419151052): /looc Frp.
+Sat Oct 20 11:31:53 2018	Flap Flap (STEAM_0:1:419151052): /name OOC
+Sat Oct 20 11:31:57 2018	Flap Flap was killed by Kilroy with a cw_scarh
+Sat Oct 20 11:32:16 2018	Flap Flap (STEAM_0:1:419151052): /ooc They did not even wait 10 minutes after the meltdown
+Sat Oct 20 11:32:26 2018	Flap Flap (STEAM_0:1:419151052): /ooc and decide to spawncamp director, owner spawn
+Sat Oct 20 11:32:28 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:32:30 2018	Not GimON (STEAM_0:0:95660701): // Osama is just dumb
+Sat Oct 20 11:32:30 2018	Kilroy (STEAM_0:0:138507625): /ooc WE CAN GO INTO THE SIGHT BEFOR 15 MINS
+Sat Oct 20 11:32:41 2018	Flap Flap (STEAM_0:1:419151052): /ooc You cant.
+Sat Oct 20 11:32:45 2018	Flap Flap (STEAM_0:1:419151052): /ooc Read the fucking rules asshole
+Sat Oct 20 11:32:46 2018	Jeroma (STEAM_0:0:121143569): !motd
+Sat Oct 20 11:32:59 2018	Kilroy (STEAM_0:0:138507625): /ooc I DID AND ALSO TALKED TO FAT GAY ABOUT IT CUNT
+Sat Oct 20 11:33:02 2018	Not GimON was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 11:33:03 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:33:11 2018	Flap Flap (STEAM_0:1:419151052): /ooc Where's your proof? 'cunt'
+Sat Oct 20 11:33:27 2018	Kilroy (STEAM_0:0:138507625): /ooc where your proof that that is a rule cunt
+Sat Oct 20 11:33:40 2018	Not GimON (STEAM_0:0:95660701): // In terrorists lobby it says u have to wait 15min after meltdown to break out scp's and destroy the core
+Sat Oct 20 11:33:42 2018	Washed up Bhopper was killed by [NWA]Dank Memes Reho with a cw_shorty
+Sat Oct 20 11:33:43 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:33:45 2018	Not GimON (STEAM_0:0:95660701): // Nothing about leaving
+Sat Oct 20 11:33:47 2018	Flap Flap (STEAM_0:1:419151052): /ooc You cant even spell correctly
+Sat Oct 20 11:33:54 2018	Kilroy (STEAM_0:0:138507625): /ooc yes nothing about killing
+Sat Oct 20 11:34:01 2018	Flap Flap (STEAM_0:1:419151052): /ooc It means the same, terrorists cant come in
+Sat Oct 20 11:34:04 2018	Jeroma (STEAM_0:0:121143569): !motd
+Sat Oct 20 11:34:06 2018	Kilroy (STEAM_0:0:138507625): /ooc just scps and meltdown
+Sat Oct 20 11:34:12 2018	Flap Flap (STEAM_0:1:419151052): /ooc It's common sense.
+Sat Oct 20 11:34:17 2018	Kilroy (STEAM_0:0:138507625): /ooc no its not
+Sat Oct 20 11:34:21 2018	Flap Flap (STEAM_0:1:419151052): /ooc It is.
+Sat Oct 20 11:34:21 2018	Not GimON (STEAM_0:0:95660701): !motd
+Sat Oct 20 11:34:34 2018	Flap Flap (STEAM_0:1:419151052): /ooc Just because something isnt in the rules dosent mean it actually isnt a rule
+Sat Oct 20 11:34:37 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 11:34:38 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:34:49 2018	Kilroy (STEAM_0:0:138507625): /ooc YOUR RETARDED THATS WHY WE HAVE RULES
+Sat Oct 20 11:34:50 2018	Washed up Bhopper (STEAM_0:0:62970398): // wtf 
+Sat Oct 20 11:34:54 2018	Washed up Bhopper (STEAM_0:0:62970398): // u stopid
+Sat Oct 20 11:35:01 2018	Flap Flap (STEAM_0:1:419151052): /ooc So im retarted?
+Sat Oct 20 11:35:10 2018	Flap Flap (STEAM_0:1:419151052): /ooc Who's the one not knowing what common sense is?
+Sat Oct 20 11:35:12 2018	Not GimON (STEAM_0:0:95660701): // Why do we even have this conversation
+Sat Oct 20 11:35:15 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // uhh
+Sat Oct 20 11:35:24 2018	Kilroy (STEAM_0:0:138507625): /ooc just accepted the fact that youy wrong
+Sat Oct 20 11:35:41 2018	Flap Flap (STEAM_0:1:419151052): /ooc I know im right, You're the person who cant read
+Sat Oct 20 11:35:41 2018	Washed up Bhopper was killed by Jeroma with a cw_deagle
+Sat Oct 20 11:35:50 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:35:58 2018	Jeroma (STEAM_0:0:121143569): Sir
+Sat Oct 20 11:36:01 2018	Jeroma (STEAM_0:0:121143569): Please leave
+Sat Oct 20 11:36:03 2018	Jeroma (STEAM_0:0:121143569): For a bit
+Sat Oct 20 11:36:05 2018	Kilroy (STEAM_0:0:138507625): /ooc https://steamuserimages-a.akamaihd.net/ugc/938330927730773813/F5655846010A4FFB8192D7C801F31A7D56C44A49/
+Sat Oct 20 11:36:11 2018	Kilroy (STEAM_0:0:138507625): /ooc read that'
+Sat Oct 20 11:36:11 2018	Jeroma (STEAM_0:0:121143569): Were constructing a checkpoint
+Sat Oct 20 11:36:14 2018	Jeroma (STEAM_0:0:121143569): Or finishing
+Sat Oct 20 11:36:18 2018	Jeroma (STEAM_0:0:121143569): You can come back later
+Sat Oct 20 11:36:36 2018	Flap Flap (STEAM_0:1:419151052): /ooc It's common sense
+Sat Oct 20 11:37:05 2018	Kilroy (STEAM_0:0:138507625): /ooc we have rules to tell us what we cant do I dont need you to do that thanks
+Sat Oct 20 11:37:07 2018	Flap Flap (STEAM_0:1:419151052): /ooc Just because it isnt there dosent mean that you cant camp my spawn, Own props that belong to me.
+Sat Oct 20 11:37:16 2018	Not GimON (STEAM_0:0:95660701): // I have no fucking idea why this argument even exists
+Sat Oct 20 11:37:36 2018	Flap Flap (STEAM_0:1:419151052): /ooc Because some whiny kid dosent know what common sense is.
+Sat Oct 20 11:37:57 2018	Not GimON (STEAM_0:0:95660701): // I was coming in peace, sightseeing 
+Sat Oct 20 11:38:17 2018	Not GimON (STEAM_0:0:95660701): // In the lobby it should say that you have to wait 15min to do any terrorist acts
+Sat Oct 20 11:38:22 2018	Not GimON was killed by Jeroma with a fas2_thrown_m67
+Sat Oct 20 11:38:22 2018	Kilroy was killed by Jeroma with a fas2_thrown_m67
+Sat Oct 20 11:38:25 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:38:25 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:38:36 2018	Flap Flap (STEAM_0:1:419151052): /ooc It's the same, there is a rule about instantly coming to kill the new director 1 minute after the meltdown
+Sat Oct 20 11:38:56 2018	Not GimON (STEAM_0:0:95660701): // I'd check and read it but forum seems to be down
+Sat Oct 20 11:39:01 2018	Kilroy (STEAM_0:0:138507625): /ooc it was 1 min after melt down when we killed you
+Sat Oct 20 11:39:19 2018	Jeep™ (STEAM_0:0:77324839) has joined the game
+Sat Oct 20 11:39:19 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sat Oct 20 11:39:20 2018	Not GimON (STEAM_0:0:95660701): // I believe u tho that u can't kill someone after spawning so i was just sightseeing
+Sat Oct 20 11:39:23 2018	Flap Flap (STEAM_0:1:419151052): /ooc Kid, quit this arguement.
+Sat Oct 20 11:39:35 2018	Flap Flap (STEAM_0:1:419151052): /ooc If I was an admin you would not be saying this
+Sat Oct 20 11:39:40 2018	Flap Flap (STEAM_0:1:419151052): /ooc You would already be warned
+Sat Oct 20 11:39:45 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms Resarcher room thing fully engineered with all doors and stuff
+Sat Oct 20 11:39:53 2018	Kilroy (STEAM_0:0:138507625): /ooc your the fucking kid here not holding up an agrument need help CDWDWS
+Sat Oct 20 11:40:14 2018	Flap Flap (STEAM_0:1:419151052): /ooc 'Im the kid'
+Sat Oct 20 11:40:18 2018	Not GimON (STEAM_0:0:95660701): // Kilroy, ur the one acting like ur 9 tho
+Sat Oct 20 11:40:24 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // FFS GUYS
+Sat Oct 20 11:40:27 2018	Jeroma was killed by Kilroy with a cw_scarh
+Sat Oct 20 11:40:28 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 11:40:56 2018	Flap Flap (STEAM_0:1:419151052): /ooc Yet im a kid.
+Sat Oct 20 11:40:59 2018	Not GimON (STEAM_0:0:95660701): // Talking to you both now, can you just shake hands and forget that anything happened?
+Sat Oct 20 11:41:15 2018	Flap Flap (STEAM_0:1:419151052): /ooc When he stops argueing, yeah.
+Sat Oct 20 11:41:24 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // ....
+Sat Oct 20 11:41:33 2018	Flap Flap was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 11:41:35 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:41:38 2018	[NWA]Dank Memes Reho was killed by Kilroy with a fas2_thrown_m67
+Sat Oct 20 11:41:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:42:00 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:42:07 2018	Kilroy (STEAM_0:0:138507625): /advert Its been 15 mins
+Sat Oct 20 11:42:17 2018	Jeroma (STEAM_0:0:121143569): /pm Mem Check on the core make sure everything is deactivate or on low setting
+Sat Oct 20 11:42:23 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Sat Oct 20 11:42:24 2018	Big Bill (STEAM_0:0:45838915) has joined the game
+Sat Oct 20 11:42:24 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 11:42:25 2018	Jeroma (STEAM_0:0:121143569): I need to protect
+Sat Oct 20 11:42:27 2018	Jeroma (STEAM_0:0:121143569): The Core
+Sat Oct 20 11:42:37 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sat Oct 20 11:43:03 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 11:43:46 2018	Jeep™ (STEAM_0:0:77324839) disconnected
+Sat Oct 20 11:45:17 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Sat Oct 20 11:45:17 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:45:27 2018	Washed up Bhopper was killed by Jeroma with a cw_deagle
+Sat Oct 20 11:45:28 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:45:37 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 11:45:41 2018	Kilroy was killed by Jeroma with a cw_deagle
+Sat Oct 20 11:45:43 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 11:45:50 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 11:46:03 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Sat Oct 20 11:46:18 2018	Jeroma (STEAM_0:0:121143569): Get outside
+Sat Oct 20 11:47:06 2018	Jeroma (STEAM_0:0:121143569): What
+Sat Oct 20 11:47:08 2018	Jeroma (STEAM_0:0:121143569): Did you say
+Sat Oct 20 11:47:13 2018	Jeroma (STEAM_0:0:121143569): I dont think so
+Sat Oct 20 11:47:21 2018	Jeroma (STEAM_0:0:121143569): You cant do nothing up there anyway
+Sat Oct 20 11:47:23 2018	Jeroma (STEAM_0:0:121143569): Gonna check
+Sat Oct 20 11:47:41 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): make sure yall r on radio
+Sat Oct 20 11:47:49 2018	Washed up Bhopper (STEAM_0:0:62970398): no 
+Sat Oct 20 11:48:06 2018	Jeroma (STEAM_0:0:121143569): I only have the Executives Channel
+Sat Oct 20 11:48:16 2018	Bill Foreman (STEAM_0:0:45838915) disconnected
+Sat Oct 20 11:48:18 2018	Not GimON (STEAM_0:0:95660701): RMB?
+Sat Oct 20 11:48:36 2018	Jeroma (STEAM_0:0:121143569): Nope
+Sat Oct 20 11:48:57 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:49:36 2018	Jeroma (STEAM_0:0:121143569): /y Wait
+Sat Oct 20 11:49:59 2018	Big Bill (STEAM_0:0:45838915) has joined the game
+Sat Oct 20 11:49:59 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 11:50:01 2018	Jeroma (STEAM_0:0:121143569): /Y Ye
+Sat Oct 20 11:50:43 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 11:50:51 2018	Jeroma (STEAM_0:0:121143569): You know
+Sat Oct 20 11:50:53 2018	Jeroma (STEAM_0:0:121143569): I cant
+Sat Oct 20 11:50:57 2018	Jeroma (STEAM_0:0:121143569): Hear you on comms
+Sat Oct 20 11:51:04 2018	Jeroma (STEAM_0:0:121143569): I only have the executives channel
+Sat Oct 20 11:51:06 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 11:51:39 2018	Jeroma (STEAM_0:0:121143569): Shit
+Sat Oct 20 11:51:41 2018	Jeroma (STEAM_0:0:121143569): You 
+Sat Oct 20 11:51:45 2018	Jeroma (STEAM_0:0:121143569): Sorry
+Sat Oct 20 11:51:48 2018	Jeroma (STEAM_0:0:121143569): You ran infront
+Sat Oct 20 11:51:53 2018	Jeroma (STEAM_0:0:121143569): Stop
+Sat Oct 20 11:51:56 2018	Jeroma (STEAM_0:0:121143569): /Y stop
+Sat Oct 20 11:52:17 2018	Jeroma (STEAM_0:0:121143569): Why are we here?
+Sat Oct 20 11:52:18 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 11:52:32 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert scp 049 is in the facility
+Sat Oct 20 11:52:40 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:53:49 2018	Jeroma (STEAM_0:0:121143569): good and you?
+Sat Oct 20 11:54:02 2018	Not GimON (STEAM_0:0:95660701) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 11:54:04 2018	Jeroma (STEAM_0:0:121143569): So
+Sat Oct 20 11:54:05 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc get a radio and turn into the scp channel!
+Sat Oct 20 11:54:08 2018	Jeroma (STEAM_0:0:121143569): How we get out?
+Sat Oct 20 11:54:22 2018	Jeroma (STEAM_0:0:121143569): // Thats doesnt work
+Sat Oct 20 11:54:28 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms Rocket has been secured with fences conected to scanners
+Sat Oct 20 11:54:48 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert the scientist across the hall notices scp 049 observing him from his chamber
+Sat Oct 20 11:55:36 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Observing?
+Sat Oct 20 11:59:40 2018	Flap Flap (STEAM_0:1:419151052): /advert abc
+Sat Oct 20 11:59:45 2018	Flap Flap (STEAM_0:1:419151052): /announce hi
+Sat Oct 20 11:59:48 2018	Jeroma (STEAM_0:0:121143569):  I made
+Sat Oct 20 11:59:51 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 11:59:52 2018	Jeroma (STEAM_0:0:121143569): Some extra security
+Sat Oct 20 11:59:53 2018	Jeroma (STEAM_0:0:121143569): For 
+Sat Oct 20 11:59:55 2018	Flap Flap (STEAM_0:1:419151052): /announce test
+Sat Oct 20 11:59:58 2018	Jeroma (STEAM_0:0:121143569): The plant owner
+Sat Oct 20 12:00:04 2018	Jeroma (STEAM_0:0:121143569): /Director
+Sat Oct 20 12:00:14 2018	Jeroma (STEAM_0:0:121143569): or Director
+Sat Oct 20 12:00:28 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert *scp 049 hungers for pizza*
+Sat Oct 20 12:00:36 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 12:00:41 2018	Jeroma (STEAM_0:0:121143569): Can i dupe
+Sat Oct 20 12:00:43 2018	Jeroma (STEAM_0:0:121143569): Your teleporter
+Sat Oct 20 12:02:22 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Sat Oct 20 12:02:50 2018	ShadowHunter13 (STEAM_0:1:155725835) has joined the game
+Sat Oct 20 12:02:50 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:03:12 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /advert Feeding SCP-049 food type: "pizza"
+Sat Oct 20 12:03:57 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /advert scp 049 have been fed
+Sat Oct 20 12:05:12 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert * feels content from pizza 049 will remain content for now*
+Sat Oct 20 12:05:18 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:06:02 2018	ShadowHunter13 (STEAM_0:1:155725835): /adert don't kill me i want a pizza
+Sat Oct 20 12:06:17 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert don't kill me i want a pizza
+Sat Oct 20 12:06:51 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms Every Terrorist is to be executed in the plant
+Sat Oct 20 12:07:01 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert why
+Sat Oct 20 12:07:09 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert i want a pizza
+Sat Oct 20 12:07:37 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms oh god help me
+Sat Oct 20 12:07:45 2018	ShadowHunter13 was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Oct 20 12:08:03 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:08:37 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms false alarm Im building up my office if anybody needs me il be there
+Sat Oct 20 12:08:50 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /sellalldoors
+Sat Oct 20 12:11:20 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert *scp-049 demands a patient or he will get restless*
+Sat Oct 20 12:12:13 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert containment breach
+Sat Oct 20 12:12:27 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert * the hunt begins*
+Sat Oct 20 12:13:46 2018	Jeroma (STEAM_0:0:121143569): This
+Sat Oct 20 12:13:50 2018	Jeroma (STEAM_0:0:121143569): Is boring
+Sat Oct 20 12:14:04 2018	Jeroma (STEAM_0:0:121143569): Maybe
+Sat Oct 20 12:14:13 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert ALL WILL BE PURIFIED STARTING WITH THE SCIENTIST
+Sat Oct 20 12:14:51 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:15:23 2018	Jeroma (STEAM_0:0:121143569): The Desert eagle is good
+Sat Oct 20 12:15:32 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ADVERT THE FIRST ONE HAS BEEN CURED
+Sat Oct 20 12:15:37 2018	Jeroma (STEAM_0:0:121143569): It does 64 dmg
+Sat Oct 20 12:15:59 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert we will bring the cure around the facility
+Sat Oct 20 12:16:01 2018	Jeroma (STEAM_0:0:121143569): It actually
+Sat Oct 20 12:16:03 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ADVERT AHHHH THE CORE
+Sat Oct 20 12:16:06 2018	Jeroma (STEAM_0:0:121143569): Can do 160 dmg
+Sat Oct 20 12:16:27 2018	Jeroma (STEAM_0:0:121143569): /Y Hello
+Sat Oct 20 12:16:52 2018	ShadowHunter13 (STEAM_0:1:155725835): !bet 2000
+Sat Oct 20 12:17:39 2018	Jeroma (STEAM_0:0:121143569): So
+Sat Oct 20 12:17:46 2018	Jeroma (STEAM_0:0:121143569): Hes not gonan acomplish much
+Sat Oct 20 12:17:53 2018	Jeroma (STEAM_0:0:121143569): Still
+Sat Oct 20 12:19:08 2018	Jeroma (STEAM_0:0:121143569): I donthave one
+Sat Oct 20 12:19:38 2018	Jeroma (STEAM_0:0:121143569): What do you think about my checkpoint?
+Sat Oct 20 12:19:55 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert i hunger for gamercake
+Sat Oct 20 12:19:56 2018	ShadowHunter13 (STEAM_0:1:155725835): /pm reh master where are you
+Sat Oct 20 12:20:10 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /pm shadow the fan room
+Sat Oct 20 12:20:27 2018	ShadowHunter13 (STEAM_0:1:155725835): /pm reh on my way
+Sat Oct 20 12:20:43 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /pm shadow before you come here turn off the coolant
+Sat Oct 20 12:20:55 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /pm shadow we must draw them out
+Sat Oct 20 12:21:09 2018	ShadowHunter13 (STEAM_0:1:155725835): /pm reh there are security at core and ok
+Sat Oct 20 12:23:27 2018	Jeroma (STEAM_0:0:121143569): What you mean?
+Sat Oct 20 12:24:54 2018	ShadowHunter13 was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct 20 12:24:56 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:25:09 2018	ShadowHunter13 (STEAM_0:1:155725835): /pm reh coming back
+Sat Oct 20 12:26:23 2018	Jeroma (STEAM_0:0:121143569): /Y RUn
+Sat Oct 20 12:26:40 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 12:27:18 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert i can smell you
+Sat Oct 20 12:27:28 2018	Washed up Bhopper (STEAM_0:0:62970398): /Advert thats gay
+Sat Oct 20 12:27:33 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert please stop that's creepy
+Sat Oct 20 12:28:05 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert I will slowely consume  your soul as it is tainted with my perversion of evil
+Sat Oct 20 12:28:08 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sat Oct 20 12:28:08 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 20 12:28:10 2018	ShadowHunter13 was killed by Jeroma with a cw_deagle
+Sat Oct 20 12:28:11 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:31:37 2018	Jeroma (STEAM_0:0:121143569): /Y Prepare
+Sat Oct 20 12:32:35 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert the core isn't safe
+Sat Oct 20 12:32:42 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 12:32:46 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 12:33:00 2018	Jeroma (STEAM_0:0:121143569): Hahhaha
+Sat Oct 20 12:33:05 2018	Jeroma (STEAM_0:0:121143569): Reho
+Sat Oct 20 12:33:10 2018	Jeroma (STEAM_0:0:121143569): You can infect
+Sat Oct 20 12:33:14 2018	[NWA]Dank Memes Reho was killed by Washed up Bhopper with a cw_mp5
+Sat Oct 20 12:33:15 2018	Jeroma (STEAM_0:0:121143569): Terrorists
+Sat Oct 20 12:33:15 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 12:33:21 2018	Not GimON was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 12:33:23 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 12:33:26 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert *scp 049 recontained*
+Sat Oct 20 12:33:28 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert let me sabatoge the core
+Sat Oct 20 12:33:30 2018	Washed up Bhopper was killed by Jeroma with a weapon_sillyzombieclaw_v2
+Sat Oct 20 12:33:31 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 12:33:58 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert nooooooo 049 has been recontained
+Sat Oct 20 12:34:23 2018	Jeroma (STEAM_0:0:121143569): /pm Reh Dont worry ill get you out
+Sat Oct 20 12:34:28 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Himself with a suicide trick
+Sat Oct 20 12:34:49 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 12:35:00 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert I require fuel
+Sat Oct 20 12:35:05 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert human fuel
+Sat Oct 20 12:35:13 2018	Washed up Bhopper (STEAM_0:0:62970398): /advert eat urself
+Sat Oct 20 12:35:15 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 12:35:21 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert ill eat you daddy
+Sat Oct 20 12:35:21 2018	Jeroma (STEAM_0:0:121143569): /pm Reh become 049 again
+Sat Oct 20 12:35:38 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 12:35:42 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert how long till the next containment breech
+Sat Oct 20 12:36:04 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert BREACH
+Sat Oct 20 12:36:37 2018	ShadowHunter13 was killed by Not GimON with a cw_shorty
+Sat Oct 20 12:36:38 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:36:39 2018	Jeroma (STEAM_0:0:121143569): /pm Reh Where you at?
+Sat Oct 20 12:36:52 2018	Not GimON (STEAM_0:0:95660701): headphones off
+Sat Oct 20 12:36:52 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /pm jerome my cell across portal
+Sat Oct 20 12:36:53 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert 049 i will be back
+Sat Oct 20 12:36:54 2018	Not GimON (STEAM_0:0:95660701): can't hear
+Sat Oct 20 12:37:01 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert i am in my cell across portal
+Sat Oct 20 12:37:06 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): well get it on
+Sat Oct 20 12:37:14 2018	Jeroma (STEAM_0:0:121143569): /pm Reh Well there is a blockade
+Sat Oct 20 12:37:15 2018	Not GimON (STEAM_0:0:95660701): i go afk in a min so no need
+Sat Oct 20 12:37:22 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert i know
+Sat Oct 20 12:37:23 2018	Jeroma (STEAM_0:0:121143569): /pm Reh Cant get you
+Sat Oct 20 12:37:25 2018	Not GimON (STEAM_0:0:95660701): im in a hurry
+Sat Oct 20 12:37:25 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): still thx
+Sat Oct 20 12:37:29 2018	Not GimON (STEAM_0:0:95660701): np
+Sat Oct 20 12:37:30 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert kill all lifeforms cure them by death
+Sat Oct 20 12:37:38 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert execute all hipsters
+Sat Oct 20 12:37:43 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert i will
+Sat Oct 20 12:37:45 2018	Jeroma (STEAM_0:0:121143569): OOpen
+Sat Oct 20 12:37:48 2018	Jeroma (STEAM_0:0:121143569): Ples
+Sat Oct 20 12:37:55 2018	Jeroma (STEAM_0:0:121143569): Use keycard cracker
+Sat Oct 20 12:38:08 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert if theyre from california cure them by suffucation from boiling hot starbucks
+Sat Oct 20 12:38:21 2018	ShadowHunter13 (STEAM_0:1:155725835): /advert hahahqahhahahahahaha
+Sat Oct 20 12:38:41 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms i just noticed there is a lounge with a piano
+Sat Oct 20 12:39:06 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert search out and kill gamercake my offspring
+Sat Oct 20 12:39:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert CONTAINMENT BREACH
+Sat Oct 20 12:39:40 2018	Jeroma (STEAM_0:0:121143569): Rawr
+Sat Oct 20 12:39:48 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms how
+Sat Oct 20 12:39:49 2018	Jeroma (STEAM_0:0:121143569): :3
+Sat Oct 20 12:39:51 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 12:39:53 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms mh
+Sat Oct 20 12:40:13 2018	Jeroma (STEAM_0:0:121143569): /drop
+Sat Oct 20 12:40:38 2018	Jeroma (STEAM_0:0:121143569): Blin
+Sat Oct 20 12:40:43 2018	Jeroma (STEAM_0:0:121143569): So how are you
+Sat Oct 20 12:40:54 2018	Jeroma (STEAM_0:0:121143569): Thank you
+Sat Oct 20 12:41:13 2018	The Big Craig (STEAM_0:0:241171739) has joined the game
+Sat Oct 20 12:41:13 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 12:41:26 2018	Jeroma (STEAM_0:0:121143569): LEts use the teleporter
+Sat Oct 20 12:41:38 2018	Jeroma (STEAM_0:0:121143569): Not here
+Sat Oct 20 12:41:45 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms 2 scps and a terrosrist goin in lower area
+Sat Oct 20 12:41:52 2018	Jeroma (STEAM_0:0:121143569): In hte lower
+Sat Oct 20 12:41:55 2018	ShadowHunter13 (STEAM_0:1:155725835): /radio no
+Sat Oct 20 12:41:57 2018	Cdr Riley (STEAM_0:0:106554367) has joined the game
+Sat Oct 20 12:41:57 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 12:41:58 2018	Jeroma (STEAM_0:0:121143569): Area there is a teleporter
+Sat Oct 20 12:42:04 2018	Jeroma (STEAM_0:0:121143569): Follow me
+Sat Oct 20 12:42:05 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms search and kill
+Sat Oct 20 12:42:18 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert we are not leaving
+Sat Oct 20 12:42:19 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms only way out of the resarch leab
+Sat Oct 20 12:42:22 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 12:42:24 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms lab
+Sat Oct 20 12:42:26 2018	Jeroma (STEAM_0:0:121143569): Dont
+Sat Oct 20 12:42:28 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 12:43:41 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert this piano is sick af
+Sat Oct 20 12:43:51 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms is ok
+Sat Oct 20 12:44:07 2018	Cdr Riley (STEAM_0:0:106554367): // hello?
+Sat Oct 20 12:44:17 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // ?
+Sat Oct 20 12:44:18 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc AFTER RILEY MY CHILDREN GO GO GO
+Sat Oct 20 12:44:25 2018	Cdr Riley (STEAM_0:0:106554367): // wut?
+Sat Oct 20 12:44:36 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms OH LORD
+Sat Oct 20 12:44:43 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc ILL BRB GRABBING MY FOOD PROTECT ME MY KIDS
+Sat Oct 20 12:44:45 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms GOD HELP ME
+Sat Oct 20 12:44:48 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by ShadowHunter13 with a weapon_sillyzombieclaw_v2
+Sat Oct 20 12:44:53 2018	Jeroma (STEAM_0:0:121143569): You hit me
+Sat Oct 20 12:45:05 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 12:45:06 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 12:45:28 2018	Jeroma (STEAM_0:0:121143569): /Y RAWR
+Sat Oct 20 12:45:48 2018	Jeroma (STEAM_0:0:121143569): /Y Ok
+Sat Oct 20 12:45:49 2018	Jeroma (STEAM_0:0:121143569): Lemme
+Sat Oct 20 12:45:53 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 12:45:57 2018	Jeroma (STEAM_0:0:121143569): So ye
+Sat Oct 20 12:46:01 2018	Jeroma (STEAM_0:0:121143569): Protect the core
+Sat Oct 20 12:46:03 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 12:46:06 2018	Jeroma (STEAM_0:0:121143569): From scps and Terrorists
+Sat Oct 20 12:46:11 2018	security jeff (STEAM_0:0:241171739) disconnected
+Sat Oct 20 12:46:17 2018	Jeroma (STEAM_0:0:121143569): If not well have a meltdown
+Sat Oct 20 12:46:32 2018	Jeroma (STEAM_0:0:121143569): What did you say?
+Sat Oct 20 12:46:52 2018	Bill Foreman was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 12:46:52 2018	Jeroma (STEAM_0:0:121143569): There are boosters in it they need to be turned off
+Sat Oct 20 12:46:53 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 12:47:04 2018	Jeroma (STEAM_0:0:121143569): And there is a Fan and water pumps under the core
+Sat Oct 20 12:47:08 2018	Jeroma (STEAM_0:0:121143569): Wich you access
+Sat Oct 20 12:47:11 2018	Jeroma (STEAM_0:0:121143569): By elevator
+Sat Oct 20 12:47:14 2018	Jeroma (STEAM_0:0:121143569): Dont
+Sat Oct 20 12:47:19 2018	Jeroma (STEAM_0:0:121143569): So ye
+Sat Oct 20 12:47:28 2018	Jeroma (STEAM_0:0:121143569): Basically become a scp or terrorist
+Sat Oct 20 12:47:32 2018	Jeroma (STEAM_0:0:121143569): Or security
+Sat Oct 20 12:47:38 2018	Cdr Riley was killed by Jeroma with a weapon_sillyzombieclaw_v2
+Sat Oct 20 12:47:58 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 12:48:05 2018	Jeroma (STEAM_0:0:121143569): Also
+Sat Oct 20 12:48:11 2018	Jeroma (STEAM_0:0:121143569): In the generator room
+Sat Oct 20 12:48:15 2018	Jeroma (STEAM_0:0:121143569): Under the core
+Sat Oct 20 12:48:25 2018	Jeroma (STEAM_0:0:121143569): There is a emergency cooldown keypad
+Sat Oct 20 12:48:35 2018	Jeroma (STEAM_0:0:121143569): You can only use it when the reactor is critical
+Sat Oct 20 12:48:38 2018	The Big Craig (STEAM_0:0:241171739) has joined the game
+Sat Oct 20 12:48:38 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 12:48:42 2018	Jeroma (STEAM_0:0:121143569): Here is the code
+Sat Oct 20 12:49:13 2018	Jeroma (STEAM_0:0:121143569): So
+Sat Oct 20 12:49:17 2018	Jeroma (STEAM_0:0:121143569): Ye follow m
+Sat Oct 20 12:49:26 2018	Jeroma (STEAM_0:0:121143569): This is the main tram
+Sat Oct 20 12:49:32 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 12:49:37 2018	Jeroma (STEAM_0:0:121143569): You will be using 
+Sat Oct 20 12:49:45 2018	Jeroma (STEAM_0:0:121143569): This to get to the reactor
+Sat Oct 20 12:49:48 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /OOC I HAVE RETURNED!
+Sat Oct 20 12:49:49 2018	Jeroma (STEAM_0:0:121143569): And other lobbys
+Sat Oct 20 12:49:55 2018	Bill Foreman (STEAM_0:0:45838915): // Welcome back
+Sat Oct 20 12:50:02 2018	Jeroma (STEAM_0:0:121143569): // We killed Riley and GamerCake
+Sat Oct 20 12:50:05 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /OOC ABD WITH RL PIZZA
+Sat Oct 20 12:50:17 2018	Bill Foreman (STEAM_0:0:45838915): 
+Sat Oct 20 12:50:19 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc excellent work
+Sat Oct 20 12:50:20 2018	Jeroma (STEAM_0:0:121143569): And dont ask me about the levels
+Sat Oct 20 12:50:25 2018	Jeroma (STEAM_0:0:121143569): They added it today
+Sat Oct 20 12:50:27 2018	Jeroma (STEAM_0:0:121143569): And idk why
+Sat Oct 20 12:50:52 2018	Jeroma (STEAM_0:0:121143569): Also
+Sat Oct 20 12:50:54 2018	Jeroma (STEAM_0:0:121143569): You have
+Sat Oct 20 12:50:57 2018	Jeroma (STEAM_0:0:121143569): A keycard
+Sat Oct 20 12:51:03 2018	Jeroma (STEAM_0:0:121143569): Use it on keycard scanners
+Sat Oct 20 12:51:09 2018	Jeroma (STEAM_0:0:121143569): Herees the reactor and its on fire
+Sat Oct 20 12:51:18 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 12:51:20 2018	Jeroma (STEAM_0:0:121143569): Riley
+Sat Oct 20 12:51:25 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 12:51:33 2018	Jeroma (STEAM_0:0:121143569): Behin you
+Sat Oct 20 12:51:35 2018	Jeroma (STEAM_0:0:121143569): Are elevators
+Sat Oct 20 12:51:38 2018	Jeroma (STEAM_0:0:121143569): They goto
+Sat Oct 20 12:51:42 2018	Jeroma (STEAM_0:0:121143569): The
+Sat Oct 20 12:51:43 2018	Jeroma (STEAM_0:0:121143569): Fan
+Sat Oct 20 12:51:45 2018	Jeroma (STEAM_0:0:121143569): And stuff
+Sat Oct 20 12:51:48 2018	Jeroma (STEAM_0:0:121143569): Activate em
+Sat Oct 20 12:51:58 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 12:52:36 2018	Jeroma (STEAM_0:0:121143569): If its
+Sat Oct 20 12:52:38 2018	Jeroma (STEAM_0:0:121143569): Red its on
+Sat Oct 20 12:52:48 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 12:53:06 2018	Jeroma (STEAM_0:0:121143569): Its good
+Sat Oct 20 12:53:10 2018	Jeroma (STEAM_0:0:121143569): Everything on
+Sat Oct 20 12:53:15 2018	Jeroma (STEAM_0:0:121143569): Im teaching him stuff
+Sat Oct 20 12:53:22 2018	Jeroma (STEAM_0:0:121143569): Want me to attack?
+Sat Oct 20 12:53:33 2018	Jeroma (STEAM_0:0:121143569): Heres the fan
+Sat Oct 20 12:53:43 2018	Pane3Panellle (STEAM_0:1:114646812) has joined the game
+Sat Oct 20 12:53:43 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 12:53:52 2018	Jeroma (STEAM_0:0:121143569): Something
+Sat Oct 20 12:54:00 2018	Jeroma (STEAM_0:0:121143569): Up there isnt going right
+Sat Oct 20 12:54:02 2018	Jeroma (STEAM_0:0:121143569): Fun fact
+Sat Oct 20 12:54:04 2018	Jeroma (STEAM_0:0:121143569): When the
+Sat Oct 20 12:54:08 2018	Jeroma (STEAM_0:0:121143569): Core goes critical
+Sat Oct 20 12:54:11 2018	Jeroma (STEAM_0:0:121143569): This
+Sat Oct 20 12:54:13 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 12:54:14 2018	Jeroma (STEAM_0:0:121143569): Here breaks
+Sat Oct 20 12:54:18 2018	Jeroma (STEAM_0:0:121143569): And you need to build props
+Sat Oct 20 12:54:21 2018	Jeroma (STEAM_0:0:121143569): To fix it
+Sat Oct 20 12:54:53 2018	Jeroma (STEAM_0:0:121143569): You need
+Sat Oct 20 12:54:55 2018	Jeroma (STEAM_0:0:121143569): The
+Sat Oct 20 12:54:58 2018	Jeroma (STEAM_0:0:121143569): Generator on
+Sat Oct 20 12:55:05 2018	Jeroma (STEAM_0:0:121143569): Look
+Sat Oct 20 12:55:13 2018	Jeroma (STEAM_0:0:121143569): It helps
+Sat Oct 20 12:55:15 2018	Jeroma (STEAM_0:0:121143569): Cooling it down
+Sat Oct 20 12:55:23 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Not GimON with a cw_g36c
+Sat Oct 20 12:55:24 2018	Jeroma (STEAM_0:0:121143569): No
+Sat Oct 20 12:55:27 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 12:55:29 2018	[NWA]Dank Memes Reho was killed by Not GimON with a cw_g36c
+Sat Oct 20 12:55:30 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 12:55:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ADVERT SCP 049 RECONTAINED
+Sat Oct 20 12:55:39 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 12:55:48 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 12:55:50 2018	Jeroma (STEAM_0:0:121143569): Just
+Sat Oct 20 12:55:52 2018	Jeroma (STEAM_0:0:121143569): Saying
+Sat Oct 20 12:55:53 2018	Jeroma (STEAM_0:0:121143569): the code
+Sat Oct 20 12:55:55 2018	Jeroma (STEAM_0:0:121143569): Only works
+Sat Oct 20 12:55:58 2018	Jeroma (STEAM_0:0:121143569): When
+Sat Oct 20 12:56:01 2018	Jeroma (STEAM_0:0:121143569): The core goes critical
+Sat Oct 20 12:56:12 2018	Jeroma (STEAM_0:0:121143569): Follow me
+Sat Oct 20 12:56:15 2018	Bill Foreman (STEAM_0:0:45838915): 
+Sat Oct 20 12:56:17 2018	Pane3Panellle (STEAM_0:1:114646812): !sound
+Sat Oct 20 12:56:26 2018	Jeroma (STEAM_0:0:121143569): And heres
+Sat Oct 20 12:56:26 2018	Pane3Panellle (STEAM_0:1:114646812) disconnected
+Sat Oct 20 12:56:26 2018	security jeff (STEAM_0:0:241171739) disconnected
+Sat Oct 20 12:56:32 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // eh
+Sat Oct 20 12:56:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc hot da,mn
+Sat Oct 20 12:56:40 2018	Jeroma (STEAM_0:0:121143569): Dont
+Sat Oct 20 12:56:43 2018	Jeroma (STEAM_0:0:121143569): Heres
+Sat Oct 20 12:56:45 2018	Jeroma (STEAM_0:0:121143569): the tele
+Sat Oct 20 12:57:04 2018	Jeroma (STEAM_0:0:121143569): Heres the Cafeteria
+Sat Oct 20 12:57:19 2018	Jeroma (STEAM_0:0:121143569): Here is where you make food
+Sat Oct 20 12:57:28 2018	Jeroma (STEAM_0:0:121143569): Pick one up
+Sat Oct 20 12:57:39 2018	Pane3Panellle (STEAM_0:1:114646812) has joined the game
+Sat Oct 20 12:57:39 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 12:57:57 2018	Jeroma (STEAM_0:0:121143569): Put it in
+Sat Oct 20 12:58:03 2018	Jeroma (STEAM_0:0:121143569): Put both in
+Sat Oct 20 12:58:10 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 12:58:13 2018	Jeroma (STEAM_0:0:121143569): Its there
+Sat Oct 20 12:58:27 2018	Jeroma (STEAM_0:0:121143569): So
+Sat Oct 20 12:58:31 2018	Jeroma (STEAM_0:0:121143569): Thats how you make food
+Sat Oct 20 12:58:36 2018	Jeroma (STEAM_0:0:121143569): Both of you follow me
+Sat Oct 20 12:58:37 2018	The Big Craig (STEAM_0:0:241171739) has joined the game
+Sat Oct 20 12:58:37 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 12:58:47 2018	Jeroma (STEAM_0:0:121143569): So heres
+Sat Oct 20 12:58:48 2018	Jeroma (STEAM_0:0:121143569): More
+Sat Oct 20 12:58:49 2018	Jeroma (STEAM_0:0:121143569): Stuff
+Sat Oct 20 12:58:57 2018	Jeroma (STEAM_0:0:121143569): And heres the drink
+Sat Oct 20 12:58:59 2018	Jeroma (STEAM_0:0:121143569): s
+Sat Oct 20 12:59:03 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 12:59:17 2018	Jeroma (STEAM_0:0:121143569): So 
+Sat Oct 20 12:59:18 2018	Jeroma (STEAM_0:0:121143569): Do you
+Sat Oct 20 12:59:21 2018	Jeroma (STEAM_0:0:121143569): Want something
+Sat Oct 20 12:59:25 2018	Cdr Riley (STEAM_0:0:106554367): sure
+Sat Oct 20 12:59:27 2018	Jeroma (STEAM_0:0:121143569): I can
+Sat Oct 20 12:59:28 2018	Jeroma (STEAM_0:0:121143569): Make
+Sat Oct 20 12:59:35 2018	Jeroma (STEAM_0:0:121143569): Smoothies
+Sat Oct 20 12:59:45 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 12:59:58 2018	Bill Foreman (STEAM_0:0:45838915): /check Jeroma 1000
+Sat Oct 20 13:00:22 2018	Crash_Trooper (STEAM_0:1:94924909) has joined the game
+Sat Oct 20 13:00:22 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:00:45 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert activate the alpha warhead
+Sat Oct 20 13:01:11 2018	Jeroma (STEAM_0:0:121143569): Want a smoothie instead?
+Sat Oct 20 13:01:23 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 13:01:24 2018	Jeroma (STEAM_0:0:121143569): No or yes?
+Sat Oct 20 13:01:40 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert *049 contained*
+Sat Oct 20 13:01:44 2018	Jeroma (STEAM_0:0:121143569): what do yo want on it
+Sat Oct 20 13:02:01 2018	Pane3Panellle was killed by Entity [2010][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:02:02 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:02:14 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:02:21 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:02:22 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): !motd
+Sat Oct 20 13:02:30 2018	Jeroma (STEAM_0:0:121143569): Want something extra
+Sat Oct 20 13:03:12 2018	Jeroma (STEAM_0:0:121143569): what
+Sat Oct 20 13:03:14 2018	Jeroma (STEAM_0:0:121143569): Milk
+Sat Oct 20 13:03:16 2018	Jeroma (STEAM_0:0:121143569): Coffe
+Sat Oct 20 13:03:56 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert *scp 049 demands pizza or he will break out*
+Sat Oct 20 13:03:57 2018	Rim (STEAM_0:0:147568332) has joined the game
+Sat Oct 20 13:03:57 2018	FruitLoops Biggo (STEAM_0:0:147568332) spawned
+Sat Oct 20 13:04:11 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms breaking out of them doors
+Sat Oct 20 13:04:21 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 13:04:35 2018	Jeroma (STEAM_0:0:121143569): Cya
+Sat Oct 20 13:04:52 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:04:53 2018	Pane3Panellle was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:04:56 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:05:31 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:05:49 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 13:06:14 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert the demons screach is heard throughout the facility
+Sat Oct 20 13:06:58 2018	Jeroma (STEAM_0:0:121143569): /advert Come to the cafeteria if you want something to eat or drink
+Sat Oct 20 13:07:10 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sat Oct 20 13:07:10 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:07:16 2018	Pane3Panellle (STEAM_0:1:114646812): 
+Sat Oct 20 13:07:18 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert release 3431 now
+Sat Oct 20 13:07:28 2018	Crash_Trooper (STEAM_0:1:94924909): oh its ok
+Sat Oct 20 13:07:38 2018	Crash_Trooper (STEAM_0:1:94924909): thx
+Sat Oct 20 13:07:54 2018	Jeroma (STEAM_0:0:121143569): Im
+Sat Oct 20 13:07:56 2018	Jeroma (STEAM_0:0:121143569): Spoopy
+Sat Oct 20 13:08:19 2018	Washed up Bhopper (STEAM_0:0:62970398): !menu
+Sat Oct 20 13:08:35 2018	Pane3Panellle (STEAM_0:1:114646812): I saw osama billaden
+Sat Oct 20 13:09:26 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert CONTAINMENT BREACH
+Sat Oct 20 13:10:12 2018	Crash_Trooper (STEAM_0:1:94924909): a alarm
+Sat Oct 20 13:10:12 2018	Jeroma (STEAM_0:0:121143569): Sir
+Sat Oct 20 13:10:16 2018	Jeroma (STEAM_0:0:121143569): /Y Waitd
+Sat Oct 20 13:10:19 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 13:10:26 2018	Jeroma (STEAM_0:0:121143569): I can give you food
+Sat Oct 20 13:10:29 2018	Bill Foreman (STEAM_0:0:45838915): // GamerCake, the Keycardreader at the 049 CC is not working
+Sat Oct 20 13:10:30 2018	Jeroma was killed by [NWA]Dank Memes Reho with a eoti_raven_swep
+Sat Oct 20 13:10:31 2018	Jeroma (STEAM_0:0:121143569): Smoothies pzza
+Sat Oct 20 13:10:31 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:11:27 2018	Washed up Bhopper (STEAM_0:0:62970398): 
+Sat Oct 20 13:11:28 2018	Washed up Bhopper was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:11:30 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:11:45 2018	FruitLoops Biggo (STEAM_0:0:147568332): // Jeroma
+Sat Oct 20 13:11:47 2018	FruitLoops Biggo (STEAM_0:0:147568332) spawned
+Sat Oct 20 13:11:49 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by [NWA]Dank Memes Reho with a eoti_raven_swep
+Sat Oct 20 13:11:59 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 13:12:08 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:12:23 2018	[NWA]Dank Memes Reho was killed by Entity [492][prop_combine_ball] with a prop_combine_ball
+Sat Oct 20 13:12:25 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:12:40 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert lol recontained something 1 shotted me
+Sat Oct 20 13:12:47 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert i think it was my own ability
+Sat Oct 20 13:13:01 2018	FruitLoops Biggo (STEAM_0:0:147568332): // server so fucking laggy
+Sat Oct 20 13:13:07 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // ?
+Sat Oct 20 13:13:07 2018	Jeroma (STEAM_0:0:121143569): // Ye
+Sat Oct 20 13:13:26 2018	FruitLoops Biggo (STEAM_0:0:147568332) disconnected
+Sat Oct 20 13:13:28 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by [NWA]Dank Memes Reho with a eoti_raven_swep
+Sat Oct 20 13:13:31 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 13:14:10 2018	Jeroma (STEAM_0:0:121143569): /Y Hello
+Sat Oct 20 13:14:13 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Im changing jobs should the doors for the cell still be there?
+Sat Oct 20 13:14:23 2018	Washed up Bhopper (STEAM_0:0:62970398): // ya
+Sat Oct 20 13:14:26 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 13:14:28 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // ok
+Sat Oct 20 13:14:29 2018	Cdr Riley (STEAM_0:0:106554367): // waht do plant workers really do?
+Sat Oct 20 13:14:34 2018	Jeroma (STEAM_0:0:121143569): I can
+Sat Oct 20 13:14:38 2018	Jeroma (STEAM_0:0:121143569): Make Pizzas
+Sat Oct 20 13:14:38 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // work?
+Sat Oct 20 13:14:45 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 13:14:48 2018	Jeroma (STEAM_0:0:121143569): /Y Who wants
+Sat Oct 20 13:14:52 2018	Jeroma (STEAM_0:0:121143569): /Y A pizza
+Sat Oct 20 13:14:58 2018	Jeroma (STEAM_0:0:121143569): /y Maybe a smoothie?
+Sat Oct 20 13:15:14 2018	Morty (STEAM_0:1:60776888) has joined the game
+Sat Oct 20 13:15:14 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 13:15:27 2018	Cdr Riley was killed by [NWA]Dank Memes Reho with a eoti_raven_swep
+Sat Oct 20 13:15:31 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:15:33 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 13:15:37 2018	Jeroma (STEAM_0:0:121143569): Sir
+Sat Oct 20 13:15:41 2018	Jeroma (STEAM_0:0:121143569): Sir
+Sat Oct 20 13:15:44 2018	Jeroma (STEAM_0:0:121143569): You
+Sat Oct 20 13:15:44 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:15:45 2018	Rim (STEAM_0:0:147568332) has joined the game
+Sat Oct 20 13:15:45 2018	FruitLoops Biggo (STEAM_0:0:147568332) spawned
+Sat Oct 20 13:16:15 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 13:16:21 2018	Jeroma (STEAM_0:0:121143569): So 
+Sat Oct 20 13:16:23 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert CA CAWWWWWWWWW
+Sat Oct 20 13:16:26 2018	Jeroma (STEAM_0:0:121143569): Wich one do you want
+Sat Oct 20 13:16:29 2018	Washed up Bhopper (STEAM_0:0:62970398): /Drop
+Sat Oct 20 13:16:44 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 13:16:49 2018	Kilroy (STEAM_0:0:138507625): /pm bill can I be osama please
+Sat Oct 20 13:16:58 2018	Cdr Riley (STEAM_0:0:106554367): /looc waht do engineers do?
+Sat Oct 20 13:17:06 2018	Bill Foreman (STEAM_0:0:45838915): /pm Kilroy Sorry no, I am destryoing the facility right now
+Sat Oct 20 13:17:06 2018	Freds (STEAM_0:0:119608149) has joined the game
+Sat Oct 20 13:17:06 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 13:17:18 2018	Jeroma (STEAM_0:0:121143569): // they dont have that channel
+Sat Oct 20 13:17:24 2018	Kilroy (STEAM_0:0:138507625): /pm bill then can you break me out
+Sat Oct 20 13:17:29 2018	Jeroma (STEAM_0:0:121143569): /Y Anybody
+Sat Oct 20 13:17:33 2018	Jeroma (STEAM_0:0:121143569): /Y Want something
+Sat Oct 20 13:17:34 2018	Cdr Riley was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:17:43 2018	Jeroma (STEAM_0:0:121143569): You
+Sat Oct 20 13:17:44 2018	Cdr Riley (STEAM_0:0:106554367): // buged threw the roof
+Sat Oct 20 13:17:44 2018	Jeroma (STEAM_0:0:121143569): Sir
+Sat Oct 20 13:17:44 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:17:45 2018	Jucraft32™[GER] (STEAM_0:0:56505739) has joined the game
+Sat Oct 20 13:17:45 2018	Jucraft32™[GER] (STEAM_0:0:56505739) spawned
+Sat Oct 20 13:17:51 2018	Jeroma (STEAM_0:0:121143569): Do you
+Sat Oct 20 13:17:53 2018	Jeroma (STEAM_0:0:121143569): Want a smoothie
+Sat Oct 20 13:17:58 2018	Bill Foreman (STEAM_0:0:45838915): /pm Kilroy Give me 5 minutes
+Sat Oct 20 13:18:03 2018	Jeroma (STEAM_0:0:121143569): What
+Sat Oct 20 13:18:04 2018	Jeroma (STEAM_0:0:121143569): Toping
+Sat Oct 20 13:18:06 2018	Jeroma (STEAM_0:0:121143569): Cactus
+Sat Oct 20 13:18:08 2018	Jeroma (STEAM_0:0:121143569): Combine ball
+Sat Oct 20 13:18:10 2018	Jeroma (STEAM_0:0:121143569): Skull
+Sat Oct 20 13:18:10 2018	Kilroy (STEAM_0:0:138507625): /advert BRID HELP
+Sat Oct 20 13:18:26 2018	Jeroma (STEAM_0:0:121143569): What
+Sat Oct 20 13:18:27 2018	Jeroma (STEAM_0:0:121143569): Milk
+Sat Oct 20 13:18:31 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 13:18:52 2018	Bill Foreman was killed by Washed up Bhopper with a cw_g36c
+Sat Oct 20 13:18:57 2018	Jeroma (STEAM_0:0:121143569): Take it
+Sat Oct 20 13:18:58 2018	Jeroma (STEAM_0:0:121143569): Here
+Sat Oct 20 13:18:59 2018	Jeroma (STEAM_0:0:121143569): E
+Sat Oct 20 13:19:00 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 13:19:07 2018	Jeroma (STEAM_0:0:121143569): that
+Sat Oct 20 13:19:07 2018	Cdr Riley was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 13:19:09 2018	Jeroma (STEAM_0:0:121143569): Will be 3k
+Sat Oct 20 13:19:14 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 13:19:14 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:19:14 2018	Freds (STEAM_0:0:119608149) disconnected
+Sat Oct 20 13:19:16 2018	Washed up Bhopper was killed by [NWA]Dank Memes Reho with a eoti_raven_swep
+Sat Oct 20 13:19:17 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:19:19 2018	Pane3Panellle (STEAM_0:1:114646812): /Dropmoney 3000
+Sat Oct 20 13:19:20 2018	Pane3Panellle (STEAM_0:1:114646812) has dropped $3,000
+Sat Oct 20 13:19:20 2018	Jeroma (STEAM_0:0:121143569): Its
+Sat Oct 20 13:19:24 2018	Jeroma (STEAM_0:0:121143569): Expensive
+Sat Oct 20 13:19:25 2018	Jeroma (STEAM_0:0:121143569): To make
+Sat Oct 20 13:19:31 2018	Bill Foreman (STEAM_0:0:45838915): /pm Kil On my way
+Sat Oct 20 13:19:38 2018	Jeroma was killed by [NWA]Dank Memes Reho with a eoti_raven_swep
+Sat Oct 20 13:19:40 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:19:41 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 13:19:44 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 13:19:45 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:19:57 2018	Jeroma (STEAM_0:0:121143569): ;-;
+Sat Oct 20 13:19:58 2018	Jeroma (STEAM_0:0:121143569): I want
+Sat Oct 20 13:19:59 2018	[NWA]Dank Memes Reho was killed by Not GimON with a cw_g36c
+Sat Oct 20 13:20:01 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:20:01 2018	Jucraft32™[GER] (STEAM_0:0:56505739) disconnected
+Sat Oct 20 13:20:04 2018	Jeroma (STEAM_0:0:121143569): I want to make food
+Sat Oct 20 13:20:10 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert recontained
+Sat Oct 20 13:20:11 2018	Jeroma (STEAM_0:0:121143569): Ill show you
+Sat Oct 20 13:20:14 2018	Crash_Trooper (STEAM_0:1:94924909): we lots one soilder
+Sat Oct 20 13:20:16 2018	Jeroma (STEAM_0:0:121143569): Scp
+Sat Oct 20 13:20:51 2018	Crash_Trooper (STEAM_0:1:94924909): a scp
+Sat Oct 20 13:20:51 2018	FruitLoops Biggo (STEAM_0:0:147568332) disconnected
+Sat Oct 20 13:20:53 2018	ShadowHunter13 was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 13:20:55 2018	ShadowHunter13 (STEAM_0:1:155725835) spawned
+Sat Oct 20 13:20:56 2018	Jeroma (STEAM_0:0:121143569): /me Hugs you
+Sat Oct 20 13:21:05 2018	Crash_Trooper (STEAM_0:1:94924909): we lots one soilder
+Sat Oct 20 13:21:16 2018	Pane3Panellle (STEAM_0:1:114646812) disconnected
+Sat Oct 20 13:21:16 2018	security jeff (STEAM_0:0:241171739) disconnected
+Sat Oct 20 13:21:45 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Sat Oct 20 13:22:02 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Sat Oct 20 13:22:13 2018	Jeroma (STEAM_0:0:121143569): You know
+Sat Oct 20 13:22:39 2018	Cdr Riley (STEAM_0:0:106554367) disconnected
+Sat Oct 20 13:22:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) disconnected
+Sat Oct 20 13:22:39 2018	ShadowHunter13 (STEAM_0:1:155725835) disconnected
+Sat Oct 20 13:22:42 2018	Infinitynull (STEAM_0:1:60776888) disconnected
+Sat Oct 20 13:22:51 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) disconnected
+Sat Oct 20 13:22:53 2018	Washed up Bhopper (STEAM_0:0:62970398) disconnected
+Sat Oct 20 13:23:08 2018	Crash_Trooper (STEAM_0:1:94924909) disconnected
+Sat Oct 20 13:23:17 2018	Bill Foreman (STEAM_0:0:45838915) disconnected
+Sat Oct 20 13:23:40 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Sat Oct 20 13:24:17 2018	Mark Zuckerberg (STEAM_0:1:85567021) disconnected
+Sat Oct 20 13:24:49 2018	Not GimON (STEAM_0:0:95660701) disconnected
+Sat Oct 20 13:31:11 2018	Dabombam (STEAM_0:1:116056055) has joined the game
+Sat Oct 20 13:31:11 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 13:32:59 2018	Pirate Raider (STEAM_0:1:116056055) disconnected
+Sat Oct 20 13:36:05 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) has joined the game
+Sat Oct 20 13:36:05 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) spawned
+Sat Oct 20 13:36:10 2018	Washed up Bhopper (STEAM_0:0:62970398) has joined the game
+Sat Oct 20 13:36:10 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:36:31 2018	Pane3Panellle (STEAM_0:1:114646812) has joined the game
+Sat Oct 20 13:36:31 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:36:41 2018	ERROR_404 (STEAM_0:1:85567021) has joined the game
+Sat Oct 20 13:36:41 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 13:36:44 2018	Washed up Bhopper (STEAM_0:0:62970398): vote yes
+Sat Oct 20 13:36:44 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) spawned
+Sat Oct 20 13:36:50 2018	Washed up Bhopper (STEAM_0:0:62970398): // vote yes please 
+Sat Oct 20 13:36:55 2018	The Big Craig (STEAM_0:0:241171739) has joined the game
+Sat Oct 20 13:36:55 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 13:37:00 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:37:10 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) has joined the game
+Sat Oct 20 13:37:10 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:37:24 2018	Not GimON (STEAM_0:0:95660701) has joined the game
+Sat Oct 20 13:37:24 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 13:37:31 2018	Crash_Trooper (STEAM_0:1:94924909) has joined the game
+Sat Oct 20 13:37:31 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:37:37 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) spawned
+Sat Oct 20 13:38:30 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 13:38:43 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) has joined the game
+Sat Oct 20 13:38:43 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 13:38:49 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:38:59 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:39:04 2018	Windows 10 Civilgamers.com (STEAM_0:1:214354569) disconnected
+Sat Oct 20 13:39:05 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert 3431 current status is contained
+Sat Oct 20 13:39:21 2018	Not GimON (STEAM_0:0:95660701) disconnected
+Sat Oct 20 13:40:04 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 13:40:19 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:40:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert 457 requires fuel to burn
+Sat Oct 20 13:41:01 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sat Oct 20 13:41:01 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:41:12 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Server crashed ffs
+Sat Oct 20 13:41:12 2018	Crash_Trooper (STEAM_0:1:94924909): i feel like im playing half life 1
+Sat Oct 20 13:41:21 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert 457 requires fuel to burn
+Sat Oct 20 13:41:36 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): 
+Sat Oct 20 13:41:42 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): !motd
+Sat Oct 20 13:41:55 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:42:07 2018	Crash_Trooper (STEAM_0:1:94924909): the core was heated to much so that could be why it crashed
+Sat Oct 20 13:42:14 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): 
+Sat Oct 20 13:42:18 2018	Kilroy (STEAM_0:0:138507625): /advert FOOD
+Sat Oct 20 13:42:22 2018	Big Bill (STEAM_0:0:45838915) has joined the game
+Sat Oct 20 13:42:22 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 13:42:32 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 13:42:44 2018	Bill Foreman (STEAM_0:0:45838915): // Hello!
+Sat Oct 20 13:42:53 2018	Kilroy (STEAM_0:0:138507625): /ooc LET ME OUT
+Sat Oct 20 13:42:57 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 13:43:02 2018	Crash_Trooper (STEAM_0:1:94924909): ok
+Sat Oct 20 13:43:53 2018	Bill Foreman (STEAM_0:0:45838915): // Are the 15 Minutes already over?
+Sat Oct 20 13:43:54 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 13:43:55 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert *457 can be heard crackling as small embers grow*
+Sat Oct 20 13:44:17 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:44:39 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 13:44:58 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sat Oct 20 13:44:58 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 20 13:45:11 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Sat Oct 20 13:45:11 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:45:16 2018	Crash_Trooper (STEAM_0:1:94924909): hello boss
+Sat Oct 20 13:45:24 2018	Crash_Trooper (STEAM_0:1:94924909): ok sir
+Sat Oct 20 13:45:50 2018	Pane3Panellle (STEAM_0:1:114646812): 
+Sat Oct 20 13:46:00 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert release the scps
+Sat Oct 20 13:46:47 2018	Cdr Riley (STEAM_0:0:106554367) has joined the game
+Sat Oct 20 13:46:47 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:46:49 2018	Dabombam (STEAM_0:1:116056055) has joined the game
+Sat Oct 20 13:46:49 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 13:46:52 2018	Kilroy (STEAM_0:0:138507625): /advert RELEASE US
+Sat Oct 20 13:47:23 2018	Hound (STEAM_0:0:204456225) has joined the game
+Sat Oct 20 13:47:23 2018	Hound (STEAM_0:0:204456225) spawned
+Sat Oct 20 13:48:02 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 13:48:07 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:48:08 2018	Pirate Raider (STEAM_0:1:116056055): !name Dabombam
+Sat Oct 20 13:48:09 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:48:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 20 13:48:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 13:48:13 2018	Pirate Raider (STEAM_0:1:116056055): !nick Dabombam
+Sat Oct 20 13:48:19 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert 457 must burn
+Sat Oct 20 13:48:21 2018	Jeroma (STEAM_0:0:121143569): Food for the great Journey
+Sat Oct 20 13:48:34 2018	Bill Foreman (STEAM_0:0:45838915): /pm Kil On my way
+Sat Oct 20 13:48:38 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 13:48:41 2018	Bill Foreman (STEAM_0:0:45838915): /pm Dank On my way
+Sat Oct 20 13:48:44 2018	Kilroy (STEAM_0:0:138507625): /pm bill thanks (:
+Sat Oct 20 13:49:00 2018	Not GimON (STEAM_0:0:95660701) has joined the game
+Sat Oct 20 13:49:00 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 13:49:34 2018	Jeroma was killed by Crash_Trooper with a cw_m3super90
+Sat Oct 20 13:49:42 2018	Crash_Trooper (STEAM_0:1:94924909): i need a medic
+Sat Oct 20 13:49:42 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): hi
+Sat Oct 20 13:49:42 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:49:45 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 13:49:55 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 13:50:11 2018	Pane3Panellle (STEAM_0:1:114646812) disconnected
+Sat Oct 20 13:50:19 2018	Jeroma (STEAM_0:0:121143569): Bill
+Sat Oct 20 13:50:26 2018	Jeroma (STEAM_0:0:121143569): I can make smoothies
+Sat Oct 20 13:50:29 2018	Jeroma (STEAM_0:0:121143569): Wich give you special
+Sat Oct 20 13:50:33 2018	Jeroma (STEAM_0:0:121143569): Abilitys
+Sat Oct 20 13:50:38 2018	Jeroma (STEAM_0:0:121143569): No
+Sat Oct 20 13:50:42 2018	Jeroma (STEAM_0:0:121143569): They can be helpful
+Sat Oct 20 13:50:48 2018	Jeroma (STEAM_0:0:121143569): They can make you
+Sat Oct 20 13:50:49 2018	Jeroma (STEAM_0:0:121143569): Invis
+Sat Oct 20 13:50:55 2018	Jeroma (STEAM_0:0:121143569): And stuff
+Sat Oct 20 13:51:01 2018	Jeroma (STEAM_0:0:121143569): What
+Sat Oct 20 13:51:14 2018	Jeroma (STEAM_0:0:121143569): bill
+Sat Oct 20 13:51:21 2018	Jeroma (STEAM_0:0:121143569): We were right
+Sat Oct 20 13:51:39 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /ooc 3431 sop youre hurting me
+Sat Oct 20 13:51:47 2018	Jeroma (STEAM_0:0:121143569): My Smoothies can give you special abilitys
+Sat Oct 20 13:51:50 2018	Kilroy (STEAM_0:0:138507625): /ooc i did stop
+Sat Oct 20 13:51:57 2018	Hound (STEAM_0:0:204456225) spawned
+Sat Oct 20 13:52:08 2018	Hound (STEAM_0:0:204456225) spawned
+Sat Oct 20 13:52:14 2018	Hound (STEAM_0:0:204456225): /name Holmes
+Sat Oct 20 13:52:20 2018	Jeroma (STEAM_0:0:121143569): /Y Help
+Sat Oct 20 13:52:42 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert CONTAINMENT BREACH
+Sat Oct 20 13:52:43 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 13:52:47 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 13:52:53 2018	Cdr Riley was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 13:52:56 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 13:53:19 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 13:53:21 2018	Washed up Bhopper was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 13:53:23 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:53:40 2018	Crash_Trooper (STEAM_0:1:94924909): scp at core
+Sat Oct 20 13:53:41 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:53:42 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:53:51 2018	Jeroma (STEAM_0:0:121143569): Wanna
+Sat Oct 20 13:53:55 2018	Jeroma was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 13:53:58 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:54:27 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): spin
+Sat Oct 20 13:54:48 2018	Jeroma (STEAM_0:0:121143569): Ill go first
+Sat Oct 20 13:55:11 2018	Pirate Raider was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:55:12 2018	Crash_Trooper was killed by Jeroma with a weapon_l4d2_frying_pan
+Sat Oct 20 13:55:12 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 13:55:16 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:55:17 2018	security jeff was killed by Jeroma with a weapon_l4d2_frying_pan
+Sat Oct 20 13:55:21 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 13:55:24 2018	Jeroma (STEAM_0:0:121143569): /Y Killed them
+Sat Oct 20 13:55:50 2018	Kilroy (STEAM_0:0:138507625): @ FAT PROP BLOCK
+Sat Oct 20 13:56:17 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:56:18 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:56:25 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 13:56:27 2018	Jeroma (STEAM_0:0:121143569): I turned on
+Sat Oct 20 13:56:30 2018	Crash_Trooper (STEAM_0:1:94924909): me too
+Sat Oct 20 13:56:34 2018	Jeroma (STEAM_0:0:121143569): Ye
+Sat Oct 20 13:56:50 2018	[NWA]Dank Memes Reho was killed by Not GimON with a cw_g36c
+Sat Oct 20 13:56:52 2018	Crash_Trooper (STEAM_0:1:94924909): when im on this train i feel like im in half life 1
+Sat Oct 20 13:56:58 2018	Jeroma (STEAM_0:0:121143569): Im so fast
+Sat Oct 20 13:57:01 2018	Jeroma (STEAM_0:0:121143569): Heals ples
+Sat Oct 20 13:57:12 2018	Washed up Bhopper was killed by Jeroma with a weapon_l4d2_frying_pan
+Sat Oct 20 13:57:12 2018	Jeroma was killed by Not GimON with a cw_g36c
+Sat Oct 20 13:57:13 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 13:57:15 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 13:57:17 2018	Jeroma (STEAM_0:0:121143569): Sorry
+Sat Oct 20 13:57:18 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:57:25 2018	Not GimON was killed by Bill Foreman with a cw_scarh
+Sat Oct 20 13:57:29 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 13:57:34 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): @ im stuck
+Sat Oct 20 13:57:42 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:57:43 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 13:57:58 2018	Crash_Trooper (STEAM_0:1:94924909): lets hope the core is ok
+Sat Oct 20 13:58:13 2018	Jeroma was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 13:58:14 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 13:58:23 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:58:25 2018	Crash_Trooper was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 13:58:29 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): madness
+Sat Oct 20 13:58:38 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): weirdo
+Sat Oct 20 13:58:44 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 13:58:45 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): rape
+Sat Oct 20 13:58:50 2018	Jeroma (STEAM_0:0:121143569): Sthap
+Sat Oct 20 13:58:51 2018	guny Pwnd (STEAM_0:0:173118977) has joined the game
+Sat Oct 20 13:58:51 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 13:58:52 2018	Jeroma (STEAM_0:0:121143569): In the name of
+Sat Oct 20 13:58:54 2018	Jeroma (STEAM_0:0:121143569): The law
+Sat Oct 20 13:58:59 2018	Jeroma (STEAM_0:0:121143569): Turn anything on
+Sat Oct 20 13:59:01 2018	Jeroma (STEAM_0:0:121143569): Or your dead
+Sat Oct 20 13:59:15 2018	Jeroma (STEAM_0:0:121143569): Dont turn it on
+Sat Oct 20 13:59:16 2018	Crash_Trooper (STEAM_0:1:94924909): we need backup at the core
+Sat Oct 20 13:59:18 2018	Jeroma (STEAM_0:0:121143569): Or i will kill you
+Sat Oct 20 13:59:31 2018	Kyle (STEAM_0:0:60076325) has joined the game
+Sat Oct 20 13:59:31 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 13:59:33 2018	Jeroma (STEAM_0:0:121143569): Understand?
+Sat Oct 20 13:59:45 2018	Jeroma (STEAM_0:0:121143569): /me Hugs you
+Sat Oct 20 13:59:51 2018	Cdr Riley (STEAM_0:0:106554367): /radio test
+Sat Oct 20 13:59:53 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:00:01 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:00:03 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 14:00:03 2018	Cdr Riley (STEAM_0:0:106554367): /radio secutry please to lower levels
+Sat Oct 20 14:00:04 2018	Jeroma (STEAM_0:0:121143569): /Y Hello how are you
+Sat Oct 20 14:00:26 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:00:36 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Director is ded
+Sat Oct 20 14:00:59 2018	Crash_Trooper (STEAM_0:1:94924909): we need all swat at the core
+Sat Oct 20 14:01:01 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:01:16 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:01:17 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:01:33 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:01:40 2018	Jeroma (STEAM_0:0:121143569): Dont infect me
+Sat Oct 20 14:01:42 2018	Not GimON was killed by Bill Foreman with a weapon_sillyzombieclaw_v2
+Sat Oct 20 14:01:43 2018	Jeroma (STEAM_0:0:121143569): I can help
+Sat Oct 20 14:01:53 2018	[Opi] Fat Gay was killed by fallenfire with a cw_l115
+Sat Oct 20 14:01:54 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 14:01:54 2018	Bill Foreman (STEAM_0:0:45838915): /job Zombie Terrorist
+Sat Oct 20 14:01:55 2018	Not GimON (STEAM_0:0:95660701): // Kilroy you fucking scumbag how bout you don't abuse PAC3
+Sat Oct 20 14:01:55 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 14:01:58 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:02:05 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 14:02:24 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert rip to the plant
+Sat Oct 20 14:02:37 2018	Bill Foreman was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:02:38 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:03:00 2018	fallenfire (STEAM_0:0:173118977): /job snipr
+Sat Oct 20 14:03:00 2018	Washed up Bhopper was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:03:01 2018	Washed up Bhopper (STEAM_0:0:62970398) spawned
+Sat Oct 20 14:03:07 2018	Washed up Bhopper (STEAM_0:0:62970398) disconnected
+Sat Oct 20 14:03:26 2018	Jeroma was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 14:03:28 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:03:44 2018	Kyle was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 14:03:52 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:04:00 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:04:06 2018	Jeroma (STEAM_0:0:121143569): +
+Sat Oct 20 14:04:06 2018	Jeroma was killed by Entity [2241][entityflame] with a entityflame
+Sat Oct 20 14:04:10 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:04:17 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:04:22 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 14:04:23 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:04:23 2018	Pirate Raider was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:04:26 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 14:04:42 2018	Jeroma (STEAM_0:0:121143569): Dont worry
+Sat Oct 20 14:05:10 2018	Crash_Trooper (STEAM_0:1:94924909): backup is coming to the core
+Sat Oct 20 14:05:47 2018	Jeroma (STEAM_0:0:121143569): The tram
+Sat Oct 20 14:05:48 2018	Jeroma (STEAM_0:0:121143569): Is here
+Sat Oct 20 14:06:01 2018	Jeroma (STEAM_0:0:121143569): Hey
+Sat Oct 20 14:06:06 2018	fallenfire (STEAM_0:0:173118977): hi
+Sat Oct 20 14:06:11 2018	Not GimON was killed by Bill Foreman with a cw_scarh
+Sat Oct 20 14:06:14 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 14:06:14 2018	Jeroma (STEAM_0:0:121143569): Dont worry
+Sat Oct 20 14:06:16 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 14:06:18 2018	Jeroma (STEAM_0:0:121143569): Objective
+Sat Oct 20 14:06:21 2018	Kyle was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 14:06:21 2018	Jeroma (STEAM_0:0:121143569): Kill everyone
+Sat Oct 20 14:06:22 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:06:22 2018	Crash_Trooper was killed by Bill Foreman with a cw_mr96
+Sat Oct 20 14:06:25 2018	Not GimON (STEAM_0:0:95660701) disconnected
+Sat Oct 20 14:06:26 2018	Jeroma (STEAM_0:0:121143569): And shutdown boosters
+Sat Oct 20 14:06:28 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:06:29 2018	Bill Foreman was killed by security jeff with a cw_shorty
+Sat Oct 20 14:06:31 2018	Jeroma (STEAM_0:0:121143569): I mean kill all scps and
+Sat Oct 20 14:06:34 2018	Jeroma (STEAM_0:0:121143569): Terrorists
+Sat Oct 20 14:06:36 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:06:39 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:07:04 2018	Jeroma (STEAM_0:0:121143569): Gamercake
+Sat Oct 20 14:07:09 2018	Jeroma (STEAM_0:0:121143569): You have to 
+Sat Oct 20 14:07:14 2018	Jeroma (STEAM_0:0:121143569): Go and shut off the boosters
+Sat Oct 20 14:07:18 2018	Cdr Riley (STEAM_0:0:106554367): /radio cooling stuff is on dunno why its still heating up
+Sat Oct 20 14:07:23 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 14:07:24 2018	Jeroma (STEAM_0:0:121143569): Laser boosters
+Sat Oct 20 14:07:28 2018	Holmes (STEAM_0:0:204456225): tf?
+Sat Oct 20 14:07:42 2018	Jeroma (STEAM_0:0:121143569): Ik
+Sat Oct 20 14:07:44 2018	Bill Foreman (STEAM_0:0:45838915): /radio *stolen radio* Magic
+Sat Oct 20 14:07:45 2018	Jeroma (STEAM_0:0:121143569): Still
+Sat Oct 20 14:07:46 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:07:50 2018	[NWA]Dank Memes Reho was killed by security jeff with a cw_shorty
+Sat Oct 20 14:07:52 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 14:07:59 2018	Crash_Trooper (STEAM_0:1:94924909): we need backup at the core
+Sat Oct 20 14:08:16 2018	Pirate Raider (STEAM_0:1:116056055): @fallenfire is rdming
+Sat Oct 20 14:08:24 2018	fallenfire was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 14:08:26 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:08:27 2018	Holmes was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:08:29 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 14:08:33 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Sat Oct 20 14:08:35 2018	Bill Foreman was killed by Jeroma with a cw_shorty
+Sat Oct 20 14:08:40 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms turn on the fan
+Sat Oct 20 14:08:44 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:08:45 2018	Cdr Riley (STEAM_0:0:106554367): /radio its on
+Sat Oct 20 14:08:45 2018	Pirate Raider (STEAM_0:1:116056055): /r no
+Sat Oct 20 14:08:48 2018	Mark Zuckerberg was killed by fallenfire with a cw_l115
+Sat Oct 20 14:08:50 2018	Jeroma (STEAM_0:0:121143569): /pm Cras Remove your props at the core
+Sat Oct 20 14:08:50 2018	Holmes (STEAM_0:0:204456225): /me Waves
+Sat Oct 20 14:08:53 2018	Jeroma (STEAM_0:0:121143569): He was shooting me
+Sat Oct 20 14:08:54 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /comms turn it all on
+Sat Oct 20 14:08:59 2018	Kilroy (STEAM_0:0:138507625): /advert CAAAAAAAAAAAAAWWWWWWWWWWWWW
+Sat Oct 20 14:09:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:09:03 2018	Bill Foreman (STEAM_0:0:45838915): /radio YOU WILL NEVER SAFE THE CORE
+Sat Oct 20 14:09:05 2018	Cdr Riley (STEAM_0:0:106554367): /radio securty please down here
+Sat Oct 20 14:09:08 2018	Cdr Riley (STEAM_0:0:106554367): /radio NOW!
+Sat Oct 20 14:09:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 14:10:14 2018	Crash_Trooper (STEAM_0:1:94924909): oh no we need backup at the core now
+Sat Oct 20 14:10:20 2018	Kilroy (STEAM_0:0:138507625): /advert SCPs TO SAPCE
+Sat Oct 20 14:10:24 2018	Holmes (STEAM_0:0:204456225): or rocket 
+Sat Oct 20 14:10:29 2018	Kilroy (STEAM_0:0:138507625): /advert 8SPACE
+Sat Oct 20 14:10:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto kyle
+Sat Oct 20 14:10:54 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:10:56 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:11:14 2018	Jeroma (STEAM_0:0:121143569): /pm Ril Use the Cooldown
+Sat Oct 20 14:11:22 2018	Holmes was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:11:22 2018	Jeroma (STEAM_0:0:121143569): /pm Ril Code 4198
+Sat Oct 20 14:11:25 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 14:11:27 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 14:11:32 2018	Cdr Riley was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 14:11:37 2018	Cdr Riley (STEAM_0:0:106554367): /pm Jeroma i did and now im dead
+Sat Oct 20 14:11:40 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 14:11:43 2018	Pirate Raider (STEAM_0:1:116056055): /advert WE GOIN TO SPACEE REEEEEEEEEEEEEEE
+Sat Oct 20 14:11:45 2018	Kilroy (STEAM_0:0:138507625): /advert WE ALL MADE IT FAGGOTS
+Sat Oct 20 14:11:49 2018	Crash_Trooper (STEAM_0:1:94924909): rocket has is out
+Sat Oct 20 14:11:52 2018	Bill Foreman (STEAM_0:0:45838915): /advert I will stay here
+Sat Oct 20 14:11:53 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747): /advert ALL SCPS MADE IT TO ROCKET HAHAHA
+Sat Oct 20 14:12:19 2018	Crash_Trooper (STEAM_0:1:94924909): get to the core
+Sat Oct 20 14:12:30 2018	[prof delaventure] (STEAM_0:1:94964109) has joined the game
+Sat Oct 20 14:12:30 2018	[prof delaventure] (STEAM_0:1:94964109) spawned
+Sat Oct 20 14:12:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 1 - join gamelevel 2 - 200 seconds - 3.3 MINSlevel 3 - 400 seconds - 10 MINSlevel 4 - 800 seconds - 23 MINSlevel 
+Sat Oct 20 14:12:45 2018	Pirate Raider (STEAM_0:1:116056055): !unbox
+Sat Oct 20 14:12:48 2018	Kilroy (STEAM_0:0:138507625): /ooc what
+Sat Oct 20 14:12:58 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // ?
+Sat Oct 20 14:13:04 2018	Bill Foreman (STEAM_0:0:45838915): /advert Take me home
+Sat Oct 20 14:13:06 2018	Crash_Trooper was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:07 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:13:13 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 14:13:25 2018	Bill Foreman was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:25 2018	Kyle was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:25 2018	[Opi] Fat Gay was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:25 2018	Jeroma was killed by Entity [4931][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:13:28 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:13:30 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:13:30 2018	Kilroy (STEAM_0:0:138507625): /advert WHERE IS SPACE BITCHES
+Sat Oct 20 14:13:35 2018	Crash_Trooper (STEAM_0:1:94924909): open the vault
+Sat Oct 20 14:13:35 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:36 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:13:41 2018	Cdr Riley was killed by fallenfire with a fas2_dv2
+Sat Oct 20 14:13:50 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:13:50 2018	[prof delaventure] was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:50 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:50 2018	Crash_Trooper was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:50 2018	Kyle was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:52 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:13:53 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:13:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:13:55 2018	Jeroma was killed by Entity [4920][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:57 2018	Crash_Trooper was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:58 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:13:59 2018	Kyle was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:13:59 2018	[Opi] Fat Gay was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:14:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:14:02 2018	[prof delaventure] was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	security jeff was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Mark Zuckerberg was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	fallenfire was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Bill Foreman was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Crash_Trooper was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Kilroy was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	[NWA]Dank Memes Reho was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Holmes was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Pirate Raider was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Jeroma was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Kyle was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	Cdr Riley was killed by Himself with a suicide trick
+Sat Oct 20 14:14:02 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 20 14:14:06 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:14:06 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:14:06 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 14:14:06 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:14:06 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:14:07 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 14:14:07 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 14:14:08 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 14:14:08 2018	[prof delaventure] (STEAM_0:1:94964109) spawned
+Sat Oct 20 14:14:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:14:09 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 14:14:09 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 14:14:10 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:14:18 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 14:14:20 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 14:14:21 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 14:14:21 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 14:14:22 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:14:23 2018	security jeff (STEAM_0:0:241171739) spawned
+Sat Oct 20 14:14:25 2018	Pootis Bird (STEAM_0:0:22086175) has joined the game
+Sat Oct 20 14:14:25 2018	Pootis Bird (STEAM_0:0:22086175) spawned
+Sat Oct 20 14:14:29 2018	[prof delaventure] (STEAM_0:1:94964109) spawned
+Sat Oct 20 14:14:30 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:14:35 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 14:14:38 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 14:14:38 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 14:14:39 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:14:40 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:14:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:14:48 2018	Freds (STEAM_0:0:119608149) has joined the game
+Sat Oct 20 14:14:48 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:14:48 2018	Kyle (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:14:59 2018	Jeroma (STEAM_0:0:121143569): /pm bill Gonna make one
+Sat Oct 20 14:15:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // you quick question guys, what level are you and how long have you been playing today?
+Sat Oct 20 14:15:06 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 14:15:19 2018	Pirate Raider (STEAM_0:1:116056055): // level 3, just joined 40 mins ago
+Sat Oct 20 14:15:19 2018	Cdr Riley (STEAM_0:0:106554367): // just today level 5
+Sat Oct 20 14:15:20 2018	Bill Foreman (STEAM_0:0:45838915): // Level 6 and I dont know, maybe 55 Minutes?
+Sat Oct 20 14:15:27 2018	Jeroma (STEAM_0:0:121143569): // Level 8 and about 2 hours and 30 minuts
+Sat Oct 20 14:15:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // mk
+Sat Oct 20 14:15:48 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // im level 8 and don't know how many hours
+Sat Oct 20 14:15:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i have a little notepad page which has the average time it takes to get to each level
+Sat Oct 20 14:16:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // 200 seconds - 3.3 MINS
+Sat Oct 20 14:16:10 2018	[prof delaventure] (STEAM_0:1:94964109): // Kyle ???
+Sat Oct 20 14:16:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // evel 3 - 400 seconds - 10 MINS
+Sat Oct 20 14:16:18 2018	Kyle (STEAM_0:0:60076325): // what happend
+Sat Oct 20 14:16:21 2018	Bill Foreman (STEAM_0:0:45838915): // Saw it on Discord
+Sat Oct 20 14:16:22 2018	Pirate Raider (STEAM_0:1:116056055): // why is there anti-bhop
+Sat Oct 20 14:16:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 4 - 800 seconds - 23 MINS
+Sat Oct 20 14:16:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 5 - 1600 seconds - 50 MINS
+Sat Oct 20 14:16:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 6 - 3200 seconds - 1.7 HRS
+Sat Oct 20 14:16:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): / level 7 - 6400 seconds - 3.5 HRS
+Sat Oct 20 14:16:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 7 - 6400 seconds - 3.5 HRS
+Sat Oct 20 14:16:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 8 - 12800 seconds - 7.1 HRS
+Sat Oct 20 14:17:00 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:17:01 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // What do the levels bring later
+Sat Oct 20 14:17:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 9 - 25600 seconds - 14.2 HRS
+Sat Oct 20 14:17:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // when i finish implementing them today
+Sat Oct 20 14:17:21 2018	Kyle (STEAM_0:0:60076325): /job good osama
+Sat Oct 20 14:17:21 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // oh
+Sat Oct 20 14:17:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // its gonna reduce RDM by making people play as plant worker and those types of jobs
+Sat Oct 20 14:17:33 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // for a bit
+Sat Oct 20 14:17:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // level 10 - 51200 seconds - 28.4 HRS
+Sat Oct 20 14:17:41 2018	Kyle (STEAM_0:0:60076325): /job osama but a good guy
+Sat Oct 20 14:17:45 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): // Im want pac so i have to go on the discord right?
+Sat Oct 20 14:17:50 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yes
+Sat Oct 20 14:18:26 2018	[NWA]Dank Memes Reho was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:18:28 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sat Oct 20 14:18:30 2018	Kyle (STEAM_0:0:60076325): // wheres the good boy place
+Sat Oct 20 14:19:13 2018	Jeroma (STEAM_0:0:121143569): wait
+Sat Oct 20 14:19:17 2018	[prof delaventure] (STEAM_0:1:94964109): 4198
+Sat Oct 20 14:19:42 2018	coldbolt25 (STEAM_0:0:59274331) has joined the game
+Sat Oct 20 14:19:42 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:20:04 2018	Freds (STEAM_0:0:119608149): // can i meltdown :3
+Sat Oct 20 14:20:15 2018	Walt Disney (STEAM_0:0:59274331): /ooc oof
+Sat Oct 20 14:20:22 2018	Walt Disney (STEAM_0:0:59274331): /ooc when the owner literally doesnt sleep
+Sat Oct 20 14:20:28 2018	Jeroma (STEAM_0:0:121143569): You can go in
+Sat Oct 20 14:20:35 2018	Freds (STEAM_0:0:119608149): // can i do the meltdown? :3
+Sat Oct 20 14:20:41 2018	Kyle (STEAM_0:0:60076325): /name Nostolgia critic
+Sat Oct 20 14:20:41 2018	Crash_Trooper (STEAM_0:1:94924909): ill be with you
+Sat Oct 20 14:20:50 2018	fallenfire (STEAM_0:0:173118977): // let me out then yes
+Sat Oct 20 14:20:54 2018	Nostolgia critic (STEAM_0:0:60076325): // helooooo everybody
+Sat Oct 20 14:21:07 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:21:16 2018	Kilroy (STEAM_0:0:138507625): /ooc morin
+Sat Oct 20 14:21:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // good morning
+Sat Oct 20 14:21:33 2018	Jeroma (STEAM_0:0:121143569): Keep it closed
+Sat Oct 20 14:21:43 2018	Cdr Riley (STEAM_0:0:106554367): // waht do Boost laser do?
+Sat Oct 20 14:21:45 2018	Freds (STEAM_0:0:119608149): // what can you do with the levels you get?
+Sat Oct 20 14:21:59 2018	fallenfire (STEAM_0:0:173118977): // heat up the core
+Sat Oct 20 14:22:05 2018	Jeroma (STEAM_0:0:121143569): /pm Ril It makes the Core overheat
+Sat Oct 20 14:22:07 2018	Crash_Trooper (STEAM_0:1:94924909): yes sir
+Sat Oct 20 14:22:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // when the levels are done, which they arent fully implemented yet, most jobs will be restricted to certain levels and above
+Sat Oct 20 14:22:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // to try and rid the server of minges
+Sat Oct 20 14:22:23 2018	Freds (STEAM_0:0:119608149): // oh, nice
+Sat Oct 20 14:22:34 2018	Freds (STEAM_0:0:119608149): // thats smart
+Sat Oct 20 14:22:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // so people will have to play as plant worker for a few hours to get higher jobs
+Sat Oct 20 14:22:44 2018	fallenfire (STEAM_0:0:173118977): // give beta players a tag fat gay
+Sat Oct 20 14:22:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // most gun jobs will require >24 hrs
+Sat Oct 20 14:23:02 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // idk if I can do that fallen
+Sat Oct 20 14:23:16 2018	fallenfire (STEAM_0:0:173118977): // aww
+Sat Oct 20 14:23:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // i cant make a ulx rank for that
+Sat Oct 20 14:23:27 2018	Crash_Trooper (STEAM_0:1:94924909): oh we have that if we have hostile in the core sir
+Sat Oct 20 14:23:31 2018	fallenfire (STEAM_0:0:173118977): // yay
+Sat Oct 20 14:23:32 2018	Freds (STEAM_0:0:119608149): // btw, terrorists can just rdm swats right?
+Sat Oct 20 14:23:33 2018	Jeroma (STEAM_0:0:121143569): !atags
+Sat Oct 20 14:23:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // CAN'T
+Sat Oct 20 14:23:40 2018	Kilroy (STEAM_0:0:138507625): /ooc fat you should find a way to actual make built in tests for the SCPs so reaserchers can do them
+Sat Oct 20 14:23:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yes
+Sat Oct 20 14:23:48 2018	Freds (STEAM_0:0:119608149): !motd
+Sat Oct 20 14:23:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // like what?
+Sat Oct 20 14:24:05 2018	Walt Disney (STEAM_0:0:59274331): /ooc Class D
+Sat Oct 20 14:24:06 2018	fallenfire (STEAM_0:0:173118977): parkor
+Sat Oct 20 14:24:08 2018	Pirate Raider (STEAM_0:1:116056055): // speed changer, gravity, size
+Sat Oct 20 14:24:11 2018	Walt Disney (STEAM_0:0:59274331): \
+Sat Oct 20 14:24:14 2018	Kilroy (STEAM_0:0:138507625): /ooc I dont know mabey like teleportation or make a class D job
+Sat Oct 20 14:24:22 2018	Pirate Raider (STEAM_0:1:116056055): // this isn't scp containment breach
+Sat Oct 20 14:24:32 2018	Death (STEAM_0:0:233578547) has joined the game
+Sat Oct 20 14:24:32 2018	Death (STEAM_0:0:233578547) spawned
+Sat Oct 20 14:24:32 2018	Walt Disney (STEAM_0:0:59274331): /ooc but we have scp'ss
+Sat Oct 20 14:24:35 2018	Freds (STEAM_0:0:119608149): // just read the motd, i can rdm eveyone exept other terrorists :D
+Sat Oct 20 14:24:41 2018	Freds (STEAM_0:0:119608149): // everyone*
+Sat Oct 20 14:24:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // mhm
+Sat Oct 20 14:24:43 2018	[prof delaventure] (STEAM_0:1:94964109): 
+Sat Oct 20 14:24:44 2018	Freds (STEAM_0:0:119608149): // 6. You may kill everyone except other terrorists
+Sat Oct 20 14:24:47 2018	Crash_Trooper (STEAM_0:1:94924909): oh i see sir
+Sat Oct 20 14:24:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto delav
+Sat Oct 20 14:24:57 2018	fallenfire (STEAM_0:0:173118977): // parkour
+Sat Oct 20 14:25:15 2018	Walt Disney (STEAM_0:0:59274331): /ooc also dont shoot admins in a sit and stuff
+Sat Oct 20 14:25:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring delv
+Sat Oct 20 14:25:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring prof
+Sat Oct 20 14:25:25 2018	Freds (STEAM_0:0:119608149): // gonna try to, ok
+Sat Oct 20 14:25:26 2018	Crash_Trooper (STEAM_0:1:94924909): it work
+Sat Oct 20 14:25:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring delav
+Sat Oct 20 14:25:32 2018	Walt Disney (STEAM_0:0:59274331): /ooc the regular
+Sat Oct 20 14:25:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring delav
+Sat Oct 20 14:25:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring nostalg
+Sat Oct 20 14:25:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring nost
+Sat Oct 20 14:26:10 2018	Crash_Trooper (STEAM_0:1:94924909): ill stay here to guared the core
+Sat Oct 20 14:26:32 2018	Kilroy (STEAM_0:0:138507625): y/ooc fat come please
+Sat Oct 20 14:26:37 2018	Kilroy (STEAM_0:0:138507625): /ooc fat come please
+Sat Oct 20 14:26:39 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:26:41 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:26:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // make a report
+Sat Oct 20 14:26:50 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:26:52 2018	Kilroy (STEAM_0:0:138507625): @ fat come please
+Sat Oct 20 14:27:03 2018	Walt Disney (STEAM_0:0:59274331): !goto kil
+Sat Oct 20 14:27:09 2018	fallenfire (STEAM_0:0:173118977): // like 10 more mins till i get out of contaiment
+Sat Oct 20 14:27:24 2018	fallenfire (STEAM_0:0:173118977): // hopfully
+Sat Oct 20 14:27:30 2018	Jeroma (STEAM_0:0:121143569): /Y No
+Sat Oct 20 14:27:39 2018	Jeroma (STEAM_0:0:121143569): /Y Because il lshoot
+Sat Oct 20 14:27:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 14:28:09 2018	Cdr Riley was killed by Freds with a cw_l85a2
+Sat Oct 20 14:28:13 2018	Bill Foreman (STEAM_0:0:45838915): /advert Head of Security: Checkpointstatus?
+Sat Oct 20 14:28:21 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:28:24 2018	Jeroma (STEAM_0:0:121143569): /advert Clear
+Sat Oct 20 14:28:25 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 14:28:26 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:28:32 2018	Jeroma (STEAM_0:0:121143569): Use it again
+Sat Oct 20 14:28:37 2018	Jeroma (STEAM_0:0:121143569): Stay near
+Sat Oct 20 14:28:49 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:28:55 2018	Death (STEAM_0:0:233578547) spawned
+Sat Oct 20 14:28:59 2018	Nostolgia critic (STEAM_0:0:60076325): /advert hello everybody im the nostolgia critic. I want to be friends I am not a bad boy anymore.
+Sat Oct 20 14:29:06 2018	Crash_Trooper (STEAM_0:1:94924909): true
+Sat Oct 20 14:29:17 2018	Walt Disney (STEAM_0:0:59274331): /ooc 4 1 9 8
+Sat Oct 20 14:29:18 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Freds with a cw_l85a2
+Sat Oct 20 14:29:32 2018	Bill Foreman (STEAM_0:0:45838915): /advert HoS Status?
+Sat Oct 20 14:29:35 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:29:42 2018	Bill Foreman (STEAM_0:0:45838915): /advert Explosions at Corecheckpoint
+Sat Oct 20 14:29:45 2018	Freds (STEAM_0:0:119608149): // fuck you with your shitty one way see throught
+Sat Oct 20 14:29:59 2018	Freds was killed by Jeroma with a cw_deagle
+Sat Oct 20 14:30:00 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:30:03 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:30:21 2018	Jeroma (STEAM_0:0:121143569): Hes dead
+Sat Oct 20 14:30:25 2018	Freds (STEAM_0:0:119608149): !motd
+Sat Oct 20 14:30:29 2018	Bill Foreman (STEAM_0:0:45838915): /advert Power Plant Workers please check the Coolantsystems, thank you.
+Sat Oct 20 14:30:36 2018	Holmes (STEAM_0:0:204456225): /me Waves
+Sat Oct 20 14:30:45 2018	Jeroma (STEAM_0:0:121143569): Sthap
+Sat Oct 20 14:30:46 2018	Holmes (STEAM_0:0:204456225): hi
+Sat Oct 20 14:30:53 2018	Crash_Trooper (STEAM_0:1:94924909): ok he is ded
+Sat Oct 20 14:30:58 2018	Walt Disney (STEAM_0:0:59274331): /pm fat so just let out all scp's
+Sat Oct 20 14:31:06 2018	Jeroma (STEAM_0:0:121143569): And the deagle shots
+Sat Oct 20 14:31:10 2018	Walt Disney (STEAM_0:0:59274331): /pm fat ?
+Sat Oct 20 14:31:23 2018	Nostolgia critic (STEAM_0:0:60076325): /job critic
+Sat Oct 20 14:31:39 2018	Freds (STEAM_0:0:119608149): // why dosent terrorist have grenades anymore?
+Sat Oct 20 14:32:23 2018	Crash_Trooper (STEAM_0:1:94924909): ill go to check the core
+Sat Oct 20 14:32:42 2018	Holmes (STEAM_0:0:204456225): ik
+Sat Oct 20 14:32:46 2018	Nostolgia critic was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:32:49 2018	Nostolgia critic (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:32:59 2018	Nostolgia critic (STEAM_0:0:60076325): // lmao
+Sat Oct 20 14:33:02 2018	[prof delaventure] was killed by Holmes with a cw_ump45
+Sat Oct 20 14:33:03 2018	Freds (STEAM_0:0:119608149): // i hate that the core is protected by one way walls
+Sat Oct 20 14:33:06 2018	Cdr Riley (STEAM_0:0:106554367): /radio teertoist by Collant
+Sat Oct 20 14:33:11 2018	Crash_Trooper (STEAM_0:1:94924909): we had hostiles at the core
+Sat Oct 20 14:33:18 2018	Crash_Trooper (STEAM_0:1:94924909): we got them
+Sat Oct 20 14:33:20 2018	[prof delaventure] (STEAM_0:1:94964109) spawned
+Sat Oct 20 14:33:26 2018	Imperial_Germany (STEAM_0:0:115652713) has joined the game
+Sat Oct 20 14:33:26 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Sat Oct 20 14:33:28 2018	Holmes (STEAM_0:0:204456225): ?
+Sat Oct 20 14:33:40 2018	Holmes (STEAM_0:0:204456225): he was a threat 
+Sat Oct 20 14:33:59 2018	security jeff (STEAM_0:0:241171739) disconnected
+Sat Oct 20 14:34:09 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:34:12 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:34:19 2018	Crash_Trooper (STEAM_0:1:94924909): core has hotiles
+Sat Oct 20 14:34:32 2018	Walt Disney (STEAM_0:0:59274331): !goto nostalgia
+Sat Oct 20 14:34:33 2018	Nostolgia critic was killed by Jeroma with a cw_deagle
+Sat Oct 20 14:34:39 2018	Nostolgia critic (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:34:43 2018	Walt Disney (STEAM_0:0:59274331): !goto nostolgia
+Sat Oct 20 14:34:44 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:34:45 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 14:34:55 2018	Kilroy (STEAM_0:0:138507625): /advert LET ME OUT
+Sat Oct 20 14:35:08 2018	Death (STEAM_0:0:233578547) disconnected
+Sat Oct 20 14:35:08 2018	Holmes was killed by Freds with a cw_l85a2
+Sat Oct 20 14:35:09 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:35:18 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 14:35:29 2018	Jeroma (STEAM_0:0:121143569): That was
+Sat Oct 20 14:35:31 2018	Jeroma (STEAM_0:0:121143569): Some
+Sat Oct 20 14:35:33 2018	Jeroma (STEAM_0:0:121143569): Good work
+Sat Oct 20 14:35:35 2018	Crash_Trooper (STEAM_0:1:94924909): hotiles are gone
+Sat Oct 20 14:35:38 2018	Laben_Venci (STEAM_0:1:45174348) has joined the game
+Sat Oct 20 14:35:38 2018	Cletus (STEAM_0:1:45174348) spawned
+Sat Oct 20 14:35:42 2018	Kilroy (STEAM_0:0:138507625): /@ Terrorist come let me play
+Sat Oct 20 14:35:43 2018	Cdr Riley (STEAM_0:0:106554367): /radio Terrorist turnd off teh fans and such
+Sat Oct 20 14:35:51 2018	Holmes (STEAM_0:0:204456225): where do these terroists come from cos they keep coming out of 1 damm room
+Sat Oct 20 14:35:52 2018	Kilroy (STEAM_0:0:138507625): @ Terrorist come let me play
+Sat Oct 20 14:35:52 2018	Crash_Trooper (STEAM_0:1:94924909): i need health
+Sat Oct 20 14:35:54 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Sat Oct 20 14:35:56 2018	Crash_Trooper (STEAM_0:1:94924909): thx
+Sat Oct 20 14:35:58 2018	Jeroma (STEAM_0:0:121143569): Im healing ya
+Sat Oct 20 14:36:05 2018	Nostolgia critic (STEAM_0:0:60076325): /job not a terrorist
+Sat Oct 20 14:36:24 2018	Jeroma (STEAM_0:0:121143569): THey have a seperate room wich have vents they use them to get ot the coolant room
+Sat Oct 20 14:36:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 14:36:40 2018	Holmes (STEAM_0:0:204456225): damm aight cheers
+Sat Oct 20 14:36:41 2018	Jeroma (STEAM_0:0:121143569): Wait
+Sat Oct 20 14:36:47 2018	Freds (STEAM_0:0:119608149): // picci day?
+Sat Oct 20 14:36:47 2018	Jeroma (STEAM_0:0:121143569): Stop
+Sat Oct 20 14:36:52 2018	Bill Foreman (STEAM_0:0:45838915): HoS is everything safe?
+Sat Oct 20 14:36:56 2018	Nostolgia critic was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:36:59 2018	Nostolgia critic (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:37:05 2018	Jeroma (STEAM_0:0:121143569): there are some at checkpoint want for a Apointments
+Sat Oct 20 14:37:08 2018	Cletus (STEAM_0:1:45174348) spawned
+Sat Oct 20 14:37:10 2018	Nostolgia critic (STEAM_0:0:60076325): /advert racist security smhmyhead
+Sat Oct 20 14:37:19 2018	Kilroy (STEAM_0:0:138507625): /advert Lock pick the big cell door
+Sat Oct 20 14:37:21 2018	Cletus (STEAM_0:1:45174348): // Only 2 chefs now? Aw.
+Sat Oct 20 14:37:22 2018	Jeroma (STEAM_0:0:121143569): Should we let em in?
+Sat Oct 20 14:37:37 2018	John Schaefer (STEAM_0:0:115652713): /g What in the hell is going on 
+Sat Oct 20 14:37:39 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:37:49 2018	Jeroma (STEAM_0:0:121143569): Get to the core we need more help
+Sat Oct 20 14:37:50 2018	Crash_Trooper (STEAM_0:1:94924909): i need ammo
+Sat Oct 20 14:37:55 2018	Jeroma (STEAM_0:0:121143569): Buy some
+Sat Oct 20 14:37:58 2018	John Schaefer (STEAM_0:0:115652713): /g I gotta wait for this stupid tram
+Sat Oct 20 14:37:59 2018	Crash_Trooper (STEAM_0:1:94924909): ok
+Sat Oct 20 14:38:12 2018	Jeroma (STEAM_0:0:121143569): Also a terrorist is coming with the tram
+Sat Oct 20 14:38:18 2018	John Schaefer (STEAM_0:0:115652713): // Feels weird not having ammo boxes and grenades
+Sat Oct 20 14:38:26 2018	Jeroma (STEAM_0:0:121143569): Hello
+Sat Oct 20 14:38:28 2018	Jeroma (STEAM_0:0:121143569): How are you
+Sat Oct 20 14:38:34 2018	Jeroma (STEAM_0:0:121143569): Lemme check
+Sat Oct 20 14:38:48 2018	Bill Foreman (STEAM_0:0:45838915): /advert The temperature is still rising..
+Sat Oct 20 14:38:48 2018	Cletus (STEAM_0:1:45174348): /job Head Chef
+Sat Oct 20 14:38:49 2018	Jeroma (STEAM_0:0:121143569): Plant director someone is here for the job interview 
+Sat Oct 20 14:38:55 2018	Bill Foreman (STEAM_0:0:45838915): Who is someone?
+Sat Oct 20 14:38:58 2018	Cdr Riley (STEAM_0:0:106554367): /advert on it
+Sat Oct 20 14:39:00 2018	John Schaefer (STEAM_0:0:115652713): /advert I think we know that
+Sat Oct 20 14:39:01 2018	Jeroma (STEAM_0:0:121143569): /Y Stop
+Sat Oct 20 14:39:04 2018	Jeroma (STEAM_0:0:121143569): /Y For a second
+Sat Oct 20 14:39:12 2018	Freds (STEAM_0:0:119608149): 4198
+Sat Oct 20 14:39:17 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Sat Oct 20 14:39:17 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 20 14:39:20 2018	Crash_Trooper (STEAM_0:1:94924909): i dont trust him
+Sat Oct 20 14:39:24 2018	Jeroma (STEAM_0:0:121143569): I have to cuff
+Sat Oct 20 14:39:24 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Sat Oct 20 14:39:24 2018	Bob Bobsson (STEAM_0:0:69022001) spawned
+Sat Oct 20 14:39:25 2018	Jeroma (STEAM_0:0:121143569): You
+Sat Oct 20 14:39:31 2018	Jeroma (STEAM_0:0:121143569): Security reason
+Sat Oct 20 14:39:32 2018	Holmes (STEAM_0:0:204456225) disconnected
+Sat Oct 20 14:39:39 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by [Opi] Fat Gay with a csgo_bayonet
+Sat Oct 20 14:39:42 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:39:42 2018	[prof delaventure] was killed by John Schaefer with a cw_shorty
+Sat Oct 20 14:39:47 2018	[prof delaventure] (STEAM_0:1:94964109) spawned
+Sat Oct 20 14:39:54 2018	Jeroma (STEAM_0:0:121143569): Follow me
+Sat Oct 20 14:40:05 2018	Bob Bobsson (STEAM_0:0:69022001) spawned
+Sat Oct 20 14:40:06 2018	[prof delaventure] (STEAM_0:1:94964109): // Nostalia where are you?
+Sat Oct 20 14:40:11 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:40:15 2018	[Opi] Fat Gay was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:40:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 14:40:31 2018	fallenfire (STEAM_0:0:173118977): // cool your not afk anymore fat gay
+Sat Oct 20 14:40:32 2018	[prof delaventure] (STEAM_0:1:94964109) disconnected
+Sat Oct 20 14:40:35 2018	Kilroy (STEAM_0:0:138507625): @ FAT LET ME OUT ME "FRIENDS" DONT KNOW HOW TO GET HERE
+Sat Oct 20 14:40:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // no im afk
+Sat Oct 20 14:40:41 2018	Jeroma (STEAM_0:0:121143569): Cash why arent you down there guarding
+Sat Oct 20 14:40:43 2018	Kilroy (STEAM_0:0:138507625): /ooc WHAT
+Sat Oct 20 14:40:45 2018	Freds (STEAM_0:0:119608149): // ikr, hes afk
+Sat Oct 20 14:40:53 2018	Jeroma (STEAM_0:0:121143569): Soo
+Sat Oct 20 14:40:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto nost
+Sat Oct 20 14:40:57 2018	Jeroma (STEAM_0:0:121143569): crash
+Sat Oct 20 14:41:00 2018	Jeroma (STEAM_0:0:121143569): Get down there
+Sat Oct 20 14:41:00 2018	Crash_Trooper (STEAM_0:1:94924909): i killed him
+Sat Oct 20 14:41:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto fred
+Sat Oct 20 14:41:08 2018	Freds (STEAM_0:0:119608149): hi
+Sat Oct 20 14:41:08 2018	Jeroma (STEAM_0:0:121143569): I try
+Sat Oct 20 14:41:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dank
+Sat Oct 20 14:41:10 2018	Walt Disney (STEAM_0:0:59274331): !bring bill
+Sat Oct 20 14:41:11 2018	Jeroma (STEAM_0:0:121143569): To control him
+Sat Oct 20 14:41:15 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 14:41:20 2018	Freds (STEAM_0:0:119608149): how r u
+Sat Oct 20 14:41:24 2018	Freds (STEAM_0:0:119608149): ik u there
+Sat Oct 20 14:41:27 2018	Freds (STEAM_0:0:119608149): goddamit
+Sat Oct 20 14:41:35 2018	Walt Disney (STEAM_0:0:59274331): 
+Sat Oct 20 14:41:38 2018	Jeroma (STEAM_0:0:121143569): Get down there
+Sat Oct 20 14:41:44 2018	Jeroma (STEAM_0:0:121143569): Guard
+Sat Oct 20 14:41:51 2018	Dat Doge Doe [W-G] (STEAM_0:1:419151052) has joined the game
+Sat Oct 20 14:41:51 2018	Flap Flap (STEAM_0:1:419151052) spawned
+Sat Oct 20 14:41:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto fallen
+Sat Oct 20 14:42:00 2018	Bill Foreman (STEAM_0:0:45838915): /advert Is he my new Secretary?
+Sat Oct 20 14:42:08 2018	Cdr Riley (STEAM_0:0:106554367): /avdvert can we get secutry chekpoint by Coolant maintceß
+Sat Oct 20 14:42:25 2018	Kilroy (STEAM_0:0:138507625): /advert YOUR A FAGGOT
+Sat Oct 20 14:42:25 2018	Cdr Riley (STEAM_0:0:106554367): /advert can we get a sec Chekpoint by coolant maintce
+Sat Oct 20 14:42:29 2018	John Schaefer (STEAM_0:0:115652713): /advert I miss the 2000's
+Sat Oct 20 14:42:34 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:42:57 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:42:59 2018	Jeroma (STEAM_0:0:121143569): Hahha
+Sat Oct 20 14:43:08 2018	Crash_Trooper (STEAM_0:1:94924909): scp at the core
+Sat Oct 20 14:43:09 2018	Freds was killed by John Schaefer with a cw_shorty
+Sat Oct 20 14:43:11 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:43:25 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:43:32 2018	Kilroy was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:43:34 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 14:43:43 2018	Jeroma (STEAM_0:0:121143569): Stop
+Sat Oct 20 14:43:44 2018	Crash_Trooper (STEAM_0:1:94924909): sry
+Sat Oct 20 14:43:47 2018	Jeroma (STEAM_0:0:121143569): Resisting
+Sat Oct 20 14:43:50 2018	Cdr Riley (STEAM_0:0:106554367): /advert CBN to lower levels
+Sat Oct 20 14:43:57 2018	Revolver Ocelote (STEAM_0:0:10631997) has joined the game
+Sat Oct 20 14:43:57 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 14:44:05 2018	Jeroma was killed by Nostolgia critic with a cw_scarh
+Sat Oct 20 14:44:08 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:44:15 2018	Cdr Riley was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:44:17 2018	Bob Bobsson (STEAM_0:0:69022001) disconnected
+Sat Oct 20 14:44:25 2018	Nostolgia critic was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:44:26 2018	Cdr Riley (STEAM_0:0:106554367) spawned
+Sat Oct 20 14:44:31 2018	Nostolgia critic (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:44:33 2018	Cdr Riley (STEAM_0:0:106554367): // afk
+Sat Oct 20 14:44:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /job AFK
+Sat Oct 20 14:44:46 2018	Crash_Trooper (STEAM_0:1:94924909): he tried to prison me sir
+Sat Oct 20 14:44:53 2018	Freds (STEAM_0:0:119608149): oh
+Sat Oct 20 14:44:55 2018	Freds (STEAM_0:0:119608149): shit sry
+Sat Oct 20 14:45:01 2018	fallenfire was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:45:28 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct 20 14:45:28 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 14:45:34 2018	Jeroma (STEAM_0:0:121143569): Hello
+Sat Oct 20 14:45:36 2018	Walt Disney (STEAM_0:0:59274331): !bring bill
+Sat Oct 20 14:45:40 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 14:45:42 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:45:45 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 14:45:46 2018	Crash_Trooper (STEAM_0:1:94924909): we still have them
+Sat Oct 20 14:46:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 14:46:06 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 14:46:08 2018	Flap Flap (STEAM_0:1:419151052) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 14:46:09 2018	Freds was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:46:10 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:46:12 2018	Cletus was killed by Entity [5399][entityflame] with a entityflame
+Sat Oct 20 14:46:18 2018	Cletus (STEAM_0:1:45174348) spawned
+Sat Oct 20 14:46:36 2018	Cletus was killed by Entity [1201][entityflame] with a entityflame
+Sat Oct 20 14:46:37 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:46:40 2018	Cletus (STEAM_0:1:45174348) spawned
+Sat Oct 20 14:46:40 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 14:46:42 2018	Walt Disney (STEAM_0:0:59274331): !bring bill
+Sat Oct 20 14:46:55 2018	Adam Klein (STEAM_0:1:116765028) disconnected
+Sat Oct 20 14:47:02 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 14:47:15 2018	Crash_Trooper (STEAM_0:1:94924909): we must do what we have to to protect the core
+Sat Oct 20 14:47:24 2018	Crash_Trooper (STEAM_0:1:94924909): good sir
+Sat Oct 20 14:47:50 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 14:48:11 2018	Crash_Trooper (STEAM_0:1:94924909): i wonder what outside this place looks like
+Sat Oct 20 14:48:24 2018	Cletus was killed by Freds with a cw_l115
+Sat Oct 20 14:48:30 2018	[Opi] Tello (STEAM_0:0:74320577) has joined the game
+Sat Oct 20 14:48:30 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 14:48:41 2018	fallenfire (STEAM_0:0:173118977): im coming into the core room
+Sat Oct 20 14:48:44 2018	Cletus (STEAM_0:1:45174348) spawned
+Sat Oct 20 14:48:52 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /w dance
+Sat Oct 20 14:49:00 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct 20 14:49:00 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 14:49:12 2018	Freds (STEAM_0:0:119608149): 4198
+Sat Oct 20 14:49:44 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): sit
+Sat Oct 20 14:49:44 2018	fallenfire (STEAM_0:0:173118977): // 
+Sat Oct 20 14:50:47 2018	Freds (STEAM_0:0:119608149): stop gay
+Sat Oct 20 14:50:53 2018	Nostolgia critic was killed by Jeroma with a cw_shorty
+Sat Oct 20 14:51:03 2018	Nostolgia critic (STEAM_0:0:60076325) spawned
+Sat Oct 20 14:51:08 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 14:51:10 2018	Freds (STEAM_0:0:119608149): were trying to make a meltdown not invert it
+Sat Oct 20 14:51:39 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /w madness
+Sat Oct 20 14:51:53 2018	Bill Foreman (STEAM_0:0:45838915): My remote control thing is working
+Sat Oct 20 14:51:53 2018	fallenfire was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 14:51:57 2018	Bill Foreman (STEAM_0:0:45838915): finally
+Sat Oct 20 14:51:58 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:52:05 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:52:05 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:52:06 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:52:07 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 14:52:09 2018	Walt Disney (STEAM_0:0:59274331): /ooc ?
+Sat Oct 20 14:52:11 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772): /w rape
+Sat Oct 20 14:52:36 2018	Jeroma (STEAM_0:0:121143569): Rarw
+Sat Oct 20 14:52:38 2018	Tello (STEAM_0:0:74320577): // cbrn
+Sat Oct 20 14:52:41 2018	Kilroy (STEAM_0:0:138507625): /ooc There are not
+Sat Oct 20 14:52:41 2018	SharpZ (STEAM_0:1:156170210) has joined the game
+Sat Oct 20 14:52:41 2018	SharpZ (STEAM_0:1:156170210) spawned
+Sat Oct 20 14:52:42 2018	John Schaefer (STEAM_0:0:115652713): /advert Yeah SCPs are going to the basement
+Sat Oct 20 14:52:43 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 14:52:55 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 14:53:06 2018	Crash_Trooper (STEAM_0:1:94924909): all clear
+Sat Oct 20 14:53:10 2018	Freds was killed by Tello with a cw_g36c
+Sat Oct 20 14:53:12 2018	Freds (STEAM_0:0:119608149) spawned
+Sat Oct 20 14:53:14 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:53:17 2018	Revolver Ocelote was killed by Tello with a cw_g36c
+Sat Oct 20 14:53:18 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 14:53:18 2018	Walt Disney was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:53:19 2018	Adam Klein (STEAM_0:1:116765028): /job Happy Merchant
+Sat Oct 20 14:53:20 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:53:27 2018	Walt Disney (STEAM_0:0:59274331): !goto bill
+Sat Oct 20 14:53:30 2018	Crash_Trooper was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 14:53:34 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 14:53:35 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 20 14:53:53 2018	Jeroma (STEAM_0:0:121143569): My checkpoint is
+Sat Oct 20 14:53:54 2018	Jeroma (STEAM_0:0:121143569): Good
+Sat Oct 20 14:53:55 2018	Walt Disney was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 14:53:57 2018	Jeroma (STEAM_0:0:121143569): Ye?
+Sat Oct 20 14:53:58 2018	John Schaefer (STEAM_0:0:115652713): /advert Fuck ton of SCPs at the gate
+Sat Oct 20 14:53:59 2018	Walt Disney (STEAM_0:0:59274331): /ooc FAAAAAAAAAAAAAAAT
+Sat Oct 20 14:54:06 2018	Jeroma (STEAM_0:0:121143569): Aboose
+Sat Oct 20 14:54:09 2018	Jeroma (STEAM_0:0:121143569): Bad
+Sat Oct 20 14:54:10 2018	Freds (STEAM_0:0:119608149): stop
+Sat Oct 20 14:54:11 2018	Walt Disney (STEAM_0:0:59274331): /ooc i got roasted
+Sat Oct 20 14:54:11 2018	SharpZ (STEAM_0:1:156170210) spawned
+Sat Oct 20 14:54:13 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:54:18 2018	Jeroma was killed by Tello with a cw_g36c
+Sat Oct 20 14:54:19 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:54:22 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 14:54:25 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 14:54:28 2018	John Schaefer (STEAM_0:0:115652713): // HEY NO PROPCLIMBING
+Sat Oct 20 14:54:29 2018	Pirate Raider was killed by Tello with a weapon_sillyzombieclaw_v2
+Sat Oct 20 14:54:33 2018	Bill Foreman (STEAM_0:0:45838915): /advert Engineer could you please check the Coolant System ?
+Sat Oct 20 14:54:34 2018	Kilroy was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 14:54:35 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 14:54:35 2018	John Schaefer (STEAM_0:0:115652713): // Stop that you wipper snapper
+Sat Oct 20 14:54:36 2018	Freds (STEAM_0:0:119608149): // can i kos a terrorist who is trying to invert a meltdown?
+Sat Oct 20 14:54:39 2018	Pirate Raider (STEAM_0:1:116056055): @ fucktard killed me as zombie
+Sat Oct 20 14:54:40 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sat Oct 20 14:54:48 2018	PEEPEEthefrog (STEAM_0:0:231093816) has joined the game
+Sat Oct 20 14:54:48 2018	bigish small penis (STEAM_0:0:231093816) spawned
+Sat Oct 20 14:54:52 2018	John Schaefer (STEAM_0:0:115652713): /advert GET AWAY FROM THE GATE
+Sat Oct 20 14:54:58 2018	Kilroy (STEAM_0:0:138507625): /ooc cant KOS TERORS
+Sat Oct 20 14:54:58 2018	Adam Klein (STEAM_0:1:116765028): // You can kos terrorists period
+Sat Oct 20 14:55:18 2018	Pirate Raider (STEAM_0:1:116056055): // for fucks sake you cant kill scps if you become a zombie that's failrp
+Sat Oct 20 14:55:29 2018	Nostolgia critic (STEAM_0:0:60076325): // its ok im not a terrorist
+Sat Oct 20 14:55:45 2018	Jeroma (STEAM_0:0:121143569): was that murder?
+Sat Oct 20 14:55:45 2018	WildToastyMop (STEAM_0:0:93414166): !clear
+Sat Oct 20 14:55:58 2018	Pirate Raider (STEAM_0:1:116056055): // oi
+Sat Oct 20 14:56:06 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 14:56:10 2018	Pirate Raider (STEAM_0:1:116056055): // you're supposed to team with scps
+Sat Oct 20 14:56:12 2018	Pirate Raider (STEAM_0:1:116056055): // cunt
+Sat Oct 20 14:56:14 2018	Jeroma (STEAM_0:0:121143569): Ok
+Sat Oct 20 14:56:17 2018	Jeroma (STEAM_0:0:121143569): Objective
+Sat Oct 20 14:56:20 2018	Jeroma (STEAM_0:0:121143569): Fuck shit up
+Sat Oct 20 14:56:22 2018	Freds (STEAM_0:0:119608149): // rly?
+Sat Oct 20 14:56:23 2018	Crash_Trooper (STEAM_0:1:94924909): im back at the core
+Sat Oct 20 14:56:25 2018	fallenfire (STEAM_0:0:173118977): yes
+Sat Oct 20 14:56:26 2018	Pirate Raider (STEAM_0:1:116056055): // yes
+Sat Oct 20 14:56:31 2018	Freds (STEAM_0:0:119608149): !motd
+Sat Oct 20 14:56:34 2018	fallenfire (STEAM_0:0:173118977): ill scps
+Sat Oct 20 14:56:35 2018	Revolver Ocelote was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 14:56:35 2018	John Schaefer (STEAM_0:0:115652713): /advert Bird Man's turning on the lazers
+Sat Oct 20 14:56:38 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 14:56:55 2018	Adam Klein (STEAM_0:1:116765028) disconnected
+Sat Oct 20 14:56:55 2018	Freds (STEAM_0:0:119608149): // oh yea, srt
+Sat Oct 20 14:57:05 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 14:57:10 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 14:57:16 2018	yikers. (STEAM_0:0:71868757) has joined the game
+Sat Oct 20 14:57:16 2018	yikers. (STEAM_0:0:71868757) spawned
+Sat Oct 20 14:57:16 2018	Jeroma (STEAM_0:0:121143569): Were coming
+Sat Oct 20 14:57:18 2018	Crash_Trooper (STEAM_0:1:94924909): im here
+Sat Oct 20 14:57:31 2018	󠀡=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sat Oct 20 14:57:31 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 14:58:26 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:58:30 2018	Flap Flap (STEAM_0:1:419151052) disconnected
+Sat Oct 20 14:58:31 2018	Tello (STEAM_0:0:74320577): /advert En- Route
+Sat Oct 20 14:58:40 2018	Kilroy (STEAM_0:0:138507625): /ooc STOP WHIT HTHE WIRE TURRET THEING
+Sat Oct 20 14:58:46 2018	Bill Foreman (STEAM_0:0:45838915): // Nope
+Sat Oct 20 14:58:47 2018	Kilroy (STEAM_0:0:138507625): ww
+Sat Oct 20 14:58:50 2018	Tello (STEAM_0:0:74320577): // fat gay you here?
+Sat Oct 20 14:58:51 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:58:59 2018	Jeroma (STEAM_0:0:121143569): /Y Helprawrr
+Sat Oct 20 14:58:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // no im busy rn
+Sat Oct 20 14:59:01 2018	Pootis Bird (STEAM_0:0:22086175) disconnected
+Sat Oct 20 14:59:02 2018	yikers. (STEAM_0:0:71868757) spawned
+Sat Oct 20 14:59:04 2018	Tello (STEAM_0:0:74320577): // Damn
+Sat Oct 20 14:59:08 2018	Crash_Trooper (STEAM_0:1:94924909): yes
+Sat Oct 20 14:59:09 2018	Jeroma was killed by John Schaefer with a cw_shorty
+Sat Oct 20 14:59:10 2018	Revolver Ocelote (STEAM_0:0:10631997): /kill
+Sat Oct 20 14:59:12 2018	fallenfire was killed by Crash_Trooper with a cw_m3super90
+Sat Oct 20 14:59:12 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 14:59:14 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 14:59:22 2018	Revolver Ocelote (STEAM_0:0:10631997): /sleep
+Sat Oct 20 14:59:42 2018	SharpZ was killed by yikers. with a weapon_l4d2_frying_pan
+Sat Oct 20 14:59:46 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 14:59:48 2018	Kilroy (STEAM_0:0:138507625): @ Fat is this allowed
+Sat Oct 20 14:59:52 2018	SharpZ (STEAM_0:1:156170210) spawned
+Sat Oct 20 14:59:59 2018	Revolver Ocelote (STEAM_0:0:10631997) spawned
+Sat Oct 20 15:00:08 2018	Jeroma (STEAM_0:0:121143569): Its
+Sat Oct 20 15:00:09 2018	Jeroma (STEAM_0:0:121143569): Locked
+Sat Oct 20 15:00:30 2018	Nibbler (STEAM_0:1:81708481) has joined the game
+Sat Oct 20 15:00:30 2018	Nibbler (STEAM_0:1:81708481) spawned
+Sat Oct 20 15:00:33 2018	GamerCakeTV  [CrypRP.com][BRG] was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 15:00:35 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned
+Sat Oct 20 15:00:38 2018	Jeroma (STEAM_0:0:121143569): I dont think so
+Sat Oct 20 15:00:46 2018	GamerCakeTV  [CrypRP.com][BRG] (STEAM_0:0:46148772) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 15:00:59 2018	Tello (STEAM_0:0:74320577): /advert whats the situation PLATNT awner
+Sat Oct 20 15:01:05 2018	Tello (STEAM_0:0:74320577): // plant owner\
+Sat Oct 20 15:01:05 2018	fallenfire (STEAM_0:0:173118977): // dead'
+Sat Oct 20 15:01:08 2018	John Schaefer was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 15:01:08 2018	Infinitynull (STEAM_0:1:60776888): // What does awner mean?
+Sat Oct 20 15:01:12 2018	Bill Foreman was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 15:01:13 2018	fallenfire (STEAM_0:0:173118977): // you locked it doe
+Sat Oct 20 15:01:20 2018	Tello (STEAM_0:0:74320577): /advert 3 guys comming en route
+Sat Oct 20 15:01:23 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 15:01:27 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 15:01:29 2018	Jeroma (STEAM_0:0:121143569): LEts go
+Sat Oct 20 15:01:29 2018	Kilroy (STEAM_0:0:138507625): @ fat he is niot deleting it
+Sat Oct 20 15:01:29 2018	Walt Disney was killed by Crash_Trooper with a fas2_thrown_m67
+Sat Oct 20 15:01:30 2018	Crash_Trooper was killed by Himself with a suicide trick
+Sat Oct 20 15:01:33 2018	Jeroma (STEAM_0:0:121143569): And fuck shit up
+Sat Oct 20 15:01:35 2018	yikers. (STEAM_0:0:71868757) disconnected
+Sat Oct 20 15:01:41 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 15:01:41 2018	Walt Disney (STEAM_0:0:59274331) spawned
+Sat Oct 20 15:01:42 2018	John Schaefer (STEAM_0:0:115652713) spawned
+Sat Oct 20 15:01:42 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 20 15:01:48 2018	Nostolgia critic (STEAM_0:0:60076325): // wild toasty mop holy shit
+Sat Oct 20 15:01:48 2018	Bill Foreman (STEAM_0:0:45838915): // I think I am allowed to own that stuff as a Core Sec right?
+Sat Oct 20 15:01:51 2018	Nostolgia critic (STEAM_0:0:60076325): // its kyle
+Sat Oct 20 15:01:55 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 15:01:58 2018	Jeroma (STEAM_0:0:121143569): a
+Sat Oct 20 15:02:05 2018	Nostolgia critic (STEAM_0:0:60076325): // from mafia rp
+Sat Oct 20 15:02:07 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 15:02:07 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sat Oct 20 15:02:07 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 15:02:08 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 15:02:12 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 15:02:13 2018	Crash_Trooper (STEAM_0:1:94924909): head to the core
+Sat Oct 20 15:02:21 2018	Mark Zuckerberg (STEAM_0:1:85567021) spawned
+Sat Oct 20 15:02:26 2018	Bill Foreman (STEAM_0:0:45838915): @ Am I allowed to own the Boost Control Terminal as a Core Security Guy?
+Sat Oct 20 15:02:29 2018	fallenfire was killed by Tello with a weapon_sillyzombieclaw_v2
+Sat Oct 20 15:02:31 2018	fallenfire (STEAM_0:0:173118977) spawned
+Sat Oct 20 15:02:39 2018	Pirate Raider (STEAM_0:1:116056055): @ tello and fallen is failrping
+Sat Oct 20 15:02:44 2018	WildToastyMop (STEAM_0:0:93414166): /advert bill delete your shit
+Sat Oct 20 15:02:51 2018	Jeroma (STEAM_0:0:121143569): Rawr
+Sat Oct 20 15:02:54 2018	Jeroma (STEAM_0:0:121143569): USe
+Sat Oct 20 15:02:56 2018	Jeroma (STEAM_0:0:121143569): The keycard
+Sat Oct 20 15:02:58 2018	Jeroma (STEAM_0:0:121143569): Cracker
+Sat Oct 20 15:02:59 2018	Freds (STEAM_0:0:119608149): were geting there bois
+Sat Oct 20 15:03:02 2018	Bill Foreman (STEAM_0:0:45838915): /advert Okay Chef, but you know, its better for you
+Sat Oct 20 15:03:08 2018	Infinitynull (STEAM_0:1:60776888): 
+Sat Oct 20 15:03:23 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 15:03:26 2018	Jeroma (STEAM_0:0:121143569): Can i open it up
+Sat Oct 20 15:03:28 2018	Crash_Trooper (STEAM_0:1:94924909): no
+Sat Oct 20 15:03:31 2018	Jeroma (STEAM_0:0:121143569): Since its my own door?
+Sat Oct 20 15:03:41 2018	Jeroma (STEAM_0:0:121143569): Rawr
+Sat Oct 20 15:03:48 2018	John Schaefer (STEAM_0:0:115652713): /advertWell boys, this is gonna result in a 99% fatality rate
+Sat Oct 20 15:03:54 2018	WildToastyMop was killed by Kilroy with a eoti_raven_swep
+Sat Oct 20 15:04:01 2018	Freds (STEAM_0:0:119608149): lockpick is faster that scanner crack
+Sat Oct 20 15:04:04 2018	ＦＲＯＧＳＴＥＲ (STEAM_0:1:83659569) has joined the game
+Sat Oct 20 15:04:04 2018	ＦＲＯＧＳＴＥＲ (STEAM_0:1:83659569) spawned
+Sat Oct 20 15:04:10 2018	Nibbler (STEAM_0:1:81708481) disconnected
+Sat Oct 20 15:04:12 2018	Kilroy (STEAM_0:0:138507625): @ fat I a mthe traped
+Sat Oct 20 15:04:20 2018	Jeroma (STEAM_0:0:121143569): Cooldown code
+Sat Oct 20 15:04:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 15:04:22 2018	Jeroma (STEAM_0:0:121143569): 4198
+Sat Oct 20 15:04:23 2018	Adam Klein was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 15:04:24 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 15:04:25 2018	John Schaefer (STEAM_0:0:115652713): /advert This is gonna result in a 99% fatality rate so be careful
+Sat Oct 20 15:04:29 2018	Infinitynull (STEAM_0:1:60776888): // cops rdming at spawn
+Sat Oct 20 15:04:36 2018	Jeroma (STEAM_0:0:121143569): Not me
+Sat Oct 20 15:04:37 2018	Jeroma (STEAM_0:0:121143569): Please
+Sat Oct 20 15:04:39 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sat Oct 20 15:04:46 2018	Crash_Trooper (STEAM_0:1:94924909): we are at war right now
+Sat Oct 20 15:04:51 2018	Cletus (STEAM_0:1:45174348): /advert PIZZARIA IS NOW OPEN.
+Sat Oct 20 15:04:57 2018	Jeroma (STEAM_0:0:121143569): Rawr
+Sat Oct 20 15:05:15 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 15:05:16 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 15:05:30 2018	Nostolgia critic (STEAM_0:0:60076325) disconnected
+Sat Oct 20 15:05:33 2018	Revolver Ocelote (STEAM_0:0:10631997) disconnected
+Sat Oct 20 15:05:45 2018	Tello (STEAM_0:0:74320577) disconnected
+Sat Oct 20 15:05:48 2018	WildToastyMop (STEAM_0:0:93414166) disconnected
+Sat Oct 20 15:06:00 2018	SharpZ (STEAM_0:1:156170210) disconnected
+Sat Oct 20 15:06:03 2018	Freds (STEAM_0:0:119608149) disconnected
+Sat Oct 20 15:06:03 2018	Mark Zuckerberg (STEAM_0:1:85567021) disconnected
+Sat Oct 20 15:06:07 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Sat Oct 20 15:06:07 2018	John Schaefer (STEAM_0:0:115652713) disconnected
+Sat Oct 20 15:06:19 2018	Crash_Trooper (STEAM_0:1:94924909) disconnected
+Sat Oct 20 15:06:21 2018	Cletus (STEAM_0:1:45174348) disconnected
+Sat Oct 20 15:06:24 2018	fallenfire (STEAM_0:0:173118977) disconnected
+Sat Oct 20 15:06:24 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Sat Oct 20 15:06:27 2018	Infinitynull (STEAM_0:1:60776888) disconnected

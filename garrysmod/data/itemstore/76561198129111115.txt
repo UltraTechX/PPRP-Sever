@@ -1,0 +1,1 @@
+{"11":{"Data":{"Amount":1.0,"Model":"models/weapons/w_rif_ak47.mdl","Ammo":30.0,"Class":"cw_ak74"},"Class":"spawned_weapon"},"13":{"Data":{"Amount":1.0,"Model":"models/weapons/w_smg_ump45.mdl","Ammo":25.0,"Class":"cw_ump45"},"Class":"spawned_weapon"}}

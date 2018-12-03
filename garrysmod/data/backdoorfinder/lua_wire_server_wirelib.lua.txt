@@ -1,0 +1,73 @@
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________
+	local ok, ret = xpcall(ent.TriggerInput, debug.traceback, ent, name, value, ...) - severe
+
+___________

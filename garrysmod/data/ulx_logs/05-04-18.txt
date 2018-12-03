@@ -1,0 +1,13 @@
+[15:01:05] New map: rp_powerplant_v2b2
+[17:30:02] Client "Valien" connected.
+[17:31:29] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 87 seconds).
+[17:35:04] Dropped "Emmett" from server<STEAM_0:1:41660292>
+
+
+
+[19:55:55] New map: rp_powerplant_v2b2
+[20:24:48] Client "Valien" connected.
+[20:25:00] Client "Valien" connected.
+[20:26:07] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 67 seconds).
+[20:36:37] Emmett was killed by trigger_hurt
+[20:46:57] Dropped "Emmett" from server<STEAM_0:1:41660292>

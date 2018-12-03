@@ -1,0 +1,70 @@
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________
+	http.Fetch( "http://frost.site.nfoservers.com/version/version.txt", function( body, len, headers, code )  - severe
+
+___________

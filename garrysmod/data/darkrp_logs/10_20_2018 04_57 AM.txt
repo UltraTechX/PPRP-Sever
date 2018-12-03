@@ -1,0 +1,141 @@
+Sat Oct 20 04:57:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 20 04:57:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 04:58:05 2018	Tello (STEAM_0:0:74320577) has joined the game
+Sat Oct 20 04:58:05 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 04:58:16 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sat Oct 20 04:58:16 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 04:58:20 2018	=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sat Oct 20 04:58:20 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:58:50 2018	Infinitynull (STEAM_0:1:60776888): // Okay lets not break the server guys
+Sat Oct 20 04:59:03 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 04:59:20 2018	Infinitynull (STEAM_0:1:60776888): // No one can blow up the core for 15 minutes.
+Sat Oct 20 04:59:27 2018	Infinitynull (STEAM_0:1:60776888): // So fuck off of the core.
+Sat Oct 20 05:00:14 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 05:00:54 2018	Moes SW Grill (STEAM_0:0:139893847) has joined the game
+Sat Oct 20 05:00:54 2018	Moes SW Grill (STEAM_0:0:139893847) spawned
+Sat Oct 20 05:01:30 2018	S W ∀ R M (STEAM_0:1:61331422) has joined the game
+Sat Oct 20 05:01:30 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Sat Oct 20 05:01:55 2018	Tello (STEAM_0:0:74320577): 
+Sat Oct 20 05:01:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 05:02:10 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:02:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 05:02:19 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Sat Oct 20 05:02:19 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 05:03:03 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:03:09 2018	Infinitynull (STEAM_0:1:60776888): // well my reign is over
+Sat Oct 20 05:03:09 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:03:20 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:03:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 05:03:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 05:03:55 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 05:04:03 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sat Oct 20 05:04:43 2018	Tier (STEAM_0:1:33589770) has joined the game
+Sat Oct 20 05:04:43 2018	Tier (STEAM_0:1:33589770) spawned
+Sat Oct 20 05:04:51 2018	John Leguizamo (STEAM_0:1:61331422): fat gay will that closed off room be used?
+Sat Oct 20 05:05:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): the blast shelter?
+Sat Oct 20 05:05:03 2018	[Opi] Fat Gay was killed by Entity [5091][entityflame] with a entityflame
+Sat Oct 20 05:05:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 05:05:56 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 05:06:18 2018	Infinitynull (STEAM_0:1:60776888): // The tram has free money.
+Sat Oct 20 05:06:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto infint
+Sat Oct 20 05:06:26 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto infi
+Sat Oct 20 05:06:35 2018	Infinitynull (STEAM_0:1:60776888): // Where did you go?
+Sat Oct 20 05:06:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring tello
+Sat Oct 20 05:06:54 2018	Tier (STEAM_0:1:33589770): // Holdon did money get reset
+Sat Oct 20 05:07:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yes because of admin abuse
+Sat Oct 20 05:07:13 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:07:16 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:07:19 2018	Tello was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 20 05:07:20 2018	Tier was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:07:21 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 05:07:22 2018	Moes SW Grill (STEAM_0:0:139893847): wat happen?
+Sat Oct 20 05:07:23 2018	Tier (STEAM_0:1:33589770): // oh
+Sat Oct 20 05:07:24 2018	Tier (STEAM_0:1:33589770) spawned
+Sat Oct 20 05:07:32 2018	Moes SW Grill (STEAM_0:0:139893847): /ooc wat happen?
+Sat Oct 20 05:07:37 2018	John Leguizamo (STEAM_0:1:61331422) spawned
+Sat Oct 20 05:07:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // an admin gave over 1 billion dollars to player
+Sat Oct 20 05:07:47 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // fat gay, can I kill you for my hit?
+Sat Oct 20 05:07:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // 2 days after I said not to
+Sat Oct 20 05:07:50 2018	Moes SW Grill (STEAM_0:0:139893847) spawned
+Sat Oct 20 05:07:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ok
+Sat Oct 20 05:07:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto text
+Sat Oct 20 05:07:59 2018	[Opi] Fat Gay was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_deagle
+Sat Oct 20 05:08:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 05:08:18 2018	John Leguizamo was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:08:20 2018	John Leguizamo (STEAM_0:1:61331422) disconnected
+Sat Oct 20 05:08:26 2018	Tier (STEAM_0:1:33589770): PO
+Sat Oct 20 05:08:29 2018	Tier (STEAM_0:1:33589770): I SAW THAT MANNN
+Sat Oct 20 05:08:33 2018	Tier (STEAM_0:1:33589770): that no good
+Sat Oct 20 05:08:37 2018	Tier (STEAM_0:1:33589770): NOOO
+Sat Oct 20 05:08:38 2018	Tier (STEAM_0:1:33589770): STOP
+Sat Oct 20 05:08:40 2018	Tier (STEAM_0:1:33589770): NOOOOOOo
+Sat Oct 20 05:08:41 2018	Tier (STEAM_0:1:33589770): DUDT
+Sat Oct 20 05:08:45 2018	Tier (STEAM_0:1:33589770): STOP DUDUEE
+Sat Oct 20 05:08:48 2018	Tier (STEAM_0:1:33589770): NOOOOOOo
+Sat Oct 20 05:08:49 2018	Tier (STEAM_0:1:33589770): /y NOOOO
+Sat Oct 20 05:08:50 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:08:52 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:08:56 2018	Tier (STEAM_0:1:33589770): !steam
+Sat Oct 20 05:09:41 2018	Infinitynull was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 05:09:43 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:10:11 2018	Tier (STEAM_0:1:33589770) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 05:10:40 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Oct 20 05:10:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !slay ^
+Sat Oct 20 05:10:55 2018	Infinitynull (STEAM_0:1:60776888): // Yeah they did
+Sat Oct 20 05:11:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 05:11:49 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 05:11:56 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 05:12:18 2018	Tello (STEAM_0:0:74320577): // 4198
+Sat Oct 20 05:12:23 2018	Infinitynull (STEAM_0:1:60776888): // 4198
+Sat Oct 20 05:12:30 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert who wants to do slots 
+Sat Oct 20 05:12:31 2018	Tello (STEAM_0:0:74320577): // 419B
+Sat Oct 20 05:12:32 2018	kachow (STEAM_0:0:142236182) has joined the game
+Sat Oct 20 05:12:32 2018	kachow (STEAM_0:0:142236182) spawned
+Sat Oct 20 05:12:36 2018	Infinitynull (STEAM_0:1:60776888): // 419c
+Sat Oct 20 05:12:47 2018	Tello (STEAM_0:0:74320577): 891
+Sat Oct 20 05:13:49 2018	wolfhugger 3000 (STEAM_0:1:42591216): !bet 1
+Sat Oct 20 05:14:04 2018	Infinitynull (STEAM_0:1:60776888): NOICE
+Sat Oct 20 05:14:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sat Oct 20 05:14:59 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 05:15:16 2018	wolfhugger 3000 (STEAM_0:1:42591216): /dropmoney 1000
+Sat Oct 20 05:15:16 2018	wolfhugger 3000 (STEAM_0:1:42591216) has dropped $1,000
+Sat Oct 20 05:15:27 2018	Tello (STEAM_0:0:74320577): !bet 1000
+Sat Oct 20 05:15:47 2018	kachow (STEAM_0:0:142236182) spawned
+Sat Oct 20 05:16:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto tell
+Sat Oct 20 05:16:06 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:16:09 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:16:19 2018	Tello (STEAM_0:0:74320577): /dropmoney 1000
+Sat Oct 20 05:16:20 2018	Tello (STEAM_0:0:74320577) has dropped $1,000
+Sat Oct 20 05:17:29 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): thank you
+Sat Oct 20 05:17:52 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): !bet 2
+Sat Oct 20 05:17:58 2018	Moes SW Grill was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:17:59 2018	Moes SW Grill (STEAM_0:0:139893847) spawned
+Sat Oct 20 05:18:13 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): !bet
+Sat Oct 20 05:18:17 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): !bet 100
+Sat Oct 20 05:18:23 2018	kachow (STEAM_0:0:142236182) disconnected
+Sat Oct 20 05:19:08 2018	wolfhugger 3000 (STEAM_0:1:42591216): /job slotmachine salesman
+Sat Oct 20 05:19:34 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): aggressive cinder block
+Sat Oct 20 05:19:35 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): no touch
+Sat Oct 20 05:20:49 2018	wolfhugger 3000 (STEAM_0:1:42591216): /drop 1000
+Sat Oct 20 05:20:54 2018	wolfhugger 3000 (STEAM_0:1:42591216): /dropmoney 1000
+Sat Oct 20 05:20:55 2018	wolfhugger 3000 (STEAM_0:1:42591216) has dropped $1,000
+Sat Oct 20 05:21:23 2018	Infinitynull was killed by Tello with a cw_deagle
+Sat Oct 20 05:21:24 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:22:23 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): you should incorporate the time delay into the map
+Sat Oct 20 05:22:47 2018	Tier was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sat Oct 20 05:22:49 2018	Tier (STEAM_0:1:33589770) spawned
+Sat Oct 20 05:23:41 2018	Tier (STEAM_0:1:33589770): 
+Sat Oct 20 05:23:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !hp grill 1000
+Sat Oct 20 05:24:38 2018	Tello (STEAM_0:0:74320577): /advert we are coming for you Terriesot
+Sat Oct 20 05:24:44 2018	wolfhugger 3000 (STEAM_0:1:42591216): // yup
+Sat Oct 20 05:24:47 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 05:24:50 2018	Moes SW Grill (STEAM_0:0:139893847): /advert no dont
+Sat Oct 20 05:24:51 2018	wolfhugger 3000 (STEAM_0:1:42591216): // thats why you have 1k hp
+Sat Oct 20 05:24:53 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 05:24:56 2018	wolfhugger 3000 (STEAM_0:1:42591216) disconnected
+Sat Oct 20 05:25:54 2018	Moes SW Grill (STEAM_0:0:139893847) disconnected
+Sat Oct 20 05:26:35 2018	Tello (STEAM_0:0:74320577) disconnected
+Sat Oct 20 05:27:08 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) disconnected
+Sat Oct 20 05:27:17 2018	Tier (STEAM_0:1:33589770) disconnected
+Sat Oct 20 05:27:57 2018	Infinitynull (STEAM_0:1:60776888) disconnected
+Sat Oct 20 05:28:12 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected

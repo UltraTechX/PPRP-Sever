@@ -1,0 +1,1014 @@
+Sun Oct 28 08:04:57 2018	Spetz_20 (STEAM_0:0:83293903) has joined the game
+Sun Oct 28 08:04:57 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 08:06:36 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 08:09:48 2018	Spetz_20 (STEAM_0:0:83293903): /drop
+Sun Oct 28 08:11:07 2018	Spetz_20 (STEAM_0:0:83293903) disconnected
+Sun Oct 28 08:13:05 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858) has joined the game
+Sun Oct 28 08:13:05 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858) spawned
+Sun Oct 28 08:15:20 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858): /advert Kidnap Bish
+Sun Oct 28 08:17:11 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858) spawned
+Sun Oct 28 08:20:01 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858): help admin
+Sun Oct 28 08:20:22 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858) spawned
+Sun Oct 28 08:22:07 2018	xXBugl3B0yXx Daddy trump (STEAM_0:0:70651858) disconnected
+Sun Oct 28 13:04:14 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Sun Oct 28 13:04:14 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 13:07:10 2018	Jeroma (STEAM_0:0:121143569): !donate
+Sun Oct 28 13:08:06 2018	Jeroma (STEAM_0:0:121143569): !donate
+Sun Oct 28 13:08:18 2018	Jeroma (STEAM_0:0:121143569): !donate
+Sun Oct 28 13:08:34 2018	Jeroma (STEAM_0:0:121143569): !donate
+Sun Oct 28 13:09:35 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 13:11:45 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Sun Oct 28 13:21:39 2018	[Opi] Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Sun Oct 28 13:21:39 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 13:24:41 2018	Apostrophe (STEAM_0:1:448155602) disconnected
+Sun Oct 28 14:52:53 2018	Spetz_20 (STEAM_0:0:83293903) has joined the game
+Sun Oct 28 14:52:53 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 15:14:09 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 15:17:00 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 15:21:22 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sun Oct 28 15:21:22 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 15:21:42 2018	Spetz_20 (STEAM_0:0:83293903): /namechange Opi Spetz20
+Sun Oct 28 15:21:59 2018	Enviro (STEAM_0:0:80115103): // hi spetz
+Sun Oct 28 15:22:07 2018	Spetz_20 (STEAM_0:0:83293903): hi
+Sun Oct 28 15:22:21 2018	Enviro (STEAM_0:0:80115103): /temp
+Sun Oct 28 15:22:43 2018	Enviro (STEAM_0:0:80115103): /temp 1000
+Sun Oct 28 15:22:57 2018	Enviro (STEAM_0:0:80115103): 
+Sun Oct 28 15:23:03 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 15:23:08 2018	Enviro (STEAM_0:0:80115103): hi
+Sun Oct 28 15:23:25 2018	Enviro (STEAM_0:0:80115103): no
+Sun Oct 28 15:23:29 2018	Enviro (STEAM_0:0:80115103): it doesnt
+Sun Oct 28 15:23:38 2018	Enviro (STEAM_0:0:80115103): mind if i try the new admin cmds real quick?
+Sun Oct 28 15:23:43 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 15:23:48 2018	Enviro (STEAM_0:0:80115103): ooh
+Sun Oct 28 15:23:52 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 15:23:55 2018	Enviro (STEAM_0:0:80115103): sweet
+Sun Oct 28 15:24:06 2018	Enviro (STEAM_0:0:80115103): ?
+Sun Oct 28 15:24:14 2018	Enviro (STEAM_0:0:80115103): sorry, what was the question
+Sun Oct 28 15:24:26 2018	Enviro (STEAM_0:0:80115103): Staff apps are closed rn
+Sun Oct 28 15:24:36 2018	Enviro (STEAM_0:0:80115103): should open once we get a lot more players though
+Sun Oct 28 15:24:39 2018	Enviro (STEAM_0:0:80115103): /tram
+Sun Oct 28 15:24:45 2018	Enviro (STEAM_0:0:80115103): /tram
+Sun Oct 28 15:24:48 2018	Enviro (STEAM_0:0:80115103): yeah
+Sun Oct 28 15:24:54 2018	Enviro (STEAM_0:0:80115103): oh nice nic
+Sun Oct 28 15:25:08 2018	Enviro (STEAM_0:0:80115103): gonna try to work on a building for event stuff
+Sun Oct 28 15:25:15 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 15:25:23 2018	Enviro (STEAM_0:0:80115103): /temp 1015
+Sun Oct 28 15:26:10 2018	Enviro (STEAM_0:0:80115103): Power Plant's got Talent
+Sun Oct 28 15:26:25 2018	Enviro (STEAM_0:0:80115103): yeah ik
+Sun Oct 28 15:26:28 2018	Enviro (STEAM_0:0:80115103): theres a good ol' trigger hurt
+Sun Oct 28 15:27:00 2018	Enviro (STEAM_0:0:80115103): yeah 
+Sun Oct 28 15:27:12 2018	Enviro (STEAM_0:0:80115103): mhm
+Sun Oct 28 15:28:38 2018	Enviro (STEAM_0:0:80115103): /temp 990
+Sun Oct 28 15:29:05 2018	Enviro (STEAM_0:0:80115103): /temp 900
+Sun Oct 28 15:29:25 2018	Spetz_20 (STEAM_0:0:83293903): /ooc hey can researchers own printers?
+Sun Oct 28 15:29:38 2018	Enviro (STEAM_0:0:80115103): // uh i would think so?
+Sun Oct 28 15:29:53 2018	Spetz_20 (STEAM_0:0:83293903): /ooc ight bby
+Sun Oct 28 15:30:07 2018	Spetz_20 (STEAM_0:0:83293903) spawned
+Sun Oct 28 15:30:44 2018	Enviro (STEAM_0:0:80115103): // brb, gonna join back in a min, ill check server logs in discord so if u need anything just type in chat
+Sun Oct 28 15:30:49 2018	Enviro (STEAM_0:0:80115103) disconnected
+Sun Oct 28 15:50:12 2018	Spetz_20 (STEAM_0:0:83293903) disconnected
+Sun Oct 28 15:59:08 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct 28 15:59:08 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 15:59:40 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 15:59:43 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 15:59:59 2018	Valien (STEAM_0:1:41660292): /temp 1069
+Sun Oct 28 16:00:45 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:00:58 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:01:31 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:01:34 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:02:13 2018	Valien (STEAM_0:1:41660292): /temp 5000
+Sun Oct 28 16:02:47 2018	Valien (STEAM_0:1:41660292): /tram stop
+Sun Oct 28 16:02:57 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:02:58 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:03:22 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:03:26 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sun Oct 28 16:03:26 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 16:03:28 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:03:47 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:04:06 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:04:16 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:04:31 2018	Enviro (STEAM_0:0:80115103): // what did you do
+Sun Oct 28 16:04:33 2018	Enviro (STEAM_0:0:80115103): // xD
+Sun Oct 28 16:04:39 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 16:04:45 2018	Valien (STEAM_0:1:41660292): // /power /temp 5000 /tram
+Sun Oct 28 16:04:49 2018	Enviro (STEAM_0:0:80115103): // amazing
+Sun Oct 28 16:05:01 2018	Valien (STEAM_0:1:41660292): // I love shutting off the tram tho
+Sun Oct 28 16:05:05 2018	Enviro (STEAM_0:0:80115103): // yeah
+Sun Oct 28 16:05:07 2018	Enviro (STEAM_0:0:80115103): /tram
+Sun Oct 28 16:05:07 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:05:10 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:05:13 2018	Enviro (STEAM_0:0:80115103): /tram
+Sun Oct 28 16:05:16 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:05:21 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:05:30 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:05:36 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 16:05:43 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 16:06:14 2018	Enviro (STEAM_0:0:80115103): /temp 1000
+Sun Oct 28 16:06:20 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:06:30 2018	Enviro (STEAM_0:0:80115103): // lmao
+Sun Oct 28 16:07:11 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 16:07:33 2018	Enviro (STEAM_0:0:80115103): /tram
+Sun Oct 28 16:07:56 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 16:08:02 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 16:08:27 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 16:08:34 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 16:09:50 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 16:11:18 2018	Enviro (STEAM_0:0:80115103): yo
+Sun Oct 28 16:11:25 2018	Valien (STEAM_0:1:41660292): wasup
+Sun Oct 28 16:12:25 2018	Enviro (STEAM_0:0:80115103): stage
+Sun Oct 28 16:12:49 2018	Valien (STEAM_0:1:41660292): // pprp more like wiremod playground
+Sun Oct 28 16:12:54 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:12:56 2018	Enviro (STEAM_0:0:80115103): // power plant's got talent
+Sun Oct 28 16:16:01 2018	Valien (STEAM_0:1:41660292): // Who can we book for our powerplant venue?
+Sun Oct 28 16:16:12 2018	Enviro (STEAM_0:0:80115103): // idk xd
+Sun Oct 28 16:16:19 2018	Valien (STEAM_0:1:41660292): // XXX or lilpeep
+Sun Oct 28 16:19:41 2018	Valien (STEAM_0:1:41660292): // really this game should hide the fact it can have a meltdown
+Sun Oct 28 16:19:49 2018	Enviro (STEAM_0:0:80115103): // yeah
+Sun Oct 28 16:20:40 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:20:41 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:24:19 2018	Enviro (STEAM_0:0:80115103): // can u move the mic 
+Sun Oct 28 16:25:35 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 16:25:37 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 16:25:41 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 16:25:44 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 16:31:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 28 16:31:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 16:31:41 2018	Valien (STEAM_0:1:41660292): // lol enviro i made a display to watch the train upclose
+Sun Oct 28 16:31:48 2018	Enviro (STEAM_0:0:80115103): !goto val
+Sun Oct 28 16:31:50 2018	[Opi] Big Nuts (STEAM_0:1:107242126) has joined the game
+Sun Oct 28 16:31:50 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 16:31:52 2018	Enviro (STEAM_0:0:80115103): lmfao
+Sun Oct 28 16:32:04 2018	Enviro (STEAM_0:0:80115103): why
+Sun Oct 28 16:32:12 2018	Valien (STEAM_0:1:41660292): // Cuz its cool
+Sun Oct 28 16:32:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 16:33:00 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 16:33:22 2018	Bobby (STEAM_0:1:107242126): /name CBRN SSGT Bobby
+Sun Oct 28 16:33:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:33:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:33:44 2018	Enviro (STEAM_0:0:80115103): // u fuckin scard me
+Sun Oct 28 16:33:47 2018	Enviro (STEAM_0:0:80115103): // lol
+Sun Oct 28 16:33:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:34:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:34:10 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // hey mods
+Sun Oct 28 16:34:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and super
+Sun Oct 28 16:34:21 2018	Valien (STEAM_0:1:41660292): // sup
+Sun Oct 28 16:34:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // do me a favor
+Sun Oct 28 16:34:29 2018	Enviro (STEAM_0:0:80115103): // yea
+Sun Oct 28 16:34:31 2018	Valien (STEAM_0:1:41660292): // wasuuuuup
+Sun Oct 28 16:34:37 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // go to the wiremod sounds emitter and open the sound browser
+Sun Oct 28 16:34:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // then
+Sun Oct 28 16:34:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // find good sounds to play when the power goes out/comes back
+Sun Oct 28 16:35:47 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // most of the CBRN have no difference for some reason
+Sun Oct 28 16:36:01 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // only the leader and medic have different stuff
+Sun Oct 28 16:36:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /pm enviro this talent show looks epic
+Sun Oct 28 16:36:53 2018	Enviro (STEAM_0:0:80115103): /pm fat still building
+Sun Oct 28 16:37:21 2018	Enviro (STEAM_0:0:80115103): /pm fat but thanks
+Sun Oct 28 16:39:27 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 16:39:29 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 16:40:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // yo enviro
+Sun Oct 28 16:40:34 2018	Enviro (STEAM_0:0:80115103): // yo fat
+Sun Oct 28 16:40:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // you dont need to weld everything
+Sun Oct 28 16:40:40 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // with advdupe2
+Sun Oct 28 16:40:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // just right click anywhere on the map
+Sun Oct 28 16:40:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // not your dupe tho
+Sun Oct 28 16:41:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring envir
+Sun Oct 28 16:41:12 2018	Enviro (STEAM_0:0:80115103): i know
+Sun Oct 28 16:45:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // more tests standby
+Sun Oct 28 16:45:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:45:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:45:34 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Sun Oct 28 16:45:34 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 16:45:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:45:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 16:47:01 2018	Valien (STEAM_0:1:41660292): // Why are people joinin
+Sun Oct 28 16:47:03 2018	Valien (STEAM_0:1:41660292): // staph
+Sun Oct 28 16:47:14 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 16:47:16 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 16:47:42 2018	Valien (STEAM_0:1:41660292): /temp 900
+Sun Oct 28 16:48:03 2018	Valien (STEAM_0:1:41660292): /temp 500
+Sun Oct 28 16:48:26 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:48:38 2018	[Opi] // Not DJ (STEAM_0:0:95072396) has joined the game
+Sun Oct 28 16:48:38 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 16:48:41 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 16:48:48 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 16:49:33 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 16:49:42 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 16:49:56 2018	Valien (STEAM_0:1:41660292): // taking a shid bbbr
+Sun Oct 28 16:51:15 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 16:51:25 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 16:54:09 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sun Oct 28 16:54:42 2018	Jeroma (STEAM_0:0:121143569): /pm Env Hello
+Sun Oct 28 16:54:47 2018	Enviro (STEAM_0:0:80115103): /pm jeroma hi
+Sun Oct 28 16:54:54 2018	Jeroma (STEAM_0:0:121143569): Hello
+Sun Oct 28 16:54:56 2018	Enviro (STEAM_0:0:80115103): hi
+Sun Oct 28 16:54:58 2018	Jeroma (STEAM_0:0:121143569): How
+Sun Oct 28 16:55:00 2018	Jeroma (STEAM_0:0:121143569): Are you
+Sun Oct 28 16:55:03 2018	Enviro (STEAM_0:0:80115103): im good
+Sun Oct 28 16:55:11 2018	Jeroma (STEAM_0:0:121143569): I have a question
+Sun Oct 28 16:55:12 2018	Enviro (STEAM_0:0:80115103): you wanna see whats in here
+Sun Oct 28 16:55:13 2018	Enviro (STEAM_0:0:80115103): fine
+Sun Oct 28 16:55:22 2018	Enviro (STEAM_0:0:80115103): still building
+Sun Oct 28 16:55:23 2018	Jeroma (STEAM_0:0:121143569): Noice
+Sun Oct 28 16:55:43 2018	Jeroma (STEAM_0:0:121143569): Remember to dupe it
+Sun Oct 28 16:55:45 2018	Enviro (STEAM_0:0:80115103): already did
+Sun Oct 28 16:55:48 2018	Enviro (STEAM_0:0:80115103): (most of it)
+Sun Oct 28 16:55:49 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 16:55:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 16:55:57 2018	Enviro (STEAM_0:0:80115103): !bring jeroma
+Sun Oct 28 16:56:03 2018	Enviro (STEAM_0:0:80115103): sorry but need to build the rest of it 
+Sun Oct 28 16:56:04 2018	Jeroma (STEAM_0:0:121143569): Could you tell fat
+Sun Oct 28 16:56:07 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 16:56:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 16:56:09 2018	Enviro (STEAM_0:0:80115103): tell fat what
+Sun Oct 28 16:56:16 2018	Jeroma (STEAM_0:0:121143569): That the disguise kit
+Sun Oct 28 16:56:18 2018	Not DJ was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 16:56:19 2018	Jeroma (STEAM_0:0:121143569): Doesnt work
+Sun Oct 28 16:56:20 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 16:56:21 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 16:56:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 16:56:25 2018	Jeroma (STEAM_0:0:121143569): You dont spawn with it
+Sun Oct 28 16:56:34 2018	Enviro (STEAM_0:0:80115103): you can PM him on discord or in game
+Sun Oct 28 16:56:35 2018	Not DJ (STEAM_0:0:95072396) disconnected
+Sun Oct 28 16:56:38 2018	Enviro (STEAM_0:0:80115103): hes pretty busy rn though
+Sun Oct 28 16:58:08 2018	[Opi] // Not DJ (STEAM_0:0:95072396) has joined the game
+Sun Oct 28 16:58:08 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 16:58:35 2018	Not DJ (STEAM_0:0:95072396): !datasave
+Sun Oct 28 16:58:48 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 16:58:56 2018	Enviro (STEAM_0:0:80115103): // AFK
+Sun Oct 28 16:58:56 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): /name Officer Bobby
+Sun Oct 28 16:59:29 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 17:00:06 2018	Jeroma (STEAM_0:0:121143569): Hello
+Sun Oct 28 17:00:32 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:01:04 2018	Officer Bobby (STEAM_0:1:107242126): // remember today is pizza day
+Sun Oct 28 17:01:05 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:01:47 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:02:00 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 17:02:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 17:03:00 2018	Jeroma (STEAM_0:0:121143569): 
+Sun Oct 28 17:03:14 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:03:46 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:04:45 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:05:18 2018	Officer Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:05:26 2018	Officer Bobby was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sun Oct 28 17:05:30 2018	Officer Bobby (STEAM_0:1:107242126): // lmao
+Sun Oct 28 17:05:32 2018	Officer Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 17:06:45 2018	Not DJ (STEAM_0:0:95072396): 
+Sun Oct 28 17:07:57 2018	Officer Bobby (STEAM_0:1:107242126): // uh
+Sun Oct 28 17:08:26 2018	Officer Bobby (STEAM_0:1:107242126): 
+Sun Oct 28 17:09:28 2018	Enviro (STEAM_0:0:80115103) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:09:30 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Sun Oct 28 17:12:08 2018	Not DJ (STEAM_0:0:95072396): // Bobby where are you?
+Sun Oct 28 17:12:20 2018	Officer Bobby (STEAM_0:1:107242126): // i fix the reactor
+Sun Oct 28 17:12:29 2018	Not DJ (STEAM_0:0:95072396): // I have a gift for you!
+Sun Oct 28 17:13:21 2018	Enviro (STEAM_0:0:80115103): // oh..
+Sun Oct 28 17:13:24 2018	Not DJ (STEAM_0:0:95072396): @ Stuck
+Sun Oct 28 17:13:38 2018	Enviro (STEAM_0:0:80115103): 
+Sun Oct 28 17:13:57 2018	Not DJ (STEAM_0:0:95072396): // Bobby where can I meet you at?
+Sun Oct 28 17:14:02 2018	Officer Bobby (STEAM_0:1:107242126): // reactor
+Sun Oct 28 17:14:07 2018	Not DJ (STEAM_0:0:95072396): // On my way.
+Sun Oct 28 17:14:42 2018	Enviro (STEAM_0:0:80115103): // thats hot
+Sun Oct 28 17:16:05 2018	Not DJ (STEAM_0:0:95072396): // Okay bobby im here
+Sun Oct 28 17:16:39 2018	Not DJ (STEAM_0:0:95072396): // Come to your office
+Sun Oct 28 17:16:56 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:19:37 2018	Enviro was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 17:19:38 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 17:20:11 2018	Officer Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:20:28 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:24:14 2018	Enviro (STEAM_0:0:80115103): ?
+Sun Oct 28 17:24:20 2018	Enviro (STEAM_0:0:80115103): sorry?
+Sun Oct 28 17:24:22 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 17:24:22 2018	Enviro was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 17:24:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 17:24:25 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 17:24:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto envir
+Sun Oct 28 17:24:56 2018	Officer Bobby (STEAM_0:1:107242126): // i sware to fuck dawg
+Sun Oct 28 17:25:06 2018	Enviro (STEAM_0:0:80115103): // my bad
+Sun Oct 28 17:25:08 2018	Enviro (STEAM_0:0:80115103): // i think
+Sun Oct 28 17:31:50 2018	Not DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 17:32:08 2018	Enviro (STEAM_0:0:80115103): // well rip
+Sun Oct 28 17:32:30 2018	[Opi] Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Sun Oct 28 17:32:30 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:32:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // wait
+Sun Oct 28 17:32:38 2018	Enviro (STEAM_0:0:80115103): // ?
+Sun Oct 28 17:32:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // there was no terrorists
+Sun Oct 28 17:32:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // oh well
+Sun Oct 28 17:32:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // dupe your shit
+Sun Oct 28 17:32:57 2018	Enviro (STEAM_0:0:80115103): // wait whUT
+Sun Oct 28 17:33:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im changing a few more things for a test
+Sun Oct 28 17:33:23 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // im watching table play crack life at the same time
+Sun Oct 28 17:33:30 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // and brushing my teeth
+Sun Oct 28 17:35:05 2018	Apostrophe (STEAM_0:1:448155602): /me stands at attention and salutes.
+Sun Oct 28 17:35:09 2018	Apostrophe (STEAM_0:1:448155602): /me stands at attention and salutes.
+Sun Oct 28 17:37:03 2018	Valien was killed by Himself with a suicide trick
+Sun Oct 28 17:37:03 2018	Enviro was killed by Himself with a suicide trick
+Sun Oct 28 17:37:03 2018	Officer Bobby was killed by Himself with a suicide trick
+Sun Oct 28 17:37:03 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sun Oct 28 17:37:03 2018	Apostrophe was killed by Himself with a suicide trick
+Sun Oct 28 17:37:03 2018	Not DJ was killed by Himself with a suicide trick
+Sun Oct 28 17:37:06 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 17:37:06 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 17:37:07 2018	Officer Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 17:37:18 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 17:37:20 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:37:32 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sun Oct 28 17:37:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 17:37:36 2018	Officer Bobby (STEAM_0:1:107242126): /name Chef Bobby
+Sun Oct 28 17:37:37 2018	Chef Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 17:37:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 17:37:47 2018	Not DJ (STEAM_0:0:95072396): /name Chef DJ
+Sun Oct 28 17:37:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 17:37:48 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:37:55 2018	Chef Bobby (STEAM_0:1:107242126): // UwU
+Sun Oct 28 17:39:01 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:39:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 17:39:41 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 17:39:42 2018	Apostrophe (STEAM_0:1:448155602): 
+Sun Oct 28 17:40:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 17:40:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 17:40:35 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Oct 28 17:44:40 2018	Apostrophe was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 17:44:41 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:46:23 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 17:47:57 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 17:47:59 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 17:48:31 2018	Chef DJ (STEAM_0:0:95072396): // How tf do you profit off of making pizzas?
+Sun Oct 28 17:48:42 2018	Enviro (STEAM_0:0:80115103): // you sell them
+Sun Oct 28 17:48:48 2018	Valien (STEAM_0:1:41660292): // it's a passion not a job
+Sun Oct 28 17:48:53 2018	Chef DJ (STEAM_0:0:95072396): // Isnt there supposed to be a NPC?
+Sun Oct 28 17:49:02 2018	Enviro (STEAM_0:0:80115103): // you sell them to people
+Sun Oct 28 17:49:48 2018	Apostrophe (STEAM_0:1:448155602): // hot slice
+Sun Oct 28 17:49:48 2018	Valien (STEAM_0:1:41660292): /dropmoney 500
+Sun Oct 28 17:49:49 2018	Valien (STEAM_0:1:41660292) has dropped $500
+Sun Oct 28 17:49:55 2018	Apostrophe was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 17:49:57 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:51:34 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 17:52:28 2018	Apostrophe (STEAM_0:1:448155602) disconnected
+Sun Oct 28 17:54:42 2018	Chef DJ (STEAM_0:0:95072396) disconnected
+Sun Oct 28 17:54:42 2018	Chef Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 17:55:01 2018	Chef Bobby (STEAM_0:1:107242126): /name CBRN 1LT Bobby
+Sun Oct 28 17:55:10 2018	Enviro (STEAM_0:0:80115103): /temp 1000
+Sun Oct 28 17:55:17 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 17:55:21 2018	Valien (STEAM_0:1:41660292): /tram
+Sun Oct 28 17:58:02 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 17:59:29 2018	Enviro (STEAM_0:0:80115103): ITS NOT THE VOICE
+Sun Oct 28 17:59:33 2018	Enviro (STEAM_0:0:80115103): thank you
+Sun Oct 28 17:59:34 2018	Enviro (STEAM_0:0:80115103): lol
+Sun Oct 28 17:59:37 2018	Enviro (STEAM_0:0:80115103): Power plant's got talent
+Sun Oct 28 18:00:24 2018	Enviro (STEAM_0:0:80115103): yea ik
+Sun Oct 28 18:00:25 2018	Enviro (STEAM_0:0:80115103): we go imcs
+Sun Oct 28 18:00:39 2018	Enviro (STEAM_0:0:80115103): will use when we actualy do it
+Sun Oct 28 18:01:41 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 18:01:42 2018	Valien (STEAM_0:1:41660292): /power
+Sun Oct 28 18:05:23 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 18:05:29 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 18:09:05 2018	Enviro (STEAM_0:0:80115103): no
+Sun Oct 28 18:10:02 2018	Enviro (STEAM_0:0:80115103): can u remove this pls
+Sun Oct 28 18:10:12 2018	Enviro (STEAM_0:0:80115103): thx
+Sun Oct 28 18:10:13 2018	Enviro (STEAM_0:0:80115103): xD
+Sun Oct 28 18:15:26 2018	Gamizard (STEAM_0:1:51961500) has joined the game
+Sun Oct 28 18:15:26 2018	Gamizard (STEAM_0:1:51961500) spawned
+Sun Oct 28 18:16:07 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): 
+Sun Oct 28 18:18:41 2018	Gamizard (STEAM_0:1:51961500) spawned
+Sun Oct 28 18:18:58 2018	Valien was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Sun Oct 28 18:19:00 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 18:19:38 2018	Gamizard (STEAM_0:1:51961500): /y yo this whole building making my GTX 1080 lag
+Sun Oct 28 18:19:54 2018	Gamizard (STEAM_0:1:51961500): 16GB
+Sun Oct 28 18:20:11 2018	Gamizard (STEAM_0:1:51961500): Gmod can only use 4GB as its a 32 bit application
+Sun Oct 28 18:20:31 2018	Gamizard (STEAM_0:1:51961500): /y I got an Intel i7 6700k
+Sun Oct 28 18:20:52 2018	Gamizard (STEAM_0:1:51961500): so these are all props?
+Sun Oct 28 18:21:03 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 18:21:11 2018	Gamizard (STEAM_0:1:51961500): Lol would be better off just coding this room into the map
+Sun Oct 28 18:21:19 2018	Gamizard (STEAM_0:1:51961500): FPS drop
+Sun Oct 28 18:21:58 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 18:21:59 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 18:22:15 2018	Gamizard (STEAM_0:1:51961500): on some servers you can go through stuff because of the ghosting system
+Sun Oct 28 18:22:33 2018	Gamizard (STEAM_0:1:51961500): i wonder if precision sit exploit works
+Sun Oct 28 18:22:46 2018	Gamizard (STEAM_0:1:51961500): sit on the box
+Sun Oct 28 18:23:12 2018	Gamizard (STEAM_0:1:51961500): 14
+Sun Oct 28 18:23:28 2018	Gamizard (STEAM_0:1:51961500): idk it happened
+Sun Oct 28 18:23:36 2018	Gamizard (STEAM_0:1:51961500): actually 2k
+Sun Oct 28 18:23:53 2018	Gamizard (STEAM_0:1:51961500): idk microcenter does wacky shit 
+Sun Oct 28 18:24:28 2018	Gamizard (STEAM_0:1:51961500): microcenter has better prices
+Sun Oct 28 18:24:37 2018	Gamizard (STEAM_0:1:51961500): This thing has worked for like 2 years
+Sun Oct 28 18:24:58 2018	Gamizard (STEAM_0:1:51961500): The Samsung 950 PRO makes it really fast
+Sun Oct 28 18:25:33 2018	Gamizard (STEAM_0:1:51961500): i never got gaming laptops
+Sun Oct 28 18:25:41 2018	Enviro (STEAM_0:0:80115103): im on one rn
+Sun Oct 28 18:25:45 2018	Enviro (STEAM_0:0:80115103): gaming laptop
+Sun Oct 28 18:25:48 2018	Enviro (STEAM_0:0:80115103): 1k 
+Sun Oct 28 18:25:57 2018	Enviro (STEAM_0:0:80115103): 8 gigs of Wam, gtx 1080 ti
+Sun Oct 28 18:26:11 2018	Enviro (STEAM_0:0:80115103): its like really thicc
+Sun Oct 28 18:26:15 2018	Enviro (STEAM_0:0:80115103): jkjk its a 1050 xD
+Sun Oct 28 18:26:32 2018	Gamizard (STEAM_0:1:51961500): Yeah no M variant of a GTX 1080 TI
+Sun Oct 28 18:27:13 2018	Gamizard (STEAM_0:1:51961500): gonna send you a friend request
+Sun Oct 28 18:28:21 2018	Gamizard (STEAM_0:1:51961500): I also run a Black Mesa RP server on garry's mod
+Sun Oct 28 18:28:26 2018	Enviro (STEAM_0:0:80115103): wait what
+Sun Oct 28 18:28:28 2018	Enviro (STEAM_0:0:80115103): What server
+Sun Oct 28 18:28:37 2018	Enviro (STEAM_0:0:80115103): what is it
+Sun Oct 28 18:28:43 2018	Gamizard (STEAM_0:1:51961500): QuadraNote Black Mesa RP, theres 2
+Sun Oct 28 18:28:48 2018	Enviro (STEAM_0:0:80115103): HOLYSHIT You run that?
+Sun Oct 28 18:28:53 2018	Gamizard (STEAM_0:1:51961500): Yeah thats mine
+Sun Oct 28 18:28:55 2018	Enviro (STEAM_0:0:80115103): Did you use any of Creed's BMRP files?
+Sun Oct 28 18:29:01 2018	Gamizard (STEAM_0:1:51961500): Nope, all custom
+Sun Oct 28 18:29:04 2018	Enviro (STEAM_0:0:80115103): ehh
+Sun Oct 28 18:29:09 2018	Enviro (STEAM_0:0:80115103): Creeds ae really good tho
+Sun Oct 28 18:29:13 2018	Gamizard (STEAM_0:1:51961500): sBMRP just straight ripped it from creeds
+Sun Oct 28 18:29:21 2018	Enviro (STEAM_0:0:80115103): Creed gave SIRRO THE FILES
+Sun Oct 28 18:29:23 2018	Enviro (STEAM_0:0:80115103): mate
+Sun Oct 28 18:29:31 2018	Gamizard (STEAM_0:1:51961500): creed released the shit publicly on github
+Sun Oct 28 18:29:42 2018	Enviro (STEAM_0:0:80115103): yeah, ut before hat
+Sun Oct 28 18:29:46 2018	Enviro (STEAM_0:0:80115103): he gave them to sirro
+Sun Oct 28 18:29:50 2018	Enviro (STEAM_0:0:80115103): and Sirro added alot of shit too
+Sun Oct 28 18:29:53 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 18:29:55 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 18:30:23 2018	Gamizard (STEAM_0:1:51961500): I just took inspiration from some of the jobs there, not copied
+Sun Oct 28 18:30:32 2018	Enviro (STEAM_0:0:80115103): What sets your BMRP apart?
+Sun Oct 28 18:30:43 2018	Gamizard (STEAM_0:1:51961500): Everything is HL1 themed
+Sun Oct 28 18:30:55 2018	Gamizard (STEAM_0:1:51961500): Like all of it 
+Sun Oct 28 18:30:57 2018	Enviro (STEAM_0:0:80115103): thats the point of BMRP
+Sun Oct 28 18:31:06 2018	Gamizard (STEAM_0:1:51961500): No i mean like straight up half life 1
+Sun Oct 28 18:31:07 2018	Gamizard (STEAM_0:1:51961500): yes
+Sun Oct 28 18:31:27 2018	Gamizard (STEAM_0:1:51961500): want to come look at my server?
+Sun Oct 28 18:31:31 2018	Enviro (STEAM_0:0:80115103): I mean... sure
+Sun Oct 28 18:31:39 2018	Gamizard (STEAM_0:1:51961500) disconnected
+Sun Oct 28 18:31:50 2018	Enviro (STEAM_0:0:80115103): hes my friend
+Sun Oct 28 18:31:52 2018	Enviro (STEAM_0:0:80115103): lol
+Sun Oct 28 18:32:25 2018	Enviro (STEAM_0:0:80115103) disconnected
+Sun Oct 28 18:49:15 2018	Valien was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 18:49:21 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 18:49:32 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 18:56:13 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // yA lIkE jAzZ?
+Sun Oct 28 18:58:22 2018	☭✠Tynneside✠☭[Opi] (STEAM_0:0:89038456) has joined the game
+Sun Oct 28 18:58:23 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sun Oct 28 18:59:03 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): !donate
+Sun Oct 28 19:00:20 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sun Oct 28 19:00:20 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 19:01:27 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): 
+Sun Oct 28 19:02:25 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 19:02:27 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sun Oct 28 19:03:56 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // mm starvation
+Sun Oct 28 19:04:16 2018	Valien (STEAM_0:1:41660292): // it's todays ethiopian dish
+Sun Oct 28 19:04:34 2018	CBRN 1LT Bobby was killed by Himself with a suicide trick
+Sun Oct 28 19:04:38 2018	CBRN 1LT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:08:14 2018	CBRN 1LT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:08:29 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 19:10:26 2018	captain mactavish call of duty (STEAM_0:0:61418543) has joined the game
+Sun Oct 28 19:10:26 2018	Aaron Potts (STEAM_0:0:61418543) spawned
+Sun Oct 28 19:17:16 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 19:17:25 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 19:17:28 2018	Valien (STEAM_0:1:41660292): 
+Sun Oct 28 19:18:22 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // lmao
+Sun Oct 28 19:18:26 2018	Valien (STEAM_0:1:41660292): // What the fuck I got no props
+Sun Oct 28 19:18:53 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // someone does lmao *cough* *cough*
+Sun Oct 28 19:20:57 2018	Enviro (STEAM_0:0:80115103): !goto aaron
+Sun Oct 28 19:21:01 2018	Enviro (STEAM_0:0:80115103): 
+Sun Oct 28 19:23:55 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // this server is hosted in NY huh
+Sun Oct 28 19:27:11 2018	Enviro (STEAM_0:0:80115103) disconnected
+Sun Oct 28 19:28:48 2018	Aaron Potts (STEAM_0:0:61418543): // oi valien come check out my meth lab
+Sun Oct 28 19:29:17 2018	Valien was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 19:33:54 2018	Slop (STEAM_0:0:441769539) has joined the game
+Sun Oct 28 19:33:54 2018	Slop (STEAM_0:0:441769539) spawned
+Sun Oct 28 19:35:45 2018	Slop (STEAM_0:0:441769539): // omega lol using leaked addons
+Sun Oct 28 19:35:48 2018	Slop (STEAM_0:0:441769539) disconnected
+Sun Oct 28 19:35:56 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // lmao
+Sun Oct 28 19:35:59 2018	Aaron Potts (STEAM_0:0:61418543): // tf
+Sun Oct 28 19:36:08 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // tf was that
+Sun Oct 28 19:36:12 2018	Aaron Potts (STEAM_0:0:61418543): // idk
+Sun Oct 28 19:36:19 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): // joins for .3 seconds and leaves lmao
+Sun Oct 28 19:37:49 2018	CBRN 1LT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:38:11 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): /name Officer Bobby
+Sun Oct 28 19:40:15 2018	Officer Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:40:26 2018	Officer Bobby (STEAM_0:1:107242126): /name CBRN SSGT Bobby
+Sun Oct 28 19:41:16 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sun Oct 28 19:41:16 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 19:41:58 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 19:42:54 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sun Oct 28 19:42:54 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 19:43:08 2018	CBRN SSGT Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 19:43:09 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:43:48 2018	Enviro (STEAM_0:0:80115103) spawned
+Sun Oct 28 19:43:50 2018	Enviro (STEAM_0:0:80115103): !goto kil
+Sun Oct 28 19:45:05 2018	CBRN SSGT Bobby was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 28 19:45:06 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:45:56 2018	TheBananana (STEAM_0:1:109752228) has joined the game
+Sun Oct 28 19:45:56 2018	TheBananana (STEAM_0:1:109752228) spawned
+Sun Oct 28 19:46:49 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Oct 28 19:47:28 2018	TheBananana (STEAM_0:1:109752228) spawned
+Sun Oct 28 19:49:05 2018	Aaron Potts was killed by CBRN SSGT Bobby with a cw_g36c
+Sun Oct 28 19:49:26 2018	Aaron Potts (STEAM_0:0:61418543) spawned
+Sun Oct 28 19:49:37 2018	CBRN SSGT Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 19:49:38 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:49:42 2018	TheBananana (STEAM_0:1:109752228) disconnected
+Sun Oct 28 19:50:06 2018	CBRN PVT Kilroy (STEAM_0:0:138507625): /roll
+Sun Oct 28 19:50:07 2018	Valien (STEAM_0:1:41660292): // yall ever just put so much fucking cheese for your crackers and end up having like half a pound of cheese with no crackers
+Sun Oct 28 19:50:15 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // yes
+Sun Oct 28 19:50:16 2018	Enviro (STEAM_0:0:80115103): // YES
+Sun Oct 28 19:50:21 2018	CBRN PVT Kilroy (STEAM_0:0:138507625): /ooc valien come
+Sun Oct 28 19:50:22 2018	Valien (STEAM_0:1:41660292): // ij ust fucking did that
+Sun Oct 28 19:50:25 2018	Valien (STEAM_0:1:41660292): !goto kilroy
+Sun Oct 28 19:50:27 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // oof
+Sun Oct 28 19:51:29 2018	Aaron Potts (STEAM_0:0:61418543): /name simmon cowelk
+Sun Oct 28 19:52:11 2018	Enviro (STEAM_0:0:80115103): !bring kilroy
+Sun Oct 28 19:52:17 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 19:52:23 2018	Enviro (STEAM_0:0:80115103): /power
+Sun Oct 28 19:52:27 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456): // wtf
+Sun Oct 28 19:52:36 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): /trams
+Sun Oct 28 19:52:39 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): /tram
+Sun Oct 28 19:52:45 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): /power
+Sun Oct 28 19:52:55 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): /temp 1000
+Sun Oct 28 19:53:22 2018	simmon cowelk was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 19:53:23 2018	simmon cowelk (STEAM_0:0:61418543) spawned
+Sun Oct 28 19:54:16 2018	CBRN SSGT Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 19:54:17 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 19:55:21 2018	Borjemioth the Spookster (STEAM_0:0:17636474) has joined the game
+Sun Oct 28 19:55:21 2018	Borjemioth the Spookster (STEAM_0:0:17636474) spawned
+Sun Oct 28 19:56:59 2018	Valien (STEAM_0:1:41660292) spawned Vehicle prop_vehicle_prisoner_pod
+Sun Oct 28 20:01:58 2018	simmon cowelk (STEAM_0:0:61418543): /name Aaron Potts
+Sun Oct 28 20:02:04 2018	☭✠Tynneside✠☭ was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 20:02:07 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) spawned
+Sun Oct 28 20:04:17 2018	Borjemioth the Spookster was killed by ☭✠Tynneside✠☭ with a cw_l115
+Sun Oct 28 20:04:21 2018	Borjemioth the Spookster (STEAM_0:0:17636474) disconnected
+Sun Oct 28 20:05:34 2018	Aaron Potts (STEAM_0:0:61418543) disconnected
+Sun Oct 28 20:06:25 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Sun Oct 28 20:06:25 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Sun Oct 28 20:07:16 2018	☭✠Tynneside✠☭ (STEAM_0:0:89038456) disconnected
+Sun Oct 28 20:07:33 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Sun Oct 28 20:08:07 2018	Valien (STEAM_0:1:41660292): // yall want to admin stop the meltdown?
+Sun Oct 28 20:08:34 2018	Valien (STEAM_0:1:41660292): /temp 1000
+Sun Oct 28 20:08:55 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Sun Oct 28 20:08:55 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Sun Oct 28 20:10:11 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Sun Oct 28 20:10:46 2018	Valien (STEAM_0:1:41660292) disconnected
+Sun Oct 28 20:11:13 2018	Enviro (STEAM_0:0:80115103) disconnected
+Sun Oct 28 20:13:28 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Sun Oct 28 20:13:50 2018	CBRN SSGT Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 20:13:52 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 20:19:59 2018	[VG] Chair (STEAM_0:0:219807611) has joined the game
+Sun Oct 28 20:19:59 2018	Elite Man Jimmy (STEAM_0:0:219807611) spawned
+Sun Oct 28 20:26:03 2018	Elite Man Jimmy (STEAM_0:0:219807611): // can i be corrupt as a security perssonel
+Sun Oct 28 20:26:08 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // no
+Sun Oct 28 20:26:10 2018	Elite Man Jimmy (STEAM_0:0:219807611): // ok
+Sun Oct 28 20:26:21 2018	Elite Man Jimmy (STEAM_0:0:219807611) spawned
+Sun Oct 28 20:26:42 2018	Elite Man Jimmy (STEAM_0:0:219807611) spawned
+Sun Oct 28 20:29:02 2018	CBRN PVT Kilroy was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct 28 20:29:03 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 20:30:22 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) disconnected
+Sun Oct 28 20:31:26 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) disconnected
+Sun Oct 28 20:48:30 2018	Elite Man Jimmy (STEAM_0:0:219807611) spawned
+Sun Oct 28 20:48:57 2018	Elite Man Jimmy (STEAM_0:0:219807611) disconnected
+Sun Oct 28 21:20:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 28 21:20:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 21:21:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 21:21:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /power
+Sun Oct 28 21:21:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 21:21:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /tram
+Sun Oct 28 21:21:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /temp 9999
+Sun Oct 28 21:24:09 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 21:24:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 21:53:46 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Sun Oct 28 21:53:46 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 21:55:51 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 21:56:04 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 21:56:27 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 21:57:05 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 22:00:41 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 22:04:30 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sun Oct 28 22:04:30 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:05:03 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:05:06 2018	[Opi] Big Nuts (STEAM_0:1:107242126) has joined the game
+Sun Oct 28 22:05:06 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:05:47 2018	CBRN PVT Kilroy was killed by Johnny K Bronk with a cw_ak74
+Sun Oct 28 22:05:50 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:06:14 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:06:15 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:06:27 2018	CBRN PVT Kilroy was killed by Johnny K Bronk with a cw_ak74
+Sun Oct 28 22:06:28 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:06:34 2018	Johnny K Bronk was killed by CBRN PVT Kilroy with a cw_deagle
+Sun Oct 28 22:06:36 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 22:07:05 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // Soickgeez
+Sun Oct 28 22:07:34 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // Sorkageez
+Sun Oct 28 22:09:16 2018	CBRN SSGT Bobby was killed by CBRN PVT Kilroy with a cw_deagle
+Sun Oct 28 22:09:18 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:10:38 2018	CBRN PVT Kilroy was killed by CBRN SSGT Bobby with a cw_g36c
+Sun Oct 28 22:10:40 2018	CBRN PVT Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:16:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct 28 22:17:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !GOTO BOOBY
+Sun Oct 28 22:17:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto bobby
+Sun Oct 28 22:17:47 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:17:58 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:18:05 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 22:18:22 2018	CBRN PVT Kilroy (STEAM_0:0:138507625): /job Man from Black Mesa
+Sun Oct 28 22:18:33 2018	CBRN PVT Kilroy (STEAM_0:0:138507625): @ fat you lied to me about CBRN
+Sun Oct 28 22:19:33 2018	CBRN PVT Kilroy (STEAM_0:0:138507625): /name Kilroy
+Sun Oct 28 22:19:41 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:19:55 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): // also why cant i gain xp anymore?
+Sun Oct 28 22:21:14 2018	CBRN SSGT Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:21:18 2018	CBRN SSGT Bobby (STEAM_0:1:107242126): /name Bobby
+Sun Oct 28 22:21:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Oct 28 22:21:34 2018	Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 22:21:35 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:23:50 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:25:42 2018	Bobby was killed by Johnny K Bronk with a cw_ak74
+Sun Oct 28 22:25:44 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:26:15 2018	Coat (STEAM_0:1:32582326) has joined the game
+Sun Oct 28 22:26:15 2018	Security Guard Coat (STEAM_0:1:32582326) spawned
+Sun Oct 28 22:26:29 2018	Kilroy was killed by Johnny K Bronk with a cw_ak74
+Sun Oct 28 22:26:31 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:26:48 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 22:27:05 2018	Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 22:27:10 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:27:30 2018	Kilroy (STEAM_0:0:138507625): /dropmoney 205000
+Sun Oct 28 22:27:31 2018	Kilroy (STEAM_0:0:138507625) has dropped $205,000
+Sun Oct 28 22:28:54 2018	rosekaitlyn2014 (STEAM_0:1:227189832) has joined the game
+Sun Oct 28 22:28:54 2018	rosekaitlyn2014 (STEAM_0:1:227189832) spawned
+Sun Oct 28 22:30:16 2018	Security Guard Coat (STEAM_0:1:32582326): /name CBRN Unit Coat
+Sun Oct 28 22:30:17 2018	CBRN Unit Coat (STEAM_0:1:32582326) spawned
+Sun Oct 28 22:30:59 2018	CBRN Unit Coat (STEAM_0:1:32582326): /ooc What the hell does CBRN Do anyway
+Sun Oct 28 22:32:10 2018	CBRN Unit Coat (STEAM_0:1:32582326): !motd
+Sun Oct 28 22:32:38 2018	CBRN Unit Coat (STEAM_0:1:32582326): /name Security Guard Coat
+Sun Oct 28 22:32:39 2018	Security Guard Coat (STEAM_0:1:32582326) spawned
+Sun Oct 28 22:33:31 2018	Security Guard Coat (STEAM_0:1:32582326): !motd
+Sun Oct 28 22:33:36 2018	rosekaitlyn2014 (STEAM_0:1:227189832) disconnected
+Sun Oct 28 22:38:42 2018	Security Guard Coat (STEAM_0:1:32582326): !Motd
+Sun Oct 28 22:38:45 2018	Security Guard Coat (STEAM_0:1:32582326): !motd
+Sun Oct 28 22:42:34 2018	Security Guard Coat (STEAM_0:1:32582326): !motd
+Sun Oct 28 22:44:27 2018	Bobby was killed by Kilroy with a cw_l115
+Sun Oct 28 22:44:37 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 22:44:38 2018	Security Guard Coat was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 22:44:39 2018	Security Guard Coat (STEAM_0:1:32582326) spawned
+Sun Oct 28 22:45:13 2018	Security Guard Coat was killed by Kilroy with a cw_l115
+Sun Oct 28 22:45:16 2018	Security Guard Coat (STEAM_0:1:32582326) spawned
+Sun Oct 28 22:45:34 2018	Kilroy was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 22:45:35 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 28 22:45:41 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Sun Oct 28 22:48:31 2018	Security Guard Coat (STEAM_0:1:32582326) disconnected
+Sun Oct 28 22:50:08 2018	[Opi] Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Sun Oct 28 22:50:08 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 22:52:16 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 22:54:34 2018	Apostrophe (STEAM_0:1:448155602): / / this is snake 
+Sun Oct 28 22:54:47 2018	Apostrophe (STEAM_0:1:448155602): // this is snake
+Sun Oct 28 22:54:55 2018	Bobby (STEAM_0:1:107242126): // ?
+Sun Oct 28 22:59:15 2018	Bobby (STEAM_0:1:107242126): // i sware to fuck you better fix that shit, dont fucking blow up the place ffs
+Sun Oct 28 22:59:55 2018	Bobby (STEAM_0:1:107242126): // you're a cunt you know that
+Sun Oct 28 23:00:05 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Sun Oct 28 23:00:05 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 28 23:04:11 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:06:35 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): ?
+Sun Oct 28 23:06:37 2018	Bobby was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 23:06:38 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 23:07:36 2018	Bobby (STEAM_0:1:107242126): //
+Sun Oct 28 23:08:01 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 7100
+Sun Oct 28 23:08:01 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $7,100
+Sun Oct 28 23:08:27 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 7500
+Sun Oct 28 23:08:28 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $7,500
+Sun Oct 28 23:08:58 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 28 23:09:50 2018	Apostrophe was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 23:09:51 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:12:14 2018	Apostrophe (STEAM_0:1:448155602): // ded
+Sun Oct 28 23:12:31 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Sun Oct 28 23:12:59 2018	Bobby (STEAM_0:1:107242126): // can yall stop trying to blow up the place
+Sun Oct 28 23:13:01 2018	Apostrophe was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 23:13:02 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:14:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 28 23:14:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 23:14:25 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:15:47 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) disconnected
+Sun Oct 28 23:18:44 2018	Apostrophe was killed by Bobby with a cw_deagle
+Sun Oct 28 23:18:50 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:20:08 2018	Apostrophe was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 28 23:20:09 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:20:24 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Sun Oct 28 23:20:55 2018	Apostrophe (STEAM_0:1:448155602) disconnected
+Sun Oct 28 23:22:22 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 23:38:31 2018	[Opi] Fat Gay was killed by Johnny K Bronk with a fas2_machete
+Sun Oct 28 23:41:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 28 23:46:42 2018	Johnny K Bronk was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Sun Oct 28 23:46:43 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 28 23:52:21 2018	Bobby (STEAM_0:1:107242126) spawned
+Sun Oct 28 23:52:39 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:00:57 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 700
+Mon Oct 29 00:00:58 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $700
+Mon Oct 29 00:01:33 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:02:14 2018	Bobby (STEAM_0:1:107242126): /name Chef Stereotypical Italian
+Mon Oct 29 00:02:31 2018	Johnny K Bronk (STEAM_0:1:167614500): /rpname luigi mario
+Mon Oct 29 00:04:44 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Mon Oct 29 00:04:44 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 00:06:03 2018	luigi mario was killed by Chef Stereotypical Italian with a weapon_l4d2_frying_pan
+Mon Oct 29 00:06:04 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 00:06:05 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:06:19 2018	luigi mario was killed by Chef Stereotypical Italian with a weapon_l4d2_frying_pan
+Mon Oct 29 00:06:21 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:06:50 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 00:06:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 00:06:59 2018	luigi mario was killed by Chef Stereotypical Italian with a weapon_l4d2_frying_pan
+Mon Oct 29 00:07:01 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:07:14 2018	luigi mario was killed by Chef Stereotypical Italian with a weapon_l4d2_frying_pan
+Mon Oct 29 00:07:16 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:07:34 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Mon Oct 29 00:07:35 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 00:08:19 2018	Chef Stereotypical Italian was killed by luigi mario with a weapon_l4d2_frying_pan
+Mon Oct 29 00:08:21 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:08:36 2018	luigi mario was killed by Chef Stereotypical Italian with a weapon_l4d2_frying_pan
+Mon Oct 29 00:08:44 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:12:13 2018	Chef Stereotypical Italian was killed by luigi mario with a weapon_l4d2_frying_pan
+Mon Oct 29 00:12:14 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:12:23 2018	Chef Stereotypical Italian was killed by luigi mario with a cw_ak74
+Mon Oct 29 00:12:24 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:12:35 2018	luigi mario was killed by Chef Stereotypical Italian with a weapon_l4d2_frying_pan
+Mon Oct 29 00:12:36 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:12:48 2018	Chef Stereotypical Italian was killed by luigi mario with a weapon_l4d2_frying_pan
+Mon Oct 29 00:12:50 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:15:26 2018	luigi mario (STEAM_0:1:167614500): /ooc come to the ooc lounge
+Mon Oct 29 00:18:15 2018	Chef Stereotypical Italian was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_fiveseven
+Mon Oct 29 00:18:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto luigi
+Mon Oct 29 00:20:44 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:22:15 2018	Chef Stereotypical Italian was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a fas2_machete
+Mon Oct 29 00:22:17 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:24:30 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): yes thank you
+Mon Oct 29 00:25:00 2018	[Opi] Zed (STEAM_0:0:424407058) has joined the game
+Mon Oct 29 00:25:00 2018	zed (STEAM_0:0:424407058) spawned
+Mon Oct 29 00:25:02 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): the milk one
+Mon Oct 29 00:27:07 2018	zed (STEAM_0:0:424407058) spawned
+Mon Oct 29 00:27:58 2018	zed (STEAM_0:0:424407058) spawned
+Mon Oct 29 00:28:04 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): fortnite burger?
+Mon Oct 29 00:28:06 2018	WrongEndoftheRainbow (STEAM_0:1:37668692) has joined the game
+Mon Oct 29 00:28:06 2018	WrongEndoftheRainbow (STEAM_0:1:37668692) spawned
+Mon Oct 29 00:28:45 2018	luigi mario was killed by [Opi] Fat Gay with a csgo_bayonet_case
+Mon Oct 29 00:28:48 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:28:56 2018	[Opi] Fat Gay was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_fiveseven
+Mon Oct 29 00:29:04 2018	zed (STEAM_0:0:424407058) disconnected
+Mon Oct 29 00:29:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 00:29:54 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // am i being bully hunted rn
+Mon Oct 29 00:30:07 2018	[Opi] Fat Gay was killed by luigi mario with a weapon_l4d2_frying_pan
+Mon Oct 29 00:30:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 00:31:33 2018	[Opi] Fat Gay was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_fiveseven
+Mon Oct 29 00:31:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 00:32:12 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): no
+Mon Oct 29 00:32:16 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): 2scared
+Mon Oct 29 00:33:22 2018	WrongEndoftheRainbow was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 00:33:23 2018	WrongEndoftheRainbow (STEAM_0:1:37668692) spawned
+Mon Oct 29 00:34:33 2018	WrongEndoftheRainbow (STEAM_0:1:37668692) disconnected
+Mon Oct 29 00:34:54 2018	luigi mario (STEAM_0:1:167614500): /ooc fortnite burgers are now buyable
+Mon Oct 29 00:37:39 2018	Chef Stereotypical Italian (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:38:05 2018	luigi mario was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Mon Oct 29 00:38:08 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:38:15 2018	Chef Stereotypical Italian (STEAM_0:1:107242126): /name Bobby
+Mon Oct 29 00:38:21 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 00:38:21 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:38:31 2018	[Opi] Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Mon Oct 29 00:38:31 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:40:36 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Mon Oct 29 00:49:25 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:52:01 2018	Apostrophe (STEAM_0:1:448155602): /dropmoney 10
+Mon Oct 29 00:52:02 2018	Apostrophe (STEAM_0:1:448155602) has dropped $10
+Mon Oct 29 00:53:26 2018	Bobby was killed by Apostrophe with a cw_fiveseven
+Mon Oct 29 00:53:27 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:53:34 2018	Apostrophe was killed by Bobby with a cw_deagle
+Mon Oct 29 00:53:35 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:53:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 00:54:05 2018	Bobby was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 00:54:06 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:54:50 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): ?
+Mon Oct 29 00:54:56 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:55:05 2018	Bobby (STEAM_0:1:107242126): /name CBRN 1LT Bobby
+Mon Oct 29 00:55:25 2018	CBRN 1LT Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 00:55:32 2018	CBRN 1LT Bobby (STEAM_0:1:107242126): /name Sgt Bobby
+Mon Oct 29 00:56:48 2018	Sgt Bobby (STEAM_0:1:107242126): /job Thot Patrol
+Mon Oct 29 00:57:08 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:57:27 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:58:10 2018	Apostrophe was killed by Sgt Bobby with a cw_shorty
+Mon Oct 29 00:58:11 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:59:18 2018	Apostrophe was killed by Sgt Bobby with a cw_g36c
+Mon Oct 29 00:59:19 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 00:59:38 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // server needs pa
+Mon Oct 29 00:59:52 2018	Apostrophe was killed by Sgt Bobby with a cw_g36c
+Mon Oct 29 00:59:54 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 01:00:21 2018	Apostrophe was killed by Sgt Bobby with a cw_g36c
+Mon Oct 29 01:00:22 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 01:00:33 2018	Apostrophe (STEAM_0:1:448155602) spawned
+Mon Oct 29 01:01:38 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): /job hypergay
+Mon Oct 29 01:02:22 2018	SpiderohGaming❤ (STEAM_0:1:43100936) has joined the game
+Mon Oct 29 01:02:22 2018	SpiderohGaming❤ (STEAM_0:1:43100936) spawned
+Mon Oct 29 01:02:36 2018	Apostrophe (STEAM_0:1:448155602) disconnected
+Mon Oct 29 01:02:45 2018	Sgt Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:03:22 2018	Sgt Bobby (STEAM_0:1:107242126): /name CBRN COL Bobby
+Mon Oct 29 01:03:23 2018	SpiderohGaming❤ (STEAM_0:1:43100936): // wat
+Mon Oct 29 01:03:27 2018	SpiderohGaming❤ (STEAM_0:1:43100936): // why is this so dead
+Mon Oct 29 01:03:33 2018	CBRN COL Bobby (STEAM_0:1:107242126): // idk
+Mon Oct 29 01:03:43 2018	CBRN COL Bobby (STEAM_0:1:107242126): // just stay on and see if more people join
+Mon Oct 29 01:04:21 2018	SpiderohGaming❤ (STEAM_0:1:43100936) spawned
+Mon Oct 29 01:05:12 2018	SpiderohGaming❤ (STEAM_0:1:43100936) disconnected
+Mon Oct 29 01:07:09 2018	CBRN COL Bobby was killed by luigi mario with a weapon_l4d2_frying_pan
+Mon Oct 29 01:07:10 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:09:28 2018	luigi mario (STEAM_0:1:167614500): /job Nine boys Shop Owner
+Mon Oct 29 01:09:50 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:10:04 2018	CBRN COL Bobby was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_fiveseven
+Mon Oct 29 01:10:06 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:10:53 2018	CBRN COL Bobby was killed by luigi mario with a cw_ak74
+Mon Oct 29 01:10:54 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:11:33 2018	A walking shitpost (STEAM_0:0:197000190) has joined the game
+Mon Oct 29 01:11:33 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:12:42 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:12:56 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:17:11 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Mon Oct 29 01:17:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /unroot
+Mon Oct 29 01:17:44 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /root
+Mon Oct 29 01:17:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /unroot
+Mon Oct 29 01:17:56 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /deroot
+Mon Oct 29 01:18:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 01:24:29 2018	luigi mario (STEAM_0:1:167614500): @ ooh gay get over here
+Mon Oct 29 01:24:52 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 01:27:18 2018	CBRN COL Bobby was killed by luigi mario with a cw_ak74
+Mon Oct 29 01:27:20 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:27:29 2018	CBRN COL Bobby was killed by A man sneezing milk with a cw_ak74
+Mon Oct 29 01:27:31 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:27:37 2018	A man sneezing milk (STEAM_0:0:197000190): /invholster
+Mon Oct 29 01:27:40 2018	CBRN COL Bobby was killed by A man sneezing milk with a cw_deagle
+Mon Oct 29 01:27:41 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:27:46 2018	CBRN COL Bobby was killed by A man sneezing milk with a cw_deagle
+Mon Oct 29 01:27:48 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:27:54 2018	A man sneezing milk was killed by CBRN COL Bobby with a cw_deagle
+Mon Oct 29 01:27:55 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:27:59 2018	CBRN COL Bobby was killed by A man sneezing milk with a cw_deagle
+Mon Oct 29 01:28:00 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:28:03 2018	A man sneezing milk was killed by CBRN COL Bobby with a cw_deagle
+Mon Oct 29 01:28:05 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:28:13 2018	A man sneezing milk was killed by CBRN COL Bobby with a cw_deagle
+Mon Oct 29 01:28:14 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:28:43 2018	CBRN COL Bobby was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_ak74
+Mon Oct 29 01:28:44 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:28:45 2018	A man sneezing milk was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_ak74
+Mon Oct 29 01:28:46 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:28:52 2018	CBRN COL Bobby was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_ak74
+Mon Oct 29 01:28:52 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:29:00 2018	CBRN COL Bobby was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_ak74
+Mon Oct 29 01:29:01 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:29:09 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by CBRN COL Bobby with a cw_deagle
+Mon Oct 29 01:29:10 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:29:16 2018	A man sneezing milk was killed by CBRN COL Bobby with a cw_deagle
+Mon Oct 29 01:29:17 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by CBRN COL Bobby with a cw_deagle
+Mon Oct 29 01:29:18 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:29:22 2018	CBRN COL Bobby was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a cw_fiveseven
+Mon Oct 29 01:29:23 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:29:27 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:29:28 2018	CBRN COL Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:29:38 2018	CBRN COL Bobby (STEAM_0:1:107242126): /job THOT PATROL
+Mon Oct 29 01:29:46 2018	CBRN COL Bobby (STEAM_0:1:107242126): /name Bobby
+Mon Oct 29 01:30:12 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by A man sneezing milk with a cw_deagle
+Mon Oct 29 01:30:13 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:30:22 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 01:30:23 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:30:28 2018	luigi mario was killed by A man sneezing milk with a cw_deagle
+Mon Oct 29 01:30:31 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 01:30:38 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 01:31:08 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Mon Oct 29 01:31:09 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): /pm fat can you skip the songs in fredboat thx
+Mon Oct 29 01:31:10 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:35:10 2018	A man sneezing milk was killed by Bobby with a cw_g36c
+Mon Oct 29 01:35:11 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:35:18 2018	A man sneezing milk was killed by Bobby with a cw_deagle
+Mon Oct 29 01:35:19 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:35:28 2018	A man sneezing milk was killed by Bobby with a cw_deagle
+Mon Oct 29 01:35:29 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:35:37 2018	Bobby was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:35:38 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:36:08 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Mon Oct 29 01:36:08 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:37:31 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:37:31 2018	luigi mario (STEAM_0:1:167614500): /pm bobby 1956
+Mon Oct 29 01:37:49 2018	luigi mario (STEAM_0:1:167614500): /pm 1967
+Mon Oct 29 01:38:00 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // would you guys be ok If I restarted the server real quick?
+Mon Oct 29 01:38:01 2018	A man sneezing milk was killed by luigi mario with a weapon_l4d2_frying_pan
+Mon Oct 29 01:38:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /root
+Mon Oct 29 01:38:03 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:38:07 2018	A man sneezing milk (STEAM_0:0:197000190): // no dont
+Mon Oct 29 01:38:11 2018	A man sneezing milk (STEAM_0:0:197000190): // we have a meme shop
+Mon Oct 29 01:38:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // ugh fine
+Mon Oct 29 01:38:21 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // good night then
+Mon Oct 29 01:38:29 2018	A man sneezing milk was killed by luigi mario with a cw_ak74
+Mon Oct 29 01:38:30 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:38:37 2018	Bobby (STEAM_0:1:107242126): // Do it... kill him
+Mon Oct 29 01:38:37 2018	A man sneezing milk (STEAM_0:0:197000190): // night faggot
+Mon Oct 29 01:38:43 2018	luigi mario was killed by A man sneezing milk with a cw_ak74
+Mon Oct 29 01:38:46 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 01:38:47 2018	A man sneezing milk (STEAM_0:0:197000190): /invholster
+Mon Oct 29 01:38:50 2018	Bobby (STEAM_0:1:107242126): // you can restart the server lmao
+Mon Oct 29 01:38:54 2018	Kilroy (STEAM_0:0:138507625): /job Man from Black Mesa
+Mon Oct 29 01:40:02 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // you're too
+Mon Oct 29 01:40:18 2018	A man sneezing milk (STEAM_0:0:197000190): /invholster
+Mon Oct 29 01:40:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto milk
+Mon Oct 29 01:40:48 2018	A man sneezing milk (STEAM_0:0:197000190): /invholster
+Mon Oct 29 01:41:00 2018	A man sneezing milk was killed by Bobby with a cw_g36c
+Mon Oct 29 01:41:01 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:41:11 2018	A man sneezing milk was killed by luigi mario with a cw_ak74
+Mon Oct 29 01:41:12 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:41:21 2018	A man sneezing milk was killed by Bobby with a fas2_dv2
+Mon Oct 29 01:41:25 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:41:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Mon Oct 29 01:42:14 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /warrant Text literal fucking propblock in elevator
+Mon Oct 29 01:42:20 2018	A man sneezing milk was killed by Bobby with a cw_deagle
+Mon Oct 29 01:42:22 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:42:27 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /wrrant Abc literal propblock in elevator
+Mon Oct 29 01:42:34 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /warrant Abc literal propblock in elevator
+Mon Oct 29 01:43:31 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Oct 29 01:44:08 2018	Bobby was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:44:10 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:44:52 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // my wall is slowly lowering
+Mon Oct 29 01:45:38 2018	A man sneezing milk was killed by Bobby with a fas2_dv2
+Mon Oct 29 01:45:41 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:45:47 2018	Bobby was killed by Kilroy with a cw_l115
+Mon Oct 29 01:45:49 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:45:55 2018	A man sneezing milk was killed by Kilroy with a cw_l115
+Mon Oct 29 01:45:56 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:46:21 2018	A man sneezing milk was killed by Kilroy with a cw_l115
+Mon Oct 29 01:46:22 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:46:57 2018	Kilroy was killed by A man sneezing milk with a cw_ak74
+Mon Oct 29 01:46:59 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:47:06 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:47:14 2018	A man sneezing milk was killed by Kilroy with a cw_deagle
+Mon Oct 29 01:47:16 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:47:24 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:49:34 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Kilroy with a cw_l115
+Mon Oct 29 01:49:35 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:49:54 2018	Kilroy was killed by Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] with a fas2_machete
+Mon Oct 29 01:49:56 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:50:31 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by luigi mario with a cw_ak74
+Mon Oct 29 01:50:32 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:50:34 2018	Bobby was killed by Kilroy with a cw_l115
+Mon Oct 29 01:50:35 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:50:41 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by luigi mario with a cw_ak74
+Mon Oct 29 01:50:42 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:54:03 2018	Kilroy was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:54:04 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:54:38 2018	Bobby was killed by Kilroy with a cw_l115
+Mon Oct 29 01:54:39 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:54:56 2018	Kilroy was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:54:58 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:54:59 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 01:55:00 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 01:55:37 2018	Kilroy was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:55:45 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:56:23 2018	luigi mario (STEAM_0:1:167614500): /job Nine Hairy Boys Shop Owner
+Mon Oct 29 01:56:25 2018	Bobby was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:56:26 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:56:41 2018	luigi mario (STEAM_0:1:167614500): /job NHB Shop Owner
+Mon Oct 29 01:56:48 2018	Kilroy was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:56:50 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:57:06 2018	A man sneezing milk was killed by Kilroy with a cw_l115
+Mon Oct 29 01:57:07 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:57:45 2018	A man sneezing milk (STEAM_0:0:197000190): /invholster
+Mon Oct 29 01:57:48 2018	A man sneezing milk was killed by Kilroy with a cw_l115
+Mon Oct 29 01:57:49 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 01:58:30 2018	luigi mario was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:58:33 2018	luigi mario (STEAM_0:1:167614500) spawned
+Mon Oct 29 01:58:47 2018	Bobby (STEAM_0:1:107242126): /cook
+Mon Oct 29 01:58:49 2018	Kilroy was killed by A man sneezing milk with a cw_deagle
+Mon Oct 29 01:58:50 2018	Bobby (STEAM_0:1:107242126): /chef
+Mon Oct 29 01:58:51 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:58:52 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 01:59:14 2018	Kilroy was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 01:59:15 2018	Kilroy (STEAM_0:0:138507625) spawned
+Mon Oct 29 01:59:24 2018	luigi mario (STEAM_0:1:167614500): /rpname Johnny K Bronk
+Mon Oct 29 02:00:10 2018	Bobby was killed by A man sneezing milk with a fas2_machete
+Mon Oct 29 02:00:11 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 02:00:41 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 02:01:07 2018	Johnny K Bronk was killed by A man sneezing milk with a cw_mp5
+Mon Oct 29 02:01:11 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 29 02:01:47 2018	A man sneezing milk was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:01:48 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 02:03:04 2018	Bobby was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:03:05 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 02:03:43 2018	Kilroy (STEAM_0:0:138507625) disconnected
+Mon Oct 29 02:08:09 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 02:08:14 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:09:14 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 29 02:12:02 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): /job smolgay
+Mon Oct 29 02:14:11 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 02:14:26 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 02:14:29 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:15:12 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:16:33 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:16:41 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:17:25 2018	Bobby was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:17:25 2018	A man sneezing milk was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:17:25 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:17:25 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:17:26 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Mon Oct 29 02:17:26 2018	Bobby (STEAM_0:1:107242126) spawned
+Mon Oct 29 02:17:27 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 29 02:17:27 2018	A man sneezing milk (STEAM_0:0:197000190) spawned
+Mon Oct 29 02:17:31 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:17:44 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:17:45 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 29 02:18:10 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:18:59 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:19:45 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:22:23 2018	A man sneezing milk (STEAM_0:0:197000190) spawned Vehicle prop_vehicle_prisoner_pod
+Mon Oct 29 02:23:25 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Mon Oct 29 02:23:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Mon Oct 29 02:24:15 2018	Mr Pepers (STEAM_0:0:58415554) has joined the game
+Mon Oct 29 02:24:15 2018	Mr Pepers (STEAM_0:0:58415554) spawned
+Mon Oct 29 02:25:34 2018	Mr Pepers (STEAM_0:0:58415554) disconnected
+Mon Oct 29 02:26:25 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) disconnected
+Mon Oct 29 02:26:33 2018	Bobby (STEAM_0:1:107242126) disconnected
+Mon Oct 29 02:26:42 2018	A man sneezing milk (STEAM_0:0:197000190) disconnected
+Mon Oct 29 02:29:06 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned

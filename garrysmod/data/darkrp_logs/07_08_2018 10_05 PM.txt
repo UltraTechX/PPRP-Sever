@@ -1,0 +1,8 @@
+Sun Jul  8 22:05:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Jul  8 22:05:39 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Jul  8 22:06:04 2018	2B-77 | Vix Archaser (STEAM_0:0:143859663) has joined the game
+Sun Jul  8 22:06:04 2018	Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Jul  8 22:07:05 2018	Fat Gay (STEAM_0:1:218173703): 
+Sun Jul  8 22:07:07 2018	Vix Archaser (STEAM_0:0:143859663): 
+Sun Jul  8 22:07:32 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Jul  8 22:07:48 2018	Vix Archaser (STEAM_0:0:143859663) disconnected

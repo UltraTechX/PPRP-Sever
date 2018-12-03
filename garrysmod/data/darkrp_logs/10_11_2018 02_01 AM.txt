@@ -1,0 +1,584 @@
+Thu Oct 11 02:01:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 02:01:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 02:02:11 2018	Makarov (STEAM_0:1:71554965) has joined the game
+Thu Oct 11 02:02:12 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:02:23 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 02:02:23 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:02:27 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Thu Oct 11 02:02:27 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:02:40 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:02:54 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:02:56 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Thu Oct 11 02:02:56 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:02:58 2018	✲Ozymandis Boomhauer II✲ (STEAM_0:0:91181601) has joined the game
+Thu Oct 11 02:02:58 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 02:03:01 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:03:07 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Thu Oct 11 02:03:07 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:03:28 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Hey wait a second, we're all black.
+Thu Oct 11 02:03:28 2018	ASH | Ancient Entity (STEAM_0:0:59066698) has joined the game
+Thu Oct 11 02:03:29 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:03:40 2018	Not lucky (STEAM_0:0:109792021) has joined the game
+Thu Oct 11 02:03:40 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 02:04:12 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:04:27 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 02:04:41 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:04:45 2018	[HN]LightShade (STEAM_0:1:59756947) has joined the game
+Thu Oct 11 02:04:45 2018	Black Furry (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:04:47 2018	fallenturtle (STEAM_0:1:62867403): // somebody release somebody
+Thu Oct 11 02:04:56 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:05:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc guys lets remember the fucking rules
+Thu Oct 11 02:05:05 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc breach meh
+Thu Oct 11 02:05:07 2018	Sammy Boom (STEAM_0:0:91181601): // noooo no SCPs or core-blowy upys yet
+Thu Oct 11 02:05:25 2018	fallenturtle (STEAM_0:1:62867403): // your no fun fat
+Thu Oct 11 02:05:38 2018	Sammy Boom (STEAM_0:0:91181601): // *you're not very good at grammar
+Thu Oct 11 02:05:45 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // hello im here for the happiness and stress free life. Where do I begin?
+Thu Oct 11 02:05:53 2018	Sammy Boom (STEAM_0:0:91181601): // well I have a nightclub
+Thu Oct 11 02:05:56 2018	Sammy Boom (STEAM_0:0:91181601): // you could start there lol
+Thu Oct 11 02:05:57 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:05:58 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 02:06:02 2018	Johnny K Bronk (STEAM_0:1:167614500): /rpanme SCP-049
+Thu Oct 11 02:06:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc i just meant that the rules state that we should not blow up the core for 15 mins after a meltdown
+Thu Oct 11 02:06:17 2018	Johnny K Bronk (STEAM_0:1:167614500): /rpname SCP-049
+Thu Oct 11 02:06:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc and no breaking out SCPs as terrorist for 10 mins
+Thu Oct 11 02:06:22 2018	Somebody (STEAM_0:0:58278368): !motd
+Thu Oct 11 02:06:24 2018	[TVR]rkholcomb (STEAM_0:0:57943747) has joined the game
+Thu Oct 11 02:06:24 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:06:48 2018	Sammy Boom (STEAM_0:0:91181601): // oof lights and lamps are considered entities
+Thu Oct 11 02:06:57 2018	[Opi] Fat Gay was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:07:03 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Thu Oct 11 02:07:04 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:07:07 2018	Black Furry (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:07:11 2018	Black Furry (STEAM_0:1:59756947): .
+Thu Oct 11 02:07:19 2018	Black Furry (STEAM_0:1:59756947): /name John doe
+Thu Oct 11 02:07:25 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:07:27 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:07:44 2018	ASH | Ancient Entity (STEAM_0:0:59066698): 
+Thu Oct 11 02:08:17 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Hey what are these buttons in the synthensizer room?
+Thu Oct 11 02:08:36 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:08:38 2018	ASH | Ancient Entity (STEAM_0:0:59066698): !motd
+Thu Oct 11 02:08:46 2018	[PR]Rebel (STEAM_0:1:121310734) has joined the game
+Thu Oct 11 02:08:46 2018	homer simpson (STEAM_0:1:121310734) spawned
+Thu Oct 11 02:09:01 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:09:07 2018	John doe (STEAM_0:1:59756947): 
+Thu Oct 11 02:09:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Thu Oct 11 02:09:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Thu Oct 11 02:10:01 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:10:50 2018	Somebody (STEAM_0:0:58278368) has dropped $2,300
+Thu Oct 11 02:11:15 2018	homer simpson (STEAM_0:1:121310734) disconnected
+Thu Oct 11 02:11:16 2018	Not lucky (STEAM_0:0:109792021): /ooc how do you talk out loud like that?
+Thu Oct 11 02:11:24 2018	John doe was killed by Makarov with a cw_deagle
+Thu Oct 11 02:11:24 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc intercom
+Thu Oct 11 02:11:26 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:11:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc near core
+Thu Oct 11 02:11:33 2018	Not lucky (STEAM_0:0:109792021): /ooc oh ok
+Thu Oct 11 02:11:47 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:12:12 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:13:24 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:13:28 2018	John doe (STEAM_0:1:59756947): 
+Thu Oct 11 02:13:29 2018	John doe (STEAM_0:1:59756947): /invholster
+Thu Oct 11 02:13:32 2018	John doe (STEAM_0:1:59756947): /drop
+Thu Oct 11 02:13:33 2018	ASH | Ancient Entity (STEAM_0:0:59066698): !motd
+Thu Oct 11 02:13:38 2018	John doe (STEAM_0:1:59756947): /drop
+Thu Oct 11 02:13:49 2018	John doe (STEAM_0:1:59756947): /sleep
+Thu Oct 11 02:13:57 2018	Makarov (STEAM_0:1:71554965): /pm rkh kill him
+Thu Oct 11 02:14:04 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:14:41 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:14:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring spic
+Thu Oct 11 02:15:56 2018	[TVR]rkholcomb was killed by Entity [2889][func_rotating] with a func_rotating
+Thu Oct 11 02:15:58 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:16:17 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:16:30 2018	Sammy Boom (STEAM_0:0:91181601): // there goes the core again
+Thu Oct 11 02:16:38 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 02:16:40 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:16:48 2018	John doe (STEAM_0:1:59756947): /job not evil researcher
+Thu Oct 11 02:16:57 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 02:16:58 2018	John doe (STEAM_0:1:59756947): /job researcher spy
+Thu Oct 11 02:16:59 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:17:04 2018	John doe (STEAM_0:1:59756947): /job researcher spy
+Thu Oct 11 02:17:05 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:17:09 2018	ASH | Ancient Entity was killed by fallenturtle with a cw_mr96
+Thu Oct 11 02:17:11 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:17:37 2018	Not lucky (STEAM_0:0:109792021): /ooc sorry
+Thu Oct 11 02:17:48 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:17:52 2018	John doe was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:17:53 2018	John doe (STEAM_0:1:59756947) spawned
+Thu Oct 11 02:17:54 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:18:02 2018	John doe (STEAM_0:1:59756947): /job researcher spy
+Thu Oct 11 02:18:09 2018	John doe (STEAM_0:1:59756947): /job researcher spy
+Thu Oct 11 02:18:22 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 02:18:22 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:18:34 2018	ASH | Ancient Entity (STEAM_0:0:59066698): should we be concerned? is it gonna blow?
+Thu Oct 11 02:18:36 2018	Not lucky was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:18:39 2018	[TVR]rkholcomb was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:18:41 2018	Not lucky (STEAM_0:0:109792021) spawned
+Thu Oct 11 02:18:42 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:18:57 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:19:00 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:19:32 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:19:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring john
+Thu Oct 11 02:20:07 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Thu Oct 11 02:20:25 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:20:25 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:20:43 2018	ASH | Ancient Entity was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 02:20:44 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:20:46 2018	Somebody (STEAM_0:0:58278368): yo terrorists
+Thu Oct 11 02:20:50 2018	Somebody (STEAM_0:0:58278368): where are ya
+Thu Oct 11 02:21:04 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Thu Oct 11 02:21:26 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:21:48 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:21:54 2018	Somebody was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:21:58 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:22:34 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 02:22:35 2018	fallenturtle (STEAM_0:1:62867403): @mr owner can you take the gps to the lobby
+Thu Oct 11 02:22:49 2018	Spicy Wing was killed by Makarov with a cw_deagle
+Thu Oct 11 02:22:52 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Thu Oct 11 02:22:53 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:23:03 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Tries to do job. Gets shot. Owie.
+Thu Oct 11 02:23:07 2018	Sammy Boom was killed by John doe with a cw_mac11
+Thu Oct 11 02:23:15 2018	Spicy Wing (STEAM_0:0:176415266): /ooc That one hurt boss.
+Thu Oct 11 02:23:18 2018	Sammy Boom (STEAM_0:0:91181601): cunt
+Thu Oct 11 02:23:18 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 02:24:00 2018	ASH | Ancient Entity was killed by Entity [2012][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:24:02 2018	The stranger with no name (STEAM_0:0:58278368) has joined the game
+Thu Oct 11 02:24:02 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:24:02 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:24:23 2018	Sammy Boom (STEAM_0:0:91181601): Not good, I just died
+Thu Oct 11 02:24:27 2018	Sammy Boom (STEAM_0:0:91181601): also I am my wife
+Thu Oct 11 02:24:43 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:24:43 2018	Sammy Boom (STEAM_0:0:91181601): Weird question but wanna see my nightclub lol
+Thu Oct 11 02:24:53 2018	Spicy Wing was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:24:54 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:25:06 2018	Not lucky (STEAM_0:0:109792021) disconnected
+Thu Oct 11 02:25:18 2018	Sammy Boom (STEAM_0:0:91181601): nope
+Thu Oct 11 02:25:40 2018	Sammy Boom (STEAM_0:0:91181601): this is a good thing
+Thu Oct 11 02:25:58 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:27:30 2018	John doe was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:28:20 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:28:56 2018	Sammy Boom (STEAM_0:0:91181601): /pm Makarov Is the Core stable right now?
+Thu Oct 11 02:28:56 2018	[TVR]rkholcomb was killed by fallenturtle with a fas2_dv2
+Thu Oct 11 02:28:58 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:29:08 2018	Makarov (STEAM_0:1:71554965) disconnected
+Thu Oct 11 02:29:16 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:29:23 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:29:35 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:29:49 2018	fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 02:29:49 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Thu Oct 11 02:29:50 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:29:51 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:30:02 2018	fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 02:30:02 2018	[TVR]rkholcomb was killed by fallenturtle with a env_explosion
+Thu Oct 11 02:30:03 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:30:04 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:30:08 2018	fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 02:30:10 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:30:14 2018	fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 02:30:15 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:30:21 2018	fallenturtle was killed by Himself with a suicide trick
+Thu Oct 11 02:30:21 2018	[TVR]rkholcomb was killed by fallenturtle with a env_explosion
+Thu Oct 11 02:30:22 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:30:22 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:30:25 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:30:36 2018	Sammy Boom (STEAM_0:0:91181601): // I em sed my nightclub doesn't get much use ;(
+Thu Oct 11 02:30:46 2018	fallenturtle (STEAM_0:1:62867403): // gtg guys
+Thu Oct 11 02:30:48 2018	fallenturtle (STEAM_0:1:62867403): // cya
+Thu Oct 11 02:30:54 2018	Sammy Boom (STEAM_0:0:91181601): // perhaps its because everyone's preoccupied with keeping the core from blowing
+Thu Oct 11 02:30:58 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:31:01 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:31:32 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:31:39 2018	Somebody (STEAM_0:0:58278368): she's dead
+Thu Oct 11 02:31:49 2018	Somebody was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 02:31:53 2018	ASH | Ancient Entity was killed by fallenturtle with a cw_m3super90
+Thu Oct 11 02:31:55 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:31:57 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:32:00 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:32:20 2018	[TVR]rkholcomb was killed by Himself with a suicide trick
+Thu Oct 11 02:32:23 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:32:29 2018	ASH | Ancient Entity was killed by fallenturtle with a cw_m3super90
+Thu Oct 11 02:32:31 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:33:24 2018	[PR]Rebel (STEAM_0:1:121310734) has joined the game
+Thu Oct 11 02:33:24 2018	homer simpson (STEAM_0:1:121310734) spawned
+Thu Oct 11 02:33:24 2018	Spicy Wing (STEAM_0:0:176415266): /ooc HOW THE FUCK DO I DECREASE IT
+Thu Oct 11 02:33:52 2018	[TVR]rkholcomb (STEAM_0:0:57943747): // is the pumps on
+Thu Oct 11 02:33:53 2018	Sammy Boom (STEAM_0:0:91181601): // Open Coolant Gates (If they're closed, they'll be underwater), turn on fan, enable both Coolant Pumps, don't boost core
+Thu Oct 11 02:34:50 2018	[TVR]rkholcomb was killed by fallenturtle with a cw_g36c
+Thu Oct 11 02:34:51 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 02:35:11 2018	homer simpson (STEAM_0:1:121310734) spawned
+Thu Oct 11 02:35:14 2018	Makarov (STEAM_0:1:71554965) has joined the game
+Thu Oct 11 02:35:14 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:35:22 2018	Somebody (STEAM_0:0:58278368) spawned
+Thu Oct 11 02:35:38 2018	Makarov (STEAM_0:1:71554965): /ooc fuck my wifi
+Thu Oct 11 02:35:48 2018	homer simpson (STEAM_0:1:121310734): /nick corvus.d.clemmons
+Thu Oct 11 02:35:54 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:36:10 2018	homer simpson (STEAM_0:1:121310734): /nick Corvus Clemmons
+Thu Oct 11 02:37:11 2018	ASH | Ancient Entity was killed by Johnny K Bronk with a cw_deagle
+Thu Oct 11 02:37:12 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:37:30 2018	Okofos (STEAM_0:0:207625889) has joined the game
+Thu Oct 11 02:37:30 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 02:37:31 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:37:59 2018	ASH | Ancient Entity (STEAM_0:0:59066698): /job Worker
+Thu Oct 11 02:38:21 2018	ASH | Ancient Entity (STEAM_0:0:59066698): !motd
+Thu Oct 11 02:38:35 2018	Corvus Clemmons (STEAM_0:1:121310734): !motd
+Thu Oct 11 02:38:49 2018	Sammy Boom (STEAM_0:0:91181601): neat club right
+Thu Oct 11 02:38:54 2018	Sammy Boom (STEAM_0:0:91181601): that's VIP only
+Thu Oct 11 02:38:59 2018	Sammy Boom (STEAM_0:0:91181601): nothing back there anyways
+Thu Oct 11 02:39:47 2018	Somebody (STEAM_0:0:58278368): gtg
+Thu Oct 11 02:39:50 2018	Somebody (STEAM_0:0:58278368) disconnected
+Thu Oct 11 02:40:27 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Thu Oct 11 02:40:44 2018	Sammy Boom (STEAM_0:0:91181601): uh yes
+Thu Oct 11 02:40:46 2018	Sammy Boom (STEAM_0:0:91181601): I wanna stay here
+Thu Oct 11 02:41:01 2018	Sammy Boom (STEAM_0:0:91181601): that's not how selling works
+Thu Oct 11 02:41:14 2018	Sammy Boom (STEAM_0:0:91181601): // everything is fine and I will be let go
+Thu Oct 11 02:42:53 2018	Corvus Clemmons (STEAM_0:1:121310734): // come let the dear doctor out so i can cure you all
+Thu Oct 11 02:42:59 2018	MrNetworks (STEAM_0:0:97407434) has joined the game
+Thu Oct 11 02:42:59 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 02:43:24 2018	Makarov was killed by fallenturtle with a cw_g36c
+Thu Oct 11 02:43:28 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:43:31 2018	fallenturtle was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:43:32 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:43:38 2018	ASH | Ancient Entity (STEAM_0:0:59066698): /drop
+Thu Oct 11 02:43:40 2018	fallenturtle was killed by Makarov with a cw_g3a3
+Thu Oct 11 02:43:41 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:43:53 2018	Okofos (STEAM_0:0:207625889): what the hell even is this RP?
+Thu Oct 11 02:44:03 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:44:10 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:44:13 2018	MrNetworks was killed by Makarov with a fas2_dv2
+Thu Oct 11 02:44:39 2018	fallenturtle was killed by Entity [5287][point_hurt] with a point_hurt
+Thu Oct 11 02:44:40 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:44:48 2018	Makarov was killed by Entity [4883][point_hurt] with a point_hurt
+Thu Oct 11 02:44:49 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:44:59 2018	Makarov was killed by fallenturtle with a cw_deagle
+Thu Oct 11 02:45:00 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:45:10 2018	Makarov was killed by fallenturtle with a fas2_dv2
+Thu Oct 11 02:45:11 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:46:30 2018	Okofos was killed by Entity [4883][point_hurt] with a point_hurt
+Thu Oct 11 02:46:33 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 02:46:33 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // when I get my hands on the intercom
+Thu Oct 11 02:46:38 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // half of humanity will vanish
+Thu Oct 11 02:46:38 2018	Makarov was killed by fallenturtle with a fas2_dv2
+Thu Oct 11 02:46:42 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:46:45 2018	ASH | Ancient Entity (STEAM_0:0:59066698): /me almawt liljamie!
+Thu Oct 11 02:46:47 2018	Makarov (STEAM_0:1:71554965): /ooc shut the fuck up
+Thu Oct 11 02:46:52 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:46:55 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // all it will take is a snap. 
+Thu Oct 11 02:47:02 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 02:47:11 2018	Okofos (STEAM_0:0:207625889): 
+Thu Oct 11 02:47:19 2018	Sammy Boom (STEAM_0:0:91181601): kk
+Thu Oct 11 02:47:38 2018	Sammy Boom (STEAM_0:0:91181601): btw
+Thu Oct 11 02:47:40 2018	Sammy Boom (STEAM_0:0:91181601): can you hear the music
+Thu Oct 11 02:47:46 2018	Sammy Boom (STEAM_0:0:91181601): oof
+Thu Oct 11 02:47:54 2018	Sammy Boom (STEAM_0:0:91181601): nah it's because Gmod borked for like 99% of people
+Thu Oct 11 02:48:01 2018	Sammy Boom (STEAM_0:0:91181601): however I enabled a Beta version of gmod where it's fixed
+Thu Oct 11 02:48:12 2018	Sammy Boom (STEAM_0:0:91181601): nice
+Thu Oct 11 02:48:12 2018	Johnny K Bronk was killed by ASH | Ancient Entity with a cw_scarh
+Thu Oct 11 02:48:16 2018	Sammy Boom (STEAM_0:0:91181601): I guess gmod fixed it then
+Thu Oct 11 02:48:32 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:48:38 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:48:51 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:49:01 2018	Okofos (STEAM_0:0:207625889): 
+Thu Oct 11 02:49:07 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:49:11 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 02:49:28 2018	ASH | Ancient Entity was killed by Himself with a suicide trick
+Thu Oct 11 02:49:28 2018	Makarov was killed by ASH | Ancient Entity with a env_explosion
+Thu Oct 11 02:49:29 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:49:30 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:49:35 2018	Makarov (STEAM_0:1:71554965): /ooc what a fucking nigger
+Thu Oct 11 02:49:47 2018	Spicy Wing (STEAM_0:0:176415266): /ooc B a n n e d
+Thu Oct 11 02:49:50 2018	Makarov (STEAM_0:1:71554965): 
+Thu Oct 11 02:49:56 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:49:58 2018	Okofos (STEAM_0:0:207625889): /help
+Thu Oct 11 02:50:00 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // nice E2
+Thu Oct 11 02:50:09 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // really brings out the darkness
+Thu Oct 11 02:50:19 2018	Sammy Boom (STEAM_0:0:91181601): // what e2?
+Thu Oct 11 02:50:27 2018	ASH | Ancient Entity (STEAM_0:0:59066698): // the E2 blinding me thaaanaks
+Thu Oct 11 02:50:31 2018	Sammy Boom (STEAM_0:0:91181601): // oh
+Thu Oct 11 02:50:35 2018	fallenturtle was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:50:36 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 02:50:37 2018	ASH | Ancient Entity (STEAM_0:0:59066698): !motd
+Thu Oct 11 02:50:47 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:51:36 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 02:52:07 2018	ASH | Ancient Entity (STEAM_0:0:59066698): /job Feral Director
+Thu Oct 11 02:52:11 2018	MrNetworks (STEAM_0:0:97407434): // the fuck is this like
+Thu Oct 11 02:52:18 2018	Corvus Clemmons was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:52:25 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 02:52:42 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Thu Oct 11 02:52:51 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:52:55 2018	ASH | Ancient Entity (STEAM_0:0:59066698) disconnected
+Thu Oct 11 02:52:56 2018	Sammy Boom (STEAM_0:0:91181601): hi
+Thu Oct 11 02:53:00 2018	Sammy Boom (STEAM_0:0:91181601): oof
+Thu Oct 11 02:53:22 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:53:40 2018	Corvus Clemmons (STEAM_0:1:121310734): /unstuck
+Thu Oct 11 02:53:46 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 02:54:15 2018	Okofos (STEAM_0:0:207625889): i do not know
+Thu Oct 11 02:54:45 2018	ASH | Ancient Entity (STEAM_0:0:59066698) has joined the game
+Thu Oct 11 02:54:45 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:54:57 2018	Makarov was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:54:58 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:55:02 2018	Spicy Wing (STEAM_0:0:176415266): /ooc Hey why won't it go down?
+Thu Oct 11 02:55:09 2018	MrNetworks was killed by [TVR]rkholcomb with a cw_shorty
+Thu Oct 11 02:55:10 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 02:55:10 2018	fallenturtle (STEAM_0:1:62867403): // the lazers are on
+Thu Oct 11 02:55:13 2018	Makarov (STEAM_0:1:71554965): /ooc because ash being a dumbass turned on the lasers
+Thu Oct 11 02:55:20 2018	Spicy Wing (STEAM_0:0:176415266): /ooc DUMBASS!
+Thu Oct 11 02:55:24 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:55:41 2018	fallenturtle (STEAM_0:1:62867403): // there off now
+Thu Oct 11 02:55:48 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:55:58 2018	Makarov (STEAM_0:1:71554965): 
+Thu Oct 11 02:56:34 2018	Makarov (STEAM_0:1:71554965): 
+Thu Oct 11 02:57:03 2018	Makarov (STEAM_0:1:71554965): 
+Thu Oct 11 02:58:14 2018	Spicy Wing was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 02:58:15 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:58:22 2018	Okofos was killed by fallenturtle with a eoti_raven_swep
+Thu Oct 11 02:58:28 2018	ASH | Ancient Entity (STEAM_0:0:59066698) spawned
+Thu Oct 11 02:58:35 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 02:58:49 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 02:59:02 2018	fallenturtle (STEAM_0:1:62867403): 
+Thu Oct 11 02:59:14 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 02:59:25 2018	Okofos was killed by [TVR]rkholcomb with a cw_shorty
+Thu Oct 11 02:59:27 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:00:01 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:00:21 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Thu Oct 11 03:00:21 2018	Sammy Boom was killed by Johnny K Bronk with a env_explosion
+Thu Oct 11 03:00:23 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:00:23 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 03:00:28 2018	MrNetworks (STEAM_0:0:97407434): // Hello Console my friend
+Thu Oct 11 03:00:33 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:00:45 2018	Spicy Wing (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 03:00:56 2018	Makarov (STEAM_0:1:71554965): /advert I need someone to come into the reactor and turn off the last laser
+Thu Oct 11 03:00:56 2018	Sammy Boom (STEAM_0:0:91181601): /job Nightclub Owner
+Thu Oct 11 03:01:01 2018	Makarov (STEAM_0:1:71554965): /advert no blacks
+Thu Oct 11 03:01:04 2018	fallenturtle (STEAM_0:1:62867403): /advert ill do it
+Thu Oct 11 03:02:00 2018	ASH | Ancient Entity (STEAM_0:0:59066698) disconnected
+Thu Oct 11 03:02:04 2018	Johnny K Bronk was killed by Himself with a suicide trick
+Thu Oct 11 03:02:04 2018	MrNetworks was killed by Johnny K Bronk with a env_explosion
+Thu Oct 11 03:02:05 2018	[TVR]rkholcomb was killed by Spicy Wing with a cw_shorty
+Thu Oct 11 03:02:05 2018	Corvus Clemmons (STEAM_0:1:121310734): /advert please let the dear doctor out of scp containment
+Thu Oct 11 03:02:05 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 03:02:05 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:02:18 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:02:25 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc sure
+Thu Oct 11 03:02:31 2018	Makarov (STEAM_0:1:71554965): /advert Fallen where are you
+Thu Oct 11 03:02:39 2018	Q (STEAM_0:1:179345279) has joined the game
+Thu Oct 11 03:02:39 2018	Q (STEAM_0:1:179345279) spawned
+Thu Oct 11 03:02:45 2018	fallenturtle (STEAM_0:1:62867403): /advert comeing up the stairs
+Thu Oct 11 03:03:12 2018	MrNetworks (STEAM_0:0:97407434): // Console do you guys have some forums?
+Thu Oct 11 03:03:37 2018	Q (STEAM_0:1:179345279): // n i g g e r
+Thu Oct 11 03:03:54 2018	Johnny K Bronk (STEAM_0:1:167614500): /jobname Body Gaurd
+Thu Oct 11 03:03:56 2018	Q (STEAM_0:1:179345279) spawned
+Thu Oct 11 03:04:05 2018	Q (STEAM_0:1:179345279): // 3400 kelvin thats pretty good
+Thu Oct 11 03:05:04 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:05:30 2018	turacept (STEAM_0:1:64236451) has joined the game
+Thu Oct 11 03:05:30 2018	turacept (STEAM_0:1:64236451) spawned
+Thu Oct 11 03:06:35 2018	turacept (STEAM_0:1:64236451) spawned
+Thu Oct 11 03:07:03 2018	Q (STEAM_0:1:179345279): thats great
+Thu Oct 11 03:07:04 2018	MrNetworks (STEAM_0:0:97407434): // Thank you Console
+Thu Oct 11 03:07:05 2018	Johnny K Bronk was killed by Entity [2753][func_rotating] with a func_rotating
+Thu Oct 11 03:07:07 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 03:07:24 2018	Q (STEAM_0:1:179345279): /y fuck its messed up
+Thu Oct 11 03:07:26 2018	Okofos (STEAM_0:0:207625889): 
+Thu Oct 11 03:07:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 03:07:45 2018	Q (STEAM_0:1:179345279): // console is G A Y 
+Thu Oct 11 03:07:56 2018	Makarov (STEAM_0:1:71554965): /ooc I think the preferred term is nigger
+Thu Oct 11 03:08:01 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:08:08 2018	Q (STEAM_0:1:179345279): // nigger faggot
+Thu Oct 11 03:08:11 2018	MrNetworks was killed by Entity [2745][func_rotating] with a func_rotating
+Thu Oct 11 03:08:14 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:08:16 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:08:17 2018	Johnny K Bronk (STEAM_0:1:167614500): !menu
+Thu Oct 11 03:08:17 2018	Sammy Boom (STEAM_0:0:91181601): // *nor
+Thu Oct 11 03:08:22 2018	Makarov (STEAM_0:1:71554965): /ooc Thats somethng a nigger would say
+Thu Oct 11 03:08:33 2018	Q (STEAM_0:1:179345279): // ancient is
+Thu Oct 11 03:08:36 2018	MrNetworks (STEAM_0:0:97407434): // Console is only gay and wants to fuck the little kid on this server
+Thu Oct 11 03:08:43 2018	MrNetworks (STEAM_0:0:97407434): // But really custom shit here tho
+Thu Oct 11 03:08:59 2018	turacept (STEAM_0:1:64236451) disconnected
+Thu Oct 11 03:09:04 2018	Okofos (STEAM_0:0:207625889): hi
+Thu Oct 11 03:09:31 2018	Sammy Boom (STEAM_0:0:91181601): /pm console lol
+Thu Oct 11 03:09:42 2018	Makarov (STEAM_0:1:71554965): /ooc So wait was warning me supposed to be a threat
+Thu Oct 11 03:10:03 2018	Makarov (STEAM_0:1:71554965): =
+Thu Oct 11 03:10:07 2018	fallenturtle was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:10:08 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Thu Oct 11 03:10:16 2018	Makarov (STEAM_0:1:71554965): /ooc Yes but do you think warning me would actually make me stop
+Thu Oct 11 03:10:19 2018	fallenturtle (STEAM_0:1:62867403): // let 3431 out
+Thu Oct 11 03:10:29 2018	Makarov (STEAM_0:1:71554965): /ooc I dont play this server and I havent for a month so what good would that do
+Thu Oct 11 03:10:31 2018	fallenturtle (STEAM_0:1:62867403): // do it
+Thu Oct 11 03:10:43 2018	Q (STEAM_0:1:179345279): // where are you guys?
+Thu Oct 11 03:10:47 2018	fallenturtle (STEAM_0:1:62867403): // what command
+Thu Oct 11 03:10:54 2018	Q (STEAM_0:1:179345279): // WHAT COMMAND!??!?!?!
+Thu Oct 11 03:10:55 2018	Q (STEAM_0:1:179345279): // HMMMMMMMMM
+Thu Oct 11 03:10:57 2018	Makarov (STEAM_0:1:71554965): /ooc oh my 24 hour ban what ever shall I do even though I havent played for a month 
+Thu Oct 11 03:10:59 2018	fallenturtle (STEAM_0:1:62867403): // wat
+Thu Oct 11 03:11:01 2018	MrNetworks (STEAM_0:0:97407434): // Im play this shit for a bit tho really nice shit
+Thu Oct 11 03:11:06 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:11:09 2018	Johnny K Bronk was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 03:11:10 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 03:11:55 2018	Q (STEAM_0:1:179345279): hey jewboy
+Thu Oct 11 03:11:57 2018	Q (STEAM_0:1:179345279): can you see my pac
+Thu Oct 11 03:12:01 2018	Okofos (STEAM_0:0:207625889): hi
+Thu Oct 11 03:12:04 2018	Okofos (STEAM_0:0:207625889): yes i can
+Thu Oct 11 03:12:10 2018	Q (STEAM_0:1:179345279): can you see this?
+Thu Oct 11 03:12:24 2018	Makarov (STEAM_0:1:71554965): /ooc That isnt the point
+Thu Oct 11 03:12:26 2018	Okofos (STEAM_0:0:207625889): yeah
+Thu Oct 11 03:12:38 2018	Q (STEAM_0:1:179345279): // at least make your own e2's if youre gonna minged
+Thu Oct 11 03:12:39 2018	Makarov (STEAM_0:1:71554965): /ooc My point is that I dont give a shit about you warning me if someone is being an asshat I will deal with them myself
+Thu Oct 11 03:12:40 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:12:41 2018	Q (STEAM_0:1:179345279): // MINGE*
+Thu Oct 11 03:12:44 2018	Sammy Boom (STEAM_0:0:91181601): m8 really
+Thu Oct 11 03:12:47 2018	Sammy Boom (STEAM_0:0:91181601): I was working on wiremod
+Thu Oct 11 03:12:51 2018	Q (STEAM_0:1:179345279): // I wouldnt ban him for using minge e2's
+Thu Oct 11 03:12:59 2018	Q (STEAM_0:1:179345279): // I'd ban him for using public minge e2s
+Thu Oct 11 03:13:23 2018	Q was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:13:31 2018	Q (STEAM_0:1:179345279) spawned
+Thu Oct 11 03:13:39 2018	MrNetworks was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:13:40 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:13:46 2018	Q (STEAM_0:1:179345279): // What was he using?
+Thu Oct 11 03:13:54 2018	MrNetworks (STEAM_0:0:97407434): // have fu jerking it 
+Thu Oct 11 03:14:05 2018	Q (STEAM_0:1:179345279): // hm the most basic holo you can possibly do
+Thu Oct 11 03:14:29 2018	Sammy Boom was killed by [TVR]rkholcomb with a weapon_sillyzombieclaw_v2
+Thu Oct 11 03:14:32 2018	Q (STEAM_0:1:179345279): // Do you know any lua?
+Thu Oct 11 03:14:35 2018	Sammy Boom (STEAM_0:0:91181601): // aw you only had 6 hp left
+Thu Oct 11 03:14:37 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:14:39 2018	MrNetworks (STEAM_0:0:97407434): // I want to see the core blow up sounds like ti will be cool
+Thu Oct 11 03:14:47 2018	Sammy Boom (STEAM_0:0:91181601): // it's not that great
+Thu Oct 11 03:14:51 2018	fallenturtle (STEAM_0:1:62867403): /name birb is the word
+Thu Oct 11 03:14:52 2018	Sammy Boom (STEAM_0:0:91181601): // and the entire server has to restart
+Thu Oct 11 03:14:59 2018	Okofos (STEAM_0:0:207625889): hey btw how do you use ooc?
+Thu Oct 11 03:15:01 2018	Johnny K Bronk was killed by Makarov with a cw_deagle
+Thu Oct 11 03:15:10 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Thu Oct 11 03:15:12 2018	Okofos (STEAM_0:0:207625889): thx
+Thu Oct 11 03:15:16 2018	Q (STEAM_0:1:179345279): // no
+Thu Oct 11 03:15:17 2018	Sammy Boom (STEAM_0:0:91181601): // I use // instead of /ooc
+Thu Oct 11 03:15:20 2018	Q (STEAM_0:1:179345279): // doing /ooc is obnoxious
+Thu Oct 11 03:15:21 2018	Okofos (STEAM_0:0:207625889): sorry i'm just new here
+Thu Oct 11 03:15:21 2018	Q (STEAM_0:1:179345279): // do //
+Thu Oct 11 03:15:50 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:15:57 2018	MrNetworks was killed by Himself with a suicide trick
+Thu Oct 11 03:15:59 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:16:09 2018	Sammy Boom (STEAM_0:0:91181601): // the core gets overloaded about once every hour lol
+Thu Oct 11 03:16:31 2018	Q (STEAM_0:1:179345279) disconnected
+Thu Oct 11 03:16:43 2018	birb is the word (STEAM_0:1:62867403): /advert let me in
+Thu Oct 11 03:16:54 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:17:08 2018	Corvus Clemmons was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:17:14 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:17:24 2018	MrNetworks (STEAM_0:0:97407434): // I just found this shit and tried it out
+Thu Oct 11 03:17:32 2018	MrNetworks (STEAM_0:0:97407434): // Not a shitty server like DarkRp
+Thu Oct 11 03:17:45 2018	MrNetworks (STEAM_0:0:97407434): // Is like SCPRP just less little kids and RDM
+Thu Oct 11 03:18:18 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:18:18 2018	Sammy Boom (STEAM_0:0:91181601): // so long I can keep my nightclub I'm good lol
+Thu Oct 11 03:18:40 2018	birb is the word was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:18:41 2018	birb is the word (STEAM_0:1:62867403) spawned
+Thu Oct 11 03:18:43 2018	Sammy Boom (STEAM_0:0:91181601): // I did
+Thu Oct 11 03:18:47 2018	Sammy Boom (STEAM_0:0:91181601): // I just mean so long I can keep using it
+Thu Oct 11 03:18:54 2018	Sammy Boom (STEAM_0:0:91181601): // cus it looks fuckin awesome
+Thu Oct 11 03:19:06 2018	TimPai (STEAM_0:0:53526522) has joined the game
+Thu Oct 11 03:19:06 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:19:56 2018	birb is the word was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:19:57 2018	birb is the word (STEAM_0:1:62867403) spawned
+Thu Oct 11 03:20:04 2018	birb is the word (STEAM_0:1:62867403) disconnected
+Thu Oct 11 03:20:43 2018	Makarov was killed by MrNetworks with a cw_mr96
+Thu Oct 11 03:20:44 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:21:30 2018	Power Pete (STEAM_0:0:26019050) has joined the game
+Thu Oct 11 03:21:30 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:21:34 2018	Makarov (STEAM_0:1:71554965): /ooc go to the blast shelter next to spawn
+Thu Oct 11 03:21:59 2018	MrNetworks (STEAM_0:0:97407434): // oh fuck
+Thu Oct 11 03:22:02 2018	MrNetworks (STEAM_0:0:97407434): // oh fuck
+Thu Oct 11 03:22:07 2018	MrNetworks (STEAM_0:0:97407434): // God save us
+Thu Oct 11 03:22:10 2018	Okofos (STEAM_0:0:207625889): /ooc shet
+Thu Oct 11 03:22:19 2018	Sammy Boom (STEAM_0:0:91181601): // did I hear a "god save us"?
+Thu Oct 11 03:22:23 2018	MrNetworks (STEAM_0:0:97407434): // Yes
+Thu Oct 11 03:22:28 2018	MrNetworks (STEAM_0:0:97407434): // iM OSAMA 
+Thu Oct 11 03:24:02 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Thu Oct 11 03:24:07 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:24:25 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:24:25 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:24:50 2018	Okofos (STEAM_0:0:207625889): magic
+Thu Oct 11 03:25:14 2018	Okofos (STEAM_0:0:207625889): were playing Gmod what did you exspect?
+Thu Oct 11 03:25:30 2018	Power Pete was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:25:32 2018	Sammy Boom (STEAM_0:0:91181601): // I'm a buisnessman doing more work than the plant workers
+Thu Oct 11 03:25:34 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:25:47 2018	Okofos was killed by [TVR]rkholcomb with a weapon_sillyzombieclaw_v2
+Thu Oct 11 03:25:50 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:26:08 2018	Gumpo Mumpo (STEAM_0:1:53547966) has joined the game
+Thu Oct 11 03:26:08 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:26:14 2018	Sammy Boom (STEAM_0:0:91181601): // markover
+Thu Oct 11 03:26:19 2018	Power Pete (STEAM_0:0:26019050): /ooc gump become janitor
+Thu Oct 11 03:26:21 2018	Sammy Boom (STEAM_0:0:91181601): // you have things on the core door
+Thu Oct 11 03:26:46 2018	Power Pete was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 03:26:49 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:27:01 2018	Sammy Boom (STEAM_0:0:91181601): fucks sake's man
+Thu Oct 11 03:27:03 2018	Sammy Boom (STEAM_0:0:91181601): we have like
+Thu Oct 11 03:27:05 2018	Sammy Boom (STEAM_0:0:91181601): a few seconds max
+Thu Oct 11 03:27:14 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:27:31 2018	Makarov was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:27:34 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:27:43 2018	Sammy Boom was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:27:44 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:27:47 2018	Sammy Boom (STEAM_0:0:91181601): // do not turn on the lasers
+Thu Oct 11 03:27:50 2018	Sammy Boom (STEAM_0:0:91181601): // that man is lying to you
+Thu Oct 11 03:27:51 2018	TimPai was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:27:55 2018	Sammy Boom (STEAM_0:0:91181601): // turning on the lasers makes it hotter
+Thu Oct 11 03:27:57 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:28:12 2018	Corvus Clemmons (STEAM_0:1:121310734): // no it cools it
+Thu Oct 11 03:28:22 2018	Sammy Boom (STEAM_0:0:91181601): // No, it does not
+Thu Oct 11 03:28:23 2018	MrNetworks (STEAM_0:0:97407434): // we are be dead
+Thu Oct 11 03:28:29 2018	[TVR]rkholcomb was killed by Entity [0][worldspawn] with a unknown
+Thu Oct 11 03:28:30 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:28:51 2018	Sammy Boom (STEAM_0:0:91181601): /y zoothair
+Thu Oct 11 03:28:59 2018	MrNetworks (STEAM_0:0:97407434): // fuck
+Thu Oct 11 03:29:00 2018	Okofos (STEAM_0:0:207625889): dat not gud
+Thu Oct 11 03:29:02 2018	Sammy Boom (STEAM_0:0:91181601): /y is real zuthr 12
+Thu Oct 11 03:29:22 2018	Okofos (STEAM_0:0:207625889): we are not fine
+Thu Oct 11 03:29:25 2018	Corvus Clemmons was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:29:26 2018	Corvus Clemmons (STEAM_0:1:121310734) spawned
+Thu Oct 11 03:29:56 2018	Tigroon (STEAM_0:0:40127246) has joined the game
+Thu Oct 11 03:29:56 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 03:29:59 2018	Okofos (STEAM_0:0:207625889): i'll go fix the cooler
+Thu Oct 11 03:30:37 2018	Tigroon (STEAM_0:0:40127246) spawned
+Thu Oct 11 03:30:53 2018	Sammy Boom (STEAM_0:0:91181601): /y you don't fuck with me I won't fuck with you, deal?
+Thu Oct 11 03:31:08 2018	Spicy Wing was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:31:09 2018	Spicy Wing (STEAM_0:0:176415266) spawned
+Thu Oct 11 03:31:14 2018	Tigroon (STEAM_0:0:40127246): /advert All personell, get to the evac points. If anyone is in the core, hit the emergancy coolant, and get this under control
+Thu Oct 11 03:31:20 2018	Spicy Wing (STEAM_0:0:176415266): /job Director of Security
+Thu Oct 11 03:31:33 2018	Tigroon (STEAM_0:0:40127246): /advert Networks! The coolant!
+Thu Oct 11 03:31:35 2018	Tigroon (STEAM_0:0:40127246): /advert NOW!
+Thu Oct 11 03:31:43 2018	Sammy Boom (STEAM_0:0:91181601): // is real zoothainian 91
+Thu Oct 11 03:31:59 2018	Sammy Boom was killed by Entity [2295][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:00 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:32:07 2018	[TVR]rkholcomb (STEAM_0:0:57943747) spawned
+Thu Oct 11 03:32:10 2018	Sammy Boom (STEAM_0:0:91181601): // i just fell through the rocket
+Thu Oct 11 03:32:16 2018	Tigroon (STEAM_0:0:40127246): /advert RUN!
+Thu Oct 11 03:32:32 2018	Tigroon (STEAM_0:0:40127246): Made it just in time.
+Thu Oct 11 03:32:32 2018	Okofos (STEAM_0:0:207625889): /ooc right next to the core ;-;
+Thu Oct 11 03:32:49 2018	MrNetworks was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:49 2018	Okofos was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:49 2018	Power Pete was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:49 2018	Gumpo Mumpo was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:49 2018	TimPai was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:49 2018	Makarov was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:32:50 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:32:52 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:32:52 2018	Tigroon (STEAM_0:0:40127246): Enjoy the music!
+Thu Oct 11 03:32:57 2018	Okofos (STEAM_0:0:207625889): /ooc the soundtrack lit tho
+Thu Oct 11 03:32:57 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:32:59 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:33:03 2018	Tigroon (STEAM_0:0:40127246): /ooc Right?
+Thu Oct 11 03:33:05 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:33:06 2018	Sammy Boom (STEAM_0:0:91181601): // Tsunami
+Thu Oct 11 03:33:14 2018	Power Pete was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:14 2018	Gumpo Mumpo was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:14 2018	Makarov was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:14 2018	Okofos was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:14 2018	MrNetworks was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:14 2018	Sammy Boom was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:16 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:33:18 2018	Makarov (STEAM_0:1:71554965) spawned
+Thu Oct 11 03:33:18 2018	Power Pete (STEAM_0:0:26019050) spawned
+Thu Oct 11 03:33:19 2018	Okofos (STEAM_0:0:207625889) spawned
+Thu Oct 11 03:33:20 2018	Sammy Boom (STEAM_0:0:91181601): // map restart
+Thu Oct 11 03:33:21 2018	Sammy Boom was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:21 2018	Gumpo Mumpo (STEAM_0:1:53547966) spawned
+Thu Oct 11 03:33:22 2018	MrNetworks (STEAM_0:0:97407434) spawned
+Thu Oct 11 03:33:23 2018	Makarov was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:23 2018	TimPai (STEAM_0:0:53526522) spawned
+Thu Oct 11 03:33:23 2018	Power Pete was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Thu Oct 11 03:33:24 2018	Sammy Boom (STEAM_0:0:91181601) spawned
+Thu Oct 11 03:33:24 2018	Okofos was killed by Entity [4941][trigger_hurt] with a trigger_hurt

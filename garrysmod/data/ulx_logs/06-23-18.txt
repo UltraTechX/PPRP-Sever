@@ -1,0 +1,1543 @@
+[10:45:03] New map: rp_powerplant_v2b2
+[10:49:03] Client "Fat Gay" connected.
+[10:49:42] Client "♕Weingott♕" connected.
+[10:50:17] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 74 seconds).
+[10:51:11] Client "♕Weingott♕" spawned in server <STEAM_0:1:86800123> (took 89 seconds).
+[10:51:17] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_collectcrate
+[10:51:21] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[10:51:42] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[10:52:17] Fat Gay: /ooc brb im taking a shit
+[10:52:33] ♕Weingott♕: !noclip
+[10:53:07] ♕Weingott♕<STEAM_0:1:86800123> spawned model models/props_c17/fence02b.mdl
+[10:56:08] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:20] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:22] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:24] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:31] ♕Weingott♕<STEAM_0:1:86800123> spawned NPC npc_crow
+[10:56:35] ♕Weingott♕<STEAM_0:1:86800123> spawned NPC npc_crow
+[10:56:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:37] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:37] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:38] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:38] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/player/swat.mdl
+[10:56:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on models/player/swat.mdl
+[10:56:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:39] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:39] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:40] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:40] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:42] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:42] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:43] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:43] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:43] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:44] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:44] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:56:45] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[10:56:45] Fat Gay<STEAM_0:1:218173703> spawned NPC npc_monk
+[10:57:28] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep fas2_ak12
+[10:57:51] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[10:57:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[10:58:02] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[10:58:07] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[10:58:09] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[10:59:34] Fat Gay killed ♕Weingott♕ using player
+[11:01:45] Fat Gay killed ♕Weingott♕ using fas2_thrown_m67
+[11:02:04] Fat Gay killed ♕Weingott♕ using fas2_thrown_m67
+[11:02:10] ♕Weingott♕ killed Fat Gay using player
+[11:08:55] ♕Weingott♕ suicided!
+[11:08:55] Fat Gay slayed ♕Weingott♕
+[11:08:55] Fat Gay: !slay w
+[11:09:15] Fat Gay killed ♕Weingott♕ using player
+[11:09:59] Fat Gay set the hp for ♕Weingott♕ to 1
+[11:09:59] Fat Gay: !hp we 1
+[11:10:00] Fat Gay killed ♕Weingott♕ using player
+[11:11:55] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep fas2_m1911
+[11:12:01] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep heretic_cw2_m27
+[11:12:07] ♕Weingott♕<STEAM_0:1:86800123> spawned/gave himself swep weapon_vape_medicinal
+[11:14:42] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:43] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:43] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:43] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:43] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:43] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:44] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:44] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:44] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:44] ♕Weingott♕<STEAM_0:1:86800123> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[11:14:46] ♕Weingott♕<STEAM_0:1:86800123> used the tool stacker on maps/rp_powerplant_v2b2.bsp
+[11:15:00] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:01] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:01] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:01] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:01] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:26] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:26] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:26] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:15:26] ♕Weingott♕<STEAM_0:1:86800123> used the tool trails on models/player/urban.mdl
+[11:18:12] Dropped "♕Weingott♕" from server<STEAM_0:1:86800123>
+[11:34:01] Fat Gay was killed by trigger_hurt
+[11:34:37] Fat Gay was killed by trigger_hurt
+[11:35:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m1911
+[11:39:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_l115
+
+
+
+[11:58:34] New map: rp_powerplant_v2b2
+[11:58:38] Client "Fat Gay" connected.
+[11:59:22] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 44 seconds).
+
+
+
+[12:05:58] New map: rp_powerplant_v2b2
+[12:06:08] Client "Fat Gay" connected.
+[12:06:43] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 35 seconds).
+
+
+
+[12:12:09] New map: rp_powerplant_v2b2
+[12:12:14] Client "Fat Gay" connected.
+[12:12:46] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+
+
+
+[12:20:34] New map: rp_powerplant_v2b2
+[12:21:27] Client "Fat Gay" connected.
+[12:22:01] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 34 seconds).
+
+
+
+[12:25:50] New map: rp_powerplant_v2b2
+[12:26:11] Client "Fat Gay" connected.
+[12:26:43] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+
+
+
+[12:49:32] New map: rp_powerplant_v2b2
+[12:49:54] Client "Fat Gay" connected.
+[12:50:28] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 34 seconds).
+
+
+
+[12:52:49] New map: rp_powerplant_v2b2
+[12:53:11] Client "Fat Gay" connected.
+[12:53:45] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 34 seconds).
+[13:32:03] Fat Gay suicided!
+[13:34:08] Client "Valien" connected.
+[13:36:15] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 127 seconds).
+[13:38:44] Emmett<STEAM_0:1:41660292> spawned/gave himself swep dab
+[13:38:53] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[13:39:09] Fat Gay killed Emmett using player
+[13:39:15] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[13:39:17] Client "Fat Gay" connected.
+[13:39:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep facepunch
+[13:39:43] Emmett<STEAM_0:1:41660292> spawned/gave himself swep middlefinger
+[13:39:47] Emmett<STEAM_0:1:41660292> spawned/gave himself swep salute
+[13:39:48] Emmett<STEAM_0:1:41660292> spawned/gave himself swep frontflip
+[13:39:54] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[13:39:57] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[13:42:11] Emmett teleported to Fat Gay
+[13:42:11] Emmett: !goto fat
+[13:42:46] Client "[P2P]MilesTailsPower" connected.
+[13:54:32] Client "[P2P]MilesTailsPower" spawned in server <STEAM_0:0:192923038> (took 706 seconds).
+[13:54:32] (Console) added [P2P]MilesTailsPower to group PACUser
+[13:55:34] Fat Gay: !goto va
+[13:55:41] (TEAM) Fat Gay: !goto va
+[13:55:47] Emmett: e
+[13:58:20] [P2P]MilesTailsPower: here
+[13:58:29] [P2P]MilesTailsPower: // hi all
+[13:59:11] [P2P]MilesTailsPower: i go to core
+[13:59:54] [P2P]MilesTailsPower: // can i get vip please?
+[14:00:06] Fat Gay: /ooc no
+[14:00:16] [P2P]MilesTailsPower: // ok
+[14:00:24] [P2P]MilesTailsPower: DE YOU KNOW DE WAY?
+[14:00:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep bn_defib_admin
+[14:00:54] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned/gave himself swep weapon_jihadbomb
+[14:01:09] Fat Gay: !goto va
+[14:01:13] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_c17/furniturecouch001a.mdl
+[14:01:14] Fat Gay: !goto ba
+[14:01:16] Fat Gay: !goto va
+[14:01:16] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[14:01:22] Fat Gay teleported to Emmett
+[14:01:22] Fat Gay: !goto em
+[14:01:40] Emmett suicided!
+[14:01:40] Fat Gay slayed Emmett
+[14:01:40] Fat Gay: !slay em
+[14:02:07] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[14:02:16] Fat Gay: !specate mi
+[14:02:21] Fat Gay: !spectate tal
+[14:02:33] Fat Gay: !spectate tai
+[14:03:23] Emmett suicided!
+[14:03:23] Emmett killed [P2P]MilesTailsPower using env_explosion
+[14:03:45] [P2P]MilesTailsPower: // WHY I WANT CORE EXPLODET
+[14:04:02] Fat Gay: /ooc go terrorist
+[14:04:07] [P2P]MilesTailsPower: NO
+[14:04:21] [P2P]MilesTailsPower: // WERE ROCKETS
+[14:04:37] Fat Gay: /ooc sorry im playing checkers
+[14:04:40] [P2P]MilesTailsPower: // WERE ROCKETS
+[14:04:46] Fat Gay: /ooc in lab
+[14:04:50] [P2P]MilesTailsPower: \]s
+[14:04:56] [P2P]MilesTailsPower: // tp me to you
+[14:04:59] [P2P]MilesTailsPower: // plz
+[14:05:03] [P2P]MilesTailsPower: // NNOW
+[14:05:20] [P2P]MilesTailsPower: // plz tp me
+[14:05:45] [P2P]MilesTailsPower: // TP NOOW
+[14:06:13] [P2P]MilesTailsPower: // TP PLZZZ
+[14:06:28] [P2P]MilesTailsPower: // WAIT WHAT ROCKET LAUCH BUT NO MELT WAAATT
+[14:07:07] [P2P]MilesTailsPower: !radio
+[14:07:24] [P2P]MilesTailsPower: OH NOOOoooooooo (what core explode or rockets?)
+[14:10:26] [P2P]MilesTailsPower: // fay gay you add melt?
+[14:11:03] Fat Gay: /ooc i dont finish things instantly
+[14:11:12] Fat Gay: /ooc ive said 3+ times Im working on i
+[14:11:17] Fat Gay: /ooc it*
+[14:11:52] [P2P]MilesTailsPower: w
+[14:15:33] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool rtcam on models/props_phx/games/chess/board.mdl
+[14:15:43] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_phx/rt_screen.mdl
+[14:16:08] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_phx/rt_screen.mdl
+[14:24:04] Fat Gay was killed by trigger_hurt
+[14:24:18] Emmett was killed by trigger_hurt
+[14:24:23] Fat Gay teleported to Emmett
+[14:24:23] Fat Gay: !goto em
+[14:26:15] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[14:27:52] [P2P]MilesTailsPower: // here
+[14:30:26] [P2P]MilesTailsPower: // wat
+[14:30:37] [P2P]MilesTailsPower: // why i em bunker
+[14:32:27] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:32:35] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:32:43] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:33:03] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:33:09] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:33:27] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_c17/bench01a.mdl
+[14:33:39] [P2P]MilesTailsPower was killed by trigger_hurt
+[14:34:03] Emmett<STEAM_0:1:41660292> used the tool nocollide on models/props_lab/blastdoor001c.mdl
+[14:34:05] Emmett<STEAM_0:1:41660292> used the tool nocollide on maps/rp_powerplant_v2b2.bsp
+[14:34:06] Emmett<STEAM_0:1:41660292> used the tool nocollide on models/props_lab/blastdoor001c.mdl
+[14:34:21] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:34:22] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_c17/bench01a.mdl
+[14:34:31] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:34:33] [P2P]MilesTailsPower: // o hi
+[14:34:35] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_c17/bench01a.mdl
+[14:34:42] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_c17/bench01a.mdl
+[14:35:20] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_lab/blastdoor001c.mdl
+[14:35:28] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:35:29] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/props_lab/blastdoor001c.mdl
+[14:35:52] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate8x8.mdl
+[14:35:57] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate8x8.mdl
+[14:36:01] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:36:03] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:36:05] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:36:08] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:36:16] [P2P]MilesTailsPower was killed by trigger_hurt
+[14:36:17] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:36:33] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate8x8.mdl
+[14:36:51] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate8x8.mdl
+[14:36:55] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate8x8.mdl
+[14:37:07] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate2x3.mdl
+[14:37:10] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate2x3.mdl
+[14:37:18] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/plates/plate2x3.mdl
+[14:37:21] Emmett killed [P2P]MilesTailsPower using player
+[14:37:22] [P2P]MilesTailsPower: hey
+[14:37:26] [P2P]MilesTailsPower: // HEY
+[14:37:47] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:38:01] Emmett<STEAM_0:1:41660292> used the tool colour on models/freeman/money_printer.mdl
+[14:39:08] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:09] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:09] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:09] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:09] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:10] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:10] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:10] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:10] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on *207
+[14:39:10] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:11] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:12] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:14] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:14] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator on maps/rp_powerplant_v2b2.bsp
+[14:39:17] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[14:39:18] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[14:39:18] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[14:39:18] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[14:39:18] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[14:39:19] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool elevator_button on maps/rp_powerplant_v2b2.bsp
+[14:39:28] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:28] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:28] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:28] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:28] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:29] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:29] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:32] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:36] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:37] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on *208
+[14:39:38] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:39] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:39] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:43] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:50] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:53] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:54] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:55] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:55] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:55] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:55] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:55] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:56] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:56] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:56] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:56] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on models/freeman/money_printer.mdl
+[14:39:56] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:57] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:57] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:58] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:59] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:39:59] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:40:00] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:40:02] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:40:02] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:40:02] [P2P]MilesTailsPower<STEAM_0:0:192923038> used the tool smart_ghost_zone on maps/rp_powerplant_v2b2.bsp
+[14:41:09] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:41:10] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:41:11] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:41:12] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[14:42:07] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:43:38] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[14:43:42] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[14:43:49] Emmett<STEAM_0:1:41660292> used the tool weld on models/props_junk/wood_crate002a.mdl
+[14:43:49] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[14:43:50] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[14:43:50] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[14:43:50] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[14:43:50] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[14:43:51] Emmett<STEAM_0:1:41660292> used the tool weld on *206
+[14:44:28] Emmett suicided!
+[14:44:29] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[14:44:44] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[14:44:46] Emmett<STEAM_0:1:41660292> used the tool fading_door on maps/rp_powerplant_v2b2.bsp
+[14:44:49] [P2P]MilesTailsPower: // cheif + respawn in the bunker COOL
+[14:44:53] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[14:46:16] [P2P]MilesTailsPower: // HEY
+[14:46:23] [P2P]MilesTailsPower: // I  want stop
+[14:46:35] [P2P]MilesTailsPower: // YAY ROCKET 
+[14:52:22] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/blocks/cube025x025x025.mdl
+[14:52:27] [P2P]MilesTailsPower<STEAM_0:0:192923038> spawned model models/hunter/blocks/cube025x025x025.mdl
+[14:53:53] Dropped "[P2P]MilesTailsPower" from server<STEAM_0:0:192923038>
+[15:05:18] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[15:44:33] Client "Lastpayload244" connected.
+[15:47:24] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 171 seconds).
+[15:47:24] (Console) added Dr Steiner to group PACUser
+[15:49:44] Dr Steiner<STEAM_0:0:48607723> spawned/gave himself swep weapon_ak472
+[15:52:38] Dropped "Dr Steiner" from server<STEAM_0:0:48607723>
+[15:53:56] Client "Lastpayload244" connected.
+[15:55:08] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 72 seconds).
+[16:02:58] Dropped "Dr Steiner" from server<STEAM_0:0:48607723>
+[16:03:35] Client "Lastpayload244" connected.
+[16:04:18] Client "Lastpayload244" spawned in server <STEAM_0:0:48607723> (took 43 seconds).
+[16:08:40] Dr Steiner<STEAM_0:0:48607723> changed their name to Connor Rk800
+[16:09:28] Client "Valien" connected.
+[16:10:21] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 53 seconds).
+[16:15:15] Emmett teleported to Connor Rk800
+[16:15:15] Emmett: !goto connor
+[16:18:28] Emmett<STEAM_0:1:41660292> spawned vehicle models/nova/chair_office01.mdl
+[16:18:38] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/laptop.mdl
+[16:22:47] Emmett<STEAM_0:1:41660292> used the tool remover on models/props_computers/laptop.mdl
+[16:22:48] Emmett<STEAM_0:1:41660292> used the tool remover on models/nova/chair_office01.mdl
+[16:24:01] Emmett teleported to Connor Rk800
+[16:24:01] Emmett: !goto co
+[16:27:02] Emmett: /dropmoney 28100
+[16:29:52] Dropped "Connor Rk800" from server<STEAM_0:0:48607723>
+[16:30:37] Emmett<STEAM_0:1:41660292> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:30:53] Emmett<STEAM_0:1:41660292> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[16:31:45] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[16:31:51] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[16:31:57] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_building_details/storefront_template001a_bars.mdl
+[16:32:12] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:32:16] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:35:43] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[16:35:49] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[16:38:55] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b2.bsp
+[16:39:02] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b2.bsp
+[16:39:28] Emmett<STEAM_0:1:41660292> used the tool light on maps/rp_powerplant_v2b2.bsp
+[16:41:34] Emmett was killed by trigger_hurt
+[16:42:24] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:43:25] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[16:43:40] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[16:44:17] Client "Zerrakoth" connected.
+[16:47:18] Client "Zerrakoth" spawned in server <STEAM_0:1:44006700> (took 181 seconds).
+[16:47:36] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[16:48:41] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:48:47] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:49:07] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:50:48] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[16:51:58] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[16:54:32] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_m4a1
+[16:55:10] Zerrakoth<STEAM_0:1:44006700> spawned sent cw_ammo_crate_unlimited
+[16:55:17] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammocrate
+[16:55:29] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_glock20
+[16:56:59] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[16:57:12] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_lab/blastdoor001c.mdl
+[16:57:16] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_junk/trafficcone001a.mdl
+[16:57:29] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[16:57:50] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[16:57:51] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[16:57:57] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[16:58:06] Emmett<STEAM_0:1:41660292> used the tool remover on models/props_lab/blastdoor001c.mdl
+[17:00:21] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[17:00:24] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:24] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[17:00:45] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:48] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:49] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:49] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:52] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:53] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:54] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:55] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:55] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:56] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:57] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:57] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:00:58] Emmett<STEAM_0:1:41660292> used the tool colour on *83
+[17:01:03] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_lab/blastdoor001c.mdl
+[17:01:39] Emmett suicided!
+[17:02:09] Zerrakoth suicided!
+[17:02:09] Zerrakoth exploded Themself
+[17:02:19] Zerrakoth teleported to Emmett
+[17:02:35] Zerrakoth granted god mode upon Themself
+[17:02:38] Emmett granted god mode upon Themself
+[17:02:38] Emmett: !god
+[17:04:51] Zerrakoth teleported to Emmett
+[17:05:03] Zerrakoth suicided!
+[17:05:03] Zerrakoth exploded Themself
+[17:05:11] Zerrakoth teleported to Emmett
+[17:05:15] Zerrakoth granted god mode upon Themself
+[17:06:07] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[17:06:21] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[17:06:23] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[17:06:30] Zerrakoth<STEAM_0:1:44006700> used the tool light on *83
+[17:06:31] Zerrakoth<STEAM_0:1:44006700> used the tool light on *83
+[17:06:32] Zerrakoth<STEAM_0:1:44006700> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:06:33] Zerrakoth<STEAM_0:1:44006700> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:06:35] Zerrakoth<STEAM_0:1:44006700> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:06:37] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[17:06:46] Zerrakoth<STEAM_0:1:44006700> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:06:47] Zerrakoth<STEAM_0:1:44006700> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:06:49] Zerrakoth<STEAM_0:1:44006700> used the tool light on maps/rp_powerplant_v2b2.bsp
+[17:06:59] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/props_junk/trafficcone001a.mdl
+[17:07:15] Zerrakoth<STEAM_0:1:44006700> used the tool rtcam on maps/rp_powerplant_v2b2.bsp
+[17:07:27] Zerrakoth<STEAM_0:1:44006700> used the tool rtcam on *283
+[17:07:27] Zerrakoth<STEAM_0:1:44006700> used the tool rtcam on maps/rp_powerplant_v2b2.bsp
+[17:07:28] Zerrakoth<STEAM_0:1:44006700> used the tool rtcam on maps/rp_powerplant_v2b2.bsp
+[17:07:46] Zerrakoth<STEAM_0:1:44006700> spawned model models/props_c17/chair02a.mdl
+[17:08:18] Emmett<STEAM_0:1:41660292> used the tool rtcam on maps/rp_powerplant_v2b2.bsp
+[17:08:23] Emmett<STEAM_0:1:41660292> used the tool rtcam on maps/rp_powerplant_v2b2.bsp
+[17:11:10] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_ak12
+[17:11:25] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[17:11:38] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[17:12:22] Zerrakoth stripped weapons from Themself
+[17:12:27] Zerrakoth revoked god mode from Themself
+[17:12:35] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[17:12:42] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep heretic_cw2_m27
+[17:12:56] Emmett<STEAM_0:1:41660292> used the tool textscreen on models/props_lab/blastdoor001b.mdl
+[17:12:56] Zerrakoth stripped weapons from Themself
+[17:12:57] Emmett<STEAM_0:1:41660292> used the tool textscreen on models/props_lab/blastdoor001b.mdl
+[17:13:05] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_mp5
+[17:13:11] Emmett<STEAM_0:1:41660292> used the tool textscreen on models/props_lab/blastdoor001b.mdl
+[17:13:19] Emmett<STEAM_0:1:41660292> used the tool remover on models/props_lab/blastdoor001b.mdl
+[17:13:45] Emmett: /warrant emmett
+[17:13:52] Zerrakoth teleported to Emmett
+[17:13:54] Emmett: /warrant emmett Drugs
+[17:14:02] Zerrakoth suicided!
+[17:14:02] Zerrakoth slayed Themself
+[17:14:11] Zerrakoth teleported to Emmett
+[17:14:15] Emmett: /warrant emmett drugs
+[17:14:23] Zerrakoth stripped weapons from Themself
+[17:14:38] Zerrakoth stripped weapons from Themself
+[17:14:44] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep door_ram
+[17:14:46] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weaponchecker
+[17:14:47] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep pocket
+[17:14:49] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep lockpick
+[17:15:02] Zerrakoth stripped weapons from Themself
+[17:15:05] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep door_ram
+[17:15:08] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weaponchecker
+[17:15:09] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep staff_lockpick
+[17:15:10] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_keypadchecker
+[17:15:12] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep stunstick
+[17:15:13] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep arrest_stick
+[17:15:23] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_policeshield
+[17:15:41] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_cuff_tactical
+[17:15:57] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_glock20
+[17:16:20] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_g36c
+[17:17:03] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammocrate
+[17:18:30] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep breachingcharge
+[17:18:35] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep strato_admingunm249f
+[17:20:03] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep breachingcharge
+[17:43:19] Zerrakoth suicided!
+[17:48:19] Emmett suicided!
+[18:09:27] Zerrakoth was killed by trigger_hurt
+[18:10:22] Zerrakoth was killed by trigger_hurt
+[18:16:11] Emmett was killed by trigger_hurt
+[18:17:03] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:17:10] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/pushcart01a.mdl
+[18:17:15] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propanecanister001a.mdl
+[18:17:39] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[18:18:00] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[18:18:13] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_pallet001a.mdl
+[18:18:49] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/cardboard_box002b.mdl
+[18:18:53] Emmett<STEAM_0:1:41660292> spawned ragdoll models/props_junk/cardboard_box003b_gib01.mdl
+[18:19:00] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/ibeam01a_cluster01.mdl
+[18:19:02] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/ibeam01a_cluster01.mdl
+[18:19:48] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:20:04] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:20:16] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:20:26] Emmett: !disablethinking
+[18:21:13] Emmett granted god mode upon Themself
+[18:21:13] Emmett: !god
+[18:21:15] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:21:23] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:21:29] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:21:41] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_pallet001a.mdl
+[18:21:54] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_m67
+[18:21:54] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_m67
+[18:21:54] Emmett<STEAM_0:1:41660292> spawned model models/props_trainstation/tracksign02.mdl
+[18:22:09] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/cinderblock01a.mdl
+[18:22:14] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trashdumpster01a.mdl
+[18:22:21] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/cardboard_box004a.mdl
+[18:22:23] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[18:22:30] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[18:22:37] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_flash_grenade
+[18:22:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[18:22:47] Zerrakoth<STEAM_0:1:44006700> spawned sent cw_ammo_crate_small
+[18:23:14] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/filecabinet02.mdl
+[18:23:21] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trashdumpster01a.mdl
+[18:23:26] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:23:35] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/barricade001a.mdl
+[18:23:41] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/barricade002a.mdl
+[18:23:47] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:23:54] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/cardboard_box001b.mdl
+[18:24:12] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/furniture_shelf01a.mdl
+[18:24:29] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/ravenholmsign.mdl
+[18:24:58] Emmett<STEAM_0:1:41660292> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[18:25:08] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:25:11] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[18:25:17] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[18:25:25] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[18:25:32] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[18:25:35] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/trafficcone001a.mdl
+[18:25:49] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/garbage256_composite002a.mdl
+[18:25:56] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/garbage128_composite001a.mdl
+[18:26:17] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/furniture_couch01a.mdl
+[18:26:33] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/garbage256_composite002b.mdl
+[18:26:45] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[18:26:51] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[18:26:59] Zerrakoth suicided!
+[18:27:16] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/dockplank01b.mdl
+[18:27:28] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/barricade002a.mdl
+[18:27:32] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/barricade001a.mdl
+[18:29:01] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:29:10] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[18:29:35] Emmett<STEAM_0:1:41660292> spawned model models/props_combine/breendesk.mdl
+[18:29:38] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[18:29:48] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[18:29:51] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[18:29:58] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/oildrum001.mdl
+[18:30:04] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/shelfunit01a.mdl
+[18:30:20] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/shelfunit01a.mdl
+[18:30:45] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/radiator01a.mdl
+[18:30:54] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[18:31:03] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:31:35] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:10] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:12] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:13] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:14] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:14] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:15] Emmett<STEAM_0:1:41660292> used the tool textscreen on maps/rp_powerplant_v2b2.bsp
+[18:32:15] Zerrakoth stripped weapons from Themself
+[18:32:24] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep staff_lockpick
+[18:32:25] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_keypadchecker
+[18:32:26] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep arrest_stick
+[18:32:26] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep stunstick
+[18:32:27] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep door_ram
+[18:32:28] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weaponchecker
+[18:32:28] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:32:30] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep pocket
+[18:32:33] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_cuff_tactical
+[18:32:37] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_policeshield
+[18:32:42] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_flash_grenade
+[18:32:42] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_flash_grenade
+[18:32:42] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_flash_grenade
+[18:32:43] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_flash_grenade
+[18:32:43] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_flash_grenade
+[18:32:46] Zerrakoth<STEAM_0:1:44006700> spawned sent cw_ammo_crate_unlimited
+[18:32:58] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep cw_ar15
+[18:33:22] Emmett<STEAM_0:1:41660292> used the tool winch on models/props_lab/blastdoor001c.mdl
+[18:33:23] Emmett<STEAM_0:1:41660292> used the tool winch on maps/rp_powerplant_v2b2.bsp
+[18:33:41] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_m67
+[18:33:45] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_glock20
+[18:33:48] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/filecabinet02.mdl
+[18:33:52] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammocrate
+[18:33:53] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:33:58] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:34:02] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001a.mdl
+[18:34:08] Emmett<STEAM_0:1:41660292> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[18:34:50] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep fas2_ifak
+[18:34:58] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_medical
+[18:35:00] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_medical
+[18:35:01] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_medical
+[18:35:01] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_medical
+[18:35:01] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_medical
+[18:35:01] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_medical
+[18:35:06] Zerrakoth<STEAM_0:1:44006700> spawned sent fas2_ammo_quikclots
+[18:35:16] Zerrakoth<STEAM_0:1:44006700> spawned sent sent_ball
+[18:35:41] Zerrakoth<STEAM_0:1:44006700> spawned sent zpizmak_oven
+[18:35:45] Zerrakoth<STEAM_0:1:44006700> spawned sent zpizmak_fridge
+[18:35:49] Zerrakoth<STEAM_0:1:44006700> spawned sent zpizmak_opensign
+[18:35:53] Zerrakoth<STEAM_0:1:44006700> spawned sent zpizmak_customertable
+[18:36:19] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_physcannon
+[18:36:36] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_pallet001a.mdl
+[18:36:39] Zerrakoth<STEAM_0:1:44006700> spawned/gave himself swep weapon_physgun
+[18:36:44] Emmett<STEAM_0:1:41660292> spawned model models/props_trainstation/tracksign02.mdl
+[18:36:50] Emmett<STEAM_0:1:41660292> spawned model models/props_citizen_tech/windmill_blade002a.mdl
+[18:36:56] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/plasticcrate01a.mdl
+[18:37:10] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/garbage_bag001a.mdl
+[18:37:13] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/garbage256_composite002b.mdl
+[18:37:20] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/metal_paintcan001b.mdl
+[18:37:42] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/garbage_newspaper001a.mdl
+[18:37:58] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/clipboard.mdl
+[18:38:01] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/binderbluelabel.mdl
+[18:38:05] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/binderbluelabel.mdl
+[18:39:03] Zerrakoth teleported to Emmett
+[18:39:03] Zerrakoth: !goto emmet
+[18:39:43] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/metalbucket02a.mdl
+[18:39:48] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/metalgascan.mdl
+[18:40:18] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/workspace003.mdl
+[18:40:23] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/partsbin01.mdl
+[18:40:27] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/refrigerator01a.mdl
+[18:40:45] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[18:40:46] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/refrigeratordoor02a.mdl
+[18:41:08] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[18:41:27] Emmett<STEAM_0:1:41660292> spawned model models/props_trainstation/payphone001a.mdl
+[18:41:46] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:41:47] Zerrakoth<STEAM_0:1:44006700> spawned model models/oldbill/ahpizza.mdl
+[18:41:50] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:42:13] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001b.mdl
+[18:42:39] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:43:03] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[18:43:07] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:43:15] Emmett<STEAM_0:1:41660292> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:43:21] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:43:26] Emmett<STEAM_0:1:41660292> spawned model models/props_trainstation/trainstation_ornament002.mdl
+[18:43:31] Emmett<STEAM_0:1:41660292> spawned ragdoll models/props_junk/cardboard_box002a_gib01.mdl
+[18:43:36] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/cardboard_box002a.mdl
+[18:43:45] Emmett<STEAM_0:1:41660292> spawned model models/props_debris/metal_panel02a.mdl
+[18:43:48] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/furniture_shelf01a.mdl
+[18:43:55] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[18:44:00] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/lockers001a.mdl
+[18:44:02] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/lockers001a.mdl
+[18:44:08] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:44:13] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:44:13] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/wood_crate002a.mdl
+[18:44:21] Emmett<STEAM_0:1:41660292> spawned model models/props_interiors/refrigerator01a.mdl
+[18:44:25] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:44:31] Emmett granted god mode upon Themself
+[18:44:31] Emmett: !god
+[18:44:50] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:44:52] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:44:56] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:44:56] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:44:59] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:01] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:05] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:07] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:09] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:12] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:14] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:16] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:19] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:20] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:22] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:24] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:28] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:45:44] Zerrakoth: !goito emmet
+[18:45:50] Zerrakoth teleported to Emmett
+[18:45:50] Zerrakoth: !goto emmet
+[18:45:56] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[18:46:02] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[18:46:10] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[18:49:53] Emmett: /warrant emmett Terrorist Organization
+[18:51:21] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:24] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:25] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:26] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:27] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:30] Emmett granted god mode upon Themself
+[18:51:30] Emmett: !god
+[18:51:33] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:35] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:36] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:37] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:39] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:40] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:45] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:47] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:50] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:53] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:51:58] Emmett: !stript
+[18:52:01] Emmett: !strip
+[18:52:14] Emmett stripped weapons from Themself
+[18:52:32] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[18:52:34] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[18:52:34] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[18:52:34] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[18:52:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ifak
+[18:52:59] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ar15
+[18:53:16] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_smoke_grenade
+[18:53:23] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[18:53:45] Emmett granted god mode upon Themself
+[18:53:45] Emmett: !god
+[18:53:47] Emmett revoked god mode from Themself
+[18:53:47] Emmett: !ungod
+[18:56:31] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:56:40] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:56:46] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:57:08] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[18:57:11] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[18:57:23] Zerrakoth suicided!
+[18:57:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[18:58:16] Dropped "Zerrakoth" from server<STEAM_0:1:44006700>
+[18:58:29] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[18:58:45] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[18:58:47] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+
+
+
+[20:24:33] New map: rp_powerplant_v2b2
+[20:25:05] Client "Valien" connected.
+[20:26:15] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 70 seconds).
+
+
+
+[20:34:32] New map: rp_powerplant_v2b2
+[20:34:54] Client "Valien" connected.
+[20:35:37] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 43 seconds).
+[20:36:48] Client "Fat Gay" connected.
+[20:38:24] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 96 seconds).
+[20:38:25] Dropped "Valien" from server<STEAM_0:1:41660292>
+
+
+
+[20:40:42] New map: rp_powerplant_v2b2
+[20:40:44] Client "Fat Gay" connected.
+[20:41:20] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 36 seconds).
+
+
+
+[20:43:55] New map: rp_powerplant_v2b2
+[20:43:57] Client "Fat Gay" connected.
+[20:44:35] Client "Valien" connected.
+[20:44:37] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 40 seconds).
+[20:44:43] Fat Gay suicided!
+[20:44:57] Fat Gay suicided!
+[20:45:04] Fat Gay suicided!
+[20:45:10] Fat Gay suicided!
+[20:45:24] Fat Gay suicided!
+[20:45:29] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 54 seconds).
+[20:45:31] Fat Gay suicided!
+[20:45:34] Emmett suicided!
+[20:45:42] Fat Gay suicided!
+[20:45:48] Fat Gay suicided!
+[20:45:54] Fat Gay suicided!
+[20:46:01] Fat Gay suicided!
+[20:46:09] Emmett suicided!
+[20:46:16] Emmett suicided!
+[20:46:22] Emmett suicided!
+[20:46:36] Fat Gay suicided!
+[20:48:10] Emmett granted god mode upon Themself
+[20:48:10] Emmett: !god
+[20:48:14] Fat Gay granted god mode upon Themself
+[20:48:14] Fat Gay: !god
+[20:48:28] Fat Gay suicided!
+[20:48:31] Fat Gay granted god mode upon Themself
+[20:48:31] Fat Gay: !god
+[20:48:33] Fat Gay teleported to Emmett
+[20:48:33] Fat Gay: !goto em
+[20:48:34] Fat Gay suicided!
+[20:48:42] Fat Gay suicided!
+[20:48:46] Fat Gay: !god sup
+[20:48:49] Fat Gay granted god mode upon Themself
+[20:48:49] Fat Gay: !god fat
+[20:48:52] Fat Gay: !got em
+[20:48:56] Fat Gay teleported to Emmett
+[20:48:56] Fat Gay: !goto em
+[20:49:25] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:40] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:41] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:46] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:49] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:52] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:54] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:57] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:57] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:49:58] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[20:51:13] Emmett<STEAM_0:1:41660292> used the tool camera on maps/rp_powerplant_v2b2.bsp
+[20:51:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep ls_sniper
+[20:51:59] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_p2282
+[20:52:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_medicinal
+[20:52:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[20:53:19] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_helium
+[20:54:44] Dropped "Emmett" from server<STEAM_0:1:41660292>
+
+
+
+[20:56:15] New map: rp_powerplant_v2b2
+[20:56:38] Client "Fat Gay" connected.
+[20:56:49] Client "Valien" connected.
+[20:57:22] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 44 seconds).
+[20:57:38] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 49 seconds).
+[21:08:26] Emmett<STEAM_0:1:41660292> spawned ragdoll models/mossman.mdl
+[21:12:18] Fat Gay was killed by trigger_hurt
+[21:16:15] Emmett: /give money
+[21:16:18] Emmett: /money
+[21:16:25] Emmett: /dropmoney 10
+[21:16:40] Emmett: /givemoney 10
+[21:16:45] Emmett: /givemoney 10
+[21:18:35] Emmett was killed by trigger_hurt
+[21:28:00] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_deagle
+[21:28:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_fiveseven
+[21:28:24] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_fiveseven
+[21:30:15] Emmett teleported to Fat Gay
+[21:30:15] Emmett: !goto fa
+[21:30:33] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[21:30:41] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[21:30:55] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_mp5
+[21:31:02] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ak12
+[21:31:11] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[21:31:28] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[21:31:33] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[21:32:26] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[21:32:27] Client "Valien" connected.
+[21:33:18] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 51 seconds).
+[21:34:28] Emmett<STEAM_0:1:41660292> spawned vehicle models/buggy.mdl
+[21:37:45] Emmett suicided!
+[21:38:21] Emmett revoked god mode from Themself
+[21:38:21] Emmett: !ungod
+[21:38:24] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_ak472
+[21:38:26] Fat Gay killed Emmett using player
+[21:38:35] Emmett teleported to Fat Gay
+[21:38:35] Emmett: !goto f
+[21:46:01] Fat Gay killed Emmett using player
+[21:46:08] Emmett teleported to Fat Gay
+[21:46:08] Emmett: !goto fat
+[21:46:18] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[21:46:41] Fat Gay: !bring emm
+[21:46:44] Fat Gay brought Emmett
+[21:46:44] Fat Gay: !bring em
+[21:47:06] Emmett suicided!
+[21:47:06] Emmett exploded Themself
+[21:47:15] Emmett teleported to Fat Gay
+[21:47:15] Emmett: !goto fa
+[21:47:15] Fat Gay brought Emmett
+[21:47:15] Fat Gay: !bring emm
+[21:47:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep ls_sniper
+[21:47:59] Emmett killed Fat Gay using player
+[21:48:05] Fat Gay teleported to Emmett
+[21:48:05] Fat Gay: !goto emm
+[21:48:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[21:48:14] Fat Gay killed Emmett using player
+[21:48:18] Emmett teleported to Fat Gay
+[21:48:18] Emmett: !goto f
+[21:48:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep ls_sniper
+[21:48:23] Emmett killed Fat Gay using player
+[21:48:28] Fat Gay teleported to Emmett
+[21:48:28] Fat Gay: !goto emm
+[21:48:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep ls_sniper
+[21:48:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[21:48:30] Emmett killed Fat Gay using player
+[21:48:37] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle
+[21:48:40] Fat Gay teleported to Emmett
+[21:48:40] Fat Gay: !goto emm
+[21:48:43] Fat Gay killed Emmett using player
+[21:48:49] Emmett teleported to Fat Gay
+[21:48:49] Emmett: !goto f
+[21:48:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[21:48:57] Emmett killed Fat Gay using player
+[21:48:59] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pumpshotgun
+[21:49:01] Fat Gay teleported to Emmett
+[21:49:01] Fat Gay: !goto emm
+[21:49:02] Fat Gay killed Emmett using player
+[21:49:03] Emmett granted god mode upon Themself
+[21:49:03] Emmett: !god
+[21:49:07] Emmett granted god mode upon Themself
+[21:49:07] Emmett: !god
+[21:49:15] Fat Gay revoked god mode from Emmett
+[21:49:15] Fat Gay: !ungod emm
+[21:49:17] Fat Gay brought Emmett
+[21:49:17] Fat Gay: !bring emm
+[21:49:34] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[21:49:34] Fat Gay: !GOTO EMM'
+[21:49:37] Fat Gay teleported to Emmett
+[21:49:37] Fat Gay: !goto emm
+[21:49:52] Emmett suicided!
+[21:49:52] Emmett exploded Themself
+[21:50:07] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:09] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:10] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:10] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:11] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:50:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:11] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:50:30] Fat Gay: !goto emm
+[21:51:26] Fat Gay: !goto emm
+[21:51:30] Fat Gay teleported to Emmett
+[21:51:30] Fat Gay: !goto emm
+[21:51:31] Emmett suicided!
+[21:51:31] Emmett exploded Themself
+[21:51:54] Emmett suicided!
+[21:51:54] Emmett exploded Themself
+[21:51:55] Fat Gay: !bring emm
+[21:51:56] Emmett suicided!
+[21:51:56] Emmett exploded Themself
+[21:51:56] Emmett suicided!
+[21:51:56] Emmett exploded Themself
+[21:51:56] Emmett suicided!
+[21:51:57] Emmett exploded Themself
+[21:51:57] Emmett suicided!
+[21:51:57] Emmett exploded Themself
+[21:52:00] Fat Gay brought Emmett
+[21:52:00] Fat Gay: !bring emm
+[21:52:01] Emmett suicided!
+[21:52:01] Emmett exploded Themself
+[21:52:03] Emmett suicided!
+[21:52:03] Emmett exploded Themself
+[21:52:03] Emmett suicided!
+[21:52:03] Emmett exploded Themself
+[21:52:04] Emmett suicided!
+[21:52:04] Emmett exploded Themself
+[21:52:04] Emmett suicided!
+[21:52:04] Emmett exploded Themself
+[21:52:04] Emmett suicided!
+[21:52:04] Emmett exploded Themself
+[21:52:05] Emmett suicided!
+[21:52:05] Emmett exploded Themself
+[21:52:05] Emmett suicided!
+[21:52:05] Emmett exploded Themself
+[21:52:06] Emmett suicided!
+[21:52:06] Emmett exploded Themself
+[21:52:06] Emmett suicided!
+[21:52:06] Emmett exploded Themself
+[21:52:06] Emmett suicided!
+[21:52:06] Emmett exploded Themself
+[21:52:07] Emmett suicided!
+[21:52:07] Emmett exploded Themself
+[21:52:07] Emmett suicided!
+[21:52:07] Emmett exploded Themself
+[21:52:07] Emmett suicided!
+[21:52:07] Emmett exploded Themself
+[21:52:08] Emmett suicided!
+[21:52:08] Emmett exploded Themself
+[21:52:08] Emmett suicided!
+[21:52:08] Emmett exploded Themself
+[21:52:09] Emmett suicided!
+[21:52:09] Emmett exploded Themself
+[21:52:10] Emmett suicided!
+[21:52:10] Emmett exploded Themself
+[21:52:10] Emmett suicided!
+[21:52:10] Emmett exploded Themself
+[21:52:10] Emmett suicided!
+[21:52:10] Emmett exploded Themself
+[21:52:10] Emmett suicided!
+[21:52:11] Emmett exploded Themself
+[21:52:17] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:19] Emmett banned Themself permanently (Cuz ur gay)
+[21:52:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:19] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:20] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:21] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[21:52:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:52:32] Emmett set the frags for Themself to 0
+[21:52:34] Emmett set the frags for Themself to 27
+[21:52:38] Emmett set the frags for Themself to 100
+[21:52:39] Emmett set the deaths for Themself to 100
+[21:52:39] Fat Gay teleported to Emmett
+[21:52:39] Fat Gay: !goto emm
+[21:52:40] Emmett set the frags for Themself to 100
+[21:52:40] Emmett set the frags for Themself to 100
+[21:52:41] Emmett set the frags for Themself to 100
+[21:52:43] Emmett suicided!
+[21:52:43] Emmett exploded Themself
+[21:52:55] Fat Gay killed Emmett using ent_l4d2_grenade_launcher_grenade
+[21:53:11] Fat Gay suicided!
+[21:53:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[21:53:27] Emmett killed Fat Gay using player
+[21:53:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:53:39] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pistol_dual
+[21:53:41] Emmett killed Fat Gay using player
+[21:53:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_frying_pan
+[21:53:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep ls_sniper
+[21:53:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pumpshotgun2
+[21:54:01] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_mp52
+[21:54:02] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_sniper_military
+[21:54:10] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_jihadbomb
+[21:54:13] Emmett suicided!
+[21:54:13] Emmett killed Fat Gay using env_explosion
+[21:54:16] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_smg_silenced
+[21:54:24] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[21:54:27] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_smoke_grenade
+[21:54:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pumpshotgun
+[21:54:36] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_smoke_grenade
+[21:54:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_smoke_grenade
+[21:54:41] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_deagle
+[21:54:51] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_smg_mp5
+[21:54:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_electric_guitar
+[21:55:08] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[21:55:08] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_shorty
+[21:55:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_makarov
+[21:55:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pistol_magnum
+[21:55:20] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_shotgun_spas
+[21:55:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_p99
+[21:55:28] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_charger_claw
+[21:55:31] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[21:55:43] Fat Gay suicided!
+[21:56:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_smg
+[21:56:07] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[21:56:12] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[21:56:14] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pumpshotgun
+[21:56:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pistol_dual
+[21:56:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_sg552
+[21:56:27] Fat Gay suicided!
+[21:56:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_katana
+[21:56:53] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_chainsaw
+[21:57:04] Fat Gay: /quickwant
+[21:57:05] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[21:57:06] Fat Gay: /quickwant
+[21:57:07] Fat Gay: /quickwant
+[21:57:08] Fat Gay: /quickwant
+[21:57:08] Fat Gay: /quickwant
+[21:57:09] Fat Gay: /quickwant
+[21:57:23] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_desert
+[21:57:38] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[21:57:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[21:58:00] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_desert
+[21:58:03] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_ak47
+[21:58:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle
+[21:58:45] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_american
+[21:58:48] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_butterfly
+[21:58:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_rifle_sg552
+[21:58:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_juicy
+[21:58:57] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_medicinal
+[21:59:08] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[21:59:40] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[21:59:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[22:00:24] Fat Gay suicided!
+[22:00:50] Emmett killed Fat Gay using fas2_thrown_m67
+[22:01:18] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m79
+[22:01:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m79
+[22:01:28] Fat Gay was killed by fas2_40mm_frag
+[22:01:50] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[22:01:56] Fat Gay suicided!
+[22:02:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep fas2_m67
+[22:02:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:03:09] Fat Gay suicided!
+[22:03:26] Fat Gay was killed by fas2_40mm_frag
+[22:03:33] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ks23
+[22:03:34] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ks23
+[22:03:34] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_grenade_launcher
+[22:03:39] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m82
+[22:03:42] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_katana
+[22:04:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:04:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[22:05:08] Emmett: !bring fa
+[22:05:16] Fat Gay teleported to Emmett
+[22:05:16] Fat Gay: !goto emm
+[22:05:31] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m24
+[22:05:33] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m24
+[22:06:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_slam
+[22:06:24] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_pistol_dual
+[22:06:32] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_bugbait
+[22:06:57] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_l4d2_frying_pan
+[22:07:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_l4d2_pistol_dual
+[22:07:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_l4d2_smg_mp5
+[22:08:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_l4d2_charger_claw
+[22:08:43] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_sillyzombieclaw_v2
+[22:08:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:09:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m24
+[22:09:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m24
+[22:09:22] Fat Gay suicided!
+[22:11:45] Fat Gay suicided!
+[22:11:45] Fat Gay slayed Themself
+[22:11:45] Fat Gay: !slay ^
+[22:11:49] Emmett suicided!
+[22:11:49] Emmett exploded Themself
+[22:12:02] Fat Gay suicided!
+[22:12:02] Fat Gay slayed Themself
+[22:12:02] Fat Gay: !slay ^
+[22:12:14] Fat Gay suicided!
+[22:12:14] Fat Gay slayed Themself
+[22:12:14] Fat Gay: !slay ^
+[22:12:27] Fat Gay suicided!
+[22:12:27] Fat Gay slayed Themself
+[22:12:27] Fat Gay: !slay ^
+[22:12:32] Emmett suicided!
+[22:12:32] Emmett exploded Themself
+[22:12:33] Emmett suicided!
+[22:12:33] Emmett exploded Themself
+[22:12:35] Fat Gay: !slay emm
+[22:12:38] Fat Gay suicided!
+[22:12:38] Fat Gay slayed Themself
+[22:12:38] Fat Gay: !slay ^
+[22:15:01] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_jockey_claw
+[22:15:22] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:16:39] Emmett killed Fat Gay using fas2_thrown_m67
+[22:16:43] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_l4d2_jockey_claw
+[22:17:14] Emmett suicided!
+[22:17:19] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[22:17:27] Emmett teleported to Fat Gay
+[22:17:27] Emmett: !goto f
+[22:17:36] Emmett suicided!
+[22:22:40] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:22:42] Emmett<STEAM_0:1:41660292> spawned model models/oldbill/riverserver1.mdl
+[22:22:43] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack_laptop.mdl
+[22:22:52] Emmett<STEAM_0:1:41660292> spawned model models/oldbill/riverserver1.mdl
+[22:23:11] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:23:12] Emmett<STEAM_0:1:41660292> spawned model models/oldbill/riverserver1.mdl
+[22:23:18] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:23:44] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:23:57] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:03] Emmett<STEAM_0:1:41660292> used the tool duplicator on models/props_computers/server_rack.mdl
+[22:24:13] Emmett<STEAM_0:1:41660292> used the tool duplicator on models/props_computers/server_rack.mdl
+[22:24:14] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:14] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:15] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:15] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:16] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:16] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:18] Emmett<STEAM_0:1:41660292> used the tool duplicator on models/props_computers/server_rack.mdl
+[22:24:25] Emmett<STEAM_0:1:41660292> used the tool duplicator on models/props_computers/server_rack.mdl
+[22:24:27] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:27] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:29] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:29] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:31] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:31] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:32] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:33] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:33] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:41] Emmett<STEAM_0:1:41660292> used the tool duplicator on models/props_computers/server_rack.mdl
+[22:24:48] Emmett<STEAM_0:1:41660292> used the tool duplicator on models/props_computers/server_rack.mdl
+[22:24:50] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:50] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:52] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:52] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:53] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:53] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:54] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:54] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:55] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:55] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:24:58] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:24:58] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:03] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:03] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:07] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:07] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:09] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:09] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:10] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:10] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:12] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:12] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:13] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:13] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:14] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:14] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:17] Emmett<STEAM_0:1:41660292> used the tool duplicator on maps/rp_powerplant_v2b2.bsp
+[22:25:17] Emmett<STEAM_0:1:41660292> spawned model models/props_computers/server_rack.mdl
+[22:25:50] Emmett: !bring fat
+[22:26:01] Emmett: !bring Fat Gay
+[22:32:25] Emmett<STEAM_0:1:41660292> spawned sent gmt_instrument_piano
+
+
+
+[22:34:16] New map: rp_powerplant_v2b2
+[22:34:39] Client "Valien" connected.
+[22:34:40] Client "Fat Gay" connected.
+[22:35:27] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 48 seconds).
+[22:35:29] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 49 seconds).
+[22:47:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep realrbn_tazer
+[22:50:05] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_machete
+[22:50:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_machete
+[22:50:41] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_machete
+
+
+
+[22:52:57] New map: rp_powerplant_v2b2
+[22:53:19] Client "Fat Gay" connected.
+[22:53:20] Client "Valien" connected.
+[22:53:52] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 33 seconds).
+[22:54:07] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 47 seconds).
+
+
+
+[22:59:28] New map: rp_powerplant_v2b2
+[22:59:32] Client "Fat Gay" connected.
+[22:59:52] Client "Valien" connected.
+[23:00:06] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 34 seconds).
+[23:00:41] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 49 seconds).
+
+
+
+[23:12:28] New map: rp_powerplant_v2b2
+[23:12:36] Client "Fat Gay" connected.
+[23:12:38] Client "Valien" connected.
+[23:13:10] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 34 seconds).
+[23:13:26] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 48 seconds).
+[23:13:28] Fat Gay: /quickwant
+[23:13:29] Fat Gay: /quickwant
+[23:13:30] Fat Gay: /quickwant
+[23:13:30] Fat Gay: /quickwant
+[23:13:31] Fat Gay: /quickwant
+[23:13:32] Fat Gay: /quickwant
+[23:13:33] Fat Gay: /quickwant
+[23:13:34] Fat Gay: /quickwant
+[23:13:35] Fat Gay: /quickwant
+[23:13:36] Fat Gay: /quickwant
+[23:13:46] Fat Gay: /quickwant
+[23:13:48] Fat Gay: /quickwant
+[23:13:49] Fat Gay: /quickwant
+[23:13:50] Fat Gay: /quickwant
+[23:14:10] Fat Gay: !unwanted emm
+[23:17:11] Emmett: /warrant emmett
+[23:17:28] Emmett: /warrant emmett Drug Abuse
+[23:17:42] Emmett: !quickwant emmett
+
+
+
+[23:21:32] New map: rp_powerplant_v2b2
+[23:21:48] Client "Fat Gay" connected.
+[23:21:55] Client "Valien" connected.
+[23:22:23] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 35 seconds).
+[23:22:44] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 49 seconds).
+[23:23:02] Fat Gay: /quickwant
+[23:23:03] Fat Gay: /quickwant
+[23:23:09] Fat Gay: /quickwant
+[23:23:37] Fat Gay killed Emmett using stunstick
+[23:23:55] Fat Gay killed Emmett using stunstick
+[23:24:03] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/canister02a.mdl
+[23:24:22] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_357
+[23:24:23] Fat Gay killed Emmett using stunstick
+[23:24:24] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_357
+[23:24:33] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_pistol
+[23:24:44] Fat Gay killed Emmett using player
+[23:24:52] Fat Gay killed Emmett using player
+[23:25:03] Fat Gay killed Emmett using player
+[23:25:08] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[23:25:10] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propanecanister001a.mdl
+[23:25:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_357
+[23:25:17] Fat Gay killed Emmett using player
+[23:25:19] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_357
+[23:25:22] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[23:25:24] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propane_tank001a.mdl
+[23:25:29] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/propanecanister001a.mdl
+[23:26:07] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/metalgascan.mdl
+[23:26:17] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[23:26:30] Emmett<STEAM_0:1:41660292> spawned model models/props_junk/metalgascan.mdl
+[23:26:41] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_junk/metalgascan.mdl
+[23:26:44] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_junk/metalgascan.mdl
+[23:26:50] Emmett<STEAM_0:1:41660292> used the tool colour on maps/rp_powerplant_v2b2.bsp
+[23:26:50] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_junk/metalgascan.mdl
+[23:26:54] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_junk/metalgascan.mdl
+[23:26:56] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_junk/metalgascan.mdl
+[23:27:02] Emmett<STEAM_0:1:41660292> used the tool colour on models/props_junk/metalgascan.mdl
+[23:27:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[23:27:32] Fat Gay killed Emmett using player
+[23:27:48] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *213
+[23:27:49] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *213
+[23:27:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *213
+[23:27:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *213
+[23:27:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *213
+[23:27:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:27:54] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *211
+[23:27:55] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on *203
+[23:27:55] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:28:15] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on maps/rp_powerplant_v2b2.bsp
+[23:28:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[23:28:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/wires/speaker.mdl
+[23:28:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/buttons/key_switch.mdl
+[23:28:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/buttons/key_switch.mdl
+[23:28:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/cheeze/wires/speaker.mdl
+[23:29:12] Emmett<STEAM_0:1:41660292> used the tool keypad_willox_wire on *211
+[23:29:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on models/cheeze/wires/speaker.mdl
+[23:30:10] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:11] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:11] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:15] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:16] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:16] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:17] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:17] Emmett<STEAM_0:1:41660292> used the tool wire_button on *211
+[23:30:22] Emmett<STEAM_0:1:41660292> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:30:30] Emmett<STEAM_0:1:41660292> used the tool wire_button on *203
+[23:30:31] Emmett<STEAM_0:1:41660292> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:30:32] Emmett<STEAM_0:1:41660292> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:30:39] Fat Gay<STEAM_0:1:218173703> used the tool wire_soundemitter on *211
+[23:30:48] Fat Gay<STEAM_0:1:218173703> used the tool wire_lever on maps/rp_powerplant_v2b2.bsp
+[23:30:53] Emmett<STEAM_0:1:41660292> used the tool wire_friendslist on *211
+[23:30:54] Emmett<STEAM_0:1:41660292> used the tool wire_friendslist on *211
+[23:30:54] Emmett<STEAM_0:1:41660292> used the tool wire_friendslist on *211
+[23:30:55] Emmett<STEAM_0:1:41660292> used the tool wire_friendslist on *211
+[23:30:56] Emmett<STEAM_0:1:41660292> used the tool wire_friendslist on maps/rp_powerplant_v2b2.bsp
+[23:31:03] Emmett<STEAM_0:1:41660292> used the tool wire_friendslist on maps/rp_powerplant_v2b2.bsp
+[23:31:11] Emmett<STEAM_0:1:41660292> used the tool wire_lever on maps/rp_powerplant_v2b2.bsp
+[23:31:26] Emmett<STEAM_0:1:41660292> used the tool wire_numpad on maps/rp_powerplant_v2b2.bsp
+[23:31:36] Emmett<STEAM_0:1:41660292> used the tool wire_numpad on maps/rp_powerplant_v2b2.bsp
+[23:31:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_user on maps/rp_powerplant_v2b2.bsp
+[23:31:43] Emmett<STEAM_0:1:41660292> used the tool wire_numpad on maps/rp_powerplant_v2b2.bsp
+[23:32:10] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:32:19] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/jaanus/wiretool/wiretool_siren.mdl
+[23:32:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/jaanus/wiretool/wiretool_siren.mdl
+[23:32:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/buttons/toggle_switch.mdl
+[23:32:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/buttons/toggle_switch.mdl
+[23:33:10] Emmett<STEAM_0:1:41660292> used the tool wire_textreceiver on maps/rp_powerplant_v2b2.bsp
+[23:33:31] Emmett<STEAM_0:1:41660292> used the tool wire_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:33:32] Fat Gay<STEAM_0:1:218173703> used the tool wire_textscreen on maps/rp_powerplant_v2b2.bsp
+[23:33:58] Emmett<STEAM_0:1:41660292> used the tool wire_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:34:11] Fat Gay<STEAM_0:1:218173703> used the tool wire_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:34:20] Fat Gay<STEAM_0:1:218173703> used the tool wire_textscreen on maps/rp_powerplant_v2b2.bsp
+[23:34:27] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props/cs_office/tv_plasma.mdl
+[23:34:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/computer01_keyboard.mdl
+[23:34:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/computer01_keyboard.mdl
+[23:34:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props/cs_office/tv_plasma.mdl
+[23:34:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/computer01_keyboard.mdl
+[23:35:57] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:35:58] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:35:58] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:35:58] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:36:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:36:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:36:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:36:03] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:36:03] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:36:24] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:36:28] Fat Gay<STEAM_0:1:218173703> used the tool wire_button on maps/rp_powerplant_v2b2.bsp
+[23:36:43] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[23:36:55] Fat Gay<STEAM_0:1:218173703> used the tool wire_gates on maps/rp_powerplant_v2b2.bsp
+[23:37:21] Fat Gay<STEAM_0:1:218173703> used the tool wire_value on maps/rp_powerplant_v2b2.bsp
+[23:37:32] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:32] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:32] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[23:37:32] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/resistor.mdl
+[23:37:35] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:36] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:36] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:36] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:41] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons/button_arm.mdl
+[23:37:42] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/cheeze/buttons/button_arm.mdl
+[23:37:48] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:49] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:49] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:49] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:50] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:51] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:52] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:53] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:53] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:53] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:54] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:56] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:56] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/props_c17/canister02a.mdl
+[23:37:56] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:37:59] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:38:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:38:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:38:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_adv on models/bull/gates/capacitor_mini.mdl
+[23:38:08] Fat Gay killed Emmett using gmod_wire_simple_explosive
+[23:38:23] Fat Gay suicided!
+[23:38:34] Fat Gay: !respawn emm
+[23:38:58] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:38:58] Fat Gay suicided!
+[23:39:03] Fat Gay killed Emmett using gmod_wire_simple_explosive
+[23:39:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:39:25] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:39:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:39:26] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:39:31] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:39:33] Fat Gay suicided!
+[23:39:43] Fat Gay suicided!
+[23:39:52] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:39:53] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:39:53] Fat Gay suicided!
+[23:39:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:40:00] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:01] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:01] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:01] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:40:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:02] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on models/props_c17/canister02a.mdl
+[23:40:03] Fat Gay suicided!
+[23:40:10] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:40:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep gmod_camera
+[23:40:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:40:33] Fat Gay teleported to Emmett
+[23:40:33] Fat Gay: !goto emm
+[23:40:49] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:55] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:55] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:55] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:55] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:55] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:56] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:56] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:57] Fat Gay<STEAM_0:1:218173703> used the tool creator on maps/rp_powerplant_v2b2.bsp
+[23:40:57] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:40:58] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:41:07] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:11] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:15] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:17] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:41:23] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:42:21] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:42:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:42:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:42:32] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:42:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:42:59] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[23:43:07] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ak12
+[23:43:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:43:15] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:43:26] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep breachingcharge
+[23:43:35] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_zi_flamethrower
+[23:43:51] Emmett killed Fat Gay using player
+[23:43:57] Fat Gay teleported to Emmett
+[23:43:57] Fat Gay: !goto emm
+[23:44:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[23:44:06] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_medkit
+[23:44:11] Emmett suicided!
+[23:44:55] Fat Gay suicided!
+[23:45:11] Fat Gay teleported to Emmett
+[23:45:11] Fat Gay: !goto emm
+[23:46:45] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth_baggy
+[23:51:01] Fat Gay<STEAM_0:1:218173703> used the tool wire_simple_explosive on maps/rp_powerplant_v2b2.bsp
+[23:51:04] Fat Gay<STEAM_0:1:218173703> used the tool wire_gimbal on maps/rp_powerplant_v2b2.bsp
+[23:53:49] Emmett set the scale for Themself to 10
+[23:54:05] Emmett<STEAM_0:1:41660292> used the tool wire_keyboard on maps/rp_powerplant_v2b2.bsp
+[23:54:12] Emmett set the scale for Themself to 1
+[23:54:15] Emmett set the scale for Themself to 2
+[23:54:33] Fat Gay suicided!
+[23:54:33] Fat Gay killed Emmett using gmod_wire_simple_explosive
+[23:54:42] Fat Gay teleported to Emmett
+[23:54:42] Fat Gay: !goto emm
+[23:59:16] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:18] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:18] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:20] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:20] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:20] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:20] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:39] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:39] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:39] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+[23:59:39] Fat Gay<STEAM_0:1:218173703> spawned sent zmlab_meth
+<Logging continued in "data/ulx_logs/06-24-18.txt">

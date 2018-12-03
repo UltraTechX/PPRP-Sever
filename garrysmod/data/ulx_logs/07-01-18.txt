@@ -1,0 +1,722 @@
+<Logging continued from "data/ulx_logs/06-30-18.txt">
+[00:10:15] Fat Gay suicided!
+[00:49:25] Fat Gay suicided!
+[01:28:35] Fat Gay suicided!
+[02:07:45] Fat Gay suicided!
+[02:47:05] Fat Gay suicided!
+[03:26:15] Fat Gay suicided!
+[04:05:26] Fat Gay suicided!
+[04:44:36] Fat Gay suicided!
+[05:23:56] Fat Gay suicided!
+[06:03:16] Fat Gay suicided!
+[06:42:36] Fat Gay suicided!
+[07:21:56] Fat Gay suicided!
+[08:01:16] Fat Gay suicided!
+[08:40:36] Fat Gay suicided!
+[09:19:46] Fat Gay suicided!
+[09:59:06] Fat Gay suicided!
+[10:38:26] Fat Gay suicided!
+[11:17:46] Fat Gay suicided!
+[11:57:06] Fat Gay suicided!
+
+
+
+[12:02:31] New map: rp_powerplant_v2b2
+[12:03:39] Client "Fat Gay" connected.
+[12:04:44] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 65 seconds).
+[12:06:09] Fat Gay forced Themself to perform the 'Dance' act command.
+[12:06:09] Fat Gay: !fdance *
+
+
+
+[12:07:42] New map: rp_powerplant_v2b2
+[12:07:57] Client "Fat Gay" connected.
+[12:08:25] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[12:08:42] Fat Gay forced Themself to perform the 'Dance' act command.
+[12:08:42] Fat Gay: !fdance *
+
+
+
+[12:13:32] New map: rp_powerplant_v2b2
+[12:13:54] Client "Fat Gay" connected.
+[12:14:29] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 35 seconds).
+[12:14:54] Fat Gay forced Themself to perform the 'Dance' act command.
+[12:14:54] Fat Gay: !fdance *
+[12:15:27] Fat Gay forced Themself to perform the 'Dance' act command.
+[12:15:27] Fat Gay: !fdance *
+[12:15:38] Fat Gay forced Themself to perform the 'Muscle' act command.
+[12:15:38] Fat Gay: !fmuscle *
+[12:16:33] Fat Gay forced Themself to perform the 'Robot' act command.
+[12:16:33] Fat Gay: !frobot *
+[12:19:35] Fat Gay: !menu
+[12:22:45] Fat Gay: AAAHHHH
+[12:22:46] Fat Gay: AHHHH
+[12:23:01] Fat Gay: Cheese
+[12:23:22] Fat Gay: run
+[12:23:28] Fat Gay: omg
+[12:23:32] Fat Gay: i know
+[12:23:34] Fat Gay: hi
+[12:23:37] Fat Gay: hello
+[12:23:42] Fat Gay: cp
+[12:23:51] Fat Gay: bullshit
+[12:23:56] Fat Gay: bullshit
+[12:23:58] Fat Gay: bullshit
+[12:23:59] Fat Gay: bullshit
+[12:24:00] Fat Gay: bullshit
+[12:24:00] Fat Gay: bullshit
+[12:24:02] Fat Gay: bullshit
+[12:24:21] Fat Gay: bullshit
+[12:24:25] Fat Gay: hmayor
+[12:24:27] Fat Gay: mayor
+[12:24:33] Fat Gay: derka
+[12:24:36] Fat Gay: *darka*
+[12:24:41] Fat Gay: *derka*
+[12:34:40] Fat Gay: sry
+[12:48:04] Fat Gay was killed by trigger_hurt
+[12:51:28] Fat Gay suicided!
+[12:51:28] Fat Gay slayed Themself
+[12:51:28] Fat Gay: !SLAY *
+[13:04:02] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[13:04:05] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[13:04:06] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[13:05:34] Client "Valien" connected.
+[13:07:40] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 126 seconds).
+[13:08:40] Fat Gay teleported to Emmett
+[13:08:40] Fat Gay: !goto emm
+[13:08:48] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[13:08:50] Emmett<STEAM_0:1:41660292> spawned sent mediaplayer_tv
+[13:08:52] Emmett<STEAM_0:1:41660292> spawned sent mediaplayer_tv
+[13:08:57] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[13:10:17] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/hunter/plates/plate5x8.mdl
+[13:10:53] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/gmod_tower/suitetv_large.mdl
+
+
+
+[13:13:21] New map: rp_powerplant_v2b2
+[13:13:44] Client "Valien" connected.
+[13:13:44] Client "Fat Gay" connected.
+[13:14:16] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+[13:14:34] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 50 seconds).
+[13:15:49] Fat Gay<STEAM_0:1:218173703> spawned sent mediaplayer_tv
+[13:15:54] Fat Gay: models/props_phx/rt_screen.mdl
+
+
+
+[13:24:48] New map: rp_powerplant_v2b2
+
+
+
+[13:26:02] New map: rp_powerplant_v2b2
+[13:26:18] Client "Fat Gay" connected.
+[13:26:46] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[13:28:35] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[13:28:38] Client "Valien" connected.
+[13:29:26] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 48 seconds).
+[13:33:15] Emmett: /dance
+[13:33:20] Emmett: !dance
+
+
+
+[13:43:32] New map: rp_powerplant_v2b2
+[13:43:39] Client "Valien" connected.
+
+
+
+[13:44:44] New map: rp_powerplant_v2b2
+[13:44:52] Client "Fat Gay" connected.
+[13:45:28] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 36 seconds).
+[13:47:59] Client "Valien" connected.
+[13:48:49] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 50 seconds).
+[13:49:34] Fat Gay: !menu
+[13:49:44] Fat Gay removed all access rights from Valien
+[13:50:33] Fat Gay: !bring va
+[13:50:34] Fat Gay brought Emmett
+[13:50:34] Fat Gay: !bring emm
+[13:55:45] Emmett was killed by trigger_hurt
+[13:57:26] Emmett<STEAM_0:1:41660292> spawned model models/props_borealis/mooring_cleat01.mdl
+[14:07:09] Emmett was killed by trigger_hurt
+[14:20:45] Emmett: !help
+[14:21:26] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[14:21:27] Client "Valien" connected.
+[14:22:19] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 52 seconds).
+[14:29:50] Emmett killed Fat Gay using player
+[14:30:30] Emmett killed Fat Gay using player
+[14:31:15] Emmett killed Fat Gay using player
+[14:32:11] Emmett killed Fat Gay using player
+[14:34:08] Emmett killed Fat Gay using player
+[14:42:40] Emmett killed Fat Gay using player
+[14:43:25] Emmett was killed by mediaplayer_tv
+[14:59:06] Emmett<STEAM_0:1:41660292> spawned model models/props_c17/furniturefireplace001a.mdl
+[15:02:27] Emmett was killed by trigger_hurt
+[15:21:55] Fat Gay suicided!
+[15:32:25] Emmett was killed by trigger_hurt
+[15:32:37] Emmett was killed by trigger_hurt
+[15:34:30] Emmett was killed by trigger_hurt
+[16:01:15] Fat Gay suicided!
+[16:16:45] Emmett suicided!
+[16:24:10] Emmett killed Fat Gay using player
+[16:24:46] Fat Gay teleported to Emmett
+[16:24:46] Fat Gay: !goto em
+[16:25:12] Emmett killed Fat Gay using player
+[16:25:17] Fat Gay: !menu
+[16:25:26] Fat Gay added Emmett to group superadmin
+[16:25:36] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_ak74
+[16:25:45] Fat Gay killed Emmett using player
+[16:25:48] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m3super90
+[16:26:02] Fat Gay killed Emmett using player
+[16:26:10] Emmett killed Fat Gay using player
+[16:26:12] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_p99
+[16:27:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m249_official
+[16:27:15] Fat Gay teleported to Emmett
+[16:27:15] Fat Gay: !goto em
+[16:28:47] Fat Gay teleported to Emmett
+[16:28:47] Fat Gay: !goto em
+[16:29:52] Fat Gay: !bruing em
+[16:29:54] Fat Gay brought Emmett
+[16:29:54] Fat Gay: !bring em
+[16:31:43] Fat Gay teleported to Emmett
+[16:31:43] Fat Gay: !goto em
+[16:31:48] Fat Gay killed Emmett using player
+[16:31:54] Fat Gay teleported to Emmett
+[16:31:54] Fat Gay: !goto em
+[16:32:05] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mac11
+[16:32:08] Emmett killed Fat Gay using player
+[16:32:09] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mr96
+[16:32:15] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_p99
+[16:32:20] Fat Gay: !goto em
+[16:32:22] Fat Gay teleported to Emmett
+[16:32:22] Fat Gay: !goto em
+[16:39:19] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m3super90
+[16:39:20] Fat Gay killed Emmett using player
+[16:40:00] Fat Gay killed Emmett using player
+[16:40:09] Emmett teleported to Fat Gay
+[16:40:09] Emmett: !goto fa
+[16:42:22] Emmett suicided!
+[16:42:22] Emmett slayed Themself
+[16:42:28] Emmett teleported to Fat Gay
+[16:42:28] Emmett: !goto fa
+[16:43:33] Fat Gay suicided!
+[16:43:36] Emmett suicided!
+[16:43:36] Emmett slayed Themself
+[16:44:14] Emmett: !goto f
+[16:44:19] Emmett teleported to Fat Gay
+[16:44:19] Emmett: !goto f
+[16:46:46] Fat Gay was killed by mediaplayer_tv
+[16:48:43] Fat Gay was killed by func_movelinear
+[16:49:35] Emmett was killed by trigger_hurt
+[16:49:40] Emmett teleported to Fat Gay
+[16:49:40] Emmett: !goto  f
+[16:49:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:50:16] Emmett killed Fat Gay using player
+[16:50:16] Emmett suicided!
+[16:50:19] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:50:38] Emmett killed Fat Gay using player
+[16:50:38] Emmett suicided!
+[16:50:44] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m3super90
+[16:50:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:51:29] Emmett killed Fat Gay using fas2_thrown_m67
+[16:51:42] Emmett killed Fat Gay using fas2_thrown_m67
+[16:52:00] Emmett killed Fat Gay using player
+[16:52:00] Emmett suicided!
+[16:52:02] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:52:10] Emmett suicided!
+[16:52:12] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:52:48] Emmett killed Fat Gay using fas2_thrown_m67
+[16:53:05] Emmett killed Fat Gay using fas2_thrown_m67
+[16:53:16] Emmett killed Fat Gay using fas2_thrown_m67
+[16:53:28] Emmett killed Fat Gay using fas2_thrown_m67
+[16:54:15] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[16:54:16] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[16:54:17] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[16:54:18] Emmett<STEAM_0:1:41660292> spawned NPC npc_combine_s
+[16:54:49] Emmett<STEAM_0:1:41660292> spawned NPC npc_stalker
+[16:55:17] Emmett<STEAM_0:1:41660292> spawned NPC npc_clawscanner
+[16:55:41] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:56:00] Emmett suicided!
+[16:56:00] Emmett slayed Themself
+[16:56:04] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m14
+[16:56:06] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m14
+[16:56:12] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:56:13] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:56:13] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:56:14] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:56:18] Emmett killed Fat Gay using fas2_thrown_m67
+[16:56:36] Emmett killed Fat Gay using fas2_thrown_m67
+[16:57:13] Emmett killed Fat Gay using fas2_thrown_m67
+[16:57:33] Emmett suicided!
+[16:57:34] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:57:39] Emmett suicided!
+[16:58:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[16:58:56] Emmett killed Fat Gay using fas2_thrown_m67
+[16:59:11] Emmett killed Fat Gay using fas2_thrown_m67
+[16:59:50] Emmett suicided!
+[16:59:50] Emmett slayed Themself
+[16:59:54] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[17:00:00] Emmett suicided!
+[17:00:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[17:00:09] Emmett killed Fat Gay using fas2_thrown_m67
+[17:00:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_mac11
+[17:00:51] Emmett<STEAM_0:1:41660292> spawned sent itemstore_bank
+[17:01:27] Emmett stripped weapons from Themself
+[17:01:31] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[17:01:52] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[17:01:53] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[17:02:51] Emmett stripped weapons from Themself
+[17:03:17] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[17:03:21] Emmett<STEAM_0:1:41660292> spawned/gave himself swep pocket
+[17:04:17] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[17:04:33] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[17:04:41] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[17:04:45] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[17:04:48] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+[17:08:22] Fat Gay: !strip *\
+[17:08:25] Fat Gay stripped weapons from Themself
+[17:08:25] Fat Gay: !strip fat
+[17:08:31] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep cw_m249_official
+[17:09:00] Fat Gay teleported to Emmett
+[17:09:00] Fat Gay: !goto em
+[17:10:13] Fat Gay was killed by trigger_hurt
+[17:10:46] Emmett was killed by trigger_hurt
+[17:10:57] Emmett stripped weapons from Themself
+[17:11:04] Emmett<STEAM_0:1:41660292> spawned/gave himself swep pocket
+[17:11:15] Emmett<STEAM_0:1:41660292> spawned/gave himself swep breachingcharge
+[17:11:25] Emmett stripped weapons from Themself
+[17:11:29] Fat Gay<STEAM_0:1:218173703> spawned/gave himself swep weapon_jihadbomb
+[17:11:32] Fat Gay suicided!
+[17:11:37] Emmett<STEAM_0:1:41660292> spawned/gave himself swep dab
+[17:11:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep dab
+[17:11:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep dab
+[17:11:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_deagle
+[17:12:50] Emmett: /dropweapon
+[17:13:09] Emmett stripped weapons from Themself
+[17:13:11] Emmett suicided!
+[17:13:11] Emmett slayed Themself
+[17:13:42] Fat Gay: !menu
+[17:13:49] Fat Gay removed all access rights from Emmett
+[17:13:59] Fat Gay: !menu
+[17:14:04] Fat Gay added Emmett to group superadmin
+[17:14:31] Emmett teleported to Fat Gay
+[17:14:31] Emmett: !goto f
+[17:16:33] Fat Gay: !menu
+[17:16:36] Fat Gay removed all access rights from Emmett
+[17:16:42] Fat Gay added Emmett to group superadmin
+[17:23:49] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:23:50] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:23:51] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:23:51] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:27:00] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:27:00] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:27:01] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:27:01] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:27:01] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:34:41] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:34:41] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:34:42] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:34:42] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:34:42] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:34:43] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:35:33] Fat Gay brought Emmett
+[17:35:33] Fat Gay: !bring em
+[17:37:33] Fat Gay: !menu
+[17:37:37] Fat Gay removed all access rights from Emmett
+[17:37:52] Fat Gay: !menu
+[17:37:54] Fat Gay added Emmett to group superadmin
+[17:38:24] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:38:25] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:38:25] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:38:25] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/freeman/money_printer.mdl
+[17:38:25] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:38:26] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:38:26] Fat Gay<STEAM_0:1:218173703> used the tool remover on models/heracles421/metal_detector/metal_detector_large.mdl
+[17:38:26] Fat Gay<STEAM_0:1:218173703> used the tool remover on maps/rp_powerplant_v2b2.bsp
+[17:39:46] Fat Gay: !menu
+[17:39:49] Fat Gay removed all access rights from Emmett
+[17:39:52] Fat Gay brought Emmett
+[17:39:52] Fat Gay: !bring emm
+[17:40:03] Fat Gay: !menu
+[17:40:06] Fat Gay added Emmett to group superadmin
+[17:41:03] Fat Gay: !menu
+[17:41:05] Fat Gay removed all access rights from Emmett
+[17:41:23] Fat Gay: !menu
+[17:41:29] Fat Gay added Emmett to group VIPPACUser
+[17:41:33] Fat Gay removed all access rights from Hap9786 [BTTE]
+[17:41:37] Fat Gay removed all access rights from Lastpayload244
+[17:41:42] Fat Gay removed all access rights from Logan Paul
+[17:43:00] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/heracles421/metal_detector/metal_detector_small.mdl
+[17:52:29] Fat Gay killed Emmett using fas2_dv2
+[17:52:32] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m14
+[17:52:41] Fat Gay killed Emmett using fas2_dv2
+[17:52:43] Fat Gay: !menu
+[17:52:46] Fat Gay added Emmett to group superadmin
+[17:54:15] Fat Gay killed Emmett using fas2_dv2
+[17:54:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[17:54:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[17:54:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[17:54:31] Emmett killed Fat Gay using player
+[17:54:31] Emmett suicided!
+[17:57:43] Emmett killed Fat Gay using player
+[17:58:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[18:07:04] Emmett stripped weapons from Themself
+[18:07:37] Emmett<STEAM_0:1:41660292> spawned/gave himself swep realrbn_tazer_mr
+[18:07:55] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_sillyzombieclaw_v2
+[18:08:04] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ifak
+[18:08:29] Emmett stripped weapons from Themself
+[18:08:32] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ifak
+[18:08:49] Emmett stripped weapons from Themself
+[18:08:56] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_uzi
+[18:09:10] Emmett killed Fat Gay using player
+[18:09:16] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[18:09:25] Emmett stripped weapons from Themself
+[18:09:51] Emmett unfroze Themself
+[18:10:10] Emmett<STEAM_0:1:41660292> spawned/gave himself swep realrbn_tazer_mr
+[18:11:01] Fat Gay: /quickwant
+[18:11:11] Emmett stripped weapons from Themself
+[18:11:18] Fat Gay: /quickwant
+[18:11:19] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ak12
+[18:11:41] Fat Gay: 1slay ^
+[18:11:45] Fat Gay suicided!
+[18:11:45] Fat Gay slayed Themself
+[18:11:45] Fat Gay: !slay ^
+[18:11:56] Fat Gay forced Everyone to perform the 'Dance' act command.
+[18:11:56] Fat Gay: !fdance *
+[18:12:09] Fat Gay forced Everyone to perform the 'Muscle' act command.
+[18:12:09] Fat Gay: !fmuscle *
+[18:12:21] Emmett: !fsexy *
+[18:12:33] Fat Gay forced Everyone to perform the 'Disagree' act command.
+[18:12:33] Fat Gay: !fdisagree *
+[18:12:51] Fat Gay forced Everyone to perform the 'Disagree' act command.
+[18:12:51] Fat Gay: !fdisagree *
+[18:13:02] Fat Gay forced Everyone to perform the 'Robot' act command.
+[18:13:02] Fat Gay: !frobot *
+[18:13:11] Fat Gay: cheese
+[18:13:18] Fat Gay forced Everyone to perform the 'Zombie' act command.
+[18:13:18] Fat Gay: !fzombie *
+[18:13:28] Fat Gay forced Everyone to perform the 'Zombie' act command.
+[18:13:28] Fat Gay: !fzombie *
+[18:13:46] Fat Gay suicided!
+[18:13:46] Fat Gay slayed Themself
+[18:13:46] Fat Gay: !slay ^
+[18:13:54] Emmett granted god mode upon Themself
+[18:14:01] Emmett<STEAM_0:1:41660292> spawned/gave himself swep bn_defib_admin
+[18:14:09] Fat Gay was killed by trigger_hurt
+[18:14:20] Fat Gay was killed by trigger_hurt
+[18:14:38] Fat Gay was killed by trigger_hurt
+[18:14:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_physgun
+[18:15:45] Fat Gay was killed by trigger_hurt
+[18:16:37] Fat Gay was killed by trigger_hurt
+[18:17:30] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/filecabinet02.mdl
+[18:17:32] Emmett<STEAM_0:1:41660292> spawned model models/props_lab/blastdoor001c.mdl
+[18:17:57] Fat Gay was killed by trigger_hurt
+[18:19:58] Fat Gay teleported to Emmett
+[18:19:58] Fat Gay: !goto em
+[18:20:01] Fat Gay: !menu
+[18:20:05] Fat Gay removed all access rights from Emmett
+[18:23:03] Emmett: !goto f
+[18:23:07] Emmett: // gar
+[18:23:12] Fat Gay: /ooc ?
+[18:23:15] Emmett: // answer disc
+[18:23:23] Fat Gay brought Emmett
+[18:23:23] Fat Gay: !bring em
+[18:24:19] Fat Gay: !menu
+[18:24:22] Fat Gay added Emmett to group superadmin
+[18:24:23] Emmett: !menu
+[18:24:57] Fat Gay: !reportadminemenu
+[18:25:40] Fat Gay was killed by trigger_hurt
+[18:25:51] Fat Gay: !bvring em
+[18:25:53] Fat Gay brought Emmett
+[18:25:53] Fat Gay: !bring em
+[18:25:53] Emmett: !gptp f
+[18:26:30] Fat Gay: !freeze emn
+[18:26:33] Fat Gay froze Emmett
+[18:26:33] Fat Gay: !freeze em
+[18:26:37] Fat Gay: !bring em
+[18:26:44] Fat Gay unfroze Emmett
+[18:26:44] Fat Gay: !unfreeze em
+[18:26:47] Fat Gay brought Emmett
+[18:26:47] Fat Gay: !bring em
+[18:27:14] Emmett suicided!
+[18:27:14] Emmett exploded Themself
+[18:27:20] Fat Gay unfroze Emmett
+[18:27:20] Fat Gay: !unfreeze em
+[18:27:24] Emmett suicided!
+[18:27:24] Fat Gay slayed Emmett
+[18:27:24] Fat Gay: !slay em
+[18:27:26] Emmett suicided!
+[18:27:26] Emmett exploded Themself
+[18:27:33] Emmett suicided!
+[18:27:33] Emmett exploded Themself
+[18:27:43] Emmett suicided!
+[18:27:43] Emmett exploded Themself
+[18:27:52] Emmett suicided!
+[18:27:52] Emmett exploded Themself
+[18:27:58] Emmett suicided!
+[18:27:58] Emmett exploded Themself
+[18:27:59] Fat Gay forced Everyone to perform the 'Dance' act command.
+[18:27:59] Fat Gay: !fdance *
+[18:28:04] Emmett suicided!
+[18:28:04] Emmett exploded Themself
+[18:28:15] Fat Gay forced Everyone to perform the 'Dance' act command.
+[18:28:15] Fat Gay: !fdance *
+[18:29:01] Fat Gay suicided!
+[18:29:01] Emmett suicided!
+[18:29:01] Fat Gay exploded Everyone
+[18:29:01] Fat Gay: !explode *
+[18:29:13] Emmett suicided!
+[18:29:13] Emmett exploded Themself
+[18:29:18] Fat Gay suicided!
+[18:29:18] Emmett suicided!
+[18:29:18] Fat Gay exploded Everyone
+[18:29:18] Fat Gay: !explode *
+[18:29:20] Emmett suicided!
+[18:29:20] Emmett exploded Themself
+[18:29:22] Fat Gay suicided!
+[18:29:22] Emmett suicided!
+[18:29:22] Fat Gay slayed Everyone
+[18:29:22] Fat Gay: !slay *
+[18:29:23] Emmett suicided!
+[18:29:23] Emmett exploded Themself
+[18:29:23] Emmett suicided!
+[18:29:23] Emmett exploded Themself
+[18:29:23] Emmett suicided!
+[18:29:23] Emmett exploded Themself
+[18:29:24] Emmett suicided!
+[18:29:24] Emmett exploded Themself
+[18:29:24] Emmett suicided!
+[18:29:24] Emmett exploded Themself
+[18:29:28] Emmett suicided!
+[18:29:28] Emmett exploded Themself
+[18:29:45] Emmett suicided!
+[18:29:45] Emmett exploded Themself
+[18:29:53] Emmett suicided!
+[18:29:53] Emmett exploded Themself
+[18:29:59] Emmett suicided!
+[18:29:59] Emmett exploded Themself
+[18:30:01] Emmett suicided!
+[18:30:01] Emmett exploded Themself
+[18:30:02] Emmett suicided!
+[18:30:02] Emmett exploded Themself
+[18:30:02] Emmett suicided!
+[18:30:02] Emmett exploded Themself
+[18:30:06] Emmett suicided!
+[18:30:06] Emmett exploded Themself
+[18:30:07] Emmett suicided!
+[18:30:07] Emmett exploded Themself
+[18:30:07] Emmett suicided!
+[18:30:07] Emmett exploded Themself
+[18:30:08] Emmett suicided!
+[18:30:08] Emmett exploded Themself
+[18:30:08] Emmett suicided!
+[18:30:08] Emmett exploded Themself
+[18:30:08] Emmett suicided!
+[18:30:08] Emmett exploded Themself
+[18:30:12] Fat Gay was killed by trigger_hurt
+[18:31:07] Emmett suicided!
+[18:31:07] Emmett exploded Themself
+[18:31:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_medicinal
+[18:31:25] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_vape_mega
+[18:32:37] Emmett suicided!
+[18:32:37] Emmett exploded Themself
+[18:32:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep weapon_policeshield
+[18:33:02] Emmett<STEAM_0:1:41660292> spawned/gave himself swep realrbn_tazer_mr
+[18:33:09] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[18:33:43] Emmett killed Fat Gay using player
+[18:33:49] Emmett suicided!
+[18:33:49] Emmett exploded Themself
+[18:34:10] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_m14
+[18:34:23] Emmett suicided!
+[18:34:23] Emmett exploded Themself
+[18:34:26] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_l85a2
+[18:34:28] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_makarov
+[18:34:29] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_makarov
+[18:34:42] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_m1911
+[18:34:46] Emmett killed Fat Gay using player
+[18:34:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_g3a3
+[18:34:57] Emmett suicided!
+[18:34:57] Emmett exploded Themself
+[18:35:00] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_l85a2
+[18:35:02] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ak74
+[18:35:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ar15
+[18:35:05] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ar15
+[18:35:05] Emmett<STEAM_0:1:41660292> spawned/gave himself swep cw_ar15
+[18:35:38] Emmett killed Fat Gay using player
+[18:35:49] Emmett killed Fat Gay using player
+[18:50:35] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ks23
+[18:50:49] Emmett killed Fat Gay using player
+[18:51:22] Emmett killed Fat Gay using player
+[18:51:36] Emmett killed Fat Gay using player
+[18:51:46] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_ks23
+[18:51:48] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:50] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:51] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:51:59] Emmett killed Fat Gay using fas2_thrown_m67
+[18:52:53] Emmett killed Fat Gay using fas2_thrown_m67
+[18:53:28] Emmett killed Fat Gay using fas2_thrown_m67
+[18:54:00] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[18:54:01] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[18:54:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[18:54:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[18:54:03] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[18:54:05] Emmett killed Fat Gay using player
+[18:54:54] Emmett<STEAM_0:1:41660292> spawned sent mediaplayer_tv
+[19:38:35] Fat Gay suicided!
+[19:38:53] Emmett: /givemoney
+[19:42:24] Emmett<STEAM_0:1:41660292> spawned sent fas2_ammo_m67
+[19:42:25] Emmett<STEAM_0:1:41660292> spawned sent fas2_ammo_m67
+[19:42:35] Emmett killed Fat Gay using fas2_thrown_m67
+[19:43:22] Emmett killed Fat Gay using fas2_thrown_m67
+[19:44:24] Emmett killed Fat Gay using fas2_thrown_m67
+[19:44:44] Emmett revoked god mode from Themself
+[19:44:52] Emmett revoked god mode from Themself
+[19:45:03] Emmett suicided!
+[19:45:06] Emmett granted god mode upon Themself
+[19:45:12] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[19:45:17] Emmett suicided!
+[19:46:52] Fat Gay: !cak
+[19:46:54] Fat Gay: !cake
+[19:46:56] Fat Gay: !cake_menu
+[19:47:08] Fat Gay: !cac
+[19:47:11] Fat Gay: !cac_menu
+[19:55:33] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[19:55:40] Emmett killed Fat Gay using fas2_thrown_m67
+[19:56:32] Emmett killed Fat Gay using fas2_thrown_m67
+[19:57:15] Emmett killed Fat Gay using fas2_thrown_m67
+[19:58:00] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_an94
+[19:58:02] Emmett killed Fat Gay using player
+[20:04:37] Fat Gay teleported to Emmett
+[20:04:37] Fat Gay: !goto em
+[20:05:38] Emmett ignited Themself for 300 seconds
+[20:05:44] Emmett suicided!
+[20:05:44] Emmett exploded Themself
+[20:05:52] Emmett banned Themself permanently (reason)
+[20:06:04] Fat Gay: !menu
+[20:06:06] Emmett set the walk speed for Themself to 11039
+[20:06:09] Emmett set the walk speed for Themself to 20000
+[20:06:15] Fat Gay banned Themself permanently (Nigger)
+[20:06:15] Fat Gay banned Themself permanently (Nigger)
+[20:06:15] Fat Gay banned Themself permanently (Nigger)
+[20:06:15] Fat Gay banned Themself permanently (Nigger)
+[20:06:16] Fat Gay banned Themself permanently (Nigger)
+[20:06:16] Fat Gay banned Themself permanently (Nigger)
+[20:06:16] Fat Gay banned Themself permanently (Nigger)
+[20:06:17] Fat Gay banned Themself permanently (Nigger)
+[20:06:17] Fat Gay banned Themself permanently (Nigger)
+[20:06:17] Fat Gay banned Themself permanently (Nigger)
+[20:06:18] Fat Gay banned Themself permanently (Nigger)
+[20:06:18] Fat Gay banned Themself permanently (Nigger)
+[20:06:18] Fat Gay banned Themself permanently (Nigger)
+[20:06:19] Fat Gay banned Themself permanently (Nigger)
+[20:06:19] Fat Gay banned Themself permanently (Nigger)
+[20:06:19] Fat Gay banned Themself permanently (Nigger)
+[20:06:20] Fat Gay banned Themself permanently (Nigger)
+[20:06:20] Fat Gay banned Themself permanently (Nigger)
+[20:06:20] Fat Gay banned Themself permanently (Nigger)
+[20:06:55] Emmett stripped weapons from Themself
+[20:07:26] Emmett stripped weapons from Themself
+[20:07:28] Fat Gay set the hp for Emmett to 1
+[20:07:28] Fat Gay: !hp em 1
+[20:07:33] Emmett suicided!
+[20:07:33] Emmett exploded Themself
+[20:07:35] Fat Gay revoked god mode from Emmett
+[20:07:35] Fat Gay: !ungod em
+[20:08:00] Fat Gay revoked god mode from Emmett
+[20:08:00] Fat Gay: !ungod em
+[20:08:05] Emmett suicided!
+[20:08:05] Emmett exploded Themself
+[20:09:19] Fat Gay suicided!
+[20:09:30] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_glock20
+[20:09:36] Fat Gay suicided!
+[20:09:36] Fat Gay slayed Themself
+[20:09:36] Fat Gay: !slay ^
+[20:09:38] Emmett stripped weapons from Themself
+[20:09:49] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m1911
+[20:09:52] Emmett: /dropweapon
+[20:10:01] Fat Gay: !fdance *&
+[20:10:05] Fat Gay forced Everyone to perform the 'Dance' act command.
+[20:10:05] Fat Gay: !fdance *
+[20:10:19] Fat Gay forced Everyone to perform the 'Dance' act command.
+[20:10:19] Fat Gay: !fdance *
+[20:10:29] Fat Gay forced Everyone to perform the 'Dance' act command.
+[20:10:29] Fat Gay: !fdance *
+[20:10:48] Fat Gay revoked god mode from Emmett
+[20:10:48] Fat Gay: !ungod emm
+[20:11:10] Emmett set the jump power for Themself to 200
+[20:11:18] Emmett ignited Themself for 300 seconds
+[20:11:21] Emmett extinguished Themself
+[20:11:24] Emmett granted god mode upon Themself
+[20:11:25] Emmett revoked god mode from Themself
+[20:11:29] Emmett revoked god mode from Themself
+[20:11:29] Emmett revoked god mode from Themself
+[20:11:29] Emmett revoked god mode from Themself
+[20:11:30] Emmett revoked god mode from Themself
+[20:11:34] Emmett suicided!
+[20:11:34] Emmett exploded Themself
+[20:11:46] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m79
+[20:11:47] Fat Gay was killed by fas2_40mm_frag
+[20:12:33] Emmett killed Fat Gay using fas2_40mm_frag
+[20:12:40] Emmett suicided!
+[20:12:40] Emmett exploded Themself
+[20:13:16] Emmett suicided!
+[20:13:16] Emmett exploded Themself
+[20:13:20] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m14
+[20:13:23] Emmett killed Fat Gay using player
+[20:13:36] Emmett<STEAM_0:1:41660292> used the tool fading_door on models/heracles421/metal_detector/metal_detector_large.mdl
+[20:15:21] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_large
+[20:16:31] Emmett<STEAM_0:1:41660292> used the tool colour on models/heracles421/metal_detector/metal_detector_large.mdl
+[20:17:10] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_small
+[20:17:17] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_large
+[20:17:58] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_large
+[20:19:35] Emmett suicided!
+[20:19:37] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_large
+[20:19:48] Emmett suicided!
+[20:19:49] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_large
+[20:20:31] Emmett suicided!
+[20:21:34] Emmett suicided!
+[20:21:34] Emmett killed Fat Gay using env_explosion
+[20:21:40] Emmett: !goto f
+[20:21:45] Emmett: !goto f
+[20:21:50] Emmett suicided!
+[20:21:52] Emmett<STEAM_0:1:41660292> spawned sent ent_metal_detector_large
+[20:21:57] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_uzi
+
+
+
+[20:23:24] New map: rp_powerplant_v2b2
+[20:23:30] Client "Valien" connected.
+[20:23:45] Client "Fat Gay" connected.
+[20:24:26] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 41 seconds).
+[20:24:29] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 59 seconds).
+[20:25:02] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[20:25:07] Emmett killed Fat Gay using fas2_thrown_m67
+[20:25:07] Client "Bot01" connected.
+[20:25:07] Client "Bot01" spawned in server <BOT> (took 141 seconds).
+[20:25:07] (Console) added Bot01 to group PACUser
+[20:25:07] Bot01 suicided!
+[20:25:11] Bot01 suicided!
+[20:25:17] Bot01 suicided!
+[20:25:51] Emmett killed Fat Gay using fas2_thrown_m67
+[20:25:51] Bot01 suicided!
+[20:25:58] Emmett suicided!
+[20:25:58] Bot01 suicided!
+[20:26:00] Fat Gay: !simplac
+[20:26:12] Fat Gay: !menu
+[20:26:41] Fat Gay: !menu
+[20:26:55] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m67
+[20:26:59] Emmett killed Fat Gay using fas2_thrown_m67
+[20:26:59] Bot01 suicided!
+[20:27:14] Fat Gay: !simplac
+[20:27:45] Emmett<STEAM_0:1:41660292> spawned/gave himself swep fas2_m3s90
+[20:27:55] Emmett<STEAM_0:1:41660292> spawned NPC npc_breen
+
+
+
+[20:33:07] New map: rp_powerplant_v2b2
+[20:33:25] Client "Valien" connected.
+[20:33:30] Client "Fat Gay" connected.
+[20:33:58] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[20:34:10] Client "Valien" spawned in server <STEAM_0:1:41660292> (took 45 seconds).
+[20:40:36] Dropped "Emmett" from server<STEAM_0:1:41660292>
+[20:51:09] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

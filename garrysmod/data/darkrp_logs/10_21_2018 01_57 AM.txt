@@ -1,0 +1,85 @@
+Sun Oct 21 01:57:29 2018	mllyons2002 (STEAM_0:0:446804304) has joined the game
+Sun Oct 21 01:57:29 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 01:57:45 2018	Jeep™ (STEAM_0:0:77324839) has joined the game
+Sun Oct 21 01:57:45 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sun Oct 21 01:57:49 2018	󠀡=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sun Oct 21 01:57:49 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 01:57:50 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sun Oct 21 01:57:50 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 21 01:57:55 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Sun Oct 21 01:57:55 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 01:58:17 2018	Vix Archaser [Opi] (STEAM_0:0:143859663) has joined the game
+Sun Oct 21 01:58:17 2018	Specialist Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Oct 21 01:58:31 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sun Oct 21 01:58:31 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 01:58:33 2018	mllyons2002 (STEAM_0:0:446804304): it keeps disconecting me everytime i switch teams i get a message saying disconected: cheats
+Sun Oct 21 01:58:43 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sun Oct 21 01:58:46 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 01:58:54 2018	Infinitynull was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Sun Oct 21 01:58:56 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 01:59:17 2018	Infinitynull was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 01:59:19 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sun Oct 21 01:59:21 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sun Oct 21 01:59:28 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sun Oct 21 01:59:37 2018	Caboose was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 01:59:40 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 02:00:00 2018	Sir Will Swag (STEAM_0:1:116765028) has joined the game
+Sun Oct 21 02:00:01 2018	Adam Klein (STEAM_0:1:116765028) spawned
+Sun Oct 21 02:00:02 2018	Defalt (STEAM_0:0:447366323) has joined the game
+Sun Oct 21 02:00:02 2018	Defalt (STEAM_0:0:447366323) spawned
+Sun Oct 21 02:00:13 2018	Yellowawesomeness (STEAM_0:0:83993595) has joined the game
+Sun Oct 21 02:00:13 2018	Yellowawesomeness (STEAM_0:0:83993595) spawned
+Sun Oct 21 02:00:14 2018	Jeep™ (STEAM_0:0:77324839) spawned
+Sun Oct 21 02:00:14 2018	Caboose (STEAM_0:1:184775407) spawned
+Sun Oct 21 02:00:18 2018	mllyons2002 (STEAM_0:0:446804304) spawned
+Sun Oct 21 02:00:30 2018	Defalt (STEAM_0:0:447366323) spawned
+Sun Oct 21 02:00:44 2018	wolfhugger 3000 (STEAM_0:1:42591216): /job cat on duty
+Sun Oct 21 02:01:43 2018	Yellowawesomeness (STEAM_0:0:83993595) spawned
+Sun Oct 21 02:01:47 2018	Apostrophe_11 (STEAM_0:1:448155602) has joined the game
+Sun Oct 21 02:01:47 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 02:02:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct 21 02:02:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct 21 02:02:28 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) has joined the game
+Sun Oct 21 02:02:28 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sun Oct 21 02:02:29 2018	Defalt was killed by Entity [0][worldspawn] with a unknown
+Sun Oct 21 02:02:30 2018	Defalt (STEAM_0:0:447366323) spawned
+Sun Oct 21 02:02:34 2018	REET W-G (STEAM_0:1:243765117) has joined the game
+Sun Oct 21 02:02:34 2018	REET W-G (STEAM_0:1:243765117) spawned
+Sun Oct 21 02:02:48 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Sun Oct 21 02:02:48 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Sun Oct 21 02:03:01 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) has joined the game
+Sun Oct 21 02:03:01 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 21 02:03:08 2018	Apostrophe_11 (STEAM_0:1:448155602) spawned
+Sun Oct 21 02:03:08 2018	Dabombam (STEAM_0:1:116056055) has joined the game
+Sun Oct 21 02:03:08 2018	Pirate Raider (STEAM_0:1:116056055) spawned
+Sun Oct 21 02:03:21 2018	jayops10 (STEAM_0:0:94779637) has joined the game
+Sun Oct 21 02:03:21 2018	jayops10 (STEAM_0:0:94779637) spawned
+Sun Oct 21 02:03:32 2018	REET W-G (STEAM_0:1:243765117): // why am i getting kicked out because of cheats
+Sun Oct 21 02:03:38 2018	Defalt (STEAM_0:0:447366323): CHEATER
+Sun Oct 21 02:03:39 2018	Infinitynull (STEAM_0:1:60776888): // BC YOU CHEAT!
+Sun Oct 21 02:03:41 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460) spawned
+Sun Oct 21 02:03:42 2018	Jeep™ (STEAM_0:0:77324839): // server bug
+Sun Oct 21 02:03:42 2018	Defalt (STEAM_0:0:447366323): ban
+Sun Oct 21 02:03:46 2018	REET W-G (STEAM_0:1:243765117): // am i doning someting wrong
+Sun Oct 21 02:03:49 2018	Infinitynull (STEAM_0:1:60776888): // YES
+Sun Oct 21 02:03:49 2018	Specialist Vix Archaser (STEAM_0:0:143859663) spawned
+Sun Oct 21 02:03:52 2018	REET W-G (STEAM_0:1:243765117): // what
+Sun Oct 21 02:03:58 2018	wolfhugger 3000 (STEAM_0:1:42591216): 
+Sun Oct 21 02:03:59 2018	Infinitynull (STEAM_0:1:60776888): // Jk its fixed
+Sun Oct 21 02:04:03 2018	Infinitynull (STEAM_0:1:60776888): // No more worries
+Sun Oct 21 02:04:09 2018	Tier (STEAM_0:1:33589770) has joined the game
+Sun Oct 21 02:04:09 2018	Tier (STEAM_0:1:33589770) spawned
+Sun Oct 21 02:04:11 2018	REET W-G (STEAM_0:1:243765117) spawned
+Sun Oct 21 02:04:11 2018	Infinitynull (STEAM_0:1:60776888): // Join discord if you want more information
+Sun Oct 21 02:04:35 2018	[W-G] Mano (STEAM_0:0:176020901) has joined the game
+Sun Oct 21 02:04:36 2018	[W-G] Mano (STEAM_0:0:176020901) spawned
+Sun Oct 21 02:04:46 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // you can disable pac clientside and your pac problems are solved
+Sun Oct 21 02:04:46 2018	Kilroy (STEAM_0:0:138507625): /advert LET ME OUT
+Sun Oct 21 02:04:50 2018	Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC] (STEAM_0:0:81685460): // pro tips from text
+Sun Oct 21 02:04:54 2018	Yellowawesomeness was killed by Jeep™ with a cw_g36c
+Sun Oct 21 02:04:56 2018	Yellowawesomeness (STEAM_0:0:83993595) spawned
+Sun Oct 21 02:05:00 2018	Tier (STEAM_0:1:33589770) spawned
+Sun Oct 21 02:05:16 2018	[NWA]Dank Memes Reho (STEAM_0:1:117807747) spawned
+Sun Oct 21 02:05:27 2018	Yellowawesomeness (STEAM_0:0:83993595) disconnected
+Sun Oct 21 02:05:30 2018	Defalt (STEAM_0:0:447366323) disconnected
+Sun Oct 21 02:05:33 2018	REET W-G (STEAM_0:1:243765117) disconnected

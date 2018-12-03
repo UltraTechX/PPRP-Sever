@@ -1,0 +1,1382 @@
+<Logging continued from "data/ulx_logs/04-11-18.txt">
+[16:05:04] Client "Fat Gay" connected.
+[16:06:40] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 96 seconds).
+[16:06:59] Fat Gay: !menu
+[16:07:47] Fat Gay created group PACUser which inherits rights from group user
+[16:08:08] Fat Gay created group VIPPACUser which inherits rights from group VIP
+[16:20:50] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[16:20:57] Client "Fat Gay" connected.
+[16:21:39] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 42 seconds).
+
+
+
+[16:32:02] New map: rp_powerplant_v2b2
+[16:32:25] Client "Fat Gay" connected.
+[16:32:49] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 24 seconds).
+[16:54:56] Fat Gay suicided!
+[17:28:06] Fat Gay suicided!
+[17:57:54] Client "Gabannie" connected.
+[18:00:09] Client "Gabannie" spawned in server <STEAM_0:1:170554828> (took 135 seconds).
+[18:00:28] Gabannie<STEAM_0:1:170554828> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:01:04] Gabannie: tp me please
+[18:01:12] Gabannie suicided!
+[18:02:10] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:12] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:13] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:13] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:13] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:13] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:14] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:14] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:14] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:14] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:14] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:14] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:15] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:15] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:15] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:15] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:15] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:15] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:16] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:16] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:16] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:16] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:17] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:17] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:17] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:17] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:17] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:18] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:42] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:42] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:42] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:42] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:43] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:43] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:43] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:43] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:43] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:44] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:44] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:44] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:44] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:44] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:44] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:45] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:45] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:45] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:45] Gabannie was killed by trigger_hurt
+[18:02:45] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:45] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:46] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:46] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:46] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:46] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:46] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:46] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:48] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:48] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:48] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:48] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:49] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:49] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:49] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:49] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:50] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:50] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:50] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:50] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:50] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:51] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:51] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:51] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:51] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:51] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:51] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:52] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:02:52] Gabannie<STEAM_0:1:170554828> spawned model models/props_lab/blastdoor001c.mdl
+[18:03:08] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:08] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:08] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:08] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:08] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:08] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:09] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:09] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:09] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:09] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:09] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:10] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:10] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:10] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:10] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:10] Gabannie<STEAM_0:1:170554828> spawned model models/props_phx/construct/windows/window_curve360x2.mdl
+[18:03:38] Dropped "Gabannie" from server<STEAM_0:1:170554828>
+[18:05:50] Client "ellis3246" connected.
+[18:13:51] Client "ellis3246" spawned in server <STEAM_0:0:170430038> (took 481 seconds).
+[18:15:43] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[18:15:59] ellis3246: /job guy lol
+[18:19:54] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[18:20:36] ellis3246 was killed by trigger_hurt
+[18:21:09] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopssedan.mdl
+[18:21:28] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[18:23:31] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[18:23:42] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/hilux.mdl
+[18:24:19] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/econoline.mdl
+[18:25:50] ellis3246<STEAM_0:0:170430038> spawned model models/renaghosts/fema_truck.mdl
+[18:25:59] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopssedan.mdl
+[18:26:05] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/nuketown_car_01.mdl
+[18:26:13] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopsvan.mdl
+[18:26:16] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/car_compact_dirty.mdl
+[18:26:55] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/sedan_destroyed.mdl
+[18:28:11] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopsbusalt.mdl
+[18:28:50] Dropped "ellis3246" from server<STEAM_0:0:170430038>
+[18:28:52] Client "ellis3246" connected.
+[18:30:39] Client "ellis3246" spawned in server <STEAM_0:0:170430038> (took 107 seconds).
+[18:32:20] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/skylark.mdl
+[18:32:54] Fat Gay: !goto el
+[18:32:54] Fat Gay teleported to ellis3246
+[18:33:13] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[18:34:23] Client "beerbreak" connected.
+[18:37:02] Fat Gay: !slay fat
+[18:37:02] Fat Gay suicided!
+[18:37:02] Fat Gay slayed Themself
+[18:38:14] ellis3246: K
+[18:39:22] Client "beerbreak" spawned in server <STEAM_0:0:102824521> (took 299 seconds).
+[18:40:14] beerbreak: ass
+[18:40:16] beerbreak: /name Ass
+[18:40:16] beerbreak<STEAM_0:0:102824521> changed their name to Ass
+[18:40:19] Ass: ass
+[18:40:20] Ass: ass
+[18:40:27] Ass: Aass
+[18:40:29] Ass: Ass.
+[18:40:33] Ass: Im a weeb cunt
+[18:40:55] Dropped "Ass" from server<STEAM_0:0:102824521>
+[18:41:00] ellis3246: cant really talk rn
+[18:41:07] ellis3246: or have the volume on
+[18:42:29] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[18:42:43] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001b_truck.mdl
+[18:42:45] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[18:43:09] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[18:43:50] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001a_tractor.mdl
+[18:44:11] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/pulleywheels_small01.mdl
+[18:44:14] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/pulleywheels_large01.mdl
+[18:44:16] Fat Gay: !slay fat
+[18:44:16] Fat Gay suicided!
+[18:44:16] Fat Gay slayed Themself
+[18:44:28] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:44:32] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:44:47] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:45:33] Fat Gay: !slay fat
+[18:45:33] Fat Gay suicided!
+[18:45:33] Fat Gay slayed Themself
+[18:48:31] Client "Vix" connected.
+[18:51:24] ellis3246: // jelly xd
+[18:52:08] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[18:52:08] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[18:52:08] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:52:08] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:52:08] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[18:52:36] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[18:52:36] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[18:52:36] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:52:36] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[18:52:36] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[18:52:46] ellis3246 suicided!
+[18:53:49] Fat Gay: !goto el
+[18:53:49] Fat Gay teleported to ellis3246
+[18:54:18] ellis3246: didn get it xddd
+[18:56:37] Fat Gay: /ooc t
+[18:56:50] ellis3246: // t
+[18:57:01] Fat Gay: /ooc  i was showing someone my discord chat with the console
+[18:57:43] Fat Gay killed ellis3246 using weapon_l4d2_frying_pan
+[18:57:48] Fat Gay: !bring el
+[18:57:52] Fat Gay: !bring el
+[18:57:52] Fat Gay brought ellis3246
+[18:58:07] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[18:58:12] Fat Gay: !goto el
+[18:58:12] Fat Gay teleported to ellis3246
+[18:59:09] Fat Gay killed ellis3246 using weapon_l4d2_frying_pan
+[18:59:13] Fat Gay: !bring el
+[18:59:13] Fat Gay brought ellis3246
+[19:00:11] Fat Gay killed ellis3246 using weapon_l4d2_frying_pan
+[19:00:14] Fat Gay: !bring el
+[19:00:14] Fat Gay brought ellis3246
+[19:00:36] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:00:39] Fat Gay: !goto el
+[19:00:39] Fat Gay teleported to ellis3246
+[19:00:55] Fat Gay: !bring el
+[19:00:55] Fat Gay brought ellis3246
+[19:01:01] Fat Gay: !bring el
+[19:01:01] Fat Gay brought ellis3246
+[19:01:32] Fat Gay killed ellis3246 using weapon_l4d2_frying_pan
+[19:01:35] Fat Gay: !bring el
+[19:01:35] Fat Gay brought ellis3246
+[19:01:42] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[19:01:42] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[19:01:42] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[19:01:42] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/carparts_wheel01a.mdl
+[19:01:42] ellis3246<STEAM_0:0:170430038> spawned model models/props_vehicles/tire001c_car.mdl
+[19:01:56] Fat Gay killed ellis3246 using weapon_l4d2_frying_pan
+[19:01:59] Fat Gay: !bring el
+[19:02:02] Fat Gay: !bring el
+[19:02:04] Fat Gay: !bring el
+[19:02:04] Fat Gay brought ellis3246
+[19:04:07] ellis3246 was killed by trigger_hurt
+[19:04:12] Fat Gay: !bring el
+[19:04:12] Fat Gay brought ellis3246
+[19:04:28] Fat Gay: !menu
+[19:04:36] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/buggy.mdl
+[19:05:00] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/buggy.mdl
+[19:05:03] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/airboat.mdl
+[19:05:13] Fat Gay was killed by trigger_hurt
+[19:05:21] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/airboat.mdl
+[19:05:25] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/props_phx/carseat2.mdl
+[19:05:54] Client "Vix" spawned in server <STEAM_0:0:143859663> (took 1043 seconds).
+[19:08:49] Fat Gay: !spectate vix
+[19:09:40] Fat Gay: !spectate vix
+[19:09:52] Fat Gay<STEAM_0:1:218173703> spawned vehicle models/nova/airboat_seat.mdl
+[19:10:44] Fat Gay killed Security Vix using weapon_l4d2_frying_pan
+[19:10:58] Fat Gay: !bring vi
+[19:12:02] ellis3246 was killed by trigger_hurt
+[19:12:05] Fat Gay was killed by trigger_hurt
+[19:12:30] Fat Gay killed ellis3246 using player
+[19:13:22] Fat Gay killed ellis3246 using env_explosion
+[19:13:38] Fat Gay: !bring vix
+[19:13:38] Fat Gay brought Security Vix
+[19:13:44] Security Vix suicided!
+[19:13:57] Fat Gay: !bring vi
+[19:13:57] Fat Gay brought Security Vix
+[19:14:00] Fat Gay killed ellis3246 using env_explosion
+[19:14:03] Fat Gay killed Security Vix using env_explosion
+[19:14:09] Fat Gay: !bring *
+[19:14:09] Fat Gay brought Security Vix,ellis3246
+[19:14:12] Security Vix suicided!
+[19:14:12] Security Vix killed ellis3246 using env_explosion
+[19:14:18] Fat Gay: !bring *
+[19:14:18] Fat Gay brought Security Vix,ellis3246
+[19:14:22] Security Vix suicided!
+[19:14:22] Security Vix killed ellis3246 using env_explosion
+[19:14:29] Fat Gay: !bring *
+[19:14:29] Fat Gay brought Security Vix
+[19:14:32] Security Vix suicided!
+[19:14:40] Fat Gay: !bring vix
+[19:14:40] Fat Gay brought Security Vix
+[19:14:52] Security Vix suicided!
+[19:15:00] Fat Gay: !bring vi
+[19:15:00] Fat Gay brought Security Vix
+[19:15:21] Fat Gay: !bring vi
+[19:15:21] Fat Gay brought Security Vix
+[19:15:33] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:15:41] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:15:44] Fat Gay killed Security Vix using env_explosion
+[19:15:48] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:15:54] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:16:00] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:16:13] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:16:23] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:16:27] Fat Gay: !menu
+[19:16:33] Fat Gay added Security Vix to group VIP
+[19:16:53] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar.mdl
+[19:17:03] Fat Gay: !menu
+[19:17:07] Fat Gay removed all access rights from Security Vix
+[19:17:12] Fat Gay added Security Vix to group VIPPACUser
+[19:17:24] Fat Gay removed all access rights from Security Vix
+[19:17:25] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:17:41] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:17:44] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:17:52] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:18:07] ellis3246<STEAM_0:0:170430038> spawned model models/props_junk/pushcart01a.mdl
+[19:18:38] Fat Gay: !bring vi
+[19:18:38] Fat Gay brought Security Vix
+[19:18:41] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:20:09] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar_open.mdl
+[19:21:27] Security Vix killed Fat Gay using player
+[19:22:04] Fat Gay suicided!
+[19:22:04] Fat Gay suicided!
+[19:22:04] Fat Gay suicided!
+[19:22:05] Fat Gay suicided!
+[19:22:05] Fat Gay suicided!
+[19:22:05] Fat Gay suicided!
+[19:22:05] Fat Gay suicided!
+[19:22:05] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:06] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:07] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:08] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:09] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:10] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:15] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:16] Fat Gay suicided!
+[19:22:17] Fat Gay suicided!
+[19:22:17] Fat Gay suicided!
+[19:22:17] Fat Gay suicided!
+[19:22:17] Fat Gay suicided!
+[19:22:17] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:21] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:22] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:23] Fat Gay suicided!
+[19:22:24] Fat Gay suicided!
+[19:22:24] Fat Gay suicided!
+[19:22:24] Fat Gay suicided!
+[19:22:24] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:25] Fat Gay suicided!
+[19:22:26] Fat Gay suicided!
+[19:22:26] Fat Gay suicided!
+[19:22:26] Fat Gay suicided!
+[19:22:26] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:27] Fat Gay suicided!
+[19:22:28] Fat Gay suicided!
+[19:22:40] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:22:56] Fat Gay killed ellis3246 using player
+[19:23:04] Fat Gay: !bring bix
+[19:23:05] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:23:08] Fat Gay: !bring vi
+[19:23:21] ellis3246: // taik that nerdio
+[19:23:24] Fat Gay: !bring vix
+[19:23:24] Fat Gay brought Security Vix
+[19:23:26] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopsvan.mdl
+[19:23:27] Fat Gay: /ooc ill show you
+[19:23:28] Security Vix: y
+[19:23:31] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopsvan.mdl
+[19:23:36] Fat Gay killed Security Vix using player
+[19:23:48] Fat Gay killed ellis3246 using player
+[19:23:58] Fat Gay killed ellis3246 using player
+[19:24:06] Fat Gay killed ellis3246 using player
+[19:24:14] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:24:56] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/police_car_destroyed.mdl
+[19:25:23] Fat Gay killed ellis3246 using player
+[19:25:30] Fat Gay killed ellis3246 using player
+[19:25:44] Fat Gay killed ellis3246 using player
+[19:25:48] Fat Gay: !bring vi
+[19:25:48] Fat Gay brought Security Vix
+[19:25:50] Fat Gay killed Security Vix using player
+[19:25:52] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:26:04] ellis3246: // take that stale meme
+[19:26:35] ellis3246: // y is remover restricteddddd
+[19:26:39] Fat Gay: /ooc oh
+[19:26:41] Fat Gay: /ooc idk
+[19:26:46] Fat Gay: /ooc hold on
+[19:26:46] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02a.mdl
+[19:26:50] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02a.mdl
+[19:27:00] ellis3246: // yeah you need to ditch this preset blacklist
+[19:27:02] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[19:27:13] (TEAM) Fat Gay: /ooc its not preset
+[19:27:18] Fat Gay: /ooc im just autistic
+[19:27:19] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02a.mdl
+[19:27:26] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[19:27:28] Fat Gay: /ooc fixed remover
+[19:27:32] ellis3246: // also 5 more textscreeeeees
+[19:27:33] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[19:27:49] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:27:54] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:28:05] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopspolicecar.mdl
+[19:28:14] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/police_car_destroyed.mdl
+[19:28:31] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/car_compact_dirty.mdl
+[19:28:47] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/tracksign02.mdl
+[19:28:52] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:29:01] Fat Gay: !goto vi
+[19:29:01] Fat Gay teleported to Security Vix
+[19:29:01] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/barricade002a.mdl
+[19:29:03] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/barricade002a.mdl
+[19:29:07] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/car_compact_dirty.mdl
+[19:29:13] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/tracksign08.mdl
+[19:29:24] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/tracksign10.mdl
+[19:29:33] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/tracksign10.mdl
+[19:29:37] Fat Gay killed ellis3246 using player
+[19:29:55] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:30:02] Fat Gay: !goto vix
+[19:30:02] Fat Gay teleported to Security Vix
+[19:30:05] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/combine_fence01b.mdl
+[19:30:10] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:30:33] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/combine_barricade_short02a.mdl
+[19:30:43] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/barricade001a.mdl
+[19:30:48] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:30:51] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/barricade002a.mdl
+[19:30:53] Fat Gay: !goto vix
+[19:30:53] Fat Gay teleported to Security Vix
+[19:30:54] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/barricade002a.mdl
+[19:30:54] ellis3246: // get gayed xd
+[19:31:07] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:31:10] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/trafficcone001a.mdl
+[19:31:12] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/trafficcone001a.mdl
+[19:31:14] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/trafficcone001a.mdl
+[19:31:17] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/trafficcone001a.mdl
+[19:31:20] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/trafficcone001a.mdl
+[19:31:22] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:31:23] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/trafficcone001a.mdl
+[19:31:30] Fat Gay: !goto vi
+[19:31:30] Fat Gay teleported to Security Vix
+[19:31:34] Fat Gay: /ooc i got gayed
+[19:31:43] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopspolicecar.mdl
+[19:31:50] Fat Gay suicided!
+[19:31:50] Fat Gay killed ellis3246 using env_explosion
+[19:31:57] Fat Gay: !goto vix
+[19:31:57] Fat Gay teleported to Security Vix
+[19:32:05] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopspolicecar.mdl
+[19:32:29] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/wood_crate002a.mdl
+[19:32:33] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:32:36] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[19:32:37] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[19:32:37] Fat Gay: !goto vi
+[19:32:37] Fat Gay teleported to Security Vix
+[19:32:39] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/wood_crate001a.mdl
+[19:32:48] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/wood_pallet001a.mdl
+[19:32:56] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:33:01] Fat Gay: !goto vix
+[19:33:01] Fat Gay teleported to Security Vix
+[19:33:37] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/metalgascan.mdl
+[19:33:39] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:33:43] Fat Gay: !goto bi
+[19:33:45] Fat Gay: !goto vi
+[19:33:45] Fat Gay teleported to Security Vix
+[19:33:53] ellis3246: // gimmi super duper admin
+[19:34:02] ellis3246: // youve been gayed alot of times
+[19:34:08] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:34:08] Fat Gay: /ooc the vip for vix was me testing the new donations
+[19:34:14] Fat Gay: !explode el
+[19:34:14] ellis3246 suicided!
+[19:34:14] Fat Gay exploded ellis3246
+[19:34:18] Fat Gay: !goto vi
+[19:34:18] Fat Gay teleported to Security Vix
+[19:34:21] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/interior_fence002d.mdl
+[19:34:52] ellis3246: // atleast give me this weapon_l4d2_rifle_sg552
+[19:35:10] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:35:15] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:36:12] Fat Gay killed ellis3246 using player
+[19:36:20] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:36:21] Security Vix suicided!
+[19:36:55] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:37:03] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:37:24] ellis3246<STEAM_0:0:170430038> spawned model models/renablops/blopsbusalt.mdl
+[19:39:03] Fat Gay killed ellis3246 using player
+[19:39:10] Fat Gay killed ellis3246 using player
+[19:39:54] ellis3246 killed Fat Gay using weapon_l4d2_frying_pan
+[19:40:04] Fat Gay: /ooc brb
+[19:40:06] Fat Gay was killed by trigger_hurt
+[19:40:15] ellis3246 was killed by point_hurt
+[19:40:34] Security Vix was killed by point_hurt
+[19:40:45] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:40:54] ellis3246<STEAM_0:0:170430038> spawned model models/props_c17/concrete_barrier001a.mdl
+[19:41:51] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/van001a_physics.mdl
+[19:41:55] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/train001.mdl
+[19:42:00] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/generatortrailer01.mdl
+[19:42:08] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/trailer002a.mdl
+[19:42:10] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/trailer001a.mdl
+[19:42:14] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/trailer001a.mdl
+[19:42:26] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/combinetrain01a.mdl
+[19:42:40] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/combine_train02b.mdl
+[19:42:43] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/combinetrain01a.mdl
+[19:42:47] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/combine_train02a.mdl
+[19:42:58] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/truck002a_cab.mdl
+[19:43:03] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/truck001a.mdl
+[19:43:16] Security Vix<STEAM_0:0:143859663> spawned model models/combine_apc.mdl
+[19:43:41] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_office/address.mdl
+[19:43:56] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_office/vending_machine.mdl
+[19:44:23] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_militia/toothbrushset01.mdl
+[19:44:28] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_militia/tv_console.mdl
+[19:46:01] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_militia/car_militia.mdl
+[19:46:02] ellis3246: // whos as bored as gay
+[19:46:23] Security Vix<STEAM_0:0:143859663> spawned model models/props/de_nuke/pipeset.mdl
+[19:46:48] Security Vix<STEAM_0:0:143859663> spawned model models/props/de_nuke/ibeams_ctspawnc.mdl
+[19:47:02] Security Vix<STEAM_0:0:143859663> spawned model models/props/de_nuke/ibeams_bombsitea.mdl
+[19:47:14] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_office/awning_short.mdl
+[19:47:36] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_office/awning_long.mdl
+[19:47:51] Security Vix<STEAM_0:0:143859663> spawned model models/props/cs_office/chair_office.mdl
+[19:48:06] Security Vix<STEAM_0:0:143859663> spawned model models/props/de_nuke/car_nuke_black.mdl
+[19:48:13] Security Vix<STEAM_0:0:143859663> spawned model models/props/de_nuke/fuel_cask.mdl
+[19:48:18] Security Vix<STEAM_0:0:143859663> spawned model models/props/de_nuke/smokestack01.mdl
+[19:50:21] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[19:50:29] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[19:50:33] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02a.mdl
+[19:52:44] ellis3246: // what rn
+[19:52:45] Security Vix<STEAM_0:0:143859663> spawned model models/props_vehicles/apc_tire001.mdl
+[19:53:09] Security Vix<STEAM_0:0:143859663> spawned model models/props_combine/breendesk.mdl
+[19:53:27] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02a.mdl
+[19:53:36] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[19:53:47] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence03a.mdl
+[19:53:52] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/fence02a.mdl
+[19:54:34] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/furnitureshelf001a.mdl
+[19:54:35] ellis3246: // oh yeah and i forgot to suggest other addons
+[19:54:52] Security Vix<STEAM_0:0:143859663> spawned model models/props_interiors/sinkkitchen01a.mdl
+[19:55:05] Security Vix<STEAM_0:0:143859663> spawned model models/props_junk/pushcart01a.mdl
+[19:56:01] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/gate_door02a.mdl
+[19:56:22] Security Vix<STEAM_0:0:143859663> spawned model models/props_wasteland/cranemagnet01a.mdl
+[19:56:43] Security Vix<STEAM_0:0:143859663> spawned model models/props_borealis/borealis_door001a.mdl
+[19:56:51] ellis3246: // some thingss for afgan or something
+[19:56:54] ellis3246: https://steamcommunity.com/sharedfiles/filedetails/?id=1269403040
+[19:57:10] ellis3246: // same for this onneneee
+[19:57:15] ellis3246: https://steamcommunity.com/sharedfiles/filedetails/?id=913248065
+[19:57:21] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/furniturebed001a.mdl
+[19:57:27] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[19:57:32] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/furniturestove001a.mdl
+[19:57:38] Security Vix<STEAM_0:0:143859663> spawned model models/props_c17/furniturefridge001a.mdl
+[19:58:28] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/trainstation_column001.mdl
+[19:58:28] Client "Delta" connected.
+[19:58:40] Security Vix<STEAM_0:0:143859663> spawned model models/props_trainstation/mount_connection001a.mdl
+[19:58:42] Client "[SN3T] Wendy Juice" connected.
+[20:00:38] Client "[SN3T] Wendy Juice" spawned in server <STEAM_0:0:93499703> (took 116 seconds).
+[20:00:55] Fat Gay: !goto wen
+[20:00:55] Fat Gay teleported to [SN3T] Wendy Juice
+[20:01:11] Fat Gay was killed by trigger_hurt
+[20:01:17] ellis3246 was killed by trigger_hurt
+[20:01:25] Security Vix: /name Furry Trash
+[20:01:26] Security Vix<STEAM_0:0:143859663> changed their name to Furry Trash
+[20:03:48] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/fence02b.mdl
+[20:04:35] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/fence03a.mdl
+[20:04:55] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[20:05:24] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[20:05:50] [SN3T] Wendy Juice: !motd
+[20:05:52] Furry Trash<STEAM_0:0:143859663> spawned model models/props/cs_office/computer_monitor.mdl
+[20:06:11] Furry Trash<STEAM_0:0:143859663> spawned model models/props/cs_office/computer_caseb.mdl
+[20:06:27] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/cashregister01a.mdl
+[20:06:50] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[20:07:18] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/gravestone003a.mdl
+[20:07:23] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_phx/games/chess/white_dama.mdl
+[20:07:40] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/briefcase001a.mdl
+[20:07:40] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_phx/construct/concrete_barrier00.mdl
+[20:08:09] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[20:08:19] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/briefcase001a.mdl
+[20:08:37] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/building_brokenexterior001a.mdl
+[20:08:46] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/barricade_short02a.mdl
+[20:08:52] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/barricade_tall03a.mdl
+[20:08:59] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/barricade_tall03a.mdl
+[20:09:00] Fat Gay: !goto wend
+[20:09:00] Fat Gay teleported to [SN3T] Wendy Juice
+[20:09:04] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[20:09:05] [SN3T] Wendy Juice: ;_;
+[20:09:24] [SN3T] Wendy Juice: cul
+[20:09:25] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_section64floor001c.mdl
+[20:09:26] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_section64floor001c.mdl
+[20:09:26] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_section64floor001c.mdl
+[20:09:33] Fat Gay: !explode fat
+[20:09:33] Fat Gay suicided!
+[20:09:33] Fat Gay exploded Themself
+[20:09:44] ellis3246: // fatgay gets gay
+[20:09:48] Furry Trash<STEAM_0:0:143859663> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[20:09:49] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel02a.mdl
+[20:09:49] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel02a.mdl
+[20:09:49] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel02a.mdl
+[20:09:49] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel02a.mdl
+[20:09:49] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel02a.mdl
+[20:10:08] ellis3246: // also quick question fellow gamers should i get city skygayes
+[20:10:19] Furry Trash: yes
+[20:10:21] Fat Gay: !menu
+[20:10:24] [SN3T] Wendy Juice: // never heard of it
+[20:10:34] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/plaster_wall001a.mdl
+[20:10:40] Fat Gay: you mean city skylines?
+[20:10:42] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/plaster_wall002a.mdl
+[20:10:43] Fat Gay: depends
+[20:10:45] Furry Trash: afthe i die the tour well begin
+[20:10:48] Fat Gay: do you like simcity?
+[20:10:57] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel01a.mdl
+[20:11:27] Furry Trash suicided!
+[20:11:34] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/windowdestroyed01b.mdl
+[20:11:39] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/windowdestroyed01b.mdl
+[20:11:56] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/destroyedceiling01d.mdl
+[20:12:01] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_cornerpile01a.mdl
+[20:12:05] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_debris256pile001a.mdl
+[20:12:13] ellis3246: regular
+[20:12:26] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_debris128pile001a.mdl
+[20:12:36] Furry Trash<STEAM_0:0:143859663> spawned model models/props/cs_office/computer_monitor.mdl
+[20:12:37] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/rebar_smallnorm01c.mdl
+[20:12:41] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/tile_walkway001a.mdl
+[20:12:50] (TEAM) Fat Gay: /ooc quick question
+[20:12:57] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/tile_walkway001a.mdl
+[20:13:02] ellis3246: // wat
+[20:13:19] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/tile_walkwaypile001a.mdl
+[20:13:21] Fat Gay: /ooc actually forget it, I will do it when everyone is off for the night
+[20:13:26] Fat Gay: /ooc sorry
+[20:13:27] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/windowdestroyed01a.mdl
+[20:13:33] ellis3246: // wat tho
+[20:13:37] Furry Trash: bye
+[20:13:42] Fat Gay: /ooc im adding a remote restart command to my bot
+[20:13:43] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/walldestroyed05a.mdl
+[20:13:55] Fat Gay: /ooc on the discord
+[20:14:01] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/plaster_ceiling002a.mdl
+[20:14:03] Client "Delta" spawned in server <STEAM_0:1:43675420> (took 935 seconds).
+[20:14:04] Furry Trash<STEAM_0:0:143859663> spawned model models/props/cs_office/computer_monitor_p1.mdl
+[20:14:08] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel01a.mdl
+[20:14:21] ellis3246: // what happened to the h e a t
+[20:14:24] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel01a.mdl
+[20:14:26] Furry Trash<STEAM_0:0:143859663> spawned model models/props/cs_office/computer_caseb_p4.mdl
+[20:14:31] Furry Trash<STEAM_0:0:143859663> spawned model models/props/cs_office/computer_monitor_p2a.mdl
+[20:14:37] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel01a.mdl
+[20:14:39] (TEAM) Fat Gay: /ooc it stops changing during a meltdown
+[20:14:46] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panel01a.mdl
+[20:15:01] Furry Trash: can i be tped
+[20:15:39] Fat Gay: /ooc Welcome to the server Delta
+[20:15:44] Delta: // Thanks
+[20:15:48] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/metal_panelchunk01d.mdl
+[20:15:57] ellis3246: // also this i forgot to ask to add https://steamcommunity.com/sharedfiles/filedetails/?id=913248065
+[20:16:03] Furry Trash: well i am goin to play cs
+[20:16:07] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_debris/concrete_cornerpile01a.mdl
+[20:16:24] ellis3246: // and this for afgan https://steamcommunity.com/sharedfiles/filedetails/?id=1269403040
+[20:16:35] Furry Trash killed Delta using weapon_l4d2_frying_pan
+[20:16:44] Furry Trash was killed by trigger_hurt
+[20:16:52] Dropped "Furry Trash" from server<STEAM_0:0:143859663>
+[20:16:54] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/combinetrain01a.mdl
+[20:17:09] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/combinetrain01a.mdl
+[20:17:16] Delta: // Are their signs here? Or do I just not see em
+[20:17:17] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/combineinnerwall001c.mdl
+[20:17:24] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/combineinnerwall001c.mdl
+[20:17:26] ellis3246: // what
+[20:17:26] Fat Gay: !goto del
+[20:17:26] Fat Gay teleported to Delta
+[20:17:36] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/combine_window001.mdl
+[20:17:49] ellis3246 was killed by trigger_hurt
+[20:18:14] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/combine_lock01.mdl
+[20:18:30] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_combine/prison01b.mdl
+[20:18:42] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_canal/locks_large_b.mdl
+[20:18:59] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_canal/locks_large.mdl
+[20:19:20] Delta: // Can I touch the buttons? XD
+[20:19:25] [SN3T] Wendy Juice: // how tf is a sand nigerian supposed to survive when their starving to death?
+[20:19:38] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_canal/locks_large.mdl
+[20:19:42] Fat Gay: !goto wend
+[20:19:42] Fat Gay teleported to [SN3T] Wendy Juice
+[20:20:05] [SN3T] Wendy Juice<STEAM_0:0:93499703> spawned model models/props_canal/locks_large.mdl
+[20:20:16] Fat Gay: !goto el
+[20:20:22] Fat Gay: !goto ell
+[20:20:22] Fat Gay teleported to ellis3246
+[20:20:38] Fat Gay: !bring ell
+[20:20:38] Fat Gay brought ellis3246
+[20:20:59] [SN3T] Wendy Juice: // what does the CBRN do?
+[20:21:10] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[20:21:15] Fat Gay: /ooc they are for containing and maintaining biohazards around the facility
+[20:21:29] Fat Gay: /ooc we have scientists that need to do tests on the creatures
+[20:21:40] Fat Gay: /ooc if they break out, its the CBRN's job to re-contain them
+[20:21:50] Fat Gay: /ooc they can also supervise tests
+[20:21:52] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[20:22:59] ellis3246: // maik it rain fat gayyyyeee
+[20:22:59] [SN3T] Wendy Juice was killed by trigger_hurt
+[20:23:05] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/sh2car07.mdl
+[20:23:50] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/sh2car07.mdl
+[20:23:59] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/pinto.mdl
+[20:24:04] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/pinto.mdl
+[20:24:14] Delta: // So now it's my job to fuck you up right?
+[20:24:24] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:24:43] Fat Gay: /ooc yes, as terrorist you can kill everyone except other terrorists, you can try to team up with SCP's if you want
+[20:24:49] ellis3246: // yes you give the terrorist big gay
+[20:25:11] ellis3246: d
+[20:25:13] Delta: // IM STUCK IN THE FUCKING DOOR
+[20:25:14] ellis3246: h
+[20:25:35] ellis3246: bring me back to the e a r t h
+[20:26:42] Delta: @ I am stuck halp
+[20:26:42] Delta to admins: I am stuck halp
+[20:26:46] Fat Gay: !bring del
+[20:26:46] Fat Gay brought Delta
+[20:26:46] [SN3T] Wendy Juice: // this map is HUUUUUUUUUGE
+[20:26:53] Fat Gay: /ooc yea
+[20:27:04] [SN3T] Wendy Juice: // oooooooooo buttons
+[20:27:15] Fat Gay: /ooc im going afk bois brb
+[20:27:24] Client "Wolves Mercy" connected.
+[20:27:33] Fat Gay: /ooc also if you want
+[20:27:36] Fat Gay: /ooc https://discord.gg/wtPZXj
+[20:27:39] Fat Gay: /ooc the discord
+[20:28:39] Delta was killed by trigger_hurt
+[20:28:40] Client "Wolves Mercy" spawned in server <STEAM_0:0:86025114> (took 76 seconds).
+[20:30:42] Fat Gay: !menu
+[20:31:03] ellis3246: // tp me
+[20:31:05] ellis3246: // aaaa
+[20:31:19] Fat Gay: !bring ell
+[20:31:19] Fat Gay brought ellis3246
+[20:31:26] Dropped "Security Soal" from server<STEAM_0:0:86025114>
+[20:31:40] Delta killed [SN3T] Wendy Juice using player
+[20:31:50] ellis3246 was killed by trigger_hurt
+[20:31:56] Fat Gay was killed by trigger_hurt
+[20:32:29] ellis3246: // can you actually get to the bunker
+[20:32:34] Delta: dunno
+[20:32:58] Delta: // finna bust a fat one on this reactor
+[20:33:06] [SN3T] Wendy Juice was killed by trigger_hurt
+[20:33:48] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:33:55] Delta suicided!
+[20:33:56] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:34:04] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:34:16] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[20:34:18] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:34:26] ellis3246 was killed by trigger_hurt
+[20:36:27] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/pinto.mdl
+[20:36:40] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:36:57] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[20:37:16] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[20:37:23] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/cargovan.mdl
+[20:38:03] Delta was killed by trigger_hurt
+[20:38:48] Dropped "[SN3T] Wendy Juice" from server<STEAM_0:0:93499703>
+[20:38:54] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[20:39:06] ellis3246 was killed by trigger_hurt
+[20:40:11] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/pinto.mdl
+[20:40:25] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/pinto.mdl
+[20:40:35] ellis3246 was killed by trigger_hurt
+[20:44:24] ellis3246: AAAAAAAAAAAAA
+[20:44:26] ellis3246: HELP
+[20:45:14] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar_open.mdl
+[20:46:09] ellis3246 was killed by trigger_hurt
+[20:47:47] Delta: // Where u at ellis
+[20:48:00] ellis3246: // the stop lobbyu
+[20:49:18] Delta: // HELP
+[20:49:22] Delta: // IM IN THE LAB
+[20:49:30] Delta: // IM DYIN
+[20:50:07] Delta: // How do i get out
+[20:53:05] Delta killed ellis3246 using hunter_flechette
+[20:53:51] Delta was killed by trigger_hurt
+[21:01:38] Delta: // LET ME IN
+[21:03:43] Delta was killed by trigger_hurt
+[21:06:14] Client "GamerBoyPro2002" connected.
+[21:06:33] Client "ArkStar" connected.
+[21:06:37] Client "Hawkeren" connected.
+[21:06:45] Client "Topher III" connected.
+[21:06:48] Client "Trooper012" connected.
+[21:06:56] Fat Gay: !goto delty
+[21:06:58] Fat Gay: !goto del
+[21:07:03] Fat Gay: !goto delt
+[21:07:07] Fat Gay: !goto del
+[21:07:07] Fat Gay teleported to Delta
+[21:07:22] Fat Gay was killed by trigger_hurt
+[21:07:27] Client "MIRSH7850" connected.
+[21:07:35] Client "Bkiller" connected.
+[21:08:07] Client "GamerBoyPro2002" spawned in server <STEAM_0:0:11148223> (took 113 seconds).
+[21:08:21] Client "Skyhack" connected.
+[21:09:06] Client "ArkStar" spawned in server <STEAM_0:1:77985268> (took 153 seconds).
+[21:09:10] Client "TrainEniginethatcould" connected.
+[21:09:18] Delta: // oh boy
+[21:09:41] Client "xwolfian" connected.
+[21:10:14] Client "Hawkeren" spawned in server <STEAM_0:0:74489925> (took 217 seconds).
+[21:10:37] Client "MIRSH7850" spawned in server <STEAM_0:1:100943626> (took 190 seconds).
+[21:10:59] Delta: // Oh wow
+[21:11:37] Hawkeren<STEAM_0:0:74489925> spawned model models/props_borealis/bluebarrel001.mdl
+[21:11:43] Client "Bkiller" spawned in server <STEAM_0:1:74171516> (took 248 seconds).
+[21:11:46] Hawkeren<STEAM_0:0:74489925> spawned model models/props_borealis/bluebarrel001.mdl
+[21:11:53] ArkStar<STEAM_0:1:77985268> spawned model models/props_borealis/bluebarrel001.mdl
+[21:12:11] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/shopping_cart.mdl
+[21:12:29] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_interiors/bathtub01a.mdl
+[21:12:37] Bkiller<STEAM_0:1:74171516> spawned model models/props_c17/furnituredresser001a.mdl
+[21:12:40] Bkiller<STEAM_0:1:74171516> spawned model models/props_c17/furnituredresser001a.mdl
+[21:12:40] Client "Skyhack" spawned in server <STEAM_0:0:47002837> (took 259 seconds).
+[21:12:51] Bkiller<STEAM_0:1:74171516> spawned model models/props_interiors/pot02a.mdl
+[21:13:02] Bkiller<STEAM_0:1:74171516> spawned model models/props_junk/plasticbucket001a.mdl
+[21:13:05] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_junk/popcan01a.mdl
+[21:13:17] Client "Trooper012" spawned in server <STEAM_0:0:70047254> (took 389 seconds).
+[21:13:32] Bkiller<STEAM_0:1:74171516> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+[21:13:34] MIRSH7850<STEAM_0:1:100943626> spawned model models/hunter/blocks/cube2x2x2.mdl
+[21:14:04] Dropped "GamerBoyPro2002" from server<STEAM_0:0:11148223>
+[21:14:23] Skyhack<STEAM_0:0:47002837> spawned model models/props_c17/concrete_barrier001a.mdl
+[21:14:23] Trooper012<STEAM_0:0:70047254> spawned model models/props_c17/furniturebathtub001a.mdl
+[21:14:32] MIRSH7850<STEAM_0:1:100943626> spawned model models/hunter/blocks/cube025x025x025.mdl
+[21:14:48] MIRSH7850<STEAM_0:1:100943626> spawned model models/hunter/plates/plate5x6.mdl
+[21:14:52] Client "GamerBoyPro2002" connected.
+[21:14:55] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/bus.mdl
+[21:14:57] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:15:11] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:15:12] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:15:14] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:15:15] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:15:17] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:15:35] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_combine/breenglobe.mdl
+[21:15:41] Bkiller<STEAM_0:1:74171516> spawned model models/props/cs_assault/trainstationsign.mdl
+[21:15:55] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/gravestone_statue001a.mdl
+[21:16:00] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/fence03a.mdl
+[21:16:03] Client "Wolves Mercy" connected.
+[21:16:08] Client "Che Cazzo" connected.
+[21:16:19] ArkStar<STEAM_0:1:77985268> spawned model models/props_borealis/bluebarrel001.mdl
+[21:16:20] Trooper012 killed Bkiller using player
+[21:16:26] Client "Buttered Biscuit" connected.
+[21:16:36] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[21:16:36] Trooper012 killed ellis3246 using player
+[21:16:47] Trooper012 killed MIRSH7850 using player
+[21:16:50] Trooper012: He's Dead
+[21:16:52] Client "GamerBoyPro2002" spawned in server <STEAM_0:0:11148223> (took 120 seconds).
+[21:16:54] Client "Wolves Mercy" spawned in server <STEAM_0:0:86025114> (took 51 seconds).
+[21:16:59] ellis3246: /me hides in the fun bus
+[21:17:00] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/fence02a.mdl
+[21:17:05] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/fence02a.mdl
+[21:17:06] Bkiller<STEAM_0:1:74171516> spawned model models/hunter/blocks/cube6x6x6.mdl
+[21:17:08] Bkiller<STEAM_0:1:74171516> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:17:09] Trooper012 killed GamerBoyPro2002 using player
+[21:17:13] Skyhack suicided!
+[21:17:13] Skyhack killed Hawkeren using env_explosion
+[21:17:14] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_combine/combine_barricade_short02a.mdl
+[21:17:21] Hawkeren suicided!
+[21:17:21] Hawkeren killed Skyhack using env_explosion
+[21:17:27] Skyhack suicided!
+[21:17:30] Trooper012 killed Bkiller using player
+[21:17:38] Trooper012 killed Security Soal using player
+[21:17:38] Skyhack suicided!
+[21:17:41] Fat Gay: /ooc HOLY SHIT
+[21:17:46] Skyhack suicided!
+[21:17:48] Delta: // XD
+[21:17:51] Fat Gay: /ooc I go afk for one game of fortnite
+[21:17:54] Fat Gay: /ooc and
+[21:17:54] Skyhack suicided!
+[21:17:54] Skyhack killed Fat Gay using env_explosion
+[21:18:02] Trooper012 killed Bkiller using player
+[21:18:03] Fat Gay: /ooc I come back to like, 15 ppl
+[21:18:03] Client "Topher III" connected.
+[21:18:06] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/furniturecouch001a.mdl
+[21:18:09] Fat Gay: /ooc 11, to be exact
+[21:18:16] Security Soal: /pm Fa Whats goingon?
+[21:18:22] (TEAM) Fat Gay: /pm soal idk
+[21:18:25] Security Soal: /pm Fat Its going crazy.
+[21:18:33] Bkiller<STEAM_0:1:74171516> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:18:36] Bkiller<STEAM_0:1:74171516> spawned model models/hunter/blocks/cube2x8x1.mdl
+[21:18:37] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/ventura_open.mdl
+[21:18:39] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_c17/shelfunit01a.mdl
+[21:18:41] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar_open.mdl
+[21:18:50] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_c17/shelfunit01a.mdl
+[21:18:53] Client "TrainEniginethatcould" connected.
+[21:18:54] Security Soal: /pm Fat Mind if I go security?
+[21:18:59] Delta killed Trooper012 using crossbow_bolt
+[21:19:01] Fat Gay: /ooc im gonna do some testing on some SCP's ;))))
+[21:19:02] Trooper012: He's Dead
+[21:19:05] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/gate_door02a.mdl
+[21:19:16] Fat Gay: /ooc
+[21:19:23] Fat Gay: /ooc oh, someone already let them loose
+[21:19:29] Delta: // :)
+[21:19:30] Bkiller killed MIRSH7850 using weapon_sillyzombieclaw_v2
+[21:19:34] Hawkeren killed ArkStar using weapon_sillyzombieclaw_v2
+[21:19:35] Security Soal: /PM fAT Who visitor spawn is insanity.
+[21:19:43] Fat Gay: /ooc im gonna clean up the map since it seems the meltdown mas already here and gone
+[21:19:46] Delta: // XD
+[21:19:50] Delta: // <Maybe me
+[21:19:50] Fat Gay: /ooc you have 60 seconds to get off the tram
+[21:19:56] Bkiller killed GamerBoyPro2002 using weapon_sillyzombieclaw_v2
+[21:19:58] Dropped "GamerBoyPro2002" from server<STEAM_0:0:11148223>
+[21:20:01] Bkiller killed MIRSH7850 using weapon_sillyzombieclaw_v2
+[21:20:05] Skyhack<STEAM_0:0:47002837> spawned model models/hunter/blocks/cube8x8x8.mdl
+[21:20:07] Security Soal: /pm Fat Do that. And watchout for the spawn. Im going security to TRY and bring order to this.
+[21:20:08] Delta: // Ill let my creations have a blast
+[21:20:15] Dropped "Hawkeren" from server<STEAM_0:0:74489925>
+[21:20:20] ArkStar<STEAM_0:1:77985268> spawned model models/props_c17/furniturebed001a.mdl
+[21:20:22] Bkiller killed MIRSH7850 using weapon_sillyzombieclaw_v2
+[21:20:23] Trooper012 killed ArkStar using weapon_sillyzombieclaw_v2
+[21:20:27] ArkStar<STEAM_0:1:77985268> spawned model models/props_borealis/bluebarrel001.mdl
+[21:20:46] Client "TrainEniginethatcould" spawned in server <STEAM_0:1:242266139> (took 113 seconds).
+[21:20:47] ellis3246: /job zomb sheriff xd
+[21:21:16] Trooper012 killed ArkStar using weapon_sillyzombieclaw_v2
+[21:21:20] ellis3246: // mony.wav
+[21:21:23] Dropped "Bkiller" from server<STEAM_0:1:74171516>
+[21:21:24] Dropped "ArkStar" from server<STEAM_0:1:77985268>
+[21:21:31] MIRSH7850 was killed by trigger_hurt
+[21:21:43] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar_open.mdl
+[21:21:45] Trooper012 killed TrainEniginethatcould using weapon_sillyzombieclaw_v2
+[21:21:46] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar_open.mdl
+[21:21:50] Dropped "Skyhack" from server<STEAM_0:0:47002837>
+[21:22:22] Trooper012 killed MIRSH7850 using weapon_sillyzombieclaw_v2
+[21:22:28] Trooper012: He's Dead
+[21:22:37] Fat Gay: !spectate mir
+[21:22:52] Fat Gay: !spectate tra
+[21:22:53] Trooper012: He's Dead
+[21:22:59] Delta killed MIRSH7850 using rpg_missile
+[21:23:16] Client "Buttered Biscuit" spawned in server <STEAM_0:1:196740445> (took 410 seconds).
+[21:23:17] Security Soal killed Trooper012 using weapon_sillyzombieclaw_v2
+[21:23:33] Fat Gay: /ooc join the discord bois
+[21:24:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:52] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:53] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:54] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:55] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:56] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:57] MIRSH7850 was killed by trigger_hurt
+[21:24:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:57] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:58] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:24:59] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:00] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:01] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:02] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:03] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:03] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:03] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:03] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:03] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:03] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:04] Fat Gay<STEAM_0:1:218173703> spawned sent item_suit
+[21:25:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:07] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:08] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:09] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:10] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:11] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:12] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:13] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:14] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:15] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:16] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:17] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:18] Fat Gay<STEAM_0:1:218173703> spawned sent item_healthkit
+[21:25:20] TrainEniginethatcould: i love you
+[21:25:23] Fat Gay: !delta 10000
+[21:25:23] ellis3246: // funy moments xdxdxd wav
+[21:25:31] Fat Gay: !hp delta 10000
+[21:25:31] Fat Gay set the hp for Delta to 10000
+[21:26:03] TrainEniginethatcould was killed by trigger_hurt
+[21:26:14] Delta: // SHut the fuck up
+[21:26:15] (TEAM) Delta: // Oh
+[21:26:18] Delta: // oh
+[21:26:21] ellis3246: // how dare you have sex fuck in the console
+[21:26:42] ellis3246: // thats pretty gay
+[21:26:55] Security Soal was killed by trigger_hurt
+[21:27:15] MIRSH7850 was killed by trigger_hurt
+[21:27:44] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_combine/breenchair.mdl
+[21:28:01] Buttered Biscuit: /me salutes
+[21:28:10] Buttered Biscuit: // i dont know what im doing
+[21:28:15] ellis3246: // cool
+[21:28:15] Delta: // Good
+[21:28:18] Security Soal: // Surviving.
+[21:28:22] Delta: // Let the confusion run rampant
+[21:28:41] Dropped "TrainEniginethatcould" from server<STEAM_0:1:242266139>
+[21:28:43] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_combine/breendesk.mdl
+[21:29:16] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/patrolcar_open.mdl
+[21:29:24] Security Soal: /pm Fa This guy has a...Desk?
+[21:29:29] Delta killed ellis3246 using rpg_missile
+[21:29:33] Delta: // AHAHAHA}
+[21:29:34] Buttered Biscuit: // wat
+[21:29:35] ellis3246: // YOU BAHFIOHADGBASDFJSFJDFBGGIGUIHUIASDFHIASHGAUYTSFUAS
+[21:29:43] MIRSH7850<STEAM_0:1:100943626> spawned model models/props_combine/breendesk.mdl
+[21:29:43] Delta: // WHO PRESSED THE ROCKET
+[21:29:52] ellis3246: // gay lol
+[21:29:53] Buttered Biscuit: // i ont know!!!
+[21:30:04] Buttered Biscuit: where do we go?!
+[21:30:20] MIRSH7850 was killed by trigger_hurt
+[21:30:23] Trooper012: He's Dead
+[21:31:11] Delta<STEAM_0:1:43675420> spawned model models/props_c17/fence02a.mdl
+[21:31:15] MIRSH7850 was killed by trigger_hurt
+[21:31:31] ellis3246: /job AAAAAAAAAAAAAAA mom
+[21:31:39] Buttered Biscuit: // why?!
+[21:31:42] Buttered Biscuit: y
+[21:31:52] Fat Gay: !bring *
+[21:31:52] Fat Gay brought Buttered Biscuit,Delta,MIRSH7850,Security Soal,Trooper012,ellis3246
+[21:32:26] Security Soal: // I was smert!
+[21:32:35] Delta killed ellis3246 using rpg_missile
+[21:32:44] ellis3246: // maaan your gay
+[21:33:06] Dropped "Trooper012" from server<STEAM_0:0:70047254>
+[21:33:10] MIRSH7850 killed Security Soal using player
+[21:33:11] Security Soal: // Welcome to sand land! I survived the infection of spaceship!
+[21:33:22] ellis3246: // ok cool
+[21:33:24] Security Soal: // And had a freeman heartattack
+[21:33:34] Security Soal: // Who will now die.
+[21:34:09] (TEAM) Fat Gay: !BRING DEL
+[21:34:09] Fat Gay brought Delta
+[21:34:14] Fat Gay: !bring bis
+[21:34:14] Fat Gay brought Buttered Biscuit
+[21:34:25] ellis3246: /job small little boy
+[21:34:44] Delta killed MIRSH7850 using rpg_missile
+[21:35:00] ellis3246: /job I CLOSE THE CURTAINNNNNN
+[21:35:50] Security Soal: // Time to invade!
+[21:35:51] Fat Gay: !bring *
+[21:35:51] Fat Gay brought Buttered Biscuit,Delta,MIRSH7850,Security Soal,ellis3246
+[21:36:00] Security Soal killed MIRSH7850 using player
+[21:36:59] Security Soal: // Screw this.
+[21:37:32] Fat Gay: !bring del
+[21:37:32] Fat Gay brought Delta
+[21:37:41] MIRSH7850 killed Buttered Biscuit using player
+[21:37:45] MIRSH7850 killed Fat Gay using player
+[21:37:49] Fat Gay: !jailtp mir
+[21:37:49] Fat Gay teleported and jailed MIRSH7850
+[21:37:59] Security Soal: /pm Fat Aww.I was gonna hunt him!
+[21:38:25] (Console) kicked MIRSH7850 (Due to the reports of players, you have been kicked by the Opifex Network Discord Moderation Bot.)
+[21:38:25] Dropped "MIRSH7850" from server<STEAM_0:1:100943626>
+[21:38:27] ellis3246<STEAM_0:0:170430038> spawned model models/rena_sh2/vehicle/mustang.mdl
+[21:38:34] Delta: // What an ass XD
+[21:38:46] Client "MIRSH7850" connected.
+[21:38:48] Security Soal: // I was gonna keep killing him -_-
+[21:38:53] ellis3246: // what did he do
+[21:38:56] Delta: // Kill biscut
+[21:38:57] Fat Gay: /ooc mass RDM
+[21:39:00] Security Soal: // KoS 
+[21:39:04] Buttered Biscuit: // why me!?
+[21:39:10] Delta was killed by trigger_hurt
+[21:39:24] Client "MIRSH7850" spawned in server <STEAM_0:1:100943626> (took 38 seconds).
+[21:39:35] Security Soal: // Let the games begin Buttered Biscuit...
+[21:39:42] Security Soal: // LET IT BEGIN!
+[21:39:52] MIRSH7850 killed Buttered Biscuit using player
+[21:39:58] Security Soal: // And the bitch is back to it.
+[21:40:18] Fat Gay: !ban mir mass RDM before AND after kick
+[21:40:29] Fat Gay: !ban mir 0 mass RDM before AND after kick
+[21:40:29] Fat Gay banned MIRSH7850 permanently (mass RDM before AND after kick)
+[21:40:29] Dropped "MIRSH7850" from server<STEAM_0:1:100943626>
+[21:40:39] Fat Gay: !menu
+[21:41:06] Fat Gay: !explode fat
+[21:41:06] Fat Gay suicided!
+[21:41:06] Fat Gay exploded Themself
+[21:41:35] Security Soal: // Im prepared to die for my cause!
+[21:41:51] Security Soal: // What that is, Idk! I didnt read the fine print!
+[21:41:54] Buttered Biscuit suicided!
+[21:41:54] Buttered Biscuit killed ellis3246 using env_explosion
+[21:42:04] Security Soal: // How did you get that?
+[21:42:14] Buttered Biscuit killed ellis3246 using env_explosion
+[21:42:43] Fat Gay: !slay bis
+[21:42:47] Buttered Biscuit killed Delta using env_explosion
+[21:42:54] Delta: !slay
+[21:42:58] Fat Gay: !hp bis 0
+[21:42:59] Buttered Biscuit killed Delta using env_explosion
+[21:43:04] Fat Gay: !hp bis 1
+[21:43:04] Fat Gay set the hp for Buttered Biscuit to 1
+[21:43:10] Buttered Biscuit killed ellis3246 using env_explosion
+[21:43:25] Buttered Biscuit killed ellis3246 using env_explosion
+[21:43:29] Fat Gay: /ooc see yall later, join the discord if you want
+[21:43:37] Fat Gay: /ooc everyone vs turbobird
+[21:43:42] Fat Gay: /ooc see ya
+[21:43:43] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[21:43:47] Buttered Biscuit killed ellis3246 using env_explosion
+[21:44:10] ellis3246: /dropmoney 3000
+[21:45:42] Dropped "Security Soal" from server<STEAM_0:0:86025114>
+[21:47:35] Delta: help
+[21:47:44] Delta: // IM STUCK
+[21:47:55] Delta<STEAM_0:1:43675420> spawned model models/props_borealis/bluebarrel001.mdl
+[21:48:03] Delta: !menu
+[21:48:13] Delta voted for cs_militia (1/3)
+[21:48:18] Delta: // omg do it
+[21:48:20] Delta: // XD
+[21:48:26] Buttered Biscuit: !votemap 5
+[21:48:26] Buttered Biscuit voted for cs_militia (2/3)
+[21:48:34] Buttered Biscuit: /me salutes
+[21:48:38] Buttered Biscuit: ellis is afk
+[21:48:40] Dropped "Delta" from server<STEAM_0:1:43675420>
+[21:48:52] Dropped "Buttered Biscuit" from server<STEAM_0:1:196740445>
+[21:48:52] Client "BionicTwin" connected.
+[21:49:40] Dropped "ellis3246" from server<STEAM_0:0:170430038>
+[21:53:28] Client "BionicTwin" spawned in server <STEAM_0:0:123818240> (took 276 seconds).
+[21:58:56] Dropped "BionicTwin" from server<STEAM_0:0:123818240>
+[22:22:11] Client "Fat Gay" connected.
+[22:23:07] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+[22:24:10] Fat Gay: !menu
+[22:28:34] Server is shutting down/changing levels.
+
+
+
+[22:29:21] New map: rp_powerplant_v2b2
+[22:34:17] Client "Fat Gay" connected.
+[22:34:49] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 32 seconds).
+
+
+
+[22:40:16] New map: rp_powerplant_v2b2
+[22:40:38] Client "Fat Gay" connected.
+[22:41:06] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 28 seconds).
+[22:41:15] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:42:11] Client "Fat Gay" connected.
+[22:42:41] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+[22:43:56] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:43:57] Client "Fat Gay" connected.
+[22:44:21] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 24 seconds).
+[22:44:56] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[22:46:36] Client "Fat Gay" connected.
+[22:47:05] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+
+
+
+[22:50:01] New map: rp_powerplant_v2b2
+[22:50:05] Client "Fat Gay" connected.
+[22:50:34] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 29 seconds).
+
+
+
+[22:55:35] New map: rp_powerplant_v2b2
+[22:55:57] Client "Fat Gay" connected.
+[22:56:23] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 26 seconds).
+[22:56:43] Fat Gay: /adver test
+[22:56:47] Fat Gay: /advert test
+[22:56:53] Fat Gay: /advert test
+
+
+
+[22:59:06] New map: rp_powerplant_v2b2
+[22:59:28] Client "Fat Gay" connected.
+[22:59:53] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 25 seconds).
+[23:00:09] Fat Gay: /advert test
+[23:00:38] Fat Gay: /comms test
+[23:00:42] Fat Gay: /radio test
+
+
+
+[23:04:23] New map: rp_powerplant_v2b2
+[23:04:34] Client "Fat Gay" connected.
+[23:04:59] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 25 seconds).
+[23:05:14] Fat Gay: /advert test
+[23:05:21] Fat Gay: /radio test
+[23:05:32] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+[23:09:00] Client "Fat Gay" connected.
+[23:09:30] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 30 seconds).
+
+
+
+[23:15:47] New map: rp_powerplant_v2b2
+[23:16:09] Client "Fat Gay" connected.
+[23:16:33] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 24 seconds).
+
+
+
+[23:22:19] New map: rp_powerplant_v2b2
+[23:22:40] Client "Fat Gay" connected.
+[23:23:05] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 25 seconds).
+
+
+
+[23:25:57] New map: rp_powerplant_v2b2
+[23:26:17] Client "Fat Gay" connected.
+[23:26:42] Client "Fat Gay" spawned in server <STEAM_0:1:218173703> (took 25 seconds).
+[23:28:41] Dropped "Fat Gay" from server<STEAM_0:1:218173703>
+<Logging continued in "data/ulx_logs/04-13-18.txt">

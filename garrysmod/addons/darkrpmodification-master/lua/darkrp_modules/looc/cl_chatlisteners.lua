@@ -1,0 +1,2 @@
+   DarkRP.addChatReceiver("/looc", DarkRP.getPhrase("speak_in_looc"), function(ply) return LocalPlayer():GetPos():Distance(ply:GetPos()) < 550 end)
+   DarkRP.addChatReceiver("//.", DarkRP.getPhrase("speak_in_looc"), function(ply) return LocalPlayer():GetPos():Distance(ply:GetPos()) < 550 end)

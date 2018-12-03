@@ -1,0 +1,2 @@
+Sun Oct 21 01:54:03 2018 - Nick: [NWA]Dank Memes Reho | IP: 65.99.27.196 | SteamID: STEAM_0:1:117807747.txt | Cheating Infraction: Invalid source: require@addons/swiftac/lua/includes/init.lua;
+

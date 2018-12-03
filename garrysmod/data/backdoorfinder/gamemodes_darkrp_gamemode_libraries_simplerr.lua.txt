@@ -1,0 +1,1000 @@
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________
+    local res = {xpcall(f, errorHandler, ...)} - severe
+
+___________

@@ -1,0 +1,184 @@
+Wed Oct 10 01:23:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Wed Oct 10 01:23:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Wed Oct 10 01:24:12 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 10 01:24:12 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:24:31 2018	Leonardthehero (STEAM_0:1:58933920) has joined the game
+Wed Oct 10 01:24:31 2018	Leonardthehero (STEAM_0:1:58933920) spawned
+Wed Oct 10 01:24:31 2018	Zerrakoth (STEAM_0:1:44006700) has joined the game
+Wed Oct 10 01:24:31 2018	Zerrakoth (STEAM_0:1:44006700) spawned
+Wed Oct 10 01:24:35 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Wed Oct 10 01:24:35 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:24:53 2018	Toaster (STEAM_0:0:111119859) has joined the game
+Wed Oct 10 01:24:53 2018	Toaster (STEAM_0:0:111119859) spawned
+Wed Oct 10 01:25:23 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:25:57 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:26:17 2018	Toaster (STEAM_0:0:111119859) spawned
+Wed Oct 10 01:26:38 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:26:45 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:27:01 2018	Leonardthehero (STEAM_0:1:58933920) spawned
+Wed Oct 10 01:27:05 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:27:08 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:27:19 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): @ can you tp to turtle
+Wed Oct 10 01:27:24 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:27:32 2018	Leonardthehero (STEAM_0:1:58933920): hello
+Wed Oct 10 01:28:35 2018	Leonardthehero (STEAM_0:1:58933920): woo
+Wed Oct 10 01:28:39 2018	Leonardthehero (STEAM_0:1:58933920): set direct room
+Wed Oct 10 01:28:54 2018	Leonardthehero (STEAM_0:1:58933920): ah
+Wed Oct 10 01:29:03 2018	Leonardthehero (STEAM_0:1:58933920): btw alt+e on the chairs to sit
+Wed Oct 10 01:30:29 2018	Leonardthehero (STEAM_0:1:58933920): aaaah
+Wed Oct 10 01:30:29 2018	Leonardthehero was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 10 01:30:33 2018	Leonardthehero (STEAM_0:1:58933920) spawned
+Wed Oct 10 01:30:48 2018	Zerrakoth (STEAM_0:1:44006700): /OOC gtg guys doin some nice homework for college crammin it into tonight
+Wed Oct 10 01:31:09 2018	Zerrakoth (STEAM_0:1:44006700) disconnected
+Wed Oct 10 01:31:18 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:31:28 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:34:53 2018	Leonardthehero (STEAM_0:1:58933920): hello
+Wed Oct 10 01:35:22 2018	Leonardthehero (STEAM_0:1:58933920): yep
+Wed Oct 10 01:36:00 2018	Leonardthehero (STEAM_0:1:58933920): I am the janitor
+Wed Oct 10 01:36:05 2018	Leonardthehero (STEAM_0:1:58933920): just making sure this place is clean
+Wed Oct 10 01:36:22 2018	Leonardthehero (STEAM_0:1:58933920): oh shit
+Wed Oct 10 01:36:50 2018	Tello (STEAM_0:0:74320577) has joined the game
+Wed Oct 10 01:36:50 2018	Tello (STEAM_0:0:74320577) spawned
+Wed Oct 10 01:37:35 2018	Tello (STEAM_0:0:74320577): // its
+Wed Oct 10 01:37:38 2018	Tello (STEAM_0:0:74320577): // hi
+Wed Oct 10 01:37:50 2018	Leonardthehero (STEAM_0:1:58933920): to all janitorial staff: do not replace the recycling bin in the admin room. I think he likes the smell
+Wed Oct 10 01:37:57 2018	Tello (STEAM_0:0:74320577) spawned
+Wed Oct 10 01:38:03 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:38:05 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:38:18 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:38:35 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:38:45 2018	fallenturtle (STEAM_0:1:62867403): help
+Wed Oct 10 01:38:55 2018	fallenturtle (STEAM_0:1:62867403): use your pocket key on the computer
+Wed Oct 10 01:39:06 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:39:20 2018	fallenturtle (STEAM_0:1:62867403): shoot it
+Wed Oct 10 01:39:55 2018	fallenturtle (STEAM_0:1:62867403): spawn a chair
+Wed Oct 10 01:40:26 2018	fallenturtle (STEAM_0:1:62867403): spawn the prop one
+Wed Oct 10 01:40:29 2018	fallenturtle (STEAM_0:1:62867403): and push me
+Wed Oct 10 01:40:44 2018	fallenturtle (STEAM_0:1:62867403): let me sit
+Wed Oct 10 01:40:54 2018	fallenturtle (STEAM_0:1:62867403): closer
+Wed Oct 10 01:41:02 2018	fallenturtle (STEAM_0:1:62867403): welp
+Wed Oct 10 01:41:09 2018	fallenturtle (STEAM_0:1:62867403): @im stuck in a pc
+Wed Oct 10 01:41:18 2018	fallenturtle (STEAM_0:1:62867403): use the intercomms
+Wed Oct 10 01:41:23 2018	fallenturtle (STEAM_0:1:62867403): and tell them im stuck
+Wed Oct 10 01:41:25 2018	fallenturtle (STEAM_0:1:62867403): in a pc
+Wed Oct 10 01:41:33 2018	fallenturtle (STEAM_0:1:62867403): nope
+Wed Oct 10 01:41:40 2018	fallenturtle (STEAM_0:1:62867403): maby
+Wed Oct 10 01:41:58 2018	Ragpan (STEAM_0:1:155698467) has joined the game
+Wed Oct 10 01:41:58 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:42:04 2018	fallenturtle (STEAM_0:1:62867403): time to wait
+Wed Oct 10 01:43:11 2018	fallenturtle was killed by Tello with a cw_deagle
+Wed Oct 10 01:43:30 2018	Tello was killed by [W-G] Chicken 136 with a cw_deagle
+Wed Oct 10 01:43:36 2018	Tello (STEAM_0:0:74320577) spawned
+Wed Oct 10 01:43:42 2018	Tello (STEAM_0:0:74320577): // why
+Wed Oct 10 01:43:51 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:44:03 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /ooc i told you to help him not to fucking kill him
+Wed Oct 10 01:44:12 2018	Tello (STEAM_0:0:74320577): // well the plant worked told me to
+Wed Oct 10 01:44:26 2018	fallenturtle (STEAM_0:1:62867403) disconnected
+Wed Oct 10 01:45:37 2018	Tello (STEAM_0:0:74320577) spawned
+Wed Oct 10 01:45:39 2018	Opi fallenturtle (STEAM_0:1:62867403) has joined the game
+Wed Oct 10 01:45:39 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:46:53 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 01:46:55 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:47:27 2018	Ragpan was killed by [W-G] Chicken 136 with a cw_deagle
+Wed Oct 10 01:47:34 2018	Ragpan (STEAM_0:1:155698467): /ooc ow
+Wed Oct 10 01:47:34 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:47:48 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 01:47:53 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:48:14 2018	fallenturtle was killed by Tello with a cw_scarh
+Wed Oct 10 01:48:15 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:48:22 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:48:45 2018	[W-G] Chicken 136 was killed by Tello with a cw_scarh
+Wed Oct 10 01:48:57 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:49:18 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:50:26 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 01:50:27 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:50:36 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:51:26 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:52:27 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:52:38 2018	[W-G] Chicken 136 was killed by Tello with a cw_mr96
+Wed Oct 10 01:52:40 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:52:50 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:53:11 2018	Toaster was killed by Tello with a cw_scarh
+Wed Oct 10 01:53:13 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:53:16 2018	Toaster (STEAM_0:0:111119859) spawned
+Wed Oct 10 01:53:25 2018	Ragpan was killed by Tello with a cw_mr96
+Wed Oct 10 01:53:53 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:54:04 2018	Leonardthehero (STEAM_0:1:58933920): pizza
+Wed Oct 10 01:54:16 2018	Leonardthehero (STEAM_0:1:58933920): no
+Wed Oct 10 01:54:17 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 01:54:20 2018	Leonardthehero (STEAM_0:1:58933920): I am a lowly janitor
+Wed Oct 10 01:54:22 2018	Leonardthehero (STEAM_0:1:58933920): oh
+Wed Oct 10 01:55:53 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:57:31 2018	Leonardthehero (STEAM_0:1:58933920): 
+Wed Oct 10 01:57:54 2018	fallenturtle was killed by Tello with a cw_scarh
+Wed Oct 10 01:58:01 2018	Tello was killed by [W-G] Chicken 136 with a cw_m3super90
+Wed Oct 10 01:58:04 2018	Tello (STEAM_0:0:74320577) spawned
+Wed Oct 10 01:58:05 2018	fallenturtle (STEAM_0:1:62867403) spawned
+Wed Oct 10 01:58:17 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) has joined the game
+Wed Oct 10 01:58:17 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 01:58:40 2018	Tello (STEAM_0:0:74320577) disconnected
+Wed Oct 10 01:58:55 2018	fallenturtle was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 10 01:58:56 2018	fallenturtle (STEAM_0:1:62867403) disconnected
+Wed Oct 10 01:59:59 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /drop
+Wed Oct 10 02:00:01 2018	Leonardthehero (STEAM_0:1:58933920) disconnected
+Wed Oct 10 02:00:57 2018	Toaster (STEAM_0:0:111119859) disconnected
+Wed Oct 10 02:01:05 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // DOO DOO. CORE TEMP IS OVER 9000 CELCIUS EVACUATE IMMEDIATLEY. *1000 degrees kelvin starts playing* 
+Wed Oct 10 02:01:10 2018	[W-G] Chicken 136 (STEAM_0:1:167614500) spawned
+Wed Oct 10 02:01:21 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // I don't get it celcius is more than kelvin
+Wed Oct 10 02:01:25 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // right/
+Wed Oct 10 02:01:54 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // 3240 degrees k normal my ass
+Wed Oct 10 02:02:22 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:03:28 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // fat gay
+Wed Oct 10 02:03:44 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // fat gay?
+Wed Oct 10 02:04:22 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 02:04:46 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // 3650 kelvin
+Wed Oct 10 02:04:54 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // got the escape rocket ready
+Wed Oct 10 02:05:55 2018	Ragpan (STEAM_0:1:155698467): /advert yes sir
+Wed Oct 10 02:05:59 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // get the escape rocket now
+Wed Oct 10 02:06:05 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // run for your life
+Wed Oct 10 02:06:57 2018	Ragpan (STEAM_0:1:155698467): /advert I'm at a rocket
+Wed Oct 10 02:07:31 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660) spawned
+Wed Oct 10 02:07:48 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // don't worry I just want to escape
+Wed Oct 10 02:07:50 2018	Ragpan (STEAM_0:1:155698467): wait
+Wed Oct 10 02:07:58 2018	Ragpan (STEAM_0:1:155698467): not until it's at 5000
+Wed Oct 10 02:07:58 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // I don't want a zombie apocalypse
+Wed Oct 10 02:08:01 2018	Ragpan (STEAM_0:1:155698467): then we can
+Wed Oct 10 02:08:24 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): wait
+Wed Oct 10 02:09:03 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): I have learned to control my virus
+Wed Oct 10 02:09:13 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): so I can't infect
+Wed Oct 10 02:09:29 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /y get in
+Wed Oct 10 02:09:40 2018	Ragpan (STEAM_0:1:155698467): /y yes sir
+Wed Oct 10 02:09:45 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /y come on get in here
+Wed Oct 10 02:10:01 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): actually
+Wed Oct 10 02:10:08 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): let's sit back
+Wed Oct 10 02:10:13 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): chill on the rocket
+Wed Oct 10 02:10:54 2018	Ragpan (STEAM_0:1:155698467): /y how about 4750
+Wed Oct 10 02:12:40 2018	Ragpan (STEAM_0:1:155698467): /advert Launching rocket
+Wed Oct 10 02:13:08 2018	Ragpan (STEAM_0:1:155698467): /advert Only works during meltdown
+Wed Oct 10 02:13:15 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /advert sit back. relax, and enjoy some youtube as we escape
+Wed Oct 10 02:13:25 2018	Ragpan (STEAM_0:1:155698467): media player is broken
+Wed Oct 10 02:13:50 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): in gmod right click it go to properties. click on chromium
+Wed Oct 10 02:13:53 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): let it update
+Wed Oct 10 02:14:01 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): then you can see videos
+Wed Oct 10 02:14:12 2018	Ragpan (STEAM_0:1:155698467): k
+Wed Oct 10 02:14:12 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): there's a youtube tutorial
+Wed Oct 10 02:14:36 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // search how to enable chromium for gmod
+Wed Oct 10 02:14:41 2018	Ragpan (STEAM_0:1:155698467): /advert Launching rocket
+Wed Oct 10 02:14:46 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /advert {FPP} All staff please Head to the escape Rocket, the core is going to explode
+Wed Oct 10 02:15:31 2018	Ragpan (STEAM_0:1:155698467): yes
+Wed Oct 10 02:15:33 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): /advert all SCPS and Security, and staff go to the rocket
+Wed Oct 10 02:15:42 2018	Ragpan (STEAM_0:1:155698467): about 30 seconds left
+Wed Oct 10 02:16:20 2018	Ragpan (STEAM_0:1:155698467): /advert Launching in 30 seconds
+Wed Oct 10 02:16:38 2018	Ragpan (STEAM_0:1:155698467): /advert Launching
+Wed Oct 10 02:16:49 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // when the scp-049 makes 70% of the server zombies the halo 3 flood theme should play
+Wed Oct 10 02:17:00 2018	Ragpan (STEAM_0:1:155698467): /ooc ye
+Wed Oct 10 02:17:30 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // YEAH
+Wed Oct 10 02:17:33 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // WOOOHOOO
+Wed Oct 10 02:17:41 2018	Ragpan (STEAM_0:1:155698467): /advert Space, the final fronteir
+Wed Oct 10 02:17:50 2018	Ragpan (STEAM_0:1:155698467): /ooc frontier*
+Wed Oct 10 02:17:57 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // zawmbie teim
+Wed Oct 10 02:18:32 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // kablooie
+Wed Oct 10 02:18:39 2018	[W-G] Chicken 136 (STEAM_0:1:167614500): /ooc WTF IS GOING ON XDDDD
+Wed Oct 10 02:18:49 2018	▼GEWPInspectorBonk Garbage.TF (STEAM_0:0:149011660): // KABOOOOMMM
+Wed Oct 10 02:19:00 2018	Ragpan (STEAM_0:1:155698467) spawned
+Wed Oct 10 02:19:11 2018	[Opi] Fat Gay was killed by Entity [4940][trigger_hurt] with a trigger_hurt

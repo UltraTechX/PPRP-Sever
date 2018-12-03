@@ -1,0 +1,195 @@
+Mon Aug  6 21:05:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug  6 21:05:19 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:05:45 2018	Fat Gay (STEAM_0:1:218173703): 
+Mon Aug  6 21:10:10 2018	Fat Gay (STEAM_0:1:218173703): !warns
+Mon Aug  6 21:10:24 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug  6 21:11:18 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug  6 21:11:18 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:11:42 2018	Fat Gay (STEAM_0:1:218173703): !warn fat gay
+Mon Aug  6 21:11:42 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug  6 21:16:19 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug  6 21:16:19 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:16:53 2018	Fat Gay (STEAM_0:1:218173703): !warns
+Mon Aug  6 21:20:22 2018	Fat Gay (STEAM_0:1:218173703): !warn
+Mon Aug  6 21:20:26 2018	Fat Gay (STEAM_0:1:218173703): !warn fat gay
+Mon Aug  6 21:27:23 2018	Fat Gay (STEAM_0:1:218173703): !warn fat gay
+Mon Aug  6 21:35:34 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug  6 21:36:25 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug  6 21:36:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:36:42 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug  6 21:37:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug  6 21:37:32 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:43:27 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug  6 21:44:17 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Mon Aug  6 21:44:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:45:16 2018	Fat Gay (STEAM_0:1:218173703): 
+Mon Aug  6 21:45:28 2018	Fat Gay (STEAM_0:1:218173703): 
+Mon Aug  6 21:45:36 2018	Webbchess (STEAM_0:1:432592418) has joined the game
+Mon Aug  6 21:45:36 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 21:47:03 2018	Webbchess (STEAM_0:1:432592418): oh
+Mon Aug  6 21:47:08 2018	Webbchess (STEAM_0:1:432592418): NOCLIP
+Mon Aug  6 21:47:10 2018	Webbchess (STEAM_0:1:432592418): .
+Mon Aug  6 21:48:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 21:48:29 2018	Fat Gay (STEAM_0:1:218173703): !goto we
+Mon Aug  6 21:48:57 2018	Webbchess (STEAM_0:1:432592418): hi
+Mon Aug  6 21:49:18 2018	Webbchess (STEAM_0:1:432592418): so uh
+Mon Aug  6 21:50:20 2018	Webbchess (STEAM_0:1:432592418): perfect
+Mon Aug  6 21:51:48 2018	Webbchess (STEAM_0:1:432592418): thanks
+Mon Aug  6 21:52:21 2018	Webbchess (STEAM_0:1:432592418): okay
+Mon Aug  6 21:52:40 2018	Fat Gay (STEAM_0:1:218173703): !bring web
+Mon Aug  6 21:53:21 2018	Webbchess (STEAM_0:1:432592418): sorry was afk
+Mon Aug  6 21:53:30 2018	Webbchess (STEAM_0:1:432592418): where did you go?
+Mon Aug  6 21:54:07 2018	Bot01 (BOT) has joined the game
+Mon Aug  6 21:54:07 2018	Bot01 (BOT) spawned
+Mon Aug  6 21:54:15 2018	Webbchess (STEAM_0:1:432592418): sorry
+Mon Aug  6 21:54:38 2018	Webbchess (STEAM_0:1:432592418): lel
+Mon Aug  6 21:55:04 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 21:55:34 2018	Webbchess (STEAM_0:1:432592418): so uh
+Mon Aug  6 21:55:41 2018	Webbchess (STEAM_0:1:432592418): must be a ranknig system
+Mon Aug  6 21:55:42 2018	Fat Gay (STEAM_0:1:218173703): !BRING WEB
+Mon Aug  6 21:55:49 2018	Webbchess (STEAM_0:1:432592418): because eveything is locked
+Mon Aug  6 21:55:59 2018	Webbchess (STEAM_0:1:432592418): cant do anything with the Q
+Mon Aug  6 21:56:05 2018	Webbchess (STEAM_0:1:432592418): them menu
+Mon Aug  6 21:56:12 2018	Webbchess (STEAM_0:1:432592418): i can get in it
+Mon Aug  6 21:56:19 2018	Webbchess (STEAM_0:1:432592418): only can spawn props
+Mon Aug  6 21:56:22 2018	Webbchess (STEAM_0:1:432592418): nothing else
+Mon Aug  6 21:56:25 2018	Webbchess (STEAM_0:1:432592418): idk
+Mon Aug  6 21:56:34 2018	Webbchess (STEAM_0:1:432592418): oh
+Mon Aug  6 21:56:39 2018	Webbchess (STEAM_0:1:432592418): no rankng systm?
+Mon Aug  6 21:56:44 2018	Webbchess (STEAM_0:1:432592418): system*
+Mon Aug  6 21:56:52 2018	Webbchess (STEAM_0:1:432592418): someone joined
+Mon Aug  6 21:57:02 2018	Webbchess (STEAM_0:1:432592418): ooh
+Mon Aug  6 21:57:24 2018	Webbchess (STEAM_0:1:432592418): i want to spawn a chair but i cant 
+Mon Aug  6 21:57:27 2018	Webbchess (STEAM_0:1:432592418): sadly
+Mon Aug  6 21:57:35 2018	Webbchess (STEAM_0:1:432592418): a chair to sit in
+Mon Aug  6 21:58:01 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 21:58:27 2018	Fat Gay (STEAM_0:1:218173703):  /OOC KEK
+Mon Aug  6 21:58:30 2018	Fat Gay (STEAM_0:1:218173703): /ooc kek
+Mon Aug  6 21:58:40 2018	Fat Gay (STEAM_0:1:218173703): /radio ni
+Mon Aug  6 21:58:47 2018	Fat Gay (STEAM_0:1:218173703): /broadcast n
+Mon Aug  6 22:01:00 2018	Webbchess (STEAM_0:1:432592418): THATS REALLY COOL
+Mon Aug  6 22:01:29 2018	Webbchess (STEAM_0:1:432592418): sorry friend in disc keeps messaging me
+Mon Aug  6 22:02:09 2018	Webbchess (STEAM_0:1:432592418): i honestly cant spawn anything
+Mon Aug  6 22:02:23 2018	Webbchess (STEAM_0:1:432592418): YES
+Mon Aug  6 22:04:06 2018	Webbchess (STEAM_0:1:432592418): k
+Mon Aug  6 22:04:31 2018	Webbchess (STEAM_0:1:432592418): god what the heck am i doing
+Mon Aug  6 22:05:11 2018	Webbchess (STEAM_0:1:432592418): how do you connect things..
+Mon Aug  6 22:05:13 2018	Webbchess (STEAM_0:1:432592418): AAAA
+Mon Aug  6 22:06:27 2018	Webbchess (STEAM_0:1:432592418): can 
+Mon Aug  6 22:06:46 2018	Webbchess (STEAM_0:1:432592418): can you drop the elevator door down plz
+Mon Aug  6 22:06:55 2018	Webbchess (STEAM_0:1:432592418): ty
+Mon Aug  6 22:07:22 2018	Webbchess (STEAM_0:1:432592418): can you assign roles?
+Mon Aug  6 22:07:28 2018	Webbchess (STEAM_0:1:432592418): or give admin or items
+Mon Aug  6 22:07:47 2018	Webbchess (STEAM_0:1:432592418): cool
+Mon Aug  6 22:07:55 2018	Webbchess (STEAM_0:1:432592418): nice logo btw
+Mon Aug  6 22:08:18 2018	Webbchess (STEAM_0:1:432592418): i got a discord group
+Mon Aug  6 22:08:19 2018	Fat Gay (STEAM_0:1:218173703): /ooc https://discord.gg/wtPZXj
+Mon Aug  6 22:08:25 2018	Webbchess (STEAM_0:1:432592418): yea
+Mon Aug  6 22:08:28 2018	Webbchess (STEAM_0:1:432592418): i might
+Mon Aug  6 22:08:36 2018	Webbchess (STEAM_0:1:432592418): been working on it allmost all day
+Mon Aug  6 22:08:49 2018	Webbchess (STEAM_0:1:432592418): DUDE
+Mon Aug  6 22:09:01 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Mon Aug  6 22:09:03 2018	Webbchess (STEAM_0:1:432592418): did you drop this?
+Mon Aug  6 22:09:10 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 22:09:11 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Mon Aug  6 22:09:19 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Mon Aug  6 22:09:23 2018	Webbchess (STEAM_0:1:432592418): its fine
+Mon Aug  6 22:10:13 2018	Webbchess (STEAM_0:1:432592418): btw
+Mon Aug  6 22:10:17 2018	Webbchess (STEAM_0:1:432592418): can you add
+Mon Aug  6 22:10:19 2018	Webbchess (STEAM_0:1:432592418): like
+Mon Aug  6 22:10:24 2018	Webbchess (STEAM_0:1:432592418): give people stuff
+Mon Aug  6 22:10:29 2018	Webbchess (STEAM_0:1:432592418): and permissions
+Mon Aug  6 22:10:34 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 22:10:46 2018	Webbchess (STEAM_0:1:432592418): the thing i want rn
+Mon Aug  6 22:10:48 2018	Webbchess (STEAM_0:1:432592418): is noclip
+Mon Aug  6 22:10:49 2018	Webbchess (STEAM_0:1:432592418): but
+Mon Aug  6 22:10:57 2018	Webbchess (STEAM_0:1:432592418): oh
+Mon Aug  6 22:11:07 2018	Webbchess (STEAM_0:1:432592418): aw
+Mon Aug  6 22:11:27 2018	Webbchess (STEAM_0:1:432592418): how do you apply
+Mon Aug  6 22:11:56 2018	Webbchess (STEAM_0:1:432592418): okay
+Mon Aug  6 22:11:58 2018	Webbchess (STEAM_0:1:432592418): oops
+Mon Aug  6 22:12:00 2018	Webbchess (STEAM_0:1:432592418): srry
+Mon Aug  6 22:12:02 2018	Fat Gay was killed by Himself with a suicide trick
+Mon Aug  6 22:12:02 2018	Webbchess was killed by Fat Gay with a env_explosion
+Mon Aug  6 22:12:02 2018	Webbchess (STEAM_0:1:432592418): OWT
+Mon Aug  6 22:12:05 2018	Webbchess (STEAM_0:1:432592418): LOL
+Mon Aug  6 22:12:07 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:12:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 22:12:10 2018	Fat Gay (STEAM_0:1:218173703): !goto web
+Mon Aug  6 22:12:13 2018	Webbchess (STEAM_0:1:432592418): rip
+Mon Aug  6 22:12:21 2018	Webbchess (STEAM_0:1:432592418): it was a misclick
+Mon Aug  6 22:12:24 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:12:25 2018	Webbchess (STEAM_0:1:432592418): but that was worth it
+Mon Aug  6 22:12:28 2018	Fat Gay (STEAM_0:1:218173703): /ooc xd
+Mon Aug  6 22:12:29 2018	Webbchess (STEAM_0:1:432592418): UH
+Mon Aug  6 22:12:31 2018	Fat Gay (STEAM_0:1:218173703): !bring web
+Mon Aug  6 22:12:59 2018	Webbchess (STEAM_0:1:432592418): rlly?
+Mon Aug  6 22:13:03 2018	Webbchess (STEAM_0:1:432592418): c;
+Mon Aug  6 22:13:05 2018	Webbchess (STEAM_0:1:432592418): ow
+Mon Aug  6 22:13:16 2018	Webbchess (STEAM_0:1:432592418): i got
+Mon Aug  6 22:13:22 2018	Webbchess (STEAM_0:1:432592418): the mod
+Mon Aug  6 22:13:23 2018	Webbchess (STEAM_0:1:432592418): so
+Mon Aug  6 22:13:24 2018	Webbchess (STEAM_0:1:432592418): ik
+Mon Aug  6 22:13:34 2018	Webbchess (STEAM_0:1:432592418): i got it in my game
+Mon Aug  6 22:13:45 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 22:13:54 2018	Webbchess (STEAM_0:1:432592418): aw
+Mon Aug  6 22:13:59 2018	Webbchess (STEAM_0:1:432592418): i cant do givecurrentammo
+Mon Aug  6 22:14:12 2018	Webbchess (STEAM_0:1:432592418): perfect?
+Mon Aug  6 22:14:16 2018	Webbchess (STEAM_0:1:432592418): perfect!
+Mon Aug  6 22:14:24 2018	Webbchess (STEAM_0:1:432592418): i got a idea
+Mon Aug  6 22:14:27 2018	Webbchess (STEAM_0:1:432592418): why dont we
+Mon Aug  6 22:14:32 2018	Webbchess (STEAM_0:1:432592418): make a deathmatch thing
+Mon Aug  6 22:14:34 2018	Webbchess (STEAM_0:1:432592418): where
+Mon Aug  6 22:14:38 2018	Webbchess (STEAM_0:1:432592418): these boxes
+Mon Aug  6 22:14:43 2018	Webbchess (STEAM_0:1:432592418): are placed everywhere
+Mon Aug  6 22:14:53 2018	Webbchess (STEAM_0:1:432592418): wait
+Mon Aug  6 22:14:53 2018	Webbchess was killed by Entity [1527][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Mon Aug  6 22:14:53 2018	Fat Gay was killed by Entity [1527][fas2_thrown_ammobox] with a fas2_thrown_ammobox
+Mon Aug  6 22:14:54 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:14:55 2018	Webbchess (STEAM_0:1:432592418): ow
+Mon Aug  6 22:15:01 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Mon Aug  6 22:15:04 2018	Webbchess (STEAM_0:1:432592418): us vs a army of zombies
+Mon Aug  6 22:15:06 2018	Webbchess (STEAM_0:1:432592418): c;
+Mon Aug  6 22:15:17 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 22:15:23 2018	Webbchess (STEAM_0:1:432592418): ooh
+Mon Aug  6 22:15:33 2018	Webbchess (STEAM_0:1:432592418): can i recommend a mod?
+Mon Aug  6 22:15:38 2018	Webbchess (STEAM_0:1:432592418): vj base
+Mon Aug  6 22:15:40 2018	Webbchess (STEAM_0:1:432592418): oops
+Mon Aug  6 22:15:52 2018	Webbchess (STEAM_0:1:432592418): no
+Mon Aug  6 22:16:02 2018	Webbchess (STEAM_0:1:432592418): vj base is a npc base
+Mon Aug  6 22:16:05 2018	Webbchess (STEAM_0:1:432592418): its really good
+Mon Aug  6 22:16:15 2018	Webbchess (STEAM_0:1:432592418): its got liberty prime from fallout in it
+Mon Aug  6 22:17:42 2018	Webbchess (STEAM_0:1:432592418): uh
+Mon Aug  6 22:17:46 2018	Webbchess (STEAM_0:1:432592418): what is this?
+Mon Aug  6 22:18:16 2018	Webbchess (STEAM_0:1:432592418): oh my
+Mon Aug  6 22:18:23 2018	Webbchess (STEAM_0:1:432592418): ill stop now
+Mon Aug  6 22:19:02 2018	Webbchess (STEAM_0:1:432592418): oh
+Mon Aug  6 22:19:04 2018	Webbchess (STEAM_0:1:432592418): rip
+Mon Aug  6 22:19:09 2018	Webbchess (STEAM_0:1:432592418): k
+Mon Aug  6 22:19:12 2018	Webbchess (STEAM_0:1:432592418): bye...
+Mon Aug  6 22:19:15 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Mon Aug  6 22:19:54 2018	Webbchess was killed by Himself with a suicide trick
+Mon Aug  6 22:19:56 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:20:10 2018	Webbchess was killed by Himself with a suicide trick
+Mon Aug  6 22:20:11 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:20:19 2018	Webbchess was killed by Himself with a suicide trick
+Mon Aug  6 22:20:21 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:20:31 2018	Webbchess was killed by Himself with a suicide trick
+Mon Aug  6 22:20:32 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:20:38 2018	Webbchess was killed by Himself with a suicide trick
+Mon Aug  6 22:20:41 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:20:51 2018	Webbchess was killed by Himself with a suicide trick
+Mon Aug  6 22:20:53 2018	Webbchess (STEAM_0:1:432592418) spawned
+Mon Aug  6 22:20:57 2018	Webbchess (STEAM_0:1:432592418) disconnected
+Mon Aug  6 22:20:57 2018	Bot01 (BOT) disconnected
+Mon Aug  6 23:01:15 2018	Wolves Mercy (STEAM_0:0:86025114) has joined the game
+Mon Aug  6 23:01:15 2018	Security Soal (STEAM_0:0:86025114) spawned
+Mon Aug  6 23:04:10 2018	Security Soal (STEAM_0:0:86025114) spawned
+Mon Aug  6 23:37:29 2018	Bot02 (BOT) has joined the game
+Mon Aug  6 23:37:29 2018	Bot02 (BOT) spawned
+Mon Aug  6 23:52:29 2018	Security Soal was killed by Himself with a suicide trick
+Mon Aug  6 23:52:40 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Aug  7 00:29:24 2018	Security Soal was killed by Entity [0][worldspawn] with a unknown
+Tue Aug  7 00:29:25 2018	Security Soal (STEAM_0:0:86025114) spawned
+Tue Aug  7 00:44:25 2018	Security Soal (STEAM_0:0:86025114) disconnected
+Tue Aug  7 00:44:25 2018	Bot02 (BOT) disconnected

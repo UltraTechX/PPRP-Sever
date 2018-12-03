@@ -1,0 +1,1009 @@
+Sat Apr 14 15:35:37 2018	BRocha06 (STEAM_0:1:100921529) has joined the game
+Sat Apr 14 15:35:37 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:36:08 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Apr 14 15:36:08 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:36:27 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:36:31 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 15:36:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:40:33 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 15:41:19 2018	Security BRocha06 was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 14 15:41:20 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:41:23 2018	Fat Gay was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 14 15:41:25 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:41:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:41:44 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:41:46 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:42:17 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:42:18 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:43:22 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:43:24 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:44:12 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:44:13 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:44:34 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:44:36 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:44:48 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:44:50 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:45:07 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:45:08 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:45:20 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:45:23 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:45:43 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 15:45:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:46:01 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:46:02 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:46:33 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:46:34 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:46:46 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:46:47 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:47:14 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:47:15 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:47:52 2018	Security BRocha06 was killed by Fat Gay with a cw_deagle
+Sat Apr 14 15:47:54 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:48:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:48:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:24 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:34 2018	Security BRocha06 was killed by Fat Gay with a cw_deagle
+Sat Apr 14 15:48:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:35 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:48:35 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:48:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:48:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:50:21 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:50:22 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:51:12 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:51:13 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:19 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:51:33 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:51:35 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:51:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:47 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:51:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:48 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:51:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:07 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:52:08 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:52:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:52:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:52:11 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:52:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:52:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:52:12 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:52:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:18 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:22 2018	Security BRocha06 was killed by Entity [3130][grenade_helicopter] with a grenade_helicopter
+Sat Apr 14 15:52:23 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:52:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:44 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:52:46 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:53:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:53:10 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_suit
+Sat Apr 14 15:53:19 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 15:53:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:53:27 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:53:32 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:53:42 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:53:43 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:53:55 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 15:53:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:53:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:54:10 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:54:19 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:54:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:54:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:25 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:35 2018	Security BRocha06 was killed by Fat Gay with a cw_m3super90
+Sat Apr 14 15:54:36 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:54:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:40 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:54:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:41 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:42 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:54:52 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:54:54 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:55:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:13 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:55:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT grenade_helicopter
+Sat Apr 14 15:55:14 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:15 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:16 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:18 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:55:19 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:55:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:20 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:22 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:33 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:55:34 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:36 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:55:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:55:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:55:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:55:38 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthvial
+Sat Apr 14 15:55:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:39 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:45 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:55:46 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:55:49 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:55:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:57 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:55:58 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:55:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:55:59 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:00 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:22 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:56:23 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:56:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:30 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:31 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:56:32 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:57:37 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 15:57:38 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:57:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:55 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:56 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:57:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:57:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:57:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:57:57 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:57:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:57:58 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:58:49 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 15:58:55 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 15:58:55 2018	Fat Gay (STEAM_0:1:218173703): !EXPLODE br
+Sat Apr 14 15:58:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:58:58 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 15:59:17 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 15:59:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 15:59:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:27 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 15:59:28 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:59:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:59:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:59:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:59:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:59:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 15:59:29 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:29 2018	Security BRocha06 was killed by Fat Gay with a cw_g36c
+Sat Apr 14 16:00:30 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:00:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:51 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_healthkit
+Sat Apr 14 16:00:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:00:53 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT item_battery
+Sat Apr 14 16:01:27 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:01:30 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:01:56 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:01:57 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:01:58 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:01:59 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:02:13 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:02:13 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:02:33 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:02:36 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:02:53 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:02:55 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:03:16 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:03:37 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:03:38 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:04:21 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:04:23 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:04:29 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:04:32 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 16:04:33 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:04:37 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:04:42 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:05:19 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 16:05:20 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:05:22 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:05:29 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:05:32 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:05:34 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:05:51 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:05:51 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:06:06 2018	Fat Gay was killed by Security BRocha06 with a cw_deagle
+Sat Apr 14 16:06:07 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:06:19 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:06:20 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:06:28 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:06:34 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:06:35 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:06:36 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:06:42 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:06:42 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:06:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:06:44 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:06:46 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:06:57 2018	Fat Gay was killed by Security BRocha06 with a fas2_thrown_m67
+Sat Apr 14 16:06:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:07:00 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:07:05 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:07:10 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:07:11 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:07:14 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:07:14 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:07:15 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:07:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:07:18 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:07:20 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:07:21 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:07:24 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:07:27 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:07:44 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:07:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:07:46 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:07:50 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:07:54 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:07:55 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:07:58 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:07:59 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:00 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:08:02 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:08:03 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:20 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:08:20 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:08:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:08:21 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:24 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:08:28 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:08:29 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:39 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:08:39 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:08:41 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:08:41 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:43 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:08:47 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:08:48 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:52 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:08:52 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:08:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:08:54 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:08:56 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:08:59 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:09:00 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:09:14 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:09:14 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:09:15 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:09:15 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:09:17 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:09:30 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:09:31 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:09:46 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:09:47 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:00 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:10:00 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:10:01 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:02 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:10:04 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:12 2018	Security BRocha06 was killed by Fat Gay with a fas2_thrown_m67
+Sat Apr 14 16:10:13 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:14 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:10:15 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:10:17 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:20 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:23 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:25 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:28 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:31 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:34 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:10:35 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:37 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:10:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:10:43 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:10:43 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:10:44 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:48 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:10:49 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:55 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:10:56 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:10:57 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:11:00 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:01 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:04 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:04 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:11:05 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:05 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:11:08 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:09 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:10 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:11:13 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:14 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:17 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:18 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:24 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:25 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:29 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:30 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:33 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:34 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:37 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:39 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:47 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:48 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:53 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:11:54 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:11:59 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:00 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:03 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:04 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:08 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:09 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:13 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:14 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:16 2018	Fat Gay was killed by Security BRocha06 with a fas2_thrown_m67
+Sat Apr 14 16:12:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:12:18 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:19 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:23 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:12:32 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:34 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:37 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:38 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:41 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:43 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:47 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:47 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:12:49 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:12:49 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:12:53 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:12:57 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:12:59 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:13:13 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:13:15 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:13:21 2018	Security BRocha06 was killed by Fat Gay with a fas2_m3s90
+Sat Apr 14 16:13:23 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:13:30 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:13:31 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:13:44 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:13:45 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:13:48 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:13:50 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:13:58 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:13:59 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:14:08 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:14:10 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:14:16 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:14:18 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:14:20 2018	Fat Gay was killed by Security BRocha06 with a cw_mr96
+Sat Apr 14 16:14:21 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:14:25 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:14:28 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:14:29 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:14:36 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:14:36 2018	Fat Gay was killed by Security BRocha06 with a env_explosion
+Sat Apr 14 16:14:37 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:14:38 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:14:44 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:14:46 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:14:47 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:14:52 2018	Fat Gay was killed by Himself with a suicide trick
+Sat Apr 14 16:14:53 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:14:54 2018	Security BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:14:56 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:14:59 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:15:04 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:15:09 2018	anjnevin (STEAM_0:1:197444050) has joined the game
+Sat Apr 14 16:15:09 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:15:13 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:15:50 2018	anjnevin (STEAM_0:1:197444050): can you say that again
+Sat Apr 14 16:15:57 2018	anjnevin (STEAM_0:1:197444050): good you
+Sat Apr 14 16:16:02 2018	Security BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:16:03 2018	Security BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:16:13 2018	Security BRocha06 (STEAM_0:1:100921529): /name Terrorist BRocha06
+Sat Apr 14 16:16:20 2018	anjnevin (STEAM_0:1:197444050): looking for fun
+Sat Apr 14 16:16:44 2018	anjnevin (STEAM_0:1:197444050): can you 
+Sat Apr 14 16:16:52 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:16:53 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:16:57 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:17:23 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:17:24 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:17:57 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:17:57 2018	Terrorist BRocha06 (STEAM_0:1:100921529): aetr
+Sat Apr 14 16:17:58 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:18:11 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc that's nice
+Sat Apr 14 16:18:22 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:18:23 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:21:13 2018	anjnevin (STEAM_0:1:197444050): /OOC GOING AFK
+Sat Apr 14 16:22:17 2018	Fat Gay (STEAM_0:1:218173703): !bring bro
+Sat Apr 14 16:24:19 2018	Fat Gay was killed by Terrorist BRocha06 with a cw_scarh
+Sat Apr 14 16:24:39 2018	anjnevin (STEAM_0:1:197444050): /OOC I AM BACK
+Sat Apr 14 16:24:46 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:24:49 2018	Fat Gay (STEAM_0:1:218173703): !goto an
+Sat Apr 14 16:24:56 2018	Terrorist BRocha06 (STEAM_0:1:100921529): hyx
+Sat Apr 14 16:24:56 2018	Terrorist BRocha06 was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:24:57 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:25:45 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sat Apr 14 16:25:54 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:25:55 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:26:18 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc pug pug pu ouf ouf ou ouf ouf ou kyf kyf ky
+Sat Apr 14 16:28:06 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:28:07 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:28:37 2018	anjnevin (STEAM_0:1:197444050): i need food
+Sat Apr 14 16:28:44 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:28:51 2018	Fat Gay (STEAM_0:1:218173703): !bring an
+Sat Apr 14 16:29:28 2018	anjnevin (STEAM_0:1:197444050): thanks
+Sat Apr 14 16:30:26 2018	Fat Gay (STEAM_0:1:218173703): !ws
+Sat Apr 14 16:30:32 2018	Fat Gay (STEAM_0:1:218173703): !speed
+Sat Apr 14 16:30:37 2018	Fat Gay (STEAM_0:1:218173703): !speed an 100
+Sat Apr 14 16:30:48 2018	Fat Gay (STEAM_0:1:218173703): !speed an 100 200
+Sat Apr 14 16:31:02 2018	Fat Gay (STEAM_0:1:218173703): !speed * 300 500
+Sat Apr 14 16:31:28 2018	Terrorist BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:31:29 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:32:33 2018	Terrorist BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:32:33 2018	Fat Gay (STEAM_0:1:218173703): !explode bro
+Sat Apr 14 16:32:35 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:32:44 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:32:45 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:32:52 2018	Fat Gay (STEAM_0:1:218173703): !bring an
+Sat Apr 14 16:33:52 2018	anjnevin (STEAM_0:1:197444050): what a cbrn
+Sat Apr 14 16:33:59 2018	Fat Gay (STEAM_0:1:218173703): /ooc crouch
+Sat Apr 14 16:34:12 2018	anjnevin (STEAM_0:1:197444050): good brb
+Sat Apr 14 16:34:22 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:35:31 2018	anjnevin (STEAM_0:1:197444050): /ooc i am back
+Sat Apr 14 16:35:50 2018	Fat Gay (STEAM_0:1:218173703): !goto an
+Sat Apr 14 16:36:11 2018	Fat Gay (STEAM_0:1:218173703): !goto bro
+Sat Apr 14 16:36:21 2018	Fat Gay (STEAM_0:1:218173703): !bring an
+Sat Apr 14 16:37:25 2018	Terrorist BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:37:26 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:37:38 2018	Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Apr 14 16:37:42 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sat Apr 14 16:37:44 2018	anjnevin was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:37:44 2018	Fat Gay (STEAM_0:1:218173703): !goto an
+Sat Apr 14 16:37:45 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:37:51 2018	Terrorist BRocha06 was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:37:52 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:37:58 2018	Fat Gay (STEAM_0:1:218173703): !bring an
+Sat Apr 14 16:38:14 2018	Terrorist BRocha06 was killed by Entity [1946][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:38:15 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:38:22 2018	Fat Gay (STEAM_0:1:218173703): !bring an
+Sat Apr 14 16:38:41 2018	Fat Gay (STEAM_0:1:218173703): !bring bro
+Sat Apr 14 16:39:16 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Apr 14 16:41:15 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:43:06 2018	anjnevin (STEAM_0:1:197444050): /drop
+Sat Apr 14 16:43:27 2018	anjnevin (STEAM_0:1:197444050): van i go
+Sat Apr 14 16:43:32 2018	anjnevin (STEAM_0:1:197444050): can*
+Sat Apr 14 16:43:43 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc woops
+Sat Apr 14 16:43:52 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc i mean sure yes you can go
+Sat Apr 14 16:44:14 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:44:18 2018	Terrorist BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:44:20 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:47:18 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:47:24 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:47:52 2018	Terrorist BRocha06 was killed by anjnevin with a weapon_crowbar
+Sat Apr 14 16:47:53 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:48:07 2018	anjnevin was killed by Terrorist BRocha06 with a weapon_crowbar
+Sat Apr 14 16:48:11 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:48:28 2018	Terrorist BRocha06 was killed by Entity [1510][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:48:35 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:48:54 2018	anjnevin was killed by Terrorist BRocha06 with a weapon_crowbar
+Sat Apr 14 16:48:55 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:49:03 2018	Terrorist BRocha06 was killed by anjnevin with a weapon_crowbar
+Sat Apr 14 16:49:04 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:49:17 2018	anjnevin was killed by Terrorist BRocha06 with a weapon_crowbar
+Sat Apr 14 16:49:20 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:49:28 2018	anjnevin was killed by Terrorist BRocha06 with a weapon_crowbar
+Sat Apr 14 16:49:29 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:49:33 2018	Terrorist BRocha06 was killed by anjnevin with a weapon_crowbar
+Sat Apr 14 16:49:34 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:49:45 2018	anjnevin was killed by Terrorist BRocha06 with a weapon_crowbar
+Sat Apr 14 16:49:47 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:50:04 2018	Terrorist BRocha06 was killed by anjnevin with a weapon_crowbar
+Sat Apr 14 16:50:05 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:50:11 2018	anjnevin was killed by Entity [1510][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:50:24 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:50:32 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:50:47 2018	anjnevin (STEAM_0:1:197444050): do we do the /me salutes
+Sat Apr 14 16:50:57 2018	anjnevin (STEAM_0:1:197444050): /me salutes
+Sat Apr 14 16:52:23 2018	anjnevin was killed by Terrorist BRocha06 with a cw_deagle
+Sat Apr 14 16:52:29 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:52:42 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:52:57 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:53:04 2018	Terrorist BRocha06 was killed by Himself with a suicide trick
+Sat Apr 14 16:53:05 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:53:18 2018	anjnevin (STEAM_0:1:197444050): /ooc how is this fare
+Sat Apr 14 16:53:24 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc how is what fair?
+Sat Apr 14 16:53:27 2018	anjnevin (STEAM_0:1:197444050): /ooc fair*
+Sat Apr 14 16:53:43 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:53:59 2018	anjnevin (STEAM_0:1:197444050): /ooc how do you become vip
+Sat Apr 14 16:54:00 2018	Terrorist BRocha06 was killed by Entity [0][worldspawn] with a unknown
+Sat Apr 14 16:54:01 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:54:11 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc you'll actually have to pay for it
+Sat Apr 14 16:54:19 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc but since i participated early in the development
+Sat Apr 14 16:54:22 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc i got it for free
+Sat Apr 14 16:54:28 2018	anjnevin (STEAM_0:1:197444050): /ooc like !donate
+Sat Apr 14 16:54:32 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc mhm
+Sat Apr 14 16:54:37 2018	anjnevin (STEAM_0:1:197444050): !donate
+Sat Apr 14 16:54:47 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc the command is not here yet
+Sat Apr 14 16:54:57 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc it is in the f4 menu though
+Sat Apr 14 16:55:58 2018	Terrorist BRocha06 was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:55:59 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:56:15 2018	anjnevin was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:56:17 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:56:18 2018	Terrorist BRocha06 was killed by Entity [1683][trigger_hurt] with a trigger_hurt
+Sat Apr 14 16:56:20 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:56:23 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 16:57:55 2018	Terrorist BRocha06 was killed by Entity [0][worldspawn] with a unknown
+Sat Apr 14 16:58:05 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 16:58:47 2018	v.zhegalov (rus) (STEAM_0:1:80325964) has joined the game
+Sat Apr 14 16:58:47 2018	v.zhegalov (rus) (STEAM_0:1:80325964) spawned
+Sat Apr 14 16:58:50 2018	Terrorist BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:00:25 2018	v.zhegalov (rus) (STEAM_0:1:80325964): y
+Sat Apr 14 17:00:29 2018	v.zhegalov (rus) (STEAM_0:1:80325964): !menu
+Sat Apr 14 17:00:31 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc hmm?
+Sat Apr 14 17:01:24 2018	anjnevin (STEAM_0:1:197444050): /ooc what
+Sat Apr 14 17:01:38 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc someone joined
+Sat Apr 14 17:01:45 2018	anjnevin (STEAM_0:1:197444050): /ooc and
+Sat Apr 14 17:01:53 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc just saying
+Sat Apr 14 17:02:05 2018	anjnevin (STEAM_0:1:197444050): /ooc dont you want to stop me
+Sat Apr 14 17:02:11 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc nope
+Sat Apr 14 17:02:18 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc idc if you blow up the powerplant
+Sat Apr 14 17:04:04 2018	Terrorist BRocha06 (STEAM_0:1:100921529): there's a tram
+Sat Apr 14 17:04:08 2018	Terrorist BRocha06 (STEAM_0:1:100921529): you have to wait for it
+Sat Apr 14 17:05:11 2018	v.zhegalov (rus) (STEAM_0:1:80325964): Hello all,yeah
+Sat Apr 14 17:06:02 2018	Pandaz (STEAM_0:0:96683323) has joined the game
+Sat Apr 14 17:06:02 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:06:59 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:07:25 2018	Pandaz (STEAM_0:0:96683323): /ooc how does this game work
+Sat Apr 14 17:07:34 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc it's a powerplant RP
+Sat Apr 14 17:07:46 2018	Pandaz (STEAM_0:0:96683323): /ooc never played on a plowerplant rp
+Sat Apr 14 17:07:56 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc that's cause this is an original server
+Sat Apr 14 17:08:09 2018	Pandaz (STEAM_0:0:96683323): /ooc well how does it work
+Sat Apr 14 17:08:09 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc nobody has really made a Powerplant RP map
+Sat Apr 14 17:08:28 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /ooc basically the terrorists goal is to destroy the powerplant while security has to stop it from blowing up
+Sat Apr 14 17:08:40 2018	Terrorist BRocha06 (STEAM_0:1:100921529): /name BRocha06
+Sat Apr 14 17:08:45 2018	Pandaz (STEAM_0:0:96683323): /ooc what about reasearchers
+Sat Apr 14 17:09:02 2018	BRocha06 (STEAM_0:1:100921529): /ooc well basically they maintain the core
+Sat Apr 14 17:09:08 2018	Pandaz (STEAM_0:0:96683323): /ooc how
+Sat Apr 14 17:09:14 2018	BRocha06 (STEAM_0:1:100921529): /ooc to keep it at a cool state
+Sat Apr 14 17:09:18 2018	BRocha06 (STEAM_0:1:100921529): /ooc it's a bit complicated
+Sat Apr 14 17:09:22 2018	v.zhegalov (rus) (STEAM_0:1:80325964): !ooc Wait,how do i write in ooc?
+Sat Apr 14 17:09:40 2018	BRocha06 (STEAM_0:1:100921529): /ooc there's coolers around the map and things that will cause the core to heat up
+Sat Apr 14 17:09:53 2018	BRocha06 (STEAM_0:1:100921529): /ooc and looks like mr somebody decided to start a meltdown
+Sat Apr 14 17:09:56 2018	Pandaz (STEAM_0:0:96683323): /ooc i think we gonna blow up
+Sat Apr 14 17:10:09 2018	BRocha06 (STEAM_0:1:100921529): /ooc it's still possible to stop it
+Sat Apr 14 17:10:15 2018	BRocha06 (STEAM_0:1:100921529): /ooc in this situation
+Sat Apr 14 17:10:18 2018	BRocha06 (STEAM_0:1:100921529): /ooc but very hard
+Sat Apr 14 17:10:20 2018	Pandaz (STEAM_0:0:96683323): /ooc what does a cooler look like
+Sat Apr 14 17:10:31 2018	BRocha06 (STEAM_0:1:100921529): /ooc there are fans
+Sat Apr 14 17:10:31 2018	anjnevin (STEAM_0:1:197444050): /ooc a big fan
+Sat Apr 14 17:10:39 2018	BRocha06 (STEAM_0:1:100921529): /ooc that's not the only cooler
+Sat Apr 14 17:11:22 2018	BRocha06 (STEAM_0:1:100921529): /ooc this map isn't close to being done
+Sat Apr 14 17:11:31 2018	anjnevin was killed by BRocha06 with a cw_mp5
+Sat Apr 14 17:11:33 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:11:38 2018	Pandaz (STEAM_0:0:96683323): /ooc i went through a potal and now im lost
+Sat Apr 14 17:11:43 2018	Pandaz (STEAM_0:0:96683323): /oor portal*
+Sat Apr 14 17:11:48 2018	Pandaz (STEAM_0:0:96683323): /ooc portal*
+Sat Apr 14 17:11:51 2018	BRocha06 (STEAM_0:1:100921529): /ooc you use that to avoid dying from the explosion
+Sat Apr 14 17:12:02 2018	BRocha06 (STEAM_0:1:100921529): /ooc the meltdown is not implemented yet however
+Sat Apr 14 17:12:03 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:12:13 2018	BRocha06 (STEAM_0:1:100921529): /ooc the process of it is though
+Sat Apr 14 17:12:21 2018	BRocha06 (STEAM_0:1:100921529): /ooc not fully done yet though
+Sat Apr 14 17:12:40 2018	anjnevin was killed by Pandaz with a rpg_missile
+Sat Apr 14 17:12:41 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:12:55 2018	Pandaz was killed by anjnevin with a weapon_crowbar
+Sat Apr 14 17:12:56 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:13:07 2018	anjnevin (STEAM_0:1:197444050): /ooc out of my town
+Sat Apr 14 17:13:20 2018	v.zhegalov (rus) (STEAM_0:1:80325964): !help
+Sat Apr 14 17:13:20 2018	Pandaz (STEAM_0:0:96683323): /ooc k
+Sat Apr 14 17:13:27 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:13:38 2018	anjnevin was killed by BRocha06 with a weapon_crowbar
+Sat Apr 14 17:13:39 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:13:44 2018	BRocha06 (STEAM_0:1:100921529): /ooc mine now
+Sat Apr 14 17:13:50 2018	BRocha06 was killed by anjnevin with a weapon_crowbar
+Sat Apr 14 17:13:52 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:13:54 2018	BRocha06 (STEAM_0:1:100921529): /ooc aww
+Sat Apr 14 17:14:06 2018	anjnevin was killed by BRocha06 with a weapon_crowbar
+Sat Apr 14 17:14:06 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:14:16 2018	BRocha06 (STEAM_0:1:100921529): /ooc prob blocking is already prevented on this server
+Sat Apr 14 17:14:42 2018	BRocha06 was killed by Entity [1507][trigger_hurt] with a trigger_hurt
+Sat Apr 14 17:14:43 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:15:04 2018	BRocha06 was killed by Entity [1507][trigger_hurt] with a trigger_hurt
+Sat Apr 14 17:15:07 2018	BRocha06 (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:15:23 2018	anjnevin was killed by BRocha06 with a weapon_crowbar
+Sat Apr 14 17:15:27 2018	anjnevin (STEAM_0:1:197444050): why
+Sat Apr 14 17:15:31 2018	BRocha06 (STEAM_0:1:100921529): /ooc cause why not?
+Sat Apr 14 17:15:35 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:16:37 2018	BRocha06 (STEAM_0:1:100921529): /name Gordon Ramsay
+Sat Apr 14 17:16:39 2018	v.zhegalov (rus) (STEAM_0:1:80325964): (ooc) How do i write in ooc?
+Sat Apr 14 17:16:43 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:16:56 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc is that you ultra/
+Sat Apr 14 17:17:08 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc that's what i thought
+Sat Apr 14 17:17:17 2018	v.zhegalov (rus) (STEAM_0:1:80325964) disconnected
+Sat Apr 14 17:17:20 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:17:27 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc he sort of broke the powerplant
+Sat Apr 14 17:17:35 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc by that i mean caused a meltdown
+Sat Apr 14 17:17:51 2018	anjnevin (STEAM_0:1:197444050): /ooc did you
+Sat Apr 14 17:18:07 2018	Pandaz was killed by Himself with a suicide trick
+Sat Apr 14 17:18:08 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc ehh idc
+Sat Apr 14 17:18:09 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:18:20 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:18:45 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:18:46 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:19:03 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:19:05 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:19:07 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:19:08 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:19:35 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:19:36 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:19:58 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:19:59 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:20:04 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:20:05 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:20:21 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:20:22 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:20:30 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:20:31 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:20:43 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:20:44 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:20:50 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:20:51 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:20:57 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:20:58 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:21:34 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:21:35 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:21:41 2018	Gordon Ramsay was killed by anjnevin with a cw_fiveseven
+Sat Apr 14 17:21:42 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:21:50 2018	anjnevin was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:21:51 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 17:22:01 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:22:02 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:22:45 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:22:46 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:23:00 2018	Gordon Ramsay was killed by Pandaz with a weapon_l4d2_frying_pan
+Sat Apr 14 17:23:01 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:23:30 2018	anjnevin (STEAM_0:1:197444050) disconnected
+Sat Apr 14 17:23:36 2018	Gordon Ramsay was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 17:23:38 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:23:40 2018	Pandaz was killed by Entity [1972][trigger_hurt] with a trigger_hurt
+Sat Apr 14 17:23:41 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:23:45 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc time to blow up the powerplant again!
+Sat Apr 14 17:25:30 2018	Pandaz was killed by Gordon Ramsay with a weapon_l4d2_frying_pan
+Sat Apr 14 17:25:32 2018	Pandaz (STEAM_0:0:96683323) spawned
+Sat Apr 14 17:25:35 2018	Pandaz (STEAM_0:0:96683323): /ooc brb
+Sat Apr 14 17:25:38 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc mkay
+Sat Apr 14 17:26:03 2018	Pandaz (STEAM_0:0:96683323): /ooc nvm pizza is here
+Sat Apr 14 17:26:06 2018	Pandaz (STEAM_0:0:96683323): /me Salutes
+Sat Apr 14 17:26:12 2018	Pandaz (STEAM_0:0:96683323): /ooc fun server though
+Sat Apr 14 17:26:21 2018	Pandaz (STEAM_0:0:96683323) disconnected
+Sat Apr 14 17:29:18 2018	Gordon Ramsay (STEAM_0:1:100921529): /ooc ultra you suck
+Sat Apr 14 17:30:35 2018	Gordon Ramsay was killed by Entity [1946][trigger_hurt] with a trigger_hurt
+Sat Apr 14 17:31:01 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 17:53:11 2018	Gordon Ramsay was killed by Himself with a suicide trick
+Sat Apr 14 18:02:10 2018	Gordon Ramsay (STEAM_0:1:100921529) spawned
+Sat Apr 14 18:02:13 2018	Gordon Ramsay (STEAM_0:1:100921529) disconnected
+Sat Apr 14 19:11:30 2018	anjnevin (STEAM_0:1:197444050) has joined the game
+Sat Apr 14 19:11:30 2018	anjnevin (STEAM_0:1:197444050) spawned
+Sat Apr 14 19:15:26 2018	anjnevin (STEAM_0:1:197444050) disconnected

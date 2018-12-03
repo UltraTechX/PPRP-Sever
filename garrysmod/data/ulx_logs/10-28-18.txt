@@ -1,0 +1,8 @@
+[04:45:49] New map: rp_powerplant_v2b3
+
+
+
+[08:02:23] New map: rp_powerplant_v2b3
+[08:02:23] Client "Spetz_20" connected.
+[08:02:23] Client "Spetz_20" connected.
+[08:02:23] Client "Spetz_20" connected.

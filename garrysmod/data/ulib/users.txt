@@ -1,0 +1,3850 @@
+"STEAM_0:1:184775407"	
+{
+	"name"	"Craftygarrett"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:174195909"	
+{
+	"allow"	
+	{
+	}
+	"name"	"caribou (moat.gg)"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:86054737"	
+{
+	"name"	"David S. Pumpkins"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:190667250"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Deformed Giraffe"
+	"group"	"PACUser"
+}
+"STEAM_0:0:9204571"	
+{
+	"name"	"Carl Jameson"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:192923038"	
+{
+	"name"	"[P2P]MilesTailsPower"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:36823576"	
+{
+	"name"	"Silent Ninja"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:66446194"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Smokey"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:43190488"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Sabers Lose Again"
+	"group"	"PACUser"
+}
+"STEAM_0:0:93410903"	
+{
+	"name"	"Suck Em Cowboy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:47932789"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Russian Lobster.html"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:100921529"	
+{
+	"name"	"BRocha06"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:138507625"	
+{
+	"name"	"Kilroy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:61389478"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Spooky Squiddles"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:54701986"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Bongerlord"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:94495173"	
+{
+	"name"	"NoV4pe"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:62842914"	
+{
+	"allow"	
+	{
+	}
+	"name"	"MoistNeXus_"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:210157558"	
+{
+	"name"	"rowet113"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:50093763"	
+{
+	"name"	"xxxpurplespritexxx"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:424407058"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[Opi] Zed"
+	"deny"	
+	{
+	}
+	"group"	"VIPPACUser"
+}
+"STEAM_0:0:95660701"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Not GimON"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:225558851"	
+{
+	"allow"	
+	{
+	}
+	"name"	"TheBigMeech"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:120134659"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Alen"
+	"group"	"PACUser"
+}
+"STEAM_0:0:105833643"	
+{
+	"name"	"iceman277"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:127074999"	
+{
+	"name"	"The Beast29"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:168888682"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"blueslime64"
+	"group"	"PACUser"
+}
+"STEAM_0:1:81932387"	
+{
+	"name"	"RΣDRUM || MojoGod"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:44493491"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Riptilian"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:196663351"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"slayer2894"
+	"group"	"PACUser"
+}
+"STEAM_0:0:63800005"	
+{
+	"name"	"@realDonaldTrump"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:155698467"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Ragpan"
+	"group"	"PACUser"
+}
+"STEAM_0:1:224555077"	
+{
+	"name"	"robgiammaria"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:100180293"	
+{
+	"allow"	
+	{
+	}
+	"name"	"waviestballoonx9 [WaviestRP]"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:89296197"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"curt lemur52"
+	"group"	"PACUser"
+}
+"STEAM_0:0:24382347"	
+{
+	"name"	"Qrow"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:26691030"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Uncle"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:55805249"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Mickey Mouse"
+	"deny"	
+	{
+	}
+	"group"	"VIP"
+}
+"STEAM_0:1:91516512"	
+{
+	"allow"	
+	{
+	}
+	"name"	"CandyCrushGod6969"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:91181601"	
+{
+	"name"	"✲Ozymandis Boomhauer II✲"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:157256075"	
+{
+	"name"	"GaZe Zero o(╥﹏╥)o"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:113353663"	
+{
+	"allow"	
+	{
+	}
+	"name"	"|Zulu| Chris"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:67076992"	
+{
+	"name"	"SpookieArgieSkeleton"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:113564623"	
+{
+	"name"	"stush4"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:197000190"	
+{
+	"name"	"A man sneezing milk"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"VIPPACUser"
+}
+"STEAM_0:1:171720952"	
+{
+	"name"	"Chipsyrocks"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:83331797"	
+{
+	"name"	"coolguy291"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:419563430"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Busta-Bug"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:79724754"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Ares"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:116056055"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Dabombam"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:83543393"	
+{
+	"name"	"Maniform"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:86800123"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Chickswithdicks"
+	"deny"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:195947370"	
+{
+	"name"	"Greenfield"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:119925216"	
+{
+	"name"	"[GER] Lp_Zombie"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:100096228"	
+{
+	"name"	"Damian Herbst"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:69022001"	
+{
+	"name"	"KuNgEn"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:188121707"	
+{
+	"name"	"DEH HOMELESS KING"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:43213053"	
+{
+	"name"	"Currylovinduck"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:107176310"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Dough"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:67295598"	
+{
+	"name"	"Rukkus"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:342966"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Vaytar"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:53547966"	
+{
+	"name"	"Gumpo Mumpo"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:44466441"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Loco Peepee"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:168631815"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Jardarn"
+	"group"	"PACUser"
+}
+"STEAM_0:0:69525976"	
+{
+	"name"	"PeacefulLamb"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:84060216"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Colonel Dave"
+	"group"	"PACUser"
+}
+"STEAM_0:1:61331422"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"S W ∀ R M"
+	"group"	"PACUser"
+}
+"STEAM_0:0:86812760"	
+{
+	"name"	"The Kettle"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"BOT"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Bot01"
+	"group"	"PACUser"
+}
+"STEAM_0:0:29854660"	
+{
+	"name"	"Doctor Cat =3"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:139498605"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Nosey"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:36901211"	
+{
+	"name"	"Cpt. Wobbels"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:100019168"	
+{
+	"name"	"r_holinka UwU"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:243479104"	
+{
+	"allow"	
+	{
+	}
+	"name"	"3than"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:108313646"	
+{
+	"name"	"CoolSkaterboy015"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:65544920"	
+{
+	"name"	"nicholas"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:97557403"	
+{
+	"name"	"Möthcrab"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:76669559"	
+{
+	"name"	"Scumbag"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:33589770"	
+{
+	"name"	"Tier"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:174741183"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Straight Up Slav"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:109752228"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"TheBananana"
+	"group"	"VIP"
+}
+"STEAM_0:1:41660292"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Valien"
+	"group"	"superadmin"
+}
+"STEAM_0:0:156828607"	
+{
+	"allow"	
+	{
+	}
+	"name"	"ohsobasic"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:92585862"	
+{
+	"name"	"Armyman1124"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:40329715"	
+{
+	"name"	"WAKANDA FOREVER"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:71554965"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Makarov"
+	"group"	"PACUser"
+}
+"STEAM_0:1:60776888"	
+{
+	"name"	"|MGM| Infinitynull"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:81685460"	
+{
+	"name"	"Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC]"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:124358495"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"MrFinkleWinkle"
+	"group"	"VIP"
+}
+"STEAM_0:1:116765028"	
+{
+	"name"	"Sir Will Swag"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:215332530"	
+{
+	"name"	"KangarooMan"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:59274331"	
+{
+	"name"	"coldbolt25"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"Moderator"
+}
+"STEAM_0:1:101135062"	
+{
+	"name"	"LethalDumpster"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:111119859"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Toaster"
+	"group"	"PACUser"
+}
+"STEAM_0:0:43684934"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Captain James T. Kirk"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:156054804"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Bandito Fritos"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:41828242"	
+{
+	"allow"	
+	{
+	}
+	"name"	"nypd"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:417681559"	
+{
+	"allow"	
+	{
+	}
+	"name"	"JUicY nUTtcHEeks"
+	"deny"	
+	{
+	}
+	"group"	"VIP"
+}
+"STEAM_0:0:104579511"	
+{
+	"name"	"brycekegley"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:22086175"	
+{
+	"name"	"Pootis Bird"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:72833401"	
+{
+	"name"	"Nacho"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:72014148"	
+{
+	"name"	"Dots"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:72140646"	
+{
+	"name"	"Sirro"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:0:171817470"	
+{
+	"name"	"TCAndrew214 csgolive.com"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:35610035"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[Opi] owo"
+	"deny"	
+	{
+	}
+	"group"	"VIPPACUser"
+}
+"STEAM_0:0:86025114"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Wolves Mercy"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:121067955"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"John F Kennedy"
+	"group"	"PACUser"
+}
+"STEAM_0:1:52116782"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Plankster"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:104618787"	
+{
+	"allow"	
+	{
+	}
+	"name"	"MacAttack"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:37690348"	
+{
+	"allow"	
+	{
+	}
+	"name"	"BOT Drew"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:180224455"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Bulldog"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:64236451"	
+{
+	"name"	"turacept"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:83293903"	
+{
+	"name"	"Spetz_20"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"VIP"
+}
+"STEAM_0:1:175480624"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Count Chocula"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:99202451"	
+{
+	"allow"	
+	{
+	}
+	"name"	"morganleizert"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:116482800"	
+{
+	"name"	"Thatguy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:15375712"	
+{
+	"name"	"Snoopy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:24467799"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Knight"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:204382926"	
+{
+	"name"	"TempusBilBoJo"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:147761493"	
+{
+	"name"	"MetalBear4"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:58933920"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Leonardthehero"
+	"group"	"PACUser"
+}
+"STEAM_0:0:32441"	
+{
+	"allow"	
+	{
+	}
+	"name"	"bad staff memeber"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:128103662"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Poontang"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:444450075"	
+{
+	"allow"	
+	{
+	}
+	"name"	"xxShadowdragonXX"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:51053520"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Jess"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:196793061"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Dr. Necrofeelya"
+	"group"	"PACUser"
+}
+"STEAM_0:1:84422693"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[Opi] Simon"
+	"group"	"PACUser"
+}
+"STEAM_0:0:41568212"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[BIOFROG]Loving Metropolitics"
+	"group"	"PACUser"
+}
+"STEAM_0:1:127925430"	
+{
+	"name"	"Zolpidem"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:167614500"	
+{
+	"allow"	
+	{
+	}
+	"name"	"{Opi} Chicken 136"
+	"deny"	
+	{
+	}
+	"group"	"VIPPACUser"
+}
+"STEAM_0:0:90134039"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Ⓜ Brents"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:63436705"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"British Cunt"
+	"group"	"PACUser"
+}
+"STEAM_0:1:107514094"	
+{
+	"name"	"Lesser Gopnik"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:109792021"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Not lucky"
+	"group"	"PACUser"
+}
+"STEAM_0:1:105703055"	
+{
+	"name"	"英国の兼stateside"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:74320577"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Tello"
+	"group"	"PACUser"
+}
+"STEAM_0:1:427712765"	
+{
+	"allow"	
+	{
+	}
+	"name"	"meme king"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:61380847"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"François Fromage Factory"
+	"group"	"PACUser"
+}
+"STEAM_0:1:107242126"	
+{
+	"name"	"[Opi] Big Nuts"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"VIPPACUser"
+}
+"STEAM_0:0:80677242"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Chinese Takeout"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:4024515"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Hatten"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:78960520"	
+{
+	"allow"	
+	{
+	}
+	"name"	"box box"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:63880671"	
+{
+	"name"	"kermit"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:174143741"	
+{
+	"name"	"thewestrops [KAJ]"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:443662139"	
+{
+	"name"	"that guy barney"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:169886590"	
+{
+	"name"	"Shark"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:67482615"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Brandon"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:52857443"	
+{
+	"name"	"Comedy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:59609925"	
+{
+	"name"	"Lolol15"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:215843675"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Spooky Table"
+	"group"	"PACUser"
+}
+"STEAM_0:0:53402331"	
+{
+	"name"	"Picklefrits"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:60947174"	
+{
+	"name"	"| Turtusking | GGS.SX |"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:58278368"	
+{
+	"allow"	
+	{
+	}
+	"name"	"The stranger with no name"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:67938278"	
+{
+	"name"	"Bronson"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:59066698"	
+{
+	"name"	"Ancient Entity"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:157306003"	
+{
+	"name"	"Radiance"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:62970398"	
+{
+	"name"	"Washed up Bhopper"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:53714820"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Alan"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:110782291"	
+{
+	"name"	"ciaran"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:64513062"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[Opi]CaptnObvious"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:145671660"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Atomic"
+	"group"	"PACUser"
+}
+"STEAM_0:1:179345279"	
+{
+	"name"	"Q"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:108453289"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"AllOfTheAbove72"
+	"group"	"PACUser"
+}
+"STEAM_0:0:87207611"	
+{
+	"name"	"Cyberpunk Killer"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:59756947"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[RG]LightShade"
+	"group"	"PACUser"
+}
+"STEAM_0:0:29082045"	
+{
+	"name"	"roy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:169329981"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Damnit, I Have A Crush On You"
+	"group"	"PACUser"
+}
+"STEAM_0:0:40896159"	
+{
+	"name"	"twitch.tv/ninja"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:39496487"	
+{
+	"name"	"[GG] Ezio"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:419151052"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Dat Doge Doe [W-G]"
+	"group"	"PACUser"
+}
+"STEAM_0:0:59600974"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[TW] Church"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:67061713"	
+{
+	"name"	"Nap"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:127032855"	
+{
+	"name"	"dongley"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:177305291"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Benedict"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:185527943"	
+{
+	"name"	"Lambda18 [Backpack.TF]"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:169501329"	
+{
+	"name"	"Sebbyc101*M"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:67105367"	
+{
+	"name"	"Norman"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:26019050"	
+{
+	"name"	"Power Pete"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:105875194"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"| Scxxr |"
+	"group"	"PACUser"
+}
+"STEAM_0:1:116564047"	
+{
+	"name"	"rubbishdounut"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:93669704"	
+{
+	"name"	"Bernie Sanders"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:61991548"	
+{
+	"name"	"Doodle"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:172770955"	
+{
+	"name"	"Lakota5225"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:6015082"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Beastmode"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:113547169"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"♛ Ultra Instinct Goku ♛"
+	"group"	"PACUser"
+}
+"STEAM_0:0:97407434"	
+{
+	"name"	"MrNetworks"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:46222072"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Kale"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:178121022"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Sid"
+	"group"	"PACUser"
+}
+"STEAM_0:1:61393244"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Crystal"
+	"group"	"PACUser"
+}
+"STEAM_0:0:140034522"	
+{
+	"name"	"Remant"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:121143569"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Jeroma"
+	"deny"	
+	{
+	}
+	"group"	"VIP"
+}
+"STEAM_0:1:76942427"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"cipherGeneticist"
+	"group"	"PACUser"
+}
+"STEAM_0:1:232345223"	
+{
+	"name"	"GAMBLING OPI"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:85874611"	
+{
+	"name"	"KeeblesPal"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:95072396"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Not DJ // djsime1"
+	"group"	"PACUser"
+}
+"STEAM_0:1:170556320"	
+{
+	"name"	"Asierrayo"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:64918996"	
+{
+	"name"	"Zeak=_+"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:62069412"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Fresh_Baguette"
+	"group"	"PACUser"
+}
+"STEAM_0:0:57117096"	
+{
+	"name"	"mat"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:76177729"	
+{
+	"name"	"Spyglass"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:173118977"	
+{
+	"name"	"guny Pwnd"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:115652713"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Imperial_Germany"
+	"group"	"PACUser"
+}
+"STEAM_0:0:65254791"	
+{
+	"name"	"[G.E.W.P] turkeyman"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:101089741"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Torque"
+	"group"	"PACUser"
+}
+"STEAM_0:1:170606055"	
+{
+	"name"	"Zombieguy242567"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:106398417"	
+{
+	"name"	"sambulance"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:32985483"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Capsond"
+	"group"	"PACUser"
+}
+"STEAM_0:0:98564878"	
+{
+	"name"	"Nebula"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:53526522"	
+{
+	"name"	"TimPai"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:117807747"	
+{
+	"name"	"[NWA]Dank Memes Reho"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:106596577"	
+{
+	"name"	"CJW"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:75867497"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"A Random Commie"
+	"group"	"PACUser"
+}
+"STEAM_0:0:98220726"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Nagegg"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:172132882"	
+{
+	"name"	"Green"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:73020306"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[LN] Georgio"
+	"group"	"PACUser"
+}
+"STEAM_0:0:23292214"	
+{
+	"name"	"mr bean"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:85567021"	
+{
+	"name"	"ERROR_404"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:180879098"	
+{
+	"name"	"Dave"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:111567013"	
+{
+	"allow"	
+	{
+	}
+	"name"	"DimensionRMG"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:7152325"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"blue"
+	"group"	"PACUser"
+}
+"STEAM_0:1:67358067"	
+{
+	"allow"	
+	{
+	}
+	"name"	"TheDooberdude"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:33637358"	
+{
+	"name"	"Rodrinr"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:425940591"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"TheDanster_YT [DN] [OPI]"
+	"group"	"PACUser"
+}
+"STEAM_0:0:71754300"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"C1rcuit"
+	"group"	"PACUser"
+}
+"STEAM_0:0:47204272"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Papa Plankuh"
+	"group"	"PACUser"
+}
+"STEAM_0:1:109046027"	
+{
+	"name"	"☠Goose☠ (AFO)"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:180521832"	
+{
+	"name"	"Mexican Flex Glue Smuggler"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:94964109"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[prof delaventure]"
+	"deny"	
+	{
+	}
+	"group"	"VIPPACUser"
+}
+"STEAM_0:1:37650964"	
+{
+	"name"	"Noble Poptart"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:52883173"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Spooky Lobster"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:69664220"	
+{
+	"name"	"crazytruck24"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:197330045"	
+{
+	"allow"	
+	{
+	}
+	"name"	"eror"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:127633732"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Pizza Crust"
+	"group"	"PACUser"
+}
+"STEAM_0:0:91738119"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Imagine Wagons"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:449447317"	
+{
+	"allow"	
+	{
+	}
+	"name"	"hardiman.unclejoe"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:82934475"	
+{
+	"name"	"Virryi"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"admin"
+}
+"STEAM_0:1:45174348"	
+{
+	"name"	"Laben_Venci"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:108406755"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Mapapis"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:89038456"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"☭✠Tynneside✠☭[Opi]"
+	"group"	"VIP"
+}
+"STEAM_0:1:121310734"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[PR]Rebel"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:142299929"	
+{
+	"name"	"Juicy Mcrib AN"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:41365973"	
+{
+	"name"	"KayZ"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:47057043"	
+{
+	"name"	"Jamie"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:418968192"	
+{
+	"name"	"randomguy492"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:135130732"	
+{
+	"name"	"acidum"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:434303663"	
+{
+	"name"	"Freakman"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:97615430"	
+{
+	"name"	"TheGamingTroll"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:204422185"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"pablo escobar"
+	"group"	"PACUser"
+}
+"STEAM_0:1:83803624"	
+{
+	"name"	"Pepso"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:199216977"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Richardmark56"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:84934613"	
+{
+	"name"	"8bitmafia"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:24459321"	
+{
+	"name"	"Sergeant Major Dick Bong"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:145574138"	
+{
+	"allow"	
+	{
+	}
+	"name"	"flame"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:178698597"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	":("
+	"group"	"PACUser"
+}
+"STEAM_0:0:131246784"	
+{
+	"name"	"HyperSpy909 (moat.gg)"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:95620169"	
+{
+	"allow"	
+	{
+	}
+	"name"	"DTrainsMan123"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:117395677"	
+{
+	"name"	"CYBER -=|GREGG|=-"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:45001338"	
+{
+	"name"	"PurpleOwl"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:86985962"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Enfys"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:80135497"	
+{
+	"name"	"Hello"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:419445208"	
+{
+	"allow"	
+	{
+	}
+	"name"	"datguy"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:59534508"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Not_A_Holiday_Heretek"
+	"group"	"PACUser"
+}
+"STEAM_0:0:166643650"	
+{
+	"name"	"SaltyMelon"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:178889855"	
+{
+	"name"	"cannanoffers"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:56680165"	
+{
+	"name"	"Dinky Winks"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:62867403"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[Opi] fallenturtle"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:34370989"	
+{
+	"name"	"Sgt. Schultz"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:432592418"	
+{
+	"name"	"Webbchess"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:78898867"	
+{
+	"name"	"๖ⓓⓐuʞɠ₳Ⱡł૮ Heяo"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:166782773"	
+{
+	"allow"	
+	{
+	}
+	"name"	"nuclearnacho88"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:129478698"	
+{
+	"name"	"bkatkins5"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:160218209"	
+{
+	"name"	"grunko"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:140838209"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Texas Red"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:13789814"	
+{
+	"name"	"haku"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:234721838"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Dr. Ternith Plague"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:69668875"	
+{
+	"name"	"[Opi] Nazeem"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:147115906"	
+{
+	"name"	"Unexpected item in bagging area"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:103056899"	
+{
+	"name"	"Barack Osama"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:60026267"	
+{
+	"name"	"MinedMetal✞"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:43289698"	
+{
+	"name"	"Reda-Lex"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:56505739"	
+{
+	"name"	"Jucraft32™[GER]"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:198887705"	
+{
+	"name"	"ivanarpia"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:200061148"	
+{
+	"allow"	
+	{
+	}
+	"name"	"HellBoy9000"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:213745009"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"the taco man"
+	"group"	"PACUser"
+}
+"STEAM_0:0:88069895"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Sinbad"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:88144013"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Dino Jesus"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:176415266"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Brezz"
+	"group"	"PACUser"
+}
+"STEAM_0:0:184700386"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Richiekiller03"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:58623438"	
+{
+	"name"	"ibTravis"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:86212724"	
+{
+	"name"	"bellissimosalonstyle"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:14937030"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Baxton"
+	"group"	"PACUser"
+}
+"STEAM_0:1:26546753"	
+{
+	"name"	"TomTuggle"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:50036617"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Summerlin"
+	"group"	"PACUser"
+}
+"STEAM_0:0:143906814"	
+{
+	"name"	"Shad0w"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:77636123"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"pants"
+	"group"	"PACUser"
+}
+"STEAM_0:0:143719653"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Number one cheater"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:68066302"	
+{
+	"name"	"Oscar"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:91439102"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Molly{Poolo}"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:43772396"	
+{
+	"name"	"Yusko"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:176115809"	
+{
+	"name"	"[Limitless] Zoidberg"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:81441026"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[Opi] Lukyn150 (CZ)"
+	"group"	"Moderator"
+}
+"STEAM_0:1:73878196"	
+{
+	"name"	"justgamingnl"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:114863335"	
+{
+	"name"	"OpiDogoDankExpressAirline"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:117501283"	
+{
+	"name"	"Brenbear"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:91934671"	
+{
+	"name"	"Jim"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:61447975"	
+{
+	"name"	"wD.ELFBIPAPI13"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:80115103"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Enviro"
+	"group"	"Moderator"
+}
+"STEAM_0:0:80420240"	
+{
+	"allow"	
+	{
+	}
+	"name"	"VietnamFlashbacks"
+	"deny"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:160171071"	
+{
+	"name"	"Itz IrnBru118"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:152459863"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Mr Micspam Boi"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:73051733"	
+{
+	"name"	"BUSH WOOKIE"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:210768353"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"The Goombassador"
+	"group"	"PACUser"
+}
+"STEAM_0:0:118489559"	
+{
+	"name"	"Thanos Shoe"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:171213670"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"BigMac"
+	"group"	"PACUser"
+}
+"STEAM_0:1:448155602"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"[Opi] Apostrophe_11"
+	"group"	"PACUser"
+}
+"STEAM_0:0:57943747"	
+{
+	"name"	"[TVR]rkholcomb"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:113351239"	
+{
+	"name"	"✠Hakenkreuzfahnen✠"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:175892669"	
+{
+	"name"	"Dank The Tank"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:188872981"	
+{
+	"allow"	
+	{
+	}
+	"name"	"franco.ciarrapico"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:40127246"	
+{
+	"name"	"Tigroon"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:180345799"	
+{
+	"name"	"Lonnie"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:34265713"	
+{
+	"allow"	
+	{
+	}
+	"name"	"The Trashman"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:76103440"	
+{
+	"name"	"PapaSquidward"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:127001171"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Matthew"
+	"group"	"PACUser"
+}
+"STEAM_0:0:142107633"	
+{
+	"name"	"Bluecroft"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:120980248"	
+{
+	"allow"	
+	{
+	}
+	"name"	"calvin"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:62863283"	
+{
+	"name"	"[Opi] DeathDriver2010"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:61418543"	
+{
+	"name"	"captain mactavish call of duty"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:437461092"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"jayvoorhees"
+	"group"	"PACUser"
+}
+"STEAM_0:0:86208722"	
+{
+	"name"	"Niko"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:76412291"	
+{
+	"name"	"᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌ "
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:48666253"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Seinor sherif"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:80191519"	
+{
+	"name"	"I´m Vegan"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:218173703"	
+{
+	"allow"	
+	{
+	}
+	"name"	"[Opi] Fat Gay"
+	"deny"	
+	{
+	}
+	"group"	"Owner"
+}
+"STEAM_0:0:207625889"	
+{
+	"name"	"Okofos"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:111462645"	
+{
+	"name"	"Sock"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:197230354"	
+{
+	"allow"	
+	{
+	}
+	"name"	"JCALL13"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:216789058"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Dude Stankums"
+	"group"	"PACUser"
+}
+"STEAM_0:0:149011660"	
+{
+	"name"	"[Opi] GEWPInspectorBonk"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:40193951"	
+{
+	"name"	"Doctahclaw"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:53794411"	
+{
+	"name"	"Stevie Wonder"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:126343752"	
+{
+	"name"	"h-villy"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:111904969"	
+{
+	"allow"	
+	{
+	}
+	"name"	"braincat3"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:0:437585628"	
+{
+	"name"	"dinmet4"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:52038966"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"AIO l Mine_Turtle"
+	"group"	"Moderator"
+}
+"STEAM_0:0:81319807"	
+{
+	"name"	"Margulis Kaleen."
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:152179878"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Erazernick3"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:33479450"	
+{
+	"allow"	
+	{
+	}
+	"name"	"Tamer"
+	"deny"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:18823954"	
+{
+	"name"	"Bob Ross"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}
+"STEAM_0:1:44240446"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Majorelle"
+	"group"	"PACUser"
+}
+"STEAM_0:0:57340773"	
+{
+	"name"	"rabid_billy_mays"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"PACUser"
+}

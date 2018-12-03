@@ -1,0 +1,363 @@
+Sat Nov 17 00:09:23 2018	Nid_Flindirz (STEAM_0:1:76037270) has joined the game
+Sat Nov 17 00:09:23 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:17:14 2018	Nid_Flindirz was killed by Entity [2282][trigger_hurt] with a trigger_hurt
+Sat Nov 17 00:17:15 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:17:29 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:21:07 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Nov 17 00:29:59 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:30:00 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:30:12 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:30:16 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:30:50 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:30:51 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:30:58 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:31:00 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:31:09 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:31:13 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:31:24 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:31:25 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:31:37 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:31:38 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:31:46 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:31:47 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:31:55 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:31:56 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:32:05 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:32:06 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:32:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Nov 17 00:32:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 00:32:15 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sat Nov 17 00:32:15 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 00:32:49 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:32:50 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:32:56 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:32:57 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:33:15 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:33:18 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:33:25 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:33:26 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:33:42 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:33:43 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:33:57 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:33:58 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:34:02 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 00:34:03 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Nov 17 00:34:07 2018	Enviro (STEAM_0:0:80115103): Howdy
+Sat Nov 17 00:34:27 2018	Enviro (STEAM_0:0:80115103): whats this
+Sat Nov 17 00:34:48 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:34:51 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:35:48 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:35:49 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:37:10 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Sat Nov 17 00:37:10 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 00:39:24 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 00:39:47 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 00:40:26 2018	TempusBilBoJo (STEAM_0:0:204382926): DONT FORGET TODAY IS PIZZA DAY
+Sat Nov 17 00:40:43 2018	Enviro (STEAM_0:0:80115103): !intercomban
+Sat Nov 17 00:40:58 2018	TempusBilBoJo (STEAM_0:0:204382926): yush
+Sat Nov 17 00:41:09 2018	TempusBilBoJo (STEAM_0:0:204382926): Imma go afk I just came here to help the playercount
+Sat Nov 17 00:41:22 2018	TempusBilBoJo (STEAM_0:0:204382926): 
+Sat Nov 17 00:41:24 2018	TempusBilBoJo (STEAM_0:0:204382926): /afk
+Sat Nov 17 00:44:46 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:44:48 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:49:04 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sat Nov 17 00:49:04 2018	Gordon Ramsey (STEAM_0:1:444450075) spawned
+Sat Nov 17 00:50:26 2018	Enviro (STEAM_0:0:80115103): ok uhm
+Sat Nov 17 00:50:29 2018	Enviro (STEAM_0:0:80115103): what is happening
+Sat Nov 17 00:50:30 2018	Enviro (STEAM_0:0:80115103): lol
+Sat Nov 17 00:51:02 2018	TempusBilBoJo (STEAM_0:0:204382926): thats hot
+Sat Nov 17 00:51:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // tell me if you guys wanna do any event related stuff, I know there is a BMRF event coming up and enviro may do one
+Sat Nov 17 00:52:56 2018	Gordon Ramsey (STEAM_0:1:444450075) spawned
+Sat Nov 17 00:53:27 2018	Gordon Ramsey (STEAM_0:1:444450075): /Name Director Ramsey
+Sat Nov 17 00:54:29 2018	Nid_Flindirz was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Nov 17 00:54:30 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 00:55:46 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 00:55:53 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 00:55:55 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:55:58 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 00:56:00 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:04 2018	TempusBilBoJo (STEAM_0:0:204382926): hax
+Sat Nov 17 00:56:05 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:07 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:07 2018	TempusBilBoJo (STEAM_0:0:204382926): hax
+Sat Nov 17 00:56:08 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:11 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:12 2018	TempusBilBoJo (STEAM_0:0:204382926): hax
+Sat Nov 17 00:56:13 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:15 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:16 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:17 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:19 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:20 2018	Enviro (STEAM_0:0:80115103): hax
+Sat Nov 17 00:56:22 2018	TempusBilBoJo (STEAM_0:0:204382926): hax
+Sat Nov 17 00:58:24 2018	Enviro (STEAM_0:0:80115103): shit lol
+Sat Nov 17 00:58:26 2018	Enviro (STEAM_0:0:80115103): Hello Director
+Sat Nov 17 00:58:31 2018	Director Ramsey (STEAM_0:1:444450075): Hello
+Sat Nov 17 00:58:40 2018	Enviro (STEAM_0:0:80115103): Very nice T-Pose
+Sat Nov 17 00:59:17 2018	Director Ramsey was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:59:23 2018	Director Ramsey (STEAM_0:1:444450075) spawned
+Sat Nov 17 00:59:41 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 00:59:42 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:00:21 2018	Director Ramsey (STEAM_0:1:444450075) spawned
+Sat Nov 17 01:00:59 2018	Enviro (STEAM_0:0:80115103): smart
+Sat Nov 17 01:01:07 2018	Enviro (STEAM_0:0:80115103): // okay,t his is epic
+Sat Nov 17 01:02:19 2018	Director Ramsey (STEAM_0:1:444450075) disconnected
+Sat Nov 17 01:04:04 2018	Nid_Flindirz was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Sat Nov 17 01:04:05 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:04:30 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:04:31 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:05:06 2018	Enviro (STEAM_0:0:80115103): oH dude
+Sat Nov 17 01:05:14 2018	Enviro (STEAM_0:0:80115103): dude
+Sat Nov 17 01:05:16 2018	Enviro (STEAM_0:0:80115103): dude
+Sat Nov 17 01:05:29 2018	Enviro (STEAM_0:0:80115103): wtf justhapppened
+Sat Nov 17 01:06:18 2018	Enviro (STEAM_0:0:80115103): check dis out
+Sat Nov 17 01:06:25 2018	TempusBilBoJo (STEAM_0:0:204382926): !motd
+Sat Nov 17 01:08:03 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 01:09:22 2018	Enviro (STEAM_0:0:80115103): !set gun1 a
+Sat Nov 17 01:14:16 2018	Enviro (STEAM_0:0:80115103): !set gun1
+Sat Nov 17 01:16:34 2018	sambulance (STEAM_0:0:106398417) has joined the game
+Sat Nov 17 01:16:34 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:18:29 2018	Enviro (STEAM_0:0:80115103): !set gun1 AK-47
+Sat Nov 17 01:18:39 2018	Enviro (STEAM_0:0:80115103): !set price1 7500
+Sat Nov 17 01:18:47 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:18:55 2018	Enviro (STEAM_0:0:80115103): !set price1 14000
+Sat Nov 17 01:18:58 2018	Chickswithdicks (STEAM_0:1:86800123) has joined the game
+Sat Nov 17 01:18:58 2018	DixBFloppin (STEAM_0:1:86800123) spawned
+Sat Nov 17 01:19:21 2018	Joseph Brown (STEAM_0:0:106398417): /dropmoney 1
+Sat Nov 17 01:19:22 2018	Joseph Brown (STEAM_0:0:106398417) has dropped $1
+Sat Nov 17 01:19:38 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 01:19:43 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 01:19:45 2018	Nid_Flindirz (STEAM_0:1:76037270): // place a prop
+Sat Nov 17 01:19:47 2018	Joseph Brown (STEAM_0:0:106398417): hax
+Sat Nov 17 01:20:04 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 01:20:18 2018	Enviro (STEAM_0:0:80115103): its uh
+Sat Nov 17 01:20:21 2018	Enviro (STEAM_0:0:80115103): little broken
+Sat Nov 17 01:20:29 2018	DixBFloppin (STEAM_0:1:86800123) disconnected
+Sat Nov 17 01:20:41 2018	Joseph Brown was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:20:42 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:22:00 2018	Joseph Brown was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:22:01 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:22:28 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 01:22:50 2018	Enviro (STEAM_0:0:80115103): how does this work
+Sat Nov 17 01:23:03 2018	Enviro (STEAM_0:0:80115103): oh waterizer?
+Sat Nov 17 01:23:44 2018	TempusBilBoJo (STEAM_0:0:204382926): oh gosh
+Sat Nov 17 01:23:50 2018	TempusBilBoJo (STEAM_0:0:204382926): I have an idea
+Sat Nov 17 01:25:00 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:25:29 2018	Enviro (STEAM_0:0:80115103): chll wit t
+Sat Nov 17 01:25:51 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:25:52 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:30:17 2018	Enviro (STEAM_0:0:80115103): woops
+Sat Nov 17 01:30:19 2018	Enviro (STEAM_0:0:80115103): oops
+Sat Nov 17 01:31:02 2018	Trashman27 (STEAM_0:0:194962097) has joined the game
+Sat Nov 17 01:31:02 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:32:55 2018	Enviro (STEAM_0:0:80115103): // Use voice chat to say stuff over intercom
+Sat Nov 17 01:33:10 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:35:35 2018	Trashman27 was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:35:37 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:35:39 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:37:37 2018	Enviro (STEAM_0:0:80115103): WHAT
+Sat Nov 17 01:37:41 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:37:43 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:37:45 2018	Enviro (STEAM_0:0:80115103): // HOW IS THIS POSSIBLE
+Sat Nov 17 01:37:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 01:43:22 2018	Joseph Brown was killed by Trashman27 with a cw_mp5
+Sat Nov 17 01:43:25 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:43:41 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:43:42 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:43:45 2018	Trashman27 was killed by Entity [3236][trigger_hurt] with a trigger_hurt
+Sat Nov 17 01:43:46 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:44:02 2018	TempusBilBoJo (STEAM_0:0:204382926): HEY
+Sat Nov 17 01:44:08 2018	TempusBilBoJo (STEAM_0:0:204382926): GO COOL THE CORE 
+Sat Nov 17 01:44:13 2018	TempusBilBoJo (STEAM_0:0:204382926): THATS HOT
+Sat Nov 17 01:44:42 2018	[Opi] Fat Gay was killed by Entity [2282][trigger_hurt] with a trigger_hurt
+Sat Nov 17 01:44:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 01:44:53 2018	TempusBilBoJo (STEAM_0:0:204382926): hey danny devito
+Sat Nov 17 01:46:34 2018	TempusBilBoJo (STEAM_0:0:204382926): /y thats not cash money
+Sat Nov 17 01:47:01 2018	Enviro was killed by Joseph Brown with a cw_shorty
+Sat Nov 17 01:47:07 2018	Enviro (STEAM_0:0:80115103): // mega off
+Sat Nov 17 01:47:10 2018	Enviro (STEAM_0:0:80115103): // oof*
+Sat Nov 17 01:47:12 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 01:47:14 2018	TempusBilBoJo (STEAM_0:0:204382926): INCOMING
+Sat Nov 17 01:47:20 2018	Joseph Brown (STEAM_0:0:106398417): // XD
+Sat Nov 17 01:47:36 2018	Enviro (STEAM_0:0:80115103): [[ what is this
+Sat Nov 17 01:47:38 2018	Enviro (STEAM_0:0:80115103): /looc a
+Sat Nov 17 01:47:41 2018	Enviro (STEAM_0:0:80115103): /looc whtthis
+Sat Nov 17 01:47:52 2018	Enviro (STEAM_0:0:80115103): OHGOD
+Sat Nov 17 01:47:57 2018	TempusBilBoJo (STEAM_0:0:204382926): TORTURE CHAMBER TIME
+Sat Nov 17 01:48:12 2018	TempusBilBoJo (STEAM_0:0:204382926): WERE TOO SANIC FOR U
+Sat Nov 17 01:48:58 2018	TempusBilBoJo (STEAM_0:0:204382926): oh no
+Sat Nov 17 01:49:21 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:49:22 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 01:49:31 2018	TempusBilBoJo was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:49:36 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 01:50:46 2018	Trashman27 was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:50:50 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:50:55 2018	Nid_Flindirz was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:50:56 2018	Enviro was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:50:57 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 01:51:00 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:51:07 2018	Enviro (STEAM_0:0:80115103): //oH shit
+Sat Nov 17 01:51:11 2018	Enviro (STEAM_0:0:80115103): COME QUICK
+Sat Nov 17 01:51:27 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:52:19 2018	Enviro (STEAM_0:0:80115103): dont blcok it off
+Sat Nov 17 01:53:34 2018	TempusBilBoJo (STEAM_0:0:204382926) disconnected
+Sat Nov 17 01:54:58 2018	Enviro (STEAM_0:0:80115103): jk lol
+Sat Nov 17 01:55:42 2018	[Opi] Fat Gay was killed by Entity [4925][trigger_hurt] with a trigger_hurt
+Sat Nov 17 01:55:43 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 01:55:47 2018	Nid_Flindirz was killed by Himself with a suicide trick
+Sat Nov 17 01:55:47 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 01:55:47 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Nov 17 01:55:47 2018	Joseph Brown was killed by Himself with a suicide trick
+Sat Nov 17 01:55:47 2018	Trashman27 was killed by Himself with a suicide trick
+Sat Nov 17 01:55:49 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 01:55:50 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:55:50 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:55:51 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:55:52 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 01:55:59 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 01:56:01 2018	Not DJ (STEAM_0:0:95072396) has joined the game
+Sat Nov 17 01:56:01 2018	Chef DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 01:56:15 2018	Enviro (STEAM_0:0:80115103): // gonna head off in a bit 
+Sat Nov 17 01:56:22 2018	Enviro (STEAM_0:0:80115103): // maybe half a hour
+Sat Nov 17 01:56:22 2018	Trashman27 (STEAM_0:0:194962097) spawned
+Sat Nov 17 01:56:34 2018	Chef DJ (STEAM_0:0:95072396): // God fucking dammit so sorry im late!
+Sat Nov 17 01:56:52 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 01:57:01 2018	Joseph Brown (STEAM_0:0:106398417): /job Plant Worker
+Sat Nov 17 01:57:07 2018	Chef DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 01:57:22 2018	Chef DJ (STEAM_0:0:95072396): // Fuck what did I miss?
+Sat Nov 17 01:57:30 2018	Chef DJ (STEAM_0:0:95072396): // OH RAILINGS
+Sat Nov 17 01:58:09 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 01:58:21 2018	Chef DJ (STEAM_0:0:95072396) disconnected
+Sat Nov 17 01:59:13 2018	Joseph Brown was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 01:59:15 2018	Joseph Brown (STEAM_0:0:106398417) spawned
+Sat Nov 17 02:00:20 2018	Joseph Brown (STEAM_0:0:106398417) disconnected
+Sat Nov 17 02:00:32 2018	Not DJ (STEAM_0:0:95072396) has joined the game
+Sat Nov 17 02:00:32 2018	Chef DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:01:00 2018	Chef DJ (STEAM_0:0:95072396): // Of course I had to crash.
+Sat Nov 17 02:01:36 2018	Chef DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:02:23 2018	Chef DJ (STEAM_0:0:95072396): // Hello?
+Sat Nov 17 02:02:28 2018	Nid_Flindirz (STEAM_0:1:76037270): // hi
+Sat Nov 17 02:03:07 2018	Nid_Flindirz was killed by Entity [2282][trigger_hurt] with a trigger_hurt
+Sat Nov 17 02:03:08 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 02:05:33 2018	Trashman27 (STEAM_0:0:194962097) disconnected
+Sat Nov 17 02:06:02 2018	Nid_Flindirz (STEAM_0:1:76037270) spawned
+Sat Nov 17 02:06:24 2018	Chef DJ (STEAM_0:0:95072396) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Nov 17 02:06:39 2018	Nid_Flindirz (STEAM_0:1:76037270) disconnected
+Sat Nov 17 02:06:55 2018	Chef DJ (STEAM_0:0:95072396): /name DJ
+Sat Nov 17 02:07:01 2018	Chef DJ (STEAM_0:0:95072396): /name Not DJ
+Sat Nov 17 02:08:22 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:08:24 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:08:57 2018	Not DJ (STEAM_0:0:95072396): // Somebody come to the lobby
+Sat Nov 17 02:09:38 2018	Not DJ (STEAM_0:0:95072396): // Enviro
+Sat Nov 17 02:09:56 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:09:59 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:10:14 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:10:17 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:10:21 2018	Enviro (STEAM_0:0:80115103): hoW
+Sat Nov 17 02:10:28 2018	Not DJ (STEAM_0:0:95072396): Wiremod.
+Sat Nov 17 02:10:32 2018	Enviro (STEAM_0:0:80115103): what in wiremod
+Sat Nov 17 02:10:35 2018	Enviro (STEAM_0:0:80115103): do you use to kill the eprson
+Sat Nov 17 02:10:36 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:10:37 2018	Not DJ (STEAM_0:0:95072396): Pod controllers
+Sat Nov 17 02:10:38 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:10:45 2018	Enviro (STEAM_0:0:80115103) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Nov 17 02:11:03 2018	Not DJ (STEAM_0:0:95072396): Wire "Terminate" to "Active"
+Sat Nov 17 02:11:16 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:11:17 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:11:17 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:11:19 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:11:22 2018	Enviro (STEAM_0:0:80115103): // oh nice
+Sat Nov 17 02:11:31 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:11:36 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:11:39 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:11:41 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:11:42 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:11:43 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:11:43 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:11:46 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:11:47 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:11:48 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:11:49 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:11:50 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:11:52 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:11:55 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:11:56 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:14:22 2018	Not DJ (STEAM_0:0:95072396): Okay that was weird.
+Sat Nov 17 02:14:52 2018	Not DJ (STEAM_0:0:95072396): h o w
+Sat Nov 17 02:15:06 2018	TempusBilBoJo (STEAM_0:0:204382926) has joined the game
+Sat Nov 17 02:15:06 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 02:15:24 2018	Not DJ (STEAM_0:0:95072396): !addons
+Sat Nov 17 02:16:22 2018	Not DJ (STEAM_0:0:95072396): What models were those rooms?
+Sat Nov 17 02:16:26 2018	Enviro (STEAM_0:0:80115103): INFRA prop pack
+Sat Nov 17 02:16:48 2018	Not DJ (STEAM_0:0:95072396): Oh hey isnt that a mod based on the source engine?
+Sat Nov 17 02:16:53 2018	Enviro (STEAM_0:0:80115103): ya
+Sat Nov 17 02:17:05 2018	Not DJ (STEAM_0:0:95072396): Sounds pretty good.
+Sat Nov 17 02:17:17 2018	Enviro (STEAM_0:0:80115103): I thought it was unreal engine game or something
+Sat Nov 17 02:17:26 2018	Enviro (STEAM_0:0:80115103): it looks so good
+Sat Nov 17 02:17:31 2018	TempusBilBoJo (STEAM_0:0:204382926): Steam
+Sat Nov 17 02:17:33 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 02:17:35 2018	TempusBilBoJo (STEAM_0:0:204382926): !steam
+Sat Nov 17 02:17:41 2018	Not DJ (STEAM_0:0:95072396): Almost like source 2
+Sat Nov 17 02:17:50 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 02:18:00 2018	TempusBilBoJo (STEAM_0:0:204382926): HAX
+Sat Nov 17 02:19:29 2018	Not DJ (STEAM_0:0:95072396): 
+Sat Nov 17 02:19:34 2018	Not DJ (STEAM_0:0:95072396): 
+Sat Nov 17 02:19:45 2018	Not DJ (STEAM_0:0:95072396): 
+Sat Nov 17 02:19:48 2018	Not DJ (STEAM_0:0:95072396): 
+Sat Nov 17 02:19:57 2018	TempusBilBoJo (STEAM_0:0:204382926): 
+Sat Nov 17 02:20:09 2018	Not DJ (STEAM_0:0:95072396): Wait
+Sat Nov 17 02:20:12 2018	Not DJ (STEAM_0:0:95072396): HOW THE FUCK
+Sat Nov 17 02:20:16 2018	Not DJ (STEAM_0:0:95072396): DID I LOOSE 1 MIL?
+Sat Nov 17 02:20:21 2018	Enviro (STEAM_0:0:80115103): Money was reset
+Sat Nov 17 02:20:23 2018	Not DJ (STEAM_0:0:95072396): FUCK
+Sat Nov 17 02:20:33 2018	Not DJ (STEAM_0:0:95072396): Why?
+Sat Nov 17 02:20:41 2018	TempusBilBoJo (STEAM_0:0:204382926): 
+Sat Nov 17 02:20:59 2018	TempusBilBoJo (STEAM_0:0:204382926): 
+Sat Nov 17 02:21:12 2018	TempusBilBoJo (STEAM_0:0:204382926): ah damn
+Sat Nov 17 02:21:14 2018	TempusBilBoJo (STEAM_0:0:204382926): competition
+Sat Nov 17 02:21:26 2018	Not DJ (STEAM_0:0:95072396): God fucking dammit I spent a solid day straight grinding for that 1.5 mil
+Sat Nov 17 02:22:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !menu
+Sat Nov 17 02:23:04 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 02:23:05 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 02:25:16 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:25:17 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:25:23 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:25:25 2018	Enviro was killed by Himself with a suicide trick
+Sat Nov 17 02:25:26 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:25:32 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:25:33 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:26:15 2018	Not DJ (STEAM_0:0:95072396): // How about we melt this fucker down?
+Sat Nov 17 02:26:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): // good enough
+Sat Nov 17 02:26:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:27:39 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto dj
+Sat Nov 17 02:27:45 2018	TempusBilBoJo (STEAM_0:0:204382926): hey
+Sat Nov 17 02:27:51 2018	Enviro (STEAM_0:0:80115103): hey
+Sat Nov 17 02:27:53 2018	TempusBilBoJo (STEAM_0:0:204382926): mom said its my turn on the xbox
+Sat Nov 17 02:27:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /dropmoney 500000
+Sat Nov 17 02:27:54 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has dropped $500,000
+Sat Nov 17 02:27:57 2018	Not DJ (STEAM_0:0:95072396): The weapons are okay.
+Sat Nov 17 02:28:03 2018	Not DJ (STEAM_0:0:95072396): Oh thank you!
+Sat Nov 17 02:28:05 2018	Enviro was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 02:29:28 2018	[Opi] Fat Gay was killed by Entity [0][worldspawn] with a unknown
+Sat Nov 17 02:29:29 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 02:30:26 2018	TempusBilBoJo was killed by Himself with a suicide trick
+Sat Nov 17 02:30:30 2018	TempusBilBoJo (STEAM_0:0:204382926) spawned
+Sat Nov 17 02:30:48 2018	TempusBilBoJo (STEAM_0:0:204382926) disconnected
+Sat Nov 17 02:31:56 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Nov 17 02:32:12 2018	Not DJ (STEAM_0:0:95072396): 
+Sat Nov 17 02:32:53 2018	Not DJ (STEAM_0:0:95072396): // Uh I think I found a bug
+Sat Nov 17 02:32:59 2018	Not DJ (STEAM_0:0:95072396): // You can purchase the tram doors
+Sat Nov 17 02:39:22 2018	Enviro (STEAM_0:0:80115103) disconnected
+Sat Nov 17 02:46:16 2018	Not DJ was killed by Entity [4921][trigger_hurt] with a trigger_hurt
+Sat Nov 17 02:46:20 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:46:37 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:46:42 2018	Not DJ was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Sat Nov 17 02:46:44 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:46:49 2018	Not DJ was killed by Entity [4932][trigger_hurt] with a trigger_hurt
+Sat Nov 17 02:46:51 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:46:53 2018	Not DJ was killed by Himself with a suicide trick
+Sat Nov 17 02:46:53 2018	[Opi] Fat Gay was killed by Himself with a suicide trick
+Sat Nov 17 02:46:58 2018	Not DJ (STEAM_0:0:95072396) spawned
+Sat Nov 17 02:50:50 2018	Not DJ (STEAM_0:0:95072396) disconnected
+Sat Nov 17 03:00:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Nov 17 03:00:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected

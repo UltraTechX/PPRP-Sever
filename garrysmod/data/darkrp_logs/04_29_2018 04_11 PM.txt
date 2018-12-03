@@ -1,0 +1,107 @@
+Sun Apr 29 16:11:56 2018	Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Apr 29 16:11:56 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:12:17 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Apr 29 16:12:17 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:12:38 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:13:35 2018	Fat Gay (STEAM_0:1:218173703): !cac_menu
+Sun Apr 29 16:14:41 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:15:12 2018	Fat Gay was killed by Emmett with a cw_deagle
+Sun Apr 29 16:16:15 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:17:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT cw_ammo_338lapua
+Sun Apr 29 16:17:50 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_customertable
+Sun Apr 29 16:17:54 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sun Apr 29 16:18:17 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_opensign
+Sun Apr 29 16:18:21 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sun Apr 29 16:18:23 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sun Apr 29 16:22:26 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sun Apr 29 16:22:37 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sun Apr 29 16:22:43 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sun Apr 29 16:22:45 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sun Apr 29 16:22:52 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_oven
+Sun Apr 29 16:23:01 2018	Fat Gay (STEAM_0:1:218173703) spawned SENT zpizmak_fridge
+Sun Apr 29 16:24:18 2018	Fat Gay (STEAM_0:1:218173703): !savepizzamaker
+Sun Apr 29 16:24:45 2018	Fat Gay (STEAM_0:1:218173703): !goto va
+Sun Apr 29 16:24:47 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Apr 29 16:25:02 2018	Fat Gay (STEAM_0:1:218173703): !savepizzamaker
+Sun Apr 29 16:28:10 2018	Emmett was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 29 16:28:11 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:30:44 2018	Emmett (STEAM_0:1:41660292): /nick niggerslayer
+Sun Apr 29 16:31:34 2018	niggerslayer (STEAM_0:1:41660292): /nick Valien
+Sun Apr 29 16:31:49 2018	Valien (STEAM_0:1:41660292): /job niggerslayer
+Sun Apr 29 16:35:03 2018	Valien (STEAM_0:1:41660292): /job Intercom Douche
+Sun Apr 29 16:37:52 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Apr 29 16:37:56 2018	Fat Gay (STEAM_0:1:218173703): !goto em
+Sun Apr 29 16:38:04 2018	Fat Gay (STEAM_0:1:218173703): !goto va
+Sun Apr 29 16:38:28 2018	Valien was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 29 16:38:32 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:38:34 2018	Fat Gay was killed by Entity [1682][trigger_hurt] with a trigger_hurt
+Sun Apr 29 16:38:37 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:38:38 2018	Valien (STEAM_0:1:41660292): !goto fat
+Sun Apr 29 16:38:48 2018	Valien (STEAM_0:1:41660292): !goto fa
+Sun Apr 29 16:39:00 2018	Valien was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 16:39:08 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:39:32 2018	Fat Gay (STEAM_0:1:218173703): !menu
+Sun Apr 29 16:39:45 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:45 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:45 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:46 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:46 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:46 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:46 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:47 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:47 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:47 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:48 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:48 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:48 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:49 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:39:58 2018	Valien was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 16:40:01 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:40:22 2018	Valien (STEAM_0:1:41660292): /job Super Douche
+Sun Apr 29 16:40:33 2018	Valien was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 16:40:43 2018	Fat Gay (STEAM_0:1:218173703): !bring va
+Sun Apr 29 16:40:43 2018	Valien (STEAM_0:1:41660292): /job god damn fool of himself
+Sun Apr 29 16:40:44 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:40:51 2018	Valien (STEAM_0:1:41660292): /job test
+Sun Apr 29 16:41:00 2018	Valien (STEAM_0:1:41660292): 
+Sun Apr 29 16:41:12 2018	Valien (STEAM_0:1:41660292): /job has been made a god damn fool
+Sun Apr 29 16:41:19 2018	Valien (STEAM_0:1:41660292): /job fool
+Sun Apr 29 16:41:27 2018	Valien (STEAM_0:1:41660292): /jobs fool of himself
+Sun Apr 29 16:41:35 2018	Valien (STEAM_0:1:41660292): /job fool of himself
+Sun Apr 29 16:42:42 2018	Valien was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 16:42:43 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:42:53 2018	Valien (STEAM_0:1:41660292): /job SODIUM NIGGER
+Sun Apr 29 16:43:04 2018	Valien was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 16:43:05 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:43:12 2018	Valien was killed by Fat Gay with a pill_wep_pro
+Sun Apr 29 16:43:13 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:43:15 2018	Fat Gay was killed by Valien with a cw_deagle
+Sun Apr 29 16:43:17 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:43:18 2018	Fat Gay (STEAM_0:1:218173703) spawned NPC npc_monk
+Sun Apr 29 16:43:23 2018	Valien (STEAM_0:1:41660292): /job
+Sun Apr 29 16:43:30 2018	Valien (STEAM_0:1:41660292): /job Emmett
+Sun Apr 29 16:43:31 2018	Valien was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 16:43:33 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:43:40 2018	Fat Gay was killed by Valien with a cw_deagle
+Sun Apr 29 16:43:41 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:43:50 2018	Valien (STEAM_0:1:41660292): /joblist
+Sun Apr 29 16:43:52 2018	Valien (STEAM_0:1:41660292): /job
+Sun Apr 29 16:44:00 2018	Valien was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 16:44:02 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:44:15 2018	Valien was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 16:44:17 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:44:35 2018	Valien was killed by Fat Gay with a pill_wep_annabelle
+Sun Apr 29 16:44:37 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:45:33 2018	Fat Gay was killed by Valien with a cw_deagle
+Sun Apr 29 16:45:42 2018	Valien (STEAM_0:1:41660292) disconnected
+Sun Apr 29 16:45:58 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Apr 29 16:46:00 2018	Fat Gay (STEAM_0:1:218173703): /DEMOTE
+Sun Apr 29 16:46:04 2018	Fat Gay (STEAM_0:1:218173703): /demote em
+Sun Apr 29 16:46:25 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Apr 29 16:46:25 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:47:11 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:47:43 2018	Fat Gay (STEAM_0:1:218173703): !goto va
+Sun Apr 29 16:47:44 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:48:15 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:48:57 2018	Valien (STEAM_0:1:41660292) spawned
+Sun Apr 29 16:49:16 2018	Valien (STEAM_0:1:41660292): /nick Locked

@@ -1,0 +1,28 @@
+Sun Sep 23 02:01:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Sep 23 02:01:16 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 02:01:50 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Sep 23 02:01:50 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 02:02:18 2018	LethalDumpster (STEAM_0:1:101135062) has joined the game
+Sun Sep 23 02:02:18 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:03:40 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:04:31 2018	LethalDumpster was killed by Himself with a suicide trick
+Sun Sep 23 02:04:34 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:05:57 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:06:03 2018	Emmett was killed by LethalDumpster with a cw_l115
+Sun Sep 23 02:06:03 2018	Bot06 (BOT) has joined the game
+Sun Sep 23 02:06:03 2018	Bot06 (BOT) spawned
+Sun Sep 23 02:06:05 2018	Fat Gay was killed by LethalDumpster with a cw_l115
+Sun Sep 23 02:06:06 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 02:06:18 2018	Emmett was killed by LethalDumpster with a cw_l115
+Sun Sep 23 02:06:19 2018	Emmett (STEAM_0:1:41660292) spawned
+Sun Sep 23 02:06:21 2018	LethalDumpster was killed by Emmett with a weapon_pumpshotgun2
+Sun Sep 23 02:06:21 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:06:24 2018	Emmett (STEAM_0:1:41660292) disconnected
+Sun Sep 23 02:06:35 2018	Fat Gay (STEAM_0:1:218173703) spawned
+Sun Sep 23 02:08:49 2018	LethalDumpster was killed by Entity [2265][trigger_hurt] with a trigger_hurt
+Sun Sep 23 02:08:50 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:13:55 2018	Fat Gay (STEAM_0:1:218173703) disconnected
+Sun Sep 23 02:26:03 2018	LethalDumpster was killed by Entity [0][worldspawn] with a unknown
+Sun Sep 23 02:26:04 2018	LethalDumpster (STEAM_0:1:101135062) spawned
+Sun Sep 23 02:28:39 2018	LethalDumpster (STEAM_0:1:101135062) disconnected
+Sun Sep 23 02:28:39 2018	Bot06 (BOT) disconnected

@@ -1,0 +1,53 @@
+Fri Nov 16 13:29:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Fri Nov 16 13:29:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Nov 16 14:08:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Fri Nov 16 14:12:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Fri Nov 16 14:12:45 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Nov 16 14:19:01 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Fri Nov 16 14:20:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Fri Nov 16 14:20:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Nov 16 14:28:52 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Fri Nov 16 14:34:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Fri Nov 16 14:34:53 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Nov 16 14:36:58 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Fri Nov 16 15:27:05 2018	[Opi] Fat Gay was killed by Entity [3403][trigger_hurt] with a trigger_hurt
+Fri Nov 16 15:36:36 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Fri Nov 16 15:40:10 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Fri Nov 16 15:40:10 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Nov 16 15:42:55 2018	Jeroma (STEAM_0:0:121143569): Hello
+Fri Nov 16 15:43:02 2018	Jeroma (STEAM_0:0:121143569): How are you?
+Fri Nov 16 15:43:08 2018	Jeroma (STEAM_0:0:121143569): Im also good
+Fri Nov 16 15:43:25 2018	Jeroma (STEAM_0:0:121143569): Ok
+Fri Nov 16 15:43:35 2018	Jeroma (STEAM_0:0:121143569): yep
+Fri Nov 16 15:44:21 2018	Jeroma (STEAM_0:0:121143569): Yep
+Fri Nov 16 15:44:39 2018	Jeroma (STEAM_0:0:121143569): Ok
+Fri Nov 16 15:45:53 2018	Jeroma (STEAM_0:0:121143569): Ok
+Fri Nov 16 15:46:37 2018	Jeroma (STEAM_0:0:121143569): Ok
+Fri Nov 16 15:46:50 2018	Jeroma (STEAM_0:0:121143569): Ok
+Fri Nov 16 15:50:21 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Nov 16 15:50:32 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Fri Nov 16 15:55:42 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Nov 16 15:58:35 2018	Jeroma (STEAM_0:0:121143569) spawned
+Fri Nov 16 16:04:36 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Fri Nov 16 16:11:38 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Fri Nov 16 20:04:22 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Fri Nov 16 20:04:22 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:12:18 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Fri Nov 16 20:18:14 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Fri Nov 16 20:18:14 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:20:09 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:22:21 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Fri Nov 16 20:26:59 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Fri Nov 16 20:26:59 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:28:01 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:28:06 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Fri Nov 16 20:33:17 2018	Dr.Towers (STEAM_0:0:20004733) has joined the game
+Fri Nov 16 20:33:17 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:34:43 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:44:15 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:44:29 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:44:47 2018	Bob Burbanks (STEAM_0:0:20004733) spawned
+Fri Nov 16 20:45:56 2018	Bob Burbanks (STEAM_0:0:20004733) disconnected
+Fri Nov 16 21:35:19 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Fri Nov 16 21:35:19 2018	Enviro (STEAM_0:0:80115103) spawned
+Fri Nov 16 21:53:42 2018	Enviro (STEAM_0:0:80115103) disconnected

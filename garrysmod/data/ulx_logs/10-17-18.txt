@@ -1,0 +1,9 @@
+[16:28:04] New map: rp_powerplant_v2b3
+[16:28:15] Client "challe" connected.
+
+
+
+[23:48:11] New map: rp_powerplant_v2b3
+[23:48:12] Client "Blaze Opi" connected.
+[23:48:13] Client "Ｔｅｘｔ．Ƹ̴Ӂ̴Ʒ [ABC]" connected.
+[23:48:13] Client "Dots" connected.

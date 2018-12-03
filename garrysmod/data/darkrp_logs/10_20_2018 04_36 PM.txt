@@ -1,0 +1,623 @@
+Sat Oct 20 16:36:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sat Oct 20 16:36:57 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sat Oct 20 16:37:13 2018	[Opi] Fat Gay (STEAM_0:1:218173703) disconnected
+Sat Oct 20 16:37:14 2018	Kilroy (STEAM_0:0:138507625) has joined the game
+Sat Oct 20 16:37:14 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 16:37:25 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sat Oct 20 16:37:25 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 16:37:25 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Sat Oct 20 16:37:25 2018	Bob Bobsson (STEAM_0:0:69022001) spawned
+Sat Oct 20 16:37:41 2018	Cdr Riley (STEAM_0:0:106554367) has joined the game
+Sat Oct 20 16:37:41 2018	Hibiki (STEAM_0:0:106554367) spawned
+Sat Oct 20 16:37:42 2018	wolfhugger 3000 (STEAM_0:1:42591216) disconnected
+Sat Oct 20 16:37:45 2018	Bob Bobsson (STEAM_0:0:69022001) disconnected
+Sat Oct 20 16:37:54 2018	Malotroth (STEAM_0:0:90780827) has joined the game
+Sat Oct 20 16:37:54 2018	Malotroth (STEAM_0:0:90780827) spawned
+Sat Oct 20 16:37:55 2018	Craftygarrett (STEAM_0:1:184775407) has joined the game
+Sat Oct 20 16:37:55 2018	Caboose (STEAM_0:1:184775407) spawned
+Sat Oct 20 16:38:19 2018	Hibiki (STEAM_0:0:106554367) disconnected
+Sat Oct 20 16:38:44 2018	Not GimON (STEAM_0:0:95660701) has joined the game
+Sat Oct 20 16:38:44 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 16:38:45 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Sat Oct 20 16:38:45 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 16:38:57 2018	Douevenban (STEAM_0:0:75732529) has joined the game
+Sat Oct 20 16:38:57 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:38:59 2018	[Opi] wolfhugger 3000 (STEAM_0:1:42591216) has joined the game
+Sat Oct 20 16:38:59 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 16:39:26 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 16:39:27 2018	Caboose (STEAM_0:1:184775407) spawned
+Sat Oct 20 16:39:30 2018	Goober (STEAM_0:1:118919038) has joined the game
+Sat Oct 20 16:39:30 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:39:34 2018	Cdr Riley (STEAM_0:0:106554367) has joined the game
+Sat Oct 20 16:39:34 2018	Hibiki (STEAM_0:0:106554367) spawned
+Sat Oct 20 16:39:39 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:39:45 2018	WildToastyMop (STEAM_0:0:93414166) has joined the game
+Sat Oct 20 16:39:45 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 20 16:39:51 2018	Crash_Trooper (STEAM_0:1:94924909) has joined the game
+Sat Oct 20 16:39:51 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 16:40:06 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Sat Oct 20 16:40:06 2018	Bob Bobsson (STEAM_0:0:69022001) spawned
+Sat Oct 20 16:40:26 2018	Berry (STEAM_0:1:103915258) has joined the game
+Sat Oct 20 16:40:26 2018	Berry (STEAM_0:1:103915258) spawned
+Sat Oct 20 16:41:09 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:41:09 2018	Crash_Trooper (STEAM_0:1:94924909) spawned
+Sat Oct 20 16:41:17 2018	Hibiki (STEAM_0:0:106554367): // how to get CBRN`?
+Sat Oct 20 16:41:26 2018	WildToastyMop (STEAM_0:0:93414166): // when was the last meltdown?
+Sat Oct 20 16:41:28 2018	Hibiki (STEAM_0:0:106554367) spawned
+Sat Oct 20 16:41:30 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 20 16:41:34 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:41:34 2018	wolfhugger 3000 (STEAM_0:1:42591216): // TALK TO HEAD OF CBNR
+Sat Oct 20 16:41:36 2018	xX_SupBoi_Xx (STEAM_0:0:132702948) has joined the game
+Sat Oct 20 16:41:36 2018	xX_SupBoi_Xx (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:41:39 2018	wolfhugger 3000 (STEAM_0:1:42591216): // caps
+Sat Oct 20 16:41:42 2018	Hibiki (STEAM_0:0:106554367): // whos taht?
+Sat Oct 20 16:41:58 2018	Goober was killed by Douevenban with a cw_p99
+Sat Oct 20 16:41:59 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:42:19 2018	Enviro (STEAM_0:0:80115103) has joined the game
+Sat Oct 20 16:42:19 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 20 16:42:23 2018	Kilroy (STEAM_0:0:138507625): /job Overseer
+Sat Oct 20 16:42:34 2018	WildToastyMop (STEAM_0:0:93414166): !clear
+Sat Oct 20 16:42:34 2018	Goober was killed by Douevenban with a cw_p99
+Sat Oct 20 16:42:35 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:42:47 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 16:42:51 2018	Goober was killed by Crash_Trooper with a cw_shorty
+Sat Oct 20 16:42:53 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:42:55 2018	xX_SupBoi_Xx (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:43:01 2018	Malotroth (STEAM_0:0:90780827): //how long til the terrorists are free?
+Sat Oct 20 16:43:08 2018	Goober was killed by Douevenban with a cw_mp5
+Sat Oct 20 16:43:09 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:43:12 2018	Malotroth (STEAM_0:0:90780827): // how long til the terrorists are free?
+Sat Oct 20 16:43:15 2018	Bob Bobsson (STEAM_0:0:69022001) spawned
+Sat Oct 20 16:43:16 2018	JC Denton (STEAM_0:0:81533779) has joined the game
+Sat Oct 20 16:43:16 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 16:43:18 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 16:43:23 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 20 16:43:24 2018	Not GimON (STEAM_0:0:95660701): // probs like 25min now
+Sat Oct 20 16:43:28 2018	Malotroth (STEAM_0:0:90780827): // mk
+Sat Oct 20 16:43:30 2018	Goober was killed by Crash_Trooper with a cw_shorty
+Sat Oct 20 16:43:32 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:43:33 2018	Enviro (STEAM_0:0:80115103): !bet 5
+Sat Oct 20 16:43:42 2018	Caboose (STEAM_0:1:184775407): // let jsut say its that
+Sat Oct 20 16:43:45 2018	Goober was killed by Crash_Trooper with a cw_shorty
+Sat Oct 20 16:43:46 2018	Not GimON (STEAM_0:0:95660701): // Server's core has been melted down so it should be 2h
+Sat Oct 20 16:43:47 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:43:57 2018	xX_SupBoi_Xx (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:43:59 2018	Caboose (STEAM_0:1:184775407): // lol 
+Sat Oct 20 16:44:03 2018	Caboose (STEAM_0:1:184775407): agree
+Sat Oct 20 16:44:04 2018	Berry (STEAM_0:1:103915258) spawned
+Sat Oct 20 16:44:06 2018	Caboose (STEAM_0:1:184775407): // agree
+Sat Oct 20 16:44:18 2018	xX_SupBoi_Xx (STEAM_0:0:132702948): Hey
+Sat Oct 20 16:44:20 2018	Not GimON (STEAM_0:0:95660701): // There should be 30min after meltdown and 2h after restart
+Sat Oct 20 16:44:21 2018	xX_SupBoi_Xx (STEAM_0:0:132702948): Im drunk
+Sat Oct 20 16:44:27 2018	xX_SupBoi_Xx (STEAM_0:0:132702948): IMA JUMP
+Sat Oct 20 16:44:28 2018	Not GimON (STEAM_0:0:95660701): // So people can actually do some roleplaying
+Sat Oct 20 16:44:30 2018	xX_SupBoi_Xx was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 16:44:31 2018	xX_SupBoi_Xx (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:44:34 2018	Caboose (STEAM_0:1:184775407): // yes
+Sat Oct 20 16:44:34 2018	lol (STEAM_0:1:126173268) has joined the game
+Sat Oct 20 16:44:34 2018	lol (STEAM_0:1:126173268) spawned
+Sat Oct 20 16:44:43 2018	Malotroth (STEAM_0:0:90780827) spawned
+Sat Oct 20 16:44:48 2018	xX_SupBoi_Xx was killed by Goober with a cw_deagle
+Sat Oct 20 16:44:50 2018	xX_SupBoi_Xx (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:44:51 2018	Jeroma (STEAM_0:0:121143569): Ty
+Sat Oct 20 16:44:54 2018	King Kitten (lr plz) (STEAM_0:1:51211337) has joined the game
+Sat Oct 20 16:44:54 2018	King Kitten (lr plz) (STEAM_0:1:51211337) spawned
+Sat Oct 20 16:44:55 2018	Caboose (STEAM_0:1:184775407): // if he could add something saying in the server or map saying the time is up
+Sat Oct 20 16:45:08 2018	Caboose (STEAM_0:1:184775407): // or how much is left
+Sat Oct 20 16:45:13 2018	Malotroth (STEAM_0:0:90780827) spawned
+Sat Oct 20 16:45:19 2018	Not GimON (STEAM_0:0:95660701): // It's possible to make it in the map
+Sat Oct 20 16:45:24 2018	Caboose (STEAM_0:1:184775407): // there is no point being a terrorist
+Sat Oct 20 16:45:28 2018	Caboose (STEAM_0:1:184775407): // right now
+Sat Oct 20 16:45:33 2018	Caboose (STEAM_0:1:184775407): // ok
+Sat Oct 20 16:45:59 2018	WildToastyMop (STEAM_0:0:93414166): /job Friendly 049
+Sat Oct 20 16:46:01 2018	Not GimON (STEAM_0:0:95660701): // If everytime after meltdown the map actually restarts, you could do a 30min timer in the map that would open the vents
+Sat Oct 20 16:46:15 2018	xX_SupBoi_Xx (STEAM_0:0:132702948): Just fixing
+Sat Oct 20 16:46:19 2018	King Kitten (lr plz) (STEAM_0:1:51211337): !motd
+Sat Oct 20 16:46:25 2018	xX_SupBoi_Xx (STEAM_0:0:132702948): /name Hi
+Sat Oct 20 16:46:28 2018	WildToastyMop (STEAM_0:0:93414166): // its 15 minutes cooldown not 30
+Sat Oct 20 16:46:35 2018	Hibiki was killed by Douevenban with a cw_shorty
+Sat Oct 20 16:46:37 2018	Berry (STEAM_0:1:103915258): // They changed it
+Sat Oct 20 16:46:38 2018	xX_SupBoi_Xx (STEAM_0:0:132702948): /name A Man With AIDS
+Sat Oct 20 16:46:40 2018	Not GimON (STEAM_0:0:95660701): // It's been changed to 30min for terrorists
+Sat Oct 20 16:46:48 2018	WildToastyMop (STEAM_0:0:93414166): // thats gay
+Sat Oct 20 16:46:51 2018	Hibiki (STEAM_0:0:106554367) spawned
+Sat Oct 20 16:46:53 2018	Not GimON (STEAM_0:0:95660701): // It's good
+Sat Oct 20 16:47:09 2018	A Man With AIDS was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 16:47:10 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:47:11 2018	WildToastyMop (STEAM_0:0:93414166): // when was the last meltdown?
+Sat Oct 20 16:47:16 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 16:47:18 2018	Hibiki (STEAM_0:0:106554367): @ can you join CNBR without being vip?
+Sat Oct 20 16:47:20 2018	Not GimON (STEAM_0:0:95660701): // like 10min ago
+Sat Oct 20 16:47:23 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) has joined the game
+Sat Oct 20 16:47:23 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) spawned
+Sat Oct 20 16:47:40 2018	Not GimON (STEAM_0:0:95660701): // Just realised what that means for you
+Sat Oct 20 16:47:57 2018	[Opi] Lukyn150 (CZ) (STEAM_0:0:81441026) has joined the game
+Sat Oct 20 16:47:58 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 20 16:48:14 2018	A Man With AIDS (STEAM_0:0:132702948): Sir
+Sat Oct 20 16:48:17 2018	Bob Bobsson (STEAM_0:0:69022001) spawned
+Sat Oct 20 16:48:18 2018	A Man With AIDS (STEAM_0:0:132702948): Ima ask you to leave
+Sat Oct 20 16:48:20 2018	Douevenban was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 16:48:23 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:48:24 2018	A Man With AIDS (STEAM_0:0:132702948): Yes
+Sat Oct 20 16:48:27 2018	Malotroth (STEAM_0:0:90780827) spawned
+Sat Oct 20 16:48:28 2018	A Man With AIDS (STEAM_0:0:132702948): I am fixing this
+Sat Oct 20 16:48:29 2018	Enviro (STEAM_0:0:80115103): NO.
+Sat Oct 20 16:48:38 2018	Enviro was killed by A Man With AIDS with a weapon_hlof_pipewrench
+Sat Oct 20 16:48:40 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 20 16:48:42 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct 20 16:48:42 2018	A Man With AIDS (STEAM_0:0:132702948): Void him
+Sat Oct 20 16:48:43 2018	Kilroy (STEAM_0:0:138507625): /advert Director whould you like t osee the Vault
+Sat Oct 20 16:48:46 2018	A Man With AIDS (STEAM_0:0:132702948): hES STUPID
+Sat Oct 20 16:48:56 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) spawned
+Sat Oct 20 16:49:01 2018	Bob Bobsson (STEAM_0:0:69022001): /advert why?
+Sat Oct 20 16:49:02 2018	A Man With AIDS was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 16:49:03 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:49:06 2018	JC Denton was killed by Emo or Lars's Boyfriend with a fas2_machete
+Sat Oct 20 16:49:10 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 16:49:11 2018	Kilroy (STEAM_0:0:138507625): /advert I dont know do you
+Sat Oct 20 16:49:20 2018	Bob Bobsson (STEAM_0:0:69022001): /advert no?
+Sat Oct 20 16:49:25 2018	Kilroy (STEAM_0:0:138507625): /advert ok
+Sat Oct 20 16:49:45 2018	A Man With AIDS (STEAM_0:0:132702948): Oh
+Sat Oct 20 16:49:48 2018	A Man With AIDS (STEAM_0:0:132702948): It dissapeared
+Sat Oct 20 16:50:10 2018	Kilroy (STEAM_0:0:138507625): !motd
+Sat Oct 20 16:50:15 2018	A Man With AIDS (STEAM_0:0:132702948): The window
+Sat Oct 20 16:50:18 2018	Bob Bobsson (STEAM_0:0:69022001): !bet 50
+Sat Oct 20 16:50:19 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 20 16:50:32 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): 
+Sat Oct 20 16:50:37 2018	Bob Bobsson (STEAM_0:0:69022001): I ain't risking it
+Sat Oct 20 16:50:48 2018	wolfhugger 3000 (STEAM_0:1:42591216): !bet 100
+Sat Oct 20 16:50:50 2018	Lukyn Red (STEAM_0:0:81441026): Pizza day
+Sat Oct 20 16:50:56 2018	Lukyn Red (STEAM_0:0:81441026): Pizza not helthy
+Sat Oct 20 16:50:57 2018	King Kitten (lr plz) (STEAM_0:1:51211337) spawned
+Sat Oct 20 16:51:00 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct 20 16:51:02 2018	Lukyn Red (STEAM_0:0:81441026): hairburn
+Sat Oct 20 16:51:10 2018	Caboose was killed by Goober with a cw_deagle
+Sat Oct 20 16:51:16 2018	Caboose (STEAM_0:1:184775407) spawned
+Sat Oct 20 16:51:25 2018	Jeroma (STEAM_0:0:121143569): Cant
+Sat Oct 20 16:51:35 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 16:51:37 2018	King Kitten (lr plz) (STEAM_0:1:51211337) spawned
+Sat Oct 20 16:51:38 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) spawned
+Sat Oct 20 16:51:43 2018	YEEET (STEAM_0:0:70798502) has joined the game
+Sat Oct 20 16:51:43 2018	YEEET (STEAM_0:0:70798502) spawned
+Sat Oct 20 16:51:58 2018	Goober was killed by Caboose with a cw_deagle
+Sat Oct 20 16:52:02 2018	Goober (STEAM_0:1:118919038) spawned
+Sat Oct 20 16:52:02 2018	A Man With AIDS (STEAM_0:0:132702948): /advert Not that this should worry anybody but SCPS are in the power plant
+Sat Oct 20 16:52:08 2018	YEEET (STEAM_0:0:70798502) disconnected
+Sat Oct 20 16:52:37 2018	King Kitten (lr plz) was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 16:52:39 2018	JC Denton was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 16:52:39 2018	King Kitten (lr plz) (STEAM_0:1:51211337) spawned
+Sat Oct 20 16:52:39 2018	Kilroy (STEAM_0:0:138507625): /advert Come down to the old blast shelter to become a Vault deweler today accepting everyone exsept terrorists
+Sat Oct 20 16:52:40 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 16:52:46 2018	MasterLocket (STEAM_0:0:156150641) has joined the game
+Sat Oct 20 16:52:46 2018	GugGug (STEAM_0:0:156150641) spawned
+Sat Oct 20 16:53:03 2018	Scumbag (STEAM_0:0:76669559) has joined the game
+Sat Oct 20 16:53:03 2018	Scumbag (STEAM_0:0:76669559) spawned
+Sat Oct 20 16:53:31 2018	Emo or Lars's Boyfriend was killed by Berry with a cw_shorty
+Sat Oct 20 16:53:32 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) spawned
+Sat Oct 20 16:53:47 2018	[Opi] Tello (STEAM_0:0:74320577) has joined the game
+Sat Oct 20 16:53:47 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 16:53:50 2018	Malotroth (STEAM_0:0:90780827) spawned
+Sat Oct 20 16:53:56 2018	Lukyn Red (STEAM_0:0:81441026): Janitor
+Sat Oct 20 16:54:13 2018	Jeroma (STEAM_0:0:121143569): Berry
+Sat Oct 20 16:54:17 2018	Douevenban was killed by Bob Bobsson with a cw_deagle
+Sat Oct 20 16:54:17 2018	Jeroma (STEAM_0:0:121143569): You know how to 
+Sat Oct 20 16:54:18 2018	Jeroma (STEAM_0:0:121143569): Keycard
+Sat Oct 20 16:54:20 2018	Jeroma (STEAM_0:0:121143569): Scanner
+Sat Oct 20 16:54:21 2018	YEEET (STEAM_0:0:70798502) has joined the game
+Sat Oct 20 16:54:21 2018	YEEET (STEAM_0:0:70798502) spawned
+Sat Oct 20 16:54:22 2018	A Man With AIDS (STEAM_0:0:132702948): AH FU CJK
+Sat Oct 20 16:54:24 2018	A Man With AIDS (STEAM_0:0:132702948): MY BALLS
+Sat Oct 20 16:54:27 2018	Kilroy was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 16:54:29 2018	Big Bill (STEAM_0:0:45838915) has joined the game
+Sat Oct 20 16:54:29 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 16:54:29 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 16:54:36 2018	Emo or Lars's Boyfriend was killed by A Man With AIDS with a weapon_hlof_pipewrench
+Sat Oct 20 16:54:37 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) spawned
+Sat Oct 20 16:54:39 2018	Jeroma (STEAM_0:0:121143569): This is some proprer deffense
+Sat Oct 20 16:54:41 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct 20 16:54:43 2018	A Man With AIDS was killed by JC Denton with a cw_p99
+Sat Oct 20 16:54:46 2018	YEEET (STEAM_0:0:70798502) disconnected
+Sat Oct 20 16:54:47 2018	Scumbag (STEAM_0:0:76669559) spawned
+Sat Oct 20 16:54:48 2018	A Man With AIDS (STEAM_0:0:132702948): AH SHIT
+Sat Oct 20 16:54:50 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 16:54:53 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:54:58 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 16:55:06 2018	Kilroy (STEAM_0:0:138507625): /job Overseer
+Sat Oct 20 16:55:14 2018	Douevenban (STEAM_0:0:75732529): /name Zonch :)
+Sat Oct 20 16:55:14 2018	Jeroma (STEAM_0:0:121143569): Nice
+Sat Oct 20 16:55:15 2018	Malotroth (STEAM_0:0:90780827) spawned
+Sat Oct 20 16:55:16 2018	Kilroy (STEAM_0:0:138507625): /job OverSeer
+Sat Oct 20 16:55:18 2018	wolfhugger 3000 (STEAM_0:1:42591216): /job slotmachine salesman
+Sat Oct 20 16:55:21 2018	Douevenban (STEAM_0:0:75732529): /name Zonch
+Sat Oct 20 16:55:24 2018	Jeroma (STEAM_0:0:121143569): Bob
+Sat Oct 20 16:55:26 2018	Hibiki (STEAM_0:0:106554367): // how can i make door with keypad scanner?
+Sat Oct 20 16:55:26 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /me Strips weapons and comms
+Sat Oct 20 16:55:26 2018	Jeroma (STEAM_0:0:121143569): Stay
+Sat Oct 20 16:55:27 2018	King Kitten (lr plz) was killed by Zonch with a cw_shorty
+Sat Oct 20 16:55:29 2018	Jeroma (STEAM_0:0:121143569): Near the
+Sat Oct 20 16:55:32 2018	Jeroma (STEAM_0:0:121143569): Keycard scanner
+Sat Oct 20 16:55:36 2018	Enviro (STEAM_0:0:80115103) spawned
+Sat Oct 20 16:55:36 2018	King Kitten (lr plz) (STEAM_0:1:51211337) spawned
+Sat Oct 20 16:55:36 2018	Jeroma (STEAM_0:0:121143569): You werent
+Sat Oct 20 16:55:42 2018	Lukyn Red (STEAM_0:0:81441026): // set the keys to the same ones
+Sat Oct 20 16:55:45 2018	Scumbag (STEAM_0:0:76669559): @ Staff to me
+Sat Oct 20 16:55:47 2018	Lukyn Red (STEAM_0:0:81441026): // Like 9 and 9
+Sat Oct 20 16:55:48 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /me Strips weapons and comms
+Sat Oct 20 16:56:04 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 16:56:13 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert pm me today to buy a state of the art slot machine
+Sat Oct 20 16:56:15 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): 
+Sat Oct 20 16:56:16 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct 20 16:56:18 2018	Bill Foreman (STEAM_0:0:45838915): !bet 5
+Sat Oct 20 16:56:22 2018	Lukyn Red (STEAM_0:0:81441026): Need help?
+Sat Oct 20 16:56:30 2018	lol (STEAM_0:1:126173268) spawned
+Sat Oct 20 16:56:33 2018	Lukyn Red (STEAM_0:0:81441026): press E
+Sat Oct 20 16:56:39 2018	Lukyn Red (STEAM_0:0:81441026): and set the key to the same one
+Sat Oct 20 16:56:42 2018	YEEET (STEAM_0:0:70798502) has joined the game
+Sat Oct 20 16:56:42 2018	YEEET (STEAM_0:0:70798502) spawned
+Sat Oct 20 16:56:47 2018	Lukyn Red (STEAM_0:0:81441026): it doesn't appear immediatelly
+Sat Oct 20 16:56:49 2018	JC Denton was killed by Zonch with a cw_shorty
+Sat Oct 20 16:56:54 2018	Lukyn Red (STEAM_0:0:81441026): just get out and E again
+Sat Oct 20 16:56:54 2018	Jeroma (STEAM_0:0:121143569): Off
+Sat Oct 20 16:56:56 2018	Jeroma (STEAM_0:0:121143569): Im fixing it
+Sat Oct 20 16:57:02 2018	Lukyn Red (STEAM_0:0:81441026): see
+Sat Oct 20 16:57:03 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 16:57:04 2018	Lukyn Red (STEAM_0:0:81441026): works
+Sat Oct 20 16:57:06 2018	lol (STEAM_0:1:126173268): /name Homer Simpson
+Sat Oct 20 16:57:18 2018	Aniki (STEAM_0:1:67307965) has joined the game
+Sat Oct 20 16:57:18 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 16:57:23 2018	Caboose (STEAM_0:1:184775407) spawned
+Sat Oct 20 16:57:25 2018	Lukyn Red (STEAM_0:0:81441026): /advert Where is the old blast shelter again?
+Sat Oct 20 16:57:38 2018	YEEET (STEAM_0:0:70798502) spawned
+Sat Oct 20 16:57:47 2018	Zonch (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:57:56 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /me Strips weapons and comms
+Sat Oct 20 16:58:14 2018	Kilroy (STEAM_0:0:138507625): /advert Director can you tell you men to let me through
+Sat Oct 20 16:58:26 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /me Strips weapons and comms
+Sat Oct 20 16:58:31 2018	Zonch (STEAM_0:0:75732529): // it was me :)
+Sat Oct 20 16:58:33 2018	Caboose was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 16:58:34 2018	Caboose (STEAM_0:1:184775407) spawned
+Sat Oct 20 16:58:35 2018	A Man With AIDS (STEAM_0:0:132702948): /advert Director, are you sure you want the toilet near the train station?
+Sat Oct 20 16:58:36 2018	Kilroy (STEAM_0:0:138507625): 
+Sat Oct 20 16:58:38 2018	Bob Bobsson (STEAM_0:0:69022001): // ;)
+Sat Oct 20 16:58:44 2018	Emo or Lars's Boyfriend was killed by Zonch with a weapon_sillyzombieclaw_v2
+Sat Oct 20 16:58:46 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) spawned
+Sat Oct 20 16:58:47 2018	Bill Foreman was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 16:58:48 2018	Bill Foreman (STEAM_0:0:45838915) spawned
+Sat Oct 20 16:59:05 2018	Zonch was killed by Berry with a cw_shorty
+Sat Oct 20 16:59:06 2018	Zonch (STEAM_0:0:75732529) spawned
+Sat Oct 20 16:59:09 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 16:59:16 2018	Hound (STEAM_0:0:204456225) has joined the game
+Sat Oct 20 16:59:16 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 16:59:19 2018	Lukyn Red was killed by Berry with a cw_mp5
+Sat Oct 20 16:59:22 2018	GugGug (STEAM_0:0:156150641) spawned
+Sat Oct 20 16:59:23 2018	Kilroy was killed by Crash_Trooper with a cw_g36c
+Sat Oct 20 16:59:28 2018	Lukyn Red (STEAM_0:0:81441026): 
+Sat Oct 20 16:59:29 2018	Aniki was killed by YEEET with a cw_m1911
+Sat Oct 20 16:59:31 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 16:59:32 2018	Lukyn Red (STEAM_0:0:81441026) spawned
+Sat Oct 20 16:59:35 2018	Kilroy (STEAM_0:0:138507625) spawned
+Sat Oct 20 16:59:40 2018	@realDonaldTrump (STEAM_0:0:63800005) has joined the game
+Sat Oct 20 16:59:40 2018	Robert California (STEAM_0:0:63800005) spawned
+Sat Oct 20 16:59:52 2018	Kilroy (STEAM_0:0:138507625): /advert whe nyou get rdmed by a sercurity oof
+Sat Oct 20 16:59:56 2018	GugGug (STEAM_0:0:156150641) spawned
+Sat Oct 20 16:59:57 2018	Lukyn Red (STEAM_0:0:81441026): /y Berry your security is bad
+Sat Oct 20 17:00:14 2018	Aniki was killed by Zonch with a cw_shorty
+Sat Oct 20 17:00:18 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 17:00:29 2018	A Man With AIDS (STEAM_0:0:132702948): I'm building a toilet.
+Sat Oct 20 17:00:30 2018	Lukyn Red (STEAM_0:0:81441026): Hi
+Sat Oct 20 17:00:33 2018	A Man With AIDS (STEAM_0:0:132702948): Get off
+Sat Oct 20 17:00:35 2018	WildToastyMop (STEAM_0:0:93414166): // 4198
+Sat Oct 20 17:00:42 2018	Kilroy (STEAM_0:0:138507625): /ooc ST OPSHOOTING US WE HAVE PAC ON
+Sat Oct 20 17:00:44 2018	Robert California (STEAM_0:0:63800005): // that's 4198
+Sat Oct 20 17:00:47 2018	A Man With AIDS was killed by Caboose with a cw_deagle
+Sat Oct 20 17:00:48 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:00:57 2018	Kilroy (STEAM_0:0:138507625): /job OVERSEER
+Sat Oct 20 17:00:57 2018	Robert California (STEAM_0:0:63800005) spawned
+Sat Oct 20 17:01:03 2018	Malotroth (STEAM_0:0:90780827): /name Colt Masterson
+Sat Oct 20 17:01:12 2018	Lukyn Red (STEAM_0:0:81441026): yes
+Sat Oct 20 17:01:19 2018	Lukyn Red (STEAM_0:0:81441026): sit down
+Sat Oct 20 17:01:20 2018	GugGug (STEAM_0:0:156150641): 
+Sat Oct 20 17:01:27 2018	Robert California (STEAM_0:0:63800005): /advert
+Sat Oct 20 17:01:29 2018	A Man With AIDS (STEAM_0:0:132702948): Diractor rules
+Sat Oct 20 17:01:33 2018	Jeroma (STEAM_0:0:121143569): Your the manager
+Sat Oct 20 17:01:35 2018	Jeroma (STEAM_0:0:121143569): You can enter
+Sat Oct 20 17:01:41 2018	wolfhugger 3000 (STEAM_0:1:42591216): /ADVERT sLOT MACHINES FOR SALE PM ME TO BUY ONE
+Sat Oct 20 17:01:41 2018	Robert California (STEAM_0:0:63800005): /name French Man
+Sat Oct 20 17:01:45 2018	Jeroma (STEAM_0:0:121143569): Of course
+Sat Oct 20 17:01:47 2018	Caboose (STEAM_0:1:184775407): !bet
+Sat Oct 20 17:01:49 2018	Tello (STEAM_0:0:74320577) spawned
+Sat Oct 20 17:01:50 2018	Spicy Wing (STEAM_0:0:176415266) has joined the game
+Sat Oct 20 17:01:50 2018	Spicy Wings (STEAM_0:0:176415266) spawned
+Sat Oct 20 17:01:56 2018	Caboose (STEAM_0:1:184775407): !bet 194
+Sat Oct 20 17:02:07 2018	Lukyn Red (STEAM_0:0:81441026): Nice
+Sat Oct 20 17:02:10 2018	French Man (STEAM_0:0:63800005): /advert doth, it is pizza day.
+Sat Oct 20 17:02:15 2018	Goober (STEAM_0:1:118919038): /pm Caboose Code?
+Sat Oct 20 17:02:23 2018	French Man (STEAM_0:0:63800005): /advert come to the cafeteria to grab urself a hot slice
+Sat Oct 20 17:02:23 2018	Caboose (STEAM_0:1:184775407): /pm goober 7982
+Sat Oct 20 17:02:26 2018	Lukyn Red (STEAM_0:0:81441026): /advert Director what Security code do you want?
+Sat Oct 20 17:02:27 2018	Scumbag (STEAM_0:0:76669559): /ooc ( ͡° ͜ʖ ͡°)
+Sat Oct 20 17:02:29 2018	French Man (STEAM_0:0:63800005): /advert or cold
+Sat Oct 20 17:02:30 2018	Aniki (STEAM_0:1:67307965) disconnected
+Sat Oct 20 17:02:30 2018	Jeroma (STEAM_0:0:121143569): /Y Hello
+Sat Oct 20 17:02:34 2018	JC Denton was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 17:02:35 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 17:02:35 2018	Jeroma (STEAM_0:0:121143569): the manager
+Sat Oct 20 17:02:38 2018	Jeroma (STEAM_0:0:121143569): Wants to install
+Sat Oct 20 17:02:38 2018	Bob Bobsson (STEAM_0:0:69022001): /advert 4198
+Sat Oct 20 17:02:40 2018	Caboose (STEAM_0:1:184775407): !bet 97
+Sat Oct 20 17:02:43 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 17:02:44 2018	Jeroma (STEAM_0:0:121143569): A Safe mechanism
+Sat Oct 20 17:02:47 2018	Lukyn Red (STEAM_0:0:81441026): /advert Nothing different?
+Sat Oct 20 17:02:51 2018	Homer Simpson (STEAM_0:1:126173268) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 17:02:53 2018	French Man (STEAM_0:0:63800005): /advert we serve black olives, pepperoni, roasted onions, etc.
+Sat Oct 20 17:02:59 2018	Bob Bobsson (STEAM_0:0:69022001): /advert that's 4198
+Sat Oct 20 17:03:10 2018	Jeroma (STEAM_0:0:121143569): Thhis is good
+Sat Oct 20 17:03:13 2018	Lukyn Red (STEAM_0:0:81441026): /advert Ok I will keep it 4198. tell me if you want to change it
+Sat Oct 20 17:03:21 2018	French Man (STEAM_0:0:63800005): /advert we also serve coca-cola and bepsi
+Sat Oct 20 17:03:22 2018	JC Denton (STEAM_0:0:81533779): /ooc admin should do a nuclear meltdown
+Sat Oct 20 17:03:27 2018	French Man (STEAM_0:0:63800005): // yes
+Sat Oct 20 17:03:37 2018	Lukyn Red (STEAM_0:0:81441026): doesn't work now
+Sat Oct 20 17:03:38 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /ad [Anonymous] For 100k we can bIow it up the PIant
+Sat Oct 20 17:03:41 2018	Colt Masterson (STEAM_0:0:90780827): // but we just melted down like a half hour ago
+Sat Oct 20 17:03:43 2018	Lukyn Red (STEAM_0:0:81441026): no meltdown happening
+Sat Oct 20 17:03:43 2018	WildToastyMop was killed by wolfhugger 3000 with a cw_g36c
+Sat Oct 20 17:03:44 2018	WildToastyMop (STEAM_0:0:93414166) spawned
+Sat Oct 20 17:03:49 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /advert [Anonymous] For 100k we can bIow it up the PIant
+Sat Oct 20 17:03:57 2018	French Man (STEAM_0:0:63800005): /advert if u are hot during a meltdown, stop drop and roll to the cafeteria and grab yourself a hot slice
+Sat Oct 20 17:03:57 2018	Jeroma (STEAM_0:0:121143569): Overseer
+Sat Oct 20 17:03:59 2018	Lukyn Red (STEAM_0:0:81441026): my recoder
+Sat Oct 20 17:04:00 2018	Jeroma (STEAM_0:0:121143569): 3 of you
+Sat Oct 20 17:04:02 2018	Lukyn Red (STEAM_0:0:81441026): any code
+Sat Oct 20 17:04:03 2018	Jeroma (STEAM_0:0:121143569): All of you
+Sat Oct 20 17:04:04 2018	Crash_Trooper (STEAM_0:1:94924909): hey
+Sat Oct 20 17:04:05 2018	Lukyn Red (STEAM_0:0:81441026): and it will work
+Sat Oct 20 17:04:10 2018	Hibiki (STEAM_0:0:106554367): 7777
+Sat Oct 20 17:04:10 2018	Crash_Trooper (STEAM_0:1:94924909): who are you
+Sat Oct 20 17:04:11 2018	Homer Simpson was killed by wolfhugger 3000 with a cw_shorty
+Sat Oct 20 17:04:12 2018	Homer Simpson (STEAM_0:1:126173268) spawned
+Sat Oct 20 17:04:14 2018	Jeroma (STEAM_0:0:121143569): What do you think about my new improve checkpoint
+Sat Oct 20 17:04:16 2018	Lukyn Red (STEAM_0:0:81441026): But be the Director first
+Sat Oct 20 17:04:18 2018	WildToastyMop (STEAM_0:0:93414166): // scumbag you cant block of the scp areas with props
+Sat Oct 20 17:04:19 2018	wolfhugger 3000 (STEAM_0:1:42591216): /dropmoney 1000
+Sat Oct 20 17:04:20 2018	wolfhugger 3000 (STEAM_0:1:42591216) has dropped $1,000
+Sat Oct 20 17:04:21 2018	Crash_Trooper (STEAM_0:1:94924909): ok then
+Sat Oct 20 17:04:24 2018	Lukyn Red (STEAM_0:0:81441026): I can't just change it to anything you want
+Sat Oct 20 17:04:27 2018	Jeroma (STEAM_0:0:121143569): Not mine
+Sat Oct 20 17:04:33 2018	Jeroma (STEAM_0:0:121143569): The gate infront
+Sat Oct 20 17:04:38 2018	French Man (STEAM_0:0:63800005): /advert everyone is welcome to the cafeteria including terrorists
+Sat Oct 20 17:04:40 2018	Scumbag (STEAM_0:0:76669559): // there's a keypad
+Sat Oct 20 17:04:41 2018	Jeroma (STEAM_0:0:121143569): I added
+Sat Oct 20 17:04:47 2018	Homer Simpson was killed by wolfhugger 3000 with a cw_shorty
+Sat Oct 20 17:04:48 2018	WildToastyMop (STEAM_0:0:93414166): // not on both sides
+Sat Oct 20 17:04:48 2018	Homer Simpson (STEAM_0:1:126173268) spawned
+Sat Oct 20 17:04:49 2018	Jeroma (STEAM_0:0:121143569): I added
+Sat Oct 20 17:04:52 2018	Scumbag (STEAM_0:0:76669559): // one sec
+Sat Oct 20 17:04:52 2018	Jeroma (STEAM_0:0:121143569): Fading doors
+Sat Oct 20 17:04:55 2018	Jeroma (STEAM_0:0:121143569): To the lower half
+Sat Oct 20 17:04:56 2018	Homer Simpson (STEAM_0:1:126173268) spawned Vehicle prop_vehicle_jeep
+Sat Oct 20 17:05:01 2018	French Man (STEAM_0:0:63800005): hello
+Sat Oct 20 17:05:05 2018	Jeroma (STEAM_0:0:121143569): So you cant get to the wall
+Sat Oct 20 17:05:08 2018	Homer Simpson (STEAM_0:1:126173268) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 17:05:09 2018	Jeroma (STEAM_0:0:121143569): And cheese security
+Sat Oct 20 17:05:10 2018	Hibiki was killed by Zonch with a cw_shorty
+Sat Oct 20 17:05:15 2018	Jeroma (STEAM_0:0:121143569): That was it main Flaw
+Sat Oct 20 17:05:15 2018	Holmes (STEAM_0:0:204456225) spawned
+Sat Oct 20 17:05:20 2018	Aniki (STEAM_0:1:67307965) has joined the game
+Sat Oct 20 17:05:20 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 17:05:21 2018	Jeroma (STEAM_0:0:121143569): Hax
+Sat Oct 20 17:05:27 2018	Hibiki (STEAM_0:0:106554367): @ just got Rdmd
+Sat Oct 20 17:05:38 2018	Hibiki (STEAM_0:0:106554367) spawned
+Sat Oct 20 17:05:48 2018	French Man (STEAM_0:0:63800005): yo
+Sat Oct 20 17:05:51 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /advert [Radio] I get the permission to check up the status of Iasers boosters sir
+Sat Oct 20 17:05:53 2018	French Man (STEAM_0:0:63800005): you want pizza?
+Sat Oct 20 17:06:00 2018	Tello (STEAM_0:0:74320577): /job Swat Inspector
+Sat Oct 20 17:06:04 2018	Jeroma (STEAM_0:0:121143569): Try again
+Sat Oct 20 17:06:07 2018	Jeroma (STEAM_0:0:121143569): Staay close
+Sat Oct 20 17:06:18 2018	Jeroma (STEAM_0:0:121143569): You have to get close
+Sat Oct 20 17:06:22 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 17:06:23 2018	French Man (STEAM_0:0:63800005): yo
+Sat Oct 20 17:06:28 2018	Lukyn Red (STEAM_0:0:81441026): ?
+Sat Oct 20 17:06:29 2018	French Man (STEAM_0:0:63800005): you want food?
+Sat Oct 20 17:06:33 2018	Lukyn Red (STEAM_0:0:81441026): No thanks
+Sat Oct 20 17:06:36 2018	French Man (STEAM_0:0:63800005): k
+Sat Oct 20 17:06:43 2018	Tello (STEAM_0:0:74320577): /job Control Panle Worker
+Sat Oct 20 17:06:44 2018	Crash_Trooper (STEAM_0:1:94924909): ok come
+Sat Oct 20 17:06:45 2018	Colt Masterson (STEAM_0:0:90780827): // Terrorists have 2 mins until release according to my timer
+Sat Oct 20 17:06:53 2018	Pane3Panellle (STEAM_0:1:114646812) has joined the game
+Sat Oct 20 17:06:53 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 17:07:00 2018	Caboose (STEAM_0:1:184775407): // NICE
+Sat Oct 20 17:07:01 2018	Lukyn Red (STEAM_0:0:81441026): /y 049
+Sat Oct 20 17:07:03 2018	A Man With AIDS (STEAM_0:0:132702948): Hey
+Sat Oct 20 17:07:08 2018	A Man With AIDS (STEAM_0:0:132702948): Do yous want to see the public toilet
+Sat Oct 20 17:07:11 2018	Lukyn Red (STEAM_0:0:81441026): Need to get somewhere?
+Sat Oct 20 17:07:11 2018	Jeroma (STEAM_0:0:121143569): Sthap
+Sat Oct 20 17:07:18 2018	A Man With AIDS (STEAM_0:0:132702948): Well we have to go bakc
+Sat Oct 20 17:07:18 2018	Homer Simpson (STEAM_0:1:126173268) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 17:07:20 2018	GugGug was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 17:07:21 2018	French Man (STEAM_0:0:63800005): /advert cafeteria is closed temporarily
+Sat Oct 20 17:07:22 2018	GugGug (STEAM_0:0:156150641) spawned
+Sat Oct 20 17:07:25 2018	wolfhugger 3000 (STEAM_0:1:42591216): // why
+Sat Oct 20 17:07:34 2018	Aniki was killed by A Man With AIDS with a weapon_hlof_pipewrench
+Sat Oct 20 17:07:37 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 17:07:39 2018	A Man With AIDS was killed by wolfhugger 3000 with a cw_g36c
+Sat Oct 20 17:07:40 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:07:41 2018	Colt Masterson (STEAM_0:0:90780827): !motd
+Sat Oct 20 17:07:44 2018	Lukyn Red (STEAM_0:0:81441026): not there I suupose
+Sat Oct 20 17:07:47 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 17:07:47 2018	Berry was killed by Zonch with a cw_shorty
+Sat Oct 20 17:07:53 2018	Berry (STEAM_0:1:103915258): 
+Sat Oct 20 17:08:01 2018	Lukyn Red (STEAM_0:0:81441026): So where?
+Sat Oct 20 17:08:03 2018	Lukyn Red (STEAM_0:0:81441026): admin room?
+Sat Oct 20 17:08:18 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 17:08:20 2018	Berry (STEAM_0:1:103915258) spawned
+Sat Oct 20 17:08:33 2018	Pane3Panellle was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 17:08:34 2018	Pane3Panellle (STEAM_0:1:114646812) spawned
+Sat Oct 20 17:08:34 2018	Lukyn Red (STEAM_0:0:81441026): only here
+Sat Oct 20 17:08:35 2018	Jeroma was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 17:08:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert slot machines in the cafe
+Sat Oct 20 17:08:40 2018	French Man (STEAM_0:0:63800005): this is pretty cool man
+Sat Oct 20 17:08:41 2018	Jeroma (STEAM_0:0:121143569): Really
+Sat Oct 20 17:08:42 2018	Jeroma (STEAM_0:0:121143569) spawned
+Sat Oct 20 17:08:45 2018	Aniki was killed by A Man With AIDS with a weapon_hlof_pipewrench
+Sat Oct 20 17:08:47 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 17:08:48 2018	Homer Simpson (STEAM_0:1:126173268) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 17:08:52 2018	Hibiki was killed by A Man With AIDS with a weapon_hlof_pipewrench
+Sat Oct 20 17:08:55 2018	Hibiki (STEAM_0:0:106554367) spawned
+Sat Oct 20 17:08:58 2018	Zonch (STEAM_0:0:75732529): /name Douevenban
+Sat Oct 20 17:09:03 2018	Homer Simpson (STEAM_0:1:126173268) spawned Vehicle prop_vehicle_prisoner_pod
+Sat Oct 20 17:09:07 2018	Nibbler (STEAM_0:1:81708481) has joined the game
+Sat Oct 20 17:09:07 2018	Nibbler (STEAM_0:1:81708481) spawned
+Sat Oct 20 17:09:08 2018	Hibiki (STEAM_0:0:106554367): /advert copy
+Sat Oct 20 17:09:08 2018	Aniki (STEAM_0:1:67307965): @This guy named AIDS keeps killing everyone
+Sat Oct 20 17:09:09 2018	wolfhugger 3000 (STEAM_0:1:42591216): // im dooing it now\
+Sat Oct 20 17:09:16 2018	French Man (STEAM_0:0:63800005): /advert during a meltdown, the cafeteria serves free cokes to cool u down
+Sat Oct 20 17:09:19 2018	Jeroma (STEAM_0:0:121143569): /pm Kil There is a rogue officer turning the pumps and fan off
+Sat Oct 20 17:09:26 2018	A Man With AIDS was killed by Homer Simpson with a cw_shorty
+Sat Oct 20 17:09:28 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:09:30 2018	Lukyn Red (STEAM_0:0:81441026): Director
+Sat Oct 20 17:09:40 2018	French Man (STEAM_0:0:63800005): plant director
+Sat Oct 20 17:09:43 2018	French Man (STEAM_0:0:63800005): you are pretty thicc
+Sat Oct 20 17:09:52 2018	Lukyn Red (STEAM_0:0:81441026): Director
+Sat Oct 20 17:09:54 2018	RedLex (STEAM_0:1:122603291) has joined the game
+Sat Oct 20 17:09:54 2018	RedLex (STEAM_0:1:122603291) spawned
+Sat Oct 20 17:09:54 2018	Douevenban was killed by wolfhugger 3000 with a cw_g36c
+Sat Oct 20 17:09:56 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 17:09:56 2018	French Man (STEAM_0:0:63800005): nice
+Sat Oct 20 17:09:57 2018	Jeroma (STEAM_0:0:121143569): /Y Sthap
+Sat Oct 20 17:09:58 2018	Crash_Trooper (STEAM_0:1:94924909): no
+Sat Oct 20 17:09:59 2018	Berry (STEAM_0:1:103915258): /advert Attention please Douevenban is the one responsible. He is turning off the fans and pumps. If you see him KOS.
+Sat Oct 20 17:10:02 2018	Lukyn Red (STEAM_0:0:81441026): Do you want a security code change?
+Sat Oct 20 17:10:03 2018	Tello (STEAM_0:0:74320577): /advert no laser active
+Sat Oct 20 17:10:07 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /advert I don't think that the case [Radio]
+Sat Oct 20 17:10:08 2018	A Man With AIDS was killed by Jeroma with a cw_deagle
+Sat Oct 20 17:10:12 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:10:14 2018	French Man (STEAM_0:0:63800005): thx
+Sat Oct 20 17:10:14 2018	Lukyn Red (STEAM_0:0:81441026): From 4198 to anything
+Sat Oct 20 17:10:21 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert We have a corrupt security officer i repet his name is
+Sat Oct 20 17:10:26 2018	wolfhugger 3000 (STEAM_0:1:42591216): // oof i cant see it
+Sat Oct 20 17:10:30 2018	Douevenban was killed by Berry with a cw_p99
+Sat Oct 20 17:10:31 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 17:10:36 2018	A Man With AIDS was killed by Pane3Panellle with a cw_shorty
+Sat Oct 20 17:10:53 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:10:54 2018	French Man was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Sat Oct 20 17:10:57 2018	French Man (STEAM_0:0:63800005) spawned
+Sat Oct 20 17:11:01 2018	Crash_Trooper (STEAM_0:1:94924909): no
+Sat Oct 20 17:11:04 2018	Tello (STEAM_0:0:74320577): // negtive
+Sat Oct 20 17:11:05 2018	French Man (STEAM_0:0:63800005): /advert Cafeteria is now opened again
+Sat Oct 20 17:11:07 2018	Berry (STEAM_0:1:103915258): /advert I repeat his name is Douevenban. KOS him on Sight.
+Sat Oct 20 17:11:11 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:11:19 2018	Holmes (STEAM_0:0:204456225): ikr
+Sat Oct 20 17:11:21 2018	French Man (STEAM_0:0:63800005): /advert We now have slot machines in the cafe.
+Sat Oct 20 17:11:23 2018	Bantor (STEAM_0:0:35524622) has joined the game
+Sat Oct 20 17:11:23 2018	Bantor (STEAM_0:0:35524622) spawned
+Sat Oct 20 17:11:26 2018	Douevenban (STEAM_0:0:75732529): /advert I already was KOSD its Fail rp now Berry
+Sat Oct 20 17:11:32 2018	Caboose (STEAM_0:1:184775407): /demote JC no Osama
+Sat Oct 20 17:11:32 2018	Caboose(STEAM_0:1:184775407)[Pro Corrupt Worker] has started a vote for the demotion of JC Denton(STEAM_0:0:81533779)[Osama Bin Laden] for no Osama
+Sat Oct 20 17:11:34 2018	[Opi] owo (STEAM_0:1:35610035) has joined the game
+Sat Oct 20 17:11:34 2018	owo (STEAM_0:1:35610035) spawned
+Sat Oct 20 17:11:35 2018	Aniki was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sat Oct 20 17:11:37 2018	Spicy Wings (STEAM_0:0:176415266) spawned
+Sat Oct 20 17:11:37 2018	Aniki (STEAM_0:1:67307965) spawned
+Sat Oct 20 17:11:39 2018	Not GimON (STEAM_0:0:95660701): /advert Terrorist at the fan. i repeat terrorist at the fan! send backup!
+Sat Oct 20 17:11:42 2018	Colt Masterson was killed by Not GimON with a cw_m3super90
+Sat Oct 20 17:11:44 2018	A Man With AIDS (STEAM_0:0:132702948) spawned
+Sat Oct 20 17:11:46 2018	Colt Masterson (STEAM_0:0:90780827) spawned
+Sat Oct 20 17:11:48 2018	wolfhugger 3000 (STEAM_0:1:42591216): // sending backup
+Sat Oct 20 17:11:52 2018	Holmes (STEAM_0:0:204456225): yh
+Sat Oct 20 17:11:56 2018	Berry (STEAM_0:1:103915258): // And you RDM'd and Failed rp when you are a security officer turning off pumps and the fan
+Sat Oct 20 17:12:06 2018	Not GimON was killed by JC Denton with a cw_scarh
+Sat Oct 20 17:12:08 2018	Not GimON (STEAM_0:0:95660701) spawned
+Sat Oct 20 17:12:14 2018	owo (STEAM_0:1:35610035) spawned
+Sat Oct 20 17:12:17 2018	RangersCQB (STEAM_0:0:155876111) has joined the game
+Sat Oct 20 17:12:18 2018	RangersCQB (STEAM_0:0:155876111) spawned
+Sat Oct 20 17:12:20 2018	Lukyn Red (STEAM_0:0:81441026): no
+Sat Oct 20 17:12:25 2018	French Man (STEAM_0:0:63800005): /advert Cafeteria is located near the escape rocket, so if you are eating your food during a meltdown, you have an easy escape
+Sat Oct 20 17:12:28 2018	Lukyn Red (STEAM_0:0:81441026): I copied there YXZ
+Sat Oct 20 17:12:34 2018	Lukyn Red (STEAM_0:0:81441026): and put them into the COnstant value
+Sat Oct 20 17:12:37 2018	wolfhugger 3000 (STEAM_0:1:42591216): /advert TERRORIST BY FAN AND COOLANT PUMPS
+Sat Oct 20 17:12:37 2018	Jeroma (STEAM_0:0:121143569): 
+Sat Oct 20 17:12:38 2018	Lukyn Red (STEAM_0:0:81441026): their*
+Sat Oct 20 17:12:39 2018	owo (STEAM_0:1:35610035): // booty scooty
+Sat Oct 20 17:12:51 2018	Dr Clef (STEAM_0:0:51990434) has joined the game
+Sat Oct 20 17:12:51 2018	Dr Clef (STEAM_0:0:51990434) spawned
+Sat Oct 20 17:12:55 2018	wolfhugger 3000 was killed by Douevenban with a cw_shorty
+Sat Oct 20 17:12:56 2018	Jeroma (STEAM_0:0:121143569): 
+Sat Oct 20 17:13:00 2018	wolfhugger 3000 (STEAM_0:1:42591216) spawned
+Sat Oct 20 17:13:05 2018	French Man (STEAM_0:0:63800005): greetings
+Sat Oct 20 17:13:09 2018	French Man (STEAM_0:0:63800005): you need food?
+Sat Oct 20 17:13:16 2018	Lukyn Red (STEAM_0:0:81441026): come
+Sat Oct 20 17:13:23 2018	A Man With AIDS (STEAM_0:0:132702948): /y I NEED MY MEAT
+Sat Oct 20 17:13:36 2018	Aniki (STEAM_0:1:67307965): wow nice
+Sat Oct 20 17:13:36 2018	Spicy Wings (STEAM_0:0:176415266) spawned
+Sat Oct 20 17:13:37 2018	A Man With AIDS (STEAM_0:0:132702948): /ooc WHERE THE FUCK IS MY DINNER
+Sat Oct 20 17:13:39 2018	French Man (STEAM_0:0:63800005): pizza is on the house
+Sat Oct 20 17:13:39 2018	owo (STEAM_0:1:35610035): ok
+Sat Oct 20 17:13:40 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /advert [Radio] On my way
+Sat Oct 20 17:13:41 2018	owo (STEAM_0:1:35610035): cool
+Sat Oct 20 17:13:42 2018	French Man (STEAM_0:0:63800005): free
+Sat Oct 20 17:13:49 2018	RangersCQB (STEAM_0:0:155876111) spawned
+Sat Oct 20 17:13:56 2018	French Man (STEAM_0:0:63800005): o
+Sat Oct 20 17:13:58 2018	Not GimON (STEAM_0:0:95660701): /advert Can the director turn on the god damn radio on the executives frequency?
+Sat Oct 20 17:14:01 2018	French Man (STEAM_0:0:63800005): hold on
+Sat Oct 20 17:14:02 2018	Dr Clef (STEAM_0:0:51990434) disconnected
+Sat Oct 20 17:14:05 2018	owo (STEAM_0:1:35610035): /job Slotmachine Salesman
+Sat Oct 20 17:14:11 2018	French Man (STEAM_0:0:63800005): here
+Sat Oct 20 17:14:32 2018	French Man (STEAM_0:0:63800005): yea sure
+Sat Oct 20 17:14:37 2018	owo (STEAM_0:1:35610035): i know how
+Sat Oct 20 17:14:44 2018	French Man (STEAM_0:0:63800005): hold on
+Sat Oct 20 17:14:51 2018	JC Denton was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Sat Oct 20 17:14:52 2018	JC Denton (STEAM_0:0:81533779) spawned
+Sat Oct 20 17:14:57 2018	owo (STEAM_0:1:35610035): got it
+Sat Oct 20 17:14:57 2018	Scumbag (STEAM_0:0:76669559): /ooc ¯\_(ツ)_/¯
+Sat Oct 20 17:14:59 2018	󠀡=MGM= Infinitynull (STEAM_0:1:60776888) has joined the game
+Sat Oct 20 17:14:59 2018	Infinitynull (STEAM_0:1:60776888) spawned
+Sat Oct 20 17:14:59 2018	wolfhugger 3000 (STEAM_0:1:42591216): // sending bacup
+Sat Oct 20 17:15:01 2018	Douevenban was killed by Jeroma with a cw_deagle
+Sat Oct 20 17:15:02 2018	Douevenban (STEAM_0:0:75732529) spawned
+Sat Oct 20 17:15:06 2018	Scumbag (STEAM_0:0:76669559): /ooc ¯\_(ツ)_/¯
+Sat Oct 20 17:15:06 2018	Jeroma (STEAM_0:0:121143569): /YHes dead
+Sat Oct 20 17:15:08 2018	owo (STEAM_0:1:35610035): i know how!!!
+Sat Oct 20 17:15:17 2018	Scumbag (STEAM_0:0:76669559): /ooc ¯\_(ツ)_/¯
+Sat Oct 20 17:15:18 2018	JC Denton (STEAM_0:0:81533779): !motd
+Sat Oct 20 17:15:21 2018	French Man (STEAM_0:0:63800005): Let me switch jobs for a second
+Sat Oct 20 17:15:23 2018	Lukyn Red (STEAM_0:0:81441026): _
+Sat Oct 20 17:15:25 2018	Lukyn Red (STEAM_0:0:81441026): ?
+Sat Oct 20 17:15:26 2018	Jeroma (STEAM_0:0:121143569): 
+Sat Oct 20 17:15:30 2018	French Man (STEAM_0:0:63800005) spawned
+Sat Oct 20 17:15:32 2018	Caboose (STEAM_0:1:184775407): !bet 200
+Sat Oct 20 17:15:34 2018	owo (STEAM_0:1:35610035): how do i rotate
+Sat Oct 20 17:15:34 2018	Lukyn Red (STEAM_0:0:81441026): yes this works
+Sat Oct 20 17:15:36 2018	owo (STEAM_0:1:35610035): nvm
+Sat Oct 20 17:15:39 2018	Lukyn Red (STEAM_0:0:81441026): sit down
+Sat Oct 20 17:15:41 2018	owo (STEAM_0:1:35610035): i can rotate it
+Sat Oct 20 17:15:42 2018	French Man (STEAM_0:0:63800005) spawned
+Sat Oct 20 17:15:45 2018	owo (STEAM_0:1:35610035): i hold e
+Sat Oct 20 17:16:00 2018	French Man (STEAM_0:0:63800005): /advert Cafeteria is temporarily closed due to terrorist attacks near the core.
+Sat Oct 20 17:16:01 2018	Caboose (STEAM_0:1:184775407): !bet 100
+Sat Oct 20 17:16:03 2018	Holmes (STEAM_0:0:204456225): hey
+Sat Oct 20 17:16:03 2018	Berry was killed by Entity [0][worldspawn] with a unknown
+Sat Oct 20 17:16:07 2018	Berry (STEAM_0:1:103915258) spawned
+Sat Oct 20 17:16:17 2018	King Kitten (lr plz) (STEAM_0:1:51211337) disconnected
+Sat Oct 20 17:16:20 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680): /advert [Radio] Pums and Fan are now back onIine, sir, stiII overseeing if everything aren't damaged
+Sat Oct 20 17:16:20 2018	Hibiki (STEAM_0:0:106554367): /advert send SWAT down here
+Sat Oct 20 17:16:29 2018	Colt Masterson (STEAM_0:0:90780827) disconnected
+Sat Oct 20 17:16:30 2018	Pane3Panellle (STEAM_0:1:114646812) disconnected
+Sat Oct 20 17:16:33 2018	Bantor (STEAM_0:0:35524622) disconnected
+Sat Oct 20 17:16:33 2018	JC Denton (STEAM_0:0:81533779) disconnected
+Sat Oct 20 17:16:33 2018	WildToastyMop (STEAM_0:0:93414166) disconnected
+Sat Oct 20 17:16:33 2018	RangersCQB (STEAM_0:0:155876111) disconnected
+Sat Oct 20 17:16:36 2018	YEEET (STEAM_0:0:70798502) disconnected
+Sat Oct 20 17:16:36 2018	Goober (STEAM_0:1:118919038) disconnected
+Sat Oct 20 17:16:38 2018	Lukyn Red (STEAM_0:0:81441026) disconnected
+Sat Oct 20 17:16:44 2018	RedLex (STEAM_0:1:122603291) disconnected
+Sat Oct 20 17:16:44 2018	owo (STEAM_0:1:35610035) disconnected
+Sat Oct 20 17:16:51 2018	Spicy Wings (STEAM_0:0:176415266) disconnected
+Sat Oct 20 17:17:14 2018	Emo or Lars's Boyfriend (STEAM_0:1:49049680) disconnected
+Sat Oct 20 17:17:26 2018	A Man With AIDS (STEAM_0:0:132702948) disconnected
+Sat Oct 20 17:17:50 2018	Caboose (STEAM_0:1:184775407) disconnected
+Sat Oct 20 17:17:50 2018	Infinitynull (STEAM_0:1:60776888) disconnected
+Sat Oct 20 17:18:20 2018	Aniki (STEAM_0:1:67307965) disconnected
+Sat Oct 20 17:18:20 2018	Berry (STEAM_0:1:103915258) disconnected
+Sat Oct 20 17:18:28 2018	Enviro (STEAM_0:0:80115103) disconnected
+Sat Oct 20 17:18:43 2018	Crash_Trooper (STEAM_0:1:94924909) disconnected
+Sat Oct 20 17:18:52 2018	Scumbag (STEAM_0:0:76669559) disconnected
+Sat Oct 20 17:19:15 2018	Kilroy (STEAM_0:0:138507625) disconnected

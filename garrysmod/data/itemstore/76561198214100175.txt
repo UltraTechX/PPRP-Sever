@@ -1,0 +1,1 @@
+[{"Data":{"Amount":1.0,"Model":"models/weapons/cw_pist_m1911.mdl","Ammo":7.0,"Class":"cw_m1911"},"Class":"spawned_weapon"},{"Data":{"Amount":1.0,"Model":"models/weapons/w_cst_mac11.mdl","Ammo":32.0,"Class":"cw_mac11"},"Class":"spawned_weapon"}]

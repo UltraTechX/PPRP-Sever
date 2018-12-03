@@ -1,0 +1,2008 @@
+Wed Oct 24 08:04:32 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Wed Oct 24 08:04:32 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:07:45 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:14:18 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:14:20 2018	BB8U (STEAM_0:1:102173559) has joined the game
+Wed Oct 24 08:14:20 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:14:41 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:14:50 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:15:12 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:16:24 2018	Jeroma was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 24 08:16:26 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:17:12 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:17:44 2018	Jeroma (STEAM_0:0:121143569): // BB8U where you at?
+Wed Oct 24 08:18:01 2018	BB8U (STEAM_0:1:102173559): // i don't know i went through the teleporter
+Wed Oct 24 08:18:09 2018	Jeroma (STEAM_0:0:121143569): // Oh ik
+Wed Oct 24 08:18:59 2018	Jeroma (STEAM_0:0:121143569): // Well fuck i got stuck
+Wed Oct 24 08:19:06 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:19:06 2018	BB8U (STEAM_0:1:102173559): // how
+Wed Oct 24 08:19:09 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:19:26 2018	Jeroma (STEAM_0:0:121143569): // Doesnt matter im free again
+Wed Oct 24 08:19:32 2018	BB8U (STEAM_0:1:102173559): // ok
+Wed Oct 24 08:19:41 2018	Jeroma (STEAM_0:0:121143569): // Im coming for ya
+Wed Oct 24 08:19:46 2018	BB8U (STEAM_0:1:102173559): // thank you
+Wed Oct 24 08:21:42 2018	Jeroma (STEAM_0:0:121143569): Hey
+Wed Oct 24 08:21:43 2018	[SPD] Christianitus Deluxe (STEAM_0:0:59932184) has joined the game
+Wed Oct 24 08:21:43 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 08:21:48 2018	Jeroma (STEAM_0:0:121143569): tbh idk
+Wed Oct 24 08:21:52 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:22:31 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 08:24:18 2018	BB8U (STEAM_0:1:102173559): @ help i am stuck
+Wed Oct 24 08:24:45 2018	Jeroma (STEAM_0:0:121143569): /pm bb where you at?
+Wed Oct 24 08:24:52 2018	BB8U (STEAM_0:1:102173559): // in the roof
+Wed Oct 24 08:25:03 2018	Jeroma (STEAM_0:0:121143569): Oh
+Wed Oct 24 08:25:11 2018	Jeroma (STEAM_0:0:121143569): I caant hear you talk
+Wed Oct 24 08:25:26 2018	Jeroma (STEAM_0:0:121143569): You have to switch jobs
+Wed Oct 24 08:25:39 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:25:46 2018	Jeroma (STEAM_0:0:121143569): /pm b You have to switch jobs
+Wed Oct 24 08:26:04 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:26:06 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:27:19 2018	Jeroma was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 08:27:20 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 08:27:25 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:27:28 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:27:33 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:27:49 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 08:28:00 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:28:35 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 08:28:42 2018	Jeroma (STEAM_0:0:121143569): Its Vip now
+Wed Oct 24 08:28:48 2018	Jeroma (STEAM_0:0:121143569): I looked in discord
+Wed Oct 24 08:28:48 2018	Jeroma (STEAM_0:0:121143569): And ye
+Wed Oct 24 08:28:52 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 08:29:02 2018	Jeroma (STEAM_0:0:121143569): How much money ya got?
+Wed Oct 24 08:29:15 2018	Jeroma (STEAM_0:0:121143569): I suggest doing meth
+Wed Oct 24 08:29:18 2018	Jeroma (STEAM_0:0:121143569): To make money
+Wed Oct 24 08:29:20 2018	Jeroma (STEAM_0:0:121143569): Then printers
+Wed Oct 24 08:29:39 2018	Jeroma (STEAM_0:0:121143569): Are you ok?
+Wed Oct 24 08:30:00 2018	BB8U was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 08:30:03 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:30:31 2018	Jeroma (STEAM_0:0:121143569): // Im gonna head off cya
+Wed Oct 24 08:30:37 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc bye
+Wed Oct 24 08:30:39 2018	BB8U (STEAM_0:1:102173559): // bye
+Wed Oct 24 08:30:45 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Wed Oct 24 08:31:04 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 08:31:26 2018	BB8U (STEAM_0:1:102173559) disconnected
+Wed Oct 24 08:37:56 2018	Christianitus Deluxe was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 08:37:59 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 08:44:23 2018	Christianitus Deluxe was killed by Entity [4941][trigger_hurt] with a trigger_hurt
+Wed Oct 24 08:44:34 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 08:44:35 2018	Christianitus Deluxe was killed by Himself with a suicide trick
+Wed Oct 24 08:44:39 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 08:45:43 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 09:09:01 2018	Christianitus Deluxe was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 09:09:04 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 09:17:23 2018	Christianitus Deluxe was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 09:17:28 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 09:36:12 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 09:36:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 09:36:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 09:38:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 09:38:42 2018	Christianitus Deluxe was killed by The Crimson SoulSeeker with a fas2_machete
+Wed Oct 24 09:38:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Wed Oct 24 09:45:53 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 09:48:16 2018	BB8U (STEAM_0:1:102173559) has joined the game
+Wed Oct 24 09:48:16 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 09:48:58 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 09:49:52 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 09:51:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 09:51:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 09:51:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 09:52:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // h o w 
+Wed Oct 24 09:52:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 09:53:01 2018	BB8U (STEAM_0:1:102173559): //hi
+Wed Oct 24 09:53:01 2018	BB8U was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Wed Oct 24 09:53:03 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 09:53:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:53:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:53:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:53:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:53:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:53:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:53:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): u wanna get in boi
+Wed Oct 24 09:53:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 09:53:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // y is the meltdown music
+Wed Oct 24 09:53:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // playing
+Wed Oct 24 09:54:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:54:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:54:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:54:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:54:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:54:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:54:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:55:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 09:55:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i wish pro corrupt worker wasnt vip
+Wed Oct 24 09:55:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): it used to be f r e e 
+Wed Oct 24 09:56:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we'll cut through the lower floor
+Wed Oct 24 09:56:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s i t
+Wed Oct 24 09:56:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:57:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 09:57:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): not really
+Wed Oct 24 09:57:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): as corrupt we take hits
+Wed Oct 24 09:57:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but idk youcan
+Wed Oct 24 09:57:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk
+Wed Oct 24 09:58:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765):  are you going to?
+Wed Oct 24 09:58:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 09:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 09:59:43 2018	Christianitus Deluxe (STEAM_0:0:59932184): are the coolant systems online?
+Wed Oct 24 09:59:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): pump and fans are on
+Wed Oct 24 09:59:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 09:59:56 2018	Christianitus Deluxe (STEAM_0:0:59932184): nah
+Wed Oct 24 10:00:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): c a p t a i n
+Wed Oct 24 10:00:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 10:00:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): do you guys want to enter the core?
+Wed Oct 24 10:00:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its a teleporter
+Wed Oct 24 10:00:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:00:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:00:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:00:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): the core takes u somewhere
+Wed Oct 24 10:00:47 2018	Christianitus Deluxe (STEAM_0:0:59932184): woah cool
+Wed Oct 24 10:00:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 10:00:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ik get prAnked nigga
+Wed Oct 24 10:00:59 2018	Christianitus Deluxe was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:01:00 2018	The Crimson SoulSeeker was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:01:00 2018	BB8U was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:01:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 10:01:02 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:01:02 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 10:01:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 10:01:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i've seen it lots of times but ok
+Wed Oct 24 10:01:51 2018	Christianitus Deluxe (STEAM_0:0:59932184): ahhhh
+Wed Oct 24 10:02:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 10:02:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they're uhh
+Wed Oct 24 10:03:54 2018	Christianitus Deluxe (STEAM_0:0:59932184): /advert whats the status on the coolant
+Wed Oct 24 10:04:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // gay
+Wed Oct 24 10:04:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:04:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:04:46 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 10:04:47 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:04:51 2018	The Crimson SoulSeeker was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 10:04:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 10:04:56 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:05:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 10:05:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb play as core room security
+Wed Oct 24 10:05:24 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 10:05:25 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:05:29 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 10:05:33 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:05:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:06:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:06:22 2018	Christianitus Deluxe (STEAM_0:0:59932184): we gotta stabilize this shit
+Wed Oct 24 10:06:56 2018	Christianitus Deluxe (STEAM_0:0:59932184): is the coolant on
+Wed Oct 24 10:07:03 2018	Christianitus Deluxe (STEAM_0:0:59932184): kk
+Wed Oct 24 10:07:13 2018	Christianitus Deluxe (STEAM_0:0:59932184): whoah
+Wed Oct 24 10:07:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you will fall out lol
+Wed Oct 24 10:07:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 10:07:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): niggers never die
+Wed Oct 24 10:07:39 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc ayyyv lmao
+Wed Oct 24 10:08:31 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:08:52 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:11:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:11:25 2018	Christianitus Deluxe was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:11:31 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 10:11:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // bb8 where u at
+Wed Oct 24 10:11:37 2018	BB8U (STEAM_0:1:102173559): // coming
+Wed Oct 24 10:11:40 2018	BB8U (STEAM_0:1:102173559): // to the core
+Wed Oct 24 10:14:07 2018	Christianitus Deluxe (STEAM_0:0:59932184): /OOC Stop we need to cool it down fuckers
+Wed Oct 24 10:14:31 2018	Christianitus Deluxe (STEAM_0:0:59932184): whoah
+Wed Oct 24 10:14:39 2018	Christianitus Deluxe (STEAM_0:0:59932184): ahhhh
+Wed Oct 24 10:14:45 2018	BB8U was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:14:47 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:15:37 2018	BB8U (STEAM_0:1:102173559): // activate the emergancy cooler
+Wed Oct 24 10:15:44 2018	Christianitus Deluxe was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:15:53 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc idk how, come show me
+Wed Oct 24 10:15:54 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 10:15:58 2018	BB8U (STEAM_0:1:102173559): // ok
+Wed Oct 24 10:16:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:16:25 2018	Christianitus Deluxe (STEAM_0:0:59932184): ik
+Wed Oct 24 10:18:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): only works in meltdon
+Wed Oct 24 10:18:16 2018	Christianitus Deluxe (STEAM_0:0:59932184): y
+Wed Oct 24 10:18:27 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc yeah turn on da lasers
+Wed Oct 24 10:19:08 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc coolant system is off
+Wed Oct 24 10:19:24 2018	BB8U (STEAM_0:1:102173559): // good i am going to turn the lasers on
+Wed Oct 24 10:20:10 2018	BB8U was killed by Entity [3242][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:20:11 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:20:50 2018	BB8U (STEAM_0:1:102173559): // 3/4 of the lasers are on
+Wed Oct 24 10:22:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this is hopeless lets just leave
+Wed Oct 24 10:24:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:24:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // sit on me niggers
+Wed Oct 24 10:24:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): S I T 
+Wed Oct 24 10:24:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): alt e
+Wed Oct 24 10:24:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): alt e 
+Wed Oct 24 10:24:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k bye
+Wed Oct 24 10:24:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): stand up
+Wed Oct 24 10:24:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): stand
+Wed Oct 24 10:24:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): STAND NIGGER
+Wed Oct 24 10:24:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:24:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 10:25:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im inside of the floor
+Wed Oct 24 10:25:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): literally cant
+Wed Oct 24 10:25:58 2018	Christianitus Deluxe was killed by Entity [4915][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:26:03 2018	Christianitus Deluxe (STEAM_0:0:59932184): /OOC WTFFFF
+Wed Oct 24 10:26:12 2018	Christianitus Deluxe (STEAM_0:0:59932184): /OOC THE ROCKET FUCKING KILLED ME
+Wed Oct 24 10:26:13 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 10:26:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // get dUnkd on
+Wed Oct 24 10:26:23 2018	Christianitus Deluxe was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 24 10:26:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 10:26:35 2018	BB8U was killed by Himself with a suicide trick
+Wed Oct 24 10:26:35 2018	The Crimson SoulSeeker was killed by Himself with a suicide trick
+Wed Oct 24 10:26:35 2018	Christianitus Deluxe was killed by Himself with a suicide trick
+Wed Oct 24 10:26:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 10:26:38 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 10:26:39 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 10:26:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 10:26:55 2018	BB8U (STEAM_0:1:102173559) disconnected
+Wed Oct 24 10:27:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:27:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:29:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 10:31:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Wed Oct 24 11:04:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 11:04:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 11:07:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 11:10:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): omae wa mou shindeiru
+Wed Oct 24 11:10:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): omae wa mou shindeiru
+Wed Oct 24 11:10:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): omae wa mou shindeiru
+Wed Oct 24 11:11:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 11:11:25 2018	Christianitus Deluxe was killed by The Crimson SoulSeeker with a cw_p99
+Wed Oct 24 11:11:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /invholster
+Wed Oct 24 11:11:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Wed Oct 24 11:35:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 11:35:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 11:39:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Wed Oct 24 11:39:54 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) has joined the game
+Wed Oct 24 11:39:54 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 11:42:00 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): / hello
+Wed Oct 24 11:42:03 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // hello
+Wed Oct 24 11:42:21 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // where are u?
+Wed Oct 24 11:44:27 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // u there?
+Wed Oct 24 11:45:54 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): !steam
+Wed Oct 24 11:46:14 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 11:46:15 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 11:46:48 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 11:48:04 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // hitya
+Wed Oct 24 11:48:11 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // * hiya
+Wed Oct 24 11:48:21 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 11:51:06 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Wed Oct 24 11:51:06 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 11:51:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 11:51:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 11:52:03 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // dude you there??
+Wed Oct 24 11:52:17 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // hey guys
+Wed Oct 24 11:54:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): hi jerms
+Wed Oct 24 11:54:59 2018	Jeroma (STEAM_0:0:121143569): :3
+Wed Oct 24 11:55:04 2018	Jeroma (STEAM_0:0:121143569): Hello Crim
+Wed Oct 24 11:55:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): shit man i'm having a really bad day
+Wed Oct 24 11:55:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): pc committing restarting
+Wed Oct 24 11:55:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but i dont know y
+Wed Oct 24 11:55:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): wanna play as core room security?
+Wed Oct 24 11:55:28 2018	Jeroma (STEAM_0:0:121143569): Idk
+Wed Oct 24 11:55:31 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // where are you guys?
+Wed Oct 24 11:55:31 2018	Jeroma (STEAM_0:0:121143569): I jjust came home
+Wed Oct 24 11:55:36 2018	Jeroma (STEAM_0:0:121143569): from the Dentist
+Wed Oct 24 11:55:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): wot u wants to do nibbbbbb?
+Wed Oct 24 11:55:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 11:56:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): h u z z 
+Wed Oct 24 11:56:18 2018	Jeroma (STEAM_0:0:121143569): !yeet crim
+Wed Oct 24 11:56:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): germs y did u unbuddy me
+Wed Oct 24 11:56:39 2018	Jeroma (STEAM_0:0:121143569): !jump
+Wed Oct 24 11:56:50 2018	Jeroma (STEAM_0:0:121143569): !fetch
+Wed Oct 24 11:56:54 2018	Jeroma (STEAM_0:0:121143569): !fetch
+Wed Oct 24 11:56:59 2018	Jeroma (STEAM_0:0:121143569): Fetch
+Wed Oct 24 11:57:04 2018	Jeroma (STEAM_0:0:121143569): !go
+Wed Oct 24 11:57:17 2018	Jeroma (STEAM_0:0:121143569): !fetch
+Wed Oct 24 11:57:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): lets play as core room security
+Wed Oct 24 11:57:36 2018	Jeroma (STEAM_0:0:121143569): Ok
+Wed Oct 24 11:57:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 11:57:47 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 11:57:52 2018	Jeroma (STEAM_0:0:121143569): Yo
+Wed Oct 24 11:57:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 11:57:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 11:57:58 2018	Jeroma (STEAM_0:0:121143569): whats that
+Wed Oct 24 11:58:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): hacks
+Wed Oct 24 11:58:20 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // any of you guys even talk??
+Wed Oct 24 11:58:23 2018	Jeroma (STEAM_0:0:121143569): Whats that
+Wed Oct 24 11:58:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // no we're mute 
+Wed Oct 24 11:58:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i told u nigger
+Wed Oct 24 11:58:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): hacks
+Wed Oct 24 11:58:37 2018	Jeroma (STEAM_0:0:121143569): ?
+Wed Oct 24 11:58:40 2018	Jeroma (STEAM_0:0:121143569): So what 
+Wed Oct 24 11:58:44 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // sorry if i offended you my mute dude
+Wed Oct 24 11:58:46 2018	Jeroma (STEAM_0:0:121143569): /Y What
+Wed Oct 24 11:58:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // kek
+Wed Oct 24 11:58:53 2018	Jeroma (STEAM_0:0:121143569): What does it do
+Wed Oct 24 11:58:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): l o ok
+Wed Oct 24 11:59:10 2018	Jeroma (STEAM_0:0:121143569): How
+Wed Oct 24 11:59:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its called h a c k i n g
+Wed Oct 24 11:59:19 2018	Jeroma (STEAM_0:0:121143569): What command
+Wed Oct 24 11:59:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its wiremod
+Wed Oct 24 11:59:27 2018	Jeroma (STEAM_0:0:121143569): Ik
+Wed Oct 24 11:59:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): dunno 
+Wed Oct 24 11:59:33 2018	Jeroma (STEAM_0:0:121143569): Can i dupe it mate?
+Wed Oct 24 11:59:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): some guy told me how
+Wed Oct 24 11:59:46 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 11:59:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i buddied u as the first 4 
+Wed Oct 24 11:59:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 11:59:55 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // making meth is litteraly the only way to make decent money tbh
+Wed Oct 24 11:59:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): buddy me n i b b e r 
+Wed Oct 24 12:00:01 2018	Jeroma (STEAM_0:0:121143569): Already did
+Wed Oct 24 12:00:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its not f i z z
+Wed Oct 24 12:00:10 2018	Jeroma (STEAM_0:0:121143569): So wahts the button
+Wed Oct 24 12:00:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): did it reset or some shit ;p
+Wed Oct 24 12:00:27 2018	Jeroma (STEAM_0:0:121143569): /me Gives you Biscuits
+Wed Oct 24 12:00:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): the button is insert
+Wed Oct 24 12:00:41 2018	Jeroma (STEAM_0:0:121143569): I dont know what button that is
+Wed Oct 24 12:00:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): I N S 
+Wed Oct 24 12:00:57 2018	Jeroma (STEAM_0:0:121143569): I dont know
+Wed Oct 24 12:01:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): set it to something else then
+Wed Oct 24 12:01:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:01:12 2018	Jeroma (STEAM_0:0:121143569): How
+Wed Oct 24 12:01:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): use the wiremod
+Wed Oct 24 12:01:27 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:02:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm jer going core room
+Wed Oct 24 12:03:31 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // tram!!
+Wed Oct 24 12:04:21 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): --> i have a big willy <--
+Wed Oct 24 12:04:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k imma go to the core
+Wed Oct 24 12:05:28 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:06:16 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:06:19 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:06:29 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:07:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what
+Wed Oct 24 12:07:22 2018	Jeroma (STEAM_0:0:121143569): I changed
+Wed Oct 24 12:08:25 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:08:29 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 12:08:31 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:09:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): do adv dupes save keypads 
+Wed Oct 24 12:10:23 2018	Jeroma (STEAM_0:0:121143569): Keycards
+Wed Oct 24 12:10:26 2018	ShoGun +_+ hellcase.com was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 24 12:10:28 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:10:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm jer keycards are shit to set up all the time
+Wed Oct 24 12:11:03 2018	Jeroma (STEAM_0:0:121143569): /pm Cr Ik but dont require you to sit at your checkpoint all day
+Wed Oct 24 12:11:26 2018	Jeroma (STEAM_0:0:121143569): Hey
+Wed Oct 24 12:11:27 2018	Jeroma (STEAM_0:0:121143569): Mate
+Wed Oct 24 12:11:34 2018	Jeroma (STEAM_0:0:121143569): How is it with
+Wed Oct 24 12:11:35 2018	Jeroma (STEAM_0:0:121143569): Wire
+Wed Oct 24 12:11:37 2018	Jeroma (STEAM_0:0:121143569): Like
+Wed Oct 24 12:11:43 2018	Jeroma (STEAM_0:0:121143569): If im a terrorist can i use this
+Wed Oct 24 12:11:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you probably can its just that no one has it
+Wed Oct 24 12:12:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s t o p
+Wed Oct 24 12:13:18 2018	Jeroma (STEAM_0:0:121143569): I love this thing
+Wed Oct 24 12:13:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): can u not
+Wed Oct 24 12:13:22 2018	Jeroma (STEAM_0:0:121143569): Thank you crimson
+Wed Oct 24 12:13:28 2018	Jeroma (STEAM_0:0:121143569): For giving it to me
+Wed Oct 24 12:13:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k man
+Wed Oct 24 12:14:05 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 12:14:31 2018	Jeroma (STEAM_0:0:121143569): /Y How are you
+Wed Oct 24 12:14:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk
+Wed Oct 24 12:14:52 2018	Jeroma (STEAM_0:0:121143569): /Y Terrorist is Vip now 
+Wed Oct 24 12:15:05 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // whats the point of thoses os trminals?
+Wed Oct 24 12:15:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): thats retarded
+Wed Oct 24 12:15:10 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 12:15:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): btw
+Wed Oct 24 12:15:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i kind of died once 
+Wed Oct 24 12:15:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you uhh
+Wed Oct 24 12:15:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you said that
+Wed Oct 24 12:15:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): terrorists can only shoot if someone shoots first
+Wed Oct 24 12:15:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but i kind of died bcus of that
+Wed Oct 24 12:15:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): since some dude just started shooting
+Wed Oct 24 12:15:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): big oof
+Wed Oct 24 12:16:03 2018	Jeroma (STEAM_0:0:121143569): Apply that only to civs
+Wed Oct 24 12:16:11 2018	Jeroma (STEAM_0:0:121143569): You can gun down any security
+Wed Oct 24 12:16:12 2018	Jeroma (STEAM_0:0:121143569): Like any
+Wed Oct 24 12:16:16 2018	Jeroma (STEAM_0:0:121143569): Even CBRN
+Wed Oct 24 12:16:22 2018	Jeroma (STEAM_0:0:121143569): Mate
+Wed Oct 24 12:16:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i was corrupt worker i think
+Wed Oct 24 12:16:30 2018	Jeroma (STEAM_0:0:121143569): Can i have that box dupe?
+Wed Oct 24 12:16:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): the wiremod thing?
+Wed Oct 24 12:16:37 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 12:16:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): people post it all over dupes
+Wed Oct 24 12:16:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): plus its not useful at all
+Wed Oct 24 12:16:51 2018	Jeroma (STEAM_0:0:121143569): Still
+Wed Oct 24 12:16:52 2018	Jeroma (STEAM_0:0:121143569): Can i
+Wed Oct 24 12:17:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): y do u want it 
+Wed Oct 24 12:17:12 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 12:17:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but w h y 
+Wed Oct 24 12:17:22 2018	Jeroma (STEAM_0:0:121143569): Why not
+Wed Oct 24 12:17:29 2018	Jeroma (STEAM_0:0:121143569): Science isnt about why
+Wed Oct 24 12:17:32 2018	Jeroma (STEAM_0:0:121143569): Its about why not
+Wed Oct 24 12:18:15 2018	Jeroma (STEAM_0:0:121143569): This looks nice
+Wed Oct 24 12:18:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i honestly have a feeling this server will become a wreck one day
+Wed Oct 24 12:18:32 2018	Jeroma (STEAM_0:0:121143569): Me to
+Wed Oct 24 12:18:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): terrorists are vip now
+Wed Oct 24 12:18:39 2018	Jeroma (STEAM_0:0:121143569): Atleast
+Wed Oct 24 12:18:42 2018	Jeroma (STEAM_0:0:121143569): Not all scps
+Wed Oct 24 12:18:44 2018	Jeroma (STEAM_0:0:121143569): Are vip
+Wed Oct 24 12:18:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): literally all of them are
+Wed Oct 24 12:18:58 2018	Jeroma (STEAM_0:0:121143569): I thought they were gonna change that
+Wed Oct 24 12:19:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): never heard about that
+Wed Oct 24 12:19:06 2018	Jeroma (STEAM_0:0:121143569): I read that on discord
+Wed Oct 24 12:19:21 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // please could someone help me out
+Wed Oct 24 12:19:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // naw fam
+Wed Oct 24 12:19:33 2018	Jeroma (STEAM_0:0:121143569): // Where you at?
+Wed Oct 24 12:19:41 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // lobby near trams
+Wed Oct 24 12:20:38 2018	Jeroma (STEAM_0:0:121143569): // I cant help ya
+Wed Oct 24 12:20:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // whats his problemos
+Wed Oct 24 12:20:47 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // how come?
+Wed Oct 24 12:20:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:20:56 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // i need help woth io mkonitor
+Wed Oct 24 12:21:00 2018	Jeroma (STEAM_0:0:121143569): // gotta wait for the tram
+Wed Oct 24 12:21:05 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // ok
+Wed Oct 24 12:21:32 2018	Jeroma (STEAM_0:0:121143569): // Actually i can help you
+Wed Oct 24 12:21:40 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // ok thanks
+Wed Oct 24 12:21:49 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 12:21:50 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:22:16 2018	Jeroma (STEAM_0:0:121143569): /Y Hello
+Wed Oct 24 12:22:28 2018	Jeroma (STEAM_0:0:121143569): Idk
+Wed Oct 24 12:22:32 2018	Jeroma (STEAM_0:0:121143569): But i just duped it
+Wed Oct 24 12:22:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm jer come here after ur done
+Wed Oct 24 12:23:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:23:27 2018	Jeroma was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 12:23:28 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 12:23:34 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 12:23:35 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:23:42 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 12:23:53 2018	Jeroma (STEAM_0:0:121143569): // Sho where you at?
+Wed Oct 24 12:24:02 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 12:24:12 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // just dies
+Wed Oct 24 12:24:16 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // died
+Wed Oct 24 12:24:18 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // hang on#
+Wed Oct 24 12:24:25 2018	Jeroma (STEAM_0:0:121143569): // Ok
+Wed Oct 24 12:24:34 2018	ShoGun +_+ hellcase.com was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 24 12:24:35 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:24:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:24:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:25:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 12:25:30 2018	ShoGun +_+ hellcase.com was killed by Entity [2288][trigger_hurt] with a trigger_hurt
+Wed Oct 24 12:25:31 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:25:51 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 12:25:58 2018	Jeroma (STEAM_0:0:121143569): /Y Hello
+Wed Oct 24 12:26:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how do i exit the fucking terminal
+Wed Oct 24 12:26:20 2018	Jeroma (STEAM_0:0:121143569): Hello
+Wed Oct 24 12:26:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:26:42 2018	Jeroma (STEAM_0:0:121143569): I think
+Wed Oct 24 12:26:47 2018	Jeroma (STEAM_0:0:121143569): You can type in command
+Wed Oct 24 12:27:03 2018	Jeroma (STEAM_0:0:121143569): Idk
+Wed Oct 24 12:27:06 2018	Jeroma (STEAM_0:0:121143569): Anything
+Wed Oct 24 12:27:20 2018	Jeroma (STEAM_0:0:121143569): I got it from crimson
+Wed Oct 24 12:27:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): if you're smart you can make your own but i just duped them off the dupe section
+Wed Oct 24 12:27:46 2018	Jeroma (STEAM_0:0:121143569): Do it in sandbox
+Wed Oct 24 12:27:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i did it on singleplayer
+Wed Oct 24 12:27:49 2018	Jeroma (STEAM_0:0:121143569): And dupe it
+Wed Oct 24 12:27:52 2018	Jeroma (STEAM_0:0:121143569): Into
+Wed Oct 24 12:27:56 2018	Jeroma (STEAM_0:0:121143569): Advanced dupe
+Wed Oct 24 12:28:02 2018	Jeroma (STEAM_0:0:121143569): This thing can
+Wed Oct 24 12:28:05 2018	Jeroma (STEAM_0:0:121143569): Partially fly
+Wed Oct 24 12:28:15 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) disconnected
+Wed Oct 24 12:28:26 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i got this off someone but i added lamps to it
+Wed Oct 24 12:28:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): incase of a  meltdown
+Wed Oct 24 12:28:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): because its dark as shit
+Wed Oct 24 12:28:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but its mainly there to pisstake
+Wed Oct 24 12:28:41 2018	Jeroma (STEAM_0:0:121143569): Can i geet that
+Wed Oct 24 12:28:52 2018	Jeroma (STEAM_0:0:121143569): /pm Cr Can i have please?
+Wed Oct 24 12:29:50 2018	Jeroma (STEAM_0:0:121143569): Can i have thatß
+Wed Oct 24 12:29:51 2018	Jeroma (STEAM_0:0:121143569): ?
+Wed Oct 24 12:30:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i got it off someone else kek
+Wed Oct 24 12:30:06 2018	Jeroma (STEAM_0:0:121143569): Ples
+Wed Oct 24 12:30:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its only useful if u have wire turrets tho
+Wed Oct 24 12:30:26 2018	Jeroma (STEAM_0:0:121143569): Still
+Wed Oct 24 12:32:16 2018	Jeroma (STEAM_0:0:121143569): Can i have it?
+Wed Oct 24 12:32:23 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:33:08 2018	Jeroma (STEAM_0:0:121143569): Spawn it again
+Wed Oct 24 12:33:18 2018	Jeroma (STEAM_0:0:121143569): I didnt dupe it
+Wed Oct 24 12:34:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:34:28 2018	Jeroma (STEAM_0:0:121143569): /me Hugs you
+Wed Oct 24 12:34:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:34:58 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:35:02 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:35:35 2018	Jeroma was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 12:35:46 2018	Jeroma (STEAM_0:0:121143569): /Y
+Wed Oct 24 12:35:46 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 12:35:56 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:36:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:36:01 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:36:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:37:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what should we do
+Wed Oct 24 12:37:10 2018	Jeroma (STEAM_0:0:121143569): Nothing to do
+Wed Oct 24 12:37:24 2018	Jeroma (STEAM_0:0:121143569): There is one thing but theres no reason
+Wed Oct 24 12:37:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what thing
+Wed Oct 24 12:37:37 2018	Jeroma (STEAM_0:0:121143569): Make as much money as possible
+Wed Oct 24 12:37:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): frankly the reason
+Wed Oct 24 12:37:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): would be to not give a fuck about what you're spending your money on then
+Wed Oct 24 12:37:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): if you had so much
+Wed Oct 24 12:38:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this is the fastest hovercraft i have but its kinda big
+Wed Oct 24 12:38:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:38:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 12:39:23 2018	Jeroma (STEAM_0:0:121143569): This thing is bg
+Wed Oct 24 12:39:48 2018	Jeroma was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 12:39:49 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 12:42:07 2018	Jeroma was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 12:42:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 12:43:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Wed Oct 24 12:45:29 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 12:45:32 2018	Jeroma (STEAM_0:0:121143569): // Bye
+Wed Oct 24 12:45:43 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Wed Oct 24 12:59:34 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Wed Oct 24 12:59:34 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 12:59:44 2018	Barack Osama (STEAM_0:0:103056899) has joined the game
+Wed Oct 24 12:59:44 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:00:12 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:00:16 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:02:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 13:02:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 13:05:27 2018	Sir Robsson was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 24 13:05:27 2018	Sir Bobsson was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 24 13:05:27 2018	The Crimson SoulSeeker was killed by Entity [4940][trigger_hurt] with a trigger_hurt
+Wed Oct 24 13:05:31 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:05:33 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:05:36 2018	Sir Bobsson was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 24 13:05:38 2018	Sir Robsson was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 24 13:05:39 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:05:39 2018	Sir Bobsson was killed by Himself with a suicide trick
+Wed Oct 24 13:05:39 2018	Christianitus Deluxe was killed by Himself with a suicide trick
+Wed Oct 24 13:05:39 2018	Sir Robsson was killed by Himself with a suicide trick
+Wed Oct 24 13:05:39 2018	The Crimson SoulSeeker was killed by Himself with a suicide trick
+Wed Oct 24 13:05:41 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:05:43 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:05:56 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:06:02 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:06:03 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) has joined the game
+Wed Oct 24 13:06:03 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 13:06:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 13:07:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 13:08:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:11:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): !suggestions
+Wed Oct 24 13:12:44 2018	BB8U (STEAM_0:1:102173559) has joined the game
+Wed Oct 24 13:12:44 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:13:28 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:13:47 2018	Sir Bobsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 13:13:49 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:13:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): become c o r e ?
+Wed Oct 24 13:13:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 13:13:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 13:14:00 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:14:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 13:14:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 13:15:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:16:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:16:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:17:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:17:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:17:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y sit in this chair
+Wed Oct 24 13:18:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb where did u go lmao
+Wed Oct 24 13:18:16 2018	BB8U (STEAM_0:1:102173559): // look up
+Wed Oct 24 13:18:39 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) disconnected
+Wed Oct 24 13:18:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 13:19:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): n u t s 
+Wed Oct 24 13:19:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 13:19:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they take time to set up
+Wed Oct 24 13:20:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): especially when ur doing all the teams
+Wed Oct 24 13:20:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:20:50 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 13:21:16 2018	Sir Robsson (STEAM_0:0:103056899) disconnected
+Wed Oct 24 13:21:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:21:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:22:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 13:22:25 2018	Barack Osama (STEAM_0:0:103056899) has joined the game
+Wed Oct 24 13:22:25 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:22:53 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:23:15 2018	Sir Robsson was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 13:23:17 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:23:21 2018	Sir Bobsson was killed by Sir Robsson with a cw_deagle
+Wed Oct 24 13:23:22 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:24:24 2018	Sir Robsson was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 13:24:26 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 13:25:30 2018	Sir Bobsson was killed by Sir Robsson with a cw_deagle
+Wed Oct 24 13:25:38 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 13:26:12 2018	BB8U (STEAM_0:1:102173559) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:26:46 2018	Sir Bobsson (STEAM_0:0:69022001) disconnected
+Wed Oct 24 13:27:43 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:28:14 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 13:28:15 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:30:49 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Wed Oct 24 13:30:49 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 13:34:21 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 13:34:43 2018	Jeroma (STEAM_0:0:121143569): Hello
+Wed Oct 24 13:35:31 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:37:28 2018	Jeroma (STEAM_0:0:121143569): /pm CR Where you at?
+Wed Oct 24 13:38:36 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 13:40:41 2018	Jeroma (STEAM_0:0:121143569): /pm Cr You there?
+Wed Oct 24 13:40:57 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 13:41:05 2018	Jeroma (STEAM_0:0:121143569): Hello
+Wed Oct 24 13:41:12 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 13:41:34 2018	Jeroma (STEAM_0:0:121143569): Want somebody dead?
+Wed Oct 24 13:41:41 2018	Jeroma (STEAM_0:0:121143569): No
+Wed Oct 24 13:41:44 2018	Jeroma (STEAM_0:0:121143569): You can
+Wed Oct 24 13:41:47 2018	Jeroma (STEAM_0:0:121143569): Make your own prize
+Wed Oct 24 13:42:02 2018	Jeroma (STEAM_0:0:121143569): Just e
+Wed Oct 24 13:42:04 2018	Jeroma (STEAM_0:0:121143569): On me
+Wed Oct 24 13:42:31 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:42:37 2018	Sir Robsson was killed by Jeroma with a cw_mp5
+Wed Oct 24 13:42:46 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:43:17 2018	Jeroma (STEAM_0:0:121143569): Sooo
+Wed Oct 24 13:43:21 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 13:43:30 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 13:43:31 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 13:43:47 2018	Jeroma (STEAM_0:0:121143569): Heh
+Wed Oct 24 13:43:55 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:44:09 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 13:44:19 2018	BB8U (STEAM_0:1:102173559) disconnected
+Wed Oct 24 13:45:05 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:45:16 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 13:47:44 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Wed Oct 24 13:57:40 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 24 13:57:40 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 13:58:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:00:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:01:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:02:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:02:21 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 24 14:02:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:11:17 2018	{Opi} Chicken 136 (STEAM_0:1:167614500) has joined the game
+Wed Oct 24 14:11:17 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 14:13:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:14:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): omae wa mou shindeiru
+Wed Oct 24 14:15:14 2018	The Crimson SoulSeeker was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 14:15:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:16:11 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 14:16:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 14:16:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): hello
+Wed Oct 24 14:17:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kk
+Wed Oct 24 14:17:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): h u z z a h 
+Wed Oct 24 14:17:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:18:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): r we goin core?
+Wed Oct 24 14:18:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:18:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:18:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:18:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm johnny shit i teleported whoops
+Wed Oct 24 14:19:04 2018	Johnny K Bronk (STEAM_0:1:167614500): !menu
+Wed Oct 24 14:19:14 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 14:19:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john you can legit do /pm (name)
+Wed Oct 24 14:19:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john can you commit unalive
+Wed Oct 24 14:19:46 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm crim lemme see
+Wed Oct 24 14:19:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john just wait there ill come
+Wed Oct 24 14:20:00 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc oof
+Wed Oct 24 14:20:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:20:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:20:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:20:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // f u c k
+Wed Oct 24 14:20:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john i keep accidentally pressing the one button 
+Wed Oct 24 14:20:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:20:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:20:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:21:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we're done for
+Wed Oct 24 14:21:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john k im nrly therte
+Wed Oct 24 14:21:33 2018	KuNgEn (STEAM_0:0:69022001) has joined the game
+Wed Oct 24 14:21:33 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 14:22:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): despite how small this is its not my fastest hovercraft
+Wed Oct 24 14:22:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its not wire reee
+Wed Oct 24 14:22:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): yeah
+Wed Oct 24 14:22:46 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 14:22:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im shit at wire
+Wed Oct 24 14:22:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:22:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): no its just thrusters
+Wed Oct 24 14:23:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): get into the back rl quick
+Wed Oct 24 14:24:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:24:42 2018	Sir Bobsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 14:24:44 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 14:24:46 2018	Sir Robsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 14:24:48 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 14:24:52 2018	Johnny K Bronk was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 24 14:24:54 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 14:24:58 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 14:25:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:25:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:27:22 2018	Johnny K Bronk (STEAM_0:1:167614500): /drop
+Wed Oct 24 14:28:31 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:28:56 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:28:56 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:28:56 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:28:57 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:28:57 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:29:04 2018	Sir Bobsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 14:29:06 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 14:29:15 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:29:18 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:29:18 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:29:18 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:29:24 2018	Sir Robsson was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Wed Oct 24 14:29:25 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 14:29:29 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 14:30:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:30:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:31:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): h e l l o
+Wed Oct 24 14:31:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:32:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:32:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:32:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:32:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:33:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_airboat
+Wed Oct 24 14:33:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_jeep
+Wed Oct 24 14:33:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:33:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:34:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:34:23 2018	Johnny K Bronk (STEAM_0:1:167614500): /dropmoney 100000
+Wed Oct 24 14:34:24 2018	Johnny K Bronk (STEAM_0:1:167614500) has dropped $100,000
+Wed Oct 24 14:35:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:37:32 2018	Papa Joel (STEAM_0:0:50791607) has joined the game
+Wed Oct 24 14:37:32 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Wed Oct 24 14:38:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:38:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:38:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:38:51 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Wed Oct 24 14:39:06 2018	Papa Joel (STEAM_0:0:50791607): /ooc did the server just restart?
+Wed Oct 24 14:39:14 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc nope
+Wed Oct 24 14:39:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // n e i n
+Wed Oct 24 14:39:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): do i count as a brother
+Wed Oct 24 14:39:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:39:27 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc yes
+Wed Oct 24 14:40:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we cant since we're government tho
+Wed Oct 24 14:40:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): check out my t r u c c 
+Wed Oct 24 14:40:46 2018	Papa Joel was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 14:40:48 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Wed Oct 24 14:40:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:40:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 14:41:29 2018	Sir Robsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 14:41:30 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 14:41:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y enter trucc nibba
+Wed Oct 24 14:43:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:44:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): [a[a#
+Wed Oct 24 14:44:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): papa
+Wed Oct 24 14:44:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): dclean that shit
+Wed Oct 24 14:44:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:46:18 2018	Johnny K Bronk was killed by The Crimson SoulSeeker with a cw_ump45
+Wed Oct 24 14:46:22 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 14:46:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:47:11 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 14:47:31 2018	Johnny K Bronk (STEAM_0:1:167614500): /request
+Wed Oct 24 14:47:38 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Wed Oct 24 14:48:29 2018	[opi]Hitlery Clinton (STEAM_0:1:93932817) has joined the game
+Wed Oct 24 14:48:29 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 14:49:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:50:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk
+Wed Oct 24 14:50:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): someone gave it to me
+Wed Oct 24 14:50:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:51:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): where r we goin
+Wed Oct 24 14:51:24 2018	Hitlery Clinton was killed by Sir Robsson with a cw_deagle
+Wed Oct 24 14:52:53 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 14:54:12 2018	Papa Joel (STEAM_0:0:50791607): jesus christ how many lights are you gonna put on?
+Wed Oct 24 14:54:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk
+Wed Oct 24 14:54:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): cant put many honestly
+Wed Oct 24 14:54:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): imagine being hit by that
+Wed Oct 24 14:55:13 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y get on
+Wed Oct 24 14:55:49 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 14:55:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:56:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): get on
+Wed Oct 24 14:56:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): sit
+Wed Oct 24 14:57:12 2018	Papa Joel (STEAM_0:0:50791607): oh no
+Wed Oct 24 14:57:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 14:57:25 2018	Papa Joel (STEAM_0:0:50791607): that's not how science works
+Wed Oct 24 14:57:26 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i got an idea
+Wed Oct 24 14:57:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): fCk science
+Wed Oct 24 14:58:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): get on nibbers
+Wed Oct 24 14:58:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s i t 
+Wed Oct 24 14:58:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s i t
+Wed Oct 24 14:58:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): S I T 
+Wed Oct 24 14:59:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): sit on the fucking boat
+Wed Oct 24 14:59:24 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Wed Oct 24 15:00:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s i t 
+Wed Oct 24 15:00:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:00:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): sit
+Wed Oct 24 15:00:49 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:02:32 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Wed Oct 24 15:02:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): sit nibba
+Wed Oct 24 15:03:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): tsand
+Wed Oct 24 15:03:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this is the best base
+Wed Oct 24 15:03:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): best base ever
+Wed Oct 24 15:03:40 2018	Papa Joel (STEAM_0:0:50791607): i want to get down pls
+Wed Oct 24 15:03:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): too bAd
+Wed Oct 24 15:04:14 2018	Papa Joel (STEAM_0:0:50791607): i meant the other down
+Wed Oct 24 15:06:04 2018	Hitlery Clinton was killed by Johnny K Bronk with a cw_ak74
+Wed Oct 24 15:06:11 2018	Johnny K Bronk was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 15:06:15 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 15:06:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /warrant SWAT test
+Wed Oct 24 15:06:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:07:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): spins some rope, hangs himself
+Wed Oct 24 15:07:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its the m a n
+Wed Oct 24 15:07:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): up sit
+Wed Oct 24 15:07:39 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_jeep
+Wed Oct 24 15:07:41 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_airboat
+Wed Oct 24 15:07:42 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:07:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): m a n, m a n
+Wed Oct 24 15:07:52 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:07:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): r o p e
+Wed Oct 24 15:08:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): commits rope
+Wed Oct 24 15:08:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we should base up here
+Wed Oct 24 15:08:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we should base here
+Wed Oct 24 15:08:29 2018	Sir Robsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:08:35 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:09:01 2018	Hitlery Clinton was killed by Sir Robsson with a cw_deagle
+Wed Oct 24 15:09:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): can you toolgun buddy me
+Wed Oct 24 15:09:06 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:09:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): and p h y s
+Wed Oct 24 15:09:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its not one way nigga
+Wed Oct 24 15:09:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they can see us
+Wed Oct 24 15:09:43 2018	Sir Robsson was killed by Hitlery Clinton with a cw_p99
+Wed Oct 24 15:09:44 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:10:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how big da base gon be?
+Wed Oct 24 15:10:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:10:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how big da b ase gon be
+Wed Oct 24 15:10:44 2018	Hitlery Clinton was killed by Sir Robsson with a cw_deagle
+Wed Oct 24 15:11:02 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:11:04 2018	Sir Robsson was killed by Papa Joel with a cw_l115
+Wed Oct 24 15:11:07 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:11:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:11:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:11:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:12:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 15:12:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:13:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // stop spamming smoke holy fuck
+Wed Oct 24 15:14:04 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm crimson the code is 1995
+Wed Oct 24 15:14:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john are you sitting on my tp
+Wed Oct 24 15:14:33 2018	BB8U (STEAM_0:1:102173559) has joined the game
+Wed Oct 24 15:14:33 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 15:14:34 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm crimson dunno
+Wed Oct 24 15:14:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john are you sitting on the chair in the corner 
+Wed Oct 24 15:14:52 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm crimson nope
+Wed Oct 24 15:14:58 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john is it even there
+Wed Oct 24 15:14:58 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 15:15:07 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm crim yes
+Wed Oct 24 15:15:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john did you lock it
+Wed Oct 24 15:15:25 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm i havent even touched it
+Wed Oct 24 15:15:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm john did you buy it and lock it
+Wed Oct 24 15:15:58 2018	Johnny K Bronk (STEAM_0:1:167614500): /pm crimson i havent even touched it
+Wed Oct 24 15:16:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:16:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): h a c cs 
+Wed Oct 24 15:17:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we could make some invis elevator
+Wed Oct 24 15:17:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 15:18:16 2018	Hitlery Clinton was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:18:18 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:19:23 2018	Johnny K Bronk was killed by The Crimson SoulSeeker with a fas2_machete
+Wed Oct 24 15:19:24 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 15:20:47 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 15:21:21 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:21:22 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 15:21:56 2018	Papa Plankuh (STEAM_0:0:47204272) has joined the game
+Wed Oct 24 15:21:56 2018	Papa Plankuh (STEAM_0:0:47204272) spawned
+Wed Oct 24 15:22:07 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:22:08 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 15:22:32 2018	Johnny K Bronk was killed by Entity [5309][env_fire] with a env_fire
+Wed Oct 24 15:22:34 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned
+Wed Oct 24 15:22:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:22:46 2018	Papa Plankuh (STEAM_0:0:47204272): // WAT DA FAK
+Wed Oct 24 15:22:51 2018	Papa Plankuh (STEAM_0:0:47204272): // Overheat now?
+Wed Oct 24 15:22:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): if you switch to corrupt worker you can join our s k y b a s e 
+Wed Oct 24 15:22:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:22:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:23:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): look
+Wed Oct 24 15:23:02 2018	Papa Plankuh (STEAM_0:0:47204272): // Or just the music?
+Wed Oct 24 15:23:14 2018	Papa Plankuh (STEAM_0:0:47204272) spawned
+Wed Oct 24 15:23:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): no
+Wed Oct 24 15:23:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you can join our mething
+Wed Oct 24 15:23:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:23:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): doesnt it need like
+Wed Oct 24 15:23:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): p i c c l o c c
+Wed Oct 24 15:24:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): whats your keys
+Wed Oct 24 15:24:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): for sttart and return
+Wed Oct 24 15:24:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you can set those to normal buttons
+Wed Oct 24 15:24:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): maybe it works with keypads
+Wed Oct 24 15:24:35 2018	BB8U (STEAM_0:1:102173559): !laws
+Wed Oct 24 15:24:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i swear we'd win tho
+Wed Oct 24 15:24:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): door lamp
+Wed Oct 24 15:24:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i agree
+Wed Oct 24 15:25:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): set it for keypads
+Wed Oct 24 15:25:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): change it to a keypad
+Wed Oct 24 15:25:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): change it to a keypad
+Wed Oct 24 15:25:12 2018	Sir Robsson was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:25:13 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:25:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): at the top
+Wed Oct 24 15:25:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): put a button
+Wed Oct 24 15:25:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i have a tp so it doesnt matter lol
+Wed Oct 24 15:25:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what if they stand on it tho
+Wed Oct 24 15:25:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they wont find out
+Wed Oct 24 15:26:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they'll just get stucc 
+Wed Oct 24 15:26:05 2018	Papa Joel (STEAM_0:0:50791607): im a part of the fan
+Wed Oct 24 15:26:09 2018	Papa Joel was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:26:13 2018	Papa Joel (STEAM_0:0:50791607): not anymore
+Wed Oct 24 15:26:14 2018	Papa Joel (STEAM_0:0:50791607) spawned
+Wed Oct 24 15:26:19 2018	Papa Joel (STEAM_0:0:50791607) disconnected
+Wed Oct 24 15:26:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): it should be a button tho
+Wed Oct 24 15:26:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): then again
+Wed Oct 24 15:26:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): the elevator
+Wed Oct 24 15:27:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its not rly high enough for you to sit and then use hte button
+Wed Oct 24 15:27:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): use the b u t tt
+Wed Oct 24 15:27:22 2018	Johnny K Bronk (STEAM_0:1:167614500) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:28:45 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:29:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): d r o p
+Wed Oct 24 15:30:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): n i g g e r
+Wed Oct 24 15:30:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im processing
+Wed Oct 24 15:30:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i asked bb8 since he might change class
+Wed Oct 24 15:31:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): nein
+Wed Oct 24 15:31:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how much dosh u got
+Wed Oct 24 15:31:21 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:23 2018	Sir Robsson (STEAM_0:0:103056899) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ur fucking poor
+Wed Oct 24 15:31:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im going to go get my meth
+Wed Oct 24 15:31:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): watch my shit
+Wed Oct 24 15:31:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:31:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 15:32:41 2018	Johnny K Bronk (STEAM_0:1:167614500): sugests
+Wed Oct 24 15:32:43 2018	The Crimson SoulSeeker was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 15:32:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 15:32:50 2018	Johnny K Bronk (STEAM_0:1:167614500): 
+Wed Oct 24 15:32:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:32:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 15:34:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): move 
+Wed Oct 24 15:34:13 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i got my meth
+Wed Oct 24 15:34:16 2018	Papa Plankuh (STEAM_0:0:47204272): /name Mr Skidadable
+Wed Oct 24 15:37:01 2018	BB8U (STEAM_0:1:102173559) disconnected
+Wed Oct 24 15:37:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ask skidadablboaskglsadjgsdl;gj whatever
+Wed Oct 24 15:37:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): to join us
+Wed Oct 24 15:37:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what?
+Wed Oct 24 15:37:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): why
+Wed Oct 24 15:38:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:38:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): nigger
+Wed Oct 24 15:38:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): lots of space
+Wed Oct 24 15:38:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we could fit tons of combiners in here
+Wed Oct 24 15:39:01 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:39:40 2018	Sir Robsson was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 15:39:43 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:41:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): are you hungry or something nibba
+Wed Oct 24 15:41:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 15:42:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): stop earraping me
+Wed Oct 24 15:42:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s h i t 
+Wed Oct 24 15:43:12 2018	Sir Robsson was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 15:43:13 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:43:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): full life
+Wed Oct 24 15:43:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:43:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 15:43:44 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:43:47 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:43:54 2018	Sir Robsson was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 15:43:56 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:44:00 2018	Sir Bobsson was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:44:04 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 15:44:11 2018	Mr Skidadable was killed by Hitlery Clinton with a weapon_l4d2_frying_pan
+Wed Oct 24 15:44:14 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 15:44:16 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 15:44:23 2018	Sir Robsson was killed by Hitlery Clinton with a weapon_l4d2_frying_pan
+Wed Oct 24 15:44:25 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:44:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): WHAT IS THY CODE
+Wed Oct 24 15:44:58 2018	Sir Robsson was killed by Hitlery Clinton with a weapon_l4d2_frying_pan
+Wed Oct 24 15:44:59 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:45:01 2018	Johnny K Bronk (STEAM_0:1:167614500):  ☉ W ☉
+Wed Oct 24 15:45:12 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:45:15 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:45:18 2018	Sir Robsson was killed by Hitlery Clinton with a weapon_l4d2_frying_pan
+Wed Oct 24 15:45:19 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:45:25 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:45:29 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:45:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this is looking big oof
+Wed Oct 24 15:45:43 2018	Sir Robsson was killed by Hitlery Clinton with a weapon_l4d2_frying_pan
+Wed Oct 24 15:45:46 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:45:58 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:45:59 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:46:16 2018	Johnny K Bronk (STEAM_0:1:167614500): /ooc  ☉ W ☉
+Wed Oct 24 15:46:18 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:46:20 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:46:26 2018	Sir Bobsson was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:46:29 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 15:46:38 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:46:40 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:47:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 15:47:32 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:47:39 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:48:10 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 15:48:29 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:48:54 2018	Hitlery Clinton was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Wed Oct 24 15:48:55 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:49:11 2018	Sir Bobsson was killed by Sir Robsson with a weapon_crowbar
+Wed Oct 24 15:49:14 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 15:49:18 2018	Sir Robsson was killed by Entity [2008][trigger_hurt] with a trigger_hurt
+Wed Oct 24 15:49:19 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:49:43 2018	Hitlery Clinton was killed by Sir Robsson with a weapon_crowbar
+Wed Oct 24 15:49:47 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:50:26 2018	Hitlery Clinton was killed by Sir Bobsson with a weapon_l4d2_frying_pan
+Wed Oct 24 15:50:27 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:50:31 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:52:15 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:52:15 2018	Sir Bobsson (STEAM_0:0:69022001) spawned
+Wed Oct 24 15:53:49 2018	Sir Robsson was killed by Mr Skidadable with a cw_deagle
+Wed Oct 24 15:53:51 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 15:53:53 2018	Johnny K Bronk (STEAM_0:1:167614500): i gotta go lemme get this meth and i'll be on my way
+Wed Oct 24 15:54:11 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:54:14 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 15:54:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): bye
+Wed Oct 24 15:54:36 2018	Johnny K Bronk (STEAM_0:1:167614500) disconnected
+Wed Oct 24 15:55:07 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) has joined the game
+Wed Oct 24 15:55:08 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 15:55:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /invholster
+Wed Oct 24 15:55:45 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:56:47 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 15:56:50 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 15:57:00 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 15:57:03 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 15:57:27 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 15:58:05 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 15:58:38 2018	chiken (STEAM_0:0:143719653) has joined the game
+Wed Oct 24 15:58:38 2018	chiken (STEAM_0:0:143719653) spawned
+Wed Oct 24 16:00:05 2018	chiken (STEAM_0:0:143719653): // mr admin pls whitelist
+Wed Oct 24 16:00:23 2018	chiken (STEAM_0:0:143719653) disconnected
+Wed Oct 24 16:00:24 2018	Mr Skidadable (STEAM_0:0:47204272): // No staff here/online
+Wed Oct 24 16:00:27 2018	「Fuck you」 (STEAM_0:0:141294150) has joined the game
+Wed Oct 24 16:00:27 2018	「Fuck you」 (STEAM_0:0:141294150) spawned
+Wed Oct 24 16:01:13 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:01:18 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:01:38 2018	Mr Skidadable was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Wed Oct 24 16:02:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:02:20 2018	Sir Robsson was killed by Entity [3035][trigger_hurt] with a trigger_hurt
+Wed Oct 24 16:02:21 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 16:02:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 16:02:47 2018	Hitlery Clinton was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:02:49 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:03:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:04:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 16:04:42 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:04:43 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:05:18 2018	「Fuck you」 (STEAM_0:0:141294150) spawned
+Wed Oct 24 16:05:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:05:46 2018	「Fuck you」 (STEAM_0:0:141294150) disconnected
+Wed Oct 24 16:07:18 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:07:19 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:08:02 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:08:03 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:08:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:08:22 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:08:24 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:08:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:09:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:10:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:10:24 2018	Hitlery Clinton was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:10:29 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:10:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:11:52 2018	The Crimson SoulSeeker was killed by Hitlery Clinton with a weapon_l4d2_frying_pan
+Wed Oct 24 16:11:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 16:12:34 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:12:35 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:12:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 16:13:19 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:13:20 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:13:26 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:13:39 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:13:40 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:14:00 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:14:03 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:16:07 2018	Retarded Feminism (STEAM_0:0:82301439) has joined the game
+Wed Oct 24 16:16:07 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:16:42 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:16:46 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:17:05 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:17:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:17:44 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 16:18:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:18:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:18:54 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 16:19:08 2018	Mr Skidadable was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:19:09 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 16:19:51 2018	Mr Skidadable (STEAM_0:0:47204272) disconnected
+Wed Oct 24 16:19:53 2018	Hitlery Clinton was killed by Sir Bobsson with a cw_deagle
+Wed Oct 24 16:19:58 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:21:13 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:24:04 2018	Hitlery Clinton was killed by ShoGun +_+ hellcase.com with a cw_g36c
+Wed Oct 24 16:24:26 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:24:58 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): afk
+Wed Oct 24 16:25:45 2018	Retarded Feminism was killed by ShoGun +_+ hellcase.com with a cw_shorty
+Wed Oct 24 16:25:48 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:27:18 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): @help me
+Wed Oct 24 16:27:36 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:28:12 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:28:44 2018	Sir Robsson (STEAM_0:0:103056899) spawned
+Wed Oct 24 16:29:21 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:29:47 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:30:03 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): ehy amn want to make a check point?
+Wed Oct 24 16:30:10 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:30:11 2018	BB8U (STEAM_0:1:102173559) has joined the game
+Wed Oct 24 16:30:11 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:30:38 2018	ShoGun +_+ hellcase.com was killed by Hitlery Clinton with a cw_deagle
+Wed Oct 24 16:30:39 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:30:47 2018	Retarded Feminism was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:30:50 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:30:50 2018	Hitlery Clinton was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:30:52 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:30:53 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:31:45 2018	Hitlery Clinton was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:31:46 2018	Hitlery Clinton (STEAM_0:1:93932817) spawned
+Wed Oct 24 16:31:55 2018	ShoGun +_+ hellcase.com was killed by Hitlery Clinton with a cw_deagle
+Wed Oct 24 16:31:56 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:34:10 2018	Sir Bobsson (STEAM_0:0:69022001) disconnected
+Wed Oct 24 16:34:19 2018	Sir Robsson (STEAM_0:0:103056899) disconnected
+Wed Oct 24 16:38:17 2018	ShoGun +_+ hellcase.com was killed by Hitlery Clinton with a cw_deagle
+Wed Oct 24 16:38:19 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:38:29 2018	BB8U was killed by Retarded Feminism with a cw_deagle
+Wed Oct 24 16:38:31 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:38:59 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:39:09 2018	Retarded Feminism (STEAM_0:0:82301439): /pm hitlery I WILL GO THROUGH WITH THIS IN YOUR HONOUR!!!
+Wed Oct 24 16:39:28 2018	Hitlery Clinton (STEAM_0:1:93932817) disconnected
+Wed Oct 24 16:40:59 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // radio not working
+Wed Oct 24 16:41:05 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): // not yet
+Wed Oct 24 16:41:19 2018	Retarded Feminism (STEAM_0:0:82301439): // Well that seems a tad queer
+Wed Oct 24 16:42:09 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192): /warrant retar prop block
+Wed Oct 24 16:42:23 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 16:42:24 2018	ShoGun +_+ hellcase.com was killed by Retarded Feminism with a cw_deagle
+Wed Oct 24 16:42:25 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:43:01 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:43:09 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 16:43:22 2018	ShoGun +_+ hellcase.com was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:43:24 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 16:43:40 2018	Valien (STEAM_0:1:41660292) has joined the game
+Wed Oct 24 16:43:40 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 24 16:44:08 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:44:23 2018	BB8U was killed by Retarded Feminism with a cw_deagle
+Wed Oct 24 16:44:29 2018	Valien (STEAM_0:1:41660292): // our fucking webserver went down kms
+Wed Oct 24 16:44:33 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:44:52 2018	Valien was killed by Entity [3478][env_fire] with a env_fire
+Wed Oct 24 16:44:53 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 24 16:46:14 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) disconnected
+Wed Oct 24 16:46:19 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 16:48:36 2018	justgamingnl (STEAM_0:1:73878196) has joined the game
+Wed Oct 24 16:48:36 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:48:44 2018	Valien (STEAM_0:1:41660292): !warns
+Wed Oct 24 16:49:01 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:49:02 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:50:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): valien
+Wed Oct 24 16:50:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this dude hitlery clinton rdm'd me earlier
+Wed Oct 24 16:50:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): he was playing chef and i had a hit
+Wed Oct 24 16:50:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): as corrupt worker
+Wed Oct 24 16:50:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kk
+Wed Oct 24 16:51:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kk
+Wed Oct 24 16:51:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how is there meltdown tho
+Wed Oct 24 16:51:29 2018	Retarded Feminism (STEAM_0:0:82301439): // BEAT DROP!!!!
+Wed Oct 24 16:51:37 2018	Retarded Feminism was killed by Entity [4912][trigger_hurt] with a trigger_hurt
+Wed Oct 24 16:51:41 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:51:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): only rly matters if you're vip
+Wed Oct 24 16:51:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im kinda sad all terrorist jobs + scp's are vip
+Wed Oct 24 16:51:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i would have expected swat to be vip
+Wed Oct 24 16:52:02 2018	Retarded Feminism was killed by Entity [4933][trigger_hurt] with a trigger_hurt
+Wed Oct 24 16:52:13 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:52:14 2018	Retarded Feminism was killed by Himself with a suicide trick
+Wed Oct 24 16:52:14 2018	Christianitus Deluxe was killed by Himself with a suicide trick
+Wed Oct 24 16:52:14 2018	The Crimson SoulSeeker was killed by Himself with a suicide trick
+Wed Oct 24 16:52:14 2018	Valien was killed by Himself with a suicide trick
+Wed Oct 24 16:52:14 2018	BB8U was killed by Himself with a suicide trick
+Wed Oct 24 16:52:14 2018	justgamingnl was killed by Himself with a suicide trick
+Wed Oct 24 16:52:16 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:52:17 2018	Valien (STEAM_0:1:41660292) spawned
+Wed Oct 24 16:52:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 16:52:18 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:52:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): trainee spawns with nothing
+Wed Oct 24 16:52:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you gots to bring ur own weps
+Wed Oct 24 16:52:27 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:52:33 2018	Megafro (STEAM_0:1:120899456) has joined the game
+Wed Oct 24 16:52:33 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 16:52:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): oh
+Wed Oct 24 16:52:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i saw chef was vip and thought the rest was rip
+Wed Oct 24 16:52:49 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:52:53 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:53:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): who trains for what?
+Wed Oct 24 16:53:12 2018	justgamingnl was killed by Retarded Feminism with a cw_deagle
+Wed Oct 24 16:53:14 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:53:21 2018	Retarded Feminism was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:53:24 2018	Retarded Feminism (STEAM_0:0:82301439) spawned
+Wed Oct 24 16:53:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): D M R P
+Wed Oct 24 16:53:40 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:53:41 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:53:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i didnt see the vid
+Wed Oct 24 16:53:58 2018	justgamingnl was killed by Retarded Feminism with a cw_deagle
+Wed Oct 24 16:53:59 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:54:05 2018	justgamingnl (STEAM_0:1:73878196): @mass rdm
+Wed Oct 24 16:54:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): did zuthar get banned
+Wed Oct 24 16:54:19 2018	justgamingnl was killed by Retarded Feminism with a cw_deagle
+Wed Oct 24 16:54:20 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:54:21 2018	BB8U (STEAM_0:1:102173559): !warns
+Wed Oct 24 16:54:26 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): !warns
+Wed Oct 24 16:54:34 2018	BB8U (STEAM_0:1:102173559): !warns
+Wed Oct 24 16:54:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): big oof i have 1 active warn
+Wed Oct 24 16:54:36 2018	Retarded Feminism (STEAM_0:0:82301439) disconnected
+Wed Oct 24 16:54:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): uhh
+Wed Oct 24 16:54:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i was 049 and got out of cell before the cooldown
+Wed Oct 24 16:54:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): despite not knowing that was a rule
+Wed Oct 24 16:54:55 2018	Valien (STEAM_0:1:41660292): // LTAP fucking textbook definition
+Wed Oct 24 16:54:58 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): plus some other dudes opened it
+Wed Oct 24 16:55:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): legit like 2 test subjects
+Wed Oct 24 16:55:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): and i got warned for it
+Wed Oct 24 16:55:10 2018	Valien (STEAM_0:1:41660292): !warn
+Wed Oct 24 16:55:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): honestly
+Wed Oct 24 16:55:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): as researcher no one does shit
+Wed Oct 24 16:55:33 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:55:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): they just have the job and do nothing
+Wed Oct 24 16:55:41 2018	Megafro (STEAM_0:1:120899456): /ooc if the core explodes do we get cancer
+Wed Oct 24 16:55:45 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 16:55:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you know those servers that actually have RP events and shit
+Wed Oct 24 16:55:49 2018	justgamingnl (STEAM_0:1:73878196): /me Salutes
+Wed Oct 24 16:55:51 2018	Valien (STEAM_0:1:41660292): // I get cancer playing on this server
+Wed Oct 24 16:55:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): thats like
+Wed Oct 24 16:55:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): legit rp
+Wed Oct 24 16:55:57 2018	justgamingnl (STEAM_0:1:73878196): /ooc no u get ligma
+Wed Oct 24 16:56:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): except you only find that on really gay servers
+Wed Oct 24 16:56:02 2018	Valien (STEAM_0:1:41660292): // i got fugma
+Wed Oct 24 16:56:11 2018	Valien (STEAM_0:1:41660292): !warn STEAM_0:0:82301439 LTAP
+Wed Oct 24 16:56:17 2018	Valien (STEAM_0:1:41660292): !warn STEAM_0:0:82301439 Mass RDM
+Wed Oct 24 16:56:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this is the only pprp server i think
+Wed Oct 24 16:57:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): lets go security or something
+Wed Oct 24 16:57:13 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /me votes n e i n 
+Wed Oct 24 16:57:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 16:57:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // valien pranking the server ecks deeee
+Wed Oct 24 16:57:57 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 16:57:59 2018	Megafro was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 16:58:01 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 16:58:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:02 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:58:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:07 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 16:58:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): big oof
+Wed Oct 24 16:58:26 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): holy shit
+Wed Oct 24 16:58:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): security has battering rams
+Wed Oct 24 16:58:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im going to start a t a x i  s e r v i c e 
+Wed Oct 24 16:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:58:54 2018	Valien (STEAM_0:1:41660292) disconnected
+Wed Oct 24 16:58:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): did you adv dupe the chair itself or the e2 chip
+Wed Oct 24 16:59:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you should do the chip
+Wed Oct 24 16:59:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 16:59:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what kind of helicopter did you dupe
+Wed Oct 24 16:59:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): if i disconnect at random its either my pc committing random restart or gmod crashing
+Wed Oct 24 16:59:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): commit get into the bacc
+Wed Oct 24 16:59:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): e n t e r 
+Wed Oct 24 16:59:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): E N T E R 
+Wed Oct 24 17:01:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb u going core?
+Wed Oct 24 17:01:24 2018	BB8U (STEAM_0:1:102173559): // yeah
+Wed Oct 24 17:01:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // wait
+Wed Oct 24 17:01:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // u went thru tp?
+Wed Oct 24 17:01:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // wait at e-coolant plos
+Wed Oct 24 17:01:39 2018	Megafro was killed by justgamingnl with a weapon_hlof_pipewrench
+Wed Oct 24 17:01:46 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 17:01:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what happened
+Wed Oct 24 17:01:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:02:01 2018	justgamingnl was killed by BB8U with a cw_mp5
+Wed Oct 24 17:02:04 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:02:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:02:12 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): sit nibba
+Wed Oct 24 17:02:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 17:02:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): shit
+Wed Oct 24 17:02:23 2018	The Crimson SoulSeeker was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Wed Oct 24 17:02:23 2018	BB8U was killed by Entity [2892][trigger_hurt] with a trigger_hurt
+Wed Oct 24 17:02:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 17:02:25 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 17:02:49 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 17:02:58 2018	Castortroyz (STEAM_0:1:24464495) has joined the game
+Wed Oct 24 17:02:58 2018	Castortroyz (STEAM_0:1:24464495) spawned
+Wed Oct 24 17:02:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:02:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): get in niggers
+Wed Oct 24 17:03:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:03:06 2018	Megafro (STEAM_0:1:120899456): why is the temperature rising
+Wed Oct 24 17:03:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y get in
+Wed Oct 24 17:03:16 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:03:17 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:03:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /wanted gaming resisting arrest
+Wed Oct 24 17:03:20 2018	The Crimson SoulSeeker has made justgamingnl wanted, reason: resisting arrest
+Wed Oct 24 17:03:33 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:03:34 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:03:42 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:03:44 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:03:59 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:04:00 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:04:52 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:04:53 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:04:57 2018	Castortroyz (STEAM_0:1:24464495) spawned
+Wed Oct 24 17:05:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i gotta afk
+Wed Oct 24 17:05:20 2018	justgamingnl is no longer wanted by the Police.
+Wed Oct 24 17:05:25 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:05:26 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:05:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): get into the back seats
+Wed Oct 24 17:06:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): motherfucker go in thrtough the top
+Wed Oct 24 17:06:10 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:06:11 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:06:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /wanted gaming attacking an officer
+Wed Oct 24 17:06:23 2018	The Crimson SoulSeeker has made justgamingnl wanted, reason: attacking an officer
+Wed Oct 24 17:06:32 2018	Castortroyz (STEAM_0:1:24464495) disconnected
+Wed Oct 24 17:06:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we're done for
+Wed Oct 24 17:06:36 2018	justgamingnl was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 17:06:40 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:06:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // i swear gaming just failrp's by jumping into the pit
+Wed Oct 24 17:07:13 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:07:17 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 17:07:28 2018	BB8U (STEAM_0:1:102173559): @ prop push
+Wed Oct 24 17:07:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // how did this guy get pac if all he does is troll
+Wed Oct 24 17:08:11 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:08:13 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:08:23 2018	justgamingnl is no longer wanted by the Police.
+Wed Oct 24 17:08:40 2018	BB8U was killed by justgamingnl with a weapon_hlof_pipewrench
+Wed Oct 24 17:08:41 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 17:08:47 2018	Megafro (STEAM_0:1:120899456): /ooc how to level up?
+Wed Oct 24 17:08:53 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:08:54 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:09:02 2018	justgamingnl was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:09:03 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:09:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb8 are you at the core
+Wed Oct 24 17:09:21 2018	BB8U (STEAM_0:1:102173559): // no not yet
+Wed Oct 24 17:09:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb are you on the discord?
+Wed Oct 24 17:09:30 2018	Megafro was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:09:31 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 17:09:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:10:06 2018	Clucky (STEAM_0:0:45009975) has joined the game
+Wed Oct 24 17:10:06 2018	Clucky (STEAM_0:0:45009975) spawned
+Wed Oct 24 17:10:16 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:10:29 2018	Megafro (STEAM_0:1:120899456): /ooc chernobyl 2 smh
+Wed Oct 24 17:10:29 2018	BB8U (STEAM_0:1:102173559): // no whats the discord server
+Wed Oct 24 17:10:37 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:10:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // n v m
+Wed Oct 24 17:11:12 2018	Clucky (STEAM_0:0:45009975): /ooc hello
+Wed Oct 24 17:11:25 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:11:39 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:11:41 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 17:11:43 2018	Megafro was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:11:44 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 17:11:55 2018	Megafro (STEAM_0:1:120899456): wtf
+Wed Oct 24 17:11:57 2018	Megafro (STEAM_0:1:120899456): its so huge
+Wed Oct 24 17:12:03 2018	Megafro (STEAM_0:1:120899456): jesus christ htis map is so big
+Wed Oct 24 17:12:07 2018	Clucky (STEAM_0:0:45009975): /ooc how do i use the doors? apparently my use key doesnt work
+Wed Oct 24 17:12:20 2018	justgamingnl (STEAM_0:1:73878196) spawned
+Wed Oct 24 17:12:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb8 the checkpoint code is 4189
+Wed Oct 24 17:12:50 2018	BB8U (STEAM_0:1:102173559): // ok thanks
+Wed Oct 24 17:13:08 2018	BB8U (STEAM_0:1:102173559): 4198
+Wed Oct 24 17:13:30 2018	Clucky was killed by justgamingnl with a cw_fiveseven
+Wed Oct 24 17:13:31 2018	Clucky (STEAM_0:0:45009975) spawned
+Wed Oct 24 17:13:35 2018	Clucky (STEAM_0:0:45009975): /ooc Nice RDM
+Wed Oct 24 17:13:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // who rdm'd you
+Wed Oct 24 17:13:48 2018	Clucky (STEAM_0:0:45009975): Justgaming
+Wed Oct 24 17:13:51 2018	Clucky (STEAM_0:0:45009975): /ooc justgaming
+Wed Oct 24 17:13:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // he just trols
+Wed Oct 24 17:13:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // t r o l l
+Wed Oct 24 17:14:02 2018	Megafro (STEAM_0:1:120899456): what are we powering
+Wed Oct 24 17:14:04 2018	justgamingnl (STEAM_0:1:73878196) disconnected
+Wed Oct 24 17:14:08 2018	Megafro (STEAM_0:1:120899456): what are we powering
+Wed Oct 24 17:14:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // gonna report him later
+Wed Oct 24 17:14:11 2018	Clucky (STEAM_0:0:45009975): gonna go on diff server
+Wed Oct 24 17:14:18 2018	Megafro (STEAM_0:1:120899456): the entire earth lol
+Wed Oct 24 17:14:20 2018	Megafro (STEAM_0:1:120899456): ?
+Wed Oct 24 17:14:30 2018	Clucky (STEAM_0:0:45009975): No audio, use buttons buggy, nothing to do
+Wed Oct 24 17:14:31 2018	Clucky (STEAM_0:0:45009975) disconnected
+Wed Oct 24 17:14:38 2018	Megafro (STEAM_0:1:120899456): /ooc where did u go lol
+Wed Oct 24 17:14:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb y u takin so long m8
+Wed Oct 24 17:16:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:17:35 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): brush me face
+Wed Oct 24 17:18:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): those were nigger shots
+Wed Oct 24 17:18:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 17:18:27 2018	Megafro (STEAM_0:1:120899456): lol
+Wed Oct 24 17:18:33 2018	Megafro (STEAM_0:1:120899456): nigger nigger winner nigger
+Wed Oct 24 17:19:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): jump
+Wed Oct 24 17:21:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 17:22:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this is a shot
+Wed Oct 24 17:22:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y what about this
+Wed Oct 24 17:23:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): MEGA
+Wed Oct 24 17:23:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 17:23:14 2018	Megafro (STEAM_0:1:120899456): ;) ;)
+Wed Oct 24 17:23:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:23:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:23:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:23:22 2018	Megafro (STEAM_0:1:120899456): /ooc this is a fucking black hole
+Wed Oct 24 17:23:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // the black hole teleports you somewhere
+Wed Oct 24 17:23:51 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): mega
+Wed Oct 24 17:23:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:23:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:23:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:24:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:24:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:24:02 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:24:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): get into the front seat
+Wed Oct 24 17:24:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb get out lol
+Wed Oct 24 17:24:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb get out reeee
+Wed Oct 24 17:24:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): y e s 
+Wed Oct 24 17:24:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): who else
+Wed Oct 24 17:24:44 2018	Megafro was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Wed Oct 24 17:24:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): xd
+Wed Oct 24 17:24:49 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 17:25:15 2018	Megafro (STEAM_0:1:120899456): /ooc lol
+Wed Oct 24 17:25:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 17:25:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // where did u get teleported to
+Wed Oct 24 17:26:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): thats a prop
+Wed Oct 24 17:26:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im not gay
+Wed Oct 24 17:26:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): lets stay here
+Wed Oct 24 17:26:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): mega will probs come
+Wed Oct 24 17:26:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): n o
+Wed Oct 24 17:26:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 17:27:30 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:27:32 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 17:27:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb get over here reee
+Wed Oct 24 17:27:48 2018	BB8U (STEAM_0:1:102173559): // comins
+Wed Oct 24 17:28:14 2018	BB8U was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 17:28:16 2018	Megafro was killed by Entity [2294][trigger_hurt] with a trigger_hurt
+Wed Oct 24 17:28:17 2018	BB8U (STEAM_0:1:102173559) disconnected
+Wed Oct 24 17:28:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm bb where did u fuckin go
+Wed Oct 24 17:28:17 2018	Megafro (STEAM_0:1:120899456) spawned
+Wed Oct 24 17:29:07 2018	Megafro (STEAM_0:1:120899456) disconnected
+Wed Oct 24 17:31:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) disconnected
+Wed Oct 24 17:36:49 2018	Neonsniper97 (STEAM_0:0:66075166) has joined the game
+Wed Oct 24 17:36:49 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 17:37:30 2018	Birb (STEAM_0:0:66075166): !steam
+Wed Oct 24 17:38:31 2018	Birb (STEAM_0:0:66075166): !steam
+Wed Oct 24 17:42:28 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 17:54:17 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Wed Oct 24 17:54:17 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 17:55:16 2018	Birb (STEAM_0:0:66075166): // gay
+Wed Oct 24 17:55:33 2018	Birb (STEAM_0:0:66075166): 
+Wed Oct 24 17:58:19 2018	Jeroma (STEAM_0:0:121143569): // Hello
+Wed Oct 24 17:58:25 2018	Birb (STEAM_0:0:66075166): // hi
+Wed Oct 24 17:58:31 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 17:58:39 2018	Jeroma (STEAM_0:0:121143569): // How are you?
+Wed Oct 24 18:01:57 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:03:06 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:03:42 2018	Jeroma (STEAM_0:0:121143569): Hello
+Wed Oct 24 18:03:45 2018	Jeroma (STEAM_0:0:121143569): Get on
+Wed Oct 24 18:04:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) has joined the game
+Wed Oct 24 18:04:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 18:04:12 2018	Jeroma (STEAM_0:0:121143569): Get on
+Wed Oct 24 18:04:16 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:16 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:16 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:17 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:17 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:39 2018	MoistNeXus_ (STEAM_0:1:62842914) has joined the game
+Wed Oct 24 18:04:39 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 24 18:04:57 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:57 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:58 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:58 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:04:58 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:06:02 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 24 18:07:42 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:07:49 2018	Birb (STEAM_0:0:66075166): // CHANGE JOBS MAN
+Wed Oct 24 18:07:58 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:08:04 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 18:08:15 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 18:08:18 2018	Jeroma (STEAM_0:0:121143569) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:08:46 2018	Jeroma (STEAM_0:0:121143569): Hey
+Wed Oct 24 18:08:52 2018	Jeroma (STEAM_0:0:121143569): Can i enter
+Wed Oct 24 18:09:10 2018	Jeroma (STEAM_0:0:121143569): How much money do you have?
+Wed Oct 24 18:09:17 2018	Jeroma (STEAM_0:0:121143569): Ooof
+Wed Oct 24 18:09:21 2018	Jeroma (STEAM_0:0:121143569): Suggestion
+Wed Oct 24 18:09:25 2018	Jeroma (STEAM_0:0:121143569): Do meth now
+Wed Oct 24 18:09:30 2018	Jeroma (STEAM_0:0:121143569): And printers by the side
+Wed Oct 24 18:09:37 2018	Jeroma (STEAM_0:0:121143569): I got 1 mill and 519k
+Wed Oct 24 18:10:19 2018	Jeroma (STEAM_0:0:121143569): Want me
+Wed Oct 24 18:10:20 2018	Jeroma (STEAM_0:0:121143569): To
+Wed Oct 24 18:10:37 2018	Jeroma (STEAM_0:0:121143569): This first
+Wed Oct 24 18:10:44 2018	Jeroma (STEAM_0:0:121143569): No
+Wed Oct 24 18:10:48 2018	Jeroma (STEAM_0:0:121143569): Late
+Wed Oct 24 18:11:02 2018	Jeroma (STEAM_0:0:121143569): Make me
+Wed Oct 24 18:11:06 2018	Jeroma (STEAM_0:0:121143569): Grav gun buddy
+Wed Oct 24 18:11:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // j e r m a 
+Wed Oct 24 18:11:54 2018	Jeroma (STEAM_0:0:121143569): // Ye?
+Wed Oct 24 18:11:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 18:12:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // come lobby
+Wed Oct 24 18:12:12 2018	Jeroma (STEAM_0:0:121143569): No
+Wed Oct 24 18:12:14 2018	Jeroma (STEAM_0:0:121143569): Remove that
+Wed Oct 24 18:12:21 2018	Jeroma (STEAM_0:0:121143569): This will be next
+Wed Oct 24 18:12:24 2018	Jeroma (STEAM_0:0:121143569): Then put it on
+Wed Oct 24 18:12:32 2018	Jeroma (STEAM_0:0:121143569): Lemme out
+Wed Oct 24 18:13:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): look
+Wed Oct 24 18:13:59 2018	Jeroma (STEAM_0:0:121143569): Where
+Wed Oct 24 18:13:59 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): me and this dude were making meth up there earlier
+Wed Oct 24 18:14:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we had a base lol
+Wed Oct 24 18:14:12 2018	Jeroma (STEAM_0:0:121143569): Uh
+Wed Oct 24 18:14:19 2018	Jeroma (STEAM_0:0:121143569): Is Not allowed
+Wed Oct 24 18:14:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk
+Wed Oct 24 18:14:30 2018	Jeroma (STEAM_0:0:121143569): It isnt because you 
+Wed Oct 24 18:14:33 2018	Jeroma (STEAM_0:0:121143569): Should be there
+Wed Oct 24 18:14:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we had elevators tho
+Wed Oct 24 18:14:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 18:16:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:16:28 2018	Jeroma (STEAM_0:0:121143569): Soo
+Wed Oct 24 18:16:35 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) has joined the game
+Wed Oct 24 18:16:35 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) spawned
+Wed Oct 24 18:16:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): s o ?
+Wed Oct 24 18:16:40 2018	Jeroma (STEAM_0:0:121143569): What now
+Wed Oct 24 18:16:45 2018	Jeroma (STEAM_0:0:121143569): What now
+Wed Oct 24 18:16:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): dunno
+Wed Oct 24 18:16:48 2018	Jeroma (STEAM_0:0:121143569): What now
+Wed Oct 24 18:16:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): what later
+Wed Oct 24 18:16:50 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 18:16:50 2018	Jeroma (STEAM_0:0:121143569): y
+Wed Oct 24 18:16:55 2018	Jeroma (STEAM_0:0:121143569): We make meth
+Wed Oct 24 18:17:03 2018	Jeroma (STEAM_0:0:121143569): Kill me mate
+Wed Oct 24 18:17:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): y nigga
+Wed Oct 24 18:17:09 2018	Jeroma (STEAM_0:0:121143569): Shank me
+Wed Oct 24 18:17:13 2018	Jeroma was killed by The Crimson SoulSeeker with a fas2_machete
+Wed Oct 24 18:17:16 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 18:17:26 2018	Jeroma (STEAM_0:0:121143569): LEts go
+Wed Oct 24 18:17:28 2018	Jeroma (STEAM_0:0:121143569): And make 
+Wed Oct 24 18:17:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 18:17:32 2018	Jeroma (STEAM_0:0:121143569): 
+Wed Oct 24 18:17:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): bvery moist
+Wed Oct 24 18:17:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): h i t 
+Wed Oct 24 18:17:40 2018	ShoGun +_+ hellcase.com (STEAM_0:1:80088192) disconnected
+Wed Oct 24 18:17:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): for like 16k
+Wed Oct 24 18:17:42 2018	Jeroma (STEAM_0:0:121143569): Moist is dead
+Wed Oct 24 18:17:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): wat
+Wed Oct 24 18:17:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): can we go chcek
+Wed Oct 24 18:17:56 2018	Jeroma (STEAM_0:0:121143569): Jk
+Wed Oct 24 18:17:59 2018	Jeroma (STEAM_0:0:121143569): Idk
+Wed Oct 24 18:18:31 2018	Jeroma (STEAM_0:0:121143569): I commited door limit
+Wed Oct 24 18:18:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): which door should i buy then
+Wed Oct 24 18:18:40 2018	Jeroma (STEAM_0:0:121143569): I will commit rejoin
+Wed Oct 24 18:18:49 2018	Jeroma (STEAM_0:0:121143569) disconnected
+Wed Oct 24 18:19:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm birb h e l l o, b i r b 
+Wed Oct 24 18:19:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 18:20:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm birb let me in plox
+Wed Oct 24 18:20:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): hello bird
+Wed Oct 24 18:20:30 2018	Terry Moist was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 24 18:20:31 2018	Terry Moist (STEAM_0:1:62842914) spawned
+Wed Oct 24 18:20:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): press e on the thing
+Wed Oct 24 18:20:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): the machine itself
+Wed Oct 24 18:21:00 2018	Jeroma (STEAM_0:0:121143569) has joined the game
+Wed Oct 24 18:21:00 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 18:21:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): h o l y s h i t u 
+Wed Oct 24 18:21:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ye
+Wed Oct 24 18:21:33 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:21:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i need to commit outside
+Wed Oct 24 18:21:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): spam e on that shit
+Wed Oct 24 18:22:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i need commit ot
+Wed Oct 24 18:22:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): out
+Wed Oct 24 18:22:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): thx
+Wed Oct 24 18:22:07 2018	Terry Moist (STEAM_0:1:62842914) disconnected
+Wed Oct 24 18:24:32 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 18:25:15 2018	BB8U (STEAM_0:1:102173559) has joined the game
+Wed Oct 24 18:25:15 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 18:26:08 2018	BB8U (STEAM_0:1:102173559) spawned
+Wed Oct 24 18:26:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i doubt we'll get raided due to low pop
+Wed Oct 24 18:26:26 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 18:26:28 2018	Jeroma (STEAM_0:0:121143569): But still
+Wed Oct 24 18:26:40 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:26:52 2018	BB8U (STEAM_0:1:102173559): // where is everyone
+Wed Oct 24 18:27:24 2018	BB8U (STEAM_0:1:102173559): Senior Researcher
+Wed Oct 24 18:29:16 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): open the front door rl quick
+Wed Oct 24 18:29:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): that one
+Wed Oct 24 18:29:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y kk thx
+Wed Oct 24 18:31:24 2018	Birb (STEAM_0:0:66075166): // stop being gay
+Wed Oct 24 18:31:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // bb you're a security officer just do it yourself lol
+Wed Oct 24 18:31:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // everyone else on the server is a corrupt worker and one afk  visitor
+Wed Oct 24 18:31:38 2018	Jeroma (STEAM_0:0:121143569): Move your ammo box
+Wed Oct 24 18:31:44 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:31:44 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:31:45 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:31:45 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:31:45 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:32:11 2018	BB8U (STEAM_0:1:102173559): // oh i did  not see the corrupt bit i thought it just said worker
+Wed Oct 24 18:32:18 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // g l a s s e s 
+Wed Oct 24 18:33:42 2018	BB8U (STEAM_0:1:102173559) disconnected
+Wed Oct 24 18:34:05 2018	Jeroma (STEAM_0:0:121143569): Crim
+Wed Oct 24 18:34:09 2018	Jeroma (STEAM_0:0:121143569): How much money you got?
+Wed Oct 24 18:34:21 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 2mil + 111k
+Wed Oct 24 18:34:26 2018	Jeroma (STEAM_0:0:121143569): Noice
+Wed Oct 24 18:34:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y wut about u
+Wed Oct 24 18:34:39 2018	Jeroma (STEAM_0:0:121143569): 1 mill and 509k
+Wed Oct 24 18:36:43 2018	Jeroma (STEAM_0:0:121143569): wait what
+Wed Oct 24 18:36:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how did you get 15
+Wed Oct 24 18:36:58 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): n a n i 
+Wed Oct 24 18:37:02 2018	Jeroma (STEAM_0:0:121143569): Idk
+Wed Oct 24 18:37:10 2018	Jeroma (STEAM_0:0:121143569): Did it glitch?
+Wed Oct 24 18:37:14 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): wasnt looking
+Wed Oct 24 18:38:16 2018	Jeroma (STEAM_0:0:121143569): Hello
+Wed Oct 24 18:38:23 2018	Jeroma (STEAM_0:0:121143569): You raiding?
+Wed Oct 24 18:38:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): dont do it bird
+Wed Oct 24 18:38:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): big oof
+Wed Oct 24 18:40:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y testing something dont close the door
+Wed Oct 24 18:41:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): come here rl quicc
+Wed Oct 24 18:41:53 2018	Jeroma (STEAM_0:0:121143569): Ye?
+Wed Oct 24 18:42:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): when you use your flashlight does the view change on this one
+Wed Oct 24 18:42:07 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 18:42:10 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): for two?
+Wed Oct 24 18:42:16 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 18:42:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk how to fix that
+Wed Oct 24 18:42:24 2018	Jeroma (STEAM_0:0:121143569): Is good
+Wed Oct 24 18:42:28 2018	Jeroma (STEAM_0:0:121143569): We get more angels
+Wed Oct 24 18:44:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /y i got an idea come up here
+Wed Oct 24 18:45:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): if we get raided 
+Wed Oct 24 18:45:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): and we cant save shit
+Wed Oct 24 18:45:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): one of these can be a fading door
+Wed Oct 24 18:46:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): we can run out and lock the door behind us
+Wed Oct 24 18:46:40 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): move ur printers into da cornerrrr
+Wed Oct 24 18:48:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): can you put a keycard scanner up there b tw
+Wed Oct 24 18:49:43 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:49:43 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:49:43 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:49:43 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:49:43 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:50:40 2018	Birb was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 18:50:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): pick up ur thing pls
+Wed Oct 24 18:50:45 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:50:51 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:50:51 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:50:52 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:50:52 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:50:52 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:52:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): do you think sand nigerians are allowed to use teleporters to escape their village?
+Wed Oct 24 18:52:34 2018	Birb was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 24 18:52:36 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:52:37 2018	Jeroma (STEAM_0:0:121143569): Its a eh
+Wed Oct 24 18:52:39 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:52:39 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:52:40 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:52:40 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:52:40 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:52:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): im considering it honestly
+Wed Oct 24 18:52:58 2018	Jeroma (STEAM_0:0:121143569): There are no rules against it because
+Wed Oct 24 18:53:02 2018	Jeroma (STEAM_0:0:121143569): He didnt think about it
+Wed Oct 24 18:53:11 2018	Jeroma (STEAM_0:0:121143569): Its like
+Wed Oct 24 18:53:17 2018	Jeroma (STEAM_0:0:121143569): You do it and a admin catches you
+Wed Oct 24 18:53:22 2018	Jeroma (STEAM_0:0:121143569): It will be a rule
+Wed Oct 24 18:53:23 2018	Jeroma (STEAM_0:0:121143569): Or Wire
+Wed Oct 24 18:53:27 2018	Jeroma (STEAM_0:0:121143569): WIll be restricte
+Wed Oct 24 18:53:35 2018	Jeroma (STEAM_0:0:121143569): You know what would be shitty
+Wed Oct 24 18:53:39 2018	Jeroma (STEAM_0:0:121143569): Only vip can use wire
+Wed Oct 24 18:53:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but you dont have to worry about that since ur vip
+Wed Oct 24 18:53:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): r e e e
+Wed Oct 24 18:53:54 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 18:53:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how much is it minimum to get vip anyways
+Wed Oct 24 18:54:12 2018	Jeroma (STEAM_0:0:121143569): Hold on
+Wed Oct 24 18:54:15 2018	Jeroma (STEAM_0:0:121143569): !donate
+Wed Oct 24 18:54:24 2018	Birb was killed by Entity [2293][trigger_hurt] with a trigger_hurt
+Wed Oct 24 18:54:26 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:54:29 2018	Jeroma (STEAM_0:0:121143569): Well shit
+Wed Oct 24 18:54:29 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:29 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:30 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:30 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:35 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:35 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:35 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:35 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:35 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:54:40 2018	Jeroma (STEAM_0:0:121143569): Its 13 usd
+Wed Oct 24 18:54:42 2018	Birb was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 18:54:43 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:54:53 2018	Birb was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 18:54:54 2018	Birb (STEAM_0:0:66075166) spawned
+Wed Oct 24 18:54:55 2018	Jeroma (STEAM_0:0:121143569): So its about 12.67 euros for me
+Wed Oct 24 18:55:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its like 10 pounds here lol
+Wed Oct 24 18:55:28 2018	Jeroma (STEAM_0:0:121143569): Im jealous
+Wed Oct 24 18:55:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its only 12 eu for you
+Wed Oct 24 18:55:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): not that bad honestly
+Wed Oct 24 18:55:50 2018	Jeroma (STEAM_0:0:121143569): But your economy better then mine
+Wed Oct 24 18:55:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 18:55:59 2018	Jeroma (STEAM_0:0:121143569): This unfair
+Wed Oct 24 18:56:01 2018	Jeroma (STEAM_0:0:121143569): Ples
+Wed Oct 24 18:56:04 2018	Jeroma (STEAM_0:0:121143569): Nerf economy
+Wed Oct 24 18:56:11 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): economy vip only
+Wed Oct 24 18:56:12 2018	Jeroma (STEAM_0:0:121143569): And buff germanys Economy
+Wed Oct 24 18:56:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i wish actual rp existed here
+Wed Oct 24 18:56:35 2018	Jeroma (STEAM_0:0:121143569): Me to
+Wed Oct 24 18:56:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): build some alien portal lookin ass shit
+Wed Oct 24 18:56:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): r e s e a r c h
+Wed Oct 24 18:56:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): etc
+Wed Oct 24 18:56:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): as researcher you dont do shit because rp dont exist nibba
+Wed Oct 24 18:56:59 2018	Jeroma (STEAM_0:0:121143569): Or
+Wed Oct 24 18:57:19 2018	Jeroma (STEAM_0:0:121143569): Dave and
+Wed Oct 24 18:57:22 2018	Jeroma (STEAM_0:0:121143569): John
+Wed Oct 24 18:57:31 2018	Jeroma (STEAM_0:0:121143569): Are talking about Terrorist being vip
+Wed Oct 24 18:57:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i dont know who those ppl are
+Wed Oct 24 18:57:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 18:57:54 2018	Jeroma (STEAM_0:0:121143569): Dave is a Tmod
+Wed Oct 24 18:58:03 2018	Jeroma (STEAM_0:0:121143569): Schon is somebody that plays here
+Wed Oct 24 18:58:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k
+Wed Oct 24 18:58:22 2018	Jeroma (STEAM_0:0:121143569): I mean John
+Wed Oct 24 18:58:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): actually i think rp exists its just that no one really does it
+Wed Oct 24 18:58:32 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): r e s e a r c h
+Wed Oct 24 18:58:41 2018	Jeroma (STEAM_0:0:121143569): Ye because of nuking the
+Wed Oct 24 18:58:51 2018	Jeroma (STEAM_0:0:121143569): The plant is better
+Wed Oct 24 18:59:08 2018	Jeroma (STEAM_0:0:121143569): Buy printers?
+Wed Oct 24 18:59:18 2018	Jeroma (STEAM_0:0:121143569): Crimson
+Wed Oct 24 18:59:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i cant be bothered reee
+Wed Oct 24 18:59:36 2018	Jeroma (STEAM_0:0:121143569): I can make it auto
+Wed Oct 24 18:59:45 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): thats not the problem lmao 
+Wed Oct 24 18:59:46 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:59:46 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:59:46 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:59:46 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:59:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its just slow
+Wed Oct 24 18:59:46 2018	Birb (STEAM_0:0:66075166) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 18:59:53 2018	Jeroma (STEAM_0:0:121143569): I think
+Wed Oct 24 18:59:56 2018	Jeroma (STEAM_0:0:121143569): Platinum
+Wed Oct 24 19:00:00 2018	Jeroma (STEAM_0:0:121143569): Is the only one worth it
+Wed Oct 24 19:00:06 2018	Jeroma (STEAM_0:0:121143569): It gives you 11k
+Wed Oct 24 19:00:42 2018	Jeroma (STEAM_0:0:121143569): /pm Bi Where you at I wann give you something
+Wed Oct 24 19:01:29 2018	Jeroma (STEAM_0:0:121143569): /pm bi Birb where you at im at your door
+Wed Oct 24 19:01:49 2018	Jeroma (STEAM_0:0:121143569): Heh
+Wed Oct 24 19:01:59 2018	Jeroma (STEAM_0:0:121143569): I wanted to give you a printer stack
+Wed Oct 24 19:02:05 2018	Jeroma (STEAM_0:0:121143569): Took me 10 hours to make
+Wed Oct 24 19:02:22 2018	Jeroma (STEAM_0:0:121143569): Im joking
+Wed Oct 24 19:02:24 2018	[Opi] Enviro (STEAM_0:0:80115103) has joined the game
+Wed Oct 24 19:02:24 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 24 19:02:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): //  hi enviro
+Wed Oct 24 19:02:40 2018	Jeroma (STEAM_0:0:121143569): Dupe it 
+Wed Oct 24 19:02:43 2018	Jeroma (STEAM_0:0:121143569): Dupe it
+Wed Oct 24 19:02:51 2018	Jeroma (STEAM_0:0:121143569): You got it?
+Wed Oct 24 19:03:06 2018	Jeroma (STEAM_0:0:121143569): Nice teleporter
+Wed Oct 24 19:03:31 2018	Jeroma (STEAM_0:0:121143569): Did
+Wed Oct 24 19:03:32 2018	Jeroma (STEAM_0:0:121143569): You 
+Wed Oct 24 19:03:38 2018	Jeroma (STEAM_0:0:121143569): Put down your printer stack
+Wed Oct 24 19:03:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 19:04:54 2018	Birb (STEAM_0:0:66075166) disconnected
+Wed Oct 24 19:06:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): commit kill on me
+Wed Oct 24 19:07:05 2018	Jeroma (STEAM_0:0:121143569): I will commit
+Wed Oct 24 19:07:09 2018	Jeroma (STEAM_0:0:121143569): Mass rdm
+Wed Oct 24 19:07:14 2018	Jeroma (STEAM_0:0:121143569): or x1 rdm
+Wed Oct 24 19:07:25 2018	Jeroma (STEAM_0:0:121143569): Get shanked
+Wed Oct 24 19:07:27 2018	The Crimson SoulSeeker was killed by Jeroma with a fas2_machete
+Wed Oct 24 19:07:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 19:07:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // tfw the console says the website is having a stroke
+Wed Oct 24 19:07:54 2018	Jeroma (STEAM_0:0:121143569): // Its Fay
+Wed Oct 24 19:08:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // big oof
+Wed Oct 24 19:14:11 2018	Enviro (STEAM_0:0:80115103): // hi
+Wed Oct 24 19:14:37 2018	Papa Plankuh (STEAM_0:0:47204272) has joined the game
+Wed Oct 24 19:14:37 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 19:14:48 2018	Jeroma (STEAM_0:0:121143569): // Hello how are you?
+Wed Oct 24 19:14:52 2018	Enviro (STEAM_0:0:80115103): // im alright, you?
+Wed Oct 24 19:14:57 2018	Jeroma (STEAM_0:0:121143569): // Im good
+Wed Oct 24 19:15:15 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 24 19:16:25 2018	Jeroma (STEAM_0:0:121143569): // My sound just glitched and i cant hear anything
+Wed Oct 24 19:16:36 2018	Enviro (STEAM_0:0:80115103): // Ack, reall?
+Wed Oct 24 19:16:54 2018	Mr Skidadable (STEAM_0:0:47204272) spawned
+Wed Oct 24 19:18:59 2018	Jeroma (STEAM_0:0:121143569): Crimson
+Wed Oct 24 19:19:03 2018	Jeroma (STEAM_0:0:121143569): I cant hear anything
+Wed Oct 24 19:20:38 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kill me
+Wed Oct 24 19:22:07 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kill me 
+Wed Oct 24 19:22:09 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): so that my meth drops
+Wed Oct 24 19:22:26 2018	The Crimson SoulSeeker was killed by Jeroma with a cw_deagle
+Wed Oct 24 19:22:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned
+Wed Oct 24 19:24:15 2018	Jeroma (STEAM_0:0:121143569): Looks yummy
+Wed Oct 24 19:24:28 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kinda looks like a slushy thing
+Wed Oct 24 19:24:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 19:24:33 2018	Jeroma (STEAM_0:0:121143569): Ye
+Wed Oct 24 19:24:39 2018	Jeroma (STEAM_0:0:121143569): Shaank me baby 
+Wed Oct 24 19:24:44 2018	Jeroma was killed by The Crimson SoulSeeker with a fas2_machete
+Wed Oct 24 19:24:46 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 19:27:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 19:28:47 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // enviro can u come here rl quicc
+Wed Oct 24 19:28:50 2018	Enviro (STEAM_0:0:80115103): // 1 sec
+Wed Oct 24 19:28:55 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // o n e .
+Wed Oct 24 19:29:11 2018	Enviro (STEAM_0:0:80115103): !goto crimson
+Wed Oct 24 19:29:15 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you see this
+Wed Oct 24 19:29:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): why does it change when i use my flashlight
+Wed Oct 24 19:29:26 2018	Enviro (STEAM_0:0:80115103): wdym?
+Wed Oct 24 19:29:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): like the view down the hall is what i want
+Wed Oct 24 19:29:28 2018	Enviro (STEAM_0:0:80115103): It doesn't for me.
+Wed Oct 24 19:29:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): this one
+Wed Oct 24 19:29:37 2018	Enviro (STEAM_0:0:80115103): Doesn't change or me
+Wed Oct 24 19:29:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): it changes for me
+Wed Oct 24 19:30:11 2018	Enviro (STEAM_0:0:80115103): try r_shadows 0 in console
+Wed Oct 24 19:30:25 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): now all of the cameras are changing angles
+Wed Oct 24 19:30:30 2018	Enviro (STEAM_0:0:80115103): Weird.
+Wed Oct 24 19:30:38 2018	Enviro (STEAM_0:0:80115103): Idk man, might be better to ask fat.
+Wed Oct 24 19:30:41 2018	Enviro (STEAM_0:0:80115103): Sorry
+Wed Oct 24 19:30:47 2018	Enviro (STEAM_0:0:80115103): 
+Wed Oct 24 19:31:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // enviro can u come bacc rl quicc
+Wed Oct 24 19:31:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): that big oof lol
+Wed Oct 24 19:31:04 2018	Enviro (STEAM_0:0:80115103): // 1 min
+Wed Oct 24 19:31:26 2018	Jeroma (STEAM_0:0:121143569): Crim How much mon you got?
+Wed Oct 24 19:31:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): still 2mil
+Wed Oct 24 19:31:40 2018	Jeroma (STEAM_0:0:121143569): And?
+Wed Oct 24 19:32:35 2018	Jeroma (STEAM_0:0:121143569): Im gonna go sell my stuff
+Wed Oct 24 19:32:40 2018	Jeroma (STEAM_0:0:121143569): Ples
+Wed Oct 24 19:32:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): do you have any spare meth
+Wed Oct 24 19:32:45 2018	Jeroma (STEAM_0:0:121143569): No
+Wed Oct 24 19:32:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i just lost one packet
+Wed Oct 24 19:33:01 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ill stay
+Wed Oct 24 19:33:14 2018	Jeroma (STEAM_0:0:121143569): Could you do meth for me whileim gone
+Wed Oct 24 19:33:23 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): bro im gonna sell after this
+Wed Oct 24 19:33:43 2018	Enviro (STEAM_0:0:80115103): !goto crimson
+Wed Oct 24 19:33:56 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): shit i forgot what i was going to say
+Wed Oct 24 19:33:57 2018	Enviro (STEAM_0:0:80115103): all my light shit is making my game have a seizure rn
+Wed Oct 24 19:33:57 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): uhhhhhhhhhhhhhhhhhhhhhh
+Wed Oct 24 19:33:58 2018	Mr Skidadable (STEAM_0:0:47204272): 
+Wed Oct 24 19:34:14 2018	Mr Skidadable (STEAM_0:0:47204272): // Wait... is Pm bugged?
+Wed Oct 24 19:34:17 2018	Enviro (STEAM_0:0:80115103): // no
+Wed Oct 24 19:34:19 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): oh yeah uhh
+Wed Oct 24 19:34:27 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you know that dude uhh
+Wed Oct 24 19:34:27 2018	Enviro (STEAM_0:0:80115103): /pm skidadle hi
+Wed Oct 24 19:34:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ngaming 
+Wed Oct 24 19:34:30 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): or whatever
+Wed Oct 24 19:34:32 2018	Mr Skidadable (STEAM_0:0:47204272): // Ohh nevermind, just showed all can hear when using it
+Wed Oct 24 19:34:38 2018	Enviro (STEAM_0:0:80115103): ?
+Wed Oct 24 19:34:43 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): do u know him
+Wed Oct 24 19:34:45 2018	Mr Skidadable (STEAM_0:0:47204272): /pm Enviro We must cook (But we out of muneh) (not really)
+Wed Oct 24 19:34:47 2018	Enviro (STEAM_0:0:80115103): no
+Wed Oct 24 19:34:54 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk he has ngaming in his name or something
+Wed Oct 24 19:35:00 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): but uh
+Wed Oct 24 19:35:00 2018	Enviro (STEAM_0:0:80115103): IDK dude
+Wed Oct 24 19:35:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): you can probably check logs for it idk
+Wed Oct 24 19:35:20 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): at 6:02 i was trying to arrest him for some shit
+Wed Oct 24 19:35:22 2018	Mr Skidadable (STEAM_0:0:47204272): // What is the best, meth cook or printing?
+Wed Oct 24 19:35:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kind of forgot
+Wed Oct 24 19:35:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): he was jumping off in the lobby
+Wed Oct 24 19:35:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): to kill himself
+Wed Oct 24 19:35:35 2018	Jeroma (STEAM_0:0:121143569): // MEth cook first then printing
+Wed Oct 24 19:35:36 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): like repeatedly
+Wed Oct 24 19:35:41 2018	Jeroma (STEAM_0:0:121143569): // But Meth mainly
+Wed Oct 24 19:35:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): used /wanted on him twice
+Wed Oct 24 19:35:49 2018	Enviro (STEAM_0:0:80115103): Okay.
+Wed Oct 24 19:35:52 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): maybe rdm or something
+Wed Oct 24 19:35:53 2018	Mr Skidadable (STEAM_0:0:47204272): // The set up doe = Cost
+Wed Oct 24 19:35:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): kind of forgot
+Wed Oct 24 19:35:58 2018	Enviro (STEAM_0:0:80115103): 
+Wed Oct 24 19:36:02 2018	Mr Skidadable (STEAM_0:0:47204272): // Like about 10k for the setup
+Wed Oct 24 19:36:18 2018	Mr Skidadable (STEAM_0:0:47204272): // But ehh... lets try shall we?
+Wed Oct 24 19:36:18 2018	Enviro (STEAM_0:0:80115103): Dont have any logs of that man
+Wed Oct 24 19:36:24 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): idk then
+Wed Oct 24 19:36:28 2018	Enviro (STEAM_0:0:80115103): Sorry, if he comes back on lmk
+Wed Oct 24 19:36:31 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): k
+Wed Oct 24 19:36:32 2018	Enviro (STEAM_0:0:80115103): 
+Wed Oct 24 19:37:32 2018	Enviro (STEAM_0:0:80115103) spawned
+Wed Oct 24 19:37:37 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // is there any point in levels until you unlock all the jobs
+Wed Oct 24 19:37:42 2018	Enviro (STEAM_0:0:80115103): // yeah
+Wed Oct 24 19:37:45 2018	Enviro (STEAM_0:0:80115103): // after 24 hrs of playing 
+Wed Oct 24 19:37:46 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // what is it
+Wed Oct 24 19:37:49 2018	Enviro (STEAM_0:0:80115103): // idk exact lvl
+Wed Oct 24 19:37:55 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 19:37:59 2018	Jeroma (STEAM_0:0:121143569): // 14 or 15
+Wed Oct 24 19:38:03 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // im 17
+Wed Oct 24 19:38:06 2018	Jeroma (STEAM_0:0:121143569): // I mean 13 14
+Wed Oct 24 19:38:16 2018	Christianitus Deluxe (STEAM_0:0:59932184): I am 72
+Wed Oct 24 19:38:17 2018	Jeroma was killed by Entity [0][worldspawn] with a unknown
+Wed Oct 24 19:38:21 2018	Mr Skidadable (STEAM_0:0:47204272): // I think you got most of the jobs here
+Wed Oct 24 19:38:21 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc i am 72
+Wed Oct 24 19:38:22 2018	Enviro (STEAM_0:0:80115103): // than ya all jobs
+Wed Oct 24 19:38:23 2018	Jeroma (STEAM_0:0:121143569) spawned
+Wed Oct 24 19:38:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // so whats the point in levelling after you unlock all the jobs
+Wed Oct 24 19:38:46 2018	Jeroma (STEAM_0:0:121143569): // There is non
+Wed Oct 24 19:38:47 2018	Enviro (STEAM_0:0:80115103): // literally nothing
+Wed Oct 24 19:38:50 2018	Mr Skidadable (STEAM_0:0:47204272): // Well.... maybe ask Fat Guy for more jobs, higher level jobs
+Wed Oct 24 19:38:54 2018	Christianitus Deluxe (STEAM_0:0:59932184) spawned
+Wed Oct 24 19:39:05 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // why were levels added in the first place
+Wed Oct 24 19:39:12 2018	Jeroma (STEAM_0:0:121143569): // To stop minges
+Wed Oct 24 19:40:06 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc does the intercom work?
+Wed Oct 24 19:40:19 2018	Mr Skidadable (STEAM_0:0:47204272): // Yes
+Wed Oct 24 19:40:21 2018	Enviro (STEAM_0:0:80115103): // yes
+Wed Oct 24 19:40:21 2018	Mr Skidadable (STEAM_0:0:47204272): // Used mic?
+Wed Oct 24 19:40:41 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 19:42:10 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc yo wtf im using the intercom but i guess you guys cant hear me
+Wed Oct 24 19:42:22 2018	Enviro (STEAM_0:0:80115103): // you sure?
+Wed Oct 24 19:42:26 2018	Enviro (STEAM_0:0:80115103): !goto Christianitus Deluxe
+Wed Oct 24 19:42:27 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc yeah 
+Wed Oct 24 19:42:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 19:42:37 2018	Mr Skidadable (STEAM_0:0:47204272): // Now we hear
+Wed Oct 24 19:42:41 2018	Enviro (STEAM_0:0:80115103): 
+Wed Oct 24 19:44:10 2018	Enviro (STEAM_0:0:80115103): // It is.
+Wed Oct 24 19:44:11 2018	Mr Skidadable (STEAM_0:0:47204272): // It is
+Wed Oct 24 19:44:20 2018	Enviro (STEAM_0:0:80115103): // top left
+Wed Oct 24 19:44:48 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 19:44:49 2018	The Crimson SoulSeeker (STEAM_0:0:10470765) spawned Vehicle prop_vehicle_prisoner_pod
+Wed Oct 24 19:44:58 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 19:45:04 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i am one of jeromas friends
+Wed Oct 24 19:45:08 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i am here because i just finished a drug run
+Wed Oct 24 19:45:17 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ye
+Wed Oct 24 19:45:29 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): its a toy gun
+Wed Oct 24 19:45:44 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i have no pac
+Wed Oct 24 19:45:53 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): n a h
+Wed Oct 24 19:46:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): definetly not sir
+Wed Oct 24 19:46:22 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): how much do i get paid
+Wed Oct 24 19:46:33 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 19:46:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): i get paid like 1 mil
+Wed Oct 24 19:47:46 2018	[Opi] Spooky Simon (STEAM_0:1:84422693) has joined the game
+Wed Oct 24 19:47:46 2018	Spooky Simon (STEAM_0:1:84422693) spawned
+Wed Oct 24 19:48:06 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): 
+Wed Oct 24 19:48:34 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): /pm christ do you want to see it get big or do you want more heat
+Wed Oct 24 19:49:13 2018	Mr Skidadable (STEAM_0:0:47204272): // Youre gonna higher up temp?
+Wed Oct 24 19:49:22 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc yes 3000 kelvin
+Wed Oct 24 19:49:44 2018	Mr Skidadable (STEAM_0:0:47204272): // I already made my office no dont do that
+Wed Oct 24 19:50:02 2018	Christianitus Deluxe (STEAM_0:0:59932184): /ooc im not gonna blow it up we need to make is spicier
+Wed Oct 24 19:50:25 2018	Mr Skidadable (STEAM_0:0:47204272): // Mess it up = Enviro is on you
+Wed Oct 24 19:50:30 2018	Enviro (STEAM_0:0:80115103): // What?
+Wed Oct 24 19:50:39 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): // envirO bAn
+Wed Oct 24 19:50:42 2018	The Crimson SoulSeeker (STEAM_0:0:10470765): ( ͡° ͜ʖ ͡°)
+Wed Oct 24 19:50:50 2018	Mr Skidadable (STEAM_0:0:47204272): // Nah if Deluxe would mess the core up
+Wed Oct 24 19:50:55 2018	Mr Skidadable (STEAM_0:0:47204272): // INCASE he would

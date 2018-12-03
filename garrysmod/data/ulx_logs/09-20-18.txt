@@ -1,0 +1,91 @@
+[05:05:20] New map: rp_powerplant_v2b2
+
+
+
+[18:22:39] New map: rp_powerplant_v2b2
+[18:23:33] Client "[Opi] Fat Gay" connected.
+[18:25:25] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 112 seconds).
+[18:25:57] Fat Gay: !datasave
+[18:26:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:26:06] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:26:08] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[18:26:13] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:26:16] Fat Gay<STEAM_0:1:218173703> spawned model models/props_borealis/bluebarrel001.mdl
+[18:26:17] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[18:26:19] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/canister02a.mdl
+[18:26:25] Fat Gay: !spc
+
+
+
+[18:29:47] New map: rp_powerplant_v2b2
+[18:29:51] Client "[Opi] Fat Gay" connected.
+[18:30:49] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 58 seconds).
+[18:31:10] Fat Gay: !datasave
+[18:31:28] Fat Gay<STEAM_0:1:218173703> spawned model models/props_docks/dock03_pole01a.mdl
+[18:31:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_docks/dock03_pole01a.mdl
+[18:31:29] Fat Gay<STEAM_0:1:218173703> spawned model models/props_docks/dock03_pole01a.mdl
+[18:31:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:31:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:31:44] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:04] (TEAM) Fat Gay: !spc
+[18:32:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:49] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:50] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:51] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:51] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:52] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+[18:32:52] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/gravestone002a.mdl
+
+
+
+[18:34:47] New map: rp_powerplant_v2b2
+[18:35:09] Client "[Opi] Fat Gay" connected.
+[18:36:08] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+[18:36:30] Fat Gay: !datasave
+
+
+
+[18:42:38] New map: rp_powerplant_v2b2
+[18:43:00] Client "[Opi] Fat Gay" connected.
+[18:43:59] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 59 seconds).
+[18:44:31] Fat Gay: !datasave
+[18:44:42] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:42] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:43] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:44] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:44] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:45] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:45] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:46] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:47] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[18:44:47] Fat Gay<STEAM_0:1:218173703> spawned model models/props_building_details/storefront_template001a_bars.mdl
+
+
+
+[18:48:33] New map: rp_powerplant_v2b2
+[18:48:37] Client "[Opi] Fat Gay" connected.
+[18:49:38] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 61 seconds).
+[18:49:59] Fat Gay: !datasave
+[18:52:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:52:58] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:00] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:01] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:02] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:03] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:03] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:04] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+[18:53:05] Fat Gay<STEAM_0:1:218173703> spawned model models/props_c17/furniturebathtub001a.mdl
+
+
+
+[18:55:27] New map: rp_powerplant_v2b2
+[18:55:31] Client "[Opi] Fat Gay" connected.
+[18:56:27] Client "[Opi] Fat Gay" spawned in server <STEAM_0:1:218173703> (took 56 seconds).
+[18:56:51] Fat Gay: !datasave
+[19:04:25] Dropped "Fat Gay" from server<STEAM_0:1:218173703>

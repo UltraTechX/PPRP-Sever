@@ -1,0 +1,111 @@
+Sun Oct  7 01:48:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) has joined the game
+Sun Oct  7 01:48:48 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:49:29 2018	Benedict (STEAM_0:1:177305291) has joined the game
+Sun Oct  7 01:49:29 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:49:36 2018	Valien (STEAM_0:1:41660292) has joined the game
+Sun Oct  7 01:49:36 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 01:49:42 2018	xxShadowdragonXX (STEAM_0:1:444450075) has joined the game
+Sun Oct  7 01:49:42 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:51:18 2018	xxShadowdragonXX (STEAM_0:1:444450075): my plan worked i feel good
+Sun Oct  7 01:51:37 2018	xxShadowdragonXX (STEAM_0:1:444450075): can there be a freeze down
+Sun Oct  7 01:52:20 2018	xxShadowdragonXX (STEAM_0:1:444450075) spawned
+Sun Oct  7 01:52:31 2018	xxShadowdragonXX (STEAM_0:1:444450075): hello pepole 
+Sun Oct  7 01:52:53 2018	Mike was killed by Entity [3348][trigger_hurt] with a trigger_hurt
+Sun Oct  7 01:52:54 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 01:52:56 2018	xxShadowdragonXX (STEAM_0:1:444450075): // so yea hi
+Sun Oct  7 01:53:06 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc hi
+Sun Oct  7 01:53:40 2018	xxShadowdragonXX (STEAM_0:1:444450075): // imcomeing
+Sun Oct  7 01:55:22 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:55:40 2018	Benedict (STEAM_0:1:177305291): feed me d bois
+Sun Oct  7 01:56:31 2018	xxShadowdragonXX (STEAM_0:1:444450075): /Job GMan
+Sun Oct  7 01:56:38 2018	xxShadowdragonXX (STEAM_0:1:444450075): /Name GMan
+Sun Oct  7 01:56:47 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring mike
+Sun Oct  7 01:56:51 2018	Mike (STEAM_0:1:41660292): // gman more like gay man ha owned awesome style
+Sun Oct  7 01:57:13 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 01:58:17 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 01:58:42 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 01:58:43 2018	GMan (STEAM_0:1:444450075): how are you
+Sun Oct  7 01:58:47 2018	Mike (STEAM_0:1:41660292): good
+Sun Oct  7 01:58:51 2018	Mike (STEAM_0:1:41660292): yeet
+Sun Oct  7 01:59:28 2018	GMan (STEAM_0:1:444450075): // is it really that time again
+Sun Oct  7 02:00:20 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring ben
+Sun Oct  7 02:00:48 2018	Benedict was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 02:00:51 2018	Benedict (STEAM_0:1:177305291): oof
+Sun Oct  7 02:00:53 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 02:00:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring ben
+Sun Oct  7 02:01:09 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 02:02:06 2018	GMan (STEAM_0:1:444450075): // *A voice in the security head* Meet me at the loby i want to meet
+Sun Oct  7 02:02:16 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc no meet at lab
+Sun Oct  7 02:02:42 2018	Benedict (STEAM_0:1:177305291): oopsies
+Sun Oct  7 02:02:46 2018	GMan (STEAM_0:1:444450075): // always makeing the gman life hard i wish i can warp space and time like he can
+Sun Oct  7 02:03:08 2018	[Opi] Fat Gay (STEAM_0:1:218173703): 
+Sun Oct  7 02:03:40 2018	GMan (STEAM_0:1:444450075): // ima make a bloody cool entrance now
+Sun Oct  7 02:03:53 2018	GMan (STEAM_0:1:444450075): //not cool but a gman syle one
+Sun Oct  7 02:03:59 2018	GMan (STEAM_0:1:444450075): // not cool but a gman one
+Sun Oct  7 02:04:19 2018	GMan (STEAM_0:1:444450075): // we meet again mr freeman
+Sun Oct  7 02:04:39 2018	GMan (STEAM_0:1:444450075): is it really that time again
+Sun Oct  7 02:05:01 2018	GMan (STEAM_0:1:444450075): /me agjust's tie
+Sun Oct  7 02:05:31 2018	GMan (STEAM_0:1:444450075): hello mr freeman
+Sun Oct  7 02:05:38 2018	Mike (STEAM_0:1:41660292): Im a visitor but im flattered
+Sun Oct  7 02:05:45 2018	GMan (STEAM_0:1:444450075): shoot him
+Sun Oct  7 02:06:37 2018	Benedict was killed by Entity [2287][trigger_hurt] with a trigger_hurt
+Sun Oct  7 02:06:41 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 02:06:47 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 02:06:58 2018	GMan (STEAM_0:1:444450075): // goodnight mr freeman
+Sun Oct  7 02:07:00 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 02:07:24 2018	GMan (STEAM_0:1:444450075): // i gtg so gman says bai
+Sun Oct  7 02:07:32 2018	[Opi] Fat Gay (STEAM_0:1:218173703): /ooc see ya!
+Sun Oct  7 02:07:50 2018	GMan (STEAM_0:1:444450075): // night mr freeman hope to see you again ahaha
+Sun Oct  7 02:07:54 2018	GMan (STEAM_0:1:444450075) disconnected
+Sun Oct  7 02:07:56 2018	Benedict (STEAM_0:1:177305291): /job NTF KE MU
+Sun Oct  7 02:09:28 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto ben
+Sun Oct  7 02:12:17 2018	Mike (STEAM_0:1:41660292): /setmoney valien 8000000
+Sun Oct  7 02:12:17 2018	Mike (STEAM_0:1:41660292) set Valien's money to $8,000,000
+Sun Oct  7 02:22:38 2018	Benedict (STEAM_0:1:177305291): whats the button to leave the computer? 
+Sun Oct  7 02:23:12 2018	Mike was killed by Entity [3409][trigger_hurt] with a trigger_hurt
+Sun Oct  7 02:23:13 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 02:23:16 2018	Benedict (STEAM_0:1:177305291): ive been stuck on it for a while and i cant get out
+Sun Oct  7 02:23:25 2018	Mike (STEAM_0:1:41660292) spawned
+Sun Oct  7 02:24:05 2018	Benedict (STEAM_0:1:177305291) disconnected
+Sun Oct  7 02:26:39 2018	Benedict (STEAM_0:1:177305291) has joined the game
+Sun Oct  7 02:26:39 2018	Benedict (STEAM_0:1:177305291) spawned
+Sun Oct  7 02:29:25 2018	Mike (STEAM_0:1:41660292): !goto f
+Sun Oct  7 02:32:38 2018	Benedict (STEAM_0:1:177305291) disconnected
+Sun Oct  7 02:33:38 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) has joined the game
+Sun Oct  7 02:33:38 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 02:34:04 2018	Mike (STEAM_0:1:41660292): !goto fo
+Sun Oct  7 02:34:09 2018	Mike (STEAM_0:1:41660292): !goto f
+Sun Oct  7 02:35:16 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Yo what's up
+Sun Oct  7 02:35:30 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): What is this place?
+Sun Oct  7 02:35:42 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Eh yeah
+Sun Oct  7 02:36:33 2018	Sirro (STEAM_0:1:72140646) has joined the game
+Sun Oct  7 02:36:33 2018	Sirro (STEAM_0:1:72140646) spawned
+Sun Oct  7 02:36:42 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Then i may have a tour around the facility?.
+Sun Oct  7 02:36:55 2018	[Opi] Fat Gay (STEAM_0:1:218173703) spawned
+Sun Oct  7 02:36:59 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !goto mike
+Sun Oct  7 02:38:11 2018	Sirro (STEAM_0:1:72140646): // now this is epic gamers
+Sun Oct  7 02:38:22 2018	Mike (STEAM_0:1:41660292): // now this is epic
+Sun Oct  7 02:40:30 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Pretty cool
+Sun Oct  7 02:42:20 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): What happens if i jump to the water?
+Sun Oct  7 02:43:28 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 02:43:32 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): W0t?
+Sun Oct  7 02:43:38 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 02:44:19 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): /a Wait you can change of job even if i just joined?
+Sun Oct  7 02:44:51 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 02:45:09 2018	SpookieArgieSkeleton was killed by Entity [0][worldspawn] with a unknown
+Sun Oct  7 02:45:10 2018	SpookieArgieSkeleton (STEAM_0:1:67076992) spawned
+Sun Oct  7 02:47:32 2018	Sirro (STEAM_0:1:72140646): /announce el test
+Sun Oct  7 02:48:01 2018	Mike (STEAM_0:1:41660292): 
+Sun Oct  7 02:50:51 2018	[Opi] Fat Gay (STEAM_0:1:218173703): !bring spook
+Sun Oct  7 02:50:58 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Heya
+Sun Oct  7 02:52:06 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): May we go to the shelter_
+Sun Oct  7 02:52:31 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): The temperature is rising
+Sun Oct  7 02:53:33 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): it is rising
+Sun Oct  7 02:53:42 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Sir!
+Sun Oct  7 02:53:48 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): The temperature is rising.
+Sun Oct  7 02:53:55 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Maybye we could go to the shelter_
+Sun Oct  7 02:53:57 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): ?...
+Sun Oct  7 02:55:31 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Let's go to the shelter...
+Sun Oct  7 02:56:39 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): I don't like the sound of this..
+Sun Oct  7 02:58:12 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Well that was kind of weird?
+Sun Oct  7 02:59:13 2018	SpookieArgieSkeleton (STEAM_0:1:67076992): Woah

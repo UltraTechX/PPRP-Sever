@@ -1,0 +1,2 @@
+[08:02:30] New map: rp_powerplant_v2b3
+[12:08:43] Client "Dr.Towers" connected.
